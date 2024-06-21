@@ -2,29 +2,35 @@
 #### .NET
 
 .NET Blog  
+<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2018/10/Microsoft-Favicon.png" width="16">
 https://devblogs.microsoft.com/dotnet/  
 
 Visual Studio Blog  
+<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2018/10/Microsoft-Favicon.png" width="16">
 https://devblogs.microsoft.com/visualstudio/  
 
 Visual Studio Magazine  
+<img src="https://visualstudiomagazine.com/design/ECG/VisualStudioMagazine/img/favicon-vsm.ico" width="16">
 https://visualstudiomagazine.com/Home.aspx  
 
 Learning center  
+<img src="https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png" width="16">
 https://dotnet.microsoft.com/en-us/learn  
 
 The Book of the Runtime  
+<img src="https://github.githubassets.com/favicons/favicon-dark.png" width="16">
 https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
 
-Threading in C# (Joseph Albahari)  
-https://www.albahari.com/threading/  
-
 .NET Source Browser  
+<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://source.dot.net/  
+<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://sourceroslyn.io/  
+<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://referencesource.microsoft.com/  
 
 CodeProject | The Insiders Archive  
+<img src="https://www.codeproject.com/favicon/favicon-16x16.png" width="16">
 https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
 
 * * *
@@ -54,6 +60,9 @@ https://microservices.io/
 * * *
 
 #### Blogs
+
+Threading in C# (Joseph Albahari)  
+https://www.albahari.com/threading/  
 
 Ayende Rahien  
 https://ayende.com/blog/  
