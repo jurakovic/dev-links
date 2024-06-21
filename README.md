@@ -1,36 +1,34 @@
 
 #### .NET
 
+![icon](./favicons/microsoft.png)
 .NET Blog  
-<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2018/10/Microsoft-Favicon.png" width="16">
 https://devblogs.microsoft.com/dotnet/  
 
+![icon](./favicons/microsoft.png)
 Visual Studio Blog  
-<img src="https://devblogs.microsoft.com/dotnet/wp-content/uploads/sites/10/2018/10/Microsoft-Favicon.png" width="16">
 https://devblogs.microsoft.com/visualstudio/  
 
+![icon](./favicons/vsm.png)
 Visual Studio Magazine  
-<img src="https://visualstudiomagazine.com/design/ECG/VisualStudioMagazine/img/favicon-vsm.ico" width="16">
 https://visualstudiomagazine.com/Home.aspx  
 
+![icon](./favicons/net.png)
 Learning center  
-<img src="https://dotnet.microsoft.com/blob-assets/images/dotnet-icons/square.png" width="16">
 https://dotnet.microsoft.com/en-us/learn  
 
+![icon](./favicons/github.png)
 The Book of the Runtime  
-<img src="https://github.githubassets.com/favicons/favicon-dark.png" width="16">
 https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
 
+![icon](./favicons/ms-net.png)
 .NET Source Browser  
-<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://source.dot.net/  
-<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://sourceroslyn.io/  
-<img src="https://referencesource.microsoft.com/content/icons/dotnet.png" width="16">
 https://referencesource.microsoft.com/  
 
+![icon](./favicons/codeproject.png)
 CodeProject | The Insiders Archive  
-<img src="https://www.codeproject.com/favicon/favicon-16x16.png" width="16">
 https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
 
 * * *
