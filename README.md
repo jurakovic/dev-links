@@ -92,39 +92,60 @@ https://developertoarchitect.com/lessons/
 Microservices.io | Chris Richardson  
 https://microservices.io  
 
-![icon](favicons/microsoft.png)
+![icon](favicons/github.png)
 Evolutionary Architecture by example  
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
 
 * * *
 
-
 ## Blogs
 
-![icon](favicons/codeproject.png)
-CodeProject | The Insiders Archive  
-https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+#### C# / .NET
 
-Steve Smith, Ardalis (.NET)  
-https://ardalis.com/blog  
+![icon](favicons/ardalis.png)
+Steve Smith, Ardalis  
+https://ardalis.com/category/software-development/  
 https://github.com/ardalis  
 
-Andrew Lock (.NET)  
-https://andrewlock.net/  
+![icon](favicons/hanselman.png)
+Scott Hanselman  
+https://www.hanselman.com/blog/  
+https://github.com/shanselman  
+
+![icon](favicons/andrewlock.png)
+Andrew Lock  
+https://andrewlock.net  
 https://github.com/andrewlock  
 
-Jon Skeet (.NET)  
-https://codeblog.jonskeet.uk/  
+![icon](favicons/wp.png)
+Jon Skeet  
+https://codeblog.jonskeet.uk  
 https://github.com/jskeet  
 
-Erik Ejlskov Jensen (SQL, EF)  
-https://erikej.github.io/  
+![icon](favicons/blank.png)
+Erik Ejlskov Jensen  
+https://erikej.github.io  
 https://github.com/ErikEJ  
+
+<!--
+Top .NET Developers & Contributors To Follow  
+https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow  
+-->
 
 #### General
 
+![icon](favicons/codeproject.png)
+CodeProject | The Insiders  
+https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+
+![icon](favicons/blogspot.png)
 The Art of Simplicity  
 https://bartwullems.blogspot.com/search/label/Architecture  
 
+![icon](favicons/lethain.png)
 Irrational Exuberance  
-https://lethain.com/  
+https://lethain.com  
+
+![icon](favicons/vadimkravcenko.png)
+Vadim Kravcenko CTO  
+https://vadimkravcenko.com/newsletter/#h-past-issues  
