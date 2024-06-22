@@ -1,6 +1,8 @@
 
 ## Posts
 
+** TODO **
+
 Things they didn’t teach you about Software Engineering  
 https://vadimkravcenko.com/shorts/things-they-didnt-teach-you/  
 

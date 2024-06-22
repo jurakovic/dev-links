@@ -3,8 +3,8 @@
 ├─ [.NET](#net)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-├─ [Blogs](#blogs)  
-└─ [Posts](POSTS.md)  
+└─ [Blogs](#blogs)  
+<!-- └─ [Posts](POSTS.md)  -->
 
 * * *
 
@@ -38,13 +38,30 @@ MSDN Magazine Archive
 https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues  
 -->
 
+![icon](favicons/microsoft.png)
+ASP.NET Core documentation  
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/  
+
 ![icon](favicons/github.png)
 The Book of the Runtime  
 https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
 
+![icon](favicons/microsoft.png)
+C# documentation  
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/  
+
+![icon](favicons/microsoft.png)
+C# language reference  
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types  
+
 * * *
 
 ## Design Guidelines
+
+![icon](favicons/microsoft.png)
+C# conventions  
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names  
+https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions  
 
 ![icon](favicons/microsoft.png)
 Framework Design Guidelines  
@@ -55,8 +72,10 @@ Library Guidance
 https://learn.microsoft.com/en-us/dotnet/standard/library-guidance/  
 
 ![icon](favicons/github.png)
-Microsoft REST API Guidelines  
-https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md  
+Microsoft Graph REST API Guidelines  
+https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md  
+https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md  
+https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design  
 
 ![icon](favicons/refactoring.png)
 Refactoring Guru  
