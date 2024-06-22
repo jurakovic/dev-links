@@ -100,10 +100,11 @@ https://github.com/evolutionary-architecture/evolutionary-architecture-by-exampl
 
 ## Blogs
 
-#### C# / .NET
+#### .NET
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
+https://ardalis.com/blog  
 https://ardalis.com/category/software-development/  
 https://github.com/ardalis  
 
@@ -113,7 +114,7 @@ https://www.hanselman.com/blog/
 https://github.com/shanselman  
 
 ![icon](favicons/andrewlock.png)
-Andrew Lock  
+Andrew Lock | .NET Escapades  
 https://andrewlock.net  
 https://github.com/andrewlock  
 
@@ -122,8 +123,13 @@ Jon Skeet
 https://codeblog.jonskeet.uk  
 https://github.com/jskeet  
 
+![icon](favicons/mattwarren.png)
+Matt Warren | Performance is a Feature!  
+https://mattwarren.org/  
+https://github.com/mattwarren/  
+
 ![icon](favicons/blank.png)
-Erik Ejlskov Jensen (EF, SQL)  
+Erik Ejlskov Jensen | .NET Data Access and more
 https://erikej.github.io  
 https://github.com/ErikEJ  
 
@@ -150,7 +156,19 @@ https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1
 
 ![icon](favicons/codinghorror.png)
 Jeff Etwood | Coding Horror  
-https://blog.codinghorror.com/  
+https://blog.codinghorror.com  
+
+![icon](favicons/joelonsoftware.png)
+Joel Spolsky | Joel on Software  
+https://www.joelonsoftware.com  
+
+![icon](favicons/neilonsoftware.png)
+Neil Feyn | Neil on Software (Podcast)  
+https://neilonsoftware.com  
+
+![icon](favicons/sizovs.png)
+Eduards Sizovs | The Principal Developer  
+https://sizovs.net  
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
@@ -160,14 +178,6 @@ https://bartwullems.blogspot.com/search/label/Architecture
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
-
-![icon](favicons/neilonsoftware.png)
-Neil Feyn | Neil on Software (Podcast)  
-https://neilonsoftware.com  
-
-![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software  
-https://www.joelonsoftware.com  
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
