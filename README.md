@@ -77,6 +77,10 @@ https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md
 https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md  
 https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design  
 
+![icon](favicons/microsoft.png)
+Cloud Design Patterns  
+https://learn.microsoft.com/en-us/azure/architecture/patterns/  
+
 ![icon](favicons/refactoring.png)
 Refactoring Guru  
 https://refactoring.guru/refactoring/catalog  
@@ -103,17 +107,17 @@ https://github.com/jasontaylordev/CleanArchitecture
 https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
+![icon](favicons/github.png)
+Evolutionary Architecture by example  
+https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+
 ![icon](favicons/markrichards.png)
-Software Developer To Software Architect  
+Software Developer To Software Architect | Mark Richards  
 https://developertoarchitect.com/lessons/  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
 https://microservices.io  
-
-![icon](favicons/github.png)
-Evolutionary Architecture by example  
-https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
 
 * * *
 
@@ -144,11 +148,11 @@ https://github.com/jskeet
 
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
-https://mattwarren.org/  
-https://github.com/mattwarren/  
+https://mattwarren.org  
+https://github.com/mattwarren  
 
 ![icon](favicons/blank.png)
-Erik Ejlskov Jensen | .NET Data Access and more
+Erik Ejlskov Jensen | .NET Data Access and more  
 https://erikej.github.io  
 https://github.com/ErikEJ  
 
@@ -159,7 +163,7 @@ https://github.com/jonhilt
 
 ![icon](favicons/mikesdotnetting.png)
 Mike Brind (Razor Pages, Blazor)  
-https://www.mikesdotnetting.com/  
+https://www.mikesdotnetting.com  
 https://github.com/mikebrind  
 
 <!--
