@@ -3,7 +3,7 @@
 ├─ [.NET](#net)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-├─ [Blogs](BLOGS.md)  
+├─ [Blogs](#blogs)  
 └─ [Posts](POSTS.md)  
 
 * * *
@@ -31,10 +31,6 @@ https://referencesource.microsoft.com
 ![icon](favicons/net.png)
 Learning center  
 https://dotnet.microsoft.com/en-us/learn  
-
-![icon](favicons/codeproject.png)
-CodeProject | The Insiders Archive  
-https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
 
 <!--
 ![icon](favicons/microsoft.png)
@@ -99,3 +95,36 @@ https://microservices.io
 ![icon](favicons/microsoft.png)
 Evolutionary Architecture by example  
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+
+* * *
+
+
+## Blogs
+
+![icon](favicons/codeproject.png)
+CodeProject | The Insiders Archive  
+https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+
+Steve Smith, Ardalis (.NET)  
+https://ardalis.com/blog  
+https://github.com/ardalis  
+
+Andrew Lock (.NET)  
+https://andrewlock.net/  
+https://github.com/andrewlock  
+
+Jon Skeet (.NET)  
+https://codeblog.jonskeet.uk/  
+https://github.com/jskeet  
+
+Erik Ejlskov Jensen (SQL, EF)  
+https://erikej.github.io/  
+https://github.com/ErikEJ  
+
+#### General
+
+The Art of Simplicity  
+https://bartwullems.blogspot.com/search/label/Architecture  
+
+Irrational Exuberance  
+https://lethain.com/  
