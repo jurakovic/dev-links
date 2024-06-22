@@ -123,9 +123,19 @@ https://codeblog.jonskeet.uk
 https://github.com/jskeet  
 
 ![icon](favicons/blank.png)
-Erik Ejlskov Jensen  
+Erik Ejlskov Jensen (EF, SQL)  
 https://erikej.github.io  
 https://github.com/ErikEJ  
+
+![icon](favicons/jonhilton.png)
+Jon Hilton (Blazor)  
+https://jonhilton.net/post/  
+https://github.com/jonhilt  
+
+![icon](favicons/mikesdotnetting.png)
+Mike Brind (Razor Pages, Blazor)  
+https://www.mikesdotnetting.com/  
+https://github.com/mikebrind  
 
 <!--
 Top .NET Developers & Contributors To Follow  
@@ -138,14 +148,31 @@ https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-fol
 CodeProject | The Insiders  
 https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
 
+![icon](favicons/codinghorror.png)
+Jeff Etwood | Coding Horror  
+https://blog.codinghorror.com/  
+
 ![icon](favicons/blogspot.png)
-The Art of Simplicity  
+Bart Wullems | The Art of Simplicity  
+https://bartwullems.blogspot.com/search/label/.NET  
 https://bartwullems.blogspot.com/search/label/Architecture  
 
+![icon](favicons/vadimkravcenko.png)
+Vadim Kravcenko | CTO  
+https://vadimkravcenko.com/newsletter/#h-past-issues  
+
+![icon](favicons/neilonsoftware.png)
+Neil Feyn | Neil on Software (Podcast)  
+https://neilonsoftware.com  
+
+![icon](favicons/joelonsoftware.png)
+Joel Spolsky | Joel on Software  
+https://www.joelonsoftware.com  
+
 ![icon](favicons/lethain.png)
-Irrational Exuberance  
+Will Larson | Irrational Exuberance  
 https://lethain.com  
 
-![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko CTO  
-https://vadimkravcenko.com/newsletter/#h-past-issues  
+![icon](favicons/effectiveengineer.png)
+Edmond Lau | The Effective Engineer  
+https://www.effectiveengineer.com/blog  
