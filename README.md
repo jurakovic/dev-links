@@ -52,7 +52,11 @@ https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr
 
 ![icon](favicons/microsoft.png)
 Framework Design Guidelines  
-https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/
+https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/  
+
+![icon](favicons/microsoft.png)
+Library Guidance  
+https://learn.microsoft.com/en-us/dotnet/standard/library-guidance/  
 
 ![icon](favicons/github.png)
 Microsoft REST API Guidelines  
@@ -71,10 +75,17 @@ https://refactoring.guru/design-patterns/catalog
 Azure Application Architecture Guide  
 https://learn.microsoft.com/en-us/azure/architecture/guide/  
 
+![icon](favicons/microsoft.png)
+.NET Architecture Guides (Books)  
+https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides  
+https://github.com/dotnet-architecture/eBooks/tree/main/current  
+<!--https://learn.microsoft.com/en-us/dotnet/architecture/  -->
+
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates  
 https://github.com/ardalis/CleanArchitecture  
 https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
 ![icon](favicons/markrichards.png)
