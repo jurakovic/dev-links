@@ -131,6 +131,28 @@ https://microservices.io
 
 ## Blogs & Sites
 
+<!--
+https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow  
+https://www.wearedevelopers.com/magazine/software-development-blogs
+https://tripleten.com/blog/posts/10-software-development-blogs-worth-bookmarking
+https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam
+-->
+
+#### Misc.
+
+![icon](favicons/codeproject.png)
+CodeProject | The Insiders  
+https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+
+![icon](favicons/hackernews.png)
+Hacker News  
+https://news.ycombinator.com/news  
+
+![icon](favicons/hackernoon.png)
+HackerNoon  
+https://hackernoon.com  
+
+
 #### .NET
 
 ![icon](favicons/ardalis.png)
@@ -174,16 +196,13 @@ Mike Brind (Razor Pages, Blazor)
 https://www.mikesdotnetting.com  
 https://github.com/mikebrind  
 
-<!--
-Top .NET Developers & Contributors To Follow  
-https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow  
--->
 
 #### General
 
-![icon](favicons/codeproject.png)
-CodeProject | The Insiders  
-https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+![icon](favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+https://nickcraver.com/blog/  
+https://github.com/NickCraver  
 
 ![icon](favicons/codinghorror.png)
 Jeff Etwood | Coding Horror  
@@ -192,11 +211,6 @@ https://blog.codinghorror.com
 ![icon](favicons/joelonsoftware.png)
 Joel Spolsky | Joel on Software  
 https://www.joelonsoftware.com  
-
-![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
-https://nickcraver.com/blog/  
-https://github.com/NickCraver  
 
 ![icon](favicons/neilonsoftware.png)
 Neil Feyn | Neil on Software (Podcast)  
@@ -215,6 +229,7 @@ https://bartwullems.blogspot.com/search/label/Architecture
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
 
+
 #### Leadership
 
 ![icon](favicons/lethain.png)
@@ -226,11 +241,8 @@ https://staffeng.com
 Edmond Lau | The Effective Engineer  
 https://www.effectiveengineer.com/blog  
 
-#### Other
 
-![icon](favicons/hackernoon.png)
-HackerNoon  
-https://hackernoon.com  
+#### Tech Blogs
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
