@@ -3,7 +3,7 @@
 ├─ [.NET](#net)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs)  
+└─ [Blogs](#blogs--sites)  
 <!-- └─ [Posts](POSTS.md)  -->
 
 * * *
@@ -54,6 +54,11 @@ https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 C# language reference  
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types  
 
+![icon](favicons/github.png)
+Awesome .NET / .NET Core  
+https://github.com/quozd/awesome-dotnet  
+https://github.com/thangchung/awesome-dotnet-core  
+
 * * *
 
 ## Design Guidelines
@@ -82,6 +87,10 @@ Cloud Design Patterns
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 
 ![icon](favicons/refactoring.png)
+Refactoring | Martin Fowler    
+https://refactoring.com  
+
+![icon](favicons/refactoringg.png)
 Refactoring Guru  
 https://refactoring.guru/refactoring/catalog  
 https://refactoring.guru/design-patterns/catalog  
@@ -111,6 +120,10 @@ https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/
 Evolutionary Architecture by example  
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
 
+![icon](favicons/martinfowler.png)
+Software Architecture Guide | Martin Fowler    
+https://martinfowler.com/architecture/  
+
 ![icon](favicons/markrichards.png)
 Software Developer To Software Architect | Mark Richards  
 https://developertoarchitect.com/lessons/  
@@ -121,7 +134,29 @@ https://microservices.io
 
 * * *
 
-## Blogs
+## Blogs & Sites
+
+<!--
+https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow  
+https://www.wearedevelopers.com/magazine/software-development-blogs
+https://tripleten.com/blog/posts/10-software-development-blogs-worth-bookmarking
+https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam
+-->
+
+#### Misc.
+
+![icon](favicons/codeproject.png)
+CodeProject | The Insiders  
+https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+
+![icon](favicons/hackernews.png)
+Hacker News  
+https://news.ycombinator.com/news  
+
+![icon](favicons/hackernoon.png)
+HackerNoon  
+https://hackernoon.com  
+
 
 #### .NET
 
@@ -166,16 +201,13 @@ Mike Brind (Razor Pages, Blazor)
 https://www.mikesdotnetting.com  
 https://github.com/mikebrind  
 
-<!--
-Top .NET Developers & Contributors To Follow  
-https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow  
--->
 
 #### General
 
-![icon](favicons/codeproject.png)
-CodeProject | The Insiders  
-https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1  
+![icon](favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+https://nickcraver.com/blog/  
+https://github.com/NickCraver  
 
 ![icon](favicons/codinghorror.png)
 Jeff Etwood | Coding Horror  
@@ -202,10 +234,29 @@ https://bartwullems.blogspot.com/search/label/Architecture
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
 
+
+#### Leadership
+
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
 https://lethain.com  
+https://staffeng.com  
 
 ![icon](favicons/effectiveengineer.png)
 Edmond Lau | The Effective Engineer  
 https://www.effectiveengineer.com/blog  
+
+
+#### Other
+
+![icon](favicons/stackoverflow.png)
+The Stack Overflow Blog: Engineering  
+https://stackoverflow.blog/engineering/  
+
+![icon](favicons/github.png)
+The GitHub Blog: Engineering  
+https://github.blog/category/engineering/  
+
+![icon](favicons/netflix.png)
+Netflix TechBlog  
+https://netflixtechblog.com  
