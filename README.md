@@ -129,7 +129,7 @@ https://microservices.io
 
 * * *
 
-## Blogs
+## Blogs & Sites
 
 #### .NET
 
@@ -193,6 +193,11 @@ https://blog.codinghorror.com
 Joel Spolsky | Joel on Software  
 https://www.joelonsoftware.com  
 
+![icon](favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+https://nickcraver.com/blog/  
+https://github.com/NickCraver  
+
 ![icon](favicons/neilonsoftware.png)
 Neil Feyn | Neil on Software (Podcast)  
 https://neilonsoftware.com  
@@ -210,10 +215,31 @@ https://bartwullems.blogspot.com/search/label/Architecture
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
 
+#### Leadership
+
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
 https://lethain.com  
+https://staffeng.com  
 
 ![icon](favicons/effectiveengineer.png)
 Edmond Lau | The Effective Engineer  
 https://www.effectiveengineer.com/blog  
+
+#### Other
+
+![icon](favicons/hackernoon.png)
+HackerNoon  
+https://hackernoon.com  
+
+![icon](favicons/stackoverflow.png)
+The Stack Overflow Blog: Engineering  
+https://stackoverflow.blog/engineering/  
+
+![icon](favicons/github.png)
+The GitHub Blog: Engineering  
+https://github.blog/category/engineering/  
+
+![icon](favicons/netflix.png)
+Netflix TechBlog  
+https://netflixtechblog.com  
