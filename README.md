@@ -54,6 +54,11 @@ https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 C# language reference  
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types  
 
+![icon](favicons/github.png)
+Awesome .NET / .NET Core  
+https://github.com/quozd/awesome-dotnet  
+https://github.com/thangchung/awesome-dotnet-core  
+
 * * *
 
 ## Design Guidelines
@@ -242,7 +247,7 @@ Edmond Lau | The Effective Engineer
 https://www.effectiveengineer.com/blog  
 
 
-#### Tech Blogs
+#### Other
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
