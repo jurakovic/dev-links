@@ -3,7 +3,7 @@
 ├─ [.NET](#net)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs)  
+└─ [Blogs](#blogs--sites)  
 <!-- └─ [Posts](POSTS.md)  -->
 
 * * *
