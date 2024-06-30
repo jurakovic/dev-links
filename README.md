@@ -82,6 +82,10 @@ Cloud Design Patterns
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 
 ![icon](favicons/refactoring.png)
+Refactoring | Martin Fowler    
+https://refactoring.com  
+
+![icon](favicons/refactoringg.png)
 Refactoring Guru  
 https://refactoring.guru/refactoring/catalog  
 https://refactoring.guru/design-patterns/catalog  
@@ -110,6 +114,10 @@ https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/
 ![icon](favicons/github.png)
 Evolutionary Architecture by example  
 https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+
+![icon](favicons/martinfowler.png)
+Software Architecture Guide | Martin Fowler    
+https://martinfowler.com/architecture/  
 
 ![icon](favicons/markrichards.png)
 Software Developer To Software Architect | Mark Richards  
