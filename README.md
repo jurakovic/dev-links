@@ -54,6 +54,10 @@ https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 C# language reference  
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types  
 
+![icon](favicons/blank.png)
+Threading in C# | Joseph Albahari  
+https://www.albahari.com/threading/  
+
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
 https://github.com/quozd/awesome-dotnet  
