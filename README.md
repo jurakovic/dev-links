@@ -46,6 +46,11 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/
 The Book of the Runtime  
 https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
 
+![icon](favicons/github.png)
+Awesome .NET / .NET Core  
+https://github.com/quozd/awesome-dotnet  
+https://github.com/thangchung/awesome-dotnet-core  
+
 ![icon](favicons/microsoft.png)
 C# documentation  
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/  
@@ -54,10 +59,9 @@ https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/
 C# language reference  
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types  
 
-![icon](favicons/github.png)
-Awesome .NET / .NET Core  
-https://github.com/quozd/awesome-dotnet  
-https://github.com/thangchung/awesome-dotnet-core  
+![icon](favicons/blank.png)
+Threading in C# | Joseph Albahari  
+https://www.albahari.com/threading/  
 
 * * *
 
@@ -86,6 +90,10 @@ https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 Cloud Design Patterns  
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 
+![icon](favicons/github.png)
+Reliable Web App pattern  
+https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/overview  
+
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler    
 https://refactoring.com  
@@ -110,18 +118,16 @@ https://github.com/dotnet-architecture/eBooks/tree/main/current
 <!--https://learn.microsoft.com/en-us/dotnet/architecture/  -->
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates  
+Clean Architecture Solution Templates / Project Samples  
 https://github.com/ardalis/CleanArchitecture  
 https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
 https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
-![icon](favicons/github.png)
-Evolutionary Architecture by example  
-https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
-
 ![icon](favicons/martinfowler.png)
-Software Architecture Guide | Martin Fowler    
+Software Architecture Guide | Martin Fowler  
 https://martinfowler.com/architecture/  
 
 ![icon](favicons/markrichards.png)
@@ -153,9 +159,15 @@ https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1
 Hacker News  
 https://news.ycombinator.com/news  
 
+<!--
 ![icon](favicons/hackernoon.png)
 HackerNoon  
 https://hackernoon.com  
+-->
+
+![icon](favicons/csharpdigest.png)
+C# Digest  
+https://newsletter.csharpdigest.net  
 
 
 #### .NET
@@ -175,6 +187,11 @@ https://github.com/shanselman
 Andrew Lock | .NET Escapades  
 https://andrewlock.net  
 https://github.com/andrewlock  
+
+![icon](favicons/haacked.png)
+Phil Haack | You've Been Haacked  
+https://haacked.com/archives/  
+https://github.com/haacked  
 
 ![icon](favicons/wp.png)
 Jon Skeet  
@@ -199,6 +216,8 @@ https://github.com/jonhilt
 ![icon](favicons/mikesdotnetting.png)
 Mike Brind (Razor Pages, Blazor)  
 https://www.mikesdotnetting.com  
+https://www.learnrazorpages.com  
+https://www.learnblazor.com  
 https://github.com/mikebrind  
 
 
@@ -247,7 +266,7 @@ Edmond Lau | The Effective Engineer
 https://www.effectiveengineer.com/blog  
 
 
-#### Other
+#### Tech Companies
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
