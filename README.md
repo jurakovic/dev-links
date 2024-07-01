@@ -204,6 +204,8 @@ https://github.com/jonhilt
 ![icon](favicons/mikesdotnetting.png)
 Mike Brind (Razor Pages, Blazor)  
 https://www.mikesdotnetting.com  
+https://www.learnrazorpages.com  
+https://www.learnblazor.com  
 https://github.com/mikebrind  
 
 
