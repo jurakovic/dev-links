@@ -86,6 +86,10 @@ https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design
 Cloud Design Patterns  
 https://learn.microsoft.com/en-us/azure/architecture/patterns/  
 
+![icon](favicons/github.png)
+Reliable Web App pattern  
+https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/overview  
+
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler    
 https://refactoring.com  
