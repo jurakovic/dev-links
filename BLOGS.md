@@ -1,9 +1,6 @@
 
 #### Blogs backup
 
-Threading in C# (Joseph Albahari)  
-https://www.albahari.com/threading/  
-
 Ayende Rahien  
 https://ayende.com/blog/  
 
