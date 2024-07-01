@@ -110,9 +110,10 @@ https://github.com/dotnet-architecture/eBooks/tree/main/current
 <!--https://learn.microsoft.com/en-us/dotnet/architecture/  -->
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates  
+Clean Architecture Solution Templates / Project Samples  
 https://github.com/ardalis/CleanArchitecture  
 https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
 https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
