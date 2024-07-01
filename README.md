@@ -254,7 +254,7 @@ Edmond Lau | The Effective Engineer
 https://www.effectiveengineer.com/blog  
 
 
-#### Other
+#### Tech Companies
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
