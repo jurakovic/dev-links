@@ -121,16 +121,13 @@ https://github.com/dotnet-architecture/eBooks/tree/main/current
 Clean Architecture Solution Templates / Project Samples  
 https://github.com/ardalis/CleanArchitecture  
 https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
 https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
 https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
-![icon](favicons/github.png)
-Evolutionary Architecture by example  
-https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
-
 ![icon](favicons/martinfowler.png)
-Software Architecture Guide | Martin Fowler    
+Software Architecture Guide | Martin Fowler  
 https://martinfowler.com/architecture/  
 
 ![icon](favicons/markrichards.png)
@@ -162,9 +159,11 @@ https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1
 Hacker News  
 https://news.ycombinator.com/news  
 
+<!--
 ![icon](favicons/hackernoon.png)
 HackerNoon  
 https://hackernoon.com  
+-->
 
 
 #### .NET
