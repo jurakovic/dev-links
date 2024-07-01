@@ -165,6 +165,10 @@ HackerNoon
 https://hackernoon.com  
 -->
 
+![icon](favicons/csharpdigest.png)
+C# Digest  
+https://newsletter.csharpdigest.net  
+
 
 #### .NET
 
