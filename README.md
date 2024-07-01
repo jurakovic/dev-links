@@ -188,6 +188,11 @@ Andrew Lock | .NET Escapades
 https://andrewlock.net  
 https://github.com/andrewlock  
 
+![icon](favicons/haacked.png)
+Phil Haack | You've Been Haacked  
+https://haacked.com/archives/  
+https://github.com/haacked  
+
 ![icon](favicons/wp.png)
 Jon Skeet  
 https://codeblog.jonskeet.uk  
