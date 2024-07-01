@@ -46,6 +46,11 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/
 The Book of the Runtime  
 https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
 
+![icon](favicons/github.png)
+Awesome .NET / .NET Core  
+https://github.com/quozd/awesome-dotnet  
+https://github.com/thangchung/awesome-dotnet-core  
+
 ![icon](favicons/microsoft.png)
 C# documentation  
 https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/  
@@ -57,11 +62,6 @@ https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types
 ![icon](favicons/blank.png)
 Threading in C# | Joseph Albahari  
 https://www.albahari.com/threading/  
-
-![icon](favicons/github.png)
-Awesome .NET / .NET Core  
-https://github.com/quozd/awesome-dotnet  
-https://github.com/thangchung/awesome-dotnet-core  
 
 * * *
 
