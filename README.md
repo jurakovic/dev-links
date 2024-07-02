@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/
 
 ![icon](favicons/github.png)
 The Book of the Runtime  
-https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
+https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
