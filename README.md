@@ -203,6 +203,11 @@ Jon Skeet
 https://codeblog.jonskeet.uk  
 https://github.com/jskeet  
 
+![icon](favicons/steven-giesel.png)
+Steven Giesel  
+https://steven-giesel.com/archive  
+https://github.com/linkdotnet  
+
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
 https://mattwarren.org  
