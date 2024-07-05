@@ -44,7 +44,7 @@ https://learn.microsoft.com/en-us/aspnet/core/fundamentals/
 
 ![icon](favicons/github.png)
 The Book of the Runtime  
-https://github.com/dotnet/runtime/tree/main/docs/design/coreclr/botr  
+https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
@@ -188,6 +188,11 @@ Andrew Lock | .NET Escapades
 https://andrewlock.net  
 https://github.com/andrewlock  
 
+![icon](favicons/stephencleary.png)
+Stephen Cleary  
+https://blog.stephencleary.com  
+https://github.com/StephenCleary  
+
 ![icon](favicons/haacked.png)
 Phil Haack | You've Been Haacked  
 https://haacked.com/archives/  
@@ -197,6 +202,11 @@ https://github.com/haacked
 Jon Skeet  
 https://codeblog.jonskeet.uk  
 https://github.com/jskeet  
+
+![icon](favicons/steven-giesel.png)
+Steven Giesel  
+https://steven-giesel.com/archive  
+https://github.com/linkdotnet  
 
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
@@ -237,8 +247,8 @@ Joel Spolsky | Joel on Software
 https://www.joelonsoftware.com  
 
 ![icon](favicons/neilonsoftware.png)
-Neil Feyn | Neil on Software (Podcast)  
-https://neilonsoftware.com  
+Neil Green | Neil on Software (Podcast)  
+https://neilonsoftware.com/articles/  
 
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
