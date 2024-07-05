@@ -247,8 +247,8 @@ Joel Spolsky | Joel on Software
 https://www.joelonsoftware.com  
 
 ![icon](favicons/neilonsoftware.png)
-Neil Feyn | Neil on Software (Podcast)  
-https://neilonsoftware.com  
+Neil Green | Neil on Software (Podcast)  
+https://neilonsoftware.com/articles/  
 
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
