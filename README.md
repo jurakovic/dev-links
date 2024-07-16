@@ -263,6 +263,10 @@ https://bartwullems.blogspot.com/search/label/Architecture
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
 
+![icon](favicons/thecodist.png)
+Andrew Wulf | The Codist  
+https://thecodist.com  
+
 
 #### Leadership
 
