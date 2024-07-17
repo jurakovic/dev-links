@@ -259,6 +259,10 @@ Bart Wullems | The Art of Simplicity
 https://bartwullems.blogspot.com/search/label/.NET  
 https://bartwullems.blogspot.com/search/label/Architecture  
 
+![icon](favicons/pragmaticengineer.png)
+Gergely Orosz | The Pragmatic Engineer  
+https://blog.pragmaticengineer.com  
+
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
