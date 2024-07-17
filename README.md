@@ -298,6 +298,10 @@ https://stackoverflow.blog/engineering/
 The GitHub Blog: Engineering  
 https://github.blog/category/engineering/  
 
+![icon](favicons/github.png)
+The ReadME Project: Guides  
+https://github.com/readme/guides  
+
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
 https://netflixtechblog.com  
