@@ -109,22 +109,11 @@ https://refactoring.guru/design-patterns/catalog
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Guide  
-https://learn.microsoft.com/en-us/azure/architecture/guide/  
+https://learn.microsoft.com/en-us/azure/architecture/guide/ ([books #1](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [books #2](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
 
 ![icon](favicons/microsoft.png)
-.NET Architecture Guides (Books)  
-https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides  
-https://github.com/dotnet-architecture/eBooks/tree/main/current  
-<!--https://learn.microsoft.com/en-us/dotnet/architecture/  -->
-
-![icon](favicons/github.png)
-Clean Architecture Solution Templates / Project Samples  
-https://github.com/ardalis/CleanArchitecture  
-https://github.com/jasontaylordev/CleanArchitecture  
-https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
-https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
-https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
-https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
+Microservices Architecture Design  
+https://learn.microsoft.com/en-us/azure/architecture/microservices/  
 
 ![icon](favicons/martinfowler.png)
 Software Architecture Guide | Martin Fowler  
@@ -137,6 +126,15 @@ https://developertoarchitect.com/lessons/
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
 https://microservices.io  
+
+![icon](favicons/github.png)
+Clean Architecture Solution Templates / Project Samples  
+https://github.com/ardalis/CleanArchitecture  
+https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
+https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
+https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
 * * *
 
