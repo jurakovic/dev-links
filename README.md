@@ -167,10 +167,11 @@ https://hackernoon.com
 The New Stack  
 https://thenewstack.io/software-development/  
 
+<!--
 ![icon](favicons/csharpdigest.png)
 C# Digest  
 https://newsletter.csharpdigest.net  
-
+-->
 
 #### .NET
 
