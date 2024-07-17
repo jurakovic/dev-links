@@ -165,6 +165,10 @@ HackerNoon
 https://hackernoon.com  
 -->
 
+![icon](favicons/thenewstack.png)
+The New Stack  
+https://thenewstack.io/software-development/  
+
 ![icon](favicons/csharpdigest.png)
 C# Digest  
 https://newsletter.csharpdigest.net  
