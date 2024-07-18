@@ -22,25 +22,29 @@ https://devblogs.microsoft.com/visualstudio/
 Visual Studio Magazine  
 https://visualstudiomagazine.com/Home.aspx  
 
+![icon](favicons/microsoft.png)
+ASP.NET Core documentation  
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/  
+
+![icon](favicons/apisofnet.png)
+.NET API Catalog  
+https://apisof.net/catalog  
+
 ![icon](favicons/ms-net.png)
 .NET Source Browser  
 https://source.dot.net  
 https://sourceroslyn.io  
 https://referencesource.microsoft.com  
 
+<!--
 ![icon](favicons/net.png)
 Learning center  
 https://dotnet.microsoft.com/en-us/learn  
 
-<!--
 ![icon](favicons/microsoft.png)
 MSDN Magazine Archive  
 https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues  
 -->
-
-![icon](favicons/microsoft.png)
-ASP.NET Core documentation  
-https://learn.microsoft.com/en-us/aspnet/core/fundamentals/  
 
 ![icon](favicons/github.png)
 The Book of the Runtime  
@@ -109,22 +113,11 @@ https://refactoring.guru/design-patterns/catalog
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Guide  
-https://learn.microsoft.com/en-us/azure/architecture/guide/  
+https://learn.microsoft.com/en-us/azure/architecture/guide/ ([books #1](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [books #2](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
 
 ![icon](favicons/microsoft.png)
-.NET Architecture Guides (Books)  
-https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides  
-https://github.com/dotnet-architecture/eBooks/tree/main/current  
-<!--https://learn.microsoft.com/en-us/dotnet/architecture/  -->
-
-![icon](favicons/github.png)
-Clean Architecture Solution Templates / Project Samples  
-https://github.com/ardalis/CleanArchitecture  
-https://github.com/jasontaylordev/CleanArchitecture  
-https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
-https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
-https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
-https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
+Microservices Architecture Design  
+https://learn.microsoft.com/en-us/azure/architecture/microservices/  
 
 ![icon](favicons/martinfowler.png)
 Software Architecture Guide | Martin Fowler  
@@ -137,6 +130,15 @@ https://developertoarchitect.com/lessons/
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
 https://microservices.io  
+
+![icon](favicons/github.png)
+Clean Architecture Solution Templates / Project Samples  
+https://github.com/ardalis/CleanArchitecture  
+https://github.com/jasontaylordev/CleanArchitecture  
+https://github.com/evolutionary-architecture/evolutionary-architecture-by-example  
+https://github.com/dotnet/eShop ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
+https://github.com/Youbiquitous/project-renoir ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
+https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/  
 
 * * *
 
@@ -165,10 +167,15 @@ HackerNoon
 https://hackernoon.com  
 -->
 
+![icon](favicons/thenewstack.png)
+The New Stack  
+https://thenewstack.io/software-development/  
+
+<!--
 ![icon](favicons/csharpdigest.png)
 C# Digest  
 https://newsletter.csharpdigest.net  
-
+-->
 
 #### .NET
 
@@ -259,9 +266,17 @@ Bart Wullems | The Art of Simplicity
 https://bartwullems.blogspot.com/search/label/.NET  
 https://bartwullems.blogspot.com/search/label/Architecture  
 
+![icon](favicons/pragmaticengineer.png)
+Gergely Orosz | The Pragmatic Engineer  
+https://blog.pragmaticengineer.com  
+
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 https://vadimkravcenko.com/newsletter/#h-past-issues  
+
+![icon](favicons/thecodist.png)
+Andrew Wulf | The Codist  
+https://thecodist.com  
 
 
 #### Leadership
@@ -285,6 +300,10 @@ https://stackoverflow.blog/engineering/
 ![icon](favicons/github.png)
 The GitHub Blog: Engineering  
 https://github.blog/category/engineering/  
+
+![icon](favicons/github.png)
+The ReadME Project: Guides  
+https://github.com/readme/guides  
 
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
