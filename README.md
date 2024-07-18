@@ -22,25 +22,29 @@ https://devblogs.microsoft.com/visualstudio/
 Visual Studio Magazine  
 https://visualstudiomagazine.com/Home.aspx  
 
+![icon](favicons/microsoft.png)
+ASP.NET Core documentation  
+https://learn.microsoft.com/en-us/aspnet/core/fundamentals/  
+
+![icon](favicons/apisofnet.png)
+.NET API Catalog  
+https://apisof.net/catalog  
+
 ![icon](favicons/ms-net.png)
 .NET Source Browser  
 https://source.dot.net  
 https://sourceroslyn.io  
 https://referencesource.microsoft.com  
 
+<!--
 ![icon](favicons/net.png)
 Learning center  
 https://dotnet.microsoft.com/en-us/learn  
 
-<!--
 ![icon](favicons/microsoft.png)
 MSDN Magazine Archive  
 https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues  
 -->
-
-![icon](favicons/microsoft.png)
-ASP.NET Core documentation  
-https://learn.microsoft.com/en-us/aspnet/core/fundamentals/  
 
 ![icon](favicons/github.png)
 The Book of the Runtime  
