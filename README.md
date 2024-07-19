@@ -107,6 +107,10 @@ Refactoring Guru
 https://refactoring.guru/refactoring/catalog  
 https://refactoring.guru/design-patterns/catalog  
 
+![icon](favicons/deviq.png)
+Design Patterns  
+https://deviq.com/design-patterns/design-patterns-overview  
+
 * * *
 
 ## Architecture
