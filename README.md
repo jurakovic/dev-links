@@ -113,7 +113,12 @@ https://refactoring.guru/design-patterns/catalog
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Guide  
-https://learn.microsoft.com/en-us/azure/architecture/guide/ ([books #1](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [books #2](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
+https://learn.microsoft.com/en-us/azure/architecture/guide/  
+
+![icon](favicons/microsoft.png)
+.NET Architecture Guides ([books](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [archives](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
+https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/ ([book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf))  
+https://learn.microsoft.com/en-us/dotnet/architecture/microservices/ ([book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf))  
 
 ![icon](favicons/microsoft.png)
 Microservices Architecture Design  
