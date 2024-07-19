@@ -49,6 +49,7 @@ https://learn.microsoft.com/en-us/archive/msdn-magazine/msdn-magazine-issues
 ![icon](favicons/github.png)
 The Book of the Runtime  
 https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md  
+https://jurakovic.github.io/runtime/ ([github](https://github.com/jurakovic/runtime))  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
