@@ -1,5 +1,1 @@
-remote_theme: abhinavs/moonwalk
-
-theme_config:
-  appearance: "dark"
-  appearance_toggle: true
+theme: jekyll-theme-cayman
