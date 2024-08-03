@@ -1,2 +1,26 @@
-remote_theme: jurakovic/cayman-dark
-google_analytics: G-233EMZJM16
+#plugins:
+#  - jekyll-remote-theme
+
+
+#remote_theme: jurakovic/cayman-dark
+#google_analytics: G-233EMZJM16
+
+
+
+#plugins:
+#  - jekyll-remote-theme
+#
+#remote_theme: ../theme
+
+
+
+
+#theme: jekyll-theme-cayman
+
+
+
+
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
