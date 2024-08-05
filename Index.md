@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 **dev-links**  
 ├─ [.NET](#net)  
