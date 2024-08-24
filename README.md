@@ -272,6 +272,11 @@ Joel Spolsky | Joel on Software
 Neil Green | Neil on Software (Podcast)  
 <https://neilonsoftware.com/articles/>  
 
+![icon](favicons/brendangregg.png)
+Brendan Gregg | Systems Performance  
+<https://www.brendangregg.com/blog/>
+<https://github.com/brendangregg>
+
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
