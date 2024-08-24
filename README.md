@@ -225,6 +225,11 @@ Steven Giesel
 <https://steven-giesel.com/archive>  
 <https://github.com/linkdotnet>  
 
+![icon](favicons/blank.png)
+Adam Sitnik | .NET Performance and Reliability  
+<https://adamsitnik.com>  
+<https://github.com/adamsitnik>  
+
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
