@@ -21,3 +21,7 @@ https://blog.ndepend.com/
 
 Medium | dotnet  
 https://medium.com/tag/dotnet  
+
+https://matt.sh  
+https://blog.kronis.dev  
+https://jimmyhmiller.github.io  
