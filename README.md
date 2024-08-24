@@ -274,8 +274,8 @@ Neil Green | Neil on Software (Podcast)
 
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
-<https://www.brendangregg.com/blog/>
-<https://github.com/brendangregg>
+<https://www.brendangregg.com/blog/>  
+<https://github.com/brendangregg>  
 
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
