@@ -121,7 +121,7 @@ Azure Application Architecture Guide
 <https://learn.microsoft.com/en-us/azure/architecture/guide/>  
 
 ![icon](favicons/microsoft.png)
-.NET Architecture Guides ([books](<https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [archives](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
+.NET Architecture Guides ([books](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides), [archives](https://github.com/dotnet-architecture/eBooks/tree/main/current))  
 <https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/> ([book](https://dotnet.microsoft.com/en-us/download/e-book/aspnet/pdf))  
 <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/> ([book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf))  
 
@@ -170,6 +170,14 @@ CodeProject | The Insiders
 ![icon](favicons/hackernews.png)
 Hacker News  
 <https://news.ycombinator.com/news>  
+
+![icon](favicons/lobsters.png)
+Lobsters  
+<https://lobste.rs>  
+
+![icon](favicons/reddit.png)
+r/programming  
+<https://www.reddit.com/r/programming/>  
 
 <!--
 ![icon](favicons/hackernoon.png)
@@ -225,6 +233,11 @@ Steven Giesel
 <https://steven-giesel.com/archive>  
 <https://github.com/linkdotnet>  
 
+![icon](favicons/blank.png)
+Adam Sitnik | .NET Performance and Reliability  
+<https://adamsitnik.com>  
+<https://github.com/adamsitnik>  
+
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
@@ -266,6 +279,11 @@ Joel Spolsky | Joel on Software
 ![icon](favicons/neilonsoftware.png)
 Neil Green | Neil on Software (Podcast)  
 <https://neilonsoftware.com/articles/>  
+
+![icon](favicons/brendangregg.png)
+Brendan Gregg | Systems Performance  
+<https://www.brendangregg.com/blog/>  
+<https://github.com/brendangregg>  
 
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
