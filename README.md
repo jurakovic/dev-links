@@ -175,6 +175,10 @@ Hacker News
 Lobsters  
 <https://lobste.rs>  
 
+![icon](favicons/reddit.png)
+r/programming  
+<https://www.reddit.com/r/programming/>  
+
 <!--
 ![icon](favicons/hackernoon.png)
 HackerNoon  
