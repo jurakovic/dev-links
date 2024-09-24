@@ -228,6 +228,11 @@ Jon Skeet
 <https://codeblog.jonskeet.uk>  
 <https://github.com/jskeet>  
 
+![icon](favicons/jimmybogard.png)
+Jimmy Bogard  
+<https://www.jimmybogard.com>  
+<https://github.com/jbogard>  
+
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
 <https://steven-giesel.com/archive>  
