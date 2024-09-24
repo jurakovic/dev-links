@@ -145,9 +145,12 @@ Microservices.io | Chris Richardson
 Clean Architecture Solution Templates / Project Samples  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
+<https://github.com/fullstackhero/dotnet-starter-kit>  
+<https://github.com/ivanpaulovich/clean-architecture-manga>  
 <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
 <https://github.com/dotnet/eShop> ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
 <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
+<https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
 <https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
 
 * * *
@@ -218,15 +221,15 @@ Stephen Cleary
 <https://blog.stephencleary.com>  
 <https://github.com/StephenCleary>  
 
-![icon](favicons/haacked.png)
-Phil Haack | You've Been Haacked  
-<https://haacked.com/archives/>  
-<https://github.com/haacked>  
-
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
 <https://github.com/jskeet>  
+
+![icon](favicons/jimmybogard.png)
+Jimmy Bogard  
+<https://www.jimmybogard.com>  
+<https://github.com/jbogard>  
 
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
@@ -242,6 +245,11 @@ Adam Sitnik | .NET Performance and Reliability
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
+
+![icon](favicons/haacked.png)
+Phil Haack | You've Been Haacked  
+<https://haacked.com/archives/>  
+<https://github.com/haacked>  
 
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
