@@ -218,11 +218,6 @@ Stephen Cleary
 <https://blog.stephencleary.com>  
 <https://github.com/StephenCleary>  
 
-![icon](favicons/haacked.png)
-Phil Haack | You've Been Haacked  
-<https://haacked.com/archives/>  
-<https://github.com/haacked>  
-
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
@@ -247,6 +242,11 @@ Adam Sitnik | .NET Performance and Reliability
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
+
+![icon](favicons/haacked.png)
+Phil Haack | You've Been Haacked  
+<https://haacked.com/archives/>  
+<https://github.com/haacked>  
 
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
