@@ -145,6 +145,7 @@ Microservices.io | Chris Richardson
 Clean Architecture Solution Templates / Project Samples  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
+<https://github.com/fullstackhero/dotnet-starter-kit>  
 <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
 <https://github.com/dotnet/eShop> ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
 <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
