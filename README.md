@@ -8,6 +8,10 @@
 
 * * *
 
+*Some documentation links point just to the introduction or overview page. For the rest of the documentation, use site navigation.*
+
+* * *
+
 ## .NET
 
 ![icon](favicons/microsoft.png)
@@ -95,7 +99,7 @@ Microsoft Graph REST API Guidelines
 Cloud Design Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
 
-![icon](favicons/github.png)
+![icon](favicons/microsoft.png)
 Reliable Web App pattern  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/overview>  
 
