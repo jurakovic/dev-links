@@ -8,6 +8,10 @@
 
 * * *
 
+*Some documentation links point just to the introduction or overview page. For the rest of the documentation, use site navigation.*
+
+* * *
+
 ## .NET
 
 ![icon](favicons/microsoft.png)
