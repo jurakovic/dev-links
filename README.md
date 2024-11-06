@@ -170,9 +170,11 @@ Clean Architecture Solution Templates / Project Samples
 
 #### Misc.
 
+<!--
 ![icon](favicons/codeproject.png)
 CodeProject | The Insiders  
 <https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1>  
+-->
 
 ![icon](favicons/hackernews.png)
 Hacker News  
