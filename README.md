@@ -72,11 +72,10 @@ C# language reference
 Threading in C# | Joseph Albahari  
 <https://www.albahari.com/threading/>  
 
-![icon](favicons/blank.png)
+![icon](favicons/csharpindepth.png)
 C# in Depth | Jon Skeet  
 <https://csharpindepth.com/articles/>  
 <https://jonskeet.uk/csharp/>  
-
 
 * * *
 
