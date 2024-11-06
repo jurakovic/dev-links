@@ -72,6 +72,12 @@ C# language reference
 Threading in C# | Joseph Albahari  
 <https://www.albahari.com/threading/>  
 
+![icon](favicons/blank.png)
+C# in Depth | Jon Skeet  
+<https://csharpindepth.com/articles/>  
+<https://jonskeet.uk/csharp/>  
+
+
 * * *
 
 ## Design Guidelines
@@ -230,7 +236,6 @@ Stephen Cleary
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
-<https://jonskeet.uk/csharp/>  
 <https://github.com/jskeet>  
 
 ![icon](favicons/jimmybogard.png)
