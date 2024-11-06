@@ -230,6 +230,7 @@ Stephen Cleary
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
+<https://jonskeet.uk/csharp/>  
 <https://github.com/jskeet>  
 
 ![icon](favicons/jimmybogard.png)
