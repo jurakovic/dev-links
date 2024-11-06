@@ -127,7 +127,7 @@ Design Patterns
 ## Architecture
 
 ![icon](favicons/microsoft.png)
-Azure Application Architecture Guide  
+Azure Application Architecture Fundamentals  
 <https://learn.microsoft.com/en-us/azure/architecture/guide/>  
 
 ![icon](favicons/microsoft.png)
