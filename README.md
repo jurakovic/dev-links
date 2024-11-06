@@ -72,6 +72,11 @@ C# language reference
 Threading in C# | Joseph Albahari  
 <https://www.albahari.com/threading/>  
 
+![icon](favicons/csharpindepth.png)
+C# in Depth | Jon Skeet  
+<https://csharpindepth.com/articles/>  
+<https://jonskeet.uk/csharp/>  
+
 * * *
 
 ## Design Guidelines
@@ -100,8 +105,8 @@ Cloud Design Patterns
 <https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
 
 ![icon](favicons/microsoft.png)
-Reliable Web App pattern  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/reliable-web-app/overview>  
+Enterprise Web App Patterns  
+<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler    
@@ -121,7 +126,7 @@ Design Patterns
 ## Architecture
 
 ![icon](favicons/microsoft.png)
-Azure Application Architecture Guide  
+Azure Application Architecture Fundamentals  
 <https://learn.microsoft.com/en-us/azure/architecture/guide/>  
 
 ![icon](favicons/microsoft.png)
@@ -153,6 +158,7 @@ Clean Architecture Solution Templates / Project Samples
 <https://github.com/ivanpaulovich/clean-architecture-manga>  
 <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
 <https://github.com/dotnet/eShop> ([eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev), [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb))  
+<https://github.com/dotnet/eShopSupport>  
 <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 <https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
 <https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
@@ -170,9 +176,11 @@ Clean Architecture Solution Templates / Project Samples
 
 #### Misc.
 
+<!--
 ![icon](favicons/codeproject.png)
 CodeProject | The Insiders  
 <https://www.codeproject.com/script/Mailouts/Archive.aspx?mtpid=4&pgnum=1>  
+-->
 
 ![icon](favicons/hackernews.png)
 Hacker News  
