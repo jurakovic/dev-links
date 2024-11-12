@@ -148,7 +148,11 @@ Software Developer To Software Architect | Mark Richards
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
-<https://microservices.io>  
+<https://microservices.io>
+
+![icon](favicons/github.png)
+Awesome Software Architecture  
+<https://github.com/mehdihadeli/awesome-software-architecture>  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Project Examples  
