@@ -151,7 +151,7 @@ Microservices.io | Chris Richardson
 <https://microservices.io>  
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates / Project Samples  
+Clean Architecture Solution Templates / Project Examples  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/fullstackhero/dotnet-starter-kit>  
