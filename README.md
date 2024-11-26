@@ -8,7 +8,7 @@
 
 * * *
 
-*Some documentation links point just to the introduction or overview page. For the rest of the documentation use site navigation.*
+*Some documentation links point just to the introduction or overview page. For the rest of documentation use the site navigation.*
 
 * * *
 
@@ -155,7 +155,7 @@ Software Architect Roadmap
 <https://roadmap.sh/software-architect>  
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates / Project Examples  
+Clean Architecture Solution Templates / Reference Applications  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/fullstackhero/dotnet-starter-kit>  
