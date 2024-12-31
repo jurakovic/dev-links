@@ -274,6 +274,7 @@ Phil Haack | You've Been Haacked
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
 <https://erikej.github.io>  
+<https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
 ![icon](favicons/jonhilton.png)
