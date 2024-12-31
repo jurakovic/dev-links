@@ -54,7 +54,7 @@ MSDN Magazine Archive
 ![icon](favicons/github.png)
 The Book of the Runtime  
 <https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md>  
-<https://jurakovic.github.io/runtime/> ([github](https://github.com/jurakovic/runtime))  
+<https://jurakovic.github.io/runtime/> ([GitHub](https://github.com/jurakovic/runtime))  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
@@ -84,16 +84,16 @@ C# in Depth | Jon Skeet
 
 ![icon](favicons/microsoft.png)
 Engineering Fundamentals Playbook  
-<https://microsoft.github.io/code-with-engineering-playbook/> ([github](https://github.com/microsoft/code-with-engineering-playbook/))  
+<https://microsoft.github.io/code-with-engineering-playbook/> ([GitHub](https://github.com/microsoft/code-with-engineering-playbook/))  
 
 ![icon](favicons/trunkbaseddevelopment.png)
-Trunk Based Development    
-<https://trunkbaseddevelopment.com/> ([github](https://github.com/paul-hammant/tbd))  
+Trunk Based Development  
+<https://trunkbaseddevelopment.com/> ([GitHub](https://github.com/paul-hammant/tbd))  
 
 ![icon](favicons/12factor.png)
 The Twelve-Factor Manifesto  
 <https://github.com/twelve-factor/twelve-factor>  
-<https://www.12factor.net> ([github](https://github.com/heroku/12factor))  
+<https://www.12factor.net> ([GitHub](https://github.com/heroku/12factor))  
 
 ![icon](favicons/blank.png)
 Producing Open Source Software  
@@ -135,7 +135,7 @@ Enterprise Web App Patterns
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/refactoring.png)
-Refactoring | Martin Fowler    
+Refactoring | Martin Fowler  
 <https://refactoring.com>  
 
 ![icon](favicons/refactoringg.png)
