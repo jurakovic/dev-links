@@ -99,6 +99,10 @@ The Twelve-Factor Manifesto
 Producing Open Source Software  
 <https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
 
+![icon](favicons/minifesto.png)
+Manifesto for Minimalist Software Engineers  
+<http://minifesto.org>  
+
 * * *
 
 ## Design Guidelines
