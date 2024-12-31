@@ -108,6 +108,10 @@ Cloud Design Patterns
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
+![icon](favicons/microsoft.png)
+Engineering Fundamentals Playbook  
+<https://microsoft.github.io/code-with-engineering-playbook/>  
+
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler    
 <https://refactoring.com>  
