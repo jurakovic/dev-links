@@ -202,6 +202,10 @@ Lobsters
 r/programming  
 <https://www.reddit.com/r/programming/>  
 
+![icon](favicons/infoq.png)
+InfoQ  
+<https://www.infoq.com/news/>, [/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/)  
+
 <!--
 ![icon](favicons/hackernoon.png)
 HackerNoon  
