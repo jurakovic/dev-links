@@ -90,6 +90,11 @@ Engineering Fundamentals Playbook
 Trunk Based Development    
 <https://trunkbaseddevelopment.com/> ([github](https://github.com/paul-hammant/tbd))  
 
+![icon](favicons/12factor.png)
+The Twelve-Factor Manifesto  
+<https://github.com/twelve-factor/twelve-factor>  
+<https://www.12factor.net> ([github](https://github.com/heroku/12factor))  
+
 * * *
 
 ## Design Guidelines
