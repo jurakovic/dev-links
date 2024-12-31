@@ -1,6 +1,7 @@
 
 **dev-links**  
 ├─ [.NET](#net)  
+├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
@@ -79,6 +80,18 @@ C# in Depth | Jon Skeet
 
 * * *
 
+## Development
+
+![icon](favicons/microsoft.png)
+Engineering Fundamentals Playbook  
+<https://microsoft.github.io/code-with-engineering-playbook/> ([github](https://github.com/microsoft/code-with-engineering-playbook/))  
+
+![icon](favicons/trunkbaseddevelopment.png)
+Trunk Based Development    
+<https://trunkbaseddevelopment.com/> ([github](https://github.com/paul-hammant/tbd))  
+
+* * *
+
 ## Design Guidelines
 
 ![icon](favicons/microsoft.png)
@@ -107,10 +120,6 @@ Cloud Design Patterns
 ![icon](favicons/microsoft.png)
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
-
-![icon](favicons/microsoft.png)
-Engineering Fundamentals Playbook  
-<https://microsoft.github.io/code-with-engineering-playbook/>  
 
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler    
