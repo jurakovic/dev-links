@@ -95,6 +95,10 @@ The Twelve-Factor Manifesto
 <https://github.com/twelve-factor/twelve-factor>  
 <https://www.12factor.net> ([github](https://github.com/heroku/12factor))  
 
+![icon](favicons/blank.png)
+Producing Open Source Software  
+<https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
+
 * * *
 
 ## Design Guidelines
