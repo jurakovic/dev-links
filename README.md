@@ -88,7 +88,7 @@ Engineering Fundamentals Playbook
 
 ![icon](favicons/trunkbaseddevelopment.png)
 Trunk Based Development  
-<https://trunkbaseddevelopment.com/> ([GitHub](https://github.com/paul-hammant/tbd))  
+<https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
 ![icon](favicons/12factor.png)
 The Twelve-Factor Manifesto  
@@ -144,7 +144,7 @@ Refactoring Guru
 <https://refactoring.guru/design-patterns/catalog>  
 
 ![icon](favicons/deviq.png)
-Design Patterns  
+Design Patterns | DevIQ  
 <https://deviq.com/design-patterns/design-patterns-overview>  
 
 * * *
@@ -179,6 +179,8 @@ Software Developer To Software Architect | Mark Richards
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
 <https://roadmap.sh/software-architect>  
+<https://roadmap.sh/software-design-architecture>  
+<https://github.com/kamranahmedse/developer-roadmap>  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Reference Applications  
@@ -250,6 +252,7 @@ C# Digest
 Steve Smith, Ardalis  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
+<https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 
 ![icon](favicons/hanselman.png)
