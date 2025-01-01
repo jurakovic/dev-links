@@ -90,6 +90,11 @@ Engineering Fundamentals Playbook
 Trunk Based Development  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
+![icon](favicons/martinfowler.png)
+Agile Software & Software Delivery Guides | Martin Fowler  
+<https://martinfowler.com/agile.html>  
+<https://martinfowler.com/delivery.html>  
+
 ![icon](favicons/12factor.png)
 The Twelve-Factor Manifesto  
 <https://github.com/twelve-factor/twelve-factor>  
@@ -165,8 +170,9 @@ Microservices Architecture Design
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
 
 ![icon](favicons/martinfowler.png)
-Software Architecture Guide | Martin Fowler  
+Software Architecture & Microservices Guides | Martin Fowler  
 <https://martinfowler.com/architecture/>  
+<https://martinfowler.com/microservices/>  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
