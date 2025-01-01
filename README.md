@@ -91,7 +91,7 @@ Trunk Based Development
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
 ![icon](favicons/martinfowler.png)
-Agile Software & Software Delivery Guides | Martin Fowler  
+Agile Software, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
 <https://martinfowler.com/delivery.html>  
 
@@ -170,7 +170,7 @@ Microservices Architecture Design
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
 
 ![icon](favicons/martinfowler.png)
-Software Architecture & Microservices Guides | Martin Fowler  
+Software Architecture, Microservices | Martin Fowler  
 <https://martinfowler.com/architecture/>  
 <https://martinfowler.com/microservices/>  
 
