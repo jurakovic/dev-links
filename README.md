@@ -228,23 +228,11 @@ r/programming
 
 ![icon](favicons/infoq.png)
 InfoQ  
-<https://www.infoq.com/news/>, [/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/)  
-
-<!--
-![icon](favicons/hackernoon.png)
-HackerNoon  
-<https://hackernoon.com>  
--->
+<https://www.infoq.com/news/>, [/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
 
 ![icon](favicons/thenewstack.png)
 The New Stack  
 <https://thenewstack.io/software-development/>  
-
-<!--
-![icon](favicons/csharpdigest.png)
-C# Digest  
-<https://newsletter.csharpdigest.net>  
--->
 
 #### .NET
 
