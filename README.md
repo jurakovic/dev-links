@@ -234,7 +234,13 @@ r/programming
 
 ![icon](favicons/infoq.png)
 InfoQ  
-<https://www.infoq.com/news/>, [/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
+<https://www.infoq.com/news/>  
+[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
+
+![icon](favicons/thoughtworks.png)
+Thoughtworks  
+<https://www.thoughtworks.com/insights/blog>  
+<https://www.thoughtworks.com/insights/articles>  
 
 ![icon](favicons/code-maze.png)
 Code Maze  
