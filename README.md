@@ -1,6 +1,7 @@
 
 **dev-links**  
 ├─ [.NET](#net)  
+├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
@@ -53,7 +54,7 @@ MSDN Magazine Archive
 ![icon](favicons/github.png)
 The Book of the Runtime  
 <https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md>  
-<https://jurakovic.github.io/runtime/> ([github](https://github.com/jurakovic/runtime))  
+<https://jurakovic.github.io/runtime/> ([GitHub](https://github.com/jurakovic/runtime))  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
@@ -76,6 +77,36 @@ Threading in C# | Joseph Albahari
 C# in Depth | Jon Skeet  
 <https://csharpindepth.com/articles/>  
 <https://jonskeet.uk/csharp/>  
+
+* * *
+
+## Development
+
+![icon](favicons/microsoft.png)
+Engineering Fundamentals Playbook  
+<https://microsoft.github.io/code-with-engineering-playbook/> ([GitHub](https://github.com/microsoft/code-with-engineering-playbook/))  
+
+![icon](favicons/trunkbaseddevelopment.png)
+Trunk Based Development  
+<https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
+
+![icon](favicons/martinfowler.png)
+Agile Software, Software Delivery | Martin Fowler  
+<https://martinfowler.com/agile.html>  
+<https://martinfowler.com/delivery.html>  
+
+![icon](favicons/12factor.png)
+The Twelve-Factor Manifesto  
+<https://github.com/twelve-factor/twelve-factor>  
+<https://www.12factor.net> ([GitHub](https://github.com/heroku/12factor))  
+
+![icon](favicons/blank.png)
+Producing Open Source Software  
+<https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
+
+![icon](favicons/minifesto.png)
+Manifesto for Minimalist Software Engineers  
+<http://minifesto.org>  
 
 * * *
 
@@ -109,7 +140,7 @@ Enterprise Web App Patterns
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/refactoring.png)
-Refactoring | Martin Fowler    
+Refactoring | Martin Fowler  
 <https://refactoring.com>  
 
 ![icon](favicons/refactoringg.png)
@@ -118,7 +149,7 @@ Refactoring Guru
 <https://refactoring.guru/design-patterns/catalog>  
 
 ![icon](favicons/deviq.png)
-Design Patterns  
+Design Patterns | DevIQ  
 <https://deviq.com/design-patterns/design-patterns-overview>  
 
 * * *
@@ -139,8 +170,9 @@ Microservices Architecture Design
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
 
 ![icon](favicons/martinfowler.png)
-Software Architecture Guide | Martin Fowler  
+Software Architecture, Microservices | Martin Fowler  
 <https://martinfowler.com/architecture/>  
+<https://martinfowler.com/microservices/>  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
@@ -153,6 +185,8 @@ Software Developer To Software Architect | Mark Richards
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
 <https://roadmap.sh/software-architect>  
+<https://roadmap.sh/software-design-architecture>  
+<https://github.com/kamranahmedse/developer-roadmap>  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Reference Applications  
@@ -198,21 +232,23 @@ Lobsters
 r/programming  
 <https://www.reddit.com/r/programming/>  
 
-<!--
-![icon](favicons/hackernoon.png)
-HackerNoon  
-<https://hackernoon.com>  
--->
+![icon](favicons/infoq.png)
+InfoQ  
+<https://www.infoq.com/news/>  
+[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
+
+![icon](favicons/thoughtworks.png)
+Thoughtworks  
+<https://www.thoughtworks.com/insights/blog>  
+<https://www.thoughtworks.com/insights/articles>  
+
+![icon](favicons/code-maze.png)
+Code Maze  
+<https://code-maze.com/latest-posts-on-code-maze/>  
 
 ![icon](favicons/thenewstack.png)
 The New Stack  
 <https://thenewstack.io/software-development/>  
-
-<!--
-![icon](favicons/csharpdigest.png)
-C# Digest  
-<https://newsletter.csharpdigest.net>  
--->
 
 #### .NET
 
@@ -220,6 +256,7 @@ C# Digest
 Steve Smith, Ardalis  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
+<https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 
 ![icon](favicons/hanselman.png)
@@ -270,6 +307,7 @@ Phil Haack | You've Been Haacked
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
 <https://erikej.github.io>  
+<https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
 ![icon](favicons/jonhilton.png)
@@ -322,6 +360,10 @@ Bart Wullems | The Art of Simplicity
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
@@ -360,3 +402,7 @@ The ReadME Project: Guides
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
 <https://netflixtechblog.com>  
+
+![icon](favicons/slack.png)
+Engineering at Slack  
+<https://slack.engineering>  
