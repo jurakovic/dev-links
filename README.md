@@ -230,6 +230,10 @@ r/programming
 InfoQ  
 <https://www.infoq.com/news/>, [/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
 
+![icon](favicons/code-maze.png)
+Code Maze  
+<https://code-maze.com/latest-posts-on-code-maze/>  
+
 ![icon](favicons/thenewstack.png)
 The New Stack  
 <https://thenewstack.io/software-development/>  
