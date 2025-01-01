@@ -390,3 +390,7 @@ The ReadME Project: Guides
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
 <https://netflixtechblog.com>  
+
+![icon](favicons/slack.png)
+Engineering at Slack  
+<https://slack.engineering>  
