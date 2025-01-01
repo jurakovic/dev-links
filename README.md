@@ -344,6 +344,10 @@ Bart Wullems | The Art of Simplicity
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
