@@ -90,6 +90,10 @@ Engineering Fundamentals Playbook
 Trunk Based Development  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
+![icon](favicons/continuousdelivery.png)
+Continuous Delivery | Jez Humble  
+<https://continuousdelivery.com>  
+
 ![icon](favicons/martinfowler.png)
 Agile Software, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
