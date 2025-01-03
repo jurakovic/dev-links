@@ -87,7 +87,7 @@ Engineering Fundamentals Playbook
 <https://microsoft.github.io/code-with-engineering-playbook/> ([GitHub](https://github.com/microsoft/code-with-engineering-playbook/))  
 
 ![icon](favicons/trunkbaseddevelopment.png)
-Trunk Based Development  
+Trunk Based Development | Paul Hammant  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
 ![icon](favicons/continuousdelivery.png)
