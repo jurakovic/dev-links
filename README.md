@@ -351,6 +351,11 @@ Brendan Gregg | Systems Performance
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 
+![icon](favicons/blank.png)
+Paul Hammant  CTO, Trunk-Based Development expert  
+<https://paulhammant.com/archive/>  
+<https://github.com/paul-hammant>  
+
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
