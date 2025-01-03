@@ -105,7 +105,7 @@ The Twelve-Factor Manifesto
 <https://www.12factor.net> ([GitHub](https://github.com/heroku/12factor))  
 
 ![icon](favicons/blank.png)
-Producing Open Source Software  
+Producing Open Source Software | Karl Fogel  
 <https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
 
 ![icon](favicons/minifesto.png)
