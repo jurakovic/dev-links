@@ -95,7 +95,7 @@ Continuous Delivery | Jez Humble
 <https://continuousdelivery.com>  
 
 ![icon](favicons/martinfowler.png)
-Agile Software, Software Delivery | Martin Fowler  
+Agile, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
 <https://martinfowler.com/delivery.html>  
 
@@ -246,9 +246,11 @@ Thoughtworks
 <https://www.thoughtworks.com/insights/blog>  
 <https://www.thoughtworks.com/insights/articles>  
 
+<!--
 ![icon](favicons/code-maze.png)
 Code Maze  
 <https://code-maze.com/latest-posts-on-code-maze/>  
+-->
 
 ![icon](favicons/thenewstack.png)
 The New Stack  
