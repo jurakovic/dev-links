@@ -352,7 +352,7 @@ Brendan Gregg | Systems Performance
 <https://github.com/brendangregg>  
 
 ![icon](favicons/blank.png)
-Paul Hammant  CTO, Trunk-Based Development expert  
+Paul Hammant | CTO, Trunk-Based Development expert  
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
 
