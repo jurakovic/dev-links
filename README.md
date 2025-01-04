@@ -90,14 +90,14 @@ Engineering Fundamentals Playbook
 Trunk Based Development | Paul Hammant  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
-![icon](favicons/continuousdelivery.png)
-Continuous Delivery | Jez Humble  
-<https://continuousdelivery.com>  
-
 ![icon](favicons/martinfowler.png)
 Agile, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
 <https://martinfowler.com/delivery.html>  
+
+![icon](favicons/continuousdelivery.png)
+Continuous Delivery | Jez Humble  
+<https://continuousdelivery.com>  
 
 ![icon](favicons/12factor.png)
 The Twelve-Factor Manifesto  
