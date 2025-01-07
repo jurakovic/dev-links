@@ -353,6 +353,10 @@ Brendan Gregg | Systems Performance
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 
+![icon](favicons/substack.png)
+Kent Beck | Software Design: Tidy First?  
+<https://tidyfirst.substack.com/archive>  
+
 ![icon](favicons/blank.png)
 Paul Hammant | CTO, Trunk-Based Development expert  
 <https://paulhammant.com/archive/>  
