@@ -152,6 +152,12 @@ Refactoring Guru
 <https://refactoring.guru/refactoring/catalog>  
 <https://refactoring.guru/design-patterns/catalog>  
 
+<!--
+alternatives:
+https://sourcemaking.com/refactoring
+https://sourcemaking.com/design_patterns
+-->
+
 ![icon](favicons/deviq.png)
 Design Patterns | DevIQ  
 <https://deviq.com/design-patterns/design-patterns-overview>  
