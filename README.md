@@ -52,7 +52,7 @@ MSDN Magazine Archive
 -->
 
 ![icon](favicons/github.png)
-The Book of the Runtime  
+Book of the Runtime  
 <https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md>  
 <https://jurakovic.github.io/runtime/> ([GitHub](https://github.com/jurakovic/runtime))  
 
@@ -87,13 +87,17 @@ Engineering Fundamentals Playbook
 <https://microsoft.github.io/code-with-engineering-playbook/> ([GitHub](https://github.com/microsoft/code-with-engineering-playbook/))  
 
 ![icon](favicons/trunkbaseddevelopment.png)
-Trunk Based Development  
+Trunk Based Development | Paul Hammant  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
 ![icon](favicons/martinfowler.png)
-Agile Software, Software Delivery | Martin Fowler  
+Agile, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
 <https://martinfowler.com/delivery.html>  
+
+![icon](favicons/continuousdelivery.png)
+Continuous Delivery | Jez Humble  
+<https://continuousdelivery.com>  
 
 ![icon](favicons/12factor.png)
 The Twelve-Factor Manifesto  
@@ -101,7 +105,7 @@ The Twelve-Factor Manifesto
 <https://www.12factor.net> ([GitHub](https://github.com/heroku/12factor))  
 
 ![icon](favicons/blank.png)
-Producing Open Source Software  
+Producing Open Source Software | Karl Fogel  
 <https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
 
 ![icon](favicons/minifesto.png)
@@ -139,6 +143,10 @@ Cloud Design Patterns
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
+![icon](favicons/github.png)
+Clean Code for .NET / .NET Core  
+<https://github.com/thangchung/clean-code-dotnet>  
+
 ![icon](favicons/refactoring.png)
 Refactoring | Martin Fowler  
 <https://refactoring.com>  
@@ -148,9 +156,15 @@ Refactoring Guru
 <https://refactoring.guru/refactoring/catalog>  
 <https://refactoring.guru/design-patterns/catalog>  
 
+<!--
+alternatives:
+https://sourcemaking.com/refactoring
+https://sourcemaking.com/design_patterns
+-->
+
 ![icon](favicons/deviq.png)
 Design Patterns | DevIQ  
-<https://deviq.com/design-patterns/design-patterns-overview>  
+<https://deviq.com/design-patterns/design-patterns-overview> ([GitHub](https://github.com/ardalis/DevIQ-gatsby))  
 
 * * *
 
@@ -184,9 +198,7 @@ Software Developer To Software Architect | Mark Richards
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
-<https://roadmap.sh/software-architect>  
-<https://roadmap.sh/software-design-architecture>  
-<https://github.com/kamranahmedse/developer-roadmap>  
+<https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Reference Applications  
@@ -212,7 +224,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### Misc.
+#### News
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -228,27 +240,11 @@ Hacker News
 Lobsters  
 <https://lobste.rs>  
 
+<!--
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
-
-![icon](favicons/infoq.png)
-InfoQ  
-<https://www.infoq.com/news/>  
-[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#:~:text=READ%20MORE)  
-
-![icon](favicons/thoughtworks.png)
-Thoughtworks  
-<https://www.thoughtworks.com/insights/blog>  
-<https://www.thoughtworks.com/insights/articles>  
-
-![icon](favicons/code-maze.png)
-Code Maze  
-<https://code-maze.com/latest-posts-on-code-maze/>  
-
-![icon](favicons/thenewstack.png)
-The New Stack  
-<https://thenewstack.io/software-development/>  
+-->
 
 #### .NET
 
@@ -281,7 +277,7 @@ Jon Skeet
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
-<https://www.jimmybogard.com>  
+[https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
 
 ![icon](favicons/steven-giesel.png)
@@ -347,14 +343,22 @@ Brendan Gregg | Systems Performance
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 
+![icon](favicons/substack.png)
+Kent Beck | Software Design: Tidy First?  
+<https://tidyfirst.substack.com/archive>  
+
+![icon](favicons/blank.png)
+Paul Hammant | CTO, Trunk-Based Development expert  
+<https://paulhammant.com/archive/>  
+<https://github.com/paul-hammant>  
+
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com/search/label/.NET>  
-<https://bartwullems.blogspot.com/search/label/Architecture>  
+<https://bartwullems.blogspot.com> [/.NET](https://bartwullems.blogspot.com/search/label/.NET) [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
@@ -385,7 +389,34 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### Tech Companies
+#### Tech Sites / Articles
+
+![icon](favicons/infoq.png)
+InfoQ  
+<https://www.infoq.com/news/>  
+[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
+
+![icon](favicons/thoughtworks.png)
+Thoughtworks  
+<https://www.thoughtworks.com/insights/blog>  
+<https://www.thoughtworks.com/insights/articles>  
+
+<!--
+![icon](favicons/code-maze.png)
+Code Maze  
+<https://code-maze.com/latest-posts-on-code-maze/>  
+-->
+
+![icon](favicons/thenewstack.png)
+The New Stack  
+<https://thenewstack.io/software-development/>  
+
+![icon](favicons/github.png)
+Github | The ReadME Project: Guides  
+<https://github.com/readme/guides>  
+
+
+#### Tech Companies Blogs
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -394,10 +425,6 @@ The Stack Overflow Blog: Engineering
 ![icon](favicons/github.png)
 The GitHub Blog: Engineering  
 <https://github.blog/category/engineering/>  
-
-![icon](favicons/github.png)
-The ReadME Project: Guides  
-<https://github.com/readme/guides>  
 
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
