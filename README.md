@@ -61,6 +61,10 @@ Awesome .NET / .NET Core
 <https://github.com/quozd/awesome-dotnet>  
 <https://github.com/thangchung/awesome-dotnet-core>  
 
+![icon](favicons/github.png)
+Clean Code for .NET / .NET Core  
+<https://github.com/thangchung/clean-code-dotnet>  
+
 ![icon](favicons/microsoft.png)
 C# documentation  
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/>  
