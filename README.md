@@ -234,6 +234,7 @@ CodeProject | The Insiders
 Hacker News  
 <https://news.ycombinator.com/news>  
 
+<!--
 ![icon](favicons/lobsters.png)
 Lobsters  
 <https://lobste.rs>  
@@ -241,6 +242,7 @@ Lobsters
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
+-->
 
 ![icon](favicons/infoq.png)
 InfoQ  
