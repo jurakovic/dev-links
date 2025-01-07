@@ -411,8 +411,12 @@ Code Maze
 The New Stack  
 <https://thenewstack.io/software-development/>  
 
+![icon](favicons/github.png)
+Github | The ReadME Project: Guides  
+<https://github.com/readme/guides>  
 
-#### Tech Companies
+
+#### Tech Companies Blogs
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -421,10 +425,6 @@ The Stack Overflow Blog: Engineering
 ![icon](favicons/github.png)
 The GitHub Blog: Engineering  
 <https://github.blog/category/engineering/>  
-
-![icon](favicons/github.png)
-The ReadME Project: Guides  
-<https://github.com/readme/guides>  
 
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
