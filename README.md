@@ -198,9 +198,7 @@ Software Developer To Software Architect | Mark Richards
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
-<https://roadmap.sh/software-architect>  
-<https://roadmap.sh/software-design-architecture>  
-<https://github.com/kamranahmedse/developer-roadmap>  
+<https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Reference Applications  
