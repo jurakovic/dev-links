@@ -160,7 +160,7 @@ https://sourcemaking.com/design_patterns
 
 ![icon](favicons/deviq.png)
 Design Patterns | DevIQ  
-<https://deviq.com/design-patterns/design-patterns-overview>  
+<https://deviq.com/design-patterns/design-patterns-overview> ([GitHub](https://github.com/ardalis/DevIQ-gatsby))  
 
 * * *
 
@@ -295,7 +295,7 @@ Jon Skeet
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
-<https://www.jimmybogard.com>  
+[https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
 
 ![icon](favicons/steven-giesel.png)
@@ -376,8 +376,7 @@ Eduards Sizovs | The Principal Developer
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com/search/label/.NET>  
-<https://bartwullems.blogspot.com/search/label/Architecture>  
+<https://bartwullems.blogspot.com> [/.NET](https://bartwullems.blogspot.com/search/label/.NET) [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
