@@ -52,7 +52,7 @@ MSDN Magazine Archive
 -->
 
 ![icon](favicons/github.png)
-The Book of the Runtime  
+Book of the Runtime  
 <https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md>  
 <https://jurakovic.github.io/runtime/> ([GitHub](https://github.com/jurakovic/runtime))  
 
