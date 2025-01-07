@@ -224,7 +224,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### Misc.
+#### News
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -236,35 +236,15 @@ CodeProject | The Insiders
 Hacker News  
 <https://news.ycombinator.com/news>  
 
-<!--
 ![icon](favicons/lobsters.png)
 Lobsters  
 <https://lobste.rs>  
 
+<!--
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
 -->
-
-![icon](favicons/infoq.png)
-InfoQ  
-<https://www.infoq.com/news/>  
-[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
-
-![icon](favicons/thoughtworks.png)
-Thoughtworks  
-<https://www.thoughtworks.com/insights/blog>  
-<https://www.thoughtworks.com/insights/articles>  
-
-<!--
-![icon](favicons/code-maze.png)
-Code Maze  
-<https://code-maze.com/latest-posts-on-code-maze/>  
--->
-
-![icon](favicons/thenewstack.png)
-The New Stack  
-<https://thenewstack.io/software-development/>  
 
 #### .NET
 
@@ -407,6 +387,29 @@ Will Larson | Irrational Exuberance
 ![icon](favicons/effectiveengineer.png)
 Edmond Lau | The Effective Engineer  
 <https://www.effectiveengineer.com/blog>  
+
+
+#### Tech Sites / Articles
+
+![icon](favicons/infoq.png)
+InfoQ  
+<https://www.infoq.com/news/>  
+[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
+
+![icon](favicons/thoughtworks.png)
+Thoughtworks  
+<https://www.thoughtworks.com/insights/blog>  
+<https://www.thoughtworks.com/insights/articles>  
+
+<!--
+![icon](favicons/code-maze.png)
+Code Maze  
+<https://code-maze.com/latest-posts-on-code-maze/>  
+-->
+
+![icon](favicons/thenewstack.png)
+The New Stack  
+<https://thenewstack.io/software-development/>  
 
 
 #### Tech Companies
