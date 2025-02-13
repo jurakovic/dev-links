@@ -1,6 +1,7 @@
 
 **dev-links**  
 ├─ [.NET](#net)  
+├─ [SQL Server](#sql-server)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
@@ -76,6 +77,22 @@ Threading in C# | Joseph Albahari
 C# in Depth | Jon Skeet  
 <https://csharpindepth.com/articles/>  
 <https://jonskeet.uk/csharp/>  
+
+* * *
+
+## SQL Server
+
+![icon](favicons/microsoft.png)
+Technical Documentation  
+<https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases>  
+
+![icon](favicons/use-the-index-luke.png)
+SQL Indexing and Tuning  
+<https://use-the-index-luke.com>  
+
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
 
 * * *
 
