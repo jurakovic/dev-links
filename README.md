@@ -2,6 +2,7 @@
 **dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
+├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
@@ -52,9 +53,9 @@ MSDN Magazine Archive
 -->
 
 ![icon](favicons/github.png)
-The Book of the Runtime  
+Book of the Runtime  
 <https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/botr/README.md>  
-<https://jurakovic.github.io/runtime/> ([github](https://github.com/jurakovic/runtime))  
+<https://jurakovic.github.io/runtime/> ([GitHub](https://github.com/jurakovic/runtime))  
 
 ![icon](favicons/github.png)
 Awesome .NET / .NET Core  
@@ -96,6 +97,40 @@ SQLPerformance.com
 
 * * *
 
+## Development
+
+![icon](favicons/microsoft.png)
+Engineering Fundamentals Playbook  
+<https://microsoft.github.io/code-with-engineering-playbook/> ([GitHub](https://github.com/microsoft/code-with-engineering-playbook/))  
+
+![icon](favicons/trunkbaseddevelopment.png)
+Trunk Based Development | Paul Hammant  
+<https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
+
+![icon](favicons/martinfowler.png)
+Agile, Software Delivery | Martin Fowler  
+<https://martinfowler.com/agile.html>  
+<https://martinfowler.com/delivery.html>  
+
+![icon](favicons/continuousdelivery.png)
+Continuous Delivery | Jez Humble  
+<https://continuousdelivery.com>  
+
+![icon](favicons/12factor.png)
+The Twelve-Factor Manifesto  
+<https://github.com/twelve-factor/twelve-factor>  
+<https://www.12factor.net> ([GitHub](https://github.com/heroku/12factor))  
+
+![icon](favicons/blank.png)
+Producing Open Source Software | Karl Fogel  
+<https://producingoss.com/en/index.html> ([book](https://producingoss.com/))  
+
+![icon](favicons/minifesto.png)
+Manifesto for Minimalist Software Engineers  
+<http://minifesto.org>  
+
+* * *
+
 ## Design Guidelines
 
 ![icon](favicons/microsoft.png)
@@ -125,8 +160,12 @@ Cloud Design Patterns
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
+![icon](favicons/github.png)
+Clean Code for .NET / .NET Core  
+<https://github.com/thangchung/clean-code-dotnet>  
+
 ![icon](favicons/refactoring.png)
-Refactoring | Martin Fowler    
+Refactoring | Martin Fowler  
 <https://refactoring.com>  
 
 ![icon](favicons/refactoringg.png)
@@ -134,9 +173,15 @@ Refactoring Guru
 <https://refactoring.guru/refactoring/catalog>  
 <https://refactoring.guru/design-patterns/catalog>  
 
+<!--
+alternatives:
+https://sourcemaking.com/refactoring
+https://sourcemaking.com/design_patterns
+-->
+
 ![icon](favicons/deviq.png)
-Design Patterns  
-<https://deviq.com/design-patterns/design-patterns-overview>  
+Design Patterns | DevIQ  
+<https://deviq.com/design-patterns/design-patterns-overview> ([GitHub](https://github.com/ardalis/DevIQ-gatsby))  
 
 * * *
 
@@ -156,8 +201,9 @@ Microservices Architecture Design
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
 
 ![icon](favicons/martinfowler.png)
-Software Architecture Guide | Martin Fowler  
+Software Architecture, Microservices | Martin Fowler  
 <https://martinfowler.com/architecture/>  
+<https://martinfowler.com/microservices/>  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
@@ -169,7 +215,7 @@ Software Developer To Software Architect | Mark Richards
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
-<https://roadmap.sh/software-architect>  
+<https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
 
 ![icon](favicons/github.png)
 Clean Architecture Solution Templates / Reference Applications  
@@ -195,7 +241,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### Misc.
+#### News
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -211,24 +257,10 @@ Hacker News
 Lobsters  
 <https://lobste.rs>  
 
+<!--
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
-
-<!--
-![icon](favicons/hackernoon.png)
-HackerNoon  
-<https://hackernoon.com>  
--->
-
-![icon](favicons/thenewstack.png)
-The New Stack  
-<https://thenewstack.io/software-development/>  
-
-<!--
-![icon](favicons/csharpdigest.png)
-C# Digest  
-<https://newsletter.csharpdigest.net>  
 -->
 
 #### .NET
@@ -237,6 +269,7 @@ C# Digest
 Steve Smith, Ardalis  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
+<https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 
 ![icon](favicons/hanselman.png)
@@ -261,7 +294,7 @@ Jon Skeet
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
-<https://www.jimmybogard.com>  
+[https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
 
 ![icon](favicons/steven-giesel.png)
@@ -287,6 +320,7 @@ Phil Haack | You've Been Haacked
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
 <https://erikej.github.io>  
+<https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
 ![icon](favicons/jonhilton.png)
@@ -326,18 +360,30 @@ Brendan Gregg | Systems Performance
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 
+![icon](favicons/substack.png)
+Kent Beck | Software Design: Tidy First?  
+<https://tidyfirst.substack.com/archive>  
+
+![icon](favicons/blank.png)
+Paul Hammant | CTO, Trunk-Based Development expert  
+<https://paulhammant.com/archive/>  
+<https://github.com/paul-hammant>  
+
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com/search/label/.NET>  
-<https://bartwullems.blogspot.com/search/label/Architecture>  
+<https://bartwullems.blogspot.com> [/.NET](https://bartwullems.blogspot.com/search/label/.NET) [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
+
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
 
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
@@ -360,7 +406,34 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### Tech Companies
+#### Tech Sites / Articles
+
+![icon](favicons/infoq.png)
+InfoQ  
+<https://www.infoq.com/news/>  
+[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
+
+![icon](favicons/thoughtworks.png)
+Thoughtworks  
+<https://www.thoughtworks.com/insights/blog>  
+<https://www.thoughtworks.com/insights/articles>  
+
+<!--
+![icon](favicons/code-maze.png)
+Code Maze  
+<https://code-maze.com/latest-posts-on-code-maze/>  
+-->
+
+![icon](favicons/thenewstack.png)
+The New Stack  
+<https://thenewstack.io/software-development/>  
+
+![icon](favicons/github.png)
+Github | The ReadME Project: Guides  
+<https://github.com/readme/guides>  
+
+
+#### Tech Companies Blogs
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -370,10 +443,10 @@ The Stack Overflow Blog: Engineering
 The GitHub Blog: Engineering  
 <https://github.blog/category/engineering/>  
 
-![icon](favicons/github.png)
-The ReadME Project: Guides  
-<https://github.com/readme/guides>  
-
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
 <https://netflixtechblog.com>  
+
+![icon](favicons/slack.png)
+Engineering at Slack  
+<https://slack.engineering>  
