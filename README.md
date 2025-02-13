@@ -1,10 +1,10 @@
 
 **dev-links**  
 ├─ [.NET](#net)  
+├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-├─ [SQL Server](#sql-server)  
 └─ [Blogs](#blogs--sites)  
 <!-- └─ [Posts](POSTS.md)  -->
 
@@ -78,6 +78,22 @@ Threading in C# | Joseph Albahari
 C# in Depth | Jon Skeet  
 <https://csharpindepth.com/articles/>  
 <https://jonskeet.uk/csharp/>  
+
+* * *
+
+## SQL Server
+
+![icon](favicons/microsoft.png)
+Technical Documentation  
+<https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases>  
+
+![icon](favicons/use-the-index-luke.png)
+SQL Indexing and Tuning  
+<https://use-the-index-luke.com>  
+
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
 
 * * *
 
@@ -213,22 +229,6 @@ Clean Architecture Solution Templates / Reference Applications
 <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
 <https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
 <https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
-
-* * *
-
-## SQL Server
-
-![icon](favicons/microsoft.png)
-Technical Documentation  
-<https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases>  
-
-![icon](favicons/use-the-index-luke.png)
-SQL Indexing and Tuning  
-<https://use-the-index-luke.com>  
-
-![icon](favicons/sqlperformance.png)
-SQLPerformance.com  
-<https://sqlperformance.com>  
 
 * * *
 
