@@ -87,6 +87,10 @@ C# in Depth | Jon Skeet
 Technical Documentation  
 <https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases>  
 
+![icon](favicons/microsoft.png)
+Transact-SQL reference (Database Engine)  
+<https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
+
 ![icon](favicons/use-the-index-luke.png)
 SQL Indexing and Tuning  
 <https://use-the-index-luke.com>  
