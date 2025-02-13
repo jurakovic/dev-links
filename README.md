@@ -310,7 +310,7 @@ Nick Craver | Software Imagineering
 <https://github.com/NickCraver>  
 
 ![icon](favicons/codinghorror.png)
-Jeff Etwood | Coding Horror  
+Jeff Atwood | Coding Horror  
 <https://blog.codinghorror.com>  
 
 ![icon](favicons/joelonsoftware.png)
