@@ -1,6 +1,7 @@
 
 **dev-links**  
 ├─ [.NET](#net)  
+├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
@@ -77,6 +78,26 @@ Threading in C# | Joseph Albahari
 C# in Depth | Jon Skeet  
 <https://csharpindepth.com/articles/>  
 <https://jonskeet.uk/csharp/>  
+
+* * *
+
+## SQL Server
+
+![icon](favicons/microsoft.png)
+Technical Documentation  
+<https://learn.microsoft.com/en-us/sql/relational-databases/databases/databases>  
+
+![icon](favicons/microsoft.png)
+Transact-SQL reference (Database Engine)  
+<https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
+
+![icon](favicons/use-the-index-luke.png)
+SQL Indexing and Tuning  
+<https://use-the-index-luke.com>  
+
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
 
 * * *
 
@@ -327,7 +348,7 @@ Nick Craver | Software Imagineering
 <https://github.com/NickCraver>  
 
 ![icon](favicons/codinghorror.png)
-Jeff Etwood | Coding Horror  
+Jeff Atwood | Coding Horror  
 <https://blog.codinghorror.com>  
 
 ![icon](favicons/joelonsoftware.png)
