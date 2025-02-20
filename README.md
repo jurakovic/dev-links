@@ -1,12 +1,17 @@
 
-**dev-links**  
+<a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs--sites)  
-<!-- └─ [Posts](POSTS.md)  -->
+└─ [Blogs](#blogs)  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Leadership](#blogs-leadership)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
 * * *
 
@@ -14,7 +19,7 @@
 
 * * *
 
-## .NET
+## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 .NET Blog  
@@ -81,7 +86,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## SQL Server
+## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -101,7 +106,7 @@ SQLPerformance.com
 
 * * *
 
-## Development
+## <a name="development"></a>Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Engineering Fundamentals Playbook  
@@ -135,7 +140,7 @@ Manifesto for Minimalist Software Engineers
 
 * * *
 
-## Design Guidelines
+## <a name="design-guidelines"></a>Design Guidelines <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 C# conventions  
@@ -189,7 +194,7 @@ Design Patterns | DevIQ
 
 * * *
 
-## Architecture
+## <a name="architecture"></a>Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Fundamentals  
@@ -236,7 +241,7 @@ Clean Architecture Solution Templates / Reference Applications
 
 * * *
 
-## Blogs & Sites
+## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
@@ -245,7 +250,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### News
+#### <a name="blogs-news"></a>News <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -267,7 +272,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### .NET
+#### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
@@ -340,7 +345,7 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 
-#### General
+#### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -398,7 +403,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### Leadership
+#### <a name="blogs-leadership"></a>Leadership <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
@@ -410,7 +415,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### Tech Sites / Articles
+#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/infoq.png)
 InfoQ  
@@ -437,7 +442,7 @@ Github | The ReadME Project: Guides
 <https://github.com/readme/guides>  
 
 
-#### Tech Companies Blogs
+#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -454,3 +459,5 @@ Netflix TechBlog
 ![icon](favicons/slack.png)
 Engineering at Slack  
 <https://slack.engineering>  
+
+<sub><a href="#top">↑ Top</a></sub>
