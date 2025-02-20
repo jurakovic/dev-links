@@ -6,12 +6,12 @@
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [News](#blogs-news)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#blogs-net)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#blogs-general)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#blogs-leadership)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#blogs-tech-sites)  
-&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#blogs-tech-companies)  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [News](#blogs-news)</small>  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#blogs-net)</small>  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#blogs-general)</small>  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#blogs-leadership)</small>  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
+<small>&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
 * * *
 
