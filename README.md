@@ -6,7 +6,11 @@
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
-<!-- └─ [Posts](POSTS.md)  -->
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#net)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#general)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#leadership)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#tech-sites-articles)  
+&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#tech-companies-blogs)  
 
 * * *
 
