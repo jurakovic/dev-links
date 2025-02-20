@@ -250,7 +250,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### News {#blogs-news}
+#### <a name="blogs-news"></a>News
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -272,7 +272,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### .NET {#blogs-net}
+#### <a name="blogs-net"></a>.NET
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
@@ -345,7 +345,7 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 
-#### General {#blogs-general}
+#### <a name="blogs-general"></a>General
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -403,7 +403,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### Leadership {#blogs-leadership}
+#### <a name="blogs-leadership"></a>Leadership
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
@@ -415,7 +415,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### Tech Sites / Articles {#blogs-tech-sites}
+#### <a name="blogs-tech-sites"></a>Tech Sites / Articles
 
 ![icon](favicons/infoq.png)
 InfoQ  
@@ -442,7 +442,7 @@ Github | The ReadME Project: Guides
 <https://github.com/readme/guides>  
 
 
-#### Tech Companies Blogs {#blogs-tech-companies}
+#### <a name="blogs-tech-companies"></a>Tech Companies Blogs
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
