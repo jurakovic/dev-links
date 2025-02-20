@@ -6,11 +6,12 @@
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#net)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#general)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#leadership)  
-&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#tech-sites-articles)  
-&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#tech-companies-blogs)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [News](#blogs-news)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#blogs-net)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#blogs-general)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#blogs-leadership)  
+&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#blogs-tech-sites)  
+&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#blogs-tech-companies)  
 
 * * *
 
@@ -249,7 +250,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### News
+#### News {#blogs-news}
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -271,7 +272,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### .NET
+#### .NET {#blogs-net}
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
@@ -344,7 +345,7 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 
-#### General
+#### General {#blogs-general}
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -402,7 +403,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### Leadership
+#### Leadership {#blogs-leadership}
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
@@ -414,7 +415,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### Tech Sites / Articles
+#### Tech Sites / Articles {#blogs-tech-sites}
 
 ![icon](favicons/infoq.png)
 InfoQ  
@@ -441,7 +442,7 @@ Github | The ReadME Project: Guides
 <https://github.com/readme/guides>  
 
 
-#### Tech Companies Blogs
+#### Tech Companies Blogs {#blogs-tech-companies}
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
