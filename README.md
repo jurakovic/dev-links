@@ -5,7 +5,7 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs--sites)  
+└─ [Blogs](#blogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
@@ -19,7 +19,7 @@
 
 * * *
 
-## .NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 .NET Blog  
@@ -86,7 +86,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -106,7 +106,7 @@ SQLPerformance.com
 
 * * *
 
-## Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="development"></a>Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Engineering Fundamentals Playbook  
@@ -140,7 +140,7 @@ Manifesto for Minimalist Software Engineers
 
 * * *
 
-## Design Guidelines <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+## <a name="design-guidelines"></a>Design Guidelines <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 C# conventions  
@@ -194,7 +194,7 @@ Design Patterns | DevIQ
 
 * * *
 
-## Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="architecture"></a>Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Fundamentals  
@@ -241,7 +241,7 @@ Clean Architecture Solution Templates / Reference Applications
 
 * * *
 
-## Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
