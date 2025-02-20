@@ -460,4 +460,4 @@ Netflix TechBlog
 Engineering at Slack  
 <https://slack.engineering>  
 
-<sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub>
+<sub><a href="#top">↑ Top</a></sub>
