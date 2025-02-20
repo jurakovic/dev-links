@@ -6,12 +6,12 @@
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs--sites)  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [News](#blogs-news)</small>  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [.NET](#blogs-net)</small>  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [General](#blogs-general)</small>  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [Leadership](#blogs-leadership)</small>  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
-<small>&nbsp;&nbsp;&nbsp;&nbsp;└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Leadership](#blogs-leadership)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
 * * *
 
@@ -19,7 +19,7 @@
 
 * * *
 
-## .NET <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## .NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 .NET Blog  
@@ -86,7 +86,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## SQL Server <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -106,7 +106,7 @@ SQLPerformance.com
 
 * * *
 
-## Development <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Engineering Fundamentals Playbook  
@@ -140,7 +140,7 @@ Manifesto for Minimalist Software Engineers
 
 * * *
 
-## Design Guidelines <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## Design Guidelines <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 C# conventions  
@@ -194,7 +194,7 @@ Design Patterns | DevIQ
 
 * * *
 
-## Architecture <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Fundamentals  
@@ -241,7 +241,7 @@ Clean Architecture Solution Templates / Reference Applications
 
 * * *
 
-## Blogs & Sites <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+## Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
@@ -250,7 +250,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### <a name="blogs-news"></a>News <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-news"></a>News <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -272,7 +272,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-net"></a>.NET <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
@@ -345,7 +345,7 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 
-#### <a name="blogs-general"></a>General <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -403,7 +403,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### <a name="blogs-leadership"></a>Leadership <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-leadership"></a>Leadership <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
@@ -415,7 +415,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub><a href="#top">↑ Top</a></sub></sup>
+#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/infoq.png)
 InfoQ  
@@ -442,7 +442,7 @@ Github | The ReadME Project: Guides
 <https://github.com/readme/guides>  
 
 
-#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub><a href="#top">↑ Top</a></sub></sup>
+#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -460,4 +460,4 @@ Netflix TechBlog
 Engineering at Slack  
 <https://slack.engineering>  
 
-<small><a href="#top">↑ Top</a></small>
+<sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub>
