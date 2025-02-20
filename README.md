@@ -1,5 +1,5 @@
 
-**dev-links**  
+<a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  
@@ -19,7 +19,7 @@
 
 * * *
 
-## .NET
+## .NET <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 .NET Blog  
@@ -86,7 +86,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## SQL Server
+## SQL Server <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -106,7 +106,7 @@ SQLPerformance.com
 
 * * *
 
-## Development
+## Development <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Engineering Fundamentals Playbook  
@@ -140,7 +140,7 @@ Manifesto for Minimalist Software Engineers
 
 * * *
 
-## Design Guidelines
+## Design Guidelines <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 C# conventions  
@@ -194,7 +194,7 @@ Design Patterns | DevIQ
 
 * * *
 
-## Architecture
+## Architecture <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Azure Application Architecture Fundamentals  
@@ -241,7 +241,7 @@ Clean Architecture Solution Templates / Reference Applications
 
 * * *
 
-## Blogs & Sites
+## Blogs & Sites <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
@@ -250,7 +250,7 @@ Clean Architecture Solution Templates / Reference Applications
 <https://www.linkedin.com/pulse/top-10-engineering-blogs-follow-latest-technological-insights-gaddam>  
 -->
 
-#### <a name="blogs-news"></a>News
+#### <a name="blogs-news"></a>News <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 <!--
 ![icon](favicons/codeproject.png)
@@ -272,7 +272,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-net"></a>.NET
+#### <a name="blogs-net"></a>.NET <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  
@@ -345,7 +345,7 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 
-#### <a name="blogs-general"></a>General
+#### <a name="blogs-general"></a>General <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -403,7 +403,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### <a name="blogs-leadership"></a>Leadership
+#### <a name="blogs-leadership"></a>Leadership <sup><sub><a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
@@ -415,7 +415,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 
 
-#### <a name="blogs-tech-sites"></a>Tech Sites / Articles
+#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub><a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/infoq.png)
 InfoQ  
@@ -442,7 +442,7 @@ Github | The ReadME Project: Guides
 <https://github.com/readme/guides>  
 
 
-#### <a name="blogs-tech-companies"></a>Tech Companies Blogs
+#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub><a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog: Engineering  
@@ -459,3 +459,5 @@ Netflix TechBlog
 ![icon](favicons/slack.png)
 Engineering at Slack  
 <https://slack.engineering>  
+
+<small><a href="#top">↑ Top</a></small>
