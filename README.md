@@ -223,13 +223,13 @@ Cloud Design Patterns
 <https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
 
 ![icon](favicons/martinfowler.png)
-Catalog of Patterns of Distributed Systems | Unmesh Joshi  
-<https://martinfowler.com/articles/patterns-of-distributed-systems/>  
-
-![icon](favicons/martinfowler.png)
 Software Architecture, Microservices | Martin Fowler  
 <https://martinfowler.com/architecture/>  
 <https://martinfowler.com/microservices/>  
+
+![icon](favicons/martinfowler.png)
+Catalog of Patterns of Distributed Systems | Unmesh Joshi  
+<https://martinfowler.com/articles/patterns-of-distributed-systems/>  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
