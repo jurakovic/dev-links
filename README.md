@@ -252,14 +252,20 @@ Clean Architecture Solution Templates / Reference Applications
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/alex289/CleanArchitecture>  
-<https://github.com/fullstackhero/dotnet-starter-kit>  
-<https://github.com/ivanpaulovich/clean-architecture-manga>  
-<https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
 <https://github.com/dotnet/eShop>, [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
 <https://github.com/NimblePros/eShopOnWeb>  
-<https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
-<https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
-<https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
+
+> <details>
+> <summary>Additional Examples</summary>
+> 
+> <https://github.com/fullstackhero/dotnet-starter-kit>  
+> <https://github.com/ivanpaulovich/clean-architecture-manga>  
+> <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
+> <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
+> <https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
+> <https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
+> 
+> </details>
 
 * * *
 
