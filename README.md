@@ -251,6 +251,7 @@ Software Architect Roadmap
 Clean Architecture Solution Templates / Reference Applications  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
+<https://github.com/alex289/CleanArchitecture>  
 <https://github.com/fullstackhero/dotnet-starter-kit>  
 <https://github.com/ivanpaulovich/clean-architecture-manga>  
 <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
