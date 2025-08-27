@@ -211,6 +211,10 @@ Azure Application Architecture Fundamentals
 <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/> ([book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf))  
 
 ![icon](favicons/microsoft.png)
+Enterprise Web App Patterns  
+<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
+
+![icon](favicons/microsoft.png)
 Microservices Architecture Design  
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
 
@@ -221,10 +225,6 @@ Cloud Design Patterns
 ![icon](favicons/martinfowler.png)
 Catalog of Patterns of Distributed Systems | Unmesh Joshi  
 <https://martinfowler.com/articles/patterns-of-distributed-systems/>  
-
-![icon](favicons/microsoft.png)
-Enterprise Web App Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/martinfowler.png)
 Software Architecture, Microservices | Martin Fowler  
