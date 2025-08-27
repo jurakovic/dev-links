@@ -37,6 +37,10 @@ Visual Studio Magazine
 ASP.NET Core documentation  
 <https://learn.microsoft.com/en-us/aspnet/core/fundamentals/>  
 
+![icon](favicons/microsoft.png)
+.NET API browser  
+<https://learn.microsoft.com/en-us/dotnet/api/>  
+
 ![icon](favicons/apisofnet.png)
 .NET API Catalog  
 <https://apisof.net/catalog>  
