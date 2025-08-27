@@ -258,12 +258,12 @@ Clean Architecture Solution Templates / Reference Applications
 > <details>
 > <summary>Additional Examples</summary>
 > 
-> <https://github.com/fullstackhero/dotnet-starter-kit>  
-> <https://github.com/ivanpaulovich/clean-architecture-manga>  
-> <https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
-> <https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
-> <https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
-> <https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
+> <a href="https://github.com/fullstackhero/dotnet-starter-kit">https://github.com/fullstackhero/dotnet-starter-kit</a><br>
+> <a href="https://github.com/ivanpaulovich/clean-architecture-manga">https://github.com/ivanpaulovich/clean-architecture-manga</a><br>
+> <a href="https://github.com/evolutionary-architecture/evolutionary-architecture-by-example">https://github.com/evolutionary-architecture/evolutionary-architecture-by-example</a><br>
+> <a href="https://github.com/Youbiquitous/project-renoir">https://github.com/Youbiquitous/project-renoir</a> (<a href="https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368">book</a>)<br>
+> <a href="https://github.com/jbogard/ContosoUniversityDotNetCore-Pages">https://github.com/jbogard/ContosoUniversityDotNetCore-Pages</a><br>
+> <a href="https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/">https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/</a><br>
 > 
 > </details>
 
