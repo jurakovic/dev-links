@@ -248,7 +248,7 @@ Software Architect Roadmap
 <https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates / Reference Applications  
+Clean Architecture Reference Applications / Solution Templates  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/alex289/CleanArchitecture>  
