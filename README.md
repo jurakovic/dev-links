@@ -96,6 +96,10 @@ Technical Documentation
 Transact-SQL reference (Database Engine)  
 <https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
 
+![icon](favicons/microsoft.png)
+SQL projects  
+<https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16>  
+
 ![icon](favicons/use-the-index-luke.png)
 SQL Indexing and Tuning  
 <https://use-the-index-luke.com>  
@@ -118,7 +122,7 @@ Trunk Based Development | Paul Hammant
 
 ![icon](favicons/conventionalcommits.png)
 Conventional Commits  
-<https://www.conventionalcommits.org/en/v1.0.0/> ([GitHub](https://github.com/conventional-commits/conventionalcommits.org))  
+<https://www.conventionalcommits.org> ([GitHub](https://github.com/conventional-commits/conventionalcommits.org))  
 
 ![icon](favicons/martinfowler.png)
 Agile, Software Delivery | Martin Fowler  
