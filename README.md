@@ -173,14 +173,6 @@ Microsoft Graph REST API Guidelines
 <https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md>  
 <https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design>  
 
-![icon](favicons/microsoft.png)
-Cloud Design Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
-
-![icon](favicons/microsoft.png)
-Enterprise Web App Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
-
 ![icon](favicons/github.png)
 Clean Code for .NET / .NET Core  
 <https://github.com/thangchung/clean-code-dotnet>  
@@ -220,6 +212,14 @@ Azure Application Architecture Fundamentals
 ![icon](favicons/microsoft.png)
 Microservices Architecture Design  
 <https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
+
+![icon](favicons/microsoft.png)
+Cloud Design Patterns  
+<https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
+
+![icon](favicons/microsoft.png)
+Enterprise Web App Patterns  
+<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/martinfowler.png)
 Software Architecture, Microservices | Martin Fowler  
