@@ -211,6 +211,10 @@ Azure Application Architecture Fundamentals
 <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/> ([book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf))  
 
 ![icon](favicons/microsoft.png)
+Azure Well-Architected Framework  
+<https://learn.microsoft.com/en-us/azure/well-architected/>  
+
+![icon](favicons/microsoft.png)
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
