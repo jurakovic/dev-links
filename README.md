@@ -116,6 +116,10 @@ Engineering Fundamentals Playbook
 Trunk Based Development | Paul Hammant  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
 
+![icon](favicons/conventionalcommits.png)
+Conventional Commits  
+<https://www.conventionalcommits.org/en/v1.0.0/> ([GitHub](https://github.com/conventional-commits/conventionalcommits.org))  
+
 ![icon](favicons/martinfowler.png)
 Agile, Software Delivery | Martin Fowler  
 <https://martinfowler.com/agile.html>  
