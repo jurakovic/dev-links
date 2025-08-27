@@ -218,6 +218,10 @@ Microservices Architecture Design
 Cloud Design Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
 
+![icon](favicons/martinfowler.png)
+Catalog of Patterns of Distributed Systems | Unmesh Joshi  
+<https://martinfowler.com/articles/patterns-of-distributed-systems/>  
+
 ![icon](favicons/microsoft.png)
 Enterprise Web App Patterns  
 <https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
