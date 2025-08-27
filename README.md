@@ -158,6 +158,7 @@ Manifesto for Minimalist Software Engineers
 C# conventions  
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names>  
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions>  
+<https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md> ([coding guidelines](https://github.com/dotnet/runtime/tree/main/docs/coding-guidelines))  
 
 ![icon](favicons/microsoft.png)
 Framework Design Guidelines  
