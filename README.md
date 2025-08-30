@@ -358,7 +358,7 @@ Jimmy Bogard
 
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
-<https://www.devlead.se/>  
+<https://www.devlead.se>  
 <https://github.com/devlead>  
 
 ![icon](favicons/steven-giesel.png)
@@ -370,6 +370,11 @@ Steven Giesel
 Adam Sitnik | .NET Performance and Reliability  
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
+
+![icon](favicons/minidump.png)
+Kevin Gosse | minidump.net  
+<https://minidump.net>  
+<https://github.com/kevingosse>  
 
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
