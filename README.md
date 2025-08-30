@@ -232,12 +232,12 @@ Azure Well-Architected Framework
 
 ![icon](favicons/microsoft.png)
 Enterprise Web App pattern for .NET  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance>  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance>  
+[https://learn.microsoft.com/en-us/azure/architecture/.../reliable-web-app/dotnet/guidance](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance)  
+[https://learn.microsoft.com/en-us/azure/architecture/.../modern-web-app/dotnet/guidance](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance)  
 
 ![icon](favicons/microsoft.png)
-Microservices Architecture Design  
-<https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
+Microservices Architecture Style  
+<https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices>  
 
 ![icon](favicons/microsoft.png)
 Cloud Design Patterns  
