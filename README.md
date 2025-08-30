@@ -77,7 +77,7 @@ C# documentation
 
 ![icon](favicons/microsoft.png)
 C# language reference  
-<https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types>  
+<https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types>  
 
 ![icon](favicons/blank.png)
 Threading in C# | Joseph Albahari  
