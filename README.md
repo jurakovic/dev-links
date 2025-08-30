@@ -356,6 +356,11 @@ Jimmy Bogard
 [https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
 
+![icon](favicons/devlead.png)
+Mattias Karlsson | devlead  
+<https://www.devlead.se/>  
+<https://github.com/devlead>  
+
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
 <https://steven-giesel.com/archive>  
