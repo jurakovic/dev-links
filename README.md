@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Leadership](#blogs-leadership)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
@@ -449,7 +449,12 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### <a name="blogs-leadership"></a>Leadership <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+![icon](favicons/terriblesoftware.png)
+Matheus Lima | Terrible Software  
+<https://terriblesoftware.org/>  
+<https://github.com/matheusml>  
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
