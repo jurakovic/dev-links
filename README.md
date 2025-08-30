@@ -102,7 +102,9 @@ Transact-SQL reference (Database Engine)
 
 ![icon](favicons/microsoft.png)
 SQL projects  
-<https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16>  
+[https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects](https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16)  
+[https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style](https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style?view=sql-server-ver16)  
+[https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) ([GitHub](https://github.com/microsoft/dacfx))  
 
 ![icon](favicons/use-the-index-luke.png)
 SQL Indexing and Tuning  
