@@ -184,7 +184,7 @@ REST API Guidelines
 > <summary>Additional Resources</summary>
 > 
 > <a href="https://github.com/microsoft/api-guidelines">https://github.com/microsoft/api-guidelines</a><br>
-> <a href="https://github.com/Microsoft/typespec">https://github.com/Microsoft/typespec</a><br>
+> <a href="https://github.com/microsoft/typespec">https://github.com/microsoft/typespec</a><br>
 > <a href="https://github.com/OAI/OpenAPI-Specification/">https://github.com/OAI/OpenAPI-Specification/</a><br>
 > 
 > </details>
@@ -231,8 +231,9 @@ Azure Well-Architected Framework
 <https://learn.microsoft.com/en-us/azure/well-architected/>  
 
 ![icon](favicons/microsoft.png)
-Enterprise Web App Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
+Enterprise Web App pattern for .NET  
+<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance>  
+<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance>  
 
 ![icon](favicons/microsoft.png)
 Microservices Architecture Design  
