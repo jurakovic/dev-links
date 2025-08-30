@@ -336,6 +336,11 @@ Andrew Lock | .NET Escapades
 <https://andrewlock.net>  
 <https://github.com/andrewlock>  
 
+![icon](favicons/wp.png)
+Dave Callan | .NET, VS, EF  
+<https://davecallan.com>  
+<https://github.com/davepcallan>  
+
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
