@@ -392,6 +392,10 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+
 ![icon](favicons/jonhilton.png)
 Jon Hilton (Blazor)  
 <https://jonhilton.net/post/>  
@@ -406,9 +410,6 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 -->
 
-![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
-<https://enterprisecraftsmanship.com/archives>  
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
@@ -421,6 +422,23 @@ Salvatore Sanfilippo | antirez
 Simon Willison  
 <https://simonwillison.net>  
 <https://github.com/simonw>  
+
+![icon](favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+<https://nickcraver.com/blog/>  
+<https://github.com/NickCraver>  
+
+![icon](favicons/codinghorror.png)
+Jeff Atwood | Coding Horror  
+<https://blog.codinghorror.com>  
+
+![icon](favicons/joelonsoftware.png)
+Joel Spolsky | Joel on Software  
+<https://www.joelonsoftware.com>  
+
+![icon](favicons/neilonsoftware.png)
+Neil Green | Neil on Software (Podcast)  
+<https://neilonsoftware.com/articles/>  
 
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
@@ -436,6 +454,10 @@ Paul Hammant | CTO, Trunk-Based Development expert
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
 
+![icon](favicons/sizovs.png)
+Eduards Sizovs | The Principal Developer  
+<https://sizovs.net>  
+
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
 <https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
@@ -444,45 +466,14 @@ Bart Wullems | The Art of Simplicity
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 
+![icon](favicons/vadimkravcenko.png)
+Vadim Kravcenko | CTO  
+<https://vadimkravcenko.com/newsletter/#h-past-issues>  
+
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
 <https://thecodist.com>  
 
-> <details>
-> <summary>Archive</summary>
-> <p><i>No longer active, but still have lots of great content</i></p>
-> <p>
-> <img src="favicons/nickcraver.png">
-> Nick Craver | Software Imagineering<br>
-> <a href="https://nickcraver.com/blog/">https://nickcraver.com/blog/</a><br>
-> <a href="https://github.com/NickCraver">https://github.com/NickCraver</a>
-> </p>
-> <p>
-> <img src="favicons/codinghorror.png">
-> Jeff Atwood | Coding Horror<br>
-> <a href="https://blog.codinghorror.com">https://blog.codinghorror.com</a><br>
-> </p>
-> <p>
-> <img src="favicons/joelonsoftware.png">
-> Joel Spolsky | Joel on Software<br>
-> <a href="https://www.joelonsoftware.com">https://www.joelonsoftware.com</a><br>
-> </p>
-> <p>
-> <img src="favicons/neilonsoftware.png">
-> Neil Green | Neil on Software (Podcast)<br>
-> <a href="https://neilonsoftware.com/articles/">https://neilonsoftware.com/articles/</a><br>
-> </p>
-> <p>
-> <img src="favicons/sizovs.png">
-> Eduards Sizovs | The Principal Developer<br>
-> <a href="https://sizovs.net">https://sizovs.net</a><br>
-> </p>
-> <p>
-> <img src="favicons/vadimkravcenko.png">
-> Vadim Kravcenko | CTO<br>
-> <a href="https://vadimkravcenko.com/newsletter/#h-past-issues">https://vadimkravcenko.com/newsletter/#h-past-issues</a><br>
-> </p>
-> </details>
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
