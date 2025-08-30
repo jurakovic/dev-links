@@ -408,23 +408,6 @@ Mike Brind (Razor Pages, Blazor)
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
-![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
-<https://nickcraver.com/blog/>  
-<https://github.com/NickCraver>  
-
-![icon](favicons/codinghorror.png)
-Jeff Atwood | Coding Horror  
-<https://blog.codinghorror.com>  
-
-![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software  
-<https://www.joelonsoftware.com>  
-
-![icon](favicons/neilonsoftware.png)
-Neil Green | Neil on Software (Podcast)  
-<https://neilonsoftware.com/articles/>  
-
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
@@ -438,10 +421,6 @@ Kent Beck | Software Design: Tidy First?
 Paul Hammant | CTO, Trunk-Based Development expert  
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
-
-![icon](favicons/sizovs.png)
-Eduards Sizovs | The Principal Developer  
-<https://sizovs.net>  
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
@@ -472,7 +451,26 @@ Andrew Wulf | The Codist
 > <a href="https://nickcraver.com/blog/">https://nickcraver.com/blog/</a><br>
 > <a href="https://github.com/NickCraver">https://github.com/NickCraver</a>
 > </p>
-> 
+> <p>
+> <img src="favicons/codinghorror.png">
+> Jeff Atwood | Coding Horror<br>
+> <a href="https://blog.codinghorror.com">https://blog.codinghorror.com</a><br>
+> </p>
+> <p>
+> <img src="favicons/joelonsoftware.png">
+> Joel Spolsky | Joel on Software<br>
+> <a href="https://www.joelonsoftware.com">https://www.joelonsoftware.com</a><br>
+> </p>
+> <p>
+> <img src="favicons/neilonsoftware.png">
+> Neil Green | Neil on Software (Podcast)<br>
+> <a href="https://neilonsoftware.com/articles/">https://neilonsoftware.com/articles/</a><br>
+> </p>
+> <p>
+> <img src="favicons/sizovs.png">
+> Eduards Sizovs | The Principal Developer<br>
+> <a href="https://sizovs.net">https://sizovs.net</a><br>
+> </p>
 > </details>
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
