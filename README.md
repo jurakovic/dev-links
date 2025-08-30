@@ -463,6 +463,17 @@ Vadim Kravcenko | CTO
 Andrew Wulf | The Codist  
 <https://thecodist.com>  
 
+> <details>
+> <summary>Archive</summary>
+> <p><i>No longer active, but still have lots of great content</i></p>
+> <p>
+> <img src="favicons/nickcraver.png">
+> Nick Craver | Software Imagineering<br>
+> <a href="https://nickcraver.com/blog/">https://nickcraver.com/blog/</a><br>
+> <a href="https://github.com/NickCraver">https://github.com/NickCraver</a>
+> </p>
+> 
+> </details>
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
