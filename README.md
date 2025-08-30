@@ -31,7 +31,7 @@ Visual Studio Blog
 
 ![icon](favicons/vsm.png)
 Visual Studio Magazine  
-<https://visualstudiomagazine.com/Home.aspx>  
+<https://visualstudiomagazine.com>  
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
@@ -168,11 +168,25 @@ Framework Design Guidelines
 Library Guidance  
 <https://learn.microsoft.com/en-us/dotnet/standard/library-guidance/>  
 
-![icon](favicons/github.png)
-Microsoft Graph REST API Guidelines  
-<https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md>  
-<https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md>  
+![icon](favicons/microsoft.png)
+REST API Guidelines  
 <https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/azure/ConsiderationsForServiceDesign.md>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/azure/Guidelines.md>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md>  
+<!--
+<https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md>  
+-->
+
+> <details>
+> <summary>Additional Resources</summary>
+> 
+> <a href="https://github.com/microsoft/api-guidelines">https://github.com/microsoft/api-guidelines</a><br>
+> <a href="https://github.com/Microsoft/typespec">https://github.com/Microsoft/typespec</a><br>
+> <a href="https://github.com/OAI/OpenAPI-Specification/">https://github.com/OAI/OpenAPI-Specification/</a><br>
+> 
+> </details>
+
 
 ![icon](favicons/github.png)
 Clean Code for .NET / .NET Core  
