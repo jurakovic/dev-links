@@ -382,13 +382,14 @@ Jon Hilton (Blazor)
 <https://jonhilton.net/post/>  
 <https://github.com/jonhilt>  
 
+<!--
 ![icon](favicons/mikesdotnetting.png)
 Mike Brind (Razor Pages, Blazor)  
 <https://www.mikesdotnetting.com>  
 <https://www.learnrazorpages.com>  
 <https://www.learnblazor.com>  
 <https://github.com/mikebrind>  
-
+-->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
