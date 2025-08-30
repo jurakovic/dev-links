@@ -307,11 +307,11 @@ CodeProject | The Insiders
 Hacker News  
 <https://news.ycombinator.com/news>  
 
+<!--
 ![icon](favicons/lobsters.png)
 Lobsters  
 <https://lobste.rs>  
 
-<!--
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
