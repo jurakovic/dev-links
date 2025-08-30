@@ -406,7 +406,21 @@ Mike Brind (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 -->
 
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+![icon](favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
 
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
@@ -429,10 +443,6 @@ Bart Wullems | The Art of Simplicity
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
-
-![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
-<https://enterprisecraftsmanship.com/archives>  
 
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
