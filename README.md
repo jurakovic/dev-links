@@ -367,7 +367,7 @@ Steven Giesel
 <https://github.com/linkdotnet>  
 
 ![icon](favicons/blank.png)
-Adam Sitnik | .NET Performance and Reliability  
+Adam Sitnik | .NET Performance and Reliability <sup><sub>⭕</sub></sup>  
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
 
@@ -377,7 +377,7 @@ Kevin Gosse | minidump.net
 <https://github.com/kevingosse>  
 
 ![icon](favicons/mattwarren.png)
-Matt Warren | Performance is a Feature!  
+Matt Warren | Performance is a Feature! <sup><sub>­­­­­­⭕</sub></sup>  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
 
@@ -393,7 +393,7 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://github.com/ErikEJ>  
 
 ![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
+Vladimir Khorikov | Enterprise Craftsmanship <sup><sub>­­­­­­⭕</sub></sup>  
 <https://enterprisecraftsmanship.com/archives>  
 
 ![icon](favicons/jonhilton.png)
@@ -424,20 +424,20 @@ Simon Willison
 <https://github.com/simonw>  
 
 ![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
+Nick Craver | Software Imagineering <sup><sub>­­­­­­⭕</sub></sup>  
 <https://nickcraver.com/blog/>  
 <https://github.com/NickCraver>  
 
 ![icon](favicons/codinghorror.png)
-Jeff Atwood | Coding Horror  
+Jeff Atwood | Coding Horror <sup><sub>­­­­­­⭕</sub></sup>  
 <https://blog.codinghorror.com>  
 
 ![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software  
+Joel Spolsky | Joel on Software <sup><sub>­­­­­­⭕</sub></sup>  
 <https://www.joelonsoftware.com>  
 
 ![icon](favicons/neilonsoftware.png)
-Neil Green | Neil on Software (Podcast)  
+Neil Green | Neil on Software (Podcast) <sup><sub>­­­­­­⭕</sub></sup>  
 <https://neilonsoftware.com/articles/>  
 
 ![icon](favicons/brendangregg.png)
@@ -455,7 +455,7 @@ Paul Hammant | CTO, Trunk-Based Development expert
 <https://github.com/paul-hammant>  
 
 ![icon](favicons/sizovs.png)
-Eduards Sizovs | The Principal Developer  
+Eduards Sizovs | The Principal Developer <sup><sub>­­­­­­⭕</sub></sup>  
 <https://sizovs.net>  
 
 ![icon](favicons/blogspot.png)
@@ -467,7 +467,7 @@ Gergely Orosz | The Pragmatic Engineer
 <https://blog.pragmaticengineer.com>  
 
 ![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko | CTO  
+Vadim Kravcenko | CTO <sup><sub>­­­­­­⭕</sub></sup>  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
 
 ![icon](favicons/thecodist.png)
