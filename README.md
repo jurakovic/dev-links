@@ -438,15 +438,11 @@ Paul Hammant | CTO, Trunk-Based Development expert
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com> [/.NET](https://bartwullems.blogspot.com/search/label/.NET) [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
+<https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
-
-![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko | CTO  
-<https://vadimkravcenko.com/newsletter/#h-past-issues>  
 
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
@@ -480,6 +476,11 @@ Andrew Wulf | The Codist
 > <img src="favicons/sizovs.png">
 > Eduards Sizovs | The Principal Developer<br>
 > <a href="https://sizovs.net">https://sizovs.net</a><br>
+> </p>
+> <p>
+> <img src="favicons/vadimkravcenko.png">
+> Vadim Kravcenko | CTO<br>
+> <a href="https://vadimkravcenko.com/newsletter/#h-past-issues">https://vadimkravcenko.com/newsletter/#h-past-issues</a><br>
 > </p>
 > </details>
 
