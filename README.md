@@ -17,8 +17,6 @@
 
 *Some documentation links point just to the introduction or overview page. For the rest of documentation use the site navigation.*
 
-*Blogs marked with 🔸 have not been updated for a while, but still contain valuable content.*
-
 * * *
 
 ## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -290,6 +288,8 @@ Clean Architecture Reference Applications / Solution Templates
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
+<sub>*A few blogs listed below have not been updated for a while, but still contain valuable content.*</sub>
+
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
 <https://www.wearedevelopers.com/magazine/software-development-blogs>  
@@ -369,7 +369,7 @@ Steven Giesel
 <https://github.com/linkdotnet>  
 
 ![icon](favicons/blank.png)
-Adam Sitnik | .NET Performance and Reliability 🔸  
+Adam Sitnik | .NET Performance and Reliability  
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
 
@@ -379,7 +379,7 @@ Kevin Gosse | minidump.net
 <https://github.com/kevingosse>  
 
 ![icon](favicons/mattwarren.png)
-Matt Warren | Performance is a Feature! 🔸  
+Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
 
@@ -395,7 +395,7 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://github.com/ErikEJ>  
 
 ![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship 🔸  
+Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
 
 ![icon](favicons/jonhilton.png)
@@ -426,20 +426,20 @@ Simon Willison
 <https://github.com/simonw>  
 
 ![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering 🔸  
+Nick Craver | Software Imagineering  
 <https://nickcraver.com/blog/>  
 <https://github.com/NickCraver>  
 
 ![icon](favicons/codinghorror.png)
-Jeff Atwood | Coding Horror 🔸  
+Jeff Atwood | Coding Horror  
 <https://blog.codinghorror.com>  
 
 ![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software 🔸  
+Joel Spolsky | Joel on Software  
 <https://www.joelonsoftware.com>  
 
 ![icon](favicons/neilonsoftware.png)
-Neil Green | Neil on Software (Podcast) 🔸  
+Neil Green | Neil on Software (Podcast)  
 <https://neilonsoftware.com/articles/>  
 
 ![icon](favicons/brendangregg.png)
@@ -457,7 +457,7 @@ Paul Hammant | CTO, Trunk-Based Development expert
 <https://github.com/paul-hammant>  
 
 ![icon](favicons/sizovs.png)
-Eduards Sizovs | The Principal Developer 🔸  
+Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
 
 ![icon](favicons/blogspot.png)
@@ -469,7 +469,7 @@ Gergely Orosz | The Pragmatic Engineer
 <https://blog.pragmaticengineer.com>  
 
 ![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko | CTO 🔸  
+Vadim Kravcenko | CTO  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
 
 ![icon](favicons/thecodist.png)
