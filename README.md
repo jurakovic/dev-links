@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Leadership](#blogs-leadership)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
@@ -31,11 +31,15 @@ Visual Studio Blog
 
 ![icon](favicons/vsm.png)
 Visual Studio Magazine  
-<https://visualstudiomagazine.com/Home.aspx>  
+<https://visualstudiomagazine.com>  
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
 <https://learn.microsoft.com/en-us/aspnet/core/fundamentals/>  
+
+![icon](favicons/microsoft.png)
+.NET API browser  
+<https://learn.microsoft.com/en-us/dotnet/api/>  
 
 ![icon](favicons/apisofnet.png)
 .NET API Catalog  
@@ -73,7 +77,7 @@ C# documentation
 
 ![icon](favicons/microsoft.png)
 C# language reference  
-<https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types>  
+<https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types>  
 
 ![icon](favicons/blank.png)
 Threading in C# | Joseph Albahari  
@@ -96,6 +100,12 @@ Technical Documentation
 Transact-SQL reference (Database Engine)  
 <https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
 
+![icon](favicons/microsoft.png)
+SQL projects  
+[https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects](https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16)  
+[https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style](https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style?view=sql-server-ver16)  
+[https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) ([GitHub](https://github.com/microsoft/dacfx))  
+
 ![icon](favicons/use-the-index-luke.png)
 SQL Indexing and Tuning  
 <https://use-the-index-luke.com>  
@@ -115,6 +125,10 @@ Engineering Fundamentals Playbook
 ![icon](favicons/trunkbaseddevelopment.png)
 Trunk Based Development | Paul Hammant  
 <https://trunkbaseddevelopment.com> ([GitHub](https://github.com/paul-hammant/tbd))  
+
+![icon](favicons/conventionalcommits.png)
+Conventional Commits  
+<https://www.conventionalcommits.org> ([GitHub](https://github.com/conventional-commits/conventionalcommits.org))  
 
 ![icon](favicons/martinfowler.png)
 Agile, Software Delivery | Martin Fowler  
@@ -146,6 +160,7 @@ Manifesto for Minimalist Software Engineers
 C# conventions  
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names>  
 <https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions>  
+<https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md> ([coding guidelines](https://github.com/dotnet/runtime/tree/main/docs/coding-guidelines))  
 
 ![icon](favicons/microsoft.png)
 Framework Design Guidelines  
@@ -155,19 +170,25 @@ Framework Design Guidelines
 Library Guidance  
 <https://learn.microsoft.com/en-us/dotnet/standard/library-guidance/>  
 
-![icon](favicons/github.png)
-Microsoft Graph REST API Guidelines  
-<https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md>  
-<https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md>  
+![icon](favicons/microsoft.png)
+REST API Guidelines  
 <https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/azure/ConsiderationsForServiceDesign.md>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/azure/Guidelines.md>  
+<https://github.com/microsoft/api-guidelines/blob/vNext/graph/GuidelinesGraph.md>  
+<!--
+<https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md>  
+-->
 
-![icon](favicons/microsoft.png)
-Cloud Design Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
+> <details>
+> <summary>Additional Resources</summary>
+> 
+> <a href="https://github.com/microsoft/api-guidelines">https://github.com/microsoft/api-guidelines</a><br>
+> <a href="https://github.com/microsoft/typespec">https://github.com/microsoft/typespec</a><br>
+> <a href="https://github.com/OAI/OpenAPI-Specification/">https://github.com/OAI/OpenAPI-Specification/</a><br>
+> 
+> </details>
 
-![icon](favicons/microsoft.png)
-Enterprise Web App Patterns  
-<https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview>  
 
 ![icon](favicons/github.png)
 Clean Code for .NET / .NET Core  
@@ -206,13 +227,30 @@ Azure Application Architecture Fundamentals
 <https://learn.microsoft.com/en-us/dotnet/architecture/microservices/> ([book](https://dotnet.microsoft.com/en-us/download/e-book/microservices-architecture/pdf))  
 
 ![icon](favicons/microsoft.png)
-Microservices Architecture Design  
-<https://learn.microsoft.com/en-us/azure/architecture/microservices/>  
+Azure Well-Architected Framework  
+<https://learn.microsoft.com/en-us/azure/well-architected/>  
+
+![icon](favicons/microsoft.png)
+Enterprise Web App pattern for .NET  
+[https://learn.microsoft.com/en-us/azure/architecture/.../reliable-web-app/dotnet/guidance](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance)  
+[https://learn.microsoft.com/en-us/azure/architecture/.../modern-web-app/dotnet/guidance](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance)  
+
+![icon](favicons/microsoft.png)
+Microservices Architecture Style  
+<https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices>  
+
+![icon](favicons/microsoft.png)
+Cloud Design Patterns  
+<https://learn.microsoft.com/en-us/azure/architecture/patterns/>  
 
 ![icon](favicons/martinfowler.png)
 Software Architecture, Microservices | Martin Fowler  
 <https://martinfowler.com/architecture/>  
 <https://martinfowler.com/microservices/>  
+
+![icon](favicons/martinfowler.png)
+Catalog of Patterns of Distributed Systems | Unmesh Joshi  
+<https://martinfowler.com/articles/patterns-of-distributed-systems/>  
 
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
@@ -227,21 +265,30 @@ Software Architect Roadmap
 <https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
 
 ![icon](favicons/github.png)
-Clean Architecture Solution Templates / Reference Applications  
+Clean Architecture Reference Applications / Solution Templates  
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
-<https://github.com/fullstackhero/dotnet-starter-kit>  
-<https://github.com/ivanpaulovich/clean-architecture-manga>  
-<https://github.com/evolutionary-architecture/evolutionary-architecture-by-example>  
+<https://github.com/alex289/CleanArchitecture>  
 <https://github.com/dotnet/eShop>, [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
 <https://github.com/NimblePros/eShopOnWeb>  
-<https://github.com/Youbiquitous/project-renoir> ([book](https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368))  
-<https://github.com/jbogard/ContosoUniversityDotNetCore-Pages>  
-<https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/>  
+
+> <details>
+> <summary>Additional Examples</summary>
+> 
+> <a href="https://github.com/fullstackhero/dotnet-starter-kit">https://github.com/fullstackhero/dotnet-starter-kit</a><br>
+> <a href="https://github.com/ivanpaulovich/clean-architecture-manga">https://github.com/ivanpaulovich/clean-architecture-manga</a><br>
+> <a href="https://github.com/evolutionary-architecture/evolutionary-architecture-by-example">https://github.com/evolutionary-architecture/evolutionary-architecture-by-example</a><br>
+> <a href="https://github.com/Youbiquitous/project-renoir">https://github.com/Youbiquitous/project-renoir</a> (<a href="https://www.microsoftpressstore.com/store/clean-architecture-with-.net-9780138203368">book</a>)<br>
+> <a href="https://github.com/jbogard/ContosoUniversityDotNetCore-Pages">https://github.com/jbogard/ContosoUniversityDotNetCore-Pages</a><br>
+> <a href="https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/">https://devblogs.microsoft.com/ise/next-level-clean-architecture-boilerplate/</a><br>
+> 
+> </details>
 
 * * *
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+
+<sub>*A few blogs listed below have not been updated for a while, but they still contain valuable content.*</sub>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
@@ -262,11 +309,11 @@ CodeProject | The Insiders
 Hacker News  
 <https://news.ycombinator.com/news>  
 
+<!--
 ![icon](favicons/lobsters.png)
 Lobsters  
 <https://lobste.rs>  
 
-<!--
 ![icon](favicons/reddit.png)
 r/programming  
 <https://www.reddit.com/r/programming/>  
@@ -291,6 +338,11 @@ Andrew Lock | .NET Escapades
 <https://andrewlock.net>  
 <https://github.com/andrewlock>  
 
+![icon](favicons/wp.png)
+Dave Callan | .NET, VS, EF  
+<https://davecallan.com>  
+<https://github.com/davepcallan>  
+
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
@@ -306,6 +358,11 @@ Jimmy Bogard
 [https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
 
+![icon](favicons/devlead.png)
+Mattias Karlsson | devlead  
+<https://www.devlead.se>  
+<https://github.com/devlead>  
+
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
 <https://steven-giesel.com/archive>  
@@ -315,6 +372,11 @@ Steven Giesel
 Adam Sitnik | .NET Performance and Reliability  
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
+
+![icon](favicons/minidump.png)
+Kevin Gosse | minidump.net  
+<https://minidump.net>  
+<https://github.com/kevingosse>  
 
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
@@ -332,6 +394,10 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+
 ![icon](favicons/jonhilton.png)
 Jon Hilton (Blazor)  
 <https://jonhilton.net/post/>  
@@ -346,6 +412,16 @@ Mike Brind (Razor Pages, Blazor)
 
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+![icon](favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -384,15 +460,11 @@ Eduards Sizovs | The Principal Developer
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com> [/.NET](https://bartwullems.blogspot.com/search/label/.NET) [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
+<https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
-
-![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
-<https://enterprisecraftsmanship.com/archives>  
 
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
@@ -403,7 +475,12 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 
 
-#### <a name="blogs-leadership"></a>Leadership <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+![icon](favicons/terriblesoftware.png)
+Matheus Lima | Terrible Software  
+<https://terriblesoftware.org/>  
+<https://github.com/matheusml>  
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
