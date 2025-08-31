@@ -288,7 +288,7 @@ Clean Architecture Reference Applications / Solution Templates
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
-<sub>*A few blogs listed below have not been updated for a while, but still contain valuable content.*</sub>
+<sub>*A few blogs listed below have not been updated for a while, but they still contain valuable content.*</sub>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
