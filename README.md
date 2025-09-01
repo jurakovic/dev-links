@@ -27,7 +27,7 @@
 
 > <details>
 > <summary>Latest Posts</summary>
-> <div id="dotnet">
+> <div id="dotnet" class="blog-posts-small">
 > <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
 > </div>
 > </details>
@@ -38,7 +38,7 @@ Visual Studio Blog
 
 > <details>
 > <summary>Latest Posts</summary>
-> <div id="visualstudio">
+> <div id="visualstudio" class="blog-posts-small">
 > <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
 > </div>
 > </details>
@@ -49,7 +49,7 @@ Visual Studio Magazine
 
 > <details>
 > <summary>Latest Posts</summary>
-> <div id="visualstudiomagazine">
+> <div id="visualstudiomagazine" class="blog-posts-small">
 > <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
 > </div>
 > </details>
