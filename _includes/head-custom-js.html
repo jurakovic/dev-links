@@ -21,14 +21,13 @@
                 items.forEach(item => {
                     // Create list item with custom styling
                     const li = document.createElement('li');
-                    li.style.padding = '3px 0';
-                    //li.style.borderBottom = '1px solid #eee';
+                    li.style.padding = '2px 0';
+                    li.style.whiteSpace = 'nowrap'; // Prevent line breaking
 
                     // Create a small indicator instead of bullet
                     const indicator = document.createElement('span');
                     indicator.textContent = '›';  // Using a compact character as separator
                     indicator.style.marginRight = '6px';
-                    //indicator.style.color = '#666';
                     li.appendChild(indicator);
 
                     // Create anchor element
@@ -37,6 +36,8 @@
                     a.textContent = item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
+                    a.style.whiteSpace = 'nowrap'; // Ensure the anchor text doesn't wrap
+                    a.style.display = 'inline-block'; // Make the anchor behave like a block
 
                     // Append anchor to list item
                     li.appendChild(a);
