@@ -5,7 +5,28 @@
             el.style.display = 'none';
         });
     }
+    function loadPosts(name) {
+        fetch(`/dev-links/posts/${name}.json`)
+            .then(response => response.json())
+            .then(items => {
+                const container = document.getElementById(name);
+                if (!container) return;
+                items.slice(0, 5).forEach(item => {
+                    const a = document.createElement('a');
+                    a.href = item.link;
+                    a.textContent = item.title;
+                    a.target = '_blank';
+                    a.rel = 'noopener noreferrer';
+                    container.appendChild(a);
+                    container.appendChild(document.createElement('br'));
+                });
+            })
+            .catch(error => {
+                console.error(`Failed to load ${name} posts:`, error);
+            });
+    }
     document.addEventListener('DOMContentLoaded', () => {
         hideGhphiddenElements();
+        loadPosts('dotnet');
     });
 </script>
