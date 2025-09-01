@@ -25,7 +25,7 @@
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
 
-> <details>
+> <details style="display: none">
 > <summary>Latest Posts</summary>
 > <div id="dotnet">
 > </div>
@@ -35,7 +35,7 @@
 Visual Studio Blog  
 <https://devblogs.microsoft.com/visualstudio/>  
 
-> <details>
+> <details style="display: none">
 > <summary>Latest Posts</summary>
 > <div id="visualstudio">
 > <p>TODO</p>
@@ -46,7 +46,7 @@ Visual Studio Blog
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 
-> <details>
+> <details style="display: none">
 > <summary>Latest Posts</summary>
 > <div id="visualstudiomagazine">
 > <p>TODO</p>
