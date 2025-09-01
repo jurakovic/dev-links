@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Roadmap for AI in Visual Studio (September)",
+    "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/"
+  },
+  {
+    "title": "The Visual Studio August Update is here – smarter AI, better debugging, and more control",
+    "link": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/"
+  },
+  {
+    "title": "GitHub Copilot for Azure (Preview) Launches in Visual Studio 2022 with Azure MCP Support",
+    "link": "https://devblogs.microsoft.com/visualstudio/github-copilot-for-azure-preview-launches-in-visual-studio-2022-with-azure-mcp-support/"
+  },
+  {
+    "title": "Better Control over Your Copilot Code Suggestions",
+    "link": "https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/"
+  },
+  {
+    "title": "Bring Your Own Model to Chat in Visual Studio",
+    "link": "https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"
+  }
+]

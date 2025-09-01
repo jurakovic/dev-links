@@ -11,7 +11,7 @@
             .then(items => {
                 const container = document.getElementById(name);
                 if (!container) return;
-                items.slice(0, 5).forEach(item => {
+                items.forEach(item => {
                     const a = document.createElement('a');
                     a.href = item.link;
                     a.textContent = item.title;
@@ -28,5 +28,6 @@
     document.addEventListener('DOMContentLoaded', () => {
         hideGhphiddenElements();
         loadPosts('dotnet');
+        loadPosts('visualstudio');
     });
 </script>
