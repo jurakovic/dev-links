@@ -1,0 +1,11 @@
+<script>
+    function hideGhphiddenElements() {
+        const elements = document.querySelectorAll('.ghphidden');
+        elements.forEach(el => {
+            el.style.display = 'none';
+        });
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        hideGhphiddenElements();
+    });
+</script>
