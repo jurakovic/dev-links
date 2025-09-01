@@ -11,15 +11,30 @@
             .then(items => {
                 const container = document.getElementById(name);
                 if (!container) return;
+
+                // Create unordered list element
+                const ul = document.createElement('ul');
+
                 items.forEach(item => {
+                    // Create list item
+                    const li = document.createElement('li');
+
+                    // Create anchor element
                     const a = document.createElement('a');
                     a.href = item.link;
                     a.textContent = item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
-                    container.appendChild(a);
-                    container.appendChild(document.createElement('br'));
+
+                    // Append anchor to list item
+                    li.appendChild(a);
+
+                    // Append list item to unordered list
+                    ul.appendChild(li);
                 });
+
+                // Append the entire list to the container
+                container.appendChild(ul);
             })
             .catch(error => {
                 console.error(`Failed to load ${name} posts:`, error);
