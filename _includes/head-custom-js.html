@@ -12,12 +12,24 @@
                 const container = document.getElementById(name);
                 if (!container) return;
 
-                // Create unordered list element
+                // Create unordered list element with custom styling
                 const ul = document.createElement('ul');
+                ul.style.listStyleType = 'none'; // Remove default bullets
+                ul.style.padding = '0';
+                ul.style.margin = '0';
 
                 items.forEach(item => {
-                    // Create list item
+                    // Create list item with custom styling
                     const li = document.createElement('li');
+                    li.style.padding = '3px 0';
+                    //li.style.borderBottom = '1px solid #eee';
+
+                    // Create a small indicator instead of bullet
+                    const indicator = document.createElement('span');
+                    indicator.textContent = '›';  // Using a compact character as separator
+                    indicator.style.marginRight = '6px';
+                    //indicator.style.color = '#666';
+                    li.appendChild(indicator);
 
                     // Create anchor element
                     const a = document.createElement('a');
