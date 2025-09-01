@@ -25,39 +25,33 @@
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
 
-<div style="display: none">
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="dotnet">
-> </div>
-> </details>
+<details style="display: none">
+<summary>Latest Posts</summary>
+<div id="dotnet">
 </div>
+</details>
 
 ![icon](favicons/microsoft.png)
 Visual Studio Blog  
 <https://devblogs.microsoft.com/visualstudio/>  
 
-<div style="display: none">
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="visualstudio">
-> <p>TODO</p>
-> </div>
-> </details>
+<details style="display: none">
+<summary>Latest Posts</summary>
+<div id="visualstudio">
+<p>TODO</p>
 </div>
+</details>
 
 ![icon](favicons/vsm.png)
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 
-<div style="display: none">
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="visualstudiomagazine">
-> <p>TODO</p>
-> </div>
-> </details>
+<details style="display: none">
+<summary>Latest Posts</summary>
+<div id="visualstudiomagazine">
+<p>TODO</p>
 </div>
+</details>
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
