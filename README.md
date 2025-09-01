@@ -25,34 +25,40 @@
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
 
+> <small>
 > <details>
 > <summary>Latest Posts</summary>
 > <div id="dotnet">
 > <p class="ghphidden">Content visible only on Github Pages</p>
 > </div>
 > </details>
+> </small>
 
 ![icon](favicons/microsoft.png)
 Visual Studio Blog  
 <https://devblogs.microsoft.com/visualstudio/>  
 
+> <small>
 > <details>
 > <summary>Latest Posts</summary>
 > <div id="visualstudio">
 > <p class="ghphidden">Content visible only on Github Pages</p>
 > </div>
 > </details>
+> </small>
 
 ![icon](favicons/vsm.png)
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 
+> <small>
 > <details>
 > <summary>Latest Posts</summary>
 > <div id="visualstudiomagazine">
 > <p class="ghphidden">Content visible only on Github Pages</p>
 > </div>
 > </details>
+> </small>
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
