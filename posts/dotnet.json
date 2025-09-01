@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Getting Started with the Aspire CLI",
+    "link": "https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/"
+  },
+  {
+    "title": "EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio",
+    "link": "https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/"
+  },
+  {
+    "title": "MauiReactor: An MVU Approach for .NET MAUI",
+    "link": "https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/"
+  },
+  {
+    "title": "Enhance your CLI testing workflow with the new dotnet test",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/"
+  },
+  {
+    "title": "Copilot Diagnostics toolset for .NET In Visual Studio",
+    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/"
+  }
+]
