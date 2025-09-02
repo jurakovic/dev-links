@@ -277,6 +277,13 @@ Catalog of Patterns of Distributed Systems | Unmesh Joshi
 Microservices.io | Chris Richardson  
 <https://microservices.io>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="microservices" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/markrichards.png)
 Software Developer To Software Architect | Mark Richards  
 <https://developertoarchitect.com/lessons/>  

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Microservices rules #9: Develop observable services",
+    "link": "http://microservices.io//post/architecture/2025/08/02/premium-microservices-rules-9-observable-services.html"
+  },
+  {
+    "title": "Authentication and authorization in a microservice architecture: Part 3 - implementing authorization using JWT-based access tokens",
+    "link": "http://microservices.io//post/architecture/2025/07/22/microservices-authn-authz-part-3-jwt-authorization.html"
+  },
+  {
+    "title": "Vibe coding: the good, the almost, and the @#$%** - Part 2",
+    "link": "http://microservices.io//post/architecture/2025/07/09/vibe-coding-good-almost-other-part-2.html"
+  },
+  {
+    "title": "Microservices rules #8: Design testable services",
+    "link": "http://microservices.io//post/architecture/2025/07/09/premium-microservices-rules-8-testable-services.html"
+  },
+  {
+    "title": "Announcing the MEAP for Microservices Patterns, 2nd Edition",
+    "link": "http://microservices.io//post/architecture/2025/06/26/announcing-meap-microservices-patterns-2nd-edition.html"
+  }
+]
