@@ -399,30 +399,72 @@ Dave Callan | .NET, VS, EF
 <https://davecallan.com>  
 <https://github.com/davepcallan>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="davecallan" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
 <https://github.com/StephenCleary>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="stephencleary" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
 <https://github.com/jskeet>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="jonskeet" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
 [https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="jimmybogard" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
 <https://www.devlead.se>  
 <https://github.com/devlead>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="devlead" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
 <https://steven-giesel.com/archive>  
 <https://github.com/linkdotnet>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="steven-giesel" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/blank.png)
 Adam Sitnik | .NET Performance and Reliability  

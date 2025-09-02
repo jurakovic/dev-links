@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Divide and Conquer the Database",
+    "link": "https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3",
+    "pubDate": "Mon, 01 Sep 2025 05:53:00 Z"
+  },
+  {
+    "title": "Quick one: Difference between collection expressions and collection initializer",
+    "link": "https://steven-giesel.com/blogPost/fea0b033-ccf5-4197-b62c-ffd8ca6d79c7",
+    "pubDate": "Mon, 25 Aug 2025 06:01:00 Z"
+  },
+  {
+    "title": "Two more LINQ extensions in dotnet 10",
+    "link": "https://steven-giesel.com/blogPost/5d88d808-03ac-431a-82fa-756b59b38a7d",
+    "pubDate": "Mon, 18 Aug 2025 06:10:00 Z"
+  },
+  {
+    "title": "How to not return all properties in SqlRaw",
+    "link": "https://steven-giesel.com/blogPost/c6bea409-9e49-4915-8529-8a8a8574ba80",
+    "pubDate": "Mon, 11 Aug 2025 05:22:00 Z"
+  },
+  {
+    "title": "Disabling thread safety check in Entity Framework",
+    "link": "https://steven-giesel.com/blogPost/f1c14e0f-840c-4dd6-921c-364298a35d6f",
+    "pubDate": "Mon, 04 Aug 2025 05:51:00 Z"
+  }
+]
