@@ -363,6 +363,13 @@ Steve Smith, Ardalis
 <https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="ardalis" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/hanselman.png)
 Scott Hanselman  
 <https://www.hanselman.com/blog/>  
