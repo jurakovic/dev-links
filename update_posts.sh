@@ -1,10 +1,10 @@
 #!/bin/bash
 
-
 function update() {
   url=$1
   name=$2
-  curl -s "$url" -H 'user-agent: Mozilla/5.0' | yq -p=xml -o=json '.rss.channel.item | select(length > 0) | .[:5] | map({"title": .title, "link": .link})' > $name.json
+  curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
+  yq -p=xml -o=json '.rss.channel.item | select(length > 0) | .[:5] | map({"title": .title, "link": .link, "pubDate": .pubDate})' > $name.json
 }
 
 cd posts

@@ -1,22 +1,27 @@
 [
   {
     "title": "Getting Started with the Aspire CLI",
-    "link": "https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/"
+    "link": "https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/",
+    "pubDate": "Thu, 28 Aug 2025 17:05:00 +0000"
   },
   {
     "title": "EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio",
-    "link": "https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/"
+    "link": "https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/",
+    "pubDate": "Wed, 27 Aug 2025 17:05:00 +0000"
   },
   {
     "title": "MauiReactor: An MVU Approach for .NET MAUI",
-    "link": "https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/"
+    "link": "https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/",
+    "pubDate": "Mon, 25 Aug 2025 17:15:00 +0000"
   },
   {
     "title": "Enhance your CLI testing workflow with the new dotnet test",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/"
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/",
+    "pubDate": "Thu, 21 Aug 2025 17:05:00 +0000"
   },
   {
     "title": "Copilot Diagnostics toolset for .NET In Visual Studio",
-    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/"
+    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-diagnostics-toolset-for-dotnet-in-visual-studio/",
+    "pubDate": "Wed, 20 Aug 2025 17:05:00 +0000"
   }
 ]
