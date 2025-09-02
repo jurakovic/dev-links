@@ -1,5 +1,9 @@
 [
   {
+    "title": "Boost Your Copilot Collaboration with Reusable Prompt Files",
+    "link": "https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/"
+  },
+  {
     "title": "Roadmap for AI in Visual Studio (September)",
     "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/"
   },
@@ -14,9 +18,5 @@
   {
     "title": "Better Control over Your Copilot Code Suggestions",
     "link": "https://devblogs.microsoft.com/visualstudio/better-control-over-your-copilot-code-suggestions/"
-  },
-  {
-    "title": "Bring Your Own Model to Chat in Visual Studio",
-    "link": "https://devblogs.microsoft.com/visualstudio/bring-your-own-model-visual-studio-chat/"
   }
 ]
