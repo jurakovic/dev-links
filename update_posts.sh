@@ -2,7 +2,7 @@
 
 echo "test"
 
-jq -Version || {
+yq -Version || {
 	echo "jq is not installed. Please install jq to proceed."
 }
 
