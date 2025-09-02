@@ -471,15 +471,36 @@ Adam Sitnik | .NET Performance and Reliability
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="adamsitnik" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/minidump.png)
 Kevin Gosse | minidump.net  
 <https://minidump.net>  
 <https://github.com/kevingosse>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="minidump" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="mattwarren" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/haacked.png)
 Phil Haack | You've Been Haacked  
@@ -492,9 +513,23 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="erikej" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/enterprisecraftsmanship.png)
 Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="enterprisecraftsmanship" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/jonhilton.png)
 Jon Hilton (Blazor)  

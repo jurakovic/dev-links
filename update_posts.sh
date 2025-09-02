@@ -4,7 +4,18 @@ function update() {
   url=$1
   name=$2
   curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
-  yq -p=xml -o=json '.rss.channel.item | select(length > 0) | .[:5] | map({"title": .title, "link": .link, "pubDate": .pubDate})' > $name.json
+  yq -p=xml -o=json '
+    (
+      .rss.channel.item // .feed.entry
+    )
+    | select(length > 0)
+    | .[:5]
+    | map({
+        "title": ( .title["+content"] // .title // .title ),
+        "link": ( .link["+@href"] // .link.href // .link ),
+        "pubDate": (.pubDate // .published // .updated)
+      })
+  ' > $name.json
 }
 
 cd posts
@@ -23,3 +34,8 @@ update "https://codeblog.jonskeet.uk/feed/" "jonskeet"
 update "https://feeds.feedburner.com/grabbagoft" "jimmybogard"
 update "https://www.devlead.se/feed.rss" "devlead"
 update "https://steven-giesel.com/feed.rss" "steven-giesel"
+update "https://adamsitnik.com/feed.xml" "adamsitnik"
+update "https://minidump.net/index.xml" "minidump"
+update "https://mattwarren.org/atom.xml" "mattwarren"
+update "https://erikej.github.io/feed.xml" "erikej"
+update "https://enterprisecraftsmanship.com/index.xml" "enterprisecraftsmanship"
