@@ -288,6 +288,13 @@ Microservices.io | Chris Richardson
 Software Developer To Software Architect | Mark Richards  
 <https://developertoarchitect.com/lessons/>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="developertoarchitect" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
 <https://roadmap.sh/software-architect> ([GitHub](https://github.com/kamranahmedse/developer-roadmap))  
