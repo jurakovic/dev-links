@@ -19,6 +19,19 @@
                 ul.style.margin = '0';
 
                 items.forEach(item => {
+                    // Parse date and format as YYYY-MM-DD
+                    let dateStr = '';
+                    if (item.pubDate) {
+                        // Handles both "Thu, 28 Aug 2025 17:05:00 +0000" and "Tue, 26 Aug 2025 15:26:00 GMT"
+                        const dateObj = new Date(item.pubDate);
+                        if (!isNaN(dateObj)) {
+                            const yyyy = dateObj.getFullYear();
+                            const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+                            const dd = String(dateObj.getDate()).padStart(2, '0');
+                            dateStr = `${yyyy}-${mm}-${dd}`;
+                        }
+                    }
+
                     // Create list item with custom styling
                     const li = document.createElement('li');
                     li.style.padding = '2px 0';
@@ -33,7 +46,8 @@
                     // Create anchor element
                     const a = document.createElement('a');
                     a.href = item.link;
-                    a.textContent = item.title;
+                    // Set anchor text to "YYYY-MM-DD Title" if date is available
+                    a.textContent = dateStr ? `${dateStr} ${item.title}` : item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
                     a.style.whiteSpace = 'nowrap'; // Ensure the anchor text doesn't wrap
