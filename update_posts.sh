@@ -15,3 +15,4 @@ update "https://visualstudiomagazine.com/rss-feeds/news.aspx" "visualstudiomagaz
 update "https://microservices.io/feed.xml" "microservices"
 update "https://www.developertoarchitect.com/lessons/index.xml" "developertoarchitect"
 update "https://ardalis.com/rss.xml" "ardalis"
+update "https://www.hanselman.com/blog/feed/rss" "hanselman"
