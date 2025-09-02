@@ -387,6 +387,13 @@ Andrew Lock | .NET Escapades
 <https://andrewlock.net>  
 <https://github.com/andrewlock>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="andrewlock" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/wp.png)
 Dave Callan | .NET, VS, EF  
 <https://davecallan.com>  
