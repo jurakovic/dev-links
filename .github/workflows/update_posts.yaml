@@ -26,4 +26,6 @@ jobs:
       - name: Build
         run: |
           ./update_posts.sh
+
+          git status -s
         shell: bash {0}
