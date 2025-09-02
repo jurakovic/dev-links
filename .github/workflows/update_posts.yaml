@@ -1,0 +1,29 @@
+name: Update Posts
+
+permissions:
+  contents: write
+
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: '${{ github.ref_name }}'
+          fetch-depth: 0
+
+      - name: Git Config
+        run: |
+          git config core.fileMode false
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          chmod +x ./update_posts.sh
+        shell: bash
+
+      - name: Build
+        run: |
+          ./update_posts.sh
+        shell: bash {0}
