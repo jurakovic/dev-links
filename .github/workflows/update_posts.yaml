@@ -3,7 +3,9 @@ name: Update Posts
 permissions:
   contents: write
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '0 4 * * *' # 06:00 CEST
 
 jobs:
   build:
@@ -28,4 +30,10 @@ jobs:
           ./update_posts.sh
 
           git status -s
+          git add .
+          git diff --cached --quiet --exit-code
+          if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
+
+          git commit -m "Update latest posts"
+          git push
         shell: bash {0}
