@@ -507,6 +507,13 @@ Phil Haack | You've Been Haacked
 <https://haacked.com/archives/>  
 <https://github.com/haacked>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="haacked" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
 <https://erikej.github.io>  
@@ -551,10 +558,24 @@ Salvatore Sanfilippo | antirez
 <https://antirez.com>  
 <https://github.com/antirez>  
 
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="antirez" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
+
 ![icon](favicons/simonwillison.png)
 Simon Willison  
 <https://simonwillison.net>  
 <https://github.com/simonw>  
+
+> <details>
+> <summary>Latest Posts</summary>
+> <div id="simonwillison" class="blog-posts-small">
+> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
+> </div>
+> </details>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
