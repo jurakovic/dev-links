@@ -5,7 +5,7 @@ function update() {
   name=$2
   echo "Processing feed: $name"
 
-  curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
+  curl -s --compressed "$url" -H 'user-agent: Mozilla/5.0' | \
   yq -p=xml -o=json '
     (
       .rss.channel.item // .feed.entry
@@ -36,8 +36,6 @@ function update() {
   if [ $? -ne 0 ] ; then
     echo "  [ERROR] Failed to process $name ($url)"
     git restore "$name.json"
-  #else
-  #  echo "  [OK] $name.json written"
   fi
 }
 
