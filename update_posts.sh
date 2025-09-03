@@ -3,6 +3,8 @@
 function update() {
   url=$1
   name=$2
+  echo "Processing feed: $name"
+
   curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
   yq -p=xml -o=json '
     (
@@ -29,7 +31,14 @@ function update() {
             // .updated
         )
       })
-  ' > $name.json
+  ' > "$name.json"
+
+  if [ $? -ne 0 ] ; then
+    echo "  [ERROR] Failed to process $name ($url)"
+    git restore "$name.json"
+  #else
+  #  echo "  [OK] $name.json written"
+  fi
 }
 
 cd posts
