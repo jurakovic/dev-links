@@ -1,0 +1,27 @@
+[
+  {
+    "title": "SwiftUI Component Testing with Appium & Test Harnesses",
+    "link": "https://paulhammant.com/2025/06/30/swiftui-component-testing/",
+    "pubDate": "2025-06-30T00:00:00+00:00"
+  },
+  {
+    "title": "NightWatch Component Testing and visual documentation",
+    "link": "https://paulhammant.com/2025/06/25/nightwatch-component-testing/",
+    "pubDate": "2025-06-25T00:00:00+00:00"
+  },
+  {
+    "title": "Selenium Component Testing and visual documentation",
+    "link": "https://paulhammant.com/2025/06/22/selenium-component-testing/",
+    "pubDate": "2025-06-22T00:00:00+00:00"
+  },
+  {
+    "title": "Cypress Component Testing - Changing from Playwright for a demo repo",
+    "link": "https://paulhammant.com/2025/06/20/cypress-component-testing/",
+    "pubDate": "2025-06-20T00:00:00+00:00"
+  },
+  {
+    "title": "UI Component Testing Revisited: Modern Implementation with Visual Verification",
+    "link": "https://paulhammant.com/2025/06/17/ui-component-testing-revisited/",
+    "pubDate": "2025-06-17T00:00:00+00:00"
+  }
+]
