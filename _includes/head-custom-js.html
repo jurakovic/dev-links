@@ -1,4 +1,10 @@
 <script>
+    function hidePagesHiddenElements() {
+        const elements = document.querySelectorAll('.pages-hidden');
+        elements.forEach(el => {
+            el.style.display = 'none';
+        });
+    }
     function addExpandCollapseAllButton(targetSelector = "body", buttonContainerId = "posts-button") {
         // Find the container for the button
         const buttonContainer = document.getElementById(buttonContainerId);
@@ -105,6 +111,7 @@
             });
     }
     document.addEventListener('DOMContentLoaded', () => {
+        hidePagesHiddenElements();
         addExpandCollapseAllButton();
         loadPosts('dotnet');
         loadPosts('visualstudio');
