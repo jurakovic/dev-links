@@ -1,9 +1,33 @@
 <script>
-    function hideGhphiddenElements() {
-        const elements = document.querySelectorAll('.ghphidden');
-        elements.forEach(el => {
-            el.style.display = 'none';
+    function addExpandCollapseAllButton(targetSelector = "body", buttonContainerId = "posts-button") {
+        // Find the container for the button
+        const buttonContainer = document.getElementById(buttonContainerId);
+        if (!buttonContainer) return;
+
+        // Create the button
+        const button = document.createElement('button');
+        button.textContent = 'Expand All';
+        button.style.margin = '8px 0';
+        button.style.cursor = 'pointer';
+
+        // Track the state: expanded or collapsed
+        let expanded = false;
+
+        button.addEventListener('click', () => {
+            // Find all details elements in the target container
+            const container = document.querySelector(targetSelector);
+            if (!container) return;
+
+            const detailsList = container.querySelectorAll('details');
+            detailsList.forEach(details => {
+                details.open = !expanded;
+            });
+            expanded = !expanded;
+            button.textContent = expanded ? 'Collapse All Latest Posts' : 'Expand All Latest Posts';
         });
+
+        // Insert the button into the specified container
+        buttonContainer.appendChild(button);
     }
     function loadPosts(name) {
         fetch(`/dev-links/posts/${name}.json`)
@@ -81,7 +105,7 @@
             });
     }
     document.addEventListener('DOMContentLoaded', () => {
-        hideGhphiddenElements();
+        addExpandCollapseAllButton();
         loadPosts('dotnet');
         loadPosts('visualstudio');
         loadPosts('visualstudiomagazine');
