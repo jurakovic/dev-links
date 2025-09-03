@@ -39,9 +39,6 @@ function update() {
   fi
 }
 
-curl --version
-yq -Version
-
 cd posts
 
 update "https://devblogs.microsoft.com/dotnet/feed/" "dotnet"
@@ -78,3 +75,7 @@ update "https://bartwullems.blogspot.com/feeds/posts/default" "bartwullems"
 update "https://feeds.feedburner.com/ThePragmaticEngineer" "pragmaticengineer"
 update "https://vadimkravcenko.com/feed/" "vadimkravcenko"
 update "https://thecodist.com/rss/" "thecodist"
+
+update "https://terriblesoftware.org/feed/" "terriblesoftware"
+update "https://lethain.com/feeds/" "lethain"
+update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"

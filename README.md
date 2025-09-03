@@ -517,15 +517,18 @@ Andrew Wulf | The Codist
 Matheus Lima | Terrible Software  
 <https://terriblesoftware.org/>  
 <https://github.com/matheusml>  
+<div id="terriblesoftware" class="blog-posts"></div>
 
 ![icon](favicons/lethain.png)
 Will Larson | Irrational Exuberance  
 <https://lethain.com>  
 <https://staffeng.com>  
+<div id="lethain" class="blog-posts"></div>
 
 ![icon](favicons/effectiveengineer.png)
 Edmond Lau | The Effective Engineer  
 <https://www.effectiveengineer.com/blog>  
+<div id="effectiveengineer" class="blog-posts"></div>
 
 
 #### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
