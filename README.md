@@ -24,35 +24,17 @@
 ![icon](favicons/microsoft.png)
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="dotnet" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="dotnet" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
 Visual Studio Blog  
 <https://devblogs.microsoft.com/visualstudio/>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="visualstudio" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="visualstudio" class="blog-posts"></div>
 
 ![icon](favicons/vsm.png)
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="visualstudiomagazine" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="visualstudiomagazine" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
@@ -276,24 +258,12 @@ Catalog of Patterns of Distributed Systems | Unmesh Joshi
 ![icon](favicons/blank.png)
 Microservices.io | Chris Richardson  
 <https://microservices.io>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="microservices" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="microservices" class="blog-posts"></div>
 
 ![icon](favicons/markrichards.png)
 Software Developer To Software Architect | Mark Richards  
 <https://developertoarchitect.com/lessons/>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="developertoarchitect" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="developertoarchitect" class="blog-posts"></div>
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
@@ -362,181 +332,91 @@ Steve Smith, Ardalis
 <https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="ardalis" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="ardalis" class="blog-posts"></div>
 
 ![icon](favicons/hanselman.png)
 Scott Hanselman  
 <https://www.hanselman.com/blog/>  
 <https://github.com/shanselman>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="hanselman" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="hanselman" class="blog-posts"></div>
 
 ![icon](favicons/andrewlock.png)
 Andrew Lock | .NET Escapades  
 <https://andrewlock.net>  
 <https://github.com/andrewlock>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="andrewlock" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="andrewlock" class="blog-posts"></div>
 
 ![icon](favicons/wp.png)
 Dave Callan | .NET, VS, EF  
 <https://davecallan.com>  
 <https://github.com/davepcallan>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="davecallan" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="davecallan" class="blog-posts"></div>
 
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
 <https://github.com/StephenCleary>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="stephencleary" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="stephencleary" class="blog-posts"></div>
 
 ![icon](favicons/wp.png)
 Jon Skeet  
 <https://codeblog.jonskeet.uk>  
 <https://github.com/jskeet>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="jonskeet" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="jonskeet" class="blog-posts"></div>
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
 [https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
 <https://github.com/jbogard>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="jimmybogard" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="jimmybogard" class="blog-posts"></div>
 
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
 <https://www.devlead.se>  
 <https://github.com/devlead>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="devlead" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="devlead" class="blog-posts"></div>
 
 ![icon](favicons/steven-giesel.png)
 Steven Giesel  
 <https://steven-giesel.com/archive>  
 <https://github.com/linkdotnet>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="steven-giesel" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="steven-giesel" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
 Adam Sitnik | .NET Performance and Reliability  
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="adamsitnik" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="adamsitnik" class="blog-posts"></div>
 
 ![icon](favicons/minidump.png)
 Kevin Gosse | minidump.net  
 <https://minidump.net>  
 <https://github.com/kevingosse>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="minidump" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="minidump" class="blog-posts"></div>
 
 ![icon](favicons/mattwarren.png)
 Matt Warren | Performance is a Feature!  
 <https://mattwarren.org>  
 <https://github.com/mattwarren>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="mattwarren" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="mattwarren" class="blog-posts"></div>
 
 ![icon](favicons/haacked.png)
 Phil Haack | You've Been Haacked  
 <https://haacked.com/archives/>  
 <https://github.com/haacked>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="haacked" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="haacked" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
 <https://erikej.github.io>  
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="erikej" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="erikej" class="blog-posts"></div>
 
 ![icon](favicons/enterprisecraftsmanship.png)
 Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="enterprisecraftsmanship" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="enterprisecraftsmanship" class="blog-posts"></div>
 
 ![icon](favicons/jonhilton.png)
 Jon Hilton (Blazor)  
@@ -557,25 +437,13 @@ Mike Brind (Razor Pages, Blazor)
 Salvatore Sanfilippo | antirez  
 <https://antirez.com>  
 <https://github.com/antirez>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="antirez" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="antirez" class="blog-posts"></div>
 
 ![icon](favicons/simonwillison.png)
 Simon Willison  
 <https://simonwillison.net>  
 <https://github.com/simonw>  
-
-> <details>
-> <summary>Latest Posts</summary>
-> <div id="simonwillison" class="blog-posts-small">
-> <p class="ghphidden">Content visible only on <a href="https://jurakovic.github.io/dev-links/">https://jurakovic.github.io/dev-links/</a></p>
-> </div>
-> </details>
+<div id="simonwillison" class="blog-posts"></div>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  

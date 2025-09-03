@@ -9,12 +9,22 @@
         fetch(`/dev-links/posts/${name}.json`)
             .then(response => response.json())
             .then(items => {
-                const container = document.getElementById(name);
-                if (!container) return;
+                const root = document.getElementById(name);
+                if (!root) return;
+
+                // Clear the root container first (if reloading)
+                root.innerHTML = '';
+
+                // Create the nested structure
+                const blockquote = document.createElement('blockquote');
+                const details = document.createElement('details');
+                const summary = document.createElement('summary');
+                summary.textContent = 'Latest Posts';
+                const contentDiv = document.createElement('div');
 
                 // Create unordered list element with custom styling
                 const ul = document.createElement('ul');
-                ul.style.listStyleType = 'none'; // Remove default bullets
+                ul.style.listStyleType = 'none';
                 ul.style.padding = '0';
                 ul.style.margin = '0';
 
@@ -35,33 +45,36 @@
                     // Create list item with custom styling
                     const li = document.createElement('li');
                     li.style.padding = '2px 0';
-                    li.style.whiteSpace = 'nowrap'; // Prevent line breaking
+                    li.style.whiteSpace = 'nowrap';
 
-                    // Create a small indicator instead of bullet
+                    // Indicator
                     const indicator = document.createElement('span');
-                    indicator.textContent = '›';  // Using a compact character as separator
+                    indicator.textContent = '›';
                     indicator.style.marginRight = '6px';
                     li.appendChild(indicator);
 
-                    // Create anchor element
+                    // Anchor
                     const a = document.createElement('a');
                     a.href = item.link;
                     // Set anchor text to "YYYY-MM-DD Title" if date is available
                     a.textContent = dateStr ? `${dateStr} ${item.title}` : item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
-                    a.style.whiteSpace = 'nowrap'; // Ensure the anchor text doesn't wrap
-                    a.style.display = 'inline-block'; // Make the anchor behave like a block
-
-                    // Append anchor to list item
+                    a.style.whiteSpace = 'nowrap';
+                    a.style.display = 'inline-block';
                     li.appendChild(a);
 
-                    // Append list item to unordered list
                     ul.appendChild(li);
                 });
 
-                // Append the entire list to the container
-                container.appendChild(ul);
+                // Append ul to content div
+                contentDiv.appendChild(ul);
+
+                // Compose the structure
+                details.appendChild(summary);
+                details.appendChild(contentDiv);
+                blockquote.appendChild(details);
+                root.appendChild(blockquote);
             })
             .catch(error => {
                 console.error(`Failed to load ${name} posts:`, error);
