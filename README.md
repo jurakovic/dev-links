@@ -449,52 +449,64 @@ Simon Willison
 Nick Craver | Software Imagineering  
 <https://nickcraver.com/blog/>  
 <https://github.com/NickCraver>  
+<div id="nickcraver" class="blog-posts"></div>
 
 ![icon](favicons/codinghorror.png)
 Jeff Atwood | Coding Horror  
 <https://blog.codinghorror.com>  
+<div id="codinghorror" class="blog-posts"></div>
 
 ![icon](favicons/joelonsoftware.png)
 Joel Spolsky | Joel on Software  
 <https://www.joelonsoftware.com>  
+<div id="joelonsoftware" class="blog-posts"></div>
 
 ![icon](favicons/neilonsoftware.png)
 Neil Green | Neil on Software (Podcast)  
 <https://neilonsoftware.com/articles/>  
+<div id="neilonsoftware" class="blog-posts"></div>
 
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
+<div id="brendangregg" class="blog-posts"></div>
 
-![icon](favicons/substack.png)
+![icon](favicons/tidyfirst.png)
 Kent Beck | Software Design: Tidy First?  
 <https://tidyfirst.substack.com/archive>  
+<div id="tidyfirst" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
 Paul Hammant | CTO, Trunk-Based Development expert  
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
+<div id="paulhammant" class="blog-posts"></div>
 
 ![icon](favicons/sizovs.png)
 Eduards Sizovs | The Principal Developer  
 <https://sizovs.net>  
+<div id="sizovs" class="blog-posts"></div>
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
 <https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
+<div id="bartwullems" class="blog-posts"></div>
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
+<div id="pragmaticengineer" class="blog-posts"></div>
 
 ![icon](favicons/vadimkravcenko.png)
 Vadim Kravcenko | CTO  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
+<div id="vadimkravcenko" class="blog-posts"></div>
 
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
 <https://thecodist.com>  
+<div id="thecodist" class="blog-posts"></div>
 
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>

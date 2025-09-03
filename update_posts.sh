@@ -11,9 +11,23 @@ function update() {
     | select(length > 0)
     | .[:5]
     | map({
-        "title": ( .title["+content"] // .title // .title ),
-        "link": ( .link["+@href"] // .link.href // .link ),
-        "pubDate": (.pubDate // .published // .updated)
+        "title": (
+               .title.__text
+            // .title["+content"]
+            // .title
+        ),
+        "link": (
+              (.link[] | select(.["+@rel"] == "alternate")["+@href"])
+            // .link["+@href"]
+            // .link.href
+            // .link._href
+            // .link
+        ),
+        "pubDate": (
+               .pubDate
+            // .published
+            // .updated
+        )
       })
   ' > $name.json
 }
@@ -42,3 +56,15 @@ update "https://erikej.github.io/feed.xml" "erikej"
 update "https://enterprisecraftsmanship.com/index.xml" "enterprisecraftsmanship"
 update "https://antirez.com/rss" "antirez"
 update "https://simonwillison.net/atom/everything/" "simonwillison"
+update "https://nickcraver.com/blog/feed.xml" "nickcraver"
+update "https://blog.codinghorror.com/rss/" "codinghorror"
+update "https://www.joelonsoftware.com/feed/" "joelonsoftware"
+update "https://neilonsoftware.com/feed/" "neilonsoftware"
+update "https://www.brendangregg.com/blog/rss.xml" "brendangregg"
+update "https://tidyfirst.substack.com/feed" "tidyfirst"
+update "https://feeds.feedburner.com/paulhammant" "paulhammant"
+update "https://sizovs.net/feed.xml" "sizovs"
+update "https://bartwullems.blogspot.com/feeds/posts/default" "bartwullems"
+update "https://feeds.feedburner.com/ThePragmaticEngineer" "pragmaticengineer"
+update "https://vadimkravcenko.com/feed/" "vadimkravcenko"
+update "https://thecodist.com/rss/" "thecodist"
