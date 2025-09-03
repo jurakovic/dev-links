@@ -1,0 +1,27 @@
+[
+  {
+    "title": "From AutoMapper Profiles to Mapster: Centralizing your mapping logic",
+    "link": "https://bartwullems.blogspot.com/2025/09/from-automapper-profiles-to-mapster.html",
+    "pubDate": "2025-09-03T07:11:00.000+02:00"
+  },
+  {
+    "title": "The two-ear Product Manager: Why balanced listening is your superpower",
+    "link": "https://bartwullems.blogspot.com/2025/09/the-two-ear-product-manager-why.html",
+    "pubDate": "2025-09-02T06:56:00.008+02:00"
+  },
+  {
+    "title": "Fixing ValidationProblemDetails serialization Issues when using the JSON Source Generator in ASP.NET Core",
+    "link": "https://bartwullems.blogspot.com/2025/09/fixing-validationproblemdetails.html",
+    "pubDate": "2025-09-01T07:33:00.000+02:00"
+  },
+  {
+    "title": "How to hide ‘Server’ and ‘X-Powered-By’ headers in ASP.NET Core",
+    "link": "https://bartwullems.blogspot.com/2025/08/how-to-hide-server-and-x-powered-by.html",
+    "pubDate": "2025-08-29T06:36:00.009+02:00"
+  },
+  {
+    "title": "Let GitHub Copilot create custom instructions based on your codebase",
+    "link": "https://bartwullems.blogspot.com/2025/08/let-github-copilot-create-custom.html",
+    "pubDate": "2025-08-28T07:40:00.012+02:00"
+  }
+]

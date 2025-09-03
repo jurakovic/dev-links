@@ -1,0 +1,151 @@
+<script>
+    function addExpandCollapseAllButton(targetSelector = "body", buttonContainerId = "posts-button") {
+        // Find the container for the button
+        const buttonContainer = document.getElementById(buttonContainerId);
+        if (!buttonContainer) return;
+
+        // Create the button
+        const button = document.createElement('button');
+        button.textContent = 'Expand all blog posts';
+        button.style.margin = '8px 0';
+        button.style.cursor = 'pointer';
+
+        // Track the state: expanded or collapsed
+        let expanded = false;
+
+        button.addEventListener('click', () => {
+            // Find all details elements in the target container
+            const container = document.querySelector(targetSelector);
+            if (!container) return;
+
+            const detailsList = container.querySelectorAll('details');
+            detailsList.forEach(details => {
+                details.open = !expanded;
+            });
+            expanded = !expanded;
+            button.textContent = expanded ? 'Collapse all blog posts' : 'Expand all blog posts';
+        });
+
+        // Insert the button into the specified container
+        buttonContainer.appendChild(button);
+    }
+    function loadPosts(name) {
+        fetch(`/dev-links/posts/${name}.json`)
+            .then(response => response.json())
+            .then(items => {
+                const root = document.getElementById(name);
+                if (!root) return;
+
+                // Clear the root container first (if reloading)
+                root.innerHTML = '';
+
+                // Create the nested structure
+                const blockquote = document.createElement('blockquote');
+                const details = document.createElement('details');
+                const summary = document.createElement('summary');
+                summary.textContent = 'Latest Posts';
+                const contentDiv = document.createElement('div');
+
+                // Create unordered list element with custom styling
+                const ul = document.createElement('ul');
+                ul.style.listStyleType = 'none';
+                ul.style.padding = '0';
+                ul.style.margin = '0';
+
+                items.forEach(item => {
+                    // Parse date and format as YYYY-MM-DD
+                    let dateStr = '';
+                    if (item.pubDate) {
+                        // Handles both "Thu, 28 Aug 2025 17:05:00 +0000" and "Tue, 26 Aug 2025 15:26:00 GMT"
+                        const dateObj = new Date(item.pubDate);
+                        if (!isNaN(dateObj)) {
+                            const yyyy = dateObj.getFullYear();
+                            const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+                            const dd = String(dateObj.getDate()).padStart(2, '0');
+                            dateStr = `${yyyy}-${mm}-${dd}`;
+                        }
+                    }
+
+                    // Create list item with custom styling
+                    const li = document.createElement('li');
+                    li.style.padding = '2px 0';
+                    li.style.whiteSpace = 'nowrap';
+
+                    // Indicator
+                    const indicator = document.createElement('span');
+                    indicator.textContent = '›';
+                    indicator.style.marginRight = '6px';
+                    li.appendChild(indicator);
+
+                    // Anchor
+                    const a = document.createElement('a');
+                    a.href = item.link;
+                    // Set anchor text to "YYYY-MM-DD Title" if date is available
+                    a.textContent = dateStr ? `${dateStr} ${item.title}` : item.title;
+                    a.target = '_blank';
+                    a.rel = 'noopener noreferrer';
+                    a.style.whiteSpace = 'nowrap';
+                    a.style.display = 'inline-block';
+                    li.appendChild(a);
+
+                    ul.appendChild(li);
+                });
+
+                // Append ul to content div
+                contentDiv.appendChild(ul);
+
+                // Compose the structure
+                details.appendChild(summary);
+                details.appendChild(contentDiv);
+                blockquote.appendChild(details);
+                root.appendChild(blockquote);
+            })
+            .catch(error => {
+                console.error(`Failed to load ${name} posts:`, error);
+            });
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        addExpandCollapseAllButton();
+        loadPosts('dotnet');
+        loadPosts('visualstudio');
+        loadPosts('visualstudiomagazine');
+
+        loadPosts('microservices');
+        loadPosts('developertoarchitect');
+
+        loadPosts('ardalis');
+        loadPosts('hanselman');
+        loadPosts('andrewlock');
+        loadPosts('davecallan');
+        loadPosts('stephencleary');
+        loadPosts('jonskeet');
+        loadPosts('jimmybogard');
+        loadPosts('devlead');
+        loadPosts('steven-giesel');
+        loadPosts('adamsitnik');
+        loadPosts('minidump');
+        loadPosts('mattwarren');
+        loadPosts('haacked');
+        loadPosts('erikej');
+        loadPosts('enterprisecraftsmanship');
+
+        loadPosts('antirez');
+        loadPosts('simonwillison');
+        loadPosts('nickcraver');
+        loadPosts('codinghorror');
+        loadPosts('joelonsoftware');
+        loadPosts('neilonsoftware');
+        loadPosts('brendangregg');
+        //loadPosts('tidyfirst'); // cloudflare blocks curl
+        loadPosts('paulhammant');
+        loadPosts('sizovs');
+        loadPosts('bartwullems');
+        loadPosts('pragmaticengineer');
+        loadPosts('vadimkravcenko');
+        loadPosts('thecodist');
+
+        loadPosts('terriblesoftware');
+        loadPosts('lethain');
+        loadPosts('effectiveengineer');
+    });
+</script>
