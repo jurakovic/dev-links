@@ -9,7 +9,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "blogs/index.html"
+      path: "blogs/*"
       type: "pages"
     values:
       title: "dev-blogs"
