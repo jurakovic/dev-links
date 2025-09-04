@@ -1,7 +1,7 @@
 <script>
     function loadAllPosts(feedNames, rootId) {
         const fetchPromises = feedNames.map(name =>
-            fetch(`/dev-links/posts/${name}.json`)
+            fetch(`/dev-links/posts/${name}.json`, { cache: 'no-store' })
                 .then(response => response.json())
                 .then(items => items.map(item => ({ ...item, feed: name })))
                 .catch(() => [])
