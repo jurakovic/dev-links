@@ -11,6 +11,13 @@
 
 *Some documentation links point just to the introduction or overview page. For the rest of documentation use the site navigation.*
 
+<p class="pages-hidden">
+
+> [!TIP]
+> *Lists of latest blog posts are available only on <https://jurakovic.github.io/dev-links/>*
+
+</p>
+
 <div id="posts-button"></div>
 
 * * *

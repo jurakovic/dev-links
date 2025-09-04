@@ -15,7 +15,7 @@
 <p class="pages-hidden">
 
 > [!TIP]
-> *Lists of latest blog posts are available only on <https://jurakovic.github.io/dev-links/>*
+> *Lists of latest blog posts are available only on <https://jurakovic.github.io/dev-links/blogs/>*
 
 </p>
 
