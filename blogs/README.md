@@ -1,6 +1,4 @@
 
-<div id="nav">
-
 **[dev-links](../README.md)**  
 └─ <a name="top"></a>[Blogs](#blogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
@@ -9,8 +7,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
-
-</div>
 
 * * *
 
