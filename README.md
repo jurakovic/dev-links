@@ -5,7 +5,7 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](blogs/README.md)  
+└─ [Blogs](blogs/README.md) / [*Reader*](blogs/reader/README.md)  
 
 * * *
 

@@ -1,6 +1,6 @@
 
 **[dev-links](../README.md)**  
-└─ <a name="top"></a>[Blogs](#blogs)  
+└─ <a name="top"></a>[Blogs](#blogs) / [*Reader*](reader/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
