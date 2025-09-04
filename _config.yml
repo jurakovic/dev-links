@@ -13,4 +13,4 @@ defaults:
       type: "pages"
     values: # set custom values for blog pages
       title: "dev-blogs"
-      description: "A collection of .NET and general software development blogs"
+      description: "A collection of .NET and general software development blogs and sites"
