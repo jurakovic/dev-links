@@ -1,10 +1,10 @@
 <!-- start extras head snippets, customize with your own _includes/head-extras.html file -->
 {% include head-custom-css.html %}
 {% include head-custom-js-0-common.html %}
-{% if page.path == "/README.md" %}
+{% if page.url == "/" %}
   {% include head-custom-js-1-root.html %}
 {% endif %}
-{% if page.path == "/blogs/README.md" %}
+{% if page.url == "/blogs/" %}
   {% include head-custom-js-2-blogs.html %}
 {% endif %}
 <!-- DEBUG: page.url = {{ page.url }} -->
