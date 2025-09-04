@@ -1,3 +1,45 @@
+<style>
+    .posts-table-container {
+        overflow-x: auto;
+        width: 100vw;
+        max-width: 100vw;
+    }
+
+    .posts-table {
+        width: 100%;
+        min-width: 420px;
+        border-collapse: collapse;
+        border: none;
+        table-layout: fixed;
+    }
+
+        .posts-table td {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            border: none;
+            text-align: left;
+        }
+
+        .posts-table a {
+            max-width: 160px;
+            display: inline-block;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            vertical-align: middle;
+        }
+
+    @media (max-width: 600px) {
+        .posts-table a {
+            max-width: 100px;
+        }
+
+        .posts-table {
+            min-width: 340px;
+        }
+    }
+</style>
 <script>
     function loadAllPosts(feedNames, rootId) {
         const fetchPromises = feedNames.map(name =>
@@ -26,12 +68,22 @@
 
                 root.innerHTML = '';
 
-                // Create table (no header, no borders, max width)
+                // Create scrollable container for mobile
+                const container = document.createElement('div');
+                container.className = 'posts-table-container';
+                container.style.overflowX = 'auto';
+                container.style.width = '100vw';
+                container.style.maxWidth = '100vw';
+
+                // Create table (no header, no borders, max width, fixed layout)
                 const table = document.createElement('table');
-                table.style.width = '100vw';
+                table.className = 'posts-table';
+                table.style.width = '100%';
                 table.style.maxWidth = '100vw';
                 table.style.borderCollapse = 'collapse';
                 table.style.border = 'none';
+                table.style.tableLayout = 'fixed';
+                table.style.minWidth = '420px';
 
                 const tbody = document.createElement('tbody');
 
@@ -86,24 +138,34 @@
                     img.style.verticalAlign = 'middle';
                     tdIcon.appendChild(img);
                     tdIcon.style.textAlign = 'left';
-                    tdIcon.style.padding = '2px 8px 2px 0';
+                    tdIcon.style.padding = '4px 8px 4px 0';
                     tdIcon.style.border = 'none';
+                    tdIcon.style.width = '28px';
+                    tdIcon.style.whiteSpace = 'nowrap';
                     tr.appendChild(tdIcon);
 
                     // Date cell
                     const tdDate = document.createElement('td');
                     tdDate.textContent = dateStr;
-                    tdDate.style.padding = '2px 8px 2px 0';
+                    tdDate.style.padding = '4px 8px 4px 0';
                     tdDate.style.textAlign = 'left';
                     tdDate.style.border = 'none';
+                    tdDate.style.width = '90px';
+                    tdDate.style.whiteSpace = 'nowrap';
+                    tdDate.style.overflow = 'hidden';
+                    tdDate.style.textOverflow = 'ellipsis';
                     tr.appendChild(tdDate);
 
                     // Feed cell
                     const tdFeed = document.createElement('td');
                     tdFeed.textContent = item.feed;
-                    tdFeed.style.padding = '2px 8px 2px 0';
+                    tdFeed.style.padding = '4px 8px 4px 0';
                     tdFeed.style.textAlign = 'left';
                     tdFeed.style.border = 'none';
+                    tdFeed.style.width = '90px';
+                    tdFeed.style.whiteSpace = 'nowrap';
+                    tdFeed.style.overflow = 'hidden';
+                    tdFeed.style.textOverflow = 'ellipsis';
                     tr.appendChild(tdFeed);
 
                     // Title cell (with ellipsis if overflowing)
@@ -116,19 +178,24 @@
                     a.style.whiteSpace = 'nowrap';
                     a.style.overflow = 'hidden';
                     a.style.textOverflow = 'ellipsis';
-                    a.style.maxWidth = '100vw';
+                    a.style.maxWidth = '160px';
                     a.style.display = 'inline-block';
                     tdTitle.appendChild(a);
-                    tdTitle.style.padding = '2px 0 2px 0';
+                    tdTitle.style.padding = '4px 0 4px 0';
                     tdTitle.style.textAlign = 'left';
                     tdTitle.style.border = 'none';
+                    tdTitle.style.width = '100%';
+                    tdTitle.style.whiteSpace = 'nowrap';
+                    tdTitle.style.overflow = 'hidden';
+                    tdTitle.style.textOverflow = 'ellipsis';
                     tr.appendChild(tdTitle);
 
                     tbody.appendChild(tr);
                 });
 
                 table.appendChild(tbody);
-                root.appendChild(table);
+                container.appendChild(table);
+                root.appendChild(container);
             })
             .catch(error => {
                 console.error('Failed to load all posts:', error);
