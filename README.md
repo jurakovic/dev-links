@@ -1,4 +1,6 @@
 
+<p id="nav">
+
 <a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
@@ -6,6 +8,8 @@
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
 └─ [Blogs](blogs/README.md)  
+
+</p>
 
 * * *
 

@@ -1,4 +1,6 @@
 
+<p id="nav">
+
 **[dev-links](../README.md)**  
 └─ <a name="top"></a>[Blogs](#blogs)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
@@ -8,11 +10,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
+</p>
+
 * * *
 
-<p class="pages-hidden">
-
 *A few blogs listed below have not been updated for a while, but they still contain valuable content.*
+
+<p class="pages-hidden">
 
 > [!TIP]
 > *Lists of latest blog posts are available only on <https://jurakovic.github.io/dev-links/>*
