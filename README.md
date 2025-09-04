@@ -11,6 +11,8 @@
 
 *Some documentation links point just to the introduction or overview page. For the rest of documentation use the site navigation.*
 
+<div id="posts-button"></div>
+
 * * *
 
 ## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
