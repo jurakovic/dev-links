@@ -48,9 +48,19 @@
                     li.style.padding = '2px 0';
                     li.style.whiteSpace = 'nowrap';
 
-                    // Favico img
+                    // Favico img: use switch-case for icon name
+                    let iconName;
+                    switch (item.feed) {
+                        case 'dotnet':
+                        case 'visualstudio':
+                            iconName = 'microsoft';
+                            break;
+                        // Add more cases here as needed
+                        default:
+                            iconName = item.feed;
+                    }
                     const img = document.createElement('img');
-                    img.src = `/dev-links/favicons/${item.feed}.png`;
+                    img.src = `/dev-links/favicons/${iconName}.png`;
                     img.alt = 'icon';
                     img.style.width = '16px';
                     img.style.height = '16px';
