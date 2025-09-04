@@ -1,5 +1,15 @@
 [
   {
+    "title": "GitHub Open Sources Kit for Spec-Driven AI Development",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/03/GitHub-Open-Sources-Kit-for-Spec-Driven-AI-Development.aspx",
+    "pubDate": "Wed, 03 Sep 2025 18:02:00 GMT"
+  },
+  {
+    "title": "Coming Soon in Visual Studio AI: Debugging/Profiling Modes and Agentic DevOps",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/03/Coming-Soon-in-Visual-Studio-AI-DebuggingProfiling-Modes-and-Agentic-DevOps.aspx",
+    "pubDate": "Wed, 03 Sep 2025 17:05:00 GMT"
+  },
+  {
     "title": "GitHub Copilot for Azure Previews in Visual Studio 2022",
     "link": "https://visualstudiomagazine.com/Articles/2025/08/26/GitHub-Copilot-for-Azure-Previews-in-Visual-Studio-2022.aspx",
     "pubDate": "Tue, 26 Aug 2025 15:26:00 GMT"
@@ -13,15 +23,5 @@
     "title": "New Agents Panel Brings Copilot Coding Tasks to Visual Studio and VS Code",
     "link": "https://visualstudiomagazine.com/Articles/2025/08/21/New-Agents-Panel-Brings-Copilot-Coding-Agent-Tasks-to-Visual-Studio-and-VS-Code.aspx",
     "pubDate": "Thu, 21 Aug 2025 20:48:00 GMT"
-  },
-  {
-    "title": "Dedicated Python Environments Tool Rolls Out in VS Code Update",
-    "link": "https://visualstudiomagazine.com/Articles/2025/08/18/Dedicated-Python-Environments-Tool-Rolls-Out-in-VS-Code-Update.aspx",
-    "pubDate": "Mon, 18 Aug 2025 16:27:00 GMT"
-  },
-  {
-    "title": "Visual Studio's Next Act: Faster, Smarter, More AI-Driven",
-    "link": "https://visualstudiomagazine.com/Articles/2025/08/14/Visual-Studios-Next-Act-Faster-Smarter-More-AI-Driven.aspx",
-    "pubDate": "Thu, 14 Aug 2025 15:55:00 GMT"
   }
 ]
