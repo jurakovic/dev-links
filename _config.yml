@@ -2,3 +2,9 @@ remote_theme: jurakovic/cayman-blue
 google_analytics: G-233EMZJM16
 dark_theme: true
 target_blank: [header, main]
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
