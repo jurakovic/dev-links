@@ -1,5 +1,5 @@
 
-<p id="nav">
+<div id="nav">
 
 <a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
@@ -9,7 +9,7 @@
 ├─ [Architecture](#architecture)  
 └─ [Blogs](blogs/README.md)  
 
-</p>
+</div>
 
 * * *
 
