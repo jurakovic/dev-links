@@ -6,10 +6,11 @@ defaults:
   - scope:
       path: ""
       type: "pages"
-    values:
+    values: # set default layout for all pages
       layout: "default"
   - scope:
       path: "blogs/*"
       type: "pages"
-    values:
+    values: # set custom values for blog pages
       title: "dev-blogs"
+      description: "A collection of .NET and general software development blogs"
