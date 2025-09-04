@@ -26,12 +26,17 @@
 
                 root.innerHTML = '';
 
-                // Create table (no header, no borders, max width)
+                // Make a horizontally scrollable container
+                const container = document.createElement('div');
+                container.style.overflowX = 'auto';
+                container.style.width = '100%';
+
+                // Create table (no header, no borders, no wrapping anywhere, fixed layout)
                 const table = document.createElement('table');
-                table.style.width = '100vw';
-                table.style.maxWidth = '100vw';
+                table.style.width = 'max-content';
                 table.style.borderCollapse = 'collapse';
                 table.style.border = 'none';
+                table.style.tableLayout = 'fixed';
 
                 const tbody = document.createElement('tbody');
 
@@ -88,6 +93,8 @@
                     tdIcon.style.textAlign = 'left';
                     tdIcon.style.padding = '2px 8px 2px 0';
                     tdIcon.style.border = 'none';
+                    tdIcon.style.whiteSpace = 'nowrap';
+                    tdIcon.style.overflow = 'hidden';
                     tr.appendChild(tdIcon);
 
                     // Date cell
@@ -96,6 +103,8 @@
                     tdDate.style.padding = '2px 8px 2px 0';
                     tdDate.style.textAlign = 'left';
                     tdDate.style.border = 'none';
+                    tdDate.style.whiteSpace = 'nowrap';
+                    tdDate.style.overflow = 'hidden';
                     tr.appendChild(tdDate);
 
                     // Feed cell
@@ -104,6 +113,8 @@
                     tdFeed.style.padding = '2px 8px 2px 0';
                     tdFeed.style.textAlign = 'left';
                     tdFeed.style.border = 'none';
+                    tdFeed.style.whiteSpace = 'nowrap';
+                    tdFeed.style.overflow = 'hidden';
                     tr.appendChild(tdFeed);
 
                     // Title cell (with ellipsis if overflowing)
@@ -116,19 +127,23 @@
                     a.style.whiteSpace = 'nowrap';
                     a.style.overflow = 'hidden';
                     a.style.textOverflow = 'ellipsis';
-                    a.style.maxWidth = '100vw';
                     a.style.display = 'inline-block';
+                    a.style.maxWidth = '500px';
                     tdTitle.appendChild(a);
                     tdTitle.style.padding = '2px 0 2px 0';
                     tdTitle.style.textAlign = 'left';
                     tdTitle.style.border = 'none';
+                    tdTitle.style.whiteSpace = 'nowrap';
+                    tdTitle.style.overflow = 'hidden';
+                    tdTitle.style.maxWidth = '500px';
                     tr.appendChild(tdTitle);
 
                     tbody.appendChild(tr);
                 });
 
                 table.appendChild(tbody);
-                root.appendChild(table);
+                container.appendChild(table);
+                root.appendChild(container);
             })
             .catch(error => {
                 console.error('Failed to load all posts:', error);
