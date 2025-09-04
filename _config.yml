@@ -8,3 +8,8 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: "blogs/index.html"
+      type: "pages"
+    values:
+      title: "dev-blogs"
