@@ -1,0 +1,91 @@
+<script>
+    function loadAllPosts(feedNames, rootId) {
+        // Returns a promise for each feed
+        const fetchPromises = feedNames.map(name =>
+            fetch(`/dev-links/posts/${name}.json`)
+                .then(response => response.json())
+                .then(items => items.map(item => ({ ...item, feed: name }))) // Optionally tag each post with its feed name
+                .catch(() => []) // On error, return empty array for that feed
+        );
+
+        Promise.all(fetchPromises)
+            .then(allResults => {
+                // Flatten all items into a single array
+                const allItems = allResults.flat();
+
+                // Sort by full pubDate (descending: newest first)
+                allItems.sort((a, b) => {
+                    const aDate = new Date(a.pubDate);
+                    const bDate = new Date(b.pubDate);
+                    return bDate - aDate; // descending
+                });
+
+                const root = document.getElementById(rootId);
+                if (!root) return;
+
+                root.innerHTML = '';
+
+                // Create the nested structure as before
+                const blockquote = document.createElement('blockquote');
+                const details = document.createElement('details');
+                details.open = true; // Optionally open by default
+                const summary = document.createElement('summary');
+                summary.textContent = 'All Latest Posts';
+                const contentDiv = document.createElement('div');
+
+                // Create unordered list
+                const ul = document.createElement('ul');
+                ul.style.listStyleType = 'none';
+                ul.style.padding = '0';
+                ul.style.margin = '0';
+
+                allItems.forEach(item => {
+                    // Format date as YYYY-MM-DD
+                    let dateStr = '';
+                    if (item.pubDate) {
+                        const dateObj = new Date(item.pubDate);
+                        if (!isNaN(dateObj)) {
+                            const yyyy = dateObj.getFullYear();
+                            const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+                            const dd = String(dateObj.getDate()).padStart(2, '0');
+                            dateStr = `${yyyy}-${mm}-${dd}`;
+                        }
+                    }
+
+                    const li = document.createElement('li');
+                    li.style.padding = '2px 0';
+                    li.style.whiteSpace = 'nowrap';
+
+                    const indicator = document.createElement('span');
+                    indicator.textContent = '›';
+                    indicator.style.marginRight = '6px';
+                    li.appendChild(indicator);
+
+                    const a = document.createElement('a');
+                    a.href = item.link;
+                    // Optionally show feed name too (uncomment below if wanted)
+                    // a.textContent = dateStr ? `${dateStr} [${item.feed}] ${item.title}` : `[${item.feed}] ${item.title}`;
+                    a.textContent = dateStr ? `${dateStr} ${item.title}` : item.title;
+                    a.target = '_blank';
+                    a.rel = 'noopener noreferrer';
+                    a.style.whiteSpace = 'nowrap';
+                    a.style.display = 'inline-block';
+                    li.appendChild(a);
+
+                    ul.appendChild(li);
+                });
+
+                contentDiv.appendChild(ul);
+                details.appendChild(summary);
+                details.appendChild(contentDiv);
+                blockquote.appendChild(details);
+                root.appendChild(blockquote);
+            })
+            .catch(error => {
+                console.error('Failed to load all posts:', error);
+            });
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        loadAllPosts(['dotnet', 'visualstudio'], 'reader');
+    });
+</script>
