@@ -4,7 +4,7 @@
         const fetchPromises = feedNames.map(name =>
             fetch(`/dev-links/posts/${name}.json`)
                 .then(response => response.json())
-                .then(items => items.map(item => ({ ...item, feed: name }))) // Optionally tag each post with its feed name
+                .then(items => items.map(item => ({ ...item, feed: name }))) // Tag each post with its feed name
                 .catch(() => []) // On error, return empty array for that feed
         );
 
@@ -24,14 +24,6 @@
                 if (!root) return;
 
                 root.innerHTML = '';
-
-                // Create the nested structure as before
-                const blockquote = document.createElement('blockquote');
-                const details = document.createElement('details');
-                details.open = true; // Optionally open by default
-                const summary = document.createElement('summary');
-                summary.textContent = 'All Latest Posts';
-                const contentDiv = document.createElement('div');
 
                 // Create unordered list
                 const ul = document.createElement('ul');
@@ -56,16 +48,28 @@
                     li.style.padding = '2px 0';
                     li.style.whiteSpace = 'nowrap';
 
-                    const indicator = document.createElement('span');
-                    indicator.textContent = '›';
-                    indicator.style.marginRight = '6px';
-                    li.appendChild(indicator);
+                    // Favico img
+                    const img = document.createElement('img');
+                    img.src = `/dev-links/favicons/${item.feed}.png`;
+                    img.alt = 'icon';
+                    img.style.width = '16px';
+                    img.style.height = '16px';
+                    img.style.verticalAlign = 'middle';
+                    img.style.marginRight = '6px';
+                    li.appendChild(img);
 
+                    // Date
+                    if (dateStr) {
+                        const dateSpan = document.createElement('span');
+                        dateSpan.textContent = dateStr;
+                        dateSpan.style.marginRight = '6px';
+                        li.appendChild(dateSpan);
+                    }
+
+                    // Anchor
                     const a = document.createElement('a');
                     a.href = item.link;
-                    // Optionally show feed name too (uncomment below if wanted)
-                    // a.textContent = dateStr ? `${dateStr} [${item.feed}] ${item.title}` : `[${item.feed}] ${item.title}`;
-                    a.textContent = dateStr ? `${dateStr} ${item.title}` : item.title;
+                    a.textContent = item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
                     a.style.whiteSpace = 'nowrap';
@@ -75,11 +79,7 @@
                     ul.appendChild(li);
                 });
 
-                contentDiv.appendChild(ul);
-                details.appendChild(summary);
-                details.appendChild(contentDiv);
-                blockquote.appendChild(details);
-                root.appendChild(blockquote);
+                root.appendChild(ul);
             })
             .catch(error => {
                 console.error('Failed to load all posts:', error);
