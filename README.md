@@ -27,7 +27,7 @@ Visual Studio Blog
 <https://devblogs.microsoft.com/visualstudio/>  
 <div id="visualstudio" class="blog-posts"></div>
 
-![icon](favicons/vsm.png)
+![icon](favicons/visualstudiomagazine.png)
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 <div id="visualstudiomagazine" class="blog-posts"></div>
