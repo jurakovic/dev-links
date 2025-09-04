@@ -1,38 +1,42 @@
 <script>
     function loadAllPosts(feedNames, rootId) {
-        // Returns a promise for each feed
         const fetchPromises = feedNames.map(name =>
             fetch(`/dev-links/posts/${name}.json`)
                 .then(response => response.json())
-                .then(items => items.map(item => ({ ...item, feed: name }))) // Tag each post with its feed name
-                .catch(() => []) // On error, return empty array for that feed
+                .then(items => items.map(item => ({ ...item, feed: name })))
+                .catch(() => [])
         );
 
         Promise.all(fetchPromises)
             .then(allResults => {
-                // Flatten all items into a single array
                 const allItems = allResults.flat();
 
-                // Sort by full pubDate (descending: newest first)
+                // Sort by pubDate (descending)
                 allItems.sort((a, b) => {
                     const aDate = new Date(a.pubDate);
                     const bDate = new Date(b.pubDate);
-                    return bDate - aDate; // descending
+                    return bDate - aDate;
                 });
+
+                // Limit to first 50 posts only
+                const limitedItems = allItems.slice(0, 50);
 
                 const root = document.getElementById(rootId);
                 if (!root) return;
 
                 root.innerHTML = '';
 
-                // Create unordered list
-                const ul = document.createElement('ul');
-                ul.style.listStyleType = 'none';
-                ul.style.padding = '0';
-                ul.style.margin = '0';
+                // Create table (no header, no borders, max width)
+                const table = document.createElement('table');
+                table.style.width = '100vw';
+                table.style.maxWidth = '100vw';
+                table.style.borderCollapse = 'collapse';
+                table.style.border = 'none';
 
-                allItems.forEach(item => {
-                    // Format date as YYYY-MM-DD
+                const tbody = document.createElement('tbody');
+
+                limitedItems.forEach(item => {
+                    // Format date
                     let dateStr = '';
                     if (item.pubDate) {
                         const dateObj = new Date(item.pubDate);
@@ -44,52 +48,74 @@
                         }
                     }
 
-                    const li = document.createElement('li');
-                    li.style.padding = '2px 0';
-                    li.style.whiteSpace = 'nowrap';
-
-                    // Favico img: use switch-case for icon name
+                    // Favico switch-case
                     let iconName;
                     switch (item.feed) {
                         case 'dotnet':
                         case 'visualstudio':
                             iconName = 'microsoft';
                             break;
-                        // Add more cases here as needed
+                        // Add more cases as needed
                         default:
                             iconName = item.feed;
                     }
+
+                    const tr = document.createElement('tr');
+                    tr.style.border = 'none';
+
+                    // Favico cell
+                    const tdIcon = document.createElement('td');
                     const img = document.createElement('img');
                     img.src = `/dev-links/favicons/${iconName}.png`;
                     img.alt = 'icon';
                     img.style.width = '16px';
                     img.style.height = '16px';
                     img.style.verticalAlign = 'middle';
-                    img.style.marginRight = '6px';
-                    li.appendChild(img);
+                    tdIcon.appendChild(img);
+                    tdIcon.style.textAlign = 'left';
+                    tdIcon.style.padding = '2px 8px 2px 0';
+                    tdIcon.style.border = 'none';
+                    tr.appendChild(tdIcon);
 
-                    // Date
-                    if (dateStr) {
-                        const dateSpan = document.createElement('span');
-                        dateSpan.textContent = dateStr;
-                        dateSpan.style.marginRight = '6px';
-                        li.appendChild(dateSpan);
-                    }
+                    // Date cell
+                    const tdDate = document.createElement('td');
+                    tdDate.textContent = dateStr;
+                    tdDate.style.padding = '2px 8px 2px 0';
+                    tdDate.style.textAlign = 'left';
+                    tdDate.style.border = 'none';
+                    tr.appendChild(tdDate);
 
-                    // Anchor
+                    // Feed cell
+                    const tdFeed = document.createElement('td');
+                    tdFeed.textContent = item.feed;
+                    tdFeed.style.padding = '2px 8px 2px 0';
+                    tdFeed.style.textAlign = 'left';
+                    tdFeed.style.border = 'none';
+                    tr.appendChild(tdFeed);
+
+                    // Title cell (with ellipsis if overflowing)
+                    const tdTitle = document.createElement('td');
                     const a = document.createElement('a');
                     a.href = item.link;
                     a.textContent = item.title;
                     a.target = '_blank';
                     a.rel = 'noopener noreferrer';
                     a.style.whiteSpace = 'nowrap';
+                    a.style.overflow = 'hidden';
+                    a.style.textOverflow = 'ellipsis';
+                    a.style.maxWidth = '100vw';
                     a.style.display = 'inline-block';
-                    li.appendChild(a);
+                    tdTitle.appendChild(a);
+                    tdTitle.style.padding = '2px 0 2px 0';
+                    tdTitle.style.textAlign = 'left';
+                    tdTitle.style.border = 'none';
+                    tr.appendChild(tdTitle);
 
-                    ul.appendChild(li);
+                    tbody.appendChild(tr);
                 });
 
-                root.appendChild(ul);
+                table.appendChild(tbody);
+                root.appendChild(table);
             })
             .catch(error => {
                 console.error('Failed to load all posts:', error);
