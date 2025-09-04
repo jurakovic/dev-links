@@ -14,18 +14,21 @@
         let expanded = false;
 
         button.addEventListener('click', () => {
-            // Find all details elements in the target container
+            // Find all divs with class 'blog-posts' inside the target container
             const container = document.querySelector(targetSelector);
             if (!container) return;
 
-            const detailsList = container.querySelectorAll('details');
-            detailsList.forEach(details => {
-                details.open = !expanded;
+            const blogPostsDivs = container.querySelectorAll('div.blog-posts');
+            blogPostsDivs.forEach(div => {
+                const detailsList = div.querySelectorAll('details');
+                detailsList.forEach(details => {
+                    details.open = !expanded;
+                });
             });
+
             expanded = !expanded;
             button.textContent = expanded ? 'Collapse all blog posts' : 'Expand all blog posts';
         });
-
         // Insert the button into the specified container
         buttonContainer.appendChild(button);
     }
