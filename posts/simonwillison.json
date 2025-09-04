@@ -1,6 +1,11 @@
 [
   {
-    "title": "gov.uscourts.dcd.223205.1436.0_1.pdf",
+    "title": "Beyond Vibe Coding",
+    "link": "https://simonwillison.net/2025/Sep/4/beyond-vibe-coding/#atom-everything",
+    "pubDate": "2025-09-04T20:58:21+00:00"
+  },
+  {
+    "title": "Google antitrust remedies",
     "link": "https://simonwillison.net/2025/Sep/3/antitrust/#atom-everything",
     "pubDate": "2025-09-03T08:56:30+00:00"
   },
@@ -18,10 +23,5 @@
     "title": "August 2025 newsletter",
     "link": "https://simonwillison.net/2025/Sep/1/august-2025/#atom-everything",
     "pubDate": "2025-09-01T19:41:45+00:00"
-  },
-  {
-    "title": "Introducing gpt-realtime",
-    "link": "https://simonwillison.net/2025/Sep/1/introducing-gpt-realtime/#atom-everything",
-    "pubDate": "2025-09-01T17:34:55+00:00"
   }
 ]
