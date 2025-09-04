@@ -256,7 +256,7 @@ Microservices.io | Chris Richardson
 <https://microservices.io>  
 <div id="microservices" class="blog-posts"></div>
 
-![icon](favicons/markrichards.png)
+![icon](favicons/developertoarchitect.png)
 Software Developer To Software Architect | Mark Richards  
 <https://developertoarchitect.com/lessons/>  
 <div id="developertoarchitect" class="blog-posts"></div>

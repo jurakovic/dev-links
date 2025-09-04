@@ -53,7 +53,14 @@
                     switch (item.feed) {
                         case 'dotnet':
                         case 'visualstudio':
+                        case 'visualstudiomagazine':
                             iconName = 'microsoft';
+                            break;
+                        case 'bartwullems':
+                            iconName = 'blogspot';
+                            break;
+                        case 'antirez':
+                            iconName = 'blank';
                             break;
                         // Add more cases as needed
                         default:
@@ -122,6 +129,47 @@
             });
     }
     document.addEventListener('DOMContentLoaded', () => {
-        loadAllPosts(['dotnet', 'visualstudio'], 'reader');
+        loadAllPosts([
+              'dotnet'
+            , 'visualstudio'
+            , 'visualstudiomagazine'
+
+            , 'microservices'
+            , 'developertoarchitect'
+
+            , 'ardalis'
+            , 'hanselman'
+            , 'andrewlock'
+            , 'davecallan'
+            , 'stephencleary'
+            , 'jonskeet'
+            , 'jimmybogard'
+            , 'devlead'
+            , 'steven-giesel'
+            , 'adamsitnik'
+            , 'minidump'
+            , 'mattwarren'
+            , 'haacked'
+            , 'erikej'
+            , 'enterprisecraftsmanship'
+
+            , 'antirez'
+            , 'simonwillison'
+            , 'nickcraver'
+            , 'codinghorror'
+            , 'joelonsoftware'
+            , 'neilonsoftware'
+            , 'brendangregg'
+            , 'paulhammant'
+            , 'sizovs'
+            , 'bartwullems'
+            , 'pragmaticengineer'
+            , 'vadimkravcenko'
+            , 'thecodist'
+
+            , 'terriblesoftware'
+            , 'lethain'
+            , 'effectiveengineer'
+        ], 'reader');
     });
 </script>
