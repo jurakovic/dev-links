@@ -94,14 +94,12 @@
                     // Date
                     const dateSpan = document.createElement('span');
                     dateSpan.textContent = dateStr;
-                    dateSpan.style.color = '#666';
                     dateSpan.style.fontSize = '0.95em';
                     row1.appendChild(dateSpan);
 
                     // Feed name
                     const feedSpan = document.createElement('span');
                     feedSpan.textContent = item.feed;
-                    feedSpan.style.fontWeight = 'bold';
                     feedSpan.style.fontSize = '0.95em';
                     row1.appendChild(feedSpan);
 
@@ -119,9 +117,6 @@
                     a.style.textOverflow = 'ellipsis';
                     a.style.display = 'inline-block';
                     a.style.maxWidth = '100vw';
-                    a.style.fontSize = '1em';
-                    a.style.color = '#1a0dab';
-                    a.style.textDecoration = 'underline';
 
                     row2.appendChild(a);
 
