@@ -1,5 +1,5 @@
 
-[dev-links](../README.md)  
+[dev-links](../README.md#top)  
 └─ [Blogs](../README.md#blogs) / ***Reader***  
 
 * * * 
