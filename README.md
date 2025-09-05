@@ -442,6 +442,11 @@ Mike Brind (Razor Pages, Blazor)
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
+![icon](favicons/martinfowler.png)
+Martin Fowler  
+<https://www.martinfowler.com/recent-changes.html>  
+<div id="martinfowler" class="blog-posts"></div>
+
 ![icon](favicons/blank.png)
 Salvatore Sanfilippo | antirez  
 <https://antirez.com>  
