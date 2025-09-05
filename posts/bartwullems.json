@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why rational humans make irrational decisions",
+    "link": "https://bartwullems.blogspot.com/2025/09/why-rational-humans-make-irrational.html",
+    "pubDate": "2025-09-05T07:56:00.017+02:00"
+  },
+  {
     "title": "Run an Azure Pipelines build agent in WSL2",
     "link": "https://bartwullems.blogspot.com/2025/09/run-azure-pipelines-build-agent-in-wsl2.html",
     "pubDate": "2025-09-04T07:00:00.051+02:00"
@@ -18,10 +23,5 @@
     "title": "Fixing ValidationProblemDetails serialization Issues when using the JSON Source Generator in ASP.NET Core",
     "link": "https://bartwullems.blogspot.com/2025/09/fixing-validationproblemdetails.html",
     "pubDate": "2025-09-01T07:33:00.000+02:00"
-  },
-  {
-    "title": "How to hide ‘Server’ and ‘X-Powered-By’ headers in ASP.NET Core",
-    "link": "https://bartwullems.blogspot.com/2025/08/how-to-hide-server-and-x-powered-by.html",
-    "pubDate": "2025-08-29T06:36:00.009+02:00"
   }
 ]
