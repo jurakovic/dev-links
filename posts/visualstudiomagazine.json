@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Supercharges Visual Studio Debugging/Profiling with Copilot",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/04/Microsoft-Supercharges-Visual-Studio-Debugging-Profiling-with-AI-Powered-Copilot-Features.aspx",
+    "pubDate": "Thu, 04 Sep 2025 17:40:00 GMT"
+  },
+  {
     "title": "GitHub Open Sources Kit for Spec-Driven AI Development",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/03/GitHub-Open-Sources-Kit-for-Spec-Driven-AI-Development.aspx",
     "pubDate": "Wed, 03 Sep 2025 18:02:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Visual Studio Copilot: BYO Model + MCP GA",
     "link": "https://visualstudiomagazine.com/Articles/2025/08/25/Visual-Studio-Copilot-BYO-Model--MCP-GA.aspx",
     "pubDate": "Mon, 25 Aug 2025 17:32:00 GMT"
-  },
-  {
-    "title": "New Agents Panel Brings Copilot Coding Tasks to Visual Studio and VS Code",
-    "link": "https://visualstudiomagazine.com/Articles/2025/08/21/New-Agents-Panel-Brings-Copilot-Coding-Agent-Tasks-to-Visual-Studio-and-VS-Code.aspx",
-    "pubDate": "Thu, 21 Aug 2025 20:48:00 GMT"
   }
 ]

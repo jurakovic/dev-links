@@ -1,0 +1,177 @@
+<script>
+    function loadAllPosts(feedNames, rootId) {
+        const fetchPromises = feedNames.map(name =>
+            fetch(`/dev-links/posts/${name}.json`, { cache: 'no-store' })
+                .then(response => response.json())
+                .then(items => items.map(item => ({ ...item, feed: name })))
+                .catch(() => [])
+        );
+
+        Promise.all(fetchPromises)
+            .then(allResults => {
+                const allItems = allResults.flat();
+
+                // Sort by pubDate (descending)
+                allItems.sort((a, b) => {
+                    const aDate = new Date(a.pubDate);
+                    const bDate = new Date(b.pubDate);
+                    return bDate - aDate;
+                });
+
+                // Limit to first 50 posts only
+                const limitedItems = allItems.slice(0, 50);
+
+                const root = document.getElementById(rootId);
+                if (!root) return;
+
+                root.innerHTML = '';
+
+                // Use a list container for items
+                const list = document.createElement('div');
+                list.style.display = 'flex';
+                list.style.flexDirection = 'column';
+                list.style.gap = '12px';
+
+                limitedItems.forEach(item => {
+                    // Format date
+                    let dateStr = '';
+                    if (item.pubDate) {
+                        const dateObj = new Date(item.pubDate);
+                        if (!isNaN(dateObj)) {
+                            const yyyy = dateObj.getFullYear();
+                            const mm = String(dateObj.getMonth() + 1).padStart(2, '0');
+                            const dd = String(dateObj.getDate()).padStart(2, '0');
+                            dateStr = `${yyyy}-${mm}-${dd}`;
+                        }
+                    }
+
+                    // Favico switch-case
+                    let iconName;
+                    switch (item.feed) {
+                        case 'dotnet':
+                        case 'visualstudio':
+                            iconName = 'microsoft';
+                            break;
+                        case 'davecallan':
+                        case 'jonskeet':
+                            iconName = 'wp';
+                            break;
+                        case 'bartwullems':
+                            iconName = 'blogspot';
+                            break;
+                        case 'adamsitnik':
+                        case 'antirez':
+                        case 'erikej':
+                        case 'microservices':
+                        case 'paulhammant':
+                            iconName = 'blank';
+                            break;
+                        default:
+                            iconName = item.feed;
+                    }
+
+                    // Item container
+                    const itemDiv = document.createElement('div');
+                    itemDiv.style.display = 'flex';
+                    itemDiv.style.flexDirection = 'column';
+                    itemDiv.style.gap = '2px';
+
+                    // First row: icon, date, feed name
+                    const row1 = document.createElement('div');
+                    row1.style.display = 'flex';
+                    row1.style.alignItems = 'center';
+                    row1.style.gap = '10px';
+
+                    // Icon
+                    const img = document.createElement('img');
+                    img.src = `/dev-links/favicons/${iconName}.png`;
+                    img.alt = 'icon';
+                    img.style.width = '16px';
+                    img.style.height = '16px';
+                    img.style.verticalAlign = 'middle';
+                    row1.appendChild(img);
+
+                    // Date
+                    const dateSpan = document.createElement('span');
+                    dateSpan.textContent = dateStr;
+                    dateSpan.style.fontSize = '0.95em';
+                    row1.appendChild(dateSpan);
+
+                    // Feed name
+                    const feedSpan = document.createElement('span');
+                    feedSpan.textContent = item.feed;
+                    feedSpan.style.fontSize = '0.95em';
+                    row1.appendChild(feedSpan);
+
+                    // Second row: post title (link)
+                    const row2 = document.createElement('div');
+                    row2.style.display = 'flex';
+
+                    const a = document.createElement('a');
+                    a.href = item.link;
+                    a.textContent = item.title;
+                    a.target = '_blank';
+                    a.rel = 'noopener noreferrer';
+                    a.style.display = 'inline-block';
+                    a.style.maxWidth = '100vw';
+
+                    row2.appendChild(a);
+
+                    itemDiv.appendChild(row1);
+                    itemDiv.appendChild(row2);
+
+                    list.appendChild(itemDiv);
+                });
+
+                root.appendChild(list);
+            })
+            .catch(error => {
+                console.error('Failed to load all posts:', error);
+            });
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        loadAllPosts([
+              'dotnet'
+            , 'visualstudio'
+            , 'visualstudiomagazine'
+
+            , 'microservices'
+            , 'developertoarchitect'
+
+            , 'ardalis'
+            , 'hanselman'
+            , 'andrewlock'
+            , 'davecallan'
+            , 'stephencleary'
+            , 'jonskeet'
+            , 'jimmybogard'
+            , 'devlead'
+            , 'steven-giesel'
+            , 'adamsitnik'
+            , 'minidump'
+            , 'mattwarren'
+            , 'haacked'
+            , 'erikej'
+            , 'enterprisecraftsmanship'
+
+            , 'martinfowler'
+            , 'antirez'
+            , 'simonwillison'
+            , 'nickcraver'
+            , 'codinghorror'
+            , 'joelonsoftware'
+            , 'neilonsoftware'
+            , 'brendangregg'
+            , 'paulhammant'
+            , 'sizovs'
+            , 'bartwullems'
+            , 'pragmaticengineer'
+            , 'vadimkravcenko'
+            , 'thecodist'
+
+            , 'terriblesoftware'
+            , 'lethain'
+            , 'effectiveengineer'
+        ], 'news');
+    });
+</script>

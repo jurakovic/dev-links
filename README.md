@@ -5,7 +5,7 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs)  
+└─ [Blogs](#blogs) / [*Reader*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
@@ -40,7 +40,7 @@ Visual Studio Blog
 <https://devblogs.microsoft.com/visualstudio/>  
 <div id="visualstudio" class="blog-posts"></div>
 
-![icon](favicons/vsm.png)
+![icon](favicons/visualstudiomagazine.png)
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 <div id="visualstudiomagazine" class="blog-posts"></div>
@@ -269,7 +269,7 @@ Microservices.io | Chris Richardson
 <https://microservices.io>  
 <div id="microservices" class="blog-posts"></div>
 
-![icon](favicons/markrichards.png)
+![icon](favicons/developertoarchitect.png)
 Software Developer To Software Architect | Mark Richards  
 <https://developertoarchitect.com/lessons/>  
 <div id="developertoarchitect" class="blog-posts"></div>
@@ -441,6 +441,11 @@ Mike Brind (Razor Pages, Blazor)
 
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+![icon](favicons/martinfowler.png)
+Martin Fowler  
+<https://www.martinfowler.com/recent-changes.html>  
+<div id="martinfowler" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
 Salvatore Sanfilippo | antirez  

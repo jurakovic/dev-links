@@ -2,3 +2,15 @@ remote_theme: jurakovic/cayman-blue
 google_analytics: G-233EMZJM16
 dark_theme: true
 target_blank: [header, main]
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values: # set default layout for all pages
+      layout: "default"
+  - scope:
+      path: "news/*"
+      type: "pages"
+    values: # set custom values for blog pages
+      title: "dev-news"
+      show_header: false
