@@ -9,8 +9,7 @@ defaults:
     values: # set default layout for all pages
       layout: "default"
   - scope:
-      path: "blogs/*"
+      path: "news/*"
       type: "pages"
     values: # set custom values for blog pages
-      title: "dev-blogs"
-      description: "A collection of .NET and general software development blogs and sites"
+      show_header: false
