@@ -26,19 +26,11 @@
 
                 root.innerHTML = '';
 
-                // Make a horizontally scrollable container
-                const container = document.createElement('div');
-                container.style.overflowX = 'auto';
-                container.style.width = '100%';
-
-                // Create table (no header, no borders, no wrapping anywhere, fixed layout)
-                const table = document.createElement('table');
-                table.style.width = 'max-content';
-                table.style.borderCollapse = 'collapse';
-                table.style.border = 'none';
-                table.style.tableLayout = 'fixed';
-
-                const tbody = document.createElement('tbody');
+                // Use a list container for items
+                const list = document.createElement('div');
+                list.style.display = 'flex';
+                list.style.flexDirection = 'column';
+                list.style.gap = '12px';
 
                 limitedItems.forEach(item => {
                     // Format date
@@ -78,47 +70,45 @@
                             iconName = item.feed;
                     }
 
-                    const tr = document.createElement('tr');
-                    tr.style.border = 'none';
+                    // Item container
+                    const itemDiv = document.createElement('div');
+                    itemDiv.style.display = 'flex';
+                    itemDiv.style.flexDirection = 'column';
+                    itemDiv.style.gap = '2px';
 
-                    // Favico cell
-                    const tdIcon = document.createElement('td');
+                    // First row: icon, date, feed name
+                    const row1 = document.createElement('div');
+                    row1.style.display = 'flex';
+                    row1.style.alignItems = 'center';
+                    row1.style.gap = '10px';
+
+                    // Icon
                     const img = document.createElement('img');
                     img.src = `/dev-links/favicons/${iconName}.png`;
                     img.alt = 'icon';
                     img.style.width = '16px';
                     img.style.height = '16px';
                     img.style.verticalAlign = 'middle';
-                    tdIcon.appendChild(img);
-                    tdIcon.style.textAlign = 'left';
-                    tdIcon.style.padding = '2px 8px 2px 0';
-                    tdIcon.style.border = 'none';
-                    tdIcon.style.whiteSpace = 'nowrap';
-                    tdIcon.style.overflow = 'hidden';
-                    tr.appendChild(tdIcon);
+                    row1.appendChild(img);
 
-                    // Date cell
-                    const tdDate = document.createElement('td');
-                    tdDate.textContent = dateStr;
-                    tdDate.style.padding = '2px 8px 2px 0';
-                    tdDate.style.textAlign = 'left';
-                    tdDate.style.border = 'none';
-                    tdDate.style.whiteSpace = 'nowrap';
-                    tdDate.style.overflow = 'hidden';
-                    tr.appendChild(tdDate);
+                    // Date
+                    const dateSpan = document.createElement('span');
+                    dateSpan.textContent = dateStr;
+                    dateSpan.style.color = '#666';
+                    dateSpan.style.fontSize = '0.95em';
+                    row1.appendChild(dateSpan);
 
-                    // Feed cell
-                    const tdFeed = document.createElement('td');
-                    tdFeed.textContent = item.feed;
-                    tdFeed.style.padding = '2px 8px 2px 0';
-                    tdFeed.style.textAlign = 'left';
-                    tdFeed.style.border = 'none';
-                    tdFeed.style.whiteSpace = 'nowrap';
-                    tdFeed.style.overflow = 'hidden';
-                    tr.appendChild(tdFeed);
+                    // Feed name
+                    const feedSpan = document.createElement('span');
+                    feedSpan.textContent = item.feed;
+                    feedSpan.style.fontWeight = 'bold';
+                    feedSpan.style.fontSize = '0.95em';
+                    row1.appendChild(feedSpan);
 
-                    // Title cell (with ellipsis if overflowing)
-                    const tdTitle = document.createElement('td');
+                    // Second row: post title (link)
+                    const row2 = document.createElement('div');
+                    row2.style.display = 'flex';
+
                     const a = document.createElement('a');
                     a.href = item.link;
                     a.textContent = item.title;
@@ -128,22 +118,20 @@
                     a.style.overflow = 'hidden';
                     a.style.textOverflow = 'ellipsis';
                     a.style.display = 'inline-block';
-                    a.style.maxWidth = '500px';
-                    tdTitle.appendChild(a);
-                    tdTitle.style.padding = '2px 0 2px 0';
-                    tdTitle.style.textAlign = 'left';
-                    tdTitle.style.border = 'none';
-                    tdTitle.style.whiteSpace = 'nowrap';
-                    tdTitle.style.overflow = 'hidden';
-                    tdTitle.style.maxWidth = '500px';
-                    tr.appendChild(tdTitle);
+                    a.style.maxWidth = '100vw';
+                    a.style.fontSize = '1em';
+                    a.style.color = '#1a0dab';
+                    a.style.textDecoration = 'underline';
 
-                    tbody.appendChild(tr);
+                    row2.appendChild(a);
+
+                    itemDiv.appendChild(row1);
+                    itemDiv.appendChild(row2);
+
+                    list.appendChild(itemDiv);
                 });
 
-                table.appendChild(tbody);
-                container.appendChild(table);
-                root.appendChild(container);
+                root.appendChild(list);
             })
             .catch(error => {
                 console.error('Failed to load all posts:', error);
