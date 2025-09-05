@@ -12,4 +12,5 @@ defaults:
       path: "news/*"
       type: "pages"
     values: # set custom values for blog pages
+      title: "dev-blogs"
       show_header: false
