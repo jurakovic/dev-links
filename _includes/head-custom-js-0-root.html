@@ -25,10 +25,10 @@
                     details.open = !expanded;
                 });
             });
-
             expanded = !expanded;
             button.textContent = expanded ? 'Collapse all blog posts' : 'Expand all blog posts';
         });
+
         // Insert the button into the specified container
         buttonContainer.appendChild(button);
     }
@@ -109,5 +109,46 @@
     }
     document.addEventListener('DOMContentLoaded', () => {
         addExpandCollapseAllButton();
+        loadPosts('dotnet');
+        loadPosts('visualstudio');
+        loadPosts('visualstudiomagazine');
+
+        loadPosts('microservices');
+        loadPosts('developertoarchitect');
+
+        loadPosts('ardalis');
+        loadPosts('hanselman');
+        loadPosts('andrewlock');
+        loadPosts('davecallan');
+        loadPosts('stephencleary');
+        loadPosts('jonskeet');
+        loadPosts('jimmybogard');
+        loadPosts('devlead');
+        loadPosts('steven-giesel');
+        loadPosts('adamsitnik');
+        loadPosts('minidump');
+        loadPosts('mattwarren');
+        loadPosts('haacked');
+        loadPosts('erikej');
+        loadPosts('enterprisecraftsmanship');
+
+        loadPosts('antirez');
+        loadPosts('simonwillison');
+        loadPosts('nickcraver');
+        loadPosts('codinghorror');
+        loadPosts('joelonsoftware');
+        loadPosts('neilonsoftware');
+        loadPosts('brendangregg');
+        //loadPosts('tidyfirst'); // cloudflare blocks curl
+        loadPosts('paulhammant');
+        loadPosts('sizovs');
+        loadPosts('bartwullems');
+        loadPosts('pragmaticengineer');
+        loadPosts('vadimkravcenko');
+        loadPosts('thecodist');
+
+        loadPosts('terriblesoftware');
+        loadPosts('lethain');
+        loadPosts('effectiveengineer');
     });
 </script>
