@@ -1,5 +1,20 @@
 [
   {
+    "title": "GPT-5 Thinking in ChatGPT (aka Research Goblin) is shockingly good at search",
+    "link": "https://simonwillison.net/2025/Sep/6/research-goblin/#atom-everything",
+    "pubDate": "2025-09-06T19:31:57+00:00"
+  },
+  {
+    "title": "Quoting Jason Liu",
+    "link": "https://simonwillison.net/2025/Sep/6/jason-liu/#atom-everything",
+    "pubDate": "2025-09-06T17:20:27+00:00"
+  },
+  {
+    "title": "Kimi-K2-Instruct-0905",
+    "link": "https://simonwillison.net/2025/Sep/6/kimi-k2-instruct-0905/#atom-everything",
+    "pubDate": "2025-09-06T16:59:25+00:00"
+  },
+  {
     "title": "Quoting IanCal",
     "link": "https://simonwillison.net/2025/Sep/6/iancal/#atom-everything",
     "pubDate": "2025-09-06T06:41:49+00:00"
@@ -8,20 +23,5 @@
     "title": "Why I think the $1.5 billion Anthropic class action settlement may count as a win for Anthropic",
     "link": "https://simonwillison.net/2025/Sep/6/anthropic-settlement/#atom-everything",
     "pubDate": "2025-09-06T05:51:27+00:00"
-  },
-  {
-    "title": "Quoting Kenton Varda",
-    "link": "https://simonwillison.net/2025/Sep/5/kenton-varda/#atom-everything",
-    "pubDate": "2025-09-05T16:43:13+00:00"
-  },
-  {
-    "title": "Introducing EmbeddingGemma",
-    "link": "https://simonwillison.net/2025/Sep/4/embedding-gemma/#atom-everything",
-    "pubDate": "2025-09-04T22:27:41+00:00"
-  },
-  {
-    "title": "Highlighted tools",
-    "link": "https://simonwillison.net/2025/Sep/4/highlighted-tools/#atom-everything",
-    "pubDate": "2025-09-04T21:58:11+00:00"
   }
 ]
