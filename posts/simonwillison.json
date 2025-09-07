@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI mode is good, actually",
+    "link": "https://simonwillison.net/2025/Sep/7/ai-mode/#atom-everything",
+    "pubDate": "2025-09-07T10:08:31+00:00"
+  },
+  {
     "title": "GPT-5 Thinking in ChatGPT (aka Research Goblin) is shockingly good at search",
     "link": "https://simonwillison.net/2025/Sep/6/research-goblin/#atom-everything",
     "pubDate": "2025-09-06T19:31:57+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting IanCal",
     "link": "https://simonwillison.net/2025/Sep/6/iancal/#atom-everything",
     "pubDate": "2025-09-06T06:41:49+00:00"
-  },
-  {
-    "title": "Why I think the $1.5 billion Anthropic class action settlement may count as a win for Anthropic",
-    "link": "https://simonwillison.net/2025/Sep/6/anthropic-settlement/#atom-everything",
-    "pubDate": "2025-09-06T05:51:27+00:00"
   }
 ]
