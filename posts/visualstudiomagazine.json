@@ -1,5 +1,15 @@
 [
   {
+    "title": "Copilot Studio Adds Near-Real-Time Security Controls for AI Agents",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx",
+    "pubDate": "Mon, 08 Sep 2025 18:55:00 GMT"
+  },
+  {
+    "title": "Azure AI Foundry Gets ChatGPT-5, Previews Browser Automation",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Azure-AI-Foundry-Gets-ChatGPT-5-Previews-Browser-Automation.aspx",
+    "pubDate": "Mon, 08 Sep 2025 18:01:00 GMT"
+  },
+  {
     "title": "Microsoft Supercharges Visual Studio Debugging/Profiling with Copilot",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/04/Microsoft-Supercharges-Visual-Studio-Debugging-Profiling-with-AI-Powered-Copilot-Features.aspx",
     "pubDate": "Thu, 04 Sep 2025 17:40:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Coming Soon in Visual Studio AI: Debugging/Profiling Modes and Agentic DevOps",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/03/Coming-Soon-in-Visual-Studio-AI-DebuggingProfiling-Modes-and-Agentic-DevOps.aspx",
     "pubDate": "Wed, 03 Sep 2025 17:05:00 GMT"
-  },
-  {
-    "title": "GitHub Copilot for Azure Previews in Visual Studio 2022",
-    "link": "https://visualstudiomagazine.com/Articles/2025/08/26/GitHub-Copilot-for-Azure-Previews-in-Visual-Studio-2022.aspx",
-    "pubDate": "Tue, 26 Aug 2025 15:26:00 GMT"
-  },
-  {
-    "title": "Visual Studio Copilot: BYO Model + MCP GA",
-    "link": "https://visualstudiomagazine.com/Articles/2025/08/25/Visual-Studio-Copilot-BYO-Model--MCP-GA.aspx",
-    "pubDate": "Mon, 25 Aug 2025 17:32:00 GMT"
   }
 ]
