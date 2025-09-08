@@ -1,5 +1,10 @@
 [
   {
+    "title": "ToDictionaryAsync retrieves the whole object from the database in Entity Framework",
+    "link": "https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc",
+    "pubDate": "Mon, 08 Sep 2025 05:00:00 Z"
+  },
+  {
     "title": "Divide and Conquer the Database",
     "link": "https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3",
     "pubDate": "Mon, 01 Sep 2025 05:53:00 Z"
@@ -18,10 +23,5 @@
     "title": "How to not return all properties in SqlRaw",
     "link": "https://steven-giesel.com/blogPost/c6bea409-9e49-4915-8529-8a8a8574ba80",
     "pubDate": "Mon, 11 Aug 2025 05:22:00 Z"
-  },
-  {
-    "title": "Disabling thread safety check in Entity Framework",
-    "link": "https://steven-giesel.com/blogPost/f1c14e0f-840c-4dd6-921c-364298a35d6f",
-    "pubDate": "Mon, 04 Aug 2025 05:51:00 Z"
   }
 ]

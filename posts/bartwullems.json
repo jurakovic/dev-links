@@ -1,5 +1,10 @@
 [
   {
+    "title": "Custom chat modes in Github Copilot",
+    "link": "https://bartwullems.blogspot.com/2025/09/custom-chat-modes-in-github-copilot.html",
+    "pubDate": "2025-09-08T06:48:00.020+02:00"
+  },
+  {
     "title": "Why rational humans make irrational decisions",
     "link": "https://bartwullems.blogspot.com/2025/09/why-rational-humans-make-irrational.html",
     "pubDate": "2025-09-05T07:56:00.017+02:00"
@@ -18,10 +23,5 @@
     "title": "The two-ear Product Manager: Why balanced listening is your superpower",
     "link": "https://bartwullems.blogspot.com/2025/09/the-two-ear-product-manager-why.html",
     "pubDate": "2025-09-02T06:56:00.008+02:00"
-  },
-  {
-    "title": "Fixing ValidationProblemDetails serialization Issues when using the JSON Source Generator in ASP.NET Core",
-    "link": "https://bartwullems.blogspot.com/2025/09/fixing-validationproblemdetails.html",
-    "pubDate": "2025-09-01T07:33:00.000+02:00"
   }
 ]
