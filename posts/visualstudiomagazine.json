@@ -1,5 +1,15 @@
 [
   {
+    "title": "Visual Studio 2026 Arrives in Insiders Channel",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx",
+    "pubDate": "Tue, 09 Sep 2025 20:23:00 GMT"
+  },
+  {
+    "title": "Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx",
+    "pubDate": "Tue, 09 Sep 2025 16:15:00 GMT"
+  },
+  {
     "title": "Copilot Studio Adds Near-Real-Time Security Controls for AI Agents",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx",
     "pubDate": "Mon, 08 Sep 2025 18:55:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Microsoft Supercharges Visual Studio Debugging/Profiling with Copilot",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/04/Microsoft-Supercharges-Visual-Studio-Debugging-Profiling-with-AI-Powered-Copilot-Features.aspx",
     "pubDate": "Thu, 04 Sep 2025 17:40:00 GMT"
-  },
-  {
-    "title": "GitHub Open Sources Kit for Spec-Driven AI Development",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/03/GitHub-Open-Sources-Kit-for-Spec-Driven-AI-Development.aspx",
-    "pubDate": "Wed, 03 Sep 2025 18:02:00 GMT"
-  },
-  {
-    "title": "Coming Soon in Visual Studio AI: Debugging/Profiling Modes and Agentic DevOps",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/03/Coming-Soon-in-Visual-Studio-AI-DebuggingProfiling-Modes-and-Agentic-DevOps.aspx",
-    "pubDate": "Wed, 03 Sep 2025 17:05:00 GMT"
   }
 ]
