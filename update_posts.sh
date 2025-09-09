@@ -1,11 +1,5 @@
 #!/bin/bash
 
-node -v
-
-node gen_news.js
-
-exit 0
-
 function update() {
   url=$1
   name=$2
@@ -86,3 +80,5 @@ update "https://thecodist.com/rss/" "thecodist"
 update "https://terriblesoftware.org/feed/" "terriblesoftware"
 update "https://lethain.com/feeds/" "lethain"
 update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
+
+node gen_news.js
