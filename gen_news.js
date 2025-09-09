@@ -75,4 +75,4 @@ for (const post of posts50) {
 }
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
-console.log(`Wrote ${posts50.length} posts to ${OUTPUT_FILE}`);
+console.log(`Generated ${OUTPUT_FILE}`);
