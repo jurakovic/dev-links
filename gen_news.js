@@ -54,7 +54,7 @@ allPosts.sort((a, b) => {
 const posts50 = allPosts.slice(0, 50);
 
 // --- Write markdown ---
-let md = '';
+let md = '\n';
 md += `[dev-links](../README.md#content)  \n`;
 md += `└─ [Blogs](../README.md#blogs) / ***Reader***  \n\n`;
 md += `* * *\n\n`;
