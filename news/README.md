@@ -4,6 +4,27 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
+<small>[Quoting Apple Security Engineering and Architecture](https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 Arrives in Insiders Channel](https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
+<small>[Announcing .NET 10 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
+<small>[My review of Claude's new Code Interpreter, released under a very confusing name](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
+<small>[.NET and .NET Framework September 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-09 visualstudio</small>  
+<small>[Visual Studio 2026 Insiders is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
+<small>[Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry](https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
 <small>[The 2025 PSF Board Election is Open!](https://simonwillison.net/2025/Sep/9/psf-board-election/#atom-everything)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
@@ -15,14 +36,8 @@
 ![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
 <small>[Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything)</small>
 
-![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
-<small>[Anthropic status: Model output quality](https://simonwillison.net/2025/Sep/9/anthropic-model-output-quality/#atom-everything)</small>
-
 ![icon](../favicons/blogspot.png) <small>2025-09-09 bartwullems</small>  
 <small>[The prompt as documentation: Should AI-generated code include its origin story?](https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-08 simonwillison</small>  
-<small>[Quoting TheSoftwareGuy](https://simonwillison.net/2025/Sep/8/thesoftwareguy/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-08 visualstudiomagazine</small>  
 <small>[Copilot Studio Adds Near-Real-Time Security Controls for AI Agents](https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx)</small>
@@ -48,14 +63,8 @@
 ![icon](../favicons/blogspot.png) <small>2025-09-04 bartwullems</small>  
 <small>[Run an Azure Pipelines build agent in WSL2](https://bartwullems.blogspot.com/2025/09/run-azure-pipelines-build-agent-in-wsl2.html)</small>
 
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-03 visualstudiomagazine</small>  
-<small>[GitHub Open Sources Kit for Spec-Driven AI Development](https://visualstudiomagazine.com/Articles/2025/09/03/GitHub-Open-Sources-Kit-for-Spec-Driven-AI-Development.aspx)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-03 dotnet</small>  
 <small>[Let Copilot Coding Agent handle the busy work](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/)</small>
-
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-03 visualstudiomagazine</small>  
-<small>[Coming Soon in Visual Studio AI: Debugging/Profiling Modes and Agentic DevOps](https://visualstudiomagazine.com/Articles/2025/09/03/Coming-Soon-in-Visual-Studio-AI-DebuggingProfiling-Modes-and-Agentic-DevOps.aspx)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-03 bartwullems</small>  
 <small>[From AutoMapper Profiles to Mapster: Centralizing your mapping logic](https://bartwullems.blogspot.com/2025/09/from-automapper-profiles-to-mapster.html)</small>
@@ -102,23 +111,14 @@
 ![icon](../favicons/andrewlock.png) <small>2025-08-26 andrewlock</small>  
 <small>[Fixing an old .NET Core native library loading issue on Alpine](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/)</small>
 
-![icon](../favicons/microsoft.png) <small>2025-08-25 visualstudio</small>  
-<small>[GitHub Copilot for Azure (Preview) Launches in Visual Studio 2022 with Azure MCP Support](https://devblogs.microsoft.com/visualstudio/github-copilot-for-azure-preview-launches-in-visual-studio-2022-with-azure-mcp-support/)</small>
-
 ![icon](../favicons/blank.png) <small>2025-08-25 erikej</small>  
 <small>[Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-08-25 dotnet</small>  
-<small>[MauiReactor: An MVU Approach for .NET MAUI](https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/)</small>
 
 ![icon](../favicons/steven-giesel.png) <small>2025-08-25 steven-giesel</small>  
 <small>[Quick one: Difference between collection expressions and collection initializer](https://steven-giesel.com/blogPost/fea0b033-ccf5-4197-b62c-ffd8ca6d79c7)</small>
 
 ![icon](../favicons/terriblesoftware.png) <small>2025-08-22 terriblesoftware</small>  
 <small>[The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-08-21 dotnet</small>  
-<small>[Enhance your CLI testing workflow with the new dotnet test](https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/)</small>
 
 ![icon](../favicons/pragmaticengineer.png) <small>2025-08-21 pragmaticengineer</small>  
 <small>[Creative ways to fund open source projects](https://blog.pragmaticengineer.com/creative-ways-to-fund-open-source-projects/)</small>
