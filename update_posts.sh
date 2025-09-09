@@ -1,5 +1,11 @@
 #!/bin/bash
 
+node -v
+
+node gen_news.js
+
+exit 0
+
 function update() {
   url=$1
   name=$2
