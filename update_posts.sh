@@ -80,3 +80,6 @@ update "https://thecodist.com/rss/" "thecodist"
 update "https://terriblesoftware.org/feed/" "terriblesoftware"
 update "https://lethain.com/feeds/" "lethain"
 update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
+
+cd ..
+node gen_news.js

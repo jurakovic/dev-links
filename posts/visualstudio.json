@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio 2026 Insiders is here!",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/",
+    "pubDate": "Tue, 09 Sep 2025 16:52:29 +0000"
+  },
+  {
     "title": "Make Sense of Your Output Window with Copilot",
     "link": "https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/",
     "pubDate": "Thu, 04 Sep 2025 12:00:38 +0000"
@@ -18,10 +23,5 @@
     "title": "The Visual Studio August Update is here – smarter AI, better debugging, and more control",
     "link": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/",
     "pubDate": "Tue, 26 Aug 2025 18:22:28 +0000"
-  },
-  {
-    "title": "GitHub Copilot for Azure (Preview) Launches in Visual Studio 2022 with Azure MCP Support",
-    "link": "https://devblogs.microsoft.com/visualstudio/github-copilot-for-azure-preview-launches-in-visual-studio-2022-with-azure-mcp-support/",
-    "pubDate": "Mon, 25 Aug 2025 18:36:28 +0000"
   }
 ]

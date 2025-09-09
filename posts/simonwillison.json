@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Apple Security Engineering and Architecture",
+    "link": "https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything",
+    "pubDate": "2025-09-09T21:32:55+00:00"
+  },
+  {
+    "title": "My review of Claude's new Code Interpreter, released under a very confusing name",
+    "link": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything",
+    "pubDate": "2025-09-09T18:11:32+00:00"
+  },
+  {
     "title": "The 2025 PSF Board Election is Open!",
     "link": "https://simonwillison.net/2025/Sep/9/psf-board-election/#atom-everything",
     "pubDate": "2025-09-09T10:13:33+00:00"
@@ -13,15 +23,5 @@
     "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
     "link": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything",
     "pubDate": "2025-09-09T06:47:49+00:00"
-  },
-  {
-    "title": "Anthropic status: Model output quality",
-    "link": "https://simonwillison.net/2025/Sep/9/anthropic-model-output-quality/#atom-everything",
-    "pubDate": "2025-09-09T06:28:21+00:00"
-  },
-  {
-    "title": "Quoting TheSoftwareGuy",
-    "link": "https://simonwillison.net/2025/Sep/8/thesoftwareguy/#atom-everything",
-    "pubDate": "2025-09-08T23:23:43+00:00"
   }
 ]

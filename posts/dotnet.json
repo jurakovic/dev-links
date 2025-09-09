@@ -1,5 +1,15 @@
 [
   {
+    "title": "Announcing .NET 10 Release Candidate 1",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/",
+    "pubDate": "Tue, 09 Sep 2025 18:45:00 +0000"
+  },
+  {
+    "title": ".NET and .NET Framework September 2025 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/",
+    "pubDate": "Tue, 09 Sep 2025 17:45:00 +0000"
+  },
+  {
     "title": "Let Copilot Coding Agent handle the busy work",
     "link": "https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/",
     "pubDate": "Wed, 03 Sep 2025 17:05:00 +0000"
@@ -13,15 +23,5 @@
     "title": "EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio",
     "link": "https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/",
     "pubDate": "Wed, 27 Aug 2025 17:05:00 +0000"
-  },
-  {
-    "title": "MauiReactor: An MVU Approach for .NET MAUI",
-    "link": "https://devblogs.microsoft.com/dotnet/mauireactor-mvu-for-dotnet-maui/",
-    "pubDate": "Mon, 25 Aug 2025 17:15:00 +0000"
-  },
-  {
-    "title": "Enhance your CLI testing workflow with the new dotnet test",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-test-with-mtp/",
-    "pubDate": "Thu, 21 Aug 2025 17:05:00 +0000"
   }
 ]
