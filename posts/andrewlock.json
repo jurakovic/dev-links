@@ -1,5 +1,10 @@
 [
   {
+    "title": "Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7",
+    "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/",
+    "pubDate": "Tue, 09 Sep 2025 10:00:00 GMT"
+  },
+  {
     "title": "Using and authoring .NET tools",
     "link": "https://andrewlock.net/using-and-authoring-dotnet-tools/",
     "pubDate": "Tue, 02 Sep 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Running .NET in the browser without Blazor",
     "link": "https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/",
     "pubDate": "Tue, 12 Aug 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Passkey support for ASP.NET Core identity: Exploring the .NET 10 preview - Part 6",
-    "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-6-passkey-support-for-aspnetcore-identity/",
-    "pubDate": "Tue, 05 Aug 2025 10:00:00 GMT"
   }
 ]
