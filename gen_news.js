@@ -3,7 +3,7 @@ const path = require('path');
 
 // --- Config ---
 const POSTS_DIR = path.join(__dirname, 'posts');
-const OUTPUT_FILE = path.join(__dirname, 'news', 'README2.md');
+const OUTPUT_FILE = path.join(__dirname, 'news', 'README.md');
 const FAVICON_PATH = '../favicons/';
 
 // --- Helper to get icon name ---
@@ -70,8 +70,8 @@ for (const post of posts50) {
     // Markdown escape for title (minimal)
     let escTitle = post.title.replace(/([*_`\[\]])/g, '\\$1');
     // Output
-    md += `![icon](${FAVICON_PATH}${icon}.png) ${dateStr} ${post.feed}  \n`;
-    md += `[${escTitle}](${post.link})\n\n`;
+    md += `![icon](${FAVICON_PATH}${icon}.png) <small>${dateStr} ${post.feed}</small>  \n`;
+    md += `<small>[${escTitle}](${post.link})</small>\n\n`;
 }
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
