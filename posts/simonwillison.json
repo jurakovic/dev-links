@@ -1,5 +1,10 @@
 [
   {
+    "title": "I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory",
+    "link": "https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything",
+    "pubDate": "2025-09-10T12:24:44+00:00"
+  },
+  {
     "title": "Quoting Apple Security Engineering and Architecture",
     "link": "https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything",
     "pubDate": "2025-09-09T21:32:55+00:00"
@@ -18,10 +23,5 @@
     "title": "Geoffrey Huntley is cursed",
     "link": "https://simonwillison.net/2025/Sep/9/cursed/#atom-everything",
     "pubDate": "2025-09-09T09:31:21+00:00"
-  },
-  {
-    "title": "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
-    "link": "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything",
-    "pubDate": "2025-09-09T06:47:49+00:00"
   }
 ]
