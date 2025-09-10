@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
+<small>[Claude API: Web fetch tool](https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything)</small>
+
 ![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
 <small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
-<small>[Geoffrey Huntley is cursed](https://simonwillison.net/2025/Sep/9/cursed/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-09 bartwullems</small>  
 <small>[The prompt as documentation: Should AI-generated code include its origin story?](https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html)</small>
