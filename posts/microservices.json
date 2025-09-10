@@ -1,5 +1,10 @@
 [
   {
+    "title": "Claude Code: Allow Bash(git commit:*) considered harmful",
+    "link": "http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html",
+    "pubDate": "Wed, 10 Sep 2025 08:03:00 +0000"
+  },
+  {
     "title": "Microservices rules #9: Develop observable services",
     "link": "http://microservices.io//post/architecture/2025/08/02/premium-microservices-rules-9-observable-services.html",
     "pubDate": "Sat, 02 Aug 2025 08:03:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Microservices rules #8: Design testable services",
     "link": "http://microservices.io//post/architecture/2025/07/09/premium-microservices-rules-8-testable-services.html",
     "pubDate": "Wed, 09 Jul 2025 08:03:00 +0000"
-  },
-  {
-    "title": "Announcing the MEAP for Microservices Patterns, 2nd Edition",
-    "link": "http://microservices.io//post/architecture/2025/06/26/announcing-meap-microservices-patterns-2nd-edition.html",
-    "pubDate": "Thu, 26 Jun 2025 08:03:00 +0000"
   }
 ]

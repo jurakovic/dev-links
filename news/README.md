@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
+<small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
+<small>[I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything)</small>
+
+![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
+<small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-10 bartwullems</small>  
 <small>[Microsoft.Extensions.AI–Part VIII–Evaluations](https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html)</small>
 
@@ -36,9 +45,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
 <small>[Geoffrey Huntley is cursed](https://simonwillison.net/2025/Sep/9/cursed/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
-<small>[Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-09 bartwullems</small>  
 <small>[The prompt as documentation: Should AI-generated code include its origin story?](https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html)</small>
@@ -94,9 +100,6 @@
 ![icon](../favicons/microsoft.png) <small>2025-08-27 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (September)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/)</small>
 
-![icon](../favicons/microsoft.png) <small>2025-08-27 dotnet</small>  
-<small>[EFCore.Visualizer – View Entity Framework Core query plan inside Visual Studio](https://devblogs.microsoft.com/dotnet/ef-core-visualizer-view-entity-framework-core-query-plan-inside-visual-studio/)</small>
-
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/developertoarchitect.png) <small>2025-08-01 developertoarchitect</small>  
 <small>[Lesson 210 - Architecture Definition Language (August 4, 2025)](http://www.developertoarchitect.com/lessons/lesson210.html)</small>
-
-![icon](../favicons/blank.png) <small>2025-07-30 erikej</small>  
-<small>[Publish your .NET MCP Server to NuGet](https://erikej.github.io/mcp/dotnet/nuget/2025/07/30/mcp-dotnet-nuget.html)</small>
 
