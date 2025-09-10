@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft.Extensions.AI–Part VIII–Evaluations",
+    "link": "https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html",
+    "pubDate": "2025-09-10T07:29:00.008+02:00"
+  },
+  {
     "title": "The prompt as documentation: Should AI-generated code include its origin story?",
     "link": "https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html",
     "pubDate": "2025-09-09T07:31:00.017+02:00"
@@ -18,10 +23,5 @@
     "title": "Run an Azure Pipelines build agent in WSL2",
     "link": "https://bartwullems.blogspot.com/2025/09/run-azure-pipelines-build-agent-in-wsl2.html",
     "pubDate": "2025-09-04T07:00:00.051+02:00"
-  },
-  {
-    "title": "From AutoMapper Profiles to Mapster: Centralizing your mapping logic",
-    "link": "https://bartwullems.blogspot.com/2025/09/from-automapper-profiles-to-mapster.html",
-    "pubDate": "2025-09-03T07:11:00.000+02:00"
   }
 ]
