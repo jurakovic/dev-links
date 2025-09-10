@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-10 bartwullems</small>  
+<small>[Microsoft.Extensions.AI–Part VIII–Evaluations](https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
 <small>[Quoting Apple Security Engineering and Architecture](https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything)</small>
 
@@ -66,9 +69,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-03 dotnet</small>  
 <small>[Let Copilot Coding Agent handle the busy work](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-03 bartwullems</small>  
-<small>[From AutoMapper Profiles to Mapster: Centralizing your mapping logic](https://bartwullems.blogspot.com/2025/09/from-automapper-profiles-to-mapster.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-02 visualstudio</small>  
 <small>[Boost Your Copilot Collaboration with Reusable Prompt Files](https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/)</small>
