@@ -4,11 +4,11 @@
 
 * * *
 
-![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
-<small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
+<small>[VS Code Update Helps Dev Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
-<small>[Generating and Viewing Mermaid Diagrams with Copilot](https://devblogs.microsoft.com/visualstudio/generating-and-viewing-mermaid-diagrams-with-copilot/)</small>
+<small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
 <small>[Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything)</small>
@@ -73,9 +73,6 @@
 ![icon](../favicons/blogspot.png) <small>2025-09-05 bartwullems</small>  
 <small>[Why rational humans make irrational decisions](https://bartwullems.blogspot.com/2025/09/why-rational-humans-make-irrational.html)</small>
 
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-04 visualstudiomagazine</small>  
-<small>[Microsoft Supercharges Visual Studio Debugging/Profiling with Copilot](https://visualstudiomagazine.com/Articles/2025/09/04/Microsoft-Supercharges-Visual-Studio-Debugging-Profiling-with-AI-Powered-Copilot-Features.aspx)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
 
@@ -102,6 +99,9 @@
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-08-27 visualstudio</small>  
+<small>[Roadmap for AI in Visual Studio (September)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/)</small>
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
