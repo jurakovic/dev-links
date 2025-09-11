@@ -1,5 +1,15 @@
 [
   {
+    "title": "Democratizing Performance: The Copilot Profiler Agent in Action on Real Code",
+    "link": "https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/",
+    "pubDate": "Thu, 11 Sep 2025 16:05:09 +0000"
+  },
+  {
+    "title": "Generating and Viewing Mermaid Diagrams with Copilot",
+    "link": "https://devblogs.microsoft.com/visualstudio/generating-and-viewing-mermaid-diagrams-with-copilot/",
+    "pubDate": "Thu, 11 Sep 2025 13:00:58 +0000"
+  },
+  {
     "title": "Visual Studio 2026 Insiders is here!",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/",
     "pubDate": "Tue, 09 Sep 2025 16:52:29 +0000"
@@ -13,15 +23,5 @@
     "title": "Boost Your Copilot Collaboration with Reusable Prompt Files",
     "link": "https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/",
     "pubDate": "Tue, 02 Sep 2025 12:00:42 +0000"
-  },
-  {
-    "title": "Roadmap for AI in Visual Studio (September)",
-    "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/",
-    "pubDate": "Wed, 27 Aug 2025 18:02:11 +0000"
-  },
-  {
-    "title": "The Visual Studio August Update is here – smarter AI, better debugging, and more control",
-    "link": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/",
-    "pubDate": "Tue, 26 Aug 2025 18:22:28 +0000"
   }
 ]

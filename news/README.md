@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
+<small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
+<small>[Generating and Viewing Mermaid Diagrams with Copilot](https://devblogs.microsoft.com/visualstudio/generating-and-viewing-mermaid-diagrams-with-copilot/)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
 <small>[Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything)</small>
 
@@ -97,17 +103,11 @@
 ![icon](../favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)</small>
 
-![icon](../favicons/microsoft.png) <small>2025-08-27 visualstudio</small>  
-<small>[Roadmap for AI in Visual Studio (September)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/)</small>
-
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-08-26 visualstudio</small>  
-<small>[The Visual Studio August Update is here – smarter AI, better debugging, and more control](https://devblogs.microsoft.com/visualstudio/the-visual-studio-august-update-is-here-smarter-ai-better-debugging-and-more-control/)</small>
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-26 martinfowler</small>  
 <small>[Chatting with Unmesh about building language with LLMs](https://martinfowler.com/articles/convo-llm-abstractions.html)</small>
