@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Kumar Aditya",
+    "link": "https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything",
+    "pubDate": "2025-09-11T03:07:16+00:00"
+  },
+  {
     "title": "Claude API: Web fetch tool",
     "link": "https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything",
     "pubDate": "2025-09-10T17:24:51+00:00"
@@ -18,10 +23,5 @@
     "title": "My review of Claude's new Code Interpreter, released under a very confusing name",
     "link": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything",
     "pubDate": "2025-09-09T18:11:32+00:00"
-  },
-  {
-    "title": "The 2025 PSF Board Election is Open!",
-    "link": "https://simonwillison.net/2025/Sep/9/psf-board-election/#atom-everything",
-    "pubDate": "2025-09-09T10:13:33+00:00"
   }
 ]

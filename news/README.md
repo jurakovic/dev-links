@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
+<small>[Quoting Kumar Aditya](https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
 <small>[Claude API: Web fetch tool](https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
 <small>[Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry](https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
-<small>[The 2025 PSF Board Election is Open!](https://simonwillison.net/2025/Sep/9/psf-board-election/#atom-everything)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
