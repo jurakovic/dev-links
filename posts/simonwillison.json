@@ -1,5 +1,10 @@
 [
   {
+    "title": "Defeating Nondeterminism in LLM Inference",
+    "link": "https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything",
+    "pubDate": "2025-09-11T06:53:42+00:00"
+  },
+  {
     "title": "Quoting Kumar Aditya",
     "link": "https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything",
     "pubDate": "2025-09-11T03:07:16+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Apple Security Engineering and Architecture",
     "link": "https://simonwillison.net/2025/Sep/9/memory-integrity-enforcement/#atom-everything",
     "pubDate": "2025-09-09T21:32:55+00:00"
-  },
-  {
-    "title": "My review of Claude's new Code Interpreter, released under a very confusing name",
-    "link": "https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything",
-    "pubDate": "2025-09-09T18:11:32+00:00"
   }
 ]
