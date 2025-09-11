@@ -1,5 +1,10 @@
 [
   {
+    "title": "Part VIII – Evaluations(continued)",
+    "link": "https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html",
+    "pubDate": "2025-09-11T07:21:00.009+02:00"
+  },
+  {
     "title": "Microsoft.Extensions.AI–Part VIII–Evaluations",
     "link": "https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html",
     "pubDate": "2025-09-10T07:29:00.008+02:00"
@@ -18,10 +23,5 @@
     "title": "Why rational humans make irrational decisions",
     "link": "https://bartwullems.blogspot.com/2025/09/why-rational-humans-make-irrational.html",
     "pubDate": "2025-09-05T07:56:00.017+02:00"
-  },
-  {
-    "title": "Run an Azure Pipelines build agent in WSL2",
-    "link": "https://bartwullems.blogspot.com/2025/09/run-azure-pipelines-build-agent-in-wsl2.html",
-    "pubDate": "2025-09-04T07:00:00.051+02:00"
   }
 ]

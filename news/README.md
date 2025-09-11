@@ -5,6 +5,12 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
+<small>[Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-11 bartwullems</small>  
+<small>[Part VIII – Evaluations(continued)](https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
 <small>[Quoting Kumar Aditya](https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything)</small>
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
@@ -30,9 +36,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
 <small>[Announcing .NET 10 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-09 simonwillison</small>  
-<small>[My review of Claude's new Code Interpreter, released under a very confusing name](https://simonwillison.net/2025/Sep/9/claude-code-interpreter/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
 <small>[.NET and .NET Framework September 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/)</small>
@@ -69,9 +72,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-04 bartwullems</small>  
-<small>[Run an Azure Pipelines build agent in WSL2](https://bartwullems.blogspot.com/2025/09/run-azure-pipelines-build-agent-in-wsl2.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-03 dotnet</small>  
 <small>[Let Copilot Coding Agent handle the busy work](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/)</small>
