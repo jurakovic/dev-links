@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code Update Helps Dev Select, Contribute AI Models",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx",
+    "pubDate": "Thu, 11 Sep 2025 21:01:00 GMT"
+  },
+  {
     "title": "Visual Studio 2026 Arrives in Insiders Channel",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx",
     "pubDate": "Tue, 09 Sep 2025 20:23:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Azure AI Foundry Gets ChatGPT-5, Previews Browser Automation",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Azure-AI-Foundry-Gets-ChatGPT-5-Previews-Browser-Automation.aspx",
     "pubDate": "Mon, 08 Sep 2025 18:01:00 GMT"
-  },
-  {
-    "title": "Microsoft Supercharges Visual Studio Debugging/Profiling with Copilot",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/04/Microsoft-Supercharges-Visual-Studio-Debugging-Profiling-with-AI-Powered-Copilot-Features.aspx",
-    "pubDate": "Thu, 04 Sep 2025 17:40:00 GMT"
   }
 ]
