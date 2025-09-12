@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Matt Webb",
+    "link": "https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything",
+    "pubDate": "2025-09-12T21:59:33+00:00"
+  },
+  {
     "title": "London Transport Museum Depot Open Days",
     "link": "https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything",
     "pubDate": "2025-09-12T08:46:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Defeating Nondeterminism in LLM Inference",
     "link": "https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything",
     "pubDate": "2025-09-11T06:53:42+00:00"
-  },
-  {
-    "title": "Quoting Kumar Aditya",
-    "link": "https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything",
-    "pubDate": "2025-09-11T03:07:16+00:00"
   }
 ]
