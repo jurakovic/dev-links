@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
+<small>[Quoting Matt Webb](https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[London Transport Museum Depot Open Days](https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything)</small>
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
@@ -27,9 +30,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-11 bartwullems</small>  
 <small>[Part VIII – Evaluations(continued)](https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
-<small>[Quoting Kumar Aditya](https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
 <small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
