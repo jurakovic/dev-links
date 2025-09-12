@@ -5,6 +5,15 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
+<small>[London Transport Museum Depot Open Days](https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
+<small>[Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
+<small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!](https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
@@ -22,14 +31,8 @@
 ![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
 <small>[Quoting Kumar Aditya](https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything)</small>
 
-![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
-<small>[Claude API: Web fetch tool](https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
 <small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-10 simonwillison</small>  
-<small>[I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory](https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything)</small>
 
 ![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
@@ -69,9 +72,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-08 bartwullems</small>  
 <small>[Custom chat modes in Github Copilot](https://bartwullems.blogspot.com/2025/09/custom-chat-modes-in-github-copilot.html)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-05 bartwullems</small>  
-<small>[Why rational humans make irrational decisions](https://bartwullems.blogspot.com/2025/09/why-rational-humans-make-irrational.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>

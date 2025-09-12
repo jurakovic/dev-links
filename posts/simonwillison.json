@@ -1,5 +1,15 @@
 [
   {
+    "title": "London Transport Museum Depot Open Days",
+    "link": "https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything",
+    "pubDate": "2025-09-12T08:46:31+00:00"
+  },
+  {
+    "title": "Comparing the memory implementations of Claude and ChatGPT",
+    "link": "https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything",
+    "pubDate": "2025-09-12T07:34:36+00:00"
+  },
+  {
     "title": "Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!",
     "link": "https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything",
     "pubDate": "2025-09-12T04:07:32+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Kumar Aditya",
     "link": "https://simonwillison.net/2025/Sep/11/kumar-aditya/#atom-everything",
     "pubDate": "2025-09-11T03:07:16+00:00"
-  },
-  {
-    "title": "Claude API: Web fetch tool",
-    "link": "https://simonwillison.net/2025/Sep/10/claude-web-fetch-tool/#atom-everything",
-    "pubDate": "2025-09-10T17:24:51+00:00"
-  },
-  {
-    "title": "I Replaced Animal Crossing's Dialogue with a Live LLM by Hacking GameCube Memory",
-    "link": "https://simonwillison.net/2025/Sep/10/animal-crossing-llm/#atom-everything",
-    "pubDate": "2025-09-10T12:24:44+00:00"
   }
 ]
