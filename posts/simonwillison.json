@@ -1,5 +1,10 @@
 [
   {
+    "title": "gpt-5 and gpt-5-mini rate limit updates",
+    "link": "https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything",
+    "pubDate": "2025-09-12T23:14:46+00:00"
+  },
+  {
     "title": "Quoting Matt Webb",
     "link": "https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything",
     "pubDate": "2025-09-12T21:59:33+00:00"
@@ -18,10 +23,5 @@
     "title": "Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!",
     "link": "https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything",
     "pubDate": "2025-09-12T04:07:32+00:00"
-  },
-  {
-    "title": "Defeating Nondeterminism in LLM Inference",
-    "link": "https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything",
-    "pubDate": "2025-09-11T06:53:42+00:00"
   }
 ]
