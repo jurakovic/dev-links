@@ -23,7 +23,7 @@
 <small>[Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!](https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
-<small>[VS Code Update Helps Dev Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
+<small>[VS Code Update Helps Devs Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
 <small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
