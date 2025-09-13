@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
+<small>[gpt-5 and gpt-5-mini rate limit updates](https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[Quoting Matt Webb](https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything)</small>
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
@@ -24,9 +27,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
 <small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-11 simonwillison</small>  
-<small>[Defeating Nondeterminism in LLM Inference](https://simonwillison.net/2025/Sep/11/defeating-nondeterminism/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-11 bartwullems</small>  
 <small>[Part VIII – Evaluations(continued)](https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html)</small>
