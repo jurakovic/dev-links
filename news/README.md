@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-14 simonwillison</small>  
+<small>[Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[gpt-5 and gpt-5-mini rate limit updates](https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything)</small>
 
@@ -18,9 +21,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
 <small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
-<small>[Qwen3-Next-80B-A3B: 🐧🦩 Who needs legs?!](https://simonwillison.net/2025/Sep/12/qwen3-next/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
 <small>[VS Code Update Helps Devs Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
