@@ -1,5 +1,10 @@
 [
   {
+    "title": "Writing your own batched sink in Serilog",
+    "link": "https://bartwullems.blogspot.com/2025/09/writing-your-own-batched-sink-in-serilog.html",
+    "pubDate": "2025-09-15T06:53:00.004+02:00"
+  },
+  {
     "title": "Ollama– Running LLM’s locally",
     "link": "https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html",
     "pubDate": "2025-09-12T07:14:00.026+02:00"
@@ -18,10 +23,5 @@
     "title": "The prompt as documentation: Should AI-generated code include its origin story?",
     "link": "https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html",
     "pubDate": "2025-09-09T07:31:00.017+02:00"
-  },
-  {
-    "title": "Custom chat modes in Github Copilot",
-    "link": "https://bartwullems.blogspot.com/2025/09/custom-chat-modes-in-github-copilot.html",
-    "pubDate": "2025-09-08T06:48:00.020+02:00"
   }
 ]

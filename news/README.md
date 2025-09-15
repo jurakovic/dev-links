@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/steven-giesel.png) <small>2025-09-15 steven-giesel</small>  
+<small>[LinkedIn Benchmarks again](https://steven-giesel.com/blogPost/06cb9eb9-927e-4bc6-a68a-1471288b9609)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-15 bartwullems</small>  
+<small>[Writing your own batched sink in Serilog](https://bartwullems.blogspot.com/2025/09/writing-your-own-batched-sink-in-serilog.html)</small>
+
+![icon](../favicons/blank.png) <small>2025-09-15 paulhammant</small>  
+<small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-14 simonwillison</small>  
 <small>[Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything)</small>
 
@@ -69,9 +78,6 @@
 
 ![icon](../favicons/steven-giesel.png) <small>2025-09-08 steven-giesel</small>  
 <small>[ToDictionaryAsync retrieves the whole object from the database in Entity Framework](https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-08 bartwullems</small>  
-<small>[Custom chat modes in Github Copilot](https://bartwullems.blogspot.com/2025/09/custom-chat-modes-in-github-copilot.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
@@ -142,15 +148,9 @@
 ![icon](../favicons/andrewlock.png) <small>2025-08-12 andrewlock</small>  
 <small>[Running .NET in the browser without Blazor](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/)</small>
 
-![icon](../favicons/steven-giesel.png) <small>2025-08-11 steven-giesel</small>  
-<small>[How to not return all properties in SqlRaw](https://steven-giesel.com/blogPost/c6bea409-9e49-4915-8529-8a8a8574ba80)</small>
-
 ![icon](../favicons/brendangregg.png) <small>2025-08-03 brendangregg</small>  
 <small>[When to Hire a Computer Performance Engineering Team (2025) part 1 of 2](http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html)</small>
 
 ![icon](../favicons/blank.png) <small>2025-08-02 microservices</small>  
 <small>[Microservices rules #9: Develop observable services](http://microservices.io//post/architecture/2025/08/02/premium-microservices-rules-9-observable-services.html)</small>
-
-![icon](../favicons/developertoarchitect.png) <small>2025-08-01 developertoarchitect</small>  
-<small>[Lesson 210 - Architecture Definition Language (August 4, 2025)](http://www.developertoarchitect.com/lessons/lesson210.html)</small>
 
