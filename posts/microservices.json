@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microservices rules #4: Provide a great developer experience",
+    "link": "http://microservices.io//post/architecture/2025/09/15/premium-microservices-rules-4-provide-a-great-developer-experience.html",
+    "pubDate": "Mon, 15 Sep 2025 00:00:00 +0000"
+  },
+  {
     "title": "Claude Code: Allow Bash(git commit:*) considered harmful",
     "link": "http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html",
     "pubDate": "Wed, 10 Sep 2025 08:03:00 +0000"
@@ -17,11 +22,6 @@
   {
     "title": "Vibe coding: the good, the almost, and the @#$%** - Part 2",
     "link": "http://microservices.io//post/architecture/2025/07/09/vibe-coding-good-almost-other-part-2.html",
-    "pubDate": "Wed, 09 Jul 2025 08:03:00 +0000"
-  },
-  {
-    "title": "Microservices rules #8: Design testable services",
-    "link": "http://microservices.io//post/architecture/2025/07/09/premium-microservices-rules-8-testable-services.html",
     "pubDate": "Wed, 09 Jul 2025 08:03:00 +0000"
   }
 ]
