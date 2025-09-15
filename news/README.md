@@ -10,6 +10,9 @@
 ![icon](../favicons/blogspot.png) <small>2025-09-15 bartwullems</small>  
 <small>[Writing your own batched sink in Serilog](https://bartwullems.blogspot.com/2025/09/writing-your-own-batched-sink-in-serilog.html)</small>
 
+![icon](../favicons/blank.png) <small>2025-09-15 microservices</small>  
+<small>[Microservices rules #4: Provide a great developer experience](http://microservices.io//post/architecture/2025/09/15/premium-microservices-rules-4-provide-a-great-developer-experience.html)</small>
+
 ![icon](../favicons/blank.png) <small>2025-09-15 paulhammant</small>  
 <small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/brendangregg.png) <small>2025-08-03 brendangregg</small>  
 <small>[When to Hire a Computer Performance Engineering Team (2025) part 1 of 2](http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html)</small>
-
-![icon](../favicons/blank.png) <small>2025-08-02 microservices</small>  
-<small>[Microservices rules #9: Develop observable services](http://microservices.io//post/architecture/2025/08/02/premium-microservices-rules-9-observable-services.html)</small>
 
