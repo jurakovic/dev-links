@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-15 simonwillison</small>  
+<small>[Quoting Poul-Henning Kamp](https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-15 simonwillison</small>  
+<small>[GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-15 dotnet</small>  
+<small>[Application Insights Code Optimizations for .NET Apps](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/)</small>
+
 ![icon](../favicons/steven-giesel.png) <small>2025-09-15 steven-giesel</small>  
 <small>[LinkedIn Benchmarks again](https://steven-giesel.com/blogPost/06cb9eb9-927e-4bc6-a68a-1471288b9609)</small>
 
@@ -24,12 +33,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[Quoting Matt Webb](https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
-<small>[London Transport Museum Depot Open Days](https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
-<small>[Comparing the memory implementations of Claude and ChatGPT](https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
 <small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
@@ -99,9 +102,6 @@
 
 ![icon](../favicons/developertoarchitect.png) <small>2025-08-29 developertoarchitect</small>  
 <small>[Lesson 211 - Architectural Modularity (September 1, 2025)](http://www.developertoarchitect.com/lessons/lesson211.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-08-28 dotnet</small>  
-<small>[Getting Started with the Aspire CLI](https://devblogs.microsoft.com/dotnet/getting-started-with-the-aspire-cli/)</small>
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)</small>
