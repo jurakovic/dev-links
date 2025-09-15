@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Poul-Henning Kamp",
+    "link": "https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything",
+    "pubDate": "2025-09-15T21:03:33+00:00"
+  },
+  {
+    "title": "GPT‑5-Codex and upgrades to Codex",
+    "link": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything",
+    "pubDate": "2025-09-15T18:55:35+00:00"
+  },
+  {
     "title": "Models can prompt now",
     "link": "https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything",
     "pubDate": "2025-09-14T20:25:21+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Matt Webb",
     "link": "https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything",
     "pubDate": "2025-09-12T21:59:33+00:00"
-  },
-  {
-    "title": "London Transport Museum Depot Open Days",
-    "link": "https://simonwillison.net/2025/Sep/12/transport-museum-depot/#atom-everything",
-    "pubDate": "2025-09-12T08:46:31+00:00"
-  },
-  {
-    "title": "Comparing the memory implementations of Claude and ChatGPT",
-    "link": "https://simonwillison.net/2025/Sep/12/claude-memory/#atom-everything",
-    "pubDate": "2025-09-12T07:34:36+00:00"
   }
 ]
