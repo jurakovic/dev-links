@@ -7,6 +7,9 @@
 ![icon](../favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
 <small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
 
+![icon](../favicons/blank.png) <small>2025-09-16 microservices</small>  
+<small>[Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](http://microservices.io//post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-16 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3 - What’s new?](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/blank.png) <small>2025-08-13 antirez</small>  
 <small>[AI is different](http://antirez.com/news/155)</small>
-
-![icon](../favicons/brendangregg.png) <small>2025-08-03 brendangregg</small>  
-<small>[When to Hire a Computer Performance Engineering Team (2025) part 1 of 2](http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html)</small>
 
