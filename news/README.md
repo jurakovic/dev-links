@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-16 simonwillison</small>  
+<small>[Announcing the 2025 PSF Board Election Results!](https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-16 dotnet</small>  
+<small>[.NET STS releases supported for 24 months](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-16 visualstudiomagazine</small>  
+<small>[.NET 10 Release Candidate 1 Ships with Go-Live Support](https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-16 visualstudiomagazine</small>  
+<small>[GitHub Spec Kit Experiment: 'A Lot of Questions'](https://visualstudiomagazine.com/Articles/2025/09/16/GitHub-Spec-Kit-Experiment-A-Lot-of-Questions.aspx)</small>
+
 ![icon](../favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
 <small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
 
@@ -39,9 +51,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
 <small>[gpt-5 and gpt-5-mini rate limit updates](https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
-<small>[Quoting Matt Webb](https://simonwillison.net/2025/Sep/12/matt-webb/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
 <small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
@@ -82,20 +91,11 @@
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
 
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-08 visualstudiomagazine</small>  
-<small>[Copilot Studio Adds Near-Real-Time Security Controls for AI Agents](https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx)</small>
-
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-08 visualstudiomagazine</small>  
-<small>[Azure AI Foundry Gets ChatGPT-5, Previews Browser Automation](https://visualstudiomagazine.com/Articles/2025/09/08/Azure-AI-Foundry-Gets-ChatGPT-5-Previews-Browser-Automation.aspx)</small>
-
 ![icon](../favicons/steven-giesel.png) <small>2025-09-08 steven-giesel</small>  
 <small>[ToDictionaryAsync retrieves the whole object from the database in Entity Framework](https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-03 dotnet</small>  
-<small>[Let Copilot Coding Agent handle the busy work](https://devblogs.microsoft.com/dotnet/copilot-coding-agent-dotnet/)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-02 visualstudio</small>  
 <small>[Boost Your Copilot Collaboration with Reusable Prompt Files](https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/)</small>
