@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
+<small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-16 bartwullems</small>  
+<small>[Migrating from XUnit v2 to v3 - What’s new?](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-15 simonwillison</small>  
 <small>[Quoting Poul-Henning Kamp](https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything)</small>
 
@@ -72,9 +78,6 @@
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-09 bartwullems</small>  
-<small>[The prompt as documentation: Should AI-generated code include its origin story?](https://bartwullems.blogspot.com/2025/09/the-prompt-as-documentation-should-ai.html)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-08 visualstudiomagazine</small>  
 <small>[Copilot Studio Adds Near-Real-Time Security Controls for AI Agents](https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx)</small>
@@ -147,9 +150,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-08-13 antirez</small>  
 <small>[AI is different](http://antirez.com/news/155)</small>
-
-![icon](../favicons/andrewlock.png) <small>2025-08-12 andrewlock</small>  
-<small>[Running .NET in the browser without Blazor](https://andrewlock.net/running-dotnet-in-the-browser-without-blazor/)</small>
 
 ![icon](../favicons/brendangregg.png) <small>2025-08-03 brendangregg</small>  
 <small>[When to Hire a Computer Performance Engineering Team (2025) part 1 of 2](http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html)</small>
