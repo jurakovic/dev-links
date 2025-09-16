@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET 10 Release Candidate 1 Ships with Go-Live Support",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx",
+    "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
+  },
+  {
+    "title": "GitHub Spec Kit Experiment: 'A Lot of Questions'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/16/GitHub-Spec-Kit-Experiment-A-Lot-of-Questions.aspx",
+    "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
+  },
+  {
     "title": "VS Code Update Helps Devs Select, Contribute AI Models",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx",
     "pubDate": "Thu, 11 Sep 2025 21:01:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx",
     "pubDate": "Tue, 09 Sep 2025 16:15:00 GMT"
-  },
-  {
-    "title": "Copilot Studio Adds Near-Real-Time Security Controls for AI Agents",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Copilot-Studio-Adds-Near-Real-Time-Security-Controls-for-AI-Agents.aspx",
-    "pubDate": "Mon, 08 Sep 2025 18:55:00 GMT"
-  },
-  {
-    "title": "Azure AI Foundry Gets ChatGPT-5, Previews Browser Automation",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/08/Azure-AI-Foundry-Gets-ChatGPT-5-Previews-Browser-Automation.aspx",
-    "pubDate": "Mon, 08 Sep 2025 18:01:00 GMT"
   }
 ]
