@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-17 bartwullems</small>  
+<small>[Migrating from XUnit v2 to v3 – Getting started](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-getting.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-16 simonwillison</small>  
 <small>[Announcing the 2025 PSF Board Election Results!](https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-10 bartwullems</small>  
-<small>[Microsoft.Extensions.AI–Part VIII–Evaluations](https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Arrives in Insiders Channel](https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx)</small>

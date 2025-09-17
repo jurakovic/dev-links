@@ -1,5 +1,10 @@
 [
   {
+    "title": "Migrating from XUnit v2 to v3 – Getting started",
+    "link": "https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-getting.html",
+    "pubDate": "2025-09-17T07:13:00.004+02:00"
+  },
+  {
     "title": "Migrating from XUnit v2 to v3 - What’s new?",
     "link": "https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html",
     "pubDate": "2025-09-16T06:56:00.005+02:00"
@@ -18,10 +23,5 @@
     "title": "Part VIII – Evaluations(continued)",
     "link": "https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html",
     "pubDate": "2025-09-11T07:21:00.009+02:00"
-  },
-  {
-    "title": "Microsoft.Extensions.AI–Part VIII–Evaluations",
-    "link": "https://bartwullems.blogspot.com/2025/09/microsoftextensionsaipart.html",
-    "pubDate": "2025-09-10T07:29:00.008+02:00"
   }
 ]
