@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](../favicons/thecodist.png) <small>2025-09-17 thecodist</small>  
+<small>[Why Is Xcode So Antagonistic To Reduced Vision?](https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-17 visualstudiomagazine</small>  
+<small>[GitHub Tops AI Coding Assistants Report, with Microsoft-Related 'Cautions'](https://visualstudiomagazine.com/Articles/2025/09/17/Report-GitHub-Tops-AI-Coding-Assistants-with-Microsoft-Related-Cautions.aspx)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-17 visualstudio</small>  
+<small>[Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling](https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling/)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-17 dotnet</small>  
+<small>[Prompt Files and Instructions Files Explained](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-17 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3 – Getting started](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-getting.html)</small>
 
@@ -79,14 +91,8 @@
 ![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
 <small>[Announcing .NET 10 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/)</small>
 
-![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
-<small>[.NET and .NET Framework September 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2025-servicing-updates/)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-09 visualstudio</small>  
 <small>[Visual Studio 2026 Insiders is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)</small>
-
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
-<small>[Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry](https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
@@ -114,9 +120,6 @@
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-08-27 visualstudio</small>  
-<small>[Roadmap for AI in Visual Studio (September)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-september/)</small>
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/pragmaticengineer.png) <small>2025-08-14 pragmaticengineer</small>  
 <small>[New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)</small>
-
-![icon](../favicons/blank.png) <small>2025-08-13 antirez</small>  
-<small>[AI is different](http://antirez.com/news/155)</small>
 

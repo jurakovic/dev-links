@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Tops AI Coding Assistants Report, with Microsoft-Related 'Cautions'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/17/Report-GitHub-Tops-AI-Coding-Assistants-with-Microsoft-Related-Cautions.aspx",
+    "pubDate": "Wed, 17 Sep 2025 17:43:00 GMT"
+  },
+  {
     "title": ".NET 10 Release Candidate 1 Ships with Go-Live Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx",
     "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Visual Studio 2026 Arrives in Insiders Channel",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx",
     "pubDate": "Tue, 09 Sep 2025 20:23:00 GMT"
-  },
-  {
-    "title": "Microsoft's 'Awesome Copilot MCP Server' Joined by MCP Registry",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/09/Microsofts-Awesome-Copilot-MCP-Server-Joined-by-MCP-Registry.aspx",
-    "pubDate": "Tue, 09 Sep 2025 16:15:00 GMT"
   }
 ]
