@@ -1,5 +1,10 @@
 [
   {
+    "title": "Measuring UI responsiveness in Resharper",
+    "link": "https://minidump.net/measuring-ui-responsiveness/",
+    "pubDate": "Thu, 18 Sep 2025 00:00:00 +0000"
+  },
+  {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 5",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-5/",
     "pubDate": "Tue, 11 Mar 2025 00:00:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Writing a .NET Garbage Collector in C#  -  Part 3",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-3/",
     "pubDate": "Tue, 11 Feb 2025 00:00:00 +0000"
-  },
-  {
-    "title": "Writing a .NET Garbage Collector in C#  -  Part 2",
-    "link": "https://minidump.net/writing-a-net-gc-in-c-part-2/",
-    "pubDate": "Tue, 04 Feb 2025 00:00:00 +0000"
   }
 ]

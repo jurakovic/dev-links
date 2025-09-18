@@ -7,6 +7,12 @@
 ![icon](../favicons/blogspot.png) <small>2025-09-18 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3–Troubleshooting](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to.html)</small>
 
+![icon](../favicons/minidump.png) <small>2025-09-18 minidump</small>  
+<small>[Measuring UI responsiveness in Resharper](https://minidump.net/measuring-ui-responsiveness/)</small>
+
+![icon](../favicons/blank.png) <small>2025-09-18 paulhammant</small>  
+<small>[Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code](https://paulhammant.com/2025/09/18/workstation-sandbox-blues/)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
 <small>[Anthropic: A postmortem of three recent issues](https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](../favicons/andrewlock.png) <small>2025-08-19 andrewlock</small>  
 <small>[Converting an xUnit test project to TUnit](https://andrewlock.net/converting-an-xunit-project-to-tunit/)</small>
-
-![icon](../favicons/steven-giesel.png) <small>2025-08-18 steven-giesel</small>  
-<small>[Two more LINQ extensions in dotnet 10](https://steven-giesel.com/blogPost/5d88d808-03ac-431a-82fa-756b59b38a7d)</small>
-
-![icon](../favicons/pragmaticengineer.png) <small>2025-08-14 pragmaticengineer</small>  
-<small>[New trend: extreme hours at AI startups](https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/)</small>
 
