@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code",
+    "link": "https://paulhammant.com/2025/09/18/workstation-sandbox-blues/",
+    "pubDate": "2025-09-18T00:00:00+00:00"
+  },
+  {
     "title": "Starting RexxJS",
     "link": "https://paulhammant.com/2025/09/15/starting-rexxjs/",
     "pubDate": "2025-09-15T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Selenium Component Testing and visual documentation",
     "link": "https://paulhammant.com/2025/06/22/selenium-component-testing/",
     "pubDate": "2025-06-22T00:00:00+00:00"
-  },
-  {
-    "title": "Cypress Component Testing - Changing from Playwright for a demo repo",
-    "link": "https://paulhammant.com/2025/06/20/cypress-component-testing/",
-    "pubDate": "2025-06-20T00:00:00+00:00"
   }
 ]
