@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-18 bartwullems</small>  
+<small>[Migrating from XUnit v2 to v3–Troubleshooting](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
 <small>[Anthropic: A postmortem of three recent issues](https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything)</small>
 
@@ -75,9 +78,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
 <small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-11 bartwullems</small>  
-<small>[Part VIII – Evaluations(continued)](https://bartwullems.blogspot.com/2025/09/part-viii-evaluationscontinued.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
 <small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
