@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anthropic: A postmortem of three recent issues",
+    "link": "https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything",
+    "pubDate": "2025-09-17T23:53:38+00:00"
+  },
+  {
+    "title": "ICPC medals for OpenAI and Gemini",
+    "link": "https://simonwillison.net/2025/Sep/17/icpc/#atom-everything",
+    "pubDate": "2025-09-17T22:52:10+00:00"
+  },
+  {
     "title": "Announcing the 2025 PSF Board Election Results!",
     "link": "https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything",
     "pubDate": "2025-09-16T20:39:41+00:00"
@@ -13,15 +23,5 @@
     "title": "GPT‑5-Codex and upgrades to Codex",
     "link": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything",
     "pubDate": "2025-09-15T18:55:35+00:00"
-  },
-  {
-    "title": "Models can prompt now",
-    "link": "https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything",
-    "pubDate": "2025-09-14T20:25:21+00:00"
-  },
-  {
-    "title": "gpt-5 and gpt-5-mini rate limit updates",
-    "link": "https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything",
-    "pubDate": "2025-09-12T23:14:46+00:00"
   }
 ]
