@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
+<small>[Anthropic: A postmortem of three recent issues](https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
+<small>[ICPC medals for OpenAI and Gemini](https://simonwillison.net/2025/Sep/17/icpc/#atom-everything)</small>
+
 ![icon](../favicons/thecodist.png) <small>2025-09-17 thecodist</small>  
 <small>[Why Is Xcode So Antagonistic To Reduced Vision?](https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/)</small>
 
@@ -60,12 +66,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-09-15 paulhammant</small>  
 <small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-14 simonwillison</small>  
-<small>[Models can prompt now](https://simonwillison.net/2025/Sep/14/models-can-prompt/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-12 simonwillison</small>  
-<small>[gpt-5 and gpt-5-mini rate limit updates](https://simonwillison.net/2025/Sep/12/gpt-5-rate-limits/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
 <small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
