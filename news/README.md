@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
+<small>[Quoting Steve Jobs](https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
+<small>[I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
+<small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-18 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3–Troubleshooting](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to.html)</small>
 
@@ -55,12 +64,6 @@
 ![icon](../favicons/blogspot.png) <small>2025-09-16 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3 - What’s new?](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html)</small>
 
-![icon](../favicons/simonwillison.png) <small>2025-09-15 simonwillison</small>  
-<small>[Quoting Poul-Henning Kamp](https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-15 simonwillison</small>  
-<small>[GPT‑5-Codex and upgrades to Codex](https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-15 dotnet</small>  
 <small>[Application Insights Code Optimizations for .NET Apps](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
-
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-09 visualstudiomagazine</small>  
-<small>[Visual Studio 2026 Arrives in Insiders Channel](https://visualstudiomagazine.com/Articles/2025/09/09/Visual-Studio-2026-Arrives-in-Insiders-Channel.aspx)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
 <small>[Announcing .NET 10 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/)</small>
