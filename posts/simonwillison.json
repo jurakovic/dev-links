@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Steve Jobs",
+    "link": "https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything",
+    "pubDate": "2025-09-18T21:47:56+00:00"
+  },
+  {
+    "title": "I think \"agent\" may finally have a widely enough agreed upon definition to be useful jargon now",
+    "link": "https://simonwillison.net/2025/Sep/18/agents/#atom-everything",
+    "pubDate": "2025-09-18T19:12:02+00:00"
+  },
+  {
     "title": "Anthropic: A postmortem of three recent issues",
     "link": "https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything",
     "pubDate": "2025-09-17T23:53:38+00:00"
@@ -13,15 +23,5 @@
     "title": "Announcing the 2025 PSF Board Election Results!",
     "link": "https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything",
     "pubDate": "2025-09-16T20:39:41+00:00"
-  },
-  {
-    "title": "Quoting Poul-Henning Kamp",
-    "link": "https://simonwillison.net/2025/Sep/15/poul-henning-kamp/#atom-everything",
-    "pubDate": "2025-09-15T21:03:33+00:00"
-  },
-  {
-    "title": "GPT‑5-Codex and upgrades to Codex",
-    "link": "https://simonwillison.net/2025/Sep/15/gpt-5-codex/#atom-everything",
-    "pubDate": "2025-09-15T18:55:35+00:00"
   }
 ]
