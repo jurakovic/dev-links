@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
+<small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
 <small>[Quoting Steve Jobs](https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything)</small>
 
@@ -78,9 +81,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-09-15 paulhammant</small>  
 <small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-12 bartwullems</small>  
-<small>[Ollama– Running LLM’s locally](https://bartwullems.blogspot.com/2025/09/ollama-running-llms-locally.html)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
 <small>[VS Code Update Helps Devs Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
