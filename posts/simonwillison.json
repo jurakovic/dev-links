@@ -1,5 +1,20 @@
 [
   {
+    "title": "httpjail",
+    "link": "https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything",
+    "pubDate": "2025-09-19T21:57:29+00:00"
+  },
+  {
+    "title": "Magistral 1.2",
+    "link": "https://simonwillison.net/2025/Sep/19/magistral/#atom-everything",
+    "pubDate": "2025-09-19T19:13:45+00:00"
+  },
+  {
+    "title": "The Hidden Risk in Notion 3.0 AI Agents: Web Search Tool Abuse for Data Exfiltration",
+    "link": "https://simonwillison.net/2025/Sep/19/notion-lethal-trifecta/#atom-everything",
+    "pubDate": "2025-09-19T19:03:05+00:00"
+  },
+  {
     "title": "Quoting Steve Jobs",
     "link": "https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything",
     "pubDate": "2025-09-18T21:47:56+00:00"
@@ -8,20 +23,5 @@
     "title": "I think \"agent\" may finally have a widely enough agreed upon definition to be useful jargon now",
     "link": "https://simonwillison.net/2025/Sep/18/agents/#atom-everything",
     "pubDate": "2025-09-18T19:12:02+00:00"
-  },
-  {
-    "title": "Anthropic: A postmortem of three recent issues",
-    "link": "https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything",
-    "pubDate": "2025-09-17T23:53:38+00:00"
-  },
-  {
-    "title": "ICPC medals for OpenAI and Gemini",
-    "link": "https://simonwillison.net/2025/Sep/17/icpc/#atom-everything",
-    "pubDate": "2025-09-17T22:52:10+00:00"
-  },
-  {
-    "title": "Announcing the 2025 PSF Board Election Results!",
-    "link": "https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything",
-    "pubDate": "2025-09-16T20:39:41+00:00"
   }
 ]

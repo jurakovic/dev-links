@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
+<small>[httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
+<small>[Magistral 1.2](https://simonwillison.net/2025/Sep/19/magistral/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
+<small>[The Hidden Risk in Notion 3.0 AI Agents: Web Search Tool Abuse for Data Exfiltration](https://simonwillison.net/2025/Sep/19/notion-lethal-trifecta/#atom-everything)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
 
@@ -25,12 +34,6 @@
 ![icon](../favicons/blank.png) <small>2025-09-18 paulhammant</small>  
 <small>[Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code](https://paulhammant.com/2025/09/18/workstation-sandbox-blues/)</small>
 
-![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
-<small>[Anthropic: A postmortem of three recent issues](https://simonwillison.net/2025/Sep/17/anthropic-postmortem/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-17 simonwillison</small>  
-<small>[ICPC medals for OpenAI and Gemini](https://simonwillison.net/2025/Sep/17/icpc/#atom-everything)</small>
-
 ![icon](../favicons/thecodist.png) <small>2025-09-17 thecodist</small>  
 <small>[Why Is Xcode So Antagonistic To Reduced Vision?](https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-17 bartwullems</small>  
 <small>[Migrating from XUnit v2 to v3 – Getting started](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-getting.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-16 simonwillison</small>  
-<small>[Announcing the 2025 PSF Board Election Results!](https://simonwillison.net/2025/Sep/16/the-2025-psf-board-election-results/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-16 dotnet</small>  
 <small>[.NET STS releases supported for 24 months](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/)</small>
