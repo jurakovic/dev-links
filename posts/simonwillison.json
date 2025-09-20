@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Leaked Amazon memo",
+    "link": "https://simonwillison.net/2025/Sep/20/leaked-amazon-memo/#atom-everything",
+    "pubDate": "2025-09-20T15:39:28+00:00"
+  },
+  {
     "title": "httpjail",
     "link": "https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything",
     "pubDate": "2025-09-19T21:57:29+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Steve Jobs",
     "link": "https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything",
     "pubDate": "2025-09-18T21:47:56+00:00"
-  },
-  {
-    "title": "I think \"agent\" may finally have a widely enough agreed upon definition to be useful jargon now",
-    "link": "https://simonwillison.net/2025/Sep/18/agents/#atom-everything",
-    "pubDate": "2025-09-18T19:12:02+00:00"
   }
 ]
