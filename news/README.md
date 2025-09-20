@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-20 simonwillison</small>  
+<small>[Quoting Leaked Amazon memo](https://simonwillison.net/2025/Sep/20/leaked-amazon-memo/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
 <small>[httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)</small>
 
@@ -18,9 +21,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
 <small>[Quoting Steve Jobs](https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
-<small>[I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
 <small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
