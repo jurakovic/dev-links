@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
+<small>[llm-openrouter 0.5](https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-20 simonwillison</small>  
+<small>[Grok 4 Fast](https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
 <small>[httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)</small>
 
@@ -15,12 +21,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
-<small>[Quoting Steve Jobs](https://simonwillison.net/2025/Sep/18/steve-jobs/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-18 simonwillison</small>  
-<small>[I think "agent" may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/#atom-everything)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
 <small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
