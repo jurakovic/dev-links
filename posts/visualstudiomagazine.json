@@ -1,5 +1,10 @@
 [
   {
+    "title": "Confirmed, Finally, Again: No Visual Studio IDE for Linux/macOS",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/22/Confirmed-Finally-Again-No-Visual-Studio-IDE-for-Linux-macOS.aspx",
+    "pubDate": "Mon, 22 Sep 2025 16:50:00 GMT"
+  },
+  {
     "title": "VS Code SQL Extension Previews Microsoft Fabric Connectivity",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx",
     "pubDate": "Thu, 18 Sep 2025 16:49:00 GMT"
@@ -18,10 +23,5 @@
     "title": "GitHub Spec Kit Experiment: 'A Lot of Questions'",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/16/GitHub-Spec-Kit-Experiment-A-Lot-of-Questions.aspx",
     "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
-  },
-  {
-    "title": "VS Code Update Helps Devs Select, Contribute AI Models",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx",
-    "pubDate": "Thu, 11 Sep 2025 21:01:00 GMT"
   }
 ]
