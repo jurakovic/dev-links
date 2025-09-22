@@ -1,5 +1,10 @@
 [
   {
+    "title": "Discovering Visual Studio 2026–Installation",
+    "link": "https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html",
+    "pubDate": "2025-09-22T07:17:00.022+02:00"
+  },
+  {
     "title": "How to get rid of the smartcard popup when interacting with LDAP over SSL",
     "link": "https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html",
     "pubDate": "2025-09-19T07:07:00.007+02:00"
@@ -18,10 +23,5 @@
     "title": "Migrating from XUnit v2 to v3 - What’s new?",
     "link": "https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html",
     "pubDate": "2025-09-16T06:56:00.005+02:00"
-  },
-  {
-    "title": "Writing your own batched sink in Serilog",
-    "link": "https://bartwullems.blogspot.com/2025/09/writing-your-own-batched-sink-in-serilog.html",
-    "pubDate": "2025-09-15T06:53:00.004+02:00"
   }
 ]
