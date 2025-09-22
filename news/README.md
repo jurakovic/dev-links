@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
+<small>[Four new releases from Qwen](https://simonwillison.net/2025/Sep/22/qwen/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
+<small>[CompileBench: Can AI Compile 22-year-old Code?](https://simonwillison.net/2025/Sep/22/compilebench/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-22 visualstudio</small>  
+<small>[Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-22 visualstudiomagazine</small>  
+<small>[Confirmed, Finally, Again: No Visual Studio IDE for Linux/macOS](https://visualstudiomagazine.com/Articles/2025/09/22/Confirmed-Finally-Again-No-Visual-Studio-IDE-for-Linux-macOS.aspx)</small>
+
 ![icon](../favicons/microsoft.png) <small>2025-09-22 dotnet</small>  
 <small>[New Trusted Publishing enhances security on NuGet.org](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/)</small>
 
@@ -18,12 +30,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
 <small>[llm-openrouter 0.5](https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-20 simonwillison</small>  
-<small>[Grok 4 Fast](https://simonwillison.net/2025/Sep/20/grok-4-fast/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
-<small>[httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
@@ -85,9 +91,6 @@
 ![icon](../favicons/blank.png) <small>2025-09-15 paulhammant</small>  
 <small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
 
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-11 visualstudiomagazine</small>  
-<small>[VS Code Update Helps Devs Select, Contribute AI Models](https://visualstudiomagazine.com/Articles/2025/09/11/VS-Code-Update-Helps-Dev-Select-Contribute-AI-Models.aspx)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
 <small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
 
@@ -108,9 +111,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
 <small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-02 visualstudio</small>  
-<small>[Boost Your Copilot Collaboration with Reusable Prompt Files](https://devblogs.microsoft.com/visualstudio/boost-your-copilot-collaboration-with-reusable-prompt-files/)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-02 andrewlock</small>  
 <small>[Using and authoring .NET tools](https://andrewlock.net/using-and-authoring-dotnet-tools/)</small>
