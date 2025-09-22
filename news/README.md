@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/microsoft.png) <small>2025-09-22 dotnet</small>  
+<small>[New Trusted Publishing enhances security on NuGet.org](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
+<small>[ChatGPT Is Blowing Up Marriages as Spouses Use AI to Attack Their Partners](https://simonwillison.net/2025/Sep/22/chatgpt-is-blowing-up-marriages/#atom-everything)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
 
@@ -18,9 +24,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
 <small>[httpjail](https://simonwillison.net/2025/Sep/19/httpjail/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
-<small>[Magistral 1.2](https://simonwillison.net/2025/Sep/19/magistral/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
@@ -93,9 +96,6 @@
 
 ![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-09 dotnet</small>  
-<small>[Announcing .NET 10 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-1/)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-09 visualstudio</small>  
 <small>[Visual Studio 2026 Insiders is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)</small>
