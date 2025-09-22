@@ -1,5 +1,10 @@
 [
   {
+    "title": "Locally AI",
+    "link": "https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything",
+    "pubDate": "2025-09-21T23:56:14+00:00"
+  },
+  {
     "title": "llm-openrouter 0.5",
     "link": "https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything",
     "pubDate": "2025-09-21T00:24:05+00:00"
@@ -18,10 +23,5 @@
     "title": "Magistral 1.2",
     "link": "https://simonwillison.net/2025/Sep/19/magistral/#atom-everything",
     "pubDate": "2025-09-19T19:13:45+00:00"
-  },
-  {
-    "title": "The Hidden Risk in Notion 3.0 AI Agents: Web Search Tool Abuse for Data Exfiltration",
-    "link": "https://simonwillison.net/2025/Sep/19/notion-lethal-trifecta/#atom-everything",
-    "pubDate": "2025-09-19T19:03:05+00:00"
   }
 ]

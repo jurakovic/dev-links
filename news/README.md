@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
+<small>[Locally AI](https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
 <small>[llm-openrouter 0.5](https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything)</small>
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-20 simonwillison</small>  
@@ -15,9 +18,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
 <small>[Magistral 1.2](https://simonwillison.net/2025/Sep/19/magistral/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-19 simonwillison</small>  
-<small>[The Hidden Risk in Notion 3.0 AI Agents: Web Search Tool Abuse for Data Exfiltration](https://simonwillison.net/2025/Sep/19/notion-lethal-trifecta/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
