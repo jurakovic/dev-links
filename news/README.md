@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
+<small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
 <small>[Locally AI](https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything)</small>
 
@@ -72,9 +75,6 @@
 
 ![icon](../favicons/steven-giesel.png) <small>2025-09-15 steven-giesel</small>  
 <small>[LinkedIn Benchmarks again](https://steven-giesel.com/blogPost/06cb9eb9-927e-4bc6-a68a-1471288b9609)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-15 bartwullems</small>  
-<small>[Writing your own batched sink in Serilog](https://bartwullems.blogspot.com/2025/09/writing-your-own-batched-sink-in-serilog.html)</small>
 
 ![icon](../favicons/blank.png) <small>2025-09-15 microservices</small>  
 <small>[Microservices rules #4: Provide a great developer experience](http://microservices.io//post/architecture/2025/09/15/premium-microservices-rules-4-provide-a-great-developer-experience.html)</small>
