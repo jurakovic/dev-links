@@ -1,5 +1,10 @@
 [
   {
+    "title": "sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout",
+    "link": "https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/",
+    "pubDate": "Tue, 23 Sep 2025 10:00:00 GMT"
+  },
+  {
     "title": "Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8",
     "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/",
     "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Fixing an old .NET Core native library loading issue on Alpine",
     "link": "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/",
     "pubDate": "Tue, 26 Aug 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Converting an xUnit test project to TUnit",
-    "link": "https://andrewlock.net/converting-an-xunit-project-to-tunit/",
-    "pubDate": "Tue, 19 Aug 2025 10:00:00 GMT"
   }
 ]

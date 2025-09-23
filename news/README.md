@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
+<small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
+
+![icon](../favicons/martinfowler.png) <small>2025-09-23 martinfowler</small>  
+<small>[To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-23 bartwullems</small>  
+<small>[Auto update the .NET core versions on your server](https://bartwullems.blogspot.com/2025/09/auto-update-net-core-versions-on-your.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
 <small>[Why AI systems might never be secure](https://simonwillison.net/2025/Sep/23/why-ai-systems-might-never-be-secure/#atom-everything)</small>
 
@@ -76,9 +85,6 @@
 ![icon](../favicons/blank.png) <small>2025-09-16 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](http://microservices.io//post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html)</small>
 
-![icon](../favicons/blogspot.png) <small>2025-09-16 bartwullems</small>  
-<small>[Migrating from XUnit v2 to v3 - What’s new?](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-whats-new.html)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-15 dotnet</small>  
 <small>[Application Insights Code Optimizations for .NET Apps](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/)</small>
 
@@ -133,9 +139,6 @@
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)</small>
 
-![icon](../favicons/martinfowler.png) <small>2025-08-26 martinfowler</small>  
-<small>[Chatting with Unmesh about building language with LLMs](https://martinfowler.com/articles/convo-llm-abstractions.html)</small>
-
 ![icon](../favicons/andrewlock.png) <small>2025-08-26 andrewlock</small>  
 <small>[Fixing an old .NET Core native library loading issue on Alpine](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/pragmaticengineer.png) <small>2025-08-21 pragmaticengineer</small>  
 <small>[Creative ways to fund open source projects](https://blog.pragmaticengineer.com/creative-ways-to-fund-open-source-projects/)</small>
-
-![icon](../favicons/andrewlock.png) <small>2025-08-19 andrewlock</small>  
-<small>[Converting an xUnit test project to TUnit](https://andrewlock.net/converting-an-xunit-project-to-tunit/)</small>
 
