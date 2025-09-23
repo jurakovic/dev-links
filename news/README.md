@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
+<small>[Why AI systems might never be secure](https://simonwillison.net/2025/Sep/23/why-ai-systems-might-never-be-secure/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
+<small>[Quoting Kate Niederhoffer, Gabriella Rosen Kellerman, Angela Lee, Alex Liebscher, Kristina Rapuano and Jeffrey T. Hancock](https://simonwillison.net/2025/Sep/22/workslop/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
 <small>[Four new releases from Qwen](https://simonwillison.net/2025/Sep/22/qwen/#atom-everything)</small>
 
@@ -24,12 +30,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
-<small>[Locally AI](https://simonwillison.net/2025/Sep/21/locally-ai/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-21 simonwillison</small>  
-<small>[llm-openrouter 0.5](https://simonwillison.net/2025/Sep/21/llm-openrouter/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
 <small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
