@@ -1,5 +1,10 @@
 [
   {
+    "title": "To vibe or not to vibe",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+    "pubDate": "2025-09-23T10:53:00+03:00"
+  },
+  {
     "title": "Some thoughts on LLMs and Software Development",
     "link": "https://martinfowler.com/articles/202508-ai-thoughts.html",
     "pubDate": "2025-08-28T10:10:00-04:00"
@@ -18,10 +23,5 @@
     "title": "Building your own CLI Coding Agent with Pydantic-AI",
     "link": "https://martinfowler.com/articles/build-own-coding-agent.html",
     "pubDate": "2025-08-27T07:50:00-04:00"
-  },
-  {
-    "title": "Chatting with Unmesh about building language with LLMs",
-    "link": "https://martinfowler.com/articles/convo-llm-abstractions.html",
-    "pubDate": "2025-08-26T09:26:00-04:00"
   }
 ]
