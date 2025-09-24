@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
+<small>[Cross-Agent Privilege Escalation: When Agents Free Each Other](https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
 
@@ -27,9 +30,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
 <small>[Quoting Kate Niederhoffer, Gabriella Rosen Kellerman, Angela Lee, Alex Liebscher, Kristina Rapuano and Jeffrey T. Hancock](https://simonwillison.net/2025/Sep/22/workslop/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
-<small>[Four new releases from Qwen](https://simonwillison.net/2025/Sep/22/qwen/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-22 visualstudio</small>  
 <small>[Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/)</small>

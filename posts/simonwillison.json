@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cross-Agent Privilege Escalation: When Agents Free Each Other",
+    "link": "https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything",
+    "pubDate": "2025-09-24T21:10:24+00:00"
+  },
+  {
     "title": "GPT-5-Codex",
     "link": "https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything",
     "pubDate": "2025-09-23T23:59:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Kate Niederhoffer, Gabriella Rosen Kellerman, Angela Lee, Alex Liebscher, Kristina Rapuano and Jeffrey T. Hancock",
     "link": "https://simonwillison.net/2025/Sep/22/workslop/#atom-everything",
     "pubDate": "2025-09-22T23:21:49+00:00"
-  },
-  {
-    "title": "Four new releases from Qwen",
-    "link": "https://simonwillison.net/2025/Sep/22/qwen/#atom-everything",
-    "pubDate": "2025-09-22T21:51:20+00:00"
   }
 ]
