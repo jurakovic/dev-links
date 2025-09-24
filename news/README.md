@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
+<small>[GPT-5-Codex](https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
+<small>[Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://simonwillison.net/2025/Sep/23/qwen3-vl/#atom-everything)</small>
+
 ![icon](../favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
 
@@ -22,9 +28,6 @@
 ![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
 <small>[Four new releases from Qwen](https://simonwillison.net/2025/Sep/22/qwen/#atom-everything)</small>
 
-![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
-<small>[CompileBench: Can AI Compile 22-year-old Code?](https://simonwillison.net/2025/Sep/22/compilebench/#atom-everything)</small>
-
 ![icon](../favicons/microsoft.png) <small>2025-09-22 visualstudio</small>  
 <small>[Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-22 dotnet</small>  
 <small>[New Trusted Publishing enhances security on NuGet.org](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
-<small>[ChatGPT Is Blowing Up Marriages as Spouses Use AI to Attack Their Partners](https://simonwillison.net/2025/Sep/22/chatgpt-is-blowing-up-marriages/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
