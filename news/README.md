@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
+<small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
 <small>[GPT-5-Codex](https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything)</small>
 
@@ -66,9 +69,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-17 dotnet</small>  
 <small>[Prompt Files and Instructions Files Explained](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-17 bartwullems</small>  
-<small>[Migrating from XUnit v2 to v3 – Getting started](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to-v3-getting.html)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-16 dotnet</small>  
 <small>[.NET STS releases supported for 24 months](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/)</small>
