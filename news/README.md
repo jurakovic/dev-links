@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
+<small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
+
+![icon](../favicons/blogspot.png) <small>2025-09-25 bartwullems</small>  
+<small>[Discovering Visual Studio 2026 – Copilot Actions](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-copilot.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
 <small>[Don't hide your best documentation](https://simonwillison.net/2025/Sep/25/documentation/#atom-everything)</small>
 
@@ -51,9 +57,6 @@
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
 <small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-18 bartwullems</small>  
-<small>[Migrating from XUnit v2 to v3–Troubleshooting](https://bartwullems.blogspot.com/2025/09/migrating-from-xunit-v2-to.html)</small>
 
 ![icon](../favicons/minidump.png) <small>2025-09-18 minidump</small>  
 <small>[Measuring UI responsiveness in Resharper](https://minidump.net/measuring-ui-responsiveness/)</small>
@@ -135,9 +138,6 @@
 
 ![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
-
-![icon](../favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
-<small>[Building your own CLI Coding Agent with Pydantic-AI](https://martinfowler.com/articles/build-own-coding-agent.html)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-08-26 andrewlock</small>  
 <small>[Fixing an old .NET Core native library loading issue on Alpine](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/)</small>

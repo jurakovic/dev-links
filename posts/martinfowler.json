@@ -1,5 +1,10 @@
 [
   {
+    "title": "Anchoring AI to a reference application",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
+    "pubDate": "2025-09-25T12:57:00+03:00"
+  },
+  {
     "title": "To vibe or not to vibe",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
     "pubDate": "2025-09-23T10:53:00+03:00"
@@ -18,10 +23,5 @@
     "title": "Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting",
     "link": "https://martinfowler.com/articles/research-review-rebuild.html",
     "pubDate": "2025-08-27T10:15:00-04:00"
-  },
-  {
-    "title": "Building your own CLI Coding Agent with Pydantic-AI",
-    "link": "https://martinfowler.com/articles/build-own-coding-agent.html",
-    "pubDate": "2025-08-27T07:50:00-04:00"
   }
 ]
