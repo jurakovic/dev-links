@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
+<small>[Don't hide your best documentation](https://simonwillison.net/2025/Sep/25/documentation/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
+<small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
+<small>[Quoting Stanford CS221 Autumn 2025](https://simonwillison.net/2025/Sep/24/stanford/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
 <small>[Cross-Agent Privilege Escalation: When Agents Free Each Other](https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything)</small>
 
@@ -24,12 +33,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-23 bartwullems</small>  
 <small>[Auto update the .NET core versions on your server](https://bartwullems.blogspot.com/2025/09/auto-update-net-core-versions-on-your.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
-<small>[Why AI systems might never be secure](https://simonwillison.net/2025/Sep/23/why-ai-systems-might-never-be-secure/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-22 simonwillison</small>  
-<small>[Quoting Kate Niederhoffer, Gabriella Rosen Kellerman, Angela Lee, Alex Liebscher, Kristina Rapuano and Jeffrey T. Hancock](https://simonwillison.net/2025/Sep/22/workslop/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-22 visualstudio</small>  
 <small>[Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/)</small>
@@ -99,9 +102,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
 <small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-10 dotnet</small>  
-<small>[Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)</small>
 
 ![icon](../favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
