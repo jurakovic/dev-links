@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
+<small>[Improved Gemini 2.5 Flash and Flash-Lite](https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
+<small>[Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/)</small>
+
+![icon](../favicons/visualstudiomagazine.png) <small>2025-09-25 visualstudiomagazine</small>  
+<small>[Copilot Does Azure-Focused .NET App Modernizations in Visual Studio](https://visualstudiomagazine.com/Articles/2025/09/25/Copilot-Does-Azure-Focused-NET-App-Modernizations-in-Visual-Studio.aspx)</small>
+
 ![icon](../favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
 <small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
 
@@ -27,9 +36,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
 <small>[GPT-5-Codex](https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
-<small>[Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action](https://simonwillison.net/2025/Sep/23/qwen3-vl/#atom-everything)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
@@ -82,17 +88,11 @@
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-16 visualstudiomagazine</small>  
 <small>[.NET 10 Release Candidate 1 Ships with Go-Live Support](https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx)</small>
 
-![icon](../favicons/visualstudiomagazine.png) <small>2025-09-16 visualstudiomagazine</small>  
-<small>[GitHub Spec Kit Experiment: 'A Lot of Questions'](https://visualstudiomagazine.com/Articles/2025/09/16/GitHub-Spec-Kit-Experiment-A-Lot-of-Questions.aspx)</small>
-
 ![icon](../favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
 <small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
 
 ![icon](../favicons/blank.png) <small>2025-09-16 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](http://microservices.io//post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-15 dotnet</small>  
-<small>[Application Insights Code Optimizations for .NET Apps](https://devblogs.microsoft.com/dotnet/application-insights-code-optimizations/)</small>
 
 ![icon](../favicons/steven-giesel.png) <small>2025-09-15 steven-giesel</small>  
 <small>[LinkedIn Benchmarks again](https://steven-giesel.com/blogPost/06cb9eb9-927e-4bc6-a68a-1471288b9609)</small>
