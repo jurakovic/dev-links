@@ -1,5 +1,10 @@
 [
   {
+    "title": "Copilot Does Azure-Focused .NET App Modernizations in Visual Studio",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/25/Copilot-Does-Azure-Focused-NET-App-Modernizations-in-Visual-Studio.aspx",
+    "pubDate": "Thu, 25 Sep 2025 16:56:00 GMT"
+  },
+  {
     "title": "Confirmed, Finally, Again: No Visual Studio IDE for Linux/macOS",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/22/Confirmed-Finally-Again-No-Visual-Studio-IDE-for-Linux-macOS.aspx",
     "pubDate": "Mon, 22 Sep 2025 16:50:00 GMT"
@@ -17,11 +22,6 @@
   {
     "title": ".NET 10 Release Candidate 1 Ships with Go-Live Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx",
-    "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
-  },
-  {
-    "title": "GitHub Spec Kit Experiment: 'A Lot of Questions'",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/16/GitHub-Spec-Kit-Experiment-A-Lot-of-Questions.aspx",
     "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
   }
 ]
