@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
+<small>[GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
 <small>[Improved Gemini 2.5 Flash and Flash-Lite](https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
@@ -33,9 +36,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-23 simonwillison</small>  
-<small>[GPT-5-Codex](https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything)</small>
 
 ![icon](../favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
