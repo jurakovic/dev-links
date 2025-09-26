@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to stop AI’s “lethal trifecta”",
+    "link": "https://simonwillison.net/2025/Sep/26/how-to-stop-ais-lethal-trifecta/#atom-everything",
+    "pubDate": "2025-09-26T17:30:44+00:00"
+  },
+  {
     "title": "GitHub Copilot CLI is now in public preview",
     "link": "https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything",
     "pubDate": "2025-09-25T23:58:34+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Stanford CS221 Autumn 2025",
     "link": "https://simonwillison.net/2025/Sep/24/stanford/#atom-everything",
     "pubDate": "2025-09-24T22:15:03+00:00"
-  },
-  {
-    "title": "Cross-Agent Privilege Escalation: When Agents Free Each Other",
-    "link": "https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything",
-    "pubDate": "2025-09-24T21:10:24+00:00"
   }
 ]

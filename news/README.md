@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-26 simonwillison</small>  
+<small>[How to stop AI’s “lethal trifecta”](https://simonwillison.net/2025/Sep/26/how-to-stop-ais-lethal-trifecta/#atom-everything)</small>
+
+![icon](../favicons/microsoft.png) <small>2025-09-26 dotnet</small>  
+<small>[Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/)</small>
+
 ![icon](../favicons/blogspot.png) <small>2025-09-26 bartwullems</small>  
 <small>[Discovering Visual Studio 2026 – Code coverage](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-code.html)</small>
 
@@ -33,9 +39,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
 <small>[Quoting Stanford CS221 Autumn 2025](https://simonwillison.net/2025/Sep/24/stanford/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
-<small>[Cross-Agent Privilege Escalation: When Agents Free Each Other](https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
@@ -81,9 +84,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-17 dotnet</small>  
 <small>[Prompt Files and Instructions Files Explained](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/)</small>
-
-![icon](../favicons/microsoft.png) <small>2025-09-16 dotnet</small>  
-<small>[.NET STS releases supported for 24 months](https://devblogs.microsoft.com/dotnet/dotnet-sts-releases-supported-for-24-months/)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-16 visualstudiomagazine</small>  
 <small>[.NET 10 Release Candidate 1 Ships with Go-Live Support](https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx)</small>
