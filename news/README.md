@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/blogspot.png) <small>2025-09-26 bartwullems</small>  
+<small>[Discovering Visual Studio 2026 – Code coverage](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-code.html)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
 <small>[GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything)</small>
 
@@ -57,9 +60,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
-
-![icon](../favicons/blogspot.png) <small>2025-09-19 bartwullems</small>  
-<small>[How to get rid of the smartcard popup when interacting with LDAP over SSL](https://bartwullems.blogspot.com/2025/09/how-to-get-rid-of-smartcard-popup-when.html)</small>
 
 ![icon](../favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
 <small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
