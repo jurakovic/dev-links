@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot CLI is now in public preview",
+    "link": "https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything",
+    "pubDate": "2025-09-25T23:58:34+00:00"
+  },
+  {
     "title": "Improved Gemini 2.5 Flash and Flash-Lite",
     "link": "https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything",
     "pubDate": "2025-09-25T19:27:43+00:00"
@@ -18,10 +23,5 @@
     "title": "Cross-Agent Privilege Escalation: When Agents Free Each Other",
     "link": "https://simonwillison.net/2025/Sep/24/cross-agent-privilege-escalation/#atom-everything",
     "pubDate": "2025-09-24T21:10:24+00:00"
-  },
-  {
-    "title": "GPT-5-Codex",
-    "link": "https://simonwillison.net/2025/Sep/23/gpt-5-codex/#atom-everything",
-    "pubDate": "2025-09-23T23:59:20+00:00"
   }
 ]
