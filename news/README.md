@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-26 simonwillison</small>  
+<small>[ForcedLeak: AI Agent risks exposed in Salesforce AgentForce](https://simonwillison.net/2025/Sep/26/agentforce/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-26 simonwillison</small>  
 <small>[How to stop AI’s “lethal trifecta”](https://simonwillison.net/2025/Sep/26/how-to-stop-ais-lethal-trifecta/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-26 dotnet</small>  
@@ -36,9 +39,6 @@
 
 ![icon](../favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
 <small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-24 simonwillison</small>  
-<small>[Quoting Stanford CS221 Autumn 2025](https://simonwillison.net/2025/Sep/24/stanford/#atom-everything)</small>
 
 ![icon](../favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
 <small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
