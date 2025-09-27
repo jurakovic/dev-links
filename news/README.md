@@ -7,6 +7,9 @@
 ![icon](../favicons/simonwillison.png) <small>2025-09-27 simonwillison</small>  
 <small>[Quoting Dan Abramov](https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything)</small>
 
+![icon](../favicons/ardalis.png) <small>2025-09-27 ardalis</small>  
+<small>[Ardalis Fall 2025 Speaking Tour](https://ardalis.com/ardalis-fall-2025-speaking-tour/)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-26 simonwillison</small>  
 <small>[ForcedLeak: AI Agent risks exposed in Salesforce AgentForce](https://simonwillison.net/2025/Sep/26/agentforce/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](../favicons/terriblesoftware.png) <small>2025-08-22 terriblesoftware</small>  
 <small>[The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)</small>
-
-![icon](../favicons/pragmaticengineer.png) <small>2025-08-21 pragmaticengineer</small>  
-<small>[Creative ways to fund open source projects](https://blog.pragmaticengineer.com/creative-ways-to-fund-open-source-projects/)</small>
 
