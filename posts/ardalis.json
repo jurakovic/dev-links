@@ -1,5 +1,10 @@
 [
   {
+    "title": "Ardalis Fall 2025 Speaking Tour",
+    "link": "https://ardalis.com/ardalis-fall-2025-speaking-tour/",
+    "pubDate": "Sat, 27 Sep 2025 00:00:00 GMT"
+  },
+  {
     "title": "How to Combine MP4 Files on Windows Using FFmpeg",
     "link": "https://ardalis.com/combine-mp4-files-ffmpeg-windows/",
     "pubDate": "Thu, 24 Jul 2025 00:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Managing GenAI Coding Risk Like an Investment",
     "link": "https://ardalis.com/genai-coding-investment-risk-strategy/",
     "pubDate": "Thu, 05 Jun 2025 00:00:00 GMT"
-  },
-  {
-    "title": "Ardalis Specification v9 Released",
-    "link": "https://ardalis.com/ardalis-specification-v9-release/",
-    "pubDate": "Thu, 13 Mar 2025 00:00:00 GMT"
   }
 ]
