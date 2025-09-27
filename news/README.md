@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](../favicons/simonwillison.png) <small>2025-09-27 simonwillison</small>  
+<small>[Quoting Dan Abramov](https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything)</small>
+
 ![icon](../favicons/simonwillison.png) <small>2025-09-26 simonwillison</small>  
 <small>[ForcedLeak: AI Agent risks exposed in Salesforce AgentForce](https://simonwillison.net/2025/Sep/26/agentforce/#atom-everything)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](../favicons/blogspot.png) <small>2025-09-25 bartwullems</small>  
 <small>[Discovering Visual Studio 2026 – Copilot Actions](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-copilot.html)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
-<small>[Don't hide your best documentation](https://simonwillison.net/2025/Sep/25/documentation/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
 <small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
