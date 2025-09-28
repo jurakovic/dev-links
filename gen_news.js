@@ -4,7 +4,7 @@ const path = require('path');
 // --- Config ---
 const POSTS_DIR = path.join(__dirname, 'posts');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
-const FAVICON_PATH = '../favicons/';
+const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/';
 
 // --- Helper to get icon name ---
 function getIconName(feed) {
