@@ -1,5 +1,10 @@
 [
   {
+    "title": "Video models are zero-shot learners and reasoners",
+    "link": "https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything",
+    "pubDate": "2025-09-27T23:59:30+00:00"
+  },
+  {
     "title": "Quoting Dan Abramov",
     "link": "https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything",
     "pubDate": "2025-09-27T12:13:35+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot CLI is now in public preview",
     "link": "https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything",
     "pubDate": "2025-09-25T23:58:34+00:00"
-  },
-  {
-    "title": "Improved Gemini 2.5 Flash and Flash-Lite",
-    "link": "https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything",
-    "pubDate": "2025-09-25T19:27:43+00:00"
   }
 ]
