@@ -3,7 +3,7 @@ const path = require('path');
 
 // --- Config ---
 const POSTS_DIR = path.join(__dirname, 'posts');
-const OUTPUT_FILE = path.join(__dirname, 'news', 'README.md');
+const OUTPUT_FILE = path.join(__dirname, 'README.md');
 const FAVICON_PATH = '../favicons/';
 
 // --- Helper to get icon name ---
