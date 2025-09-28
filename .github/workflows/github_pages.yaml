@@ -1,4 +1,4 @@
-name: Deploy GitHub Pages (merged branches)
+name: Deploy GitHub Pages
 
 on:
   push:
@@ -20,8 +20,9 @@ jobs:
           git fetch origin dev-news-setup
           mkdir posts
           git checkout origin/dev-news-setup -- .
+          git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
-          git checkout -- README.md # restore original README.md
+          git restore README.md # restore original README.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
