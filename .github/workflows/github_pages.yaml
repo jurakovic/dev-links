@@ -23,10 +23,16 @@ jobs:
           cp README.md news/README.md # move dev-news README.md to news/
           git checkout -- README.md # restore original README.md
 
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: ./_site
 
   deploy:
     needs: build
