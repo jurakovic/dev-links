@@ -2,7 +2,7 @@ name: Deploy GitHub Pages
 
 on:
   push:
-    branches: ["master", "dev-news"] # rebuild when either branch changes
+    branches: ["master_new", "dev-news-setup"] # rebuild when either branch changes
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,7 @@ jobs:
           git checkout origin/dev-news-setup -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
+          sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
           git restore README.md # restore original README.md
 
       - name: Build with Jekyll
