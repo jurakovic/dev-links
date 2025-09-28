@@ -5,6 +5,9 @@
 * * *
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-27 simonwillison</small>  
+<small>[Video models are zero-shot learners and reasoners](https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything)</small>
+
+![icon](../favicons/simonwillison.png) <small>2025-09-27 simonwillison</small>  
 <small>[Quoting Dan Abramov](https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything)</small>
 
 ![icon](../favicons/ardalis.png) <small>2025-09-27 ardalis</small>  
@@ -24,9 +27,6 @@
 
 ![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
 <small>[GitHub Copilot CLI is now in public preview](https://simonwillison.net/2025/Sep/25/github-copilot-cli/#atom-everything)</small>
-
-![icon](../favicons/simonwillison.png) <small>2025-09-25 simonwillison</small>  
-<small>[Improved Gemini 2.5 Flash and Flash-Lite](https://simonwillison.net/2025/Sep/25/improved-gemini-25-flash-and-flash-lite/#atom-everything)</small>
 
 ![icon](../favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
 <small>[Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/)</small>
