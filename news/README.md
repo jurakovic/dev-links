@@ -5,4 +5,4 @@
 * * *
 
 > [!TIP]
-> *Available on <https://jurakovic.github.io/dev-links/news/> or (todo...)*
+> *Available on [dev-news branch](https://github.com/jurakovic/dev-links/blob/dev-news-setup/README.md) or <https://jurakovic.github.io/dev-links/news/>*
