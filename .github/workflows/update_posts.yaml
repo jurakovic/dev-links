@@ -1,4 +1,4 @@
-name: Update Posts
+name: Update Posts (dev-news)
 
 permissions:
   contents: write
