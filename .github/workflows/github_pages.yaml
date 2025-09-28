@@ -1,0 +1,39 @@
+name: Deploy GitHub Pages (merged branches)
+
+on:
+  push:
+    branches: ["master", "dev-news"] # rebuild when either branch changes
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: '${{ github.ref_name }}'
+          fetch-depth: 0
+
+      - name: Fetch dev-news branch
+        run: |
+          git fetch origin dev-news-setup
+          mkdir posts
+          git checkout origin/dev-news-setup -- .
+          cp README.md news/README.md # move dev-news README.md to news/
+          git checkout -- README.md # restore original README.md
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
