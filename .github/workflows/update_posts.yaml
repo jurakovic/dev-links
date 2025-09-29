@@ -1,5 +1,8 @@
 name: Update Posts (dev-news)
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
