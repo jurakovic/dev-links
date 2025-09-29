@@ -41,4 +41,7 @@ jobs:
 
   deploy:
     needs: build
+    permissions:
+      pages: write
+      id-token: write
     uses: ./.github/workflows/github_pages.yaml
