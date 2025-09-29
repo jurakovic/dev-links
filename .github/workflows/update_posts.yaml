@@ -1,0 +1,10 @@
+name: Trigger Update Posts (dev-news)
+
+on:
+  push:
+    branches:
+      - dev-news-setup
+
+jobs:
+  trigger:
+    uses: jurakovic/dev-news/.github/workflows/update_posts.yaml@master_new
