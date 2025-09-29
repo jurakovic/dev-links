@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-29 bartwullems</small>  
+<small>[Microsoft.Extensions.AI – Part IX–Semantic kernel integration](https://bartwullems.blogspot.com/2025/09/microsoftextensionsai-part-ixsemantic.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
 <small>[Quoting Scott Aaronson](https://simonwillison.net/2025/Sep/29/scott-aaronson/#atom-everything)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-22 dotnet</small>  
 <small>[New Trusted Publishing enhances security on NuGet.org](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-22 bartwullems</small>  
-<small>[Discovering Visual Studio 2026–Installation](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-18 visualstudiomagazine</small>  
 <small>[VS Code SQL Extension Previews Microsoft Fabric Connectivity](https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx)</small>
