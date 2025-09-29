@@ -1,4 +1,4 @@
-name: Trigger Update Posts (dev-news)
+name: Update Posts (dev-news)
 
 on:
   push:
