@@ -11,7 +11,7 @@ on:
         required: true
         default: dev-news-setup
   schedule:
-    - cron: '30 7 * * *' # 07:30 CEST
+    - cron: '0 8 * * *' # 10:00 CEST
 
 jobs:
   build:
