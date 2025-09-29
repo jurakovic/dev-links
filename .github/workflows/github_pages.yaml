@@ -23,6 +23,7 @@ jobs:
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
+          sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master_new;\.\.;g' news/README.md
           git restore README.md # restore original README.md
 
       - name: Build with Jekyll
