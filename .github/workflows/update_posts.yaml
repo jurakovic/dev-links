@@ -8,4 +8,4 @@ on:
 
 jobs:
   trigger:
-    uses: jurakovic/dev-news/.github/workflows/update_posts.yaml@master_new
+    uses: jurakovic/dev-links/.github/workflows/update_posts.yaml@master_new
