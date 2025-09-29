@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - dev-news-setup
+  workflow_dispatch:
 
 jobs:
   trigger:
