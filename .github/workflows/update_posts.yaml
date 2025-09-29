@@ -4,14 +4,9 @@ permissions:
   contents: write
 
 on:
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: "Target branch"
-        required: true
-        default: dev-news-setup
   schedule:
-    - cron: '0 8 * * *' # 10:00 CEST
+    - cron: '0 4,10,16,22 * * *' # 06:00, 12:00, 18:00, 00:00 CEST
+  workflow_dispatch:
 
 jobs:
   build:
@@ -20,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event.inputs.branch || github.ref_name }}
+          ref: dev-news-setup
           fetch-depth: 0
 
       - name: Git Config
