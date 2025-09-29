@@ -6,6 +6,7 @@ on:
       - master_new
       - dev-news-setup
   workflow_dispatch:
+  workflow_call:
 
 jobs:
   build:
@@ -20,13 +21,12 @@ jobs:
       - name: Fetch dev-news branch
         run: |
           git fetch origin dev-news-setup
-          mkdir posts
           git checkout origin/dev-news-setup -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
+          git restore README.md # restore original README.md
           sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
           sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master_new;\.\.;g' news/README.md
-          git restore README.md # restore original README.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
