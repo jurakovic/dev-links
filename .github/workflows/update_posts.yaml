@@ -1,7 +1,4 @@
-name: Update Posts (dev-news)
-
-permissions:
-  contents: write
+name: Deploy GitHub Pages
 
 on:
   push:
@@ -11,4 +8,4 @@ on:
 
 jobs:
   trigger:
-    uses: jurakovic/dev-links/.github/workflows/update_posts.yaml@master_new
+    uses: jurakovic/dev-links/.github/workflows/github_pages.yaml@master_new
