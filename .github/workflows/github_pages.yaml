@@ -6,7 +6,6 @@ on:
       - master_new
       - dev-news-setup
   workflow_dispatch:
-  workflow_call:
 
 jobs:
   build:
