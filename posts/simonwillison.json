@@ -1,5 +1,10 @@
 [
   {
+    "title": "Armin Ronacher: 90%",
+    "link": "https://simonwillison.net/2025/Sep/29/armin-ronacher-90/#atom-everything",
+    "pubDate": "2025-09-29T16:03:54+00:00"
+  },
+  {
     "title": "Quoting Scott Aaronson",
     "link": "https://simonwillison.net/2025/Sep/29/scott-aaronson/#atom-everything",
     "pubDate": "2025-09-29T00:52:26+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Dan Abramov",
     "link": "https://simonwillison.net/2025/Sep/27/dan-abramov/#atom-everything",
     "pubDate": "2025-09-27T12:13:35+00:00"
-  },
-  {
-    "title": "ForcedLeak: AI Agent risks exposed in Salesforce AgentForce",
-    "link": "https://simonwillison.net/2025/Sep/26/agentforce/#atom-everything",
-    "pubDate": "2025-09-26T23:26:10+00:00"
   }
 ]
