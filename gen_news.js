@@ -55,8 +55,8 @@ const posts50 = allPosts.slice(0, 50);
 
 // --- Write markdown ---
 let md = '\n';
-md += `[dev-links](../README.md#content)  \n`;
-md += `└─ [Blogs](../README.md#blogs) / ***Reader***  \n\n`;
+md += `[dev-links](https://github.com/jurakovic/dev-links/blob/master_new/README.md#content)  \n`;
+md += `└─ [Blogs](https://github.com/jurakovic/dev-links/blob/master_new/README.md#blogs) / ***Reader***  \n\n`;
 md += `* * *\n\n`;
 for (const post of posts50) {
     // Date in YYYY-MM-DD
