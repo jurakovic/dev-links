@@ -3,6 +3,7 @@ const path = require('path');
 
 // --- Config ---
 const POSTS_DIR = path.join(__dirname, 'posts');
+const TEMPLATE_FILE = path.join(__dirname, 'README.template');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
 const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/';
 
@@ -53,11 +54,11 @@ allPosts.sort((a, b) => {
 // --- Take first 50 ---
 const posts50 = allPosts.slice(0, 50);
 
-// --- Write markdown ---
-let md = '\n';
-md += `[dev-links](https://github.com/jurakovic/dev-links/blob/master_new/README.md#content)  \n`;
-md += `└─ [Blogs](https://github.com/jurakovic/dev-links/blob/master_new/README.md#blogs) / ***Reader***  \n\n`;
-md += `* * *\n\n`;
+// --- Load template ---
+let md = fs.readFileSync(TEMPLATE_FILE, 'utf8');
+
+// --- Generate markdown ---
+console.log(`Generating file: README.md`);
 for (const post of posts50) {
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
@@ -75,4 +76,3 @@ for (const post of posts50) {
 }
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
-console.log(`Generated ${OUTPUT_FILE}`);

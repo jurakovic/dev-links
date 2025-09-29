@@ -83,3 +83,5 @@ update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
 cd ..
 node gen_news.js
+
+echo "Done"
