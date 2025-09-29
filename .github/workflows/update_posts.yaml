@@ -1,0 +1,45 @@
+name: Update Posts (dev-news)
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: "Target branch"
+        required: true
+        default: dev-news-setup
+  schedule:
+    - cron: '30 7 * * *' # 07:30 CEST
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch || github.ref_name }}
+          fetch-depth: 0
+
+      - name: Git Config
+        run: |
+          git config core.fileMode false
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          chmod +x ./update_posts.sh
+        shell: bash
+
+      - name: Build
+        run: |
+          ./update_posts.sh
+
+          git status -s
+          git add .
+          git diff --cached --quiet --exit-code
+          if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
+
+          git commit -m "Update posts"
+          git push
+        shell: bash {0}
