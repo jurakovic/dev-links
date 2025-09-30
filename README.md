@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-30 simonwillison</small>  
+<small>[Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-30 visualstudio</small>  
+<small>[Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
 <small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-28 simonwillison</small>  
 <small>[Quoting Nick Turley](https://simonwillison.net/2025/Sep/28/nick-turley/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-27 simonwillison</small>  
-<small>[Video models are zero-shot learners and reasoners](https://simonwillison.net/2025/Sep/27/video-models-are-zero-shot-learners-and-reasoners/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2025-09-27 ardalis</small>  
 <small>[Ardalis Fall 2025 Speaking Tour](https://ardalis.com/ardalis-fall-2025-speaking-tour/)</small>
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-09-08 steven-giesel</small>  
 <small>[ToDictionaryAsync retrieves the whole object from the database in Entity Framework](https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-04 visualstudio</small>  
-<small>[Make Sense of Your Output Window with Copilot](https://devblogs.microsoft.com/visualstudio/make-sense-of-your-output-window-with-copilot/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-02 andrewlock</small>  
 <small>[Using and authoring .NET tools](https://andrewlock.net/using-and-authoring-dotnet-tools/)</small>
