@@ -11,14 +11,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      changes: ${{ steps.build.outputs.changes }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           ref: dev-news-setup
           fetch-depth: 0
+          token: ${{ secrets.DEV_LINKS_PAT }}
 
       - name: Git Config
         run: |
@@ -29,30 +28,14 @@ jobs:
         shell: bash
 
       - name: Build
-        id: build
         run: |
           ./update_posts.sh
 
           git status -s
           git add .
           git diff --cached --quiet --exit-code
-          if [ $? -eq 0 ];
-          then
-            echo "No git changes";
-            echo "changes=false" >> $GITHUB_OUTPUT
-            exit 0;
-           else
-            echo "changes=true" >> $GITHUB_OUTPUT
-          fi
+          if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
           git commit -m "Update posts"
           git push
         shell: bash {0}
-
-  deploy:
-    needs: build
-    if: needs.build.outputs.changes == 'true'
-    permissions:
-      pages: write
-      id-token: write
-    uses: ./.github/workflows/github_pages.yaml
