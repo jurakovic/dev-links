@@ -2,9 +2,9 @@ name: Deploy GitHub Pages
 
 on:
   push:
-    branches: # rebuild when either branch changes
-      - master_new
-      - dev-news-setup
+    branches:
+      - master
+      - dev-news
   workflow_dispatch:
   workflow_call:
 
@@ -15,18 +15,18 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
         with:
-          ref: master_new
+          ref: master
           fetch-depth: 0
 
       - name: Fetch dev-news branch
         run: |
-          git fetch origin dev-news-setup
-          git checkout origin/dev-news-setup -- .
+          git fetch origin dev-news
+          git checkout origin/dev-news -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
           sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
-          sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master_new;\.\.;g' news/README.md
+          sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master;\.\.;g' news/README.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
