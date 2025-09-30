@@ -7,9 +7,9 @@ permissions:
 on:
   push:
     branches:
-      - dev-news-setup
+      - dev-news
   workflow_dispatch:
 
 jobs:
   trigger:
-    uses: jurakovic/dev-links/.github/workflows/github_pages.yaml@master_new
+    uses: jurakovic/dev-links/.github/workflows/github_pages.yaml@master

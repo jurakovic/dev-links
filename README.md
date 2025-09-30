@@ -1,6 +1,6 @@
 
-[dev-links](https://github.com/jurakovic/dev-links/blob/master_new/README.md#content)  
-└─ [Blogs](https://github.com/jurakovic/dev-links/blob/master_new/README.md#blogs) / ***Reader***  
+[dev-links](https://github.com/jurakovic/dev-links/blob/master/README.md#content)  
+└─ [Blogs](https://github.com/jurakovic/dev-links/blob/master/README.md#blogs) / ***Reader***  
 
 * * *
 
