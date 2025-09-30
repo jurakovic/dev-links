@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-30 bartwullems</small>  
+<small>[SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly](https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
 <small>[Claude Sonnet 4.5 is probably the "best coding model in the world" (at least for now)](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/#atom-everything)</small>
 
@@ -60,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-23 martinfowler</small>  
 <small>[To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-23 bartwullems</small>  
-<small>[Auto update the .NET core versions on your server](https://bartwullems.blogspot.com/2025/09/auto-update-net-core-versions-on-your.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-22 visualstudio</small>  
 <small>[Enhancements to XAML Live Preview in Visual Studio for .NET MAUI](https://devblogs.microsoft.com/visualstudio/enhancements-to-xaml-live-preview-in-visual-studio-for-net-maui/)</small>

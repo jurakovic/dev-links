@@ -1,5 +1,10 @@
 [
   {
+    "title": "SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly",
+    "link": "https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html",
+    "pubDate": "2025-09-30T06:51:00.009+02:00"
+  },
+  {
     "title": "Microsoft.Extensions.AI – Part IX–Semantic kernel integration",
     "link": "https://bartwullems.blogspot.com/2025/09/microsoftextensionsai-part-ixsemantic.html",
     "pubDate": "2025-09-29T06:44:00.011+02:00"
@@ -18,10 +23,5 @@
     "title": "Discovering Visual Studio 2026–Adaptive paste",
     "link": "https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html",
     "pubDate": "2025-09-24T06:40:00.012+02:00"
-  },
-  {
-    "title": "Auto update the .NET core versions on your server",
-    "link": "https://bartwullems.blogspot.com/2025/09/auto-update-net-core-versions-on-your.html",
-    "pubDate": "2025-09-23T06:48:00.004+02:00"
   }
 ]
