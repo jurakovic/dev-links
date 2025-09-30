@@ -19,6 +19,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
 <small>[Quoting Scott Aaronson](https://simonwillison.net/2025/Sep/29/scott-aaronson/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
+<small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-28 simonwillison</small>  
 <small>[Quoting Nick Turley](https://simonwillison.net/2025/Sep/28/nick-turley/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-08-25 steven-giesel</small>  
 <small>[Quick one: Difference between collection expressions and collection initializer](https://steven-giesel.com/blogPost/fea0b033-ccf5-4197-b62c-ffd8ca6d79c7)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-08-22 terriblesoftware</small>  
-<small>[The Management Skill Nobody Talks About](https://terriblesoftware.org/2025/08/22/the-management-skill-nobody-talks-about/)</small>
 
