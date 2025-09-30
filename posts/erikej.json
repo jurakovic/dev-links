@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html",
+    "pubDate": "2025-09-30T17:28:49+00:00"
+  },
+  {
     "title": "Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio",
     "link": "https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html",
     "pubDate": "2025-08-25T17:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Turn your .NET CLI tool into a local MCP Server for use with GitHub Copilot in VS Code",
     "link": "https://erikej.github.io/mcp/dotnet/copilot/2025/05/06/mcp-dotnet-copilot.html",
     "pubDate": "2025-05-06T17:28:49+00:00"
-  },
-  {
-    "title": "Presenting T-SQL Analyzer CLI - identify anti-patterns in SQL Server scripts with 140+ rules",
-    "link": "https://erikej.github.io/sql/dacfx/2025/02/17/sql-dacfx-analyzer.html",
-    "pubDate": "2025-02-17T17:28:49+00:00"
   }
 ]
