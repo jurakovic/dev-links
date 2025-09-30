@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
+<small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-30 bartwullems</small>  
 <small>[SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly](https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-08-26 andrewlock</small>  
-<small>[Fixing an old .NET Core native library loading issue on Alpine](https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-08-25 erikej</small>  
 <small>[Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html)</small>
