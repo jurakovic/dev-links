@@ -1,5 +1,10 @@
 [
   {
+    "title": "Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing",
+    "link": "https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/",
+    "pubDate": "Tue, 30 Sep 2025 10:00:00 GMT"
+  },
+  {
     "title": "sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout",
     "link": "https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/",
     "pubDate": "Tue, 23 Sep 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Using and authoring .NET tools",
     "link": "https://andrewlock.net/using-and-authoring-dotnet-tools/",
     "pubDate": "Tue, 02 Sep 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Fixing an old .NET Core native library loading issue on Alpine",
-    "link": "https://andrewlock.net/fixing-an-old-dotnet-core-native-library-loading-issue-on-alpine/",
-    "pubDate": "Tue, 26 Aug 2025 10:00:00 GMT"
   }
 ]

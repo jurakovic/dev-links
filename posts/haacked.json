@@ -1,5 +1,10 @@
 [
   {
+    "title": "Spelungit: When `git log –grep` isn’t enough",
+    "link": "https://haacked.com/archive/2025/09/29/announcing-spelungit/",
+    "pubDate": "2025-09-29T00:00:00+00:00"
+  },
+  {
     "title": "Cleaning up gone branches",
     "link": "https://haacked.com/archive/2025/04/17/git-gone/",
     "pubDate": "2025-04-17T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Deserializing JSON to a string or a value",
     "link": "https://haacked.com/archive/2024/12/17/string-or-value/",
     "pubDate": "2024-12-17T00:00:00+00:00"
-  },
-  {
-    "title": "Career Chutes and Ladder",
-    "link": "https://haacked.com/archive/2024/12/10/chutes-and-ladder/",
-    "pubDate": "2024-12-10T00:00:00+00:00"
   }
 ]

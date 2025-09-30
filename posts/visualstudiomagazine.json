@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET Aspire 9.5 Simplifies AppHost, Expands AI Support",
+    "link": "https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx",
+    "pubDate": "Mon, 29 Sep 2025 17:32:00 GMT"
+  },
+  {
     "title": "Copilot Does Azure-Focused .NET App Modernizations in Visual Studio",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/25/Copilot-Does-Azure-Focused-NET-App-Modernizations-in-Visual-Studio.aspx",
     "pubDate": "Thu, 25 Sep 2025 16:56:00 GMT"
@@ -18,10 +23,5 @@
     "title": "GitHub Tops AI Coding Assistants Report, with Microsoft-Related 'Cautions'",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/17/Report-GitHub-Tops-AI-Coding-Assistants-with-Microsoft-Related-Cautions.aspx",
     "pubDate": "Wed, 17 Sep 2025 17:43:00 GMT"
-  },
-  {
-    "title": ".NET 10 Release Candidate 1 Ships with Go-Live Support",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/16/NET-10-RC-1-Ships-with-Go-Live-Support.aspx",
-    "pubDate": "Tue, 16 Sep 2025 13:00:00 GMT"
   }
 ]
