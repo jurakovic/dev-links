@@ -20,7 +20,7 @@
 <p class="pages-hidden">
 
 > [!TIP]
-> *Lists of latest blog posts are available only on <https://jurakovic.github.io/dev-links/>*
+> *<https://jurakovic.github.io/dev-links/> features lists of latest blog posts*
 
 </p>
 

@@ -1,12 +1,12 @@
-name: Update Posts
+name: Update Posts (dev-news)
 
 permissions:
   contents: write
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '0 4,10,16,22 * * *' # 06:00, 12:00, 18:00, 00:00 CEST
+  workflow_dispatch:
 
 jobs:
   build:
@@ -15,8 +15,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: '${{ github.ref_name }}'
+          ref: dev-news
           fetch-depth: 0
+          token: ${{ secrets.DEV_LINKS_PAT }}
 
       - name: Git Config
         run: |
