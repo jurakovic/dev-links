@@ -1,5 +1,10 @@
 [
   {
+    "title": "September monthly sponsors newsletter",
+    "link": "https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything",
+    "pubDate": "2025-10-01T05:33:03+00:00"
+  },
+  {
     "title": "Sora 2",
     "link": "https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything",
     "pubDate": "2025-09-30T18:03:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Armin Ronacher: 90%",
     "link": "https://simonwillison.net/2025/Sep/29/armin-ronacher-90/#atom-everything",
     "pubDate": "2025-09-29T16:03:54+00:00"
-  },
-  {
-    "title": "Quoting Scott Aaronson",
-    "link": "https://simonwillison.net/2025/Sep/29/scott-aaronson/#atom-everything",
-    "pubDate": "2025-09-29T00:52:26+00:00"
   }
 ]

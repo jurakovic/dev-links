@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
+<small>[September monthly sponsors newsletter](https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-01 bartwullems</small>  
+<small>[Visual Studio 2026–The Copilot Profiler Agent](https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-30 simonwillison</small>  
 <small>[Sora 2](https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything)</small>
 
@@ -34,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-29 bartwullems</small>  
 <small>[Microsoft.Extensions.AI – Part IX–Semantic kernel integration](https://bartwullems.blogspot.com/2025/09/microsoftextensionsai-part-ixsemantic.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
-<small>[Quoting Scott Aaronson](https://simonwillison.net/2025/Sep/29/scott-aaronson/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
 <small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
 <small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-24 bartwullems</small>  
-<small>[Discovering Visual Studio 2026–Adaptive paste](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026adaptive.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
