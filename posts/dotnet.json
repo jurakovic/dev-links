@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer",
+    "link": "https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/",
+    "pubDate": "Wed, 01 Oct 2025 14:05:00 +0000"
+  },
+  {
     "title": "Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement",
     "link": "https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/",
     "pubDate": "Fri, 26 Sep 2025 17:05:00 +0000"
@@ -18,10 +23,5 @@
     "title": "New Trusted Publishing enhances security on NuGet.org",
     "link": "https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/",
     "pubDate": "Mon, 22 Sep 2025 15:40:00 +0000"
-  },
-  {
-    "title": "Prompt Files and Instructions Files Explained",
-    "link": "https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/",
-    "pubDate": "Wed, 17 Sep 2025 17:05:00 +0000"
   }
 ]

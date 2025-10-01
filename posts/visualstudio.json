@@ -1,5 +1,10 @@
 [
   {
+    "title": "The $150 Secret Hiding in Plain Sight",
+    "link": "https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/",
+    "pubDate": "Wed, 01 Oct 2025 16:27:11 +0000"
+  },
+  {
     "title": "Visual Studio September Update – profiler agent, app modernization, and more",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/",
     "pubDate": "Tue, 30 Sep 2025 13:30:50 +0000"
@@ -18,10 +23,5 @@
     "title": "Democratizing Performance: The Copilot Profiler Agent in Action on Real Code",
     "link": "https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/",
     "pubDate": "Thu, 11 Sep 2025 16:05:09 +0000"
-  },
-  {
-    "title": "Visual Studio 2026 Insiders is here!",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/",
-    "pubDate": "Tue, 09 Sep 2025 16:52:29 +0000"
   }
 ]

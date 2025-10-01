@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 visualstudio</small>  
+<small>[The $150 Secret Hiding in Plain Sight](https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 dotnet</small>  
+<small>[Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
 <small>[September monthly sponsors newsletter](https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything)</small>
 
@@ -100,9 +106,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-17 visualstudio</small>  
 <small>[Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling](https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-17 dotnet</small>  
-<small>[Prompt Files and Instructions Files Explained](https://devblogs.microsoft.com/dotnet/prompt-files-and-instructions-files-explained/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
 <small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-09 visualstudio</small>  
-<small>[Visual Studio 2026 Insiders is here!](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
 <small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
