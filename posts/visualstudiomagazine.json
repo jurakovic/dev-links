@@ -1,5 +1,10 @@
 [
   {
+    "title": "Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/01/Semantic-Kernel-AutoGen--Open-Source-Microsoft-Agent-Framework.aspx",
+    "pubDate": "Wed, 01 Oct 2025 16:48:00 GMT"
+  },
+  {
     "title": ".NET Aspire 9.5 Simplifies AppHost, Expands AI Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx",
     "pubDate": "Mon, 29 Sep 2025 17:32:00 GMT"
@@ -18,10 +23,5 @@
     "title": "VS Code SQL Extension Previews Microsoft Fabric Connectivity",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx",
     "pubDate": "Thu, 18 Sep 2025 16:49:00 GMT"
-  },
-  {
-    "title": "GitHub Tops AI Coding Assistants Report, with Microsoft-Related 'Cautions'",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/17/Report-GitHub-Tops-AI-Coding-Assistants-with-Microsoft-Related-Cautions.aspx",
-    "pubDate": "Wed, 17 Sep 2025 17:43:00 GMT"
   }
 ]

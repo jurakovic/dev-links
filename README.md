@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
+<small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-01 visualstudiomagazine</small>  
+<small>[Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework'](https://visualstudiomagazine.com/Articles/2025/10/01/Semantic-Kernel-AutoGen--Open-Source-Microsoft-Agent-Framework.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 visualstudio</small>  
 <small>[The $150 Secret Hiding in Plain Sight](https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/)</small>
 
@@ -100,9 +106,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-09-17 thecodist</small>  
 <small>[Why Is Xcode So Antagonistic To Reduced Vision?](https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-17 visualstudiomagazine</small>  
-<small>[GitHub Tops AI Coding Assistants Report, with Microsoft-Related 'Cautions'](https://visualstudiomagazine.com/Articles/2025/09/17/Report-GitHub-Tops-AI-Coding-Assistants-with-Microsoft-Related-Cautions.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-17 visualstudio</small>  
 <small>[Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling](https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
 <small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-08-25 erikej</small>  
-<small>[Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html)</small>
 
