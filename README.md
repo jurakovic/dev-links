@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-02 visualstudio</small>  
+<small>[VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-02 simonwillison</small>  
+<small>[Daniel Stenberg's note on AI assisted curl bug reports](https://simonwillison.net/2025/Oct/2/curl/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-02 simonwillison</small>  
+<small>[Quoting Nadia Eghbal](https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-02 bartwullems</small>  
 <small>[Discovering Visual Studio 2026 – Bring your own model](https://bartwullems.blogspot.com/2025/10/discovering-visual-studio-2026-bring.html)</small>
 
@@ -31,14 +40,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-01 bartwullems</small>  
 <small>[Visual Studio 2026–The Copilot Profiler Agent](https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-30 simonwillison</small>  
-<small>[Sora 2](https://simonwillison.net/2025/Sep/30/sora-2/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-30 simonwillison</small>  
-<small>[Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-30 visualstudio</small>  
 <small>[Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/)</small>
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-15 paulhammant</small>  
 <small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-11 visualstudio</small>  
-<small>[Democratizing Performance: The Copilot Profiler Agent in Action on Real Code](https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-10 microservices</small>  
 <small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>

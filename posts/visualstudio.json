@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Live! Orlando – Your Ultimate Learning Adventure",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/",
+    "pubDate": "Thu, 02 Oct 2025 16:00:38 +0000"
+  },
+  {
     "title": "The $150 Secret Hiding in Plain Sight",
     "link": "https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/",
     "pubDate": "Wed, 01 Oct 2025 16:27:11 +0000"
@@ -18,10 +23,5 @@
     "title": "Getting the most out of MCP in Visual Studio with Prompts, Resources, and Sampling",
     "link": "https://devblogs.microsoft.com/visualstudio/mcp-prompts-resources-sampling/",
     "pubDate": "Wed, 17 Sep 2025 17:30:37 +0000"
-  },
-  {
-    "title": "Democratizing Performance: The Copilot Profiler Agent in Action on Real Code",
-    "link": "https://devblogs.microsoft.com/visualstudio/copilot-profiler-agent-visual-studio/",
-    "pubDate": "Thu, 11 Sep 2025 16:05:09 +0000"
   }
 ]
