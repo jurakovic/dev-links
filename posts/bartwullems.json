@@ -1,5 +1,10 @@
 [
   {
+    "title": "Discovering Visual Studio 2026 – Bring your own model",
+    "link": "https://bartwullems.blogspot.com/2025/10/discovering-visual-studio-2026-bring.html",
+    "pubDate": "2025-10-02T06:58:00.024+02:00"
+  },
+  {
     "title": "Visual Studio 2026–The Copilot Profiler Agent",
     "link": "https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html",
     "pubDate": "2025-10-01T06:51:00.027+02:00"
@@ -18,10 +23,5 @@
     "title": "Discovering Visual Studio 2026 – Code coverage",
     "link": "https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-code.html",
     "pubDate": "2025-09-26T07:00:00.028+02:00"
-  },
-  {
-    "title": "Discovering Visual Studio 2026 – Copilot Actions",
-    "link": "https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-copilot.html",
-    "pubDate": "2025-09-25T06:50:00.008+02:00"
   }
 ]

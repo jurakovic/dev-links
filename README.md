@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-02 bartwullems</small>  
+<small>[Discovering Visual Studio 2026 – Bring your own model](https://bartwullems.blogspot.com/2025/10/discovering-visual-studio-2026-bring.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
 <small>[aavetis/PRarena](https://simonwillison.net/2025/Oct/1/prarena/#atom-everything)</small>
 
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
 <small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-25 bartwullems</small>  
-<small>[Discovering Visual Studio 2026 – Copilot Actions](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-copilot.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
 <small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
