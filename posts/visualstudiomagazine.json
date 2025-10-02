@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx",
+    "pubDate": "Thu, 02 Oct 2025 20:18:00 GMT"
+  },
+  {
+    "title": "'Native' TypeScript 7 Previews in Visual Studio 2026 Insiders",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/02/Native-TypeScript-7-Previews-in-Visual-Studio-2026-Insiders.aspx",
+    "pubDate": "Thu, 02 Oct 2025 16:50:00 GMT"
+  },
+  {
     "title": "Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework'",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/01/Semantic-Kernel-AutoGen--Open-Source-Microsoft-Agent-Framework.aspx",
     "pubDate": "Wed, 01 Oct 2025 16:48:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Copilot Does Azure-Focused .NET App Modernizations in Visual Studio",
     "link": "https://visualstudiomagazine.com/Articles/2025/09/25/Copilot-Does-Azure-Focused-NET-App-Modernizations-in-Visual-Studio.aspx",
     "pubDate": "Thu, 25 Sep 2025 16:56:00 GMT"
-  },
-  {
-    "title": "Confirmed, Finally, Again: No Visual Studio IDE for Linux/macOS",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/22/Confirmed-Finally-Again-No-Visual-Studio-IDE-for-Linux-macOS.aspx",
-    "pubDate": "Mon, 22 Sep 2025 16:50:00 GMT"
-  },
-  {
-    "title": "VS Code SQL Extension Previews Microsoft Fabric Connectivity",
-    "link": "https://visualstudiomagazine.com/Articles/2025/09/18/VS-Code-SQL-Extension-Previews-Microsoft-Fabric-Connectivity.aspx",
-    "pubDate": "Thu, 18 Sep 2025 16:49:00 GMT"
   }
 ]
