@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
+<small>[aavetis/PRarena](https://simonwillison.net/2025/Oct/1/prarena/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
+<small>[Two more Chinese pelicans](https://simonwillison.net/2025/Oct/1/two-pelicans/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
 <small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
 
@@ -40,14 +46,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-30 bartwullems</small>  
 <small>[SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly](https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
-<small>[Claude Sonnet 4.5 is probably the "best coding model in the world" (at least for now)](https://simonwillison.net/2025/Sep/29/claude-sonnet-4-5/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-29 visualstudiomagazine</small>  
 <small>[.NET Aspire 9.5 Simplifies AppHost, Expands AI Support](https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-09-29 simonwillison</small>  
-<small>[Armin Ronacher: 90%](https://simonwillison.net/2025/Sep/29/armin-ronacher-90/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-29 bartwullems</small>  
 <small>[Microsoft.Extensions.AI – Part IX–Semantic kernel integration](https://bartwullems.blogspot.com/2025/09/microsoftextensionsai-part-ixsemantic.html)</small>
@@ -143,7 +143,7 @@
 <small>[Divide and Conquer the Database](https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-08-29 developertoarchitect</small>  
-<small>[Lesson 211 - Architectural Modularity (September 1, 2025)](http://www.developertoarchitect.com/lessons/lesson211.html)</small>
+<small>[Lesson 211 - Architectural Modularity (September 1, 2025)](https://developertoarchitect.com/lessons/lesson211.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)</small>
