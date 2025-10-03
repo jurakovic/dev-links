@@ -5,7 +5,7 @@ function update() {
   name=$2
   echo "Processing feed: $name"
 
-  curl -s -k "$url" -H 'user-agent: Mozilla/5.0' | \
+  curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
   yq -p=xml -o=json '
     (
       .rss.channel.item // .feed.entry
@@ -69,7 +69,7 @@ update "https://blog.codinghorror.com/rss/" "codinghorror"
 update "https://www.joelonsoftware.com/feed/" "joelonsoftware"
 update "https://neilonsoftware.com/feed/" "neilonsoftware"
 update "https://www.brendangregg.com/blog/rss.xml" "brendangregg"
-update "https://tidyfirst.substack.com/feed" "tidyfirst"
+#update "https://tidyfirst.substack.com/feed" "tidyfirst" # cloudflare blocks curl
 update "https://feeds.feedburner.com/paulhammant" "paulhammant"
 update "https://sizovs.net/feed.xml" "sizovs"
 update "https://bartwullems.blogspot.com/feeds/posts/default" "bartwullems"

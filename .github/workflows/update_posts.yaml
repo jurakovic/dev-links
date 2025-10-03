@@ -36,7 +36,10 @@ jobs:
 
       - name: Build
         run: |
-          ./update_posts.sh
+          #./update_posts.sh
+
+          curl "https://netflixtechblog.com/feed" -H 'user-agent: Mozilla/5.0'
+          curl "https://tidyfirst.substack.com/feed" -H 'user-agent: Mozilla/5.0'
 
           # cleanup temp scripts
           rm gen_news.js
