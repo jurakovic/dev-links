@@ -42,6 +42,8 @@ jobs:
           git diff --cached --quiet --exit-code
           if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
+          rm gen_news.js
+          rm update_posts.sh
           git commit -m "Update posts"
           #git push
         shell: bash {0}
