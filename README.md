@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-03 simonwillison</small>  
+<small>[Litestream v0.5.0 is Here](https://simonwillison.net/2025/Oct/3/litestream/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-03 bartwullems</small>  
 <small>[Securing File Uploads: Content Type Validation–A defense against malicious files](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
 <small>[aavetis/PRarena](https://simonwillison.net/2025/Oct/1/prarena/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
-<small>[Two more Chinese pelicans](https://simonwillison.net/2025/Oct/1/two-pelicans/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
 <small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
