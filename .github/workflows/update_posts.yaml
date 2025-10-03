@@ -28,6 +28,7 @@ jobs:
 
       - name: Prepare Scripts
         run: |
+          # get scripts from master branch
           git restore --source origin/master_dev-news-update -- gen_news.js
           git restore --source origin/master_dev-news-update -- update_posts.sh
           chmod +x ./update_posts.sh
@@ -37,13 +38,15 @@ jobs:
         run: |
           ./update_posts.sh
 
+          # cleanup temp scripts
+          rm gen_news.js
+          rm update_posts.sh
+
           git status -s
           git add .
           git diff --cached --quiet --exit-code
           if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
-          rm gen_news.js
-          rm update_posts.sh
           git commit -m "Update posts"
           #git push
         shell: bash {0}
