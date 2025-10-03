@@ -36,7 +36,10 @@ jobs:
 
       - name: Build
         run: |
-          ./update_posts.sh
+          #./update_posts.sh
+
+          curl "https://netflixtechblog.com/feed" -H 'user-agent: Mozilla/5.0'
+          curl "https://tidyfirst.substack.com/feed" -H 'user-agent: Mozilla/5.0'
 
           # cleanup temp scripts
           rm gen_news.js
@@ -48,5 +51,5 @@ jobs:
           if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
           git commit -m "Update posts"
-          git push
+          #git push
         shell: bash {0}
