@@ -580,6 +580,7 @@ The Stack Overflow Blog
 ![icon](favicons/github.png)
 The GitHub Blog: Engineering  
 <https://github.blog/category/engineering/>  
+<div id="github" class="blog-posts"></div>
 
 ![icon](favicons/netflix.png)
 Netflix TechBlog  

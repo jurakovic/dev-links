@@ -82,6 +82,7 @@ update "https://lethain.com/feeds/" "lethain"
 update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
 update "https://stackoverflow.blog/feed" "stackoverflow"
+update "https://github.blog/engineering/feed/" "github"
 
 cd ..
 node gen_news.js
