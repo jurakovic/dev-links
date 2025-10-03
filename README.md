@@ -590,5 +590,6 @@ Netflix TechBlog
 ![icon](favicons/slack.png)
 Engineering at Slack  
 <https://slack.engineering>  
+<div id="slack" class="blog-posts"></div>
 
 <sub><a href="#top">↑ Top</a></sub>
