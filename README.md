@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-03 simonwillison</small>  
+<small>[Sora 2 prompt injection](https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-02 visualstudiomagazine</small>  
 <small>[Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando](https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx)</small>
 
@@ -18,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-02 simonwillison</small>  
 <small>[Quoting Nadia Eghbal](https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-02 microservices</small>  
+<small>[A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies](http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-02 bartwullems</small>  
 <small>[Discovering Visual Studio 2026 – Bring your own model](https://bartwullems.blogspot.com/2025/10/discovering-visual-studio-2026-bring.html)</small>
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 dotnet</small>  
 <small>[Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-01 simonwillison</small>  
-<small>[September monthly sponsors newsletter](https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-01 bartwullems</small>  
 <small>[Visual Studio 2026–The Copilot Profiler Agent](https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-27 martinfowler</small>  
-<small>[Research, Review, Rebuild: Intelligent Modernisation with MCP and Strategic Prompting](https://martinfowler.com/articles/research-review-rebuild.html)</small>
 

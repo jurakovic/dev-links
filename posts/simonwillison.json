@@ -1,5 +1,10 @@
 [
   {
+    "title": "Sora 2 prompt injection",
+    "link": "https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/#atom-everything",
+    "pubDate": "2025-10-03T01:20:58+00:00"
+  },
+  {
     "title": "Daniel Stenberg's note on AI assisted curl bug reports",
     "link": "https://simonwillison.net/2025/Oct/2/curl/#atom-everything",
     "pubDate": "2025-10-02T15:00:09+00:00"
@@ -18,10 +23,5 @@
     "title": "Two more Chinese pelicans",
     "link": "https://simonwillison.net/2025/Oct/1/two-pelicans/#atom-everything",
     "pubDate": "2025-10-01T23:39:07+00:00"
-  },
-  {
-    "title": "September monthly sponsors newsletter",
-    "link": "https://simonwillison.net/2025/Oct/1/sponsors-only-newsletter/#atom-everything",
-    "pubDate": "2025-10-01T05:33:03+00:00"
   }
 ]
