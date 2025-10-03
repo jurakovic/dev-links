@@ -83,6 +83,7 @@ update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
 update "https://stackoverflow.blog/feed" "stackoverflow"
 update "https://github.blog/engineering/feed/" "github"
+update "https://netflixtechblog.com/feed" "netflix"
 
 cd ..
 node gen_news.js
