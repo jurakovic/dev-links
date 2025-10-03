@@ -81,6 +81,8 @@ update "https://terriblesoftware.org/feed/" "terriblesoftware"
 update "https://lethain.com/feeds/" "lethain"
 update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
+update "https://stackoverflow.blog/feed" "stackoverflow"
+
 cd ..
 node gen_news.js
 

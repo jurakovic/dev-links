@@ -573,8 +573,9 @@ Github | The ReadME Project: Guides
 #### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 ![icon](favicons/stackoverflow.png)
-The Stack Overflow Blog: Engineering  
-<https://stackoverflow.blog/engineering/>  
+The Stack Overflow Blog  
+<https://stackoverflow.blog/>  
+<div id="stackoverflow" class="blog-posts"></div>
 
 ![icon](favicons/github.png)
 The GitHub Blog: Engineering  
