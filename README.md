@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-03 bartwullems</small>  
+<small>[Securing File Uploads: Content Type Validation–A defense against malicious files](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-03 simonwillison</small>  
 <small>[Sora 2 prompt injection](https://simonwillison.net/2025/Oct/3/cameo-prompt-injections/#atom-everything)</small>
 
@@ -75,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-26 dotnet</small>  
 <small>[Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-26 bartwullems</small>  
-<small>[Discovering Visual Studio 2026 – Code coverage](https://bartwullems.blogspot.com/2025/09/discovering-visual-studio-2026-code.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
 <small>[Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/)</small>
