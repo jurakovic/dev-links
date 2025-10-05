@@ -76,6 +76,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
 <small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-09-27 developertoarchitect</small>  
+<small>[Lesson 212 - A Framework for Stressor Analysis (October 6, 2025)](http://www.developertoarchitect.com/lessons/lesson212.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2025-09-27 ardalis</small>  
 <small>[Ardalis Fall 2025 Speaking Tour](https://ardalis.com/ardalis-fall-2025-speaking-tour/)</small>
 
@@ -146,11 +149,8 @@
 <small>[Divide and Conquer the Database](https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-08-29 developertoarchitect</small>  
-<small>[Lesson 211 - Architectural Modularity (September 1, 2025)](https://developertoarchitect.com/lessons/lesson211.html)</small>
+<small>[Lesson 211 - Architectural Modularity (September 1, 2025)](http://www.developertoarchitect.com/lessons/lesson211.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
 <small>[Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
-<small>[From Black Box to Blueprint](https://martinfowler.com/articles/black-box-to-blueprint.html)</small>
 
