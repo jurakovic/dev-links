@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-05 simonwillison</small>  
+<small>[Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-04 simonwillison</small>  
 <small>[Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines](https://simonwillison.net/2025/Oct/4/drew-on-dspy/#atom-everything)</small>
 
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-02 simonwillison</small>  
 <small>[Daniel Stenberg's note on AI assisted curl bug reports](https://simonwillison.net/2025/Oct/2/curl/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-02 simonwillison</small>  
-<small>[Quoting Nadia Eghbal](https://simonwillison.net/2025/Oct/2/nadia-eghbal/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-02 microservices</small>  
 <small>[A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies](http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html)</small>
