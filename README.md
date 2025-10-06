@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
+<small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-06 bartwullems</small>  
+<small>[Securing File Uploads Part 2: File Size Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[Bad bots](https://simonwillison.net/2025/Oct/6/bad-bots/#atom-everything)</small>
 
@@ -69,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-29 visualstudiomagazine</small>  
 <small>[.NET Aspire 9.5 Simplifies AppHost, Expands AI Support](https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-29 bartwullems</small>  
-<small>[Microsoft.Extensions.AI – Part IX–Semantic kernel integration](https://bartwullems.blogspot.com/2025/09/microsoftextensionsai-part-ixsemantic.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
 <small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-08-29 developertoarchitect</small>  
 <small>[Lesson 211 - Architectural Modularity (September 1, 2025)](http://www.developertoarchitect.com/lessons/lesson211.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-08-28 martinfowler</small>  
-<small>[Some thoughts on LLMs and Software Development](https://martinfowler.com/articles/202508-ai-thoughts.html)</small>
 
