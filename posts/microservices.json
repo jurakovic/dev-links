@@ -1,5 +1,10 @@
 [
   {
+    "title": "Getting started with Oso Cloud",
+    "link": "http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html",
+    "pubDate": "Mon, 06 Oct 2025 08:03:00 +0000"
+  },
+  {
     "title": "A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies",
     "link": "http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html",
     "pubDate": "Thu, 02 Oct 2025 08:03:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Claude Code: Allow Bash(git commit:*) considered harmful",
     "link": "http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html",
     "pubDate": "Wed, 10 Sep 2025 08:03:00 +0000"
-  },
-  {
-    "title": "Microservices rules #9: Develop observable services",
-    "link": "http://microservices.io//post/architecture/2025/08/02/premium-microservices-rules-9-observable-services.html",
-    "pubDate": "Sat, 02 Aug 2025 08:03:00 +0000"
   }
 ]

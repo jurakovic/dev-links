@@ -5,10 +5,25 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
+<small>[GPT-5 pro](https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
+<small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
+<small>[OpenAI DevDay 2025 live blog](https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[Quoting Tim Berners-Lee](https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-06 visualstudio</small>  
 <small>[Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-06 visualstudiomagazine</small>  
+<small>[Native Remote AI Agents Coming Soon to Visual Studio](https://visualstudiomagazine.com/Articles/2025/10/06/Native-Remote-AI-Agents-Coming-Soon-to-Visual-Studio.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-06 microservices</small>  
+<small>[Getting started with Oso Cloud](http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
 <small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
@@ -22,14 +37,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-05 simonwillison</small>  
 <small>[Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-04 simonwillison</small>  
-<small>[Let the LLM Write the Prompts: An Intro to DSPy in Compound Al Pipelines](https://simonwillison.net/2025/Oct/4/drew-on-dspy/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-03 simonwillison</small>  
-<small>[Litestream v0.5.0 is Here](https://simonwillison.net/2025/Oct/3/litestream/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-03 bartwullems</small>  
 <small>[Securing File Uploads: Content Type Validation–A defense against malicious files](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html)</small>
@@ -94,9 +103,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
 <small>[Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-25 visualstudiomagazine</small>  
-<small>[Copilot Does Azure-Focused .NET App Modernizations in Visual Studio](https://visualstudiomagazine.com/Articles/2025/09/25/Copilot-Does-Azure-Focused-NET-App-Modernizations-in-Visual-Studio.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
 <small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-02 andrewlock</small>  
 <small>[Using and authoring .NET tools](https://andrewlock.net/using-and-authoring-dotnet-tools/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-09-01 steven-giesel</small>  
-<small>[Divide and Conquer the Database](https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-08-29 developertoarchitect</small>  
-<small>[Lesson 211 - Architectural Modularity (September 1, 2025)](http://www.developertoarchitect.com/lessons/lesson211.html)</small>
 

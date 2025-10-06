@@ -1,5 +1,10 @@
 [
   {
+    "title": "Verizon's I'm A Teapot Error And Other Technology Fails",
+    "link": "https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/",
+    "pubDate": "Mon, 06 Oct 2025 19:20:32 GMT"
+  },
+  {
     "title": "Why Is Xcode So Antagonistic To Reduced Vision?",
     "link": "https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/",
     "pubDate": "Wed, 17 Sep 2025 21:31:34 GMT"
@@ -18,10 +23,5 @@
     "title": "What Is Software Quality?",
     "link": "https://thecodist.com/what-is-software-quality/",
     "pubDate": "Mon, 31 Mar 2025 18:07:36 GMT"
-  },
-  {
-    "title": "Using Xcode's AI Is Like Pair Programming With A Monkey",
-    "link": "https://thecodist.com/using-xcodes-ai-is-like-pair-programming-with-a-monkey/",
-    "pubDate": "Fri, 14 Feb 2025 22:03:57 GMT"
   }
 ]
