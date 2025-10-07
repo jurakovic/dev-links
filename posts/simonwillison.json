@@ -1,5 +1,10 @@
 [
   {
+    "title": "Retraction",
+    "link": "https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything",
+    "pubDate": "2025-10-07T22:00:28+00:00"
+  },
+  {
     "title": "Quoting Thomas Klausner",
     "link": "https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything",
     "pubDate": "2025-10-07T16:03:12+00:00"
@@ -18,10 +23,5 @@
     "title": "a system that can do work independently on behalf of the user",
     "link": "https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything",
     "pubDate": "2025-10-06T23:17:55+00:00"
-  },
-  {
-    "title": "gpt-image-1-mini",
-    "link": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything",
-    "pubDate": "2025-10-06T22:54:32+00:00"
   }
 ]
