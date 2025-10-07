@@ -24,12 +24,23 @@ jobs:
           git config core.fileMode false
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        shell: bash
+
+      - name: Prepare Scripts
+        run: |
+          # get scripts from master branch
+          git restore --source origin/master -- gen_news.js
+          git restore --source origin/master -- update_posts.sh
           chmod +x ./update_posts.sh
         shell: bash
 
       - name: Build
         run: |
           ./update_posts.sh
+
+          # cleanup temp scripts
+          rm gen_news.js
+          rm update_posts.sh
 
           git status -s
           git add .
