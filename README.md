@@ -585,11 +585,11 @@ The GitHub Blog: Engineering
 ![icon](favicons/netflix.png)
 Netflix TechBlog  
 <https://netflixtechblog.com>  
-<div id="netflix" class="blog-posts"></div>
+<!--<div id="netflix" class="blog-posts"></div>-->
 
 ![icon](favicons/slack.png)
 Engineering at Slack  
 <https://slack.engineering>  
-<div id="slack" class="blog-posts"></div>
+<!--<div id="slack" class="blog-posts"></div>-->
 
 <sub><a href="#top">↑ Top</a></sub>
