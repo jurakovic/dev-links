@@ -1,5 +1,10 @@
 [
   {
+    "title": "Deploy Safety: Reducing customer impact from change",
+    "link": "https://slack.engineering/deploy-safety/",
+    "pubDate": "Tue, 07 Oct 2025 16:33:12 +0000"
+  },
+  {
     "title": "Building Slack’s Anomaly Event Response",
     "link": "https://slack.engineering/building-slacks-anomaly-event-response/",
     "pubDate": "Thu, 04 Sep 2025 10:00:02 +0000"
@@ -18,10 +23,5 @@
     "title": "Automated Accessibility Testing at Slack",
     "link": "https://slack.engineering/automated-accessibility-testing-at-slack/",
     "pubDate": "Tue, 07 Jan 2025 20:46:20 +0000"
-  },
-  {
-    "title": "Migration Automation: Easing the Jenkins → GHA shift with help from AI",
-    "link": "https://slack.engineering/migration-automation-easing-the-jenkins-%e2%86%92-gha-shift-with-help-from-ai/",
-    "pubDate": "Mon, 16 Dec 2024 09:00:03 +0000"
   }
 ]
