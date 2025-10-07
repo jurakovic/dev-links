@@ -5,6 +5,15 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
+<small>[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
+<small>[a system that can do work independently on behalf of the user](https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
+<small>[gpt-image-1-mini](https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[GPT-5 pro](https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
@@ -12,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[OpenAI DevDay 2025 live blog](https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[Quoting Tim Berners-Lee](https://simonwillison.net/2025/Oct/6/tim-berners-lee/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-06 visualstudio</small>  
 <small>[Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/)</small>
@@ -30,12 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-06 bartwullems</small>  
 <small>[Securing File Uploads Part 2: File Size Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[Bad bots](https://simonwillison.net/2025/Oct/6/bad-bots/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-05 simonwillison</small>  
-<small>[Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
