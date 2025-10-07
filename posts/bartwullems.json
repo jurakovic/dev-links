@@ -1,5 +1,10 @@
 [
   {
+    "title": "Securing File Uploads Part 3: File Signature Validation",
+    "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html",
+    "pubDate": "2025-10-07T06:32:00.003+02:00"
+  },
+  {
     "title": "Securing File Uploads Part 2: File Size Validation",
     "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html",
     "pubDate": "2025-10-06T06:45:00.009+02:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio 2026–The Copilot Profiler Agent",
     "link": "https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html",
     "pubDate": "2025-10-01T06:51:00.027+02:00"
-  },
-  {
-    "title": "SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly",
-    "link": "https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html",
-    "pubDate": "2025-09-30T06:51:00.009+02:00"
   }
 ]

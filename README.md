@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-07 bartwullems</small>  
+<small>[Securing File Uploads Part 3: File Signature Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything)</small>
 
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
 <small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-09-30 bartwullems</small>  
-<small>[SonarQube–The ‘MakeUniqueDir’ task failed unexpectedly](https://bartwullems.blogspot.com/2025/09/sonarqubethe-makeuniquedir-task-failed.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-29 visualstudiomagazine</small>  
 <small>[.NET Aspire 9.5 Simplifies AppHost, Expands AI Support](https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx)</small>
