@@ -83,7 +83,7 @@ update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
 update "https://stackoverflow.blog/feed" "stackoverflow"
 update "https://github.blog/engineering/feed/" "github"
-update "https://netflixtechblog.com/feed" "netflix"
+#update "https://netflixtechblog.com/feed" "netflix" # temporarily disabled, some json parsing issue?
 #update "https://slack.engineering/feed/" "slack" # temporarily disabled, some json parsing issue?
 
 cd ..
