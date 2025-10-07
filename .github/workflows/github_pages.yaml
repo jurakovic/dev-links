@@ -21,7 +21,7 @@ jobs:
       - name: Fetch dev-news branch
         run: |
           git fetch origin dev-news
-          git checkout origin/dev-news -- .
+          git checkout origin/dev-news-update -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
