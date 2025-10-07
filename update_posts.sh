@@ -69,7 +69,7 @@ update "https://blog.codinghorror.com/rss/" "codinghorror"
 update "https://www.joelonsoftware.com/feed/" "joelonsoftware"
 update "https://neilonsoftware.com/feed/" "neilonsoftware"
 update "https://www.brendangregg.com/blog/rss.xml" "brendangregg"
-update "https://tidyfirst.substack.com/feed" "tidyfirst" # cloudflare blocks curl
+#update "https://tidyfirst.substack.com/feed" "tidyfirst" # cloudflare blocks curl
 update "https://feeds.feedburner.com/paulhammant" "paulhammant"
 update "https://sizovs.net/feed.xml" "sizovs"
 update "https://bartwullems.blogspot.com/feeds/posts/default" "bartwullems"
@@ -84,7 +84,7 @@ update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 update "https://stackoverflow.blog/feed" "stackoverflow"
 update "https://github.blog/engineering/feed/" "github"
 update "https://netflixtechblog.com/feed" "netflix"
-update "https://slack.engineering/feed/" "slack"
+#update "https://slack.engineering/feed/" "slack" # temporarily disabled, some json parsing issue?
 
 cd ..
 node gen_news.js
