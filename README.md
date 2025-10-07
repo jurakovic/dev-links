@@ -4,11 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-07 dotnet</small>  
+<small>[Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-07 slack</small>  
+<small>[Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
 <small>[Quoting Thomas Klausner](https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
 <small>[Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-07 stackoverflow</small>  
+<small>[Context is king for secure, AI-generated code](https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-07 bartwullems</small>  
 <small>[Securing File Uploads Part 3: File Signature Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html)</small>
@@ -34,6 +43,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-06 microservices</small>  
 <small>[Getting started with Oso Cloud](http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-06 stackoverflow</small>  
+<small>[Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
 <small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
 
@@ -42,6 +54,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-03 stackoverflow</small>  
+<small>[One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-03 bartwullems</small>  
 <small>[Securing File Uploads: Content Type Validation–A defense against malicious files](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html)</small>
@@ -57,6 +72,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-02 microservices</small>  
 <small>[A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies](http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-02 stackoverflow</small>  
+<small>[Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-02 bartwullems</small>  
 <small>[Discovering Visual Studio 2026 – Bring your own model](https://bartwullems.blogspot.com/2025/10/discovering-visual-studio-2026-bring.html)</small>
@@ -79,6 +97,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-09-30 stackoverflow</small>  
+<small>[Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-30 visualstudio</small>  
 <small>[Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/)</small>
 
@@ -88,6 +109,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-29 visualstudiomagazine</small>  
 <small>[.NET Aspire 9.5 Simplifies AppHost, Expands AI Support](https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-29 netflix</small>  
+<small>[100X Faster: How We Supercharged Netflix Maestro’s Workflow Engine](https://netflixtechblog.com/100x-faster-how-we-supercharged-netflix-maestros-workflow-engine-028e9637f041?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
 <small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
 
@@ -96,6 +120,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2025-09-27 ardalis</small>  
 <small>[Ardalis Fall 2025 Speaking Tour](https://ardalis.com/ardalis-fall-2025-speaking-tour/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-26 netflix</small>  
+<small>[Building a Resilient Data Platform with Write-Ahead Log at Netflix](https://netflixtechblog.com/building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-26 dotnet</small>  
 <small>[Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/)</small>
@@ -115,42 +142,15 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-23 martinfowler</small>  
 <small>[To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-22 dotnet</small>  
-<small>[New Trusted Publishing enhances security on NuGet.org](https://devblogs.microsoft.com/dotnet/enhanced-security-is-here-with-the-new-trust-publishing-on-nuget-org/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-22 netflix</small>  
+<small>[Scaling Muse: How Netflix Powers Data-Driven Creative Insights at Trillion-Row Scale](https://netflixtechblog.com/scaling-muse-how-netflix-powers-data-driven-creative-insights-at-trillion-row-scale-aa9ad326fd77?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-19 netflix</small>  
+<small>[Empowering Netflix Engineers with Incident Management](https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-09-18 minidump</small>  
 <small>[Measuring UI responsiveness in Resharper](https://minidump.net/measuring-ui-responsiveness/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-18 paulhammant</small>  
 <small>[Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code](https://paulhammant.com/2025/09/18/workstation-sandbox-blues/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-09-17 thecodist</small>  
-<small>[Why Is Xcode So Antagonistic To Reduced Vision?](https://thecodist.com/why-is-xcode-so-antagonistic-to-reduced-vision/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-16 andrewlock</small>  
-<small>[Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8](https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-16 microservices</small>  
-<small>[Authentication and authorization in a microservice architecture - Part 4 - fetching and replicating authorization data](http://microservices.io//post/architecture/2025/09/16/microservices-authn-authz-part-4-authorization-using-fetch-and-replicate.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-09-15 steven-giesel</small>  
-<small>[LinkedIn Benchmarks again](https://steven-giesel.com/blogPost/06cb9eb9-927e-4bc6-a68a-1471288b9609)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-15 microservices</small>  
-<small>[Microservices rules #4: Provide a great developer experience](http://microservices.io//post/architecture/2025/09/15/premium-microservices-rules-4-provide-a-great-developer-experience.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-15 paulhammant</small>  
-<small>[Starting RexxJS](https://paulhammant.com/2025/09/15/starting-rexxjs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-10 microservices</small>  
-<small>[Claude Code: Allow Bash(git commit:\*) considered harmful](http://microservices.io//post/genaidevelopment/2025/09/10/allow-git-commit-considered-harmful.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-09 andrewlock</small>  
-<small>[Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7](https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-09-08 steven-giesel</small>  
-<small>[ToDictionaryAsync retrieves the whole object from the database in Entity Framework](https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-02 andrewlock</small>  
-<small>[Using and authoring .NET tools](https://andrewlock.net/using-and-authoring-dotnet-tools/)</small>
 
