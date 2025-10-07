@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Deploy Safety: Reducing customer impact from change",
+    "link": "https://slack.engineering/deploy-safety/",
+    "pubDate": "Tue, 07 Oct 2025 16:33:12 +0000"
+  },
+  {
+    "title": "Building Slack’s Anomaly Event Response",
+    "link": "https://slack.engineering/building-slacks-anomaly-event-response/",
+    "pubDate": "Thu, 04 Sep 2025 10:00:02 +0000"
+  },
+  {
+    "title": "Optimizing Our E2E Pipeline",
+    "link": "https://slack.engineering/speedup-e2e-testing/",
+    "pubDate": "Mon, 14 Apr 2025 09:00:30 +0000"
+  },
+  {
+    "title": "How we built enterprise search to be secure and private",
+    "link": "https://slack.engineering/how-we-built-enterprise-search-to-be-secure-and-private/",
+    "pubDate": "Fri, 07 Mar 2025 01:14:37 +0000"
+  },
+  {
+    "title": "Automated Accessibility Testing at Slack",
+    "link": "https://slack.engineering/automated-accessibility-testing-at-slack/",
+    "pubDate": "Tue, 07 Jan 2025 20:46:20 +0000"
+  }
+]
