@@ -15,7 +15,7 @@ jobs:
       - name: Checkout main
         uses: actions/checkout@v4
         with:
-          ref: master
+          ref: master_dev-news-update
           fetch-depth: 0
 
       - name: Fetch dev-news branch
