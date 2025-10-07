@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
+<small>[Quoting Thomas Klausner](https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
+<small>[Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-07 bartwullems</small>  
 <small>[Securing File Uploads Part 3: File Signature Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html)</small>
 
@@ -16,14 +22,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[gpt-image-1-mini](https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[GPT-5 pro](https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
 <small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[OpenAI DevDay 2025 live blog](https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-06 visualstudio</small>  
 <small>[Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/)</small>

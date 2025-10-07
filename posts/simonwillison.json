@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Thomas Klausner",
+    "link": "https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything",
+    "pubDate": "2025-10-07T16:03:12+00:00"
+  },
+  {
+    "title": "Vibe engineering",
+    "link": "https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything",
+    "pubDate": "2025-10-07T14:32:25+00:00"
+  },
+  {
     "title": "Deloitte to pay money back to Albanese government after using AI in $440,000 report",
     "link": "https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything",
     "pubDate": "2025-10-06T23:35:53+00:00"
@@ -13,15 +23,5 @@
     "title": "gpt-image-1-mini",
     "link": "https://simonwillison.net/2025/Oct/6/gpt-image-1-mini/#atom-everything",
     "pubDate": "2025-10-06T22:54:32+00:00"
-  },
-  {
-    "title": "GPT-5 pro",
-    "link": "https://simonwillison.net/2025/Oct/6/gpt-5-pro/#atom-everything",
-    "pubDate": "2025-10-06T19:48:45+00:00"
-  },
-  {
-    "title": "OpenAI DevDay 2025 live blog",
-    "link": "https://simonwillison.net/2025/Oct/6/openai-devday-live-blog/#atom-everything",
-    "pubDate": "2025-10-06T17:03:15+00:00"
   }
 ]
