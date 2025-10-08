@@ -15,7 +15,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -53,5 +53,5 @@ jobs:
           if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
           git commit -m "Update posts"
-          git push
+          #git push
         shell: bash
