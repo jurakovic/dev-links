@@ -54,4 +54,4 @@ jobs:
 
           git commit -m "Update posts"
           #git push
-        shell: bash
+        shell: bash {0}
