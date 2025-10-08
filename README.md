@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
+<small>[Python 3.14 Is Here. How Fast Is It?](https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
+<small>[Quoting Simon Højberg](https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
+<small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
+<small>[Why NetNewsWire Is Not a Web App](https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-08 visualstudiomagazine</small>  
 <small>[Microsoft Drops New Visual Studio 2026 Insiders Build](https://visualstudiomagazine.com/Articles/2025/10/08/Microsoft-Drops-New-Visual-Studio-2026-Insiders-Build.aspx)</small>
 
@@ -25,20 +37,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-07 slack</small>  
 <small>[Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
-<small>[Quoting Thomas Klausner](https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
-<small>[Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-07 stackoverflow</small>  
 <small>[Context is king for secure, AI-generated code](https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-07 bartwullems</small>  
 <small>[Securing File Uploads Part 3: File Signature Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
 <small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>
@@ -132,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
 <small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-24 dotnet</small>  
-<small>[Exploring Text-to-Image capabilities in .NET](https://devblogs.microsoft.com/dotnet/explore-text-to-image-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>

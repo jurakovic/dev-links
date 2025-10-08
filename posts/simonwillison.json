@@ -1,5 +1,20 @@
 [
   {
+    "title": "Python 3.14 Is Here. How Fast Is It?",
+    "link": "https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything",
+    "pubDate": "2025-10-08T18:36:33+00:00"
+  },
+  {
+    "title": "Quoting Simon Højberg",
+    "link": "https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything",
+    "pubDate": "2025-10-08T18:08:32+00:00"
+  },
+  {
+    "title": "Why NetNewsWire Is Not a Web App",
+    "link": "https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything",
+    "pubDate": "2025-10-08T16:12:14+00:00"
+  },
+  {
     "title": "Python 3.14",
     "link": "https://simonwillison.net/2025/Oct/8/python-314/#atom-everything",
     "pubDate": "2025-10-08T04:10:06+00:00"
@@ -8,20 +23,5 @@
     "title": "Retraction",
     "link": "https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything",
     "pubDate": "2025-10-07T22:00:28+00:00"
-  },
-  {
-    "title": "Quoting Thomas Klausner",
-    "link": "https://simonwillison.net/2025/Oct/7/thomas-klausner/#atom-everything",
-    "pubDate": "2025-10-07T16:03:12+00:00"
-  },
-  {
-    "title": "Vibe engineering",
-    "link": "https://simonwillison.net/2025/Oct/7/vibe-engineering/#atom-everything",
-    "pubDate": "2025-10-07T14:32:25+00:00"
-  },
-  {
-    "title": "Deloitte to pay money back to Albanese government after using AI in $440,000 report",
-    "link": "https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything",
-    "pubDate": "2025-10-06T23:35:53+00:00"
   }
 ]
