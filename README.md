@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
+<small>[Python 3.14](https://simonwillison.net/2025/Oct/8/python-314/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
 <small>[Retraction](https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything)</small>
 
@@ -27,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
 <small>[Deloitte to pay money back to Albanese government after using AI in $440,000 report](https://simonwillison.net/2025/Oct/6/deloitte-to-pay-money-back/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-06 simonwillison</small>  
-<small>[a system that can do work independently on behalf of the user](https://simonwillison.net/2025/Oct/6/work-independently/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
 <small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>
