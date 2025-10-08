@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-08 bartwullems</small>  
+<small>[Using Personal Access Tokens(PAT) to clone Azure DevOps Git Repositories](https://bartwullems.blogspot.com/2025/10/using-personal-access-tokenspat-to.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
 <small>[Python 3.14](https://simonwillison.net/2025/Oct/8/python-314/#atom-everything)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 dotnet</small>  
 <small>[Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer](https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-01 bartwullems</small>  
-<small>[Visual Studio 2026–The Copilot Profiler Agent](https://bartwullems.blogspot.com/2025/10/visual-studio-2026the-copilot-profiler.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
