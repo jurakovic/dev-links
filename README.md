@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-08 visualstudiomagazine</small>  
+<small>[Microsoft Drops New Visual Studio 2026 Insiders Build](https://visualstudiomagazine.com/Articles/2025/10/08/Microsoft-Drops-New-Visual-Studio-2026-Insiders-Build.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-08 stackoverflow</small>  
+<small>[A new look for comments](https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-08 bartwullems</small>  
 <small>[Using Personal Access Tokens(PAT) to clone Azure DevOps Git Repositories](https://bartwullems.blogspot.com/2025/10/using-personal-access-tokenspat-to.html)</small>
 
@@ -97,17 +103,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-09-30 stackoverflow</small>  
-<small>[Turning investments into impact: Stack Overflow for Teams 2025.7](https://stackoverflow.blog/2025/09/30/turning-investments-into-impact-stack-overflow-for-teams-2025-7/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-30 visualstudio</small>  
 <small>[Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
 <small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-09-29 visualstudiomagazine</small>  
-<small>[.NET Aspire 9.5 Simplifies AppHost, Expands AI Support](https://visualstudiomagazine.com/Articles/2025/09/29/NET-Aspire-9-5-Simplifies-AppHost-Expands-AI-Support.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-29 netflix</small>  
 <small>[100X Faster: How We Supercharged Netflix Maestro’s Workflow Engine](https://netflixtechblog.com/100x-faster-how-we-supercharged-netflix-maestros-workflow-engine-028e9637f041?source=rss----2615bd06b42e---4)</small>
