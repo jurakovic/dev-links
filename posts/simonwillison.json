@@ -1,5 +1,15 @@
 [
   {
+    "title": "TIL: Testing different Python versions with uv with-editable and uv-test",
+    "link": "https://simonwillison.net/2025/Oct/9/uv-test/#atom-everything",
+    "pubDate": "2025-10-09T03:37:06+00:00"
+  },
+  {
+    "title": "Claude can write complete Datasette plugins now",
+    "link": "https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/#atom-everything",
+    "pubDate": "2025-10-08T23:43:43+00:00"
+  },
+  {
     "title": "Python 3.14 Is Here. How Fast Is It?",
     "link": "https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything",
     "pubDate": "2025-10-08T18:36:33+00:00"
@@ -13,15 +23,5 @@
     "title": "Why NetNewsWire Is Not a Web App",
     "link": "https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything",
     "pubDate": "2025-10-08T16:12:14+00:00"
-  },
-  {
-    "title": "Python 3.14",
-    "link": "https://simonwillison.net/2025/Oct/8/python-314/#atom-everything",
-    "pubDate": "2025-10-08T04:10:06+00:00"
-  },
-  {
-    "title": "Retraction",
-    "link": "https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything",
-    "pubDate": "2025-10-07T22:00:28+00:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-09 simonwillison</small>  
+<small>[TIL: Testing different Python versions with uv with-editable and uv-test](https://simonwillison.net/2025/Oct/9/uv-test/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
+<small>[Claude can write complete Datasette plugins now](https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
 <small>[Python 3.14 Is Here. How Fast Is It?](https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything)</small>
 
@@ -24,12 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-08 bartwullems</small>  
 <small>[Using Personal Access Tokens(PAT) to clone Azure DevOps Git Repositories](https://bartwullems.blogspot.com/2025/10/using-personal-access-tokenspat-to.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
-<small>[Python 3.14](https://simonwillison.net/2025/Oct/8/python-314/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-07 simonwillison</small>  
-<small>[Retraction](https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-07 dotnet</small>  
 <small>[Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/)</small>
