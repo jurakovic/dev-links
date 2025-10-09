@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Gergely Orosz",
+    "link": "https://simonwillison.net/2025/Oct/9/gergely-orosz/#atom-everything",
+    "pubDate": "2025-10-09T13:56:12+00:00"
+  },
+  {
     "title": "TIL: Testing different Python versions with uv with-editable and uv-test",
     "link": "https://simonwillison.net/2025/Oct/9/uv-test/#atom-everything",
     "pubDate": "2025-10-09T03:37:06+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Simon Højberg",
     "link": "https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything",
     "pubDate": "2025-10-08T18:08:32+00:00"
-  },
-  {
-    "title": "Why NetNewsWire Is Not a Web App",
-    "link": "https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything",
-    "pubDate": "2025-10-08T16:12:14+00:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-09 stackoverflow</small>  
+<small>[Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-09 simonwillison</small>  
+<small>[Quoting Gergely Orosz](https://simonwillison.net/2025/Oct/9/gergely-orosz/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-09 bartwullems</small>  
 <small>[Securing File Uploads Part 4: Malware Scanning with Windows AMSI](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-4-malware.html)</small>
 
@@ -21,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
 <small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-08 simonwillison</small>  
-<small>[Why NetNewsWire Is Not a Web App](https://simonwillison.net/2025/Oct/8/why-netnewswire-is-not-a-web-app/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-08 visualstudiomagazine</small>  
 <small>[Microsoft Drops New Visual Studio 2026 Insiders Build](https://visualstudiomagazine.com/Articles/2025/10/08/Microsoft-Drops-New-Visual-Studio-2026-Insiders-Build.aspx)</small>
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-02 microservices</small>  
 <small>[A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies](http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-02 stackoverflow</small>  
-<small>[Building AI-ready teams: Why documentation and culture matter more than tools](https://stackoverflow.blog/2025/10/02/building-ai-ready-teams-why-documentation-and-culture-matter-more-than-tools/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
 <small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
