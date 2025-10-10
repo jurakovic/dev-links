@@ -1,5 +1,10 @@
 [
   {
+    "title": "Vite is like the United Nations of JavaScript",
+    "link": "https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/",
+    "pubDate": "Fri, 10 Oct 2025 07:40:00 GMT"
+  },
+  {
     "title": "Who watches the watchers? LLM on LLM evaluations",
     "link": "https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/",
     "pubDate": "Thu, 09 Oct 2025 14:00:40 GMT"
@@ -18,10 +23,5 @@
     "title": "Beyond code generation: How AI is changing tech teams' dynamics",
     "link": "https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/",
     "pubDate": "Mon, 06 Oct 2025 07:40:00 GMT"
-  },
-  {
-    "title": "One is not the loneliest number for API calls",
-    "link": "https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/",
-    "pubDate": "Fri, 03 Oct 2025 07:40:00 GMT"
   }
 ]

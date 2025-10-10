@@ -1,5 +1,10 @@
 [
   {
+    "title": "Understanding AsNoTrackingWithIdentityResolution in Entity Framework Core",
+    "link": "https://bartwullems.blogspot.com/2025/10/understanding-asnotrackingwithidentityr.html",
+    "pubDate": "2025-10-10T07:18:00.005+02:00"
+  },
+  {
     "title": "Securing File Uploads Part 4: Malware Scanning with Windows AMSI",
     "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-4-malware.html",
     "pubDate": "2025-10-09T06:37:00.006+02:00"
@@ -18,10 +23,5 @@
     "title": "Securing File Uploads Part 2: File Size Validation",
     "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html",
     "pubDate": "2025-10-06T06:45:00.009+02:00"
-  },
-  {
-    "title": "Securing File Uploads: Content Type Validation–A defense against malicious files",
-    "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html",
-    "pubDate": "2025-10-03T07:10:00.015+02:00"
   }
 ]

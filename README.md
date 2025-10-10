@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
+<small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-10 bartwullems</small>  
+<small>[Understanding AsNoTrackingWithIdentityResolution in Entity Framework Core](https://bartwullems.blogspot.com/2025/10/understanding-asnotrackingwithidentityr.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-09 stackoverflow</small>  
 <small>[Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/)</small>
 
@@ -72,12 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-03 stackoverflow</small>  
-<small>[One is not the loneliest number for API calls](https://stackoverflow.blog/2025/10/03/one-is-not-the-loneliest-number-for-api-calls/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-03 bartwullems</small>  
-<small>[Securing File Uploads: Content Type Validation–A defense against malicious files](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-content-type.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-02 visualstudiomagazine</small>  
 <small>[Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando](https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx)</small>
