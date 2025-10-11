@@ -1,27 +1,27 @@
 [
   {
-    "title": "Quoting Gergely Orosz",
-    "link": "https://simonwillison.net/2025/Oct/9/gergely-orosz/#atom-everything",
-    "pubDate": "2025-10-09T13:56:12+00:00"
+    "title": "An MVCC-like columnar table on S3 with constant-time deletes",
+    "link": "https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything",
+    "pubDate": "2025-10-11T03:47:16+00:00"
   },
   {
-    "title": "TIL: Testing different Python versions with uv with-editable and uv-test",
-    "link": "https://simonwillison.net/2025/Oct/9/uv-test/#atom-everything",
-    "pubDate": "2025-10-09T03:37:06+00:00"
+    "title": "simonw/claude-skills",
+    "link": "https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything",
+    "pubDate": "2025-10-10T23:57:19+00:00"
   },
   {
-    "title": "Claude can write complete Datasette plugins now",
-    "link": "https://simonwillison.net/2025/Oct/8/claude-datasette-plugins/#atom-everything",
-    "pubDate": "2025-10-08T23:43:43+00:00"
+    "title": "Superpowers: How I'm using coding agents in October 2025",
+    "link": "https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything",
+    "pubDate": "2025-10-10T23:30:14+00:00"
   },
   {
-    "title": "Python 3.14 Is Here. How Fast Is It?",
-    "link": "https://simonwillison.net/2025/Oct/8/python-314-is-here-how-fast-is-it/#atom-everything",
-    "pubDate": "2025-10-08T18:36:33+00:00"
+    "title": "A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises",
+    "link": "https://simonwillison.net/2025/Oct/10/a-retrospective-survey/#atom-everything",
+    "pubDate": "2025-10-10T23:00:52+00:00"
   },
   {
-    "title": "Quoting Simon Højberg",
-    "link": "https://simonwillison.net/2025/Oct/8/simon-hojberg/#atom-everything",
-    "pubDate": "2025-10-08T18:08:32+00:00"
+    "title": "Video of GPT-OSS 20B running on a phone",
+    "link": "https://simonwillison.net/2025/Oct/10/gpt-oss-20b-snapdragon/#atom-everything",
+    "pubDate": "2025-10-10T22:37:21+00:00"
   }
 ]
