@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude Code sub-agents",
+    "link": "https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything",
+    "pubDate": "2025-10-11T21:29:39+00:00"
+  },
+  {
+    "title": "Vibing a Non-Trivial Ghostty Feature",
+    "link": "https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything",
+    "pubDate": "2025-10-11T16:33:59+00:00"
+  },
+  {
     "title": "Note on 11th October 2025",
     "link": "https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything",
     "pubDate": "2025-10-11T12:31:09+00:00"
@@ -13,15 +23,5 @@
     "title": "simonw/claude-skills",
     "link": "https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything",
     "pubDate": "2025-10-10T23:57:19+00:00"
-  },
-  {
-    "title": "Superpowers: How I'm using coding agents in October 2025",
-    "link": "https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything",
-    "pubDate": "2025-10-10T23:30:14+00:00"
-  },
-  {
-    "title": "A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises",
-    "link": "https://simonwillison.net/2025/Oct/10/a-retrospective-survey/#atom-everything",
-    "pubDate": "2025-10-10T23:00:52+00:00"
   }
 ]

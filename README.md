@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
+<small>[Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
+<small>[Vibing a Non-Trivial Ghostty Feature](https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
 <small>[Note on 11th October 2025](https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
@@ -12,12 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-10 simonwillison</small>  
 <small>[simonw/claude-skills](https://simonwillison.net/2025/Oct/10/claude-skills/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-10 simonwillison</small>  
-<small>[Superpowers: How I'm using coding agents in October 2025](https://simonwillison.net/2025/Oct/10/superpowers/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-10 simonwillison</small>  
-<small>[A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://simonwillison.net/2025/Oct/10/a-retrospective-survey/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
 <small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
