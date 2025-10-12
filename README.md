@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-12 paulhammant</small>  
+<small>[Modern CV Technology: JSON Resume embedded in HTML](https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
 <small>[Claude Code sub-agents](https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-09-18 minidump</small>  
 <small>[Measuring UI responsiveness in Resharper](https://minidump.net/measuring-ui-responsiveness/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-18 paulhammant</small>  
-<small>[Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code](https://paulhammant.com/2025/09/18/workstation-sandbox-blues/)</small>
 

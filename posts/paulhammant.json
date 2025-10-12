@@ -1,5 +1,10 @@
 [
   {
+    "title": "Modern CV Technology: JSON Resume embedded in HTML",
+    "link": "https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/",
+    "pubDate": "2025-10-12T00:00:00+00:00"
+  },
+  {
     "title": "Building a Secure Container Sandbox on ChromeOS for Testing Untrusted Code",
     "link": "https://paulhammant.com/2025/09/18/workstation-sandbox-blues/",
     "pubDate": "2025-09-18T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "NightWatch Component Testing and visual documentation",
     "link": "https://paulhammant.com/2025/06/25/nightwatch-component-testing/",
     "pubDate": "2025-06-25T00:00:00+00:00"
-  },
-  {
-    "title": "Selenium Component Testing and visual documentation",
-    "link": "https://paulhammant.com/2025/06/22/selenium-component-testing/",
-    "pubDate": "2025-06-22T00:00:00+00:00"
   }
 ]
