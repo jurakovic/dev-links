@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-13 bartwullems</small>  
+<small>[GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions](https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-12 simonwillison</small>  
 <small>[Quoting Slashdot](https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything)</small>
 
@@ -75,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
 <small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-06 bartwullems</small>  
-<small>[Securing File Uploads Part 2: File Size Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions",
+    "link": "https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html",
+    "pubDate": "2025-10-13T07:27:00.005+02:00"
+  },
+  {
     "title": "Understanding AsNoTrackingWithIdentityResolution in Entity Framework Core",
     "link": "https://bartwullems.blogspot.com/2025/10/understanding-asnotrackingwithidentityr.html",
     "pubDate": "2025-10-10T07:18:00.005+02:00"
@@ -18,10 +23,5 @@
     "title": "Securing File Uploads Part 3: File Signature Validation",
     "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html",
     "pubDate": "2025-10-07T06:32:00.003+02:00"
-  },
-  {
-    "title": "Securing File Uploads Part 2: File Size Validation",
-    "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-2-file-size.html",
-    "pubDate": "2025-10-06T06:45:00.009+02:00"
   }
 ]
