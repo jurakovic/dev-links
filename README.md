@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-13 microservices</small>  
+<small>[Healthy Software at Scale: Blueprints for Adaptable Architecture](http://microservices.io//post/architecture/2025/10/13/healthy-software-at-scale-blueprints-for-adaptable-architecture.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-13 bartwullems</small>  
 <small>[GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions](https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-19 netflix</small>  
 <small>[Empowering Netflix Engineers with Incident Management](https://netflixtechblog.com/empowering-netflix-engineers-with-incident-management-ebb967871de4?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-09-18 minidump</small>  
-<small>[Measuring UI responsiveness in Resharper](https://minidump.net/measuring-ui-responsiveness/)</small>
 
