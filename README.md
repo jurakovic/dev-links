@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-13 simonwillison</small>  
+<small>[nanochat](https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-13 visualstudiomagazine</small>  
+<small>[Bevy of AI Chat Improvements in New VS Code Release](https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-13 microservices</small>  
 <small>[Healthy Software at Scale: Blueprints for Adaptable Architecture](http://microservices.io//post/architecture/2025/10/13/healthy-software-at-scale-blueprints-for-adaptable-architecture.html)</small>
 
@@ -24,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
 <small>[Note on 11th October 2025](https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
-<small>[An MVCC-like columnar table on S3 with constant-time deletes](https://simonwillison.net/2025/Oct/11/mvcc-s3/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
 <small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
 <small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-01 visualstudiomagazine</small>  
-<small>[Semantic Kernel + AutoGen = Open-Source 'Microsoft Agent Framework'](https://visualstudiomagazine.com/Articles/2025/10/01/Semantic-Kernel-AutoGen--Open-Source-Microsoft-Agent-Framework.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-01 visualstudio</small>  
 <small>[The $150 Secret Hiding in Plain Sight](https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/)</small>
