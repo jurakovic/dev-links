@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI agents for your digital chores",
+    "link": "https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/",
+    "pubDate": "Tue, 14 Oct 2025 07:40:00 GMT"
+  },
+  {
     "title": "Vite is like the United Nations of JavaScript",
     "link": "https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/",
     "pubDate": "Fri, 10 Oct 2025 07:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Context is king for secure, AI-generated code",
     "link": "https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/",
     "pubDate": "Tue, 07 Oct 2025 07:40:00 GMT"
-  },
-  {
-    "title": "Beyond code generation: How AI is changing tech teams' dynamics",
-    "link": "https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/",
-    "pubDate": "Mon, 06 Oct 2025 07:40:00 GMT"
   }
 ]

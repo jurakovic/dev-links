@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-14 stackoverflow</small>  
+<small>[AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-13 simonwillison</small>  
 <small>[nanochat](https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything)</small>
 
@@ -78,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-06 microservices</small>  
 <small>[Getting started with Oso Cloud](http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-06 stackoverflow</small>  
-<small>[Beyond code generation: How AI is changing tech teams' dynamics](https://stackoverflow.blog/2025/10/06/beyond-code-generation-how-ai-is-changing-tech-teams-dynamics/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
 <small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
