@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-14 simonwillison</small>  
+<small>[Just Talk To It - the no-bs Way of Agentic Engineering](https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
+<small>[Announcing the .NET Security Group](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-14 visualstudiomagazine</small>  
+<small>[AWS Updates .NET Deploy Tool to Version 2.0 with .NET 8 and Podman Support](https://visualstudiomagazine.com/Articles/2025/10/14/AWS-Updates-NET-Deploy-Tool-to-Version-2-0-with-NET-8-and-Podman-Support.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-14 stackoverflow</small>  
 <small>[AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/)</small>
 
@@ -30,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
 <small>[Vibing a Non-Trivial Ghostty Feature](https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-11 simonwillison</small>  
-<small>[Note on 11th October 2025](https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
 <small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
@@ -91,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-02 visualstudiomagazine</small>  
 <small>[Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando](https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-02 visualstudiomagazine</small>  
-<small>['Native' TypeScript 7 Previews in Visual Studio 2026 Insiders](https://visualstudiomagazine.com/Articles/2025/10/02/Native-TypeScript-7-Previews-in-Visual-Studio-2026-Insiders.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-02 visualstudio</small>  
 <small>[VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/)</small>
 
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-26 dotnet</small>  
 <small>[Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement](https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-25 dotnet</small>  
-<small>[Announcing Aspire 9.5](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-95/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
 <small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>

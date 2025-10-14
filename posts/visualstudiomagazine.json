@@ -1,5 +1,10 @@
 [
   {
+    "title": "AWS Updates .NET Deploy Tool to Version 2.0 with .NET 8 and Podman Support",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/14/AWS-Updates-NET-Deploy-Tool-to-Version-2-0-with-NET-8-and-Podman-Support.aspx",
+    "pubDate": "Tue, 14 Oct 2025 16:10:00 GMT"
+  },
+  {
     "title": "Bevy of AI Chat Improvements in New VS Code Release",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx",
     "pubDate": "Mon, 13 Oct 2025 19:15:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx",
     "pubDate": "Thu, 02 Oct 2025 20:18:00 GMT"
-  },
-  {
-    "title": "'Native' TypeScript 7 Previews in Visual Studio 2026 Insiders",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/02/Native-TypeScript-7-Previews-in-Visual-Studio-2026-Insiders.aspx",
-    "pubDate": "Thu, 02 Oct 2025 16:50:00 GMT"
   }
 ]

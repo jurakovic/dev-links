@@ -1,5 +1,10 @@
 [
   {
+    "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
+    "link": "https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything",
+    "pubDate": "2025-10-14T21:26:40+00:00"
+  },
+  {
     "title": "nanochat",
     "link": "https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything",
     "pubDate": "2025-10-13T20:29:58+00:00"
@@ -18,10 +23,5 @@
     "title": "Vibing a Non-Trivial Ghostty Feature",
     "link": "https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything",
     "pubDate": "2025-10-11T16:33:59+00:00"
-  },
-  {
-    "title": "Note on 11th October 2025",
-    "link": "https://simonwillison.net/2025/Oct/11/uncomfortable/#atom-everything",
-    "pubDate": "2025-10-11T12:31:09+00:00"
   }
 ]
