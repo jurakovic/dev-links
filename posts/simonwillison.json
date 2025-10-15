@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Catherine Wu",
+    "link": "https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything",
+    "pubDate": "2025-10-15T20:34:09+00:00"
+  },
+  {
+    "title": "Introducing Claude Haiku 4.5",
+    "link": "https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything",
+    "pubDate": "2025-10-15T19:36:34+00:00"
+  },
+  {
+    "title": "Quoting Claude Haiku 4.5 System Card",
+    "link": "https://simonwillison.net/2025/Oct/15/system-card/#atom-everything",
+    "pubDate": "2025-10-15T19:17:36+00:00"
+  },
+  {
     "title": "A modern approach to preventing CSRF in Go",
     "link": "https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything",
     "pubDate": "2025-10-15T05:03:46+00:00"
@@ -8,20 +23,5 @@
     "title": "NVIDIA DGX Spark: great hardware, early days for the ecosystem",
     "link": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything",
     "pubDate": "2025-10-14T23:36:21+00:00"
-  },
-  {
-    "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
-    "link": "https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything",
-    "pubDate": "2025-10-14T21:26:40+00:00"
-  },
-  {
-    "title": "nanochat",
-    "link": "https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything",
-    "pubDate": "2025-10-13T20:29:58+00:00"
-  },
-  {
-    "title": "Quoting Slashdot",
-    "link": "https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything",
-    "pubDate": "2025-10-12T16:18:05+00:00"
   }
 ]

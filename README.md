@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
+<small>[Quoting Catherine Wu](https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
+<small>[Introducing Claude Haiku 4.5](https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
+<small>[Quoting Claude Haiku 4.5 System Card](https://simonwillison.net/2025/Oct/15/system-card/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
+<small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-15 stackoverflow</small>  
 <small>[Secure coding in JavaScript](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/)</small>
 
@@ -22,9 +34,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[Announcing .NET 10 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-14 simonwillison</small>  
-<small>[Just Talk To It - the no-bs Way of Agentic Engineering](https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[Announcing the .NET Security Group](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/)</small>
 
@@ -34,9 +43,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-14 stackoverflow</small>  
 <small>[AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-13 simonwillison</small>  
-<small>[nanochat](https://simonwillison.net/2025/Oct/13/nanochat/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-13 visualstudiomagazine</small>  
 <small>[Bevy of AI Chat Improvements in New VS Code Release](https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx)</small>
 
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-13 bartwullems</small>  
 <small>[GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions](https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-12 simonwillison</small>  
-<small>[Quoting Slashdot](https://simonwillison.net/2025/Oct/12/slashdot/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-12 paulhammant</small>  
 <small>[Modern CV Technology: JSON Resume embedded in HTML](https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/)</small>
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-02 visualstudiomagazine</small>  
-<small>[Microsoft to Detail Visual Studio 2026 at Visual Studio Live! in Orlando](https://visualstudiomagazine.com/Articles/2025/10/02/Microsoft-to-Detail-Visual-Studio-2026-Insiders-at-Visual-Studio-Live-in-Orlando.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-02 visualstudio</small>  
 <small>[VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/)</small>
