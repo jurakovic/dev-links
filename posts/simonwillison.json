@@ -1,5 +1,10 @@
 [
   {
+    "title": "NVIDIA DGX Spark: great hardware, early days for the ecosystem",
+    "link": "https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything",
+    "pubDate": "2025-10-14T23:36:21+00:00"
+  },
+  {
     "title": "Just Talk To It - the no-bs Way of Agentic Engineering",
     "link": "https://simonwillison.net/2025/Oct/14/agentic-engineering/#atom-everything",
     "pubDate": "2025-10-14T21:26:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude Code sub-agents",
     "link": "https://simonwillison.net/2025/Oct/11/sub-agents/#atom-everything",
     "pubDate": "2025-10-11T21:29:39+00:00"
-  },
-  {
-    "title": "Vibing a Non-Trivial Ghostty Feature",
-    "link": "https://simonwillison.net/2025/Oct/11/vibing-a-non-trivial-ghostty-feature/#atom-everything",
-    "pubDate": "2025-10-11T16:33:59+00:00"
   }
 ]

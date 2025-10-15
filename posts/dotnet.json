@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET and .NET Framework October 2025 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/",
+    "pubDate": "Tue, 14 Oct 2025 22:50:29 +0000"
+  },
+  {
+    "title": "Announcing .NET 10 Release Candidate 2",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/",
+    "pubDate": "Tue, 14 Oct 2025 22:15:00 +0000"
+  },
+  {
     "title": "Announcing the .NET Security Group",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/",
     "pubDate": "Tue, 14 Oct 2025 17:05:00 +0000"
@@ -13,15 +23,5 @@
     "title": "Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET",
     "link": "https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/",
     "pubDate": "Tue, 07 Oct 2025 17:05:00 +0000"
-  },
-  {
-    "title": "Introducing Microsoft Agent Framework (Preview): Making AI Agents Simple for Every Developer",
-    "link": "https://devblogs.microsoft.com/dotnet/introducing-microsoft-agent-framework-preview/",
-    "pubDate": "Wed, 01 Oct 2025 14:05:00 +0000"
-  },
-  {
-    "title": "Preparing Your .NET MAUI Apps for Google Play’s 16 KB Page Size Requirement",
-    "link": "https://devblogs.microsoft.com/dotnet/maui-google-play-16-kb-page-size-support/",
-    "pubDate": "Fri, 26 Sep 2025 17:05:00 +0000"
   }
 ]
