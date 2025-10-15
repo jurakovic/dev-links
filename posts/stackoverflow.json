@@ -1,5 +1,10 @@
 [
   {
+    "title": "Secure coding in JavaScript",
+    "link": "https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/",
+    "pubDate": "Wed, 15 Oct 2025 14:00:14 GMT"
+  },
+  {
     "title": "AI agents for your digital chores",
     "link": "https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/",
     "pubDate": "Tue, 14 Oct 2025 07:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "A new look for comments",
     "link": "https://stackoverflow.blog/2025/10/08/a-new-look-for-comments/",
     "pubDate": "Wed, 08 Oct 2025 14:00:00 GMT"
-  },
-  {
-    "title": "Context is king for secure, AI-generated code",
-    "link": "https://stackoverflow.blog/2025/10/07/context-is-king-for-secure-ai-generated-code/",
-    "pubDate": "Tue, 07 Oct 2025 07:40:00 GMT"
   }
 ]
