@@ -1,5 +1,10 @@
 [
   {
+    "title": "Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx",
+    "pubDate": "Thu, 16 Oct 2025 09:00:00 GMT"
+  },
+  {
     "title": ".NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx",
     "pubDate": "Wed, 15 Oct 2025 16:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Microsoft Drops New Visual Studio 2026 Insiders Build",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/08/Microsoft-Drops-New-Visual-Studio-2026-Insiders-Build.aspx",
     "pubDate": "Wed, 08 Oct 2025 15:59:00 GMT"
-  },
-  {
-    "title": "Native Remote AI Agents Coming Soon to Visual Studio",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/06/Native-Remote-AI-Agents-Coming-Soon-to-Visual-Studio.aspx",
-    "pubDate": "Mon, 06 Oct 2025 09:00:00 GMT"
   }
 ]

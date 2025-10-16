@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
+<small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
 <small>[NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything)</small>
 
@@ -93,9 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-06 visualstudio</small>  
 <small>[Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-06 visualstudiomagazine</small>  
-<small>[Native Remote AI Agents Coming Soon to Visual Studio](https://visualstudiomagazine.com/Articles/2025/10/06/Native-Remote-AI-Agents-Coming-Soon-to-Visual-Studio.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-06 microservices</small>  
 <small>[Getting started with Oso Cloud](http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html)</small>
