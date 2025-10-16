@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
+<small>[Coding without typing the code](https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
 <small>[Quoting Catherine Wu](https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything)</small>
 
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
 <small>[A modern approach to preventing CSRF in Go](https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-14 simonwillison</small>  
-<small>[NVIDIA DGX Spark: great hardware, early days for the ecosystem](https://simonwillison.net/2025/Oct/14/nvidia-dgx-spark/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/)</small>
