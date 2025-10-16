@@ -1,5 +1,10 @@
 [
   {
+    "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
+    "link": "https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything",
+    "pubDate": "2025-10-16T21:25:18+00:00"
+  },
+  {
     "title": "NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
     "link": "https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything",
     "pubDate": "2025-10-16T05:34:41+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Catherine Wu",
     "link": "https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything",
     "pubDate": "2025-10-15T20:34:09+00:00"
-  },
-  {
-    "title": "Introducing Claude Haiku 4.5",
-    "link": "https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything",
-    "pubDate": "2025-10-15T19:36:34+00:00"
   }
 ]
