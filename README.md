@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
+<small>[NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0](https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
+<small>[Quoting Riana Pfefferkorn](https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
 <small>[Coding without typing the code](https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
@@ -12,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
 <small>[Introducing Claude Haiku 4.5](https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
-<small>[Quoting Claude Haiku 4.5 System Card](https://simonwillison.net/2025/Oct/15/system-card/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
 <small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
-<small>[A modern approach to preventing CSRF in Go](https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/)</small>

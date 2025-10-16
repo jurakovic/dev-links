@@ -1,5 +1,15 @@
 [
   {
+    "title": "NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
+    "link": "https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything",
+    "pubDate": "2025-10-16T05:34:41+00:00"
+  },
+  {
+    "title": "Quoting Riana Pfefferkorn",
+    "link": "https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything",
+    "pubDate": "2025-10-16T04:16:45+00:00"
+  },
+  {
     "title": "Coding without typing the code",
     "link": "https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything",
     "pubDate": "2025-10-16T03:58:31+00:00"
@@ -13,15 +23,5 @@
     "title": "Introducing Claude Haiku 4.5",
     "link": "https://simonwillison.net/2025/Oct/15/claude-haiku-45/#atom-everything",
     "pubDate": "2025-10-15T19:36:34+00:00"
-  },
-  {
-    "title": "Quoting Claude Haiku 4.5 System Card",
-    "link": "https://simonwillison.net/2025/Oct/15/system-card/#atom-everything",
-    "pubDate": "2025-10-15T19:17:36+00:00"
-  },
-  {
-    "title": "A modern approach to preventing CSRF in Go",
-    "link": "https://simonwillison.net/2025/Oct/15/csrf-in-go/#atom-everything",
-    "pubDate": "2025-10-15T05:03:46+00:00"
   }
 ]
