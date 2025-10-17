@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
+<small>[Quoting Barry Zhang](https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
 <small>[Claude Skills are awesome, maybe a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
@@ -18,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
 <small>[Coding without typing the code](https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-15 simonwillison</small>  
-<small>[Quoting Catherine Wu](https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
 <small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>

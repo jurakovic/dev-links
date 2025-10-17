@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Barry Zhang",
+    "link": "https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything",
+    "pubDate": "2025-10-16T22:38:12+00:00"
+  },
+  {
     "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
     "link": "https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything",
     "pubDate": "2025-10-16T21:25:18+00:00"
@@ -18,10 +23,5 @@
     "title": "Coding without typing the code",
     "link": "https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything",
     "pubDate": "2025-10-16T03:58:31+00:00"
-  },
-  {
-    "title": "Quoting Catherine Wu",
-    "link": "https://simonwillison.net/2025/Oct/15/catherine-wu/#atom-everything",
-    "pubDate": "2025-10-15T20:34:09+00:00"
   }
 ]
