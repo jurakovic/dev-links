@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Alexander Fridriksson and Jay Miller",
+    "link": "https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything",
+    "pubDate": "2025-10-17T20:59:08+00:00"
+  },
+  {
+    "title": "Should form labels be wrapped or separate?",
+    "link": "https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything",
+    "pubDate": "2025-10-17T18:25:45+00:00"
+  },
+  {
     "title": "Quoting Barry Zhang",
     "link": "https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything",
     "pubDate": "2025-10-16T22:38:12+00:00"
@@ -13,15 +23,5 @@
     "title": "NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
     "link": "https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything",
     "pubDate": "2025-10-16T05:34:41+00:00"
-  },
-  {
-    "title": "Quoting Riana Pfefferkorn",
-    "link": "https://simonwillison.net/2025/Oct/16/riana-pfefferkorn/#atom-everything",
-    "pubDate": "2025-10-16T04:16:45+00:00"
-  },
-  {
-    "title": "Coding without typing the code",
-    "link": "https://simonwillison.net/2025/Oct/16/coding-without-typing-the-code/#atom-everything",
-    "pubDate": "2025-10-16T03:58:31+00:00"
   }
 ]
