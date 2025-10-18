@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-18 simonwillison</small>  
+<small>[TIL: Exploring OpenAI's deep research API model o4-mini-deep-research](https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-18 simonwillison</small>  
 <small>[The AI water issue is fake](https://simonwillison.net/2025/Oct/18/the-ai-water-issue-is-fake/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-18 simonwillison</small>  
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-17 bartwullems</small>  
 <small>[Use request chaining in HTTP files](https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
-<small>[Quoting Barry Zhang](https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
 <small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
