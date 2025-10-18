@@ -19,11 +19,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-17 stackoverflow</small>  
 <small>[Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-17 bartwullems</small>  
+<small>[Use request chaining in HTTP files](https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-16 simonwillison</small>  
 <small>[Quoting Barry Zhang](https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
 <small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-16 bartwullems</small>  
+<small>[Use shared variables in HTTP files](https://bartwullems.blogspot.com/2025/10/use-shared-variables-in-http-files.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
 <small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
@@ -33,6 +39,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-15 bartwullems</small>  
+<small>[Use environment specific variables in HTTP files](https://bartwullems.blogspot.com/2025/10/use-environment-specific-variables-in.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/)</small>
@@ -70,26 +79,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-09 stackoverflow</small>  
 <small>[Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-09 bartwullems</small>  
-<small>[Securing File Uploads Part 4: Malware Scanning with Windows AMSI](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-4-malware.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
 <small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-08 visualstudiomagazine</small>  
 <small>[Microsoft Drops New Visual Studio 2026 Insiders Build](https://visualstudiomagazine.com/Articles/2025/10/08/Microsoft-Drops-New-Visual-Studio-2026-Insiders-Build.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-08 bartwullems</small>  
-<small>[Using Personal Access Tokens(PAT) to clone Azure DevOps Git Repositories](https://bartwullems.blogspot.com/2025/10/using-personal-access-tokenspat-to.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-07 dotnet</small>  
 <small>[Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-07 slack</small>  
 <small>[Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-07 bartwullems</small>  
-<small>[Securing File Uploads Part 3: File Signature Validation](https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
 <small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>

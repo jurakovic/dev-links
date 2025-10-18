@@ -1,5 +1,20 @@
 [
   {
+    "title": "Use request chaining in HTTP files",
+    "link": "https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html",
+    "pubDate": "2025-10-17T06:42:00.001+02:00"
+  },
+  {
+    "title": "Use shared variables in HTTP files",
+    "link": "https://bartwullems.blogspot.com/2025/10/use-shared-variables-in-http-files.html",
+    "pubDate": "2025-10-16T07:29:00.001+02:00"
+  },
+  {
+    "title": "Use environment specific variables in HTTP files",
+    "link": "https://bartwullems.blogspot.com/2025/10/use-environment-specific-variables-in.html",
+    "pubDate": "2025-10-15T07:09:00.003+02:00"
+  },
+  {
     "title": "GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html",
     "pubDate": "2025-10-13T07:27:00.005+02:00"
@@ -8,20 +23,5 @@
     "title": "Understanding AsNoTrackingWithIdentityResolution in Entity Framework Core",
     "link": "https://bartwullems.blogspot.com/2025/10/understanding-asnotrackingwithidentityr.html",
     "pubDate": "2025-10-10T07:18:00.005+02:00"
-  },
-  {
-    "title": "Securing File Uploads Part 4: Malware Scanning with Windows AMSI",
-    "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-4-malware.html",
-    "pubDate": "2025-10-09T06:37:00.006+02:00"
-  },
-  {
-    "title": "Using Personal Access Tokens(PAT) to clone Azure DevOps Git Repositories",
-    "link": "https://bartwullems.blogspot.com/2025/10/using-personal-access-tokenspat-to.html",
-    "pubDate": "2025-10-08T07:14:00.015+02:00"
-  },
-  {
-    "title": "Securing File Uploads Part 3: File Signature Validation",
-    "link": "https://bartwullems.blogspot.com/2025/10/securing-file-uploads-part-3-file.html",
-    "pubDate": "2025-10-07T06:32:00.003+02:00"
   }
 ]
