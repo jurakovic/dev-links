@@ -1,5 +1,15 @@
 [
   {
+    "title": "The AI water issue is fake",
+    "link": "https://simonwillison.net/2025/Oct/18/the-ai-water-issue-is-fake/#atom-everything",
+    "pubDate": "2025-10-18T04:05:57+00:00"
+  },
+  {
+    "title": "Andrej Karpathy — AGI is still a decade away",
+    "link": "https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything",
+    "pubDate": "2025-10-18T03:25:59+00:00"
+  },
+  {
     "title": "Quoting Alexander Fridriksson and Jay Miller",
     "link": "https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything",
     "pubDate": "2025-10-17T20:59:08+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Barry Zhang",
     "link": "https://simonwillison.net/2025/Oct/16/barry-zhang/#atom-everything",
     "pubDate": "2025-10-16T22:38:12+00:00"
-  },
-  {
-    "title": "Claude Skills are awesome, maybe a bigger deal than MCP",
-    "link": "https://simonwillison.net/2025/Oct/16/claude-skills/#atom-everything",
-    "pubDate": "2025-10-16T21:25:18+00:00"
-  },
-  {
-    "title": "NVIDIA DGX Spark + Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0",
-    "link": "https://simonwillison.net/2025/Oct/16/nvidia-dgx-spark-apple-mac-studio/#atom-everything",
-    "pubDate": "2025-10-16T05:34:41+00:00"
   }
 ]
