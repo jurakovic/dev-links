@@ -1,5 +1,10 @@
 [
   {
+    "title": "Using connection colors in SQL Server Management Studio to prevent database disasters",
+    "link": "https://bartwullems.blogspot.com/2025/10/using-connection-colors-in-sql-server.html",
+    "pubDate": "2025-10-20T06:58:00.017+02:00"
+  },
+  {
     "title": "Use request chaining in HTTP files",
     "link": "https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html",
     "pubDate": "2025-10-17T06:42:00.001+02:00"
@@ -15,13 +20,8 @@
     "pubDate": "2025-10-15T07:09:00.003+02:00"
   },
   {
-    "title": "GitHub Copilot's starts supporting AGENTS.md: A step toward unified AI Instructions",
-    "link": "https://bartwullems.blogspot.com/2025/10/github-copilots-starts-supporting.html",
-    "pubDate": "2025-10-13T07:27:00.005+02:00"
-  },
-  {
-    "title": "Understanding AsNoTrackingWithIdentityResolution in Entity Framework Core",
-    "link": "https://bartwullems.blogspot.com/2025/10/understanding-asnotrackingwithidentityr.html",
-    "pubDate": "2025-10-10T07:18:00.005+02:00"
+    "title": "Devoxx 2025 - Outcoded by our kids",
+    "link": "https://bartwullems.blogspot.com/2025/10/devoxx-2025-outcoded-by-our-kids.html",
+    "pubDate": "2025-10-14T06:44:00.001+02:00"
   }
 ]

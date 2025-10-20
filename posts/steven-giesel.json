@@ -1,5 +1,10 @@
 [
   {
+    "title": "Inlining and structs in C#",
+    "link": "https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226",
+    "pubDate": "Mon, 20 Oct 2025 04:55:00 Z"
+  },
+  {
     "title": "Use CancellationTokens",
     "link": "https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e",
     "pubDate": "Mon, 06 Oct 2025 05:15:00 Z"
@@ -18,10 +23,5 @@
     "title": "Divide and Conquer the Database",
     "link": "https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3",
     "pubDate": "Mon, 01 Sep 2025 05:53:00 Z"
-  },
-  {
-    "title": "Quick one: Difference between collection expressions and collection initializer",
-    "link": "https://steven-giesel.com/blogPost/fea0b033-ccf5-4197-b62c-ffd8ca6d79c7",
-    "pubDate": "Mon, 25 Aug 2025 06:01:00 Z"
   }
 ]
