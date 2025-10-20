@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-20 erikej</small>  
+<small>[Get a 180% speed increase on large async reads with Microsoft.Data.SqlClient (and EF Core) - here is how to turn it on!](https://erikej.github.io/sqlclient/dotnet/performance/2025/10/20/sqlclient-performance.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-20 stackoverflow</small>  
+<small>[From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-20 bartwullems</small>  
 <small>[Using connection colors in SQL Server Management Studio to prevent database disasters](https://bartwullems.blogspot.com/2025/10/using-connection-colors-in-sql-server.html)</small>
 
@@ -79,9 +85,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
 <small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-09 stackoverflow</small>  
-<small>[Who watches the watchers? LLM on LLM evaluations](https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
 <small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
 <small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-23 martinfowler</small>  
-<small>[To vibe or not to vibe](https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html)</small>
 

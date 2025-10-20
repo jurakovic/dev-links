@@ -1,5 +1,10 @@
 [
   {
+    "title": "From multilingual semantic search to virtual assistants at Bosch Digital",
+    "link": "https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/",
+    "pubDate": "Mon, 20 Oct 2025 14:00:00 GMT"
+  },
+  {
     "title": "Why rent a cloud when you can build one?",
     "link": "https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/",
     "pubDate": "Fri, 17 Oct 2025 07:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Vite is like the United Nations of JavaScript",
     "link": "https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/",
     "pubDate": "Fri, 10 Oct 2025 07:40:00 GMT"
-  },
-  {
-    "title": "Who watches the watchers? LLM on LLM evaluations",
-    "link": "https://stackoverflow.blog/2025/10/09/who-watches-the-watchers-llm-on-llm-evaluations/",
-    "pubDate": "Thu, 09 Oct 2025 14:00:40 GMT"
   }
 ]
