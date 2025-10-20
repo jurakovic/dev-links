@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-20 simonwillison</small>  
+<small>[Claude Code for web - a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-20 erikej</small>  
 <small>[Get a 180% speed increase on large async reads with Microsoft.Data.SqlClient (and EF Core) - here is how to turn it on!](https://erikej.github.io/sqlclient/dotnet/performance/2025/10/20/sqlclient-performance.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-20 simonwillison</small>  
+<small>[Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code](https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-20 stackoverflow</small>  
 <small>[From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/)</small>
@@ -24,12 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-18 simonwillison</small>  
 <small>[Andrej Karpathy — AGI is still a decade away](https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-17 simonwillison</small>  
-<small>[Quoting Alexander Fridriksson and Jay Miller](https://simonwillison.net/2025/Oct/17/uuid-v7/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-17 simonwillison</small>  
-<small>[Should form labels be wrapped or separate?](https://simonwillison.net/2025/Oct/17/form-labels/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-17 stackoverflow</small>  
 <small>[Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/)</small>
