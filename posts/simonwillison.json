@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Phil Gyford",
+    "link": "https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything",
+    "pubDate": "2025-10-21T02:40:56+00:00"
+  },
+  {
+    "title": "Quoting Bruce Schneier and Barath Raghavan",
+    "link": "https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything",
+    "pubDate": "2025-10-21T02:28:39+00:00"
+  },
+  {
     "title": "Claude Code for web - a new asynchronous coding agent from Anthropic",
     "link": "https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything",
     "pubDate": "2025-10-20T19:43:15+00:00"
@@ -13,15 +23,5 @@
     "title": "TIL: Exploring OpenAI's deep research API model o4-mini-deep-research",
     "link": "https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything",
     "pubDate": "2025-10-18T19:21:30+00:00"
-  },
-  {
-    "title": "The AI water issue is fake",
-    "link": "https://simonwillison.net/2025/Oct/18/the-ai-water-issue-is-fake/#atom-everything",
-    "pubDate": "2025-10-18T04:05:57+00:00"
-  },
-  {
-    "title": "Andrej Karpathy — AGI is still a decade away",
-    "link": "https://simonwillison.net/2025/Oct/18/agi-is-still-a-decade-away/#atom-everything",
-    "pubDate": "2025-10-18T03:25:59+00:00"
   }
 ]
