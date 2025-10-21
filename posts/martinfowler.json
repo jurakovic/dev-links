@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fragments and Links",
+    "link": "https://martinfowler.com/articles/20251021-frags.html",
+    "pubDate": "2025-10-21T11:02:00-04:00"
+  },
+  {
     "title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
     "pubDate": "2025-10-15T08:33:00-04:00"
@@ -18,10 +23,5 @@
     "title": "Some thoughts on LLMs and Software Development",
     "link": "https://martinfowler.com/articles/202508-ai-thoughts.html",
     "pubDate": "2025-08-28T10:10:00-04:00"
-  },
-  {
-    "title": "From Black Box to Blueprint",
-    "link": "https://martinfowler.com/articles/black-box-to-blueprint.html",
-    "pubDate": "2025-08-28T07:24:00-04:00"
   }
 ]

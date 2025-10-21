@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
+<small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-21 visualstudio</small>  
+<small>[Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users](https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-21 stackoverflow</small>  
 <small>[Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/)</small>
 
@@ -15,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
 <small>[Quoting Bruce Schneier and Barath Raghavan](https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-10-21 minidump</small>  
+<small>[Using profiler function hooks in .NET with Silhouette](https://minidump.net/using-function-hooks-with-silhouette/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-20 simonwillison</small>  
 <small>[Claude Code for web - a new asynchronous coding agent from Anthropic](https://simonwillison.net/2025/Oct/20/claude-code-for-web/#atom-everything)</small>
@@ -127,9 +136,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-09-30 visualstudio</small>  
-<small>[Visual Studio September Update – profiler agent, app modernization, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
 <small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-26 netflix</small>  
 <small>[Building a Resilient Data Platform with Write-Ahead Log at Netflix](https://netflixtechblog.com/building-a-resilient-data-platform-with-write-ahead-log-at-netflix-127b6712359a?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-09-25 martinfowler</small>  
-<small>[Anchoring AI to a reference application](https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-23 andrewlock</small>  
-<small>[sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout](https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/)</small>
 
