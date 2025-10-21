@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-21 stackoverflow</small>  
+<small>[Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-21 bartwullems</small>  
+<small>[Securing Your ASP.NET Core App with Authorization Fallback Policy](https://bartwullems.blogspot.com/2025/10/securing-your-aspnet-core-app-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
 <small>[Quoting Phil Gyford](https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything)</small>
 
@@ -70,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-14 stackoverflow</small>  
 <small>[AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-14 bartwullems</small>  
-<small>[Devoxx 2025 - Outcoded by our kids](https://bartwullems.blogspot.com/2025/10/devoxx-2025-outcoded-by-our-kids.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-13 visualstudiomagazine</small>  
 <small>[Bevy of AI Chat Improvements in New VS Code Release](https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx)</small>
 
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-12 paulhammant</small>  
 <small>[Modern CV Technology: JSON Resume embedded in HTML](https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-10 stackoverflow</small>  
-<small>[Vite is like the United Nations of JavaScript](https://stackoverflow.blog/2025/10/10/vite-is-like-the-united-nations-of-javascript/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
 <small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
