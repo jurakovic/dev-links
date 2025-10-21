@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing ChatGPT Atlas",
+    "link": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything",
+    "pubDate": "2025-10-21T18:45:13+00:00"
+  },
+  {
     "title": "Quoting Phil Gyford",
     "link": "https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything",
     "pubDate": "2025-10-21T02:40:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Getting DeepSeek-OCR working on an NVIDIA Spark via brute force using Claude Code",
     "link": "https://simonwillison.net/2025/Oct/20/deepseek-ocr-claude-code/#atom-everything",
     "pubDate": "2025-10-20T17:21:52+00:00"
-  },
-  {
-    "title": "TIL: Exploring OpenAI's deep research API model o4-mini-deep-research",
-    "link": "https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything",
-    "pubDate": "2025-10-18T19:21:30+00:00"
   }
 ]

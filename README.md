@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
+<small>[Introducing ChatGPT Atlas](https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
 <small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-20 steven-giesel</small>  
 <small>[Inlining and structs in C#](https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-18 simonwillison</small>  
-<small>[TIL: Exploring OpenAI's deep research API model o4-mini-deep-research](https://simonwillison.net/2025/Oct/18/o4-mini-deep-research/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-17 stackoverflow</small>  
 <small>[Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/)</small>
