@@ -1,5 +1,10 @@
 [
   {
+    "title": "Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip",
+    "link": "https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html",
+    "pubDate": "2025-10-22T17:28:49+00:00"
+  },
+  {
     "title": "Get a 180% speed increase on large async reads with Microsoft.Data.SqlClient (and EF Core) - here is how to turn it on!",
     "link": "https://erikej.github.io/sqlclient/dotnet/performance/2025/10/20/sqlclient-performance.html",
     "pubDate": "2025-10-20T17:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Publish your .NET MCP Server to NuGet",
     "link": "https://erikej.github.io/mcp/dotnet/nuget/2025/07/30/mcp-dotnet-nuget.html",
     "pubDate": "2025-07-30T17:28:49+00:00"
-  },
-  {
-    "title": "Manage your SQL Server database lifecycle with .NET Aspire and the SQL Database Projects hosting extension",
-    "link": "https://erikej.github.io/sql/dacfx/aspire/2025/05/18/sql-aspire-dacfx.html",
-    "pubDate": "2025-05-18T17:28:49+00:00"
   }
 ]

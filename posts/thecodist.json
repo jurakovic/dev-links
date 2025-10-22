@@ -1,5 +1,10 @@
 [
   {
+    "title": "That Time I Trashed The Company Mainframe, And The Lesson I Learned",
+    "link": "https://thecodist.com/that-time-i-trashed-the-company-mainframe-and-the-lesson-i-learned/",
+    "pubDate": "Wed, 22 Oct 2025 15:00:44 GMT"
+  },
+  {
     "title": "Verizon's I'm A Teapot Error And Other Technology Fails",
     "link": "https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/",
     "pubDate": "Mon, 06 Oct 2025 19:20:32 GMT"
@@ -18,10 +23,5 @@
     "title": "Stress And Programming",
     "link": "https://thecodist.com/stress-and-programming/",
     "pubDate": "Fri, 09 May 2025 18:04:03 GMT"
-  },
-  {
-    "title": "What Is Software Quality?",
-    "link": "https://thecodist.com/what-is-software-quality/",
-    "pubDate": "Mon, 31 Mar 2025 18:07:36 GMT"
   }
 ]

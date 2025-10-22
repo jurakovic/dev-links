@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Planning in Visual Studio (Public Preview)",
+    "link": "https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/",
+    "pubDate": "Wed, 22 Oct 2025 15:54:18 +0000"
+  },
+  {
     "title": "Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users",
     "link": "https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/",
     "pubDate": "Tue, 21 Oct 2025 14:00:36 +0000"
@@ -18,10 +23,5 @@
     "title": "VS Live! Orlando – Your Ultimate Learning Adventure",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/",
     "pubDate": "Thu, 02 Oct 2025 16:00:38 +0000"
-  },
-  {
-    "title": "The $150 Secret Hiding in Plain Sight",
-    "link": "https://devblogs.microsoft.com/visualstudio/unlock-vss-benefits-myvisualstudio/",
-    "pubDate": "Wed, 01 Oct 2025 16:27:11 +0000"
   }
 ]

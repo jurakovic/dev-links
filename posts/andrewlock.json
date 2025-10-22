@@ -1,5 +1,10 @@
 [
   {
+    "title": "Adding metadata to fallback endpoints in ASP.NET Core",
+    "link": "https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/",
+    "pubDate": "Wed, 22 Oct 2025 10:00:00 GMT"
+  },
+  {
     "title": "Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing",
     "link": "https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/",
     "pubDate": "Tue, 30 Sep 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7",
     "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/",
     "pubDate": "Tue, 09 Sep 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Using and authoring .NET tools",
-    "link": "https://andrewlock.net/using-and-authoring-dotnet-tools/",
-    "pubDate": "Tue, 02 Sep 2025 10:00:00 GMT"
   }
 ]
