@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas",
+    "link": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything",
+    "pubDate": "2025-10-22T20:43:15+00:00"
+  },
+  {
     "title": "Living dangerously with Claude",
     "link": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything",
     "pubDate": "2025-10-22T12:20:09+00:00"
@@ -18,10 +23,5 @@
     "title": "Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers",
     "link": "https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything",
     "pubDate": "2025-10-21T22:12:49+00:00"
-  },
-  {
-    "title": "Introducing ChatGPT Atlas",
-    "link": "https://simonwillison.net/2025/Oct/21/introducing-chatgpt-atlas/#atom-everything",
-    "pubDate": "2025-10-21T18:45:13+00:00"
   }
 ]
