@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
+<small>[SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-22 bartwullems</small>  
+<small>[Github Copilot on the command line](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
 <small>[Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-21 visualstudiomagazine</small>  
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
 <small>[Quoting Phil Gyford](https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
-<small>[Quoting Bruce Schneier and Barath Raghavan](https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-10-21 minidump</small>  
 <small>[Using profiler function hooks in .NET with Silhouette](https://minidump.net/using-function-hooks-with-silhouette/)</small>
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-15 bartwullems</small>  
-<small>[Use environment specific variables in HTTP files](https://bartwullems.blogspot.com/2025/10/use-environment-specific-variables-in.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/)</small>

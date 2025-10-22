@@ -1,5 +1,10 @@
 [
   {
+    "title": "SLOCCount in WebAssembly",
+    "link": "https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything",
+    "pubDate": "2025-10-22T06:12:25+00:00"
+  },
+  {
     "title": "Don't let Claude Code delete your session logs",
     "link": "https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything",
     "pubDate": "2025-10-22T00:45:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Phil Gyford",
     "link": "https://simonwillison.net/2025/Oct/21/phil-gyford/#atom-everything",
     "pubDate": "2025-10-21T02:40:56+00:00"
-  },
-  {
-    "title": "Quoting Bruce Schneier and Barath Raghavan",
-    "link": "https://simonwillison.net/2025/Oct/21/ooda-loop/#atom-everything",
-    "pubDate": "2025-10-21T02:28:39+00:00"
   }
 ]
