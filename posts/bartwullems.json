@@ -1,5 +1,10 @@
 [
   {
+    "title": "Github Copilot on the command line (continued)",
+    "link": "https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html",
+    "pubDate": "2025-10-23T06:42:00.039+02:00"
+  },
+  {
     "title": "Github Copilot on the command line",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html",
     "pubDate": "2025-10-22T07:38:00.001+02:00"
@@ -18,10 +23,5 @@
     "title": "Use request chaining in HTTP files",
     "link": "https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html",
     "pubDate": "2025-10-17T06:42:00.001+02:00"
-  },
-  {
-    "title": "Use shared variables in HTTP files",
-    "link": "https://bartwullems.blogspot.com/2025/10/use-shared-variables-in-http-files.html",
-    "pubDate": "2025-10-16T07:29:00.001+02:00"
   }
 ]

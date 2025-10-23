@@ -1,5 +1,20 @@
 [
   {
+    "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
+    "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
+    "pubDate": "2025-10-23T05:19:32+00:00"
+  },
+  {
+    "title": "Quoting AWS",
+    "link": "https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything",
+    "pubDate": "2025-10-23T04:49:59+00:00"
+  },
+  {
+    "title": "Video: Building a tool to copy-paste share terminal sessions using Claude Code for web",
+    "link": "https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#atom-everything",
+    "pubDate": "2025-10-23T04:14:08+00:00"
+  },
+  {
     "title": "Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas",
     "link": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything",
     "pubDate": "2025-10-22T20:43:15+00:00"
@@ -8,20 +23,5 @@
     "title": "Living dangerously with Claude",
     "link": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything",
     "pubDate": "2025-10-22T12:20:09+00:00"
-  },
-  {
-    "title": "SLOCCount in WebAssembly",
-    "link": "https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything",
-    "pubDate": "2025-10-22T06:12:25+00:00"
-  },
-  {
-    "title": "Don't let Claude Code delete your session logs",
-    "link": "https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything",
-    "pubDate": "2025-10-22T00:45:39+00:00"
-  },
-  {
-    "title": "Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers",
-    "link": "https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything",
-    "pubDate": "2025-10-21T22:12:49+00:00"
   }
 ]

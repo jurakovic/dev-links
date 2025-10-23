@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-23 stackoverflow</small>  
+<small>[What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
+<small>[OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions](https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
+<small>[Quoting AWS](https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-23 bartwullems</small>  
+<small>[Github Copilot on the command line (continued)](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
+<small>[Video: Building a tool to copy-paste share terminal sessions using Claude Code for web](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
 <small>[Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything)</small>
 
@@ -22,20 +37,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-10-22 andrewlock</small>  
 <small>[Adding metadata to fallback endpoints in ASP.NET Core](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
-<small>[SLOCCount in WebAssembly](https://simonwillison.net/2025/Oct/22/sloccount-in-webassembly/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-22 bartwullems</small>  
 <small>[Github Copilot on the command line](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
-<small>[Don't let Claude Code delete your session logs](https://simonwillison.net/2025/Oct/22/claude-code-logs/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-21 visualstudiomagazine</small>  
 <small>[TypeScript Tops Rust in 'Promise Index' of JetBrains Survey](https://visualstudiomagazine.com/Articles/2025/10/21/TypeScript-Tops-Rust-in-Promise-Index-of-JetBrains-Survey.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-21 simonwillison</small>  
-<small>[Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers](https://simonwillison.net/2025/Oct/21/unseeable-prompt-injections/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
 <small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
@@ -73,9 +79,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
 <small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-16 bartwullems</small>  
-<small>[Use shared variables in HTTP files](https://bartwullems.blogspot.com/2025/10/use-shared-variables-in-http-files.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
 <small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
 
@@ -96,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-14 visualstudiomagazine</small>  
 <small>[AWS Updates .NET Deploy Tool to Version 2.0 with .NET 8 and Podman Support](https://visualstudiomagazine.com/Articles/2025/10/14/AWS-Updates-NET-Deploy-Tool-to-Version-2-0-with-NET-8-and-Podman-Support.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-14 stackoverflow</small>  
-<small>[AI agents for your digital chores](https://stackoverflow.blog/2025/10/14/ai-agents-for-your-digital-chores/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-13 visualstudiomagazine</small>  
 <small>[Bevy of AI Chat Improvements in New VS Code Release](https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx)</small>
