@@ -1,5 +1,10 @@
 [
   {
+    "title": "What caused the large AWS outage?",
+    "link": "https://blog.pragmaticengineer.com/aws-outage-us-east-1/",
+    "pubDate": "Thu, 23 Oct 2025 16:26:27 GMT"
+  },
+  {
     "title": "Creative ways to fund open source projects",
     "link": "https://blog.pragmaticengineer.com/creative-ways-to-fund-open-source-projects/",
     "pubDate": "Thu, 21 Aug 2025 16:46:22 GMT"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Section 174 is reversed! Mostly, that is",
     "link": "https://blog.pragmaticengineer.com/the-pulse-section-174-is-reversed-mostly-that-is/",
     "pubDate": "Thu, 17 Jul 2025 16:44:42 GMT"
-  },
-  {
-    "title": "Software engineering with LLMs in 2025: temperature check",
-    "link": "https://blog.pragmaticengineer.com/software-engineering-with-llms-in-2025/",
-    "pubDate": "Sat, 05 Jul 2025 13:49:01 GMT"
   }
 ]

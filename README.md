@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-23 visualstudiomagazine</small>  
+<small>[Hands On with New Visual Studio Copilot 'Planning' Feature (Preview)](https://visualstudiomagazine.com/Articles/2025/10/23/Hands-On-with-New-Visual-Studio-Copilot-Planning-Feature-Preview.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
+<small>[Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-23 pragmaticengineer</small>  
+<small>[What caused the large AWS outage?](https://blog.pragmaticengineer.com/aws-outage-us-east-1/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-23 stackoverflow</small>  
 <small>[What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/)</small>
 
@@ -100,9 +109,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-14 visualstudiomagazine</small>  
 <small>[AWS Updates .NET Deploy Tool to Version 2.0 with .NET 8 and Podman Support](https://visualstudiomagazine.com/Articles/2025/10/14/AWS-Updates-NET-Deploy-Tool-to-Version-2-0-with-NET-8-and-Podman-Support.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-13 visualstudiomagazine</small>  
-<small>[Bevy of AI Chat Improvements in New VS Code Release](https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-13 microservices</small>  
 <small>[Healthy Software at Scale: Blueprints for Adaptable Architecture](http://microservices.io//post/architecture/2025/10/13/healthy-software-at-scale-blueprints-for-adaptable-architecture.html)</small>
 
@@ -111,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-08 dotnet</small>  
 <small>[Preparing for the .NET 10 GC (DATAS)](https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-07 dotnet</small>  
-<small>[Developer and AI Code Reviewer: Reviewing AI-Generated Code in .NET](https://devblogs.microsoft.com/dotnet/developer-and-ai-code-reviewer-reviewing-ai-generated-code-in-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-07 slack</small>  
 <small>[Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-09-29 netflix</small>  
 <small>[100X Faster: How We Supercharged Netflix Maestro’s Workflow Engine](https://netflixtechblog.com/100x-faster-how-we-supercharged-netflix-maestros-workflow-engine-028e9637f041?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 haacked</small>  
-<small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hands On with New Visual Studio Copilot 'Planning' Feature (Preview)",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/23/Hands-On-with-New-Visual-Studio-Copilot-Planning-Feature-Preview.aspx",
+    "pubDate": "Thu, 23 Oct 2025 19:22:00 GMT"
+  },
+  {
     "title": "TypeScript Tops Rust in 'Promise Index' of JetBrains Survey",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/21/TypeScript-Tops-Rust-in-Promise-Index-of-JetBrains-Survey.aspx",
     "pubDate": "Tue, 21 Oct 2025 22:30:00 GMT"
@@ -18,10 +23,5 @@
     "title": "AWS Updates .NET Deploy Tool to Version 2.0 with .NET 8 and Podman Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/14/AWS-Updates-NET-Deploy-Tool-to-Version-2-0-with-NET-8-and-Podman-Support.aspx",
     "pubDate": "Tue, 14 Oct 2025 16:10:00 GMT"
-  },
-  {
-    "title": "Bevy of AI Chat Improvements in New VS Code Release",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/13/Bevy-of-AI-Chat-Improvements-in-New-VS-Code-Release.aspx",
-    "pubDate": "Mon, 13 Oct 2025 19:15:00 GMT"
   }
 ]
