@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-24 stackoverflow</small>  
+<small>[Your runbooks are obsolete in the age of agents](https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-24 bartwullems</small>  
+<small>[Six words that define your leadership](https://bartwullems.blogspot.com/2025/10/six-words-that-define-your-leadership.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
 <small>[Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/)</small>
 
@@ -85,17 +91,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-17 stackoverflow</small>  
 <small>[Why rent a cloud when you can build one?](https://stackoverflow.blog/2025/10/17/why-rent-a-cloud-when-you-can-build-one/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-17 bartwullems</small>  
-<small>[Use request chaining in HTTP files](https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
 <small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
 <small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-15 stackoverflow</small>  
-<small>[Secure coding in JavaScript](https://stackoverflow.blog/2025/10/15/secure-coding-in-javascript/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>

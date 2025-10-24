@@ -1,5 +1,10 @@
 [
   {
+    "title": "Six words that define your leadership",
+    "link": "https://bartwullems.blogspot.com/2025/10/six-words-that-define-your-leadership.html",
+    "pubDate": "2025-10-24T06:57:00.003+02:00"
+  },
+  {
     "title": "Github Copilot on the command line (continued)",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html",
     "pubDate": "2025-10-23T06:42:00.039+02:00"
@@ -18,10 +23,5 @@
     "title": "Using connection colors in SQL Server Management Studio to prevent database disasters",
     "link": "https://bartwullems.blogspot.com/2025/10/using-connection-colors-in-sql-server.html",
     "pubDate": "2025-10-20T06:58:00.017+02:00"
-  },
-  {
-    "title": "Use request chaining in HTTP files",
-    "link": "https://bartwullems.blogspot.com/2025/10/use-request-chaining-in-http-files.html",
-    "pubDate": "2025-10-17T06:42:00.001+02:00"
   }
 ]
