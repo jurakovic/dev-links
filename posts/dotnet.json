@@ -1,5 +1,10 @@
 [
   {
+    "title": "Announcing Sponsorship on NuGet.org",
+    "link": "https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/",
+    "pubDate": "Thu, 23 Oct 2025 22:18:00 +0000"
+  },
+  {
     "title": "Upgrading to Microsoft Agent Framework in Your .NET AI Chat App",
     "link": "https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/",
     "pubDate": "Thu, 23 Oct 2025 17:00:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Announcing the .NET Security Group",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/",
     "pubDate": "Tue, 14 Oct 2025 17:05:00 +0000"
-  },
-  {
-    "title": "Preparing for the .NET 10 GC (DATAS)",
-    "link": "https://devblogs.microsoft.com/dotnet/preparing-for-dotnet-10-gc/",
-    "pubDate": "Wed, 08 Oct 2025 17:00:00 +0000"
   }
 ]
