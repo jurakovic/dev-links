@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Geoffrey Litt",
+    "link": "https://simonwillison.net/2025/Oct/24/geoffrey-litt/#atom-everything",
+    "pubDate": "2025-10-24T14:07:11+00:00"
+  },
+  {
     "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
     "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
     "pubDate": "2025-10-23T05:19:32+00:00"
@@ -18,10 +23,5 @@
     "title": "Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas",
     "link": "https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything",
     "pubDate": "2025-10-22T20:43:15+00:00"
-  },
-  {
-    "title": "Living dangerously with Claude",
-    "link": "https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/#atom-everything",
-    "pubDate": "2025-10-22T12:20:09+00:00"
   }
 ]
