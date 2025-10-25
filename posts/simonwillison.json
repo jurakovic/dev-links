@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Claude Docs",
+    "link": "https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything",
+    "pubDate": "2025-10-25T04:57:29+00:00"
+  },
+  {
     "title": "Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding",
     "link": "https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything",
     "pubDate": "2025-10-25T03:08:31+00:00"
@@ -18,10 +23,5 @@
     "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
     "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
     "pubDate": "2025-10-23T05:19:32+00:00"
-  },
-  {
-    "title": "Quoting AWS",
-    "link": "https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything",
-    "pubDate": "2025-10-23T04:49:59+00:00"
   }
 ]

@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
+<small>[Quoting Claude Docs](https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding](https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-24 simonwillison</small>  
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
 <small>[OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions](https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
-<small>[Quoting AWS](https://simonwillison.net/2025/Oct/23/aws-postmortem/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-23 bartwullems</small>  
 <small>[Github Copilot on the command line (continued)](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html)</small>
