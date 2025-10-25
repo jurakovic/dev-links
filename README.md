@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
+<small>[Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Quoting Claude Docs](https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-23 stackoverflow</small>  
 <small>[What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
-<small>[OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions](https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-23 bartwullems</small>  
 <small>[Github Copilot on the command line (continued)](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html)</small>

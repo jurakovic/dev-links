@@ -1,5 +1,10 @@
 [
   {
+    "title": "Setting up a codebase for working with coding agents",
+    "link": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything",
+    "pubDate": "2025-10-25T18:42:24+00:00"
+  },
+  {
     "title": "Quoting Claude Docs",
     "link": "https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything",
     "pubDate": "2025-10-25T04:57:29+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Geoffrey Litt",
     "link": "https://simonwillison.net/2025/Oct/24/geoffrey-litt/#atom-everything",
     "pubDate": "2025-10-24T14:07:11+00:00"
-  },
-  {
-    "title": "OpenAI no longer has to preserve all of its ChatGPT data, with some exceptions",
-    "link": "https://simonwillison.net/2025/Oct/23/openai-no-longer-has-to-preserve/#atom-everything",
-    "pubDate": "2025-10-23T05:19:32+00:00"
   }
 ]
