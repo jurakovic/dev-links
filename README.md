@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
+<small>[Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding](https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-24 simonwillison</small>  
+<small>[claude\_code\_docs\_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-24 visualstudiomagazine</small>  
 <small>[Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'](https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx)</small>
 
@@ -42,12 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-23 bartwullems</small>  
 <small>[Github Copilot on the command line (continued)](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-23 simonwillison</small>  
-<small>[Video: Building a tool to copy-paste share terminal sessions using Claude Code for web](https://simonwillison.net/2025/Oct/23/claude-code-for-web-video/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-22 simonwillison</small>  
-<small>[Dane Stuckey (OpenAI CISO) on prompt injection risks for ChatGPT Atlas](https://simonwillison.net/2025/Oct/22/openai-ciso-on-atlas/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-22 erikej</small>  
 <small>[Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip](https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html)</small>
