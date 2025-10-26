@@ -1,5 +1,10 @@
 [
   {
+    "title": "Crafting Engineering Strategy!",
+    "link": "https://lethain.com/crafting-engineering-strategy/",
+    "pubDate": "Sat, 25 Oct 2025 04:00:00 -0700"
+  },
+  {
     "title": "Commenting on Notion docs via OpenAI and Zapier.",
     "link": "https://lethain.com/commenting-notion-open-ai-zapier/",
     "pubDate": "Sun, 20 Jul 2025 04:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "Advancing the industry, part two.",
     "link": "https://lethain.com/advancing-the-industry-pt2/",
     "pubDate": "Fri, 18 Jul 2025 04:00:00 -0700"
-  },
-  {
-    "title": "What can agents actually do?",
-    "link": "https://lethain.com/what-can-agents-do/",
-    "pubDate": "Sun, 06 Jul 2025 04:00:00 -0700"
   }
 ]

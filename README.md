@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-10-25 lethain</small>  
+<small>[Crafting Engineering Strategy!](https://lethain.com/crafting-engineering-strategy/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Quoting Claude Docs](https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
 <small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-09-30 andrewlock</small>  
-<small>[Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing](https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/)</small>
 
