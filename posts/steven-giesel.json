@@ -1,5 +1,10 @@
 [
   {
+    "title": "LinkedIn: \"Are you still using new Random() everywhere?\"",
+    "link": "https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07",
+    "pubDate": "Mon, 27 Oct 2025 04:12:00 Z"
+  },
+  {
     "title": "Inlining and structs in C#",
     "link": "https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226",
     "pubDate": "Mon, 20 Oct 2025 04:55:00 Z"
@@ -18,10 +23,5 @@
     "title": "ToDictionaryAsync retrieves the whole object from the database in Entity Framework",
     "link": "https://steven-giesel.com/blogPost/1af57355-7978-40e6-a0f1-3d0ba2c6e1bc",
     "pubDate": "Mon, 08 Sep 2025 05:00:00 Z"
-  },
-  {
-    "title": "Divide and Conquer the Database",
-    "link": "https://steven-giesel.com/blogPost/c0562c02-9073-46f2-8f66-00e4ebd7c9e3",
-    "pubDate": "Mon, 01 Sep 2025 05:53:00 Z"
   }
 ]
