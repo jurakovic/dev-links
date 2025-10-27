@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-27 simonwillison</small>  
+<small>[The PSF has withdrawn a $1.5 million proposal to US government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-27 visualstudiomagazine</small>  
+<small>[Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support](https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-27 stackoverflow</small>  
 <small>[AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/)</small>
 
@@ -27,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Quoting Claude Docs](https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
-<small>[Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding](https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-24 visualstudiomagazine</small>  
 <small>[Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'](https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx)</small>
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
 <small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-15 visualstudiomagazine</small>  
-<small>[.NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform](https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>

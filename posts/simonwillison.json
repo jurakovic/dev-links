@@ -1,5 +1,10 @@
 [
   {
+    "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
+    "link": "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything",
+    "pubDate": "2025-10-27T20:32:07+00:00"
+  },
+  {
     "title": "GenAI Image Editing Showdown",
     "link": "https://simonwillison.net/2025/Oct/26/genai-image-editing-showdown/#atom-everything",
     "pubDate": "2025-10-26T23:59:25+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Claude Docs",
     "link": "https://simonwillison.net/2025/Oct/25/claude-docs/#atom-everything",
     "pubDate": "2025-10-25T04:57:29+00:00"
-  },
-  {
-    "title": "Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding",
-    "link": "https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything",
-    "pubDate": "2025-10-25T03:08:31+00:00"
   }
 ]

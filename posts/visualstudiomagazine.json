@@ -1,5 +1,10 @@
 [
   {
+    "title": "Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx",
+    "pubDate": "Mon, 27 Oct 2025 18:42:00 GMT"
+  },
+  {
     "title": "Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx",
     "pubDate": "Fri, 24 Oct 2025 20:06:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx",
     "pubDate": "Thu, 16 Oct 2025 09:00:00 GMT"
-  },
-  {
-    "title": ".NET 10 RC2 Is Final Step Before GA, with Help from Uno Platform",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/15/NET-10-RC2-Is-Final-Step-Before-GA-with-Help-from-Uno-Platform.aspx",
-    "pubDate": "Wed, 15 Oct 2025 16:00:00 GMT"
   }
 ]
