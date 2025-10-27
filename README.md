@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-27 bartwullems</small>  
+<small>[Github Copilot–Auto model select](https://bartwullems.blogspot.com/2025/10/github-copilotauto-model-select.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-27 steven-giesel</small>  
+<small>[LinkedIn: "Are you still using new Random() everywhere?"](https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
+<small>[GenAI Image Editing Showdown](https://simonwillison.net/2025/Oct/26/genai-image-editing-showdown/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
 <small>[Sora might have a 'pervert' problem on its hands](https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything)</small>
 
@@ -18,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
 <small>[Visual Features Across Modalities: SVG and ASCII Art Reveal Cross-Modal Understanding](https://simonwillison.net/2025/Oct/25/visual-features-across-modalities/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-24 simonwillison</small>  
-<small>[claude\_code\_docs\_map.md](https://simonwillison.net/2025/Oct/24/claude-code-docs-map/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-24 visualstudiomagazine</small>  
 <small>[Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'](https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx)</small>
@@ -91,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-20 stackoverflow</small>  
 <small>[From multilingual semantic search to virtual assistants at Bosch Digital](https://stackoverflow.blog/2025/10/20/from-multilingual-semantic-search-to-virtual-assistants-at-bosch-digital/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-20 bartwullems</small>  
-<small>[Using connection colors in SQL Server Management Studio to prevent database disasters](https://bartwullems.blogspot.com/2025/10/using-connection-colors-in-sql-server.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-20 steven-giesel</small>  
 <small>[Inlining and structs in C#](https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
 <small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-09-30 erikej</small>  
-<small>[Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html)</small>
 
