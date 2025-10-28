@@ -1,5 +1,10 @@
 [
   {
+    "title": "Give your Github Copilot a break",
+    "link": "https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html",
+    "pubDate": "2025-10-28T06:47:00.017+01:00"
+  },
+  {
     "title": "Github Copilot–Auto model select",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilotauto-model-select.html",
     "pubDate": "2025-10-27T06:27:00.015+01:00"
@@ -18,10 +23,5 @@
     "title": "Github Copilot on the command line",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html",
     "pubDate": "2025-10-22T07:38:00.001+02:00"
-  },
-  {
-    "title": "Securing Your ASP.NET Core App with Authorization Fallback Policy",
-    "link": "https://bartwullems.blogspot.com/2025/10/securing-your-aspnet-core-app-with.html",
-    "pubDate": "2025-10-21T07:13:00.004+02:00"
   }
 ]
