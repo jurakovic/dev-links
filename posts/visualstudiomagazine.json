@@ -1,5 +1,15 @@
 [
   {
+    "title": "GitHub Introduces Agent HQ to Orchestrate 'Any Agent Any Way You Work'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/28/GitHub-Introduces-Agent-HQ-to-Orchestrate-Any-Agent-Any-Way-You-Work.aspx",
+    "pubDate": "Tue, 28 Oct 2025 18:14:00 GMT"
+  },
+  {
+    "title": "Microsoft Extends Copilot AI Tech to Xcode, JetBrains IDEs and Eclipse",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/28/Microsoft-Extends-Copilot-AI-Tech-to-Xcode-JetBrains-IDEs-and-Eclipse.aspx",
+    "pubDate": "Tue, 28 Oct 2025 16:54:00 GMT"
+  },
+  {
     "title": "Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx",
     "pubDate": "Mon, 27 Oct 2025 18:42:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Hands On with New Visual Studio Copilot 'Planning' Feature (Preview)",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/23/Hands-On-with-New-Visual-Studio-Copilot-Planning-Feature-Preview.aspx",
     "pubDate": "Thu, 23 Oct 2025 19:22:00 GMT"
-  },
-  {
-    "title": "TypeScript Tops Rust in 'Promise Index' of JetBrains Survey",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/21/TypeScript-Tops-Rust-in-Promise-Index-of-JetBrains-Survey.aspx",
-    "pubDate": "Tue, 21 Oct 2025 22:30:00 GMT"
-  },
-  {
-    "title": "Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx",
-    "pubDate": "Thu, 16 Oct 2025 09:00:00 GMT"
   }
 ]

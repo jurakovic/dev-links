@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-28 dotnet</small>  
+<small>[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-28 visualstudiomagazine</small>  
+<small>[GitHub Introduces Agent HQ to Orchestrate 'Any Agent Any Way You Work'](https://visualstudiomagazine.com/Articles/2025/10/28/GitHub-Introduces-Agent-HQ-to-Orchestrate-Any-Agent-Any-Way-You-Work.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-28 simonwillison</small>  
+<small>[Hacking the WiFi-enabled color screen GitHub Universe conference badge](https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-28 visualstudiomagazine</small>  
+<small>[Microsoft Extends Copilot AI Tech to Xcode, JetBrains IDEs and Eclipse](https://visualstudiomagazine.com/Articles/2025/10/28/Microsoft-Extends-Copilot-AI-Tech-to-Xcode-JetBrains-IDEs-and-Eclipse.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
 <small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>
 
@@ -39,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
 <small>[Sora might have a 'pervert' problem on its hands](https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-25 simonwillison</small>  
-<small>[Setting up a codebase for working with coding agents](https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-10-25 lethain</small>  
 <small>[Crafting Engineering Strategy!](https://lethain.com/crafting-engineering-strategy/)</small>
@@ -91,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-22 bartwullems</small>  
 <small>[Github Copilot on the command line](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-21 visualstudiomagazine</small>  
-<small>[TypeScript Tops Rust in 'Promise Index' of JetBrains Survey](https://visualstudiomagazine.com/Articles/2025/10/21/TypeScript-Tops-Rust-in-Promise-Index-of-JetBrains-Survey.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
 <small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
 
@@ -112,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-20 steven-giesel</small>  
 <small>[Inlining and structs in C#](https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-16 visualstudiomagazine</small>  
-<small>[Combit Launches List & Label 31 with Cross-Platform .NET Engine and AI Integration](https://visualstudiomagazine.com/Articles/2025/10/16/Combit-Launches-List-Label-31-with-Cross-Platform-NET-Engine-and-AI-Integration.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[Announcing .NET 10 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
-<small>[Announcing the .NET Security Group](https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-13 microservices</small>  
 <small>[Healthy Software at Scale: Blueprints for Adaptable Architecture](http://microservices.io//post/architecture/2025/10/13/healthy-software-at-scale-blueprints-for-adaptable-architecture.html)</small>

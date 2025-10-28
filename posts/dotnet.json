@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert",
+    "link": "https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/",
+    "pubDate": "Tue, 28 Oct 2025 22:05:00 +0000"
+  },
+  {
     "title": "Announcing Sponsorship on NuGet.org",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/",
     "pubDate": "Thu, 23 Oct 2025 22:18:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Announcing .NET 10 Release Candidate 2",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/",
     "pubDate": "Tue, 14 Oct 2025 22:15:00 +0000"
-  },
-  {
-    "title": "Announcing the .NET Security Group",
-    "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-security-group/",
-    "pubDate": "Tue, 14 Oct 2025 17:05:00 +0000"
   }
 ]

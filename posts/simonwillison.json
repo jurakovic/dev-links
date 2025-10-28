@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
+    "link": "https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything",
+    "pubDate": "2025-10-28T17:17:44+00:00"
+  },
+  {
     "title": "Quoting Aaron Boodman",
     "link": "https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything",
     "pubDate": "2025-10-28T02:08:57+00:00"
@@ -18,10 +23,5 @@
     "title": "Sora might have a 'pervert' problem on its hands",
     "link": "https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything",
     "pubDate": "2025-10-26T17:03:55+00:00"
-  },
-  {
-    "title": "Setting up a codebase for working with coding agents",
-    "link": "https://simonwillison.net/2025/Oct/25/coding-agent-tips/#atom-everything",
-    "pubDate": "2025-10-25T18:42:24+00:00"
   }
 ]
