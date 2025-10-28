@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
+<small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-10-28 andrewlock</small>  
+<small>[Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-28 stackoverflow</small>  
 <small>[Craft and quality beat speed and scale, with or without agents](https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-02 visualstudio</small>  
 <small>[VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-02 microservices</small>  
-<small>[A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies](http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-01 terriblesoftware</small>  
-<small>[Stop Avoiding Politics](https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/)</small>
 

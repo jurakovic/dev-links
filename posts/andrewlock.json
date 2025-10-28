@@ -1,5 +1,10 @@
 [
   {
+    "title": "Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315",
+    "link": "https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/",
+    "pubDate": "Tue, 28 Oct 2025 10:00:00 GMT"
+  },
+  {
     "title": "Adding metadata to fallback endpoints in ASP.NET Core",
     "link": "https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/",
     "pubDate": "Wed, 22 Oct 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Supporting platform-specific .NET tools on old .NET SDKs: Exploring the .NET 10 preview - Part 8",
     "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-8-supporting-platform-specific-dotnet-tools-on-old-sdks/",
     "pubDate": "Tue, 16 Sep 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Packaging self-contained and native AOT .NET tools for NuGet: Exploring the .NET 10 preview - Part 7",
-    "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-7-packaging-self-contained-and-native-aot-dotnet-tools-for-nuget/",
-    "pubDate": "Tue, 09 Sep 2025 10:00:00 GMT"
   }
 ]
