@@ -1,5 +1,10 @@
 [
   {
+    "title": "Advancing Our Chef Infrastructure: Safety Without Disruption",
+    "link": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/",
+    "pubDate": "Thu, 23 Oct 2025 18:17:56 +0000"
+  },
+  {
     "title": "Deploy Safety: Reducing customer impact from change",
     "link": "https://slack.engineering/deploy-safety/",
     "pubDate": "Tue, 07 Oct 2025 16:33:12 +0000"
@@ -18,10 +23,5 @@
     "title": "How we built enterprise search to be secure and private",
     "link": "https://slack.engineering/how-we-built-enterprise-search-to-be-secure-and-private/",
     "pubDate": "Fri, 07 Mar 2025 01:14:37 +0000"
-  },
-  {
-    "title": "Automated Accessibility Testing at Slack",
-    "link": "https://slack.engineering/automated-accessibility-testing-at-slack/",
-    "pubDate": "Tue, 07 Jan 2025 20:46:20 +0000"
   }
 ]

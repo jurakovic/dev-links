@@ -1,5 +1,15 @@
 [
   {
+    "title": "Azure MCP Server 1.0 Ushers in Agentic Cloud Automation",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/29/Azure-MCP-Server-1-0-Ushers-in-Agentic-Cloud-Automation.aspx",
+    "pubDate": "Wed, 29 Oct 2025 16:21:00 GMT"
+  },
+  {
+    "title": "Microsoft Debuts Custom Copilot Agents for .NET Developers",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/29/Article_0Microsoft-Debuts-Custom-Copilot-Agents-for-NET-Developers.aspx",
+    "pubDate": "Wed, 29 Oct 2025 16:09:00 GMT"
+  },
+  {
     "title": "GitHub Introduces Agent HQ to Orchestrate 'Any Agent Any Way You Work'",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/28/GitHub-Introduces-Agent-HQ-to-Orchestrate-Any-Agent-Any-Way-You-Work.aspx",
     "pubDate": "Tue, 28 Oct 2025 18:14:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx",
     "pubDate": "Mon, 27 Oct 2025 18:42:00 GMT"
-  },
-  {
-    "title": "Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx",
-    "pubDate": "Fri, 24 Oct 2025 20:06:00 GMT"
-  },
-  {
-    "title": "Hands On with New Visual Studio Copilot 'Planning' Feature (Preview)",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/23/Hands-On-with-New-Visual-Studio-Copilot-Planning-Feature-Preview.aspx",
-    "pubDate": "Thu, 23 Oct 2025 19:22:00 GMT"
   }
 ]

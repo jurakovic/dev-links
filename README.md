@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
+<small>[Composer: Building a fast frontier model with RL](https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-29 visualstudiomagazine</small>  
+<small>[Azure MCP Server 1.0 Ushers in Agentic Cloud Automation](https://visualstudiomagazine.com/Articles/2025/10/29/Azure-MCP-Server-1-0-Ushers-in-Agentic-Cloud-Automation.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-29 visualstudiomagazine</small>  
+<small>[Microsoft Debuts Custom Copilot Agents for .NET Developers](https://visualstudiomagazine.com/Articles/2025/10/29/Article_0Microsoft-Debuts-Custom-Copilot-Agents-for-NET-Developers.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
+<small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-29 tidyfirst</small>  
+<small>[Getting Ready to Launch](https://tidyfirst.substack.com/p/getting-ready-to-launch)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-28 dotnet</small>  
 <small>[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/)</small>
 
@@ -49,14 +64,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
 <small>[GenAI Image Editing Showdown](https://simonwillison.net/2025/Oct/26/genai-image-editing-showdown/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
-<small>[Sora might have a 'pervert' problem on its hands](https://simonwillison.net/2025/Oct/26/sora-pervert-problem/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-25 netflix</small>  
+<small>[Post-Training Generative Recommenders with Advantage-Weighted Supervised Finetuning](https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-10-25 lethain</small>  
 <small>[Crafting Engineering Strategy!](https://lethain.com/crafting-engineering-strategy/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-24 visualstudiomagazine</small>  
-<small>[Win 11 Update Borks .NET MAUI Projects Built on .NET 8: 'Microsoft, What Have You Done?'](https://visualstudiomagazine.com/Articles/2025/10/24/Windows-11-Update-Borks-NET-MAUI-Projects-Built-on-NET-8-Microsoft-What-Have-You-Done.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-24 terriblesoftware</small>  
 <small>[“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)</small>
@@ -70,8 +82,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
 <small>[Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-23 visualstudiomagazine</small>  
-<small>[Hands On with New Visual Studio Copilot 'Planning' Feature (Preview)](https://visualstudiomagazine.com/Articles/2025/10/23/Hands-On-with-New-Visual-Studio-Copilot-Planning-Feature-Preview.aspx)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-23 slack</small>  
+<small>[Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
 <small>[Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/)</small>
@@ -97,17 +109,20 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-10-22 andrewlock</small>  
 <small>[Adding metadata to fallback endpoints in ASP.NET Core](https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-22 bartwullems</small>  
-<small>[Github Copilot on the command line](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
 <small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-21 visualstudio</small>  
 <small>[Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users](https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-21 tidyfirst</small>  
+<small>[First Principles First](https://tidyfirst.substack.com/p/first-principles-first)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-21 stackoverflow</small>  
 <small>[Open source is giving you choices with your agent systems](https://stackoverflow.blog/2025/10/21/open-source-is-giving-you-choices-with-your-agent-systems/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-21 netflix</small>  
+<small>[Behind the Streams: Real-Time Recommendations for Live Events Part 3](https://netflixtechblog.com/behind-the-streams-real-time-recommendations-for-live-events-e027cb313f8f?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-10-21 minidump</small>  
 <small>[Using profiler function hooks in .NET with Silhouette](https://minidump.net/using-function-hooks-with-silhouette/)</small>
@@ -117,6 +132,12 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-20 steven-giesel</small>  
 <small>[Inlining and structs in C#](https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-17 netflix</small>  
+<small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-16 tidyfirst</small>  
+<small>[Separate Failed Assertions from Unexpected Exceptions?](https://tidyfirst.substack.com/p/separate-failed-assertions-from-unexpected)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
 <small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
@@ -132,25 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-12 paulhammant</small>  
 <small>[Modern CV Technology: JSON Resume embedded in HTML](https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-07 slack</small>  
-<small>[Deploy Safety: Reducing customer impact from change](https://slack.engineering/deploy-safety/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-06 thecodist</small>  
-<small>[Verizon's I'm A Teapot Error And Other Technology Fails](https://thecodist.com/verizons-im-a-teapot-error-and-other-technology-fails/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-06 visualstudio</small>  
-<small>[Visual Studio Dev/Test Benefit Explained](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-test-benefit-explained/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-06 microservices</small>  
-<small>[Getting started with Oso Cloud](http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-06 steven-giesel</small>  
-<small>[Use CancellationTokens](https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-03 visualstudio</small>  
-<small>[Roadmap for AI in Visual Studio (October)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-october/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-02 visualstudio</small>  
-<small>[VS Live! Orlando – Your Ultimate Learning Adventure](https://devblogs.microsoft.com/visualstudio/visual-studio-live-orlando-2025/)</small>
 
