@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting François Chollet",
+    "link": "https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything",
+    "pubDate": "2025-10-30T02:37:18+00:00"
+  },
+  {
+    "title": "Introducing SWE-1.5: Our Fast Agent Model",
+    "link": "https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything",
+    "pubDate": "2025-10-29T23:59:20+00:00"
+  },
+  {
+    "title": "MiniMax M2 & Agent: Ingenious in Simplicity",
+    "link": "https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything",
+    "pubDate": "2025-10-29T22:49:47+00:00"
+  },
+  {
     "title": "Composer: Building a fast frontier model with RL",
     "link": "https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything",
     "pubDate": "2025-10-29T20:45:53+00:00"
@@ -8,20 +23,5 @@
     "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
     "link": "https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything",
     "pubDate": "2025-10-28T17:17:44+00:00"
-  },
-  {
-    "title": "Quoting Aaron Boodman",
-    "link": "https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything",
-    "pubDate": "2025-10-28T02:08:57+00:00"
-  },
-  {
-    "title": "The PSF has withdrawn a $1.5 million proposal to US government grant program",
-    "link": "https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything",
-    "pubDate": "2025-10-27T20:32:07+00:00"
-  },
-  {
-    "title": "GenAI Image Editing Showdown",
-    "link": "https://simonwillison.net/2025/Oct/26/genai-image-editing-showdown/#atom-everything",
-    "pubDate": "2025-10-26T23:59:25+00:00"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-30 simonwillison</small>  
+<small>[Quoting François Chollet](https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
+<small>[Introducing SWE-1.5: Our Fast Agent Model](https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
+<small>[MiniMax M2 & Agent: Ingenious in Simplicity](https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
 <small>[Composer: Building a fast frontier model with RL](https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything)</small>
 
@@ -43,12 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-28 bartwullems</small>  
 <small>[Give your Github Copilot a break](https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-28 simonwillison</small>  
-<small>[Quoting Aaron Boodman](https://simonwillison.net/2025/Oct/28/aaron-boodman/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-27 simonwillison</small>  
-<small>[The PSF has withdrawn a $1.5 million proposal to US government grant program](https://simonwillison.net/2025/Oct/27/psf-withdrawn-proposal/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-27 visualstudiomagazine</small>  
 <small>[Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support](https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx)</small>
 
@@ -60,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-27 steven-giesel</small>  
 <small>[LinkedIn: "Are you still using new Random() everywhere?"](https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-26 simonwillison</small>  
-<small>[GenAI Image Editing Showdown](https://simonwillison.net/2025/Oct/26/genai-image-editing-showdown/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-25 netflix</small>  
 <small>[Post-Training Generative Recommenders with Advantage-Weighted Supervised Finetuning](https://netflixtechblog.com/post-training-generative-recommenders-with-advantage-weighted-supervised-finetuning-61a538d717a9?source=rss----2615bd06b42e---4)</small>
