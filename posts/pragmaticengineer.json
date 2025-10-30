@@ -1,5 +1,15 @@
 [
   {
+    "title": "Comparing interviews at 8 large tech companies",
+    "link": "https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/",
+    "pubDate": "Thu, 30 Oct 2025 18:00:42 GMT"
+  },
+  {
+    "title": "New trend: programming by kicking off parallel AI agents",
+    "link": "https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/",
+    "pubDate": "Thu, 30 Oct 2025 17:58:38 GMT"
+  },
+  {
     "title": "What caused the large AWS outage?",
     "link": "https://blog.pragmaticengineer.com/aws-outage-us-east-1/",
     "pubDate": "Thu, 23 Oct 2025 16:26:27 GMT"
@@ -13,15 +23,5 @@
     "title": "New trend: extreme hours at AI startups",
     "link": "https://blog.pragmaticengineer.com/new-trend-extreme-hours-at-ai-startups/",
     "pubDate": "Thu, 14 Aug 2025 16:35:32 GMT"
-  },
-  {
-    "title": "Cursor makes developers less effective?",
-    "link": "https://blog.pragmaticengineer.com/cursor-makes-developers-less-effective/",
-    "pubDate": "Thu, 24 Jul 2025 18:09:09 GMT"
-  },
-  {
-    "title": "The Pulse: Section 174 is reversed! Mostly, that is",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-section-174-is-reversed-mostly-that-is/",
-    "pubDate": "Thu, 17 Jul 2025 16:44:42 GMT"
   }
 ]

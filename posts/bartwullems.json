@@ -1,5 +1,10 @@
 [
   {
+    "title": "Git worktrees–A first step towards a multi-agent development workflow",
+    "link": "https://bartwullems.blogspot.com/2025/10/git-worktreesa-first-step-towards-multi.html",
+    "pubDate": "2025-10-30T17:24:00.001+01:00"
+  },
+  {
     "title": "Catching dependency injection configuration errors early",
     "link": "https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html",
     "pubDate": "2025-10-29T16:35:00.005+01:00"
@@ -18,10 +23,5 @@
     "title": "Six words that define your leadership",
     "link": "https://bartwullems.blogspot.com/2025/10/six-words-that-define-your-leadership.html",
     "pubDate": "2025-10-24T06:57:00.003+02:00"
-  },
-  {
-    "title": "Github Copilot on the command line (continued)",
-    "link": "https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html",
-    "pubDate": "2025-10-23T06:42:00.039+02:00"
   }
 ]

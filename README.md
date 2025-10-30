@@ -4,6 +4,30 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
+<small>[Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration](https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
+<small>[VS Code Expands AI Flexibility with Bring Your Own Key](https://visualstudiomagazine.com/Articles/2025/10/30/VS-Code-Expands-AI-Flexibility-with-Bring-Your-Own-Key.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
+<small>[Microsoft's New Java & AI Video Series Helps Devs Get Started with GenAI](https://visualstudiomagazine.com/Articles/2025/10/30/New-Java-AI-Video-Series-Helps-Developers-Get-Started-with-Generative-AI.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
+<small>[Veeam Uses Azure Cosmos DB to Power Planet-Scale Data Discovery](https://visualstudiomagazine.com/Articles/2025/10/30/Veeam-Uses-Azure-Cosmos-DB-to-Power-Planet-Scale-Data-Discovery.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
+<small>[GitHub Copilot Adds New C++ Capabilities with MSVC Upgrades and Build Performance Improvements](https://visualstudiomagazine.com/Articles/2025/10/30/GitHub-Copilot-Adds-New-C-Capabilities-with-MSVC-Upgrades-and-Build-Performance-Improvements.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
+<small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
+<small>[New trend: programming by kicking off parallel AI agents](https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-30 bartwullems</small>  
+<small>[Git worktrees–A first step towards a multi-agent development workflow](https://bartwullems.blogspot.com/2025/10/git-worktreesa-first-step-towards-multi.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-30 stackoverflow</small>  
 <small>[Live from the OpenAI forum: Learning to code in the age of AI](https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/)</small>
 
@@ -22,12 +46,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
 <small>[Composer: Building a fast frontier model with RL](https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-29 visualstudiomagazine</small>  
-<small>[Azure MCP Server 1.0 Ushers in Agentic Cloud Automation](https://visualstudiomagazine.com/Articles/2025/10/29/Azure-MCP-Server-1-0-Ushers-in-Agentic-Cloud-Automation.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-29 visualstudiomagazine</small>  
-<small>[Microsoft Debuts Custom Copilot Agents for .NET Developers](https://visualstudiomagazine.com/Articles/2025/10/29/Article_0Microsoft-Debuts-Custom-Copilot-Agents-for-NET-Developers.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
 <small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>
 
@@ -37,14 +55,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-28 dotnet</small>  
 <small>[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-28 visualstudiomagazine</small>  
-<small>[GitHub Introduces Agent HQ to Orchestrate 'Any Agent Any Way You Work'](https://visualstudiomagazine.com/Articles/2025/10/28/GitHub-Introduces-Agent-HQ-to-Orchestrate-Any-Agent-Any-Way-You-Work.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-28 simonwillison</small>  
 <small>[Hacking the WiFi-enabled color screen GitHub Universe conference badge](https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-28 visualstudiomagazine</small>  
-<small>[Microsoft Extends Copilot AI Tech to Xcode, JetBrains IDEs and Eclipse](https://visualstudiomagazine.com/Articles/2025/10/28/Microsoft-Extends-Copilot-AI-Tech-to-Xcode-JetBrains-IDEs-and-Eclipse.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
 <small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>
@@ -57,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-28 bartwullems</small>  
 <small>[Give your Github Copilot a break](https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-27 visualstudiomagazine</small>  
-<small>[Uno Platform 6.3 Adds .NET 10, Visual Studio 2026 Support](https://visualstudiomagazine.com/Articles/2025/10/27/Uno-Platform-6-3-Adds-NET-10-Visual-Studio-2026-Support.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-27 stackoverflow</small>  
 <small>[AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/)</small>
@@ -99,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-23 stackoverflow</small>  
 <small>[What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-23 bartwullems</small>  
-<small>[Github Copilot on the command line (continued)](https://bartwullems.blogspot.com/2025/10/github-copilot-on-command-line-continued.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-22 erikej</small>  
 <small>[Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip](https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
 <small>[.NET and .NET Framework October 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2025-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-14 dotnet</small>  
-<small>[Announcing .NET 10 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-10-rc-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-13 microservices</small>  
-<small>[Healthy Software at Scale: Blueprints for Adaptable Architecture](http://microservices.io//post/architecture/2025/10/13/healthy-software-at-scale-blueprints-for-adaptable-architecture.html)</small>
 
