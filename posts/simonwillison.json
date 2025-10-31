@@ -1,5 +1,10 @@
 [
   {
+    "title": "CoreWeave adds Marimo to their 2025 acquisition spree",
+    "link": "https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything",
+    "pubDate": "2025-10-31T13:57:51+00:00"
+  },
+  {
     "title": "Quoting François Chollet",
     "link": "https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything",
     "pubDate": "2025-10-30T02:37:18+00:00"
@@ -18,10 +23,5 @@
     "title": "Composer: Building a fast frontier model with RL",
     "link": "https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything",
     "pubDate": "2025-10-29T20:45:53+00:00"
-  },
-  {
-    "title": "Hacking the WiFi-enabled color screen GitHub Universe conference badge",
-    "link": "https://simonwillison.net/2025/Oct/28/github-universe-badge/#atom-everything",
-    "pubDate": "2025-10-28T17:17:44+00:00"
   }
 ]

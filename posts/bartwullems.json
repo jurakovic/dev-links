@@ -1,5 +1,10 @@
 [
   {
+    "title": "Restrict MCP server access when using Github Copilot -",
+    "link": "https://bartwullems.blogspot.com/2025/10/restrict-mcp-server-access-when-using.html",
+    "pubDate": "2025-10-31T15:57:00.002+01:00"
+  },
+  {
     "title": "Git worktrees–A first step towards a multi-agent development workflow",
     "link": "https://bartwullems.blogspot.com/2025/10/git-worktreesa-first-step-towards-multi.html",
     "pubDate": "2025-10-30T17:24:00.001+01:00"
@@ -18,10 +23,5 @@
     "title": "Github Copilot–Auto model select",
     "link": "https://bartwullems.blogspot.com/2025/10/github-copilotauto-model-select.html",
     "pubDate": "2025-10-27T06:27:00.015+01:00"
-  },
-  {
-    "title": "Six words that define your leadership",
-    "link": "https://bartwullems.blogspot.com/2025/10/six-words-that-define-your-leadership.html",
-    "pubDate": "2025-10-24T06:57:00.003+02:00"
   }
 ]
