@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
+<small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 to Be Showcased at .NET Conf](https://visualstudiomagazine.com/Articles/2025/10/31/Visual-Studio-2026-to-Be-Showcased-at-,-d-,NET-Conf.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-31 simonwillison</small>  
+<small>[Curiosity-driven blogging](https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-31 bartwullems</small>  
 <small>[Restrict MCP server access when using Github Copilot -](https://bartwullems.blogspot.com/2025/10/restrict-mcp-server-access-when-using.html)</small>
 
@@ -24,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
 <small>[Microsoft's New Java & AI Video Series Helps Devs Get Started with GenAI](https://visualstudiomagazine.com/Articles/2025/10/30/New-Java-AI-Video-Series-Helps-Developers-Get-Started-with-Generative-AI.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
-<small>[Veeam Uses Azure Cosmos DB to Power Planet-Scale Data Discovery](https://visualstudiomagazine.com/Articles/2025/10/30/Veeam-Uses-Azure-Cosmos-DB-to-Power-Planet-Scale-Data-Discovery.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
-<small>[GitHub Copilot Adds New C++ Capabilities with MSVC Upgrades and Build Performance Improvements](https://visualstudiomagazine.com/Articles/2025/10/30/GitHub-Copilot-Adds-New-C-Capabilities-with-MSVC-Upgrades-and-Build-Performance-Improvements.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
@@ -54,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
 <small>[MiniMax M2 & Agent: Ingenious in Simplicity](https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
-<small>[Composer: Building a fast frontier model with RL](https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
 <small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>

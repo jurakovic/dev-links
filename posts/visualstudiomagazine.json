@@ -1,5 +1,15 @@
 [
   {
+    "title": "TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx",
+    "pubDate": "Fri, 31 Oct 2025 21:55:00 GMT"
+  },
+  {
+    "title": "Visual Studio 2026 to Be Showcased at .NET Conf",
+    "link": "https://visualstudiomagazine.com/Articles/2025/10/31/Visual-Studio-2026-to-Be-Showcased-at-,-d-,NET-Conf.aspx",
+    "pubDate": "Fri, 31 Oct 2025 17:37:00 GMT"
+  },
+  {
     "title": "Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx",
     "pubDate": "Thu, 30 Oct 2025 21:22:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Microsoft's New Java & AI Video Series Helps Devs Get Started with GenAI",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/30/New-Java-AI-Video-Series-Helps-Developers-Get-Started-with-Generative-AI.aspx",
     "pubDate": "Thu, 30 Oct 2025 20:41:00 GMT"
-  },
-  {
-    "title": "Veeam Uses Azure Cosmos DB to Power Planet-Scale Data Discovery",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/30/Veeam-Uses-Azure-Cosmos-DB-to-Power-Planet-Scale-Data-Discovery.aspx",
-    "pubDate": "Thu, 30 Oct 2025 20:19:00 GMT"
-  },
-  {
-    "title": "GitHub Copilot Adds New C++ Capabilities with MSVC Upgrades and Build Performance Improvements",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/30/GitHub-Copilot-Adds-New-C-Capabilities-with-MSVC-Upgrades-and-Build-Performance-Improvements.aspx",
-    "pubDate": "Thu, 30 Oct 2025 19:09:00 GMT"
   }
 ]

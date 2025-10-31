@@ -1,5 +1,10 @@
 [
   {
+    "title": "Curiosity-driven blogging",
+    "link": "https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything",
+    "pubDate": "2025-10-31T17:09:56+00:00"
+  },
+  {
     "title": "CoreWeave adds Marimo to their 2025 acquisition spree",
     "link": "https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything",
     "pubDate": "2025-10-31T13:57:51+00:00"
@@ -18,10 +23,5 @@
     "title": "MiniMax M2 & Agent: Ingenious in Simplicity",
     "link": "https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything",
     "pubDate": "2025-10-29T22:49:47+00:00"
-  },
-  {
-    "title": "Composer: Building a fast frontier model with RL",
-    "link": "https://simonwillison.net/2025/Oct/29/cursor-composer/#atom-everything",
-    "pubDate": "2025-10-29T20:45:53+00:00"
   }
 ]
