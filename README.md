@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-31 stackoverflow</small>  
+<small>[Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
 <small>[Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration](https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx)</small>
 
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-23 pragmaticengineer</small>  
 <small>[What caused the large AWS outage?](https://blog.pragmaticengineer.com/aws-outage-us-east-1/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-23 stackoverflow</small>  
-<small>[What leaders need to know from the 2025 Stack Overflow Developer Survey](https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-22 erikej</small>  
 <small>[Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip](https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html)</small>

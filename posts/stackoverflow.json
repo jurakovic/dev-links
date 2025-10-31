@@ -1,5 +1,10 @@
 [
   {
+    "title": "Vibe coding needs a spec, too",
+    "link": "https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/",
+    "pubDate": "Fri, 31 Oct 2025 07:40:00 GMT"
+  },
+  {
     "title": "Live from the OpenAI forum: Learning to code in the age of AI",
     "link": "https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/",
     "pubDate": "Thu, 30 Oct 2025 14:18:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Your runbooks are obsolete in the age of agents",
     "link": "https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/",
     "pubDate": "Fri, 24 Oct 2025 07:40:00 GMT"
-  },
-  {
-    "title": "What leaders need to know from the 2025 Stack Overflow Developer Survey",
-    "link": "https://stackoverflow.blog/2025/10/23/what-leaders-need-to-know-from-the-2025-stack-overflow-developer-survey/",
-    "pubDate": "Thu, 23 Oct 2025 07:40:00 GMT"
   }
 ]
