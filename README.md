@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
+<small>[Quoting Julian Andres Klode](https://simonwillison.net/2025/Nov/1/debian/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
 <small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
 
@@ -54,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
 <small>[Introducing SWE-1.5: Our Fast Agent Model](https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
-<small>[MiniMax M2 & Agent: Ingenious in Simplicity](https://simonwillison.net/2025/Oct/29/minimax-m2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
 <small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>
