@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
+<small>[PyCon US 2026 call for proposals is now open](https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
 <small>[How I Use Every Claude Code Feature](https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 to Be Showcased at .NET Conf](https://visualstudiomagazine.com/Articles/2025/10/31/Visual-Studio-2026-to-Be-Showcased-at-,-d-,NET-Conf.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-31 simonwillison</small>  
-<small>[Curiosity-driven blogging](https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-31 bartwullems</small>  
 <small>[Restrict MCP server access when using Github Copilot -](https://bartwullems.blogspot.com/2025/10/restrict-mcp-server-access-when-using.html)</small>
@@ -48,6 +48,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[New trend: programming by kicking off parallel AI agents](https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-10-30 developertoarchitect</small>  
+<small>[Lesson 213 - Governing Architectural Constraints (November 3, 2025)](http://www.developertoarchitect.com/lessons/lesson213.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-30 bartwullems</small>  
 <small>[Git worktrees–A first step towards a multi-agent development workflow](https://bartwullems.blogspot.com/2025/10/git-worktreesa-first-step-towards-multi.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-16 tidyfirst</small>  
 <small>[Separate Failed Assertions from Unexpected Exceptions?](https://tidyfirst.substack.com/p/separate-failed-assertions-from-unexpected)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-15 martinfowler</small>  
-<small>[Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)</small>
 

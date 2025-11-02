@@ -1,5 +1,10 @@
 [
   {
+    "title": "Lesson 213 - Governing Architectural Constraints (November 3, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson213.html",
+    "pubDate": "Thu, 30 Oct 2025 13:38:01 -0400"
+  },
+  {
     "title": "Lesson 212 - A Framework for Stressor Analysis (October 6, 2025)",
     "link": "http://www.developertoarchitect.com/lessons/lesson212.html",
     "pubDate": "Sat, 27 Sep 2025 14:53:04 -0400"
@@ -18,10 +23,5 @@
     "title": "Lesson 209 - Fallacies of Software Architecture Part 1 (July 7, 2025)",
     "link": "http://www.developertoarchitect.com/lessons/lesson209.html",
     "pubDate": "Sun, 06 Jul 2025 12:21:12 -0400"
-  },
-  {
-    "title": "Lesson 208 - Architectural Intersections (June 9, 2025)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson208.html",
-    "pubDate": "Tue, 29 Apr 2025 10:35:06 -0400"
   }
 ]
