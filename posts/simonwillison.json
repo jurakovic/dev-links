@@ -1,5 +1,20 @@
 [
   {
+    "title": "How I Use Every Claude Code Feature",
+    "link": "https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything",
+    "pubDate": "2025-11-02T02:46:17+00:00"
+  },
+  {
+    "title": "Claude Code Can Debug Low-level Cryptography",
+    "link": "https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything",
+    "pubDate": "2025-11-01T22:26:43+00:00"
+  },
+  {
+    "title": "October 2025 sponsors-only newsletter",
+    "link": "https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything",
+    "pubDate": "2025-11-01T22:11:58+00:00"
+  },
+  {
     "title": "Quoting Julian Andres Klode",
     "link": "https://simonwillison.net/2025/Nov/1/debian/#atom-everything",
     "pubDate": "2025-11-01T17:34:34+00:00"
@@ -8,20 +23,5 @@
     "title": "Curiosity-driven blogging",
     "link": "https://simonwillison.net/2025/Oct/31/curiosity-driven/#atom-everything",
     "pubDate": "2025-10-31T17:09:56+00:00"
-  },
-  {
-    "title": "CoreWeave adds Marimo to their 2025 acquisition spree",
-    "link": "https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything",
-    "pubDate": "2025-10-31T13:57:51+00:00"
-  },
-  {
-    "title": "Quoting François Chollet",
-    "link": "https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything",
-    "pubDate": "2025-10-30T02:37:18+00:00"
-  },
-  {
-    "title": "Introducing SWE-1.5: Our Fast Agent Model",
-    "link": "https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything",
-    "pubDate": "2025-10-29T23:59:20+00:00"
   }
 ]

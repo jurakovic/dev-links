@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
+<small>[How I Use Every Claude Code Feature](https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
+<small>[Claude Code Can Debug Low-level Cryptography](https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
+<small>[October 2025 sponsors-only newsletter](https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
 <small>[Quoting Julian Andres Klode](https://simonwillison.net/2025/Nov/1/debian/#atom-everything)</small>
 
@@ -21,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-31 visualstudio</small>  
 <small>[Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-31 simonwillison</small>  
-<small>[CoreWeave adds Marimo to their 2025 acquisition spree](https://simonwillison.net/2025/Oct/31/coreweave-acquires-marimo/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-31 stackoverflow</small>  
 <small>[Vibe coding needs a spec, too](https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/)</small>
@@ -51,12 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-30 visualstudio</small>  
 <small>[Visual Studio October Update – new models, memories, planning, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-30 simonwillison</small>  
-<small>[Quoting François Chollet](https://simonwillison.net/2025/Oct/30/francois-chollet/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-10-29 simonwillison</small>  
-<small>[Introducing SWE-1.5: Our Fast Agent Model](https://simonwillison.net/2025/Oct/29/swe-15/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
 <small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>
