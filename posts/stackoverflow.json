@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s new at Stack Overflow: November 2025",
+    "link": "https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/",
+    "pubDate": "Mon, 03 Nov 2025 15:00:00 GMT"
+  },
+  {
     "title": "Vibe coding needs a spec, too",
     "link": "https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/",
     "pubDate": "Fri, 31 Oct 2025 07:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "AI agents will succeed because one tool is better than ten",
     "link": "https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/",
     "pubDate": "Mon, 27 Oct 2025 14:00:17 GMT"
-  },
-  {
-    "title": "Your runbooks are obsolete in the age of agents",
-    "link": "https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/",
-    "pubDate": "Fri, 24 Oct 2025 07:40:00 GMT"
   }
 ]

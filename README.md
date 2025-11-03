@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-03 stackoverflow</small>  
+<small>[What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
 
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-24 terriblesoftware</small>  
 <small>[“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-24 stackoverflow</small>  
-<small>[Your runbooks are obsolete in the age of agents](https://stackoverflow.blog/2025/10/24/your-runbooks-are-obsolete-in-the-age-of-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
 <small>[Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/)</small>
