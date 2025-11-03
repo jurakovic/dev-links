@@ -1,27 +1,27 @@
 [
   {
+    "title": "The fetch()ening",
+    "link": "https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything",
+    "pubDate": "2025-11-03T21:39:54+00:00"
+  },
+  {
+    "title": "Quoting Barry Warsaw",
+    "link": "https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything",
+    "pubDate": "2025-11-03T21:27:08+00:00"
+  },
+  {
+    "title": "The case against pgvector",
+    "link": "https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything",
+    "pubDate": "2025-11-03T20:26:10+00:00"
+  },
+  {
+    "title": "Quoting MiniMax",
+    "link": "https://simonwillison.net/2025/Nov/3/minimax/#atom-everything",
+    "pubDate": "2025-11-03T17:24:39+00:00"
+  },
+  {
     "title": "New prompt injection papers: Agents Rule of Two and The Attacker Moves Second",
     "link": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything",
     "pubDate": "2025-11-02T23:09:33+00:00"
-  },
-  {
-    "title": "PyCon US 2026 call for proposals is now open",
-    "link": "https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything",
-    "pubDate": "2025-11-02T19:22:46+00:00"
-  },
-  {
-    "title": "How I Use Every Claude Code Feature",
-    "link": "https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything",
-    "pubDate": "2025-11-02T02:46:17+00:00"
-  },
-  {
-    "title": "Claude Code Can Debug Low-level Cryptography",
-    "link": "https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything",
-    "pubDate": "2025-11-01T22:26:43+00:00"
-  },
-  {
-    "title": "October 2025 sponsors-only newsletter",
-    "link": "https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything",
-    "pubDate": "2025-11-01T22:11:58+00:00"
   }
 ]

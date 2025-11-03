@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
+<small>[The fetch()ening](https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
+<small>[Quoting Barry Warsaw](https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
+<small>[The case against pgvector](https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
+<small>[Quoting MiniMax](https://simonwillison.net/2025/Nov/3/minimax/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-03 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/)</small>
 
@@ -12,18 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
 <small>[New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
-<small>[PyCon US 2026 call for proposals is now open](https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
-<small>[How I Use Every Claude Code Feature](https://simonwillison.net/2025/Nov/2/how-i-use-every-claude-code-feature/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
-<small>[Claude Code Can Debug Low-level Cryptography](https://simonwillison.net/2025/Nov/1/claude-code-cryptography/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
-<small>[October 2025 sponsors-only newsletter](https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
 <small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
