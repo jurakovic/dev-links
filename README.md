@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
+<small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
+<small>[New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
 <small>[PyCon US 2026 call for proposals is now open](https://simonwillison.net/2025/Nov/2/pycon-us-2026/#atom-everything)</small>
 
@@ -15,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
 <small>[October 2025 sponsors-only newsletter](https://simonwillison.net/2025/Nov/1/sponsors-only-newsletter/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-01 simonwillison</small>  
-<small>[Quoting Julian Andres Klode](https://simonwillison.net/2025/Nov/1/debian/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
 <small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-17 netflix</small>  
 <small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-16 tidyfirst</small>  
-<small>[Separate Failed Assertions from Unexpected Exceptions?](https://tidyfirst.substack.com/p/separate-failed-assertions-from-unexpected)</small>
 
