@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-04 stackoverflow</small>  
+<small>[To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
 <small>[Quoting Steve Francia](https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything)</small>
 
@@ -93,9 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-28 bartwullems</small>  
 <small>[Give your Github Copilot a break](https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-27 stackoverflow</small>  
-<small>[AI agents will succeed because one tool is better than ten](https://stackoverflow.blog/2025/10/27/ai-agents-will-succeed-because-one-tool-is-better-than-ten/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-27 bartwullems</small>  
 <small>[Github Copilot–Auto model select](https://bartwullems.blogspot.com/2025/10/github-copilotauto-model-select.html)</small>
