@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fragments Nov 3",
+    "link": "https://martinfowler.com/articles/2025-11-03-frags.html",
+    "pubDate": "2025-11-03T19:42:00-05:00"
+  },
+  {
     "title": "Agentic AI and Security",
     "link": "https://martinfowler.com/articles/agentic-ai-security.html",
     "pubDate": "2025-10-28T09:20:00-04:00"
@@ -18,10 +23,5 @@
     "title": "Anchoring AI to a reference application",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/anchoring-to-reference.html",
     "pubDate": "2025-09-25T12:57:00+03:00"
-  },
-  {
-    "title": "To vibe or not to vibe",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
-    "pubDate": "2025-09-23T10:53:00+03:00"
   }
 ]

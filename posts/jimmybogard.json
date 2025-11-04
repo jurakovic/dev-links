@@ -1,5 +1,10 @@
 [
   {
+    "title": "AutoMapper 15.1 and MediatR 13.1 Released",
+    "link": "https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/",
+    "pubDate": "Mon, 03 Nov 2025 22:06:16 GMT"
+  },
+  {
     "title": "AutoMapper and MediatR Roadmaps",
     "link": "https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/",
     "pubDate": "Tue, 08 Jul 2025 15:15:32 GMT"
@@ -18,10 +23,5 @@
     "title": "AutoMapper and MediatR Going Commercial",
     "link": "https://www.jimmybogard.com/automapper-and-mediatr-going-commercial/",
     "pubDate": "Wed, 02 Apr 2025 13:00:12 GMT"
-  },
-  {
-    "title": "MediatR 12.5.0 Released",
-    "link": "https://www.jimmybogard.com/mediatr-12-5-0-released/",
-    "pubDate": "Tue, 01 Apr 2025 18:50:06 GMT"
   }
 ]

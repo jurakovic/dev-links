@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Steve Francia",
+    "link": "https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything",
+    "pubDate": "2025-11-04T02:54:07+00:00"
+  },
+  {
     "title": "The fetch()ening",
     "link": "https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything",
     "pubDate": "2025-11-03T21:39:54+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting MiniMax",
     "link": "https://simonwillison.net/2025/Nov/3/minimax/#atom-everything",
     "pubDate": "2025-11-03T17:24:39+00:00"
-  },
-  {
-    "title": "New prompt injection papers: Agents Rule of Two and The Attacker Moves Second",
-    "link": "https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything",
-    "pubDate": "2025-11-02T23:09:33+00:00"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
+<small>[Quoting Steve Francia](https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
+<small>[Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-11-03 jimmybogard</small>  
+<small>[AutoMapper 15.1 and MediatR 13.1 Released](https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
 <small>[The fetch()ening](https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything)</small>
 
@@ -21,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-02 simonwillison</small>  
-<small>[New prompt injection papers: Agents Rule of Two and The Attacker Moves Second](https://simonwillison.net/2025/Nov/2/new-prompt-injection-papers/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
 <small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-20 erikej</small>  
 <small>[Get a 180% speed increase on large async reads with Microsoft.Data.SqlClient (and EF Core) - here is how to turn it on!](https://erikej.github.io/sqlclient/dotnet/performance/2025/10/20/sqlclient-performance.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-20 steven-giesel</small>  
-<small>[Inlining and structs in C#](https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-17 netflix</small>  
-<small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 1 — Ingesting and Processing Data…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-1-ingesting-and-processing-data-80113e124acc?source=rss----2615bd06b42e---4)</small>
 
