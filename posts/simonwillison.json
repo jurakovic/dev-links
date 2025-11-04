@@ -1,5 +1,15 @@
 [
   {
+    "title": "A new SQL-powered permissions system in Datasette 1.0a20",
+    "link": "https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything",
+    "pubDate": "2025-11-04T21:34:42+00:00"
+  },
+  {
+    "title": "MCP Colors: Systematically deal with prompt injection risk",
+    "link": "https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything",
+    "pubDate": "2025-11-04T16:52:21+00:00"
+  },
+  {
     "title": "Quoting Steve Francia",
     "link": "https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything",
     "pubDate": "2025-11-04T02:54:07+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Barry Warsaw",
     "link": "https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything",
     "pubDate": "2025-11-03T21:27:08+00:00"
-  },
-  {
-    "title": "The case against pgvector",
-    "link": "https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything",
-    "pubDate": "2025-11-03T20:26:10+00:00"
-  },
-  {
-    "title": "Quoting MiniMax",
-    "link": "https://simonwillison.net/2025/Nov/3/minimax/#atom-everything",
-    "pubDate": "2025-11-03T17:24:39+00:00"
   }
 ]

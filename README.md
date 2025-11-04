@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
+<small>[A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-04 dotnet</small>  
+<small>[Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
+<small>[MCP Colors: Systematically deal with prompt injection risk](https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)</small>
 
@@ -27,12 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
 <small>[Quoting Barry Warsaw](https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
-<small>[The case against pgvector](https://simonwillison.net/2025/Nov/3/the-case-against-pgvector/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
-<small>[Quoting MiniMax](https://simonwillison.net/2025/Nov/3/minimax/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-03 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-21 tidyfirst</small>  
 <small>[First Principles First](https://tidyfirst.substack.com/p/first-principles-first)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-10-21 netflix</small>  
-<small>[Behind the Streams: Real-Time Recommendations for Live Events Part 3](https://netflixtechblog.com/behind-the-streams-real-time-recommendations-for-live-events-e027cb313f8f?source=rss----2615bd06b42e---4)</small>
 
