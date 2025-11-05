@@ -4,8 +4,11 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-05 stackoverflow</small>  
+<small>[The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
-<small>[Quoting @belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/#atom-everything)</small>
+<small>[Quoting Ada James](https://simonwillison.net/2025/Nov/5/brenda/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
 <small>[Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything)</small>
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-10-28 andrewlock</small>  
 <small>[Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-10-28 stackoverflow</small>  
-<small>[Craft and quality beat speed and scale, with or without agents](https://stackoverflow.blog/2025/10/28/craft-and-quality-beat-speed-and-scale-with-or-without-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-28 bartwullems</small>  
 <small>[Give your Github Copilot a break](https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html)</small>
