@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
+<small>[Microsoft Details How 'Agents Took Over VS Code in 2025'](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
+<small>[Custom Agents Lead Microsoft AI Roadmap for Visual Studio](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Outlines-November-AI-Roadmap-for-Visual-Studio.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 visualstudio</small>  
+<small>[Roadmap for AI in Visual Studio (November)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 dotnet</small>  
+<small>[How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-05 stackoverflow</small>  
 <small>[The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/)</small>
 
@@ -63,12 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
 <small>[Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration](https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
-<small>[VS Code Expands AI Flexibility with Bring Your Own Key](https://visualstudiomagazine.com/Articles/2025/10/30/VS-Code-Expands-AI-Flexibility-with-Bring-Your-Own-Key.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
-<small>[Microsoft's New Java & AI Video Series Helps Devs Get Started with GenAI](https://visualstudiomagazine.com/Articles/2025/10/30/New-Java-AI-Video-Series-Helps-Developers-Get-Started-with-Generative-AI.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-21 martinfowler</small>  
 <small>[Fragments and Links](https://martinfowler.com/articles/20251021-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-21 visualstudio</small>  
-<small>[Modernizing Visual Studio Extension Compatibility: Effortless Migration for Extension Developers and Users](https://devblogs.microsoft.com/visualstudio/modernizing-visual-studio-extension-compatibility-effortless-migration-for-extension-developers-and-users/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-21 tidyfirst</small>  
-<small>[First Principles First](https://tidyfirst.substack.com/p/first-principles-first)</small>
 

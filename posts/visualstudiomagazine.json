@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Details How 'Agents Took Over VS Code in 2025'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx",
+    "pubDate": "Wed, 05 Nov 2025 21:01:00 GMT"
+  },
+  {
+    "title": "Custom Agents Lead Microsoft AI Roadmap for Visual Studio",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Outlines-November-AI-Roadmap-for-Visual-Studio.aspx",
+    "pubDate": "Wed, 05 Nov 2025 20:22:00 GMT"
+  },
+  {
     "title": "TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx",
     "pubDate": "Fri, 31 Oct 2025 22:55:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration",
     "link": "https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx",
     "pubDate": "Thu, 30 Oct 2025 22:22:00 GMT"
-  },
-  {
-    "title": "VS Code Expands AI Flexibility with Bring Your Own Key",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/30/VS-Code-Expands-AI-Flexibility-with-Bring-Your-Own-Key.aspx",
-    "pubDate": "Thu, 30 Oct 2025 22:08:00 GMT"
-  },
-  {
-    "title": "Microsoft's New Java & AI Video Series Helps Devs Get Started with GenAI",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/30/New-Java-AI-Video-Series-Helps-Developers-Get-Started-with-Generative-AI.aspx",
-    "pubDate": "Thu, 30 Oct 2025 21:41:00 GMT"
   }
 ]
