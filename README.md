@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
+<small>[Quoting @belligerentbarbies](https://simonwillison.net/2025/Nov/5/brenda/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
+<small>[Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
 <small>[A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything)</small>
 
@@ -30,12 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-11-03 jimmybogard</small>  
 <small>[AutoMapper 15.1 and MediatR 13.1 Released](https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
-<small>[The fetch()ening](https://simonwillison.net/2025/Nov/3/htmx-the-fetchening/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-03 simonwillison</small>  
-<small>[Quoting Barry Warsaw](https://simonwillison.net/2025/Nov/3/barry-warsaw/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-03 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/)</small>
