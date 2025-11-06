@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-06 simonwillison</small>  
+<small>[Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
 <small>[Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21](https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything)</small>
 
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
 <small>[Code execution with MCP: Building more efficient agents](https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
-<small>[A new SQL-powered permissions system in Datasette 1.0a20](https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-04 dotnet</small>  
 <small>[Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/)</small>

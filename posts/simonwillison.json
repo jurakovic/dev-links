@@ -1,5 +1,10 @@
 [
   {
+    "title": "Code research projects with async coding agents like Claude Code and Codex",
+    "link": "https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything",
+    "pubDate": "2025-11-06T15:53:23+00:00"
+  },
+  {
     "title": "Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21",
     "link": "https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything",
     "pubDate": "2025-11-05T23:11:17+00:00"
@@ -18,10 +23,5 @@
     "title": "Code execution with MCP: Building more efficient agents",
     "link": "https://simonwillison.net/2025/Nov/4/code-execution-with-mcp/#atom-everything",
     "pubDate": "2025-11-04T23:56:24+00:00"
-  },
-  {
-    "title": "A new SQL-powered permissions system in Datasette 1.0a20",
-    "link": "https://simonwillison.net/2025/Nov/4/datasette-10a20/#atom-everything",
-    "pubDate": "2025-11-04T21:34:42+00:00"
   }
 ]
