@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
+<small>[Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21](https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
+<small>[Removing XSLT for a more secure browser](https://simonwillison.net/2025/Nov/5/removing-xslt/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
 <small>[Microsoft Details How 'Agents Took Over VS Code in 2025'](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx)</small>
 
@@ -31,9 +37,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-04 dotnet</small>  
 <small>[Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
-<small>[MCP Colors: Systematically deal with prompt injection risk](https://simonwillison.net/2025/Nov/4/mcp-colors/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-04 stackoverflow</small>  
 <small>[To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-04 simonwillison</small>  
-<small>[Quoting Steve Francia](https://simonwillison.net/2025/Nov/4/steve-francia/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)</small>
