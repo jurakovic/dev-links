@@ -1,5 +1,20 @@
 [
   {
+    "title": "Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale",
+    "link": "https://simonwillison.net/2025/Nov/7/codex-tailscale-spark/#atom-everything",
+    "pubDate": "2025-11-07T07:23:12+00:00"
+  },
+  {
+    "title": "Game design is simple, actually",
+    "link": "https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything",
+    "pubDate": "2025-11-07T05:47:03+00:00"
+  },
+  {
+    "title": "You should write an agent",
+    "link": "https://simonwillison.net/2025/Nov/7/you-should-write-an-agent/#atom-everything",
+    "pubDate": "2025-11-07T04:40:12+00:00"
+  },
+  {
     "title": "Quoting Ben Stolovitz",
     "link": "https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything",
     "pubDate": "2025-11-07T00:15:55+00:00"
@@ -8,20 +23,5 @@
     "title": "Kimi K2 Thinking",
     "link": "https://simonwillison.net/2025/Nov/6/kimi-k2-thinking/#atom-everything",
     "pubDate": "2025-11-06T23:53:06+00:00"
-  },
-  {
-    "title": "Quoting Nathan Lambert",
-    "link": "https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything",
-    "pubDate": "2025-11-06T21:44:33+00:00"
-  },
-  {
-    "title": "Video + notes on upgrading a Datasette plugin for the latest 1.0 alpha, with help from uv and OpenAI Codex CLI",
-    "link": "https://simonwillison.net/2025/Nov/6/upgrading-datasette-plugins/#atom-everything",
-    "pubDate": "2025-11-06T18:26:05+00:00"
-  },
-  {
-    "title": "Code research projects with async coding agents like Claude Code and Codex",
-    "link": "https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything",
-    "pubDate": "2025-11-06T15:53:23+00:00"
   }
 ]

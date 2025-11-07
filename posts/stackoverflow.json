@@ -1,5 +1,10 @@
 [
   {
+    "title": "Revealing the unknown unknowns in your software",
+    "link": "https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/",
+    "pubDate": "Fri, 07 Nov 2025 08:40:00 GMT"
+  },
+  {
     "title": "The AI ick",
     "link": "https://stackoverflow.blog/2025/11/05/the-ai-ick/",
     "pubDate": "Wed, 05 Nov 2025 17:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Vibe coding needs a spec, too",
     "link": "https://stackoverflow.blog/2025/10/31/vibe-coding-needs-a-spec-too/",
     "pubDate": "Fri, 31 Oct 2025 07:40:00 GMT"
-  },
-  {
-    "title": "Live from the OpenAI forum: Learning to code in the age of AI",
-    "link": "https://stackoverflow.blog/2025/10/30/live-from-the-openai-forum-learning-to-code-in-the-age-of-ai/",
-    "pubDate": "Thu, 30 Oct 2025 14:18:00 GMT"
   }
 ]
