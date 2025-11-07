@@ -1,5 +1,10 @@
 [
   {
+    "title": "Could LLMs encourage new programming languages?",
+    "link": "https://simonwillison.net/2025/Nov/7/llms-for-new-programming-languages/#atom-everything",
+    "pubDate": "2025-11-07T16:00:42+00:00"
+  },
+  {
     "title": "Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale",
     "link": "https://simonwillison.net/2025/Nov/7/codex-tailscale-spark/#atom-everything",
     "pubDate": "2025-11-07T07:23:12+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Ben Stolovitz",
     "link": "https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything",
     "pubDate": "2025-11-07T00:15:55+00:00"
-  },
-  {
-    "title": "Kimi K2 Thinking",
-    "link": "https://simonwillison.net/2025/Nov/6/kimi-k2-thinking/#atom-everything",
-    "pubDate": "2025-11-06T23:53:06+00:00"
   }
 ]

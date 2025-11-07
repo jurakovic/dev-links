@@ -1,5 +1,10 @@
 [
   {
+    "title": "\"Good engineering management\" is a fad",
+    "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
+    "pubDate": "Sun, 26 Oct 2025 04:00:00 -0700"
+  },
+  {
     "title": "Crafting Engineering Strategy!",
     "link": "https://lethain.com/crafting-engineering-strategy/",
     "pubDate": "Sat, 25 Oct 2025 04:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "Moving from an orchestration-heavy to leadership-heavy management role.",
     "link": "https://lethain.com/orchestration-heavy-leadership-heavy/",
     "pubDate": "Sat, 19 Jul 2025 04:00:00 -0700"
-  },
-  {
-    "title": "Advancing the industry, part two.",
-    "link": "https://lethain.com/advancing-the-industry-pt2/",
-    "pubDate": "Fri, 18 Jul 2025 04:00:00 -0700"
   }
 ]
