@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
+<small>[Quoting Ben Stolovitz](https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-06 simonwillison</small>  
+<small>[Kimi K2 Thinking](https://simonwillison.net/2025/Nov/6/kimi-k2-thinking/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-06 simonwillison</small>  
 <small>[Quoting Nathan Lambert](https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything)</small>
 
@@ -15,12 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-06 simonwillison</small>  
 <small>[Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
-<small>[Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21](https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-05 simonwillison</small>  
-<small>[Removing XSLT for a more secure browser](https://simonwillison.net/2025/Nov/5/removing-xslt/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
 <small>[Microsoft Details How 'Agents Took Over VS Code in 2025'](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx)</small>

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Ben Stolovitz",
+    "link": "https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything",
+    "pubDate": "2025-11-07T00:15:55+00:00"
+  },
+  {
+    "title": "Kimi K2 Thinking",
+    "link": "https://simonwillison.net/2025/Nov/6/kimi-k2-thinking/#atom-everything",
+    "pubDate": "2025-11-06T23:53:06+00:00"
+  },
+  {
     "title": "Quoting Nathan Lambert",
     "link": "https://simonwillison.net/2025/Nov/6/nathan-lambert/#atom-everything",
     "pubDate": "2025-11-06T21:44:33+00:00"
@@ -13,15 +23,5 @@
     "title": "Code research projects with async coding agents like Claude Code and Codex",
     "link": "https://simonwillison.net/2025/Nov/6/async-code-research/#atom-everything",
     "pubDate": "2025-11-06T15:53:23+00:00"
-  },
-  {
-    "title": "Open redirect endpoint in Datasette prior to 0.65.2 and 1.0a21",
-    "link": "https://simonwillison.net/2025/Nov/5/open-redirect-datasette/#atom-everything",
-    "pubDate": "2025-11-05T23:11:17+00:00"
-  },
-  {
-    "title": "Removing XSLT for a more secure browser",
-    "link": "https://simonwillison.net/2025/Nov/5/removing-xslt/#atom-everything",
-    "pubDate": "2025-11-05T22:24:57+00:00"
   }
 ]
