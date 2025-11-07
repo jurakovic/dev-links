@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
+<small>[Quoting Josh Cohenzadeh](https://simonwillison.net/2025/Nov/7/josh-cohenzadeh/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
 <small>[Could LLMs encourage new programming languages?](https://simonwillison.net/2025/Nov/7/llms-for-new-programming-languages/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-07 stackoverflow</small>  
@@ -18,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
 <small>[You should write an agent](https://simonwillison.net/2025/Nov/7/you-should-write-an-agent/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
-<small>[Quoting Ben Stolovitz](https://simonwillison.net/2025/Nov/7/ben-stolovitz/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-06 pragmaticengineer</small>  
 <small>[The Pulse: Amazon layoffs – AI or economy to blame?](https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/)</small>
