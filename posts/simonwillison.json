@@ -1,5 +1,10 @@
 [
   {
+    "title": "Mastodon 4.5",
+    "link": "https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything",
+    "pubDate": "2025-11-08T01:52:14+00:00"
+  },
+  {
     "title": "Quoting Josh Cohenzadeh",
     "link": "https://simonwillison.net/2025/Nov/7/josh-cohenzadeh/#atom-everything",
     "pubDate": "2025-11-07T16:38:03+00:00"
@@ -18,10 +23,5 @@
     "title": "Game design is simple, actually",
     "link": "https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything",
     "pubDate": "2025-11-07T05:47:03+00:00"
-  },
-  {
-    "title": "You should write an agent",
-    "link": "https://simonwillison.net/2025/Nov/7/you-should-write-an-agent/#atom-everything",
-    "pubDate": "2025-11-07T04:40:12+00:00"
   }
 ]
