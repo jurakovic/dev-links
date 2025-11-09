@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
+<small>[Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
+<small>[Quoting Kenton Varda](https://simonwillison.net/2025/Nov/8/kenton-varda/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
 <small>[Mastodon 4.5](https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything)</small>
 
@@ -15,12 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-07 stackoverflow</small>  
 <small>[Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
-<small>[Using Codex CLI with gpt-oss:120b on an NVIDIA DGX Spark via Tailscale](https://simonwillison.net/2025/Nov/7/codex-tailscale-spark/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
-<small>[Game design is simple, actually](https://simonwillison.net/2025/Nov/7/game-design-is-simple-actually/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-06 pragmaticengineer</small>  
 <small>[The Pulse: Amazon layoffs – AI or economy to blame?](https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/)</small>
