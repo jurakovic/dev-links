@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pelican on a Bike - Raytracer Edition",
+    "link": "https://simonwillison.net/2025/Nov/9/pelican-on-a-bike-raytracer-edition/#atom-everything",
+    "pubDate": "2025-11-09T16:51:42+00:00"
+  },
+  {
     "title": "Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican",
     "link": "https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/#atom-everything",
     "pubDate": "2025-11-09T03:31:34+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Josh Cohenzadeh",
     "link": "https://simonwillison.net/2025/Nov/7/josh-cohenzadeh/#atom-everything",
     "pubDate": "2025-11-07T16:38:03+00:00"
-  },
-  {
-    "title": "Could LLMs encourage new programming languages?",
-    "link": "https://simonwillison.net/2025/Nov/7/llms-for-new-programming-languages/#atom-everything",
-    "pubDate": "2025-11-07T16:00:42+00:00"
   }
 ]

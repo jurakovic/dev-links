@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
+<small>[Pelican on a Bike - Raytracer Edition](https://simonwillison.net/2025/Nov/9/pelican-on-a-bike-raytracer-edition/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
 <small>[Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
@@ -15,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
 <small>[Quoting Josh Cohenzadeh](https://simonwillison.net/2025/Nov/7/josh-cohenzadeh/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
-<small>[Could LLMs encourage new programming languages?](https://simonwillison.net/2025/Nov/7/llms-for-new-programming-languages/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-07 stackoverflow</small>  
 <small>[Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/)</small>
