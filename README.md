@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-10 bartwullems</small>  
+<small>[I love it when a plan comes together](https://bartwullems.blogspot.com/2025/11/i-love-it-when-plan-comes-together.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-10 steven-giesel</small>  
+<small>[Capturing Console Output in xUnit.v3](https://steven-giesel.com/blogPost/63a50c08-ddba-4f23-9ce0-b47917e32875)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
 <small>[Pelican on a Bike - Raytracer Edition](https://simonwillison.net/2025/Nov/9/pelican-on-a-bike-raytracer-edition/#atom-everything)</small>
 
@@ -115,9 +121,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-28 bartwullems</small>  
 <small>[Give your Github Copilot a break](https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-27 bartwullems</small>  
-<small>[Github Copilot–Auto model select](https://bartwullems.blogspot.com/2025/10/github-copilotauto-model-select.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-27 steven-giesel</small>  
 <small>[LinkedIn: "Are you still using new Random() everywhere?"](https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-22 visualstudio</small>  
 <small>[Introducing Planning in Visual Studio (Public Preview)](https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2025-10-22 thecodist</small>  
-<small>[That Time I Trashed The Company Mainframe, And The Lesson I Learned](https://thecodist.com/that-time-i-trashed-the-company-mainframe-and-the-lesson-i-learned/)</small>
 
