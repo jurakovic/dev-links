@@ -1,5 +1,10 @@
 [
   {
+    "title": "Four years on writing a tech book: pitching to a publisher",
+    "link": "https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/",
+    "pubDate": "Tue, 11 Nov 2025 10:45:43 GMT"
+  },
+  {
     "title": "The Pulse: Amazon layoffs – AI or economy to blame?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/",
     "pubDate": "Thu, 06 Nov 2025 16:40:34 GMT"
@@ -18,10 +23,5 @@
     "title": "What caused the large AWS outage?",
     "link": "https://blog.pragmaticengineer.com/aws-outage-us-east-1/",
     "pubDate": "Thu, 23 Oct 2025 16:26:27 GMT"
-  },
-  {
-    "title": "Creative ways to fund open source projects",
-    "link": "https://blog.pragmaticengineer.com/creative-ways-to-fund-open-source-projects/",
-    "pubDate": "Thu, 21 Aug 2025 16:46:22 GMT"
   }
 ]

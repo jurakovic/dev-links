@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-12 stackoverflow</small>  
+<small>[2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 visualstudio</small>  
+<small>[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 dotnet</small>  
+<small>[Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 dotnet</small>  
+<small>[.NET and .NET Framework November 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2025-servicing-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-11 antirez</small>  
+<small>[Scaling HNSWs](http://antirez.com/news/156)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-11 pragmaticengineer</small>  
+<small>[Four years on writing a tech book: pitching to a publisher](https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-11 stackoverflow</small>  
 <small>[AI code means more critical thinking, not less](https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/)</small>
 
@@ -70,9 +88,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-11-03 jimmybogard</small>  
 <small>[AutoMapper 15.1 and MediatR 13.1 Released](https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-03 stackoverflow</small>  
-<small>[What’s new at Stack Overflow: November 2025](https://stackoverflow.blog/2025/11/03/what-s-new-at-stack-overflow-november-2025/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
 
@@ -136,21 +151,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-24 terriblesoftware</small>  
 <small>[“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
-<small>[Announcing Sponsorship on NuGet.org](https://devblogs.microsoft.com/dotnet/announcing-sponsorship-on-nugetdotorg-for-maintainer-appreciation/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-23 slack</small>  
 <small>[Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-23 dotnet</small>  
-<small>[Upgrading to Microsoft Agent Framework in Your .NET AI Chat App](https://devblogs.microsoft.com/dotnet/upgrading-to-microsoft-agent-framework-in-your-dotnet-ai-chat-app/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-23 pragmaticengineer</small>  
-<small>[What caused the large AWS outage?](https://blog.pragmaticengineer.com/aws-outage-us-east-1/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-10-22 erikej</small>  
-<small>[Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip](https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-22 visualstudio</small>  
-<small>[Introducing Planning in Visual Studio (Public Preview)](https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/)</small>
 
