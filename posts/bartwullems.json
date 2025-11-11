@@ -1,5 +1,10 @@
 [
   {
+    "title": "Unlocking Collection Expressions for your own types",
+    "link": "https://bartwullems.blogspot.com/2025/11/unlocking-collection-expressions-for.html",
+    "pubDate": "2025-11-11T06:48:00.004+01:00"
+  },
+  {
     "title": "I love it when a plan comes together",
     "link": "https://bartwullems.blogspot.com/2025/11/i-love-it-when-plan-comes-together.html",
     "pubDate": "2025-11-10T07:05:00.035+01:00"
@@ -18,10 +23,5 @@
     "title": "Catching dependency injection configuration errors early",
     "link": "https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html",
     "pubDate": "2025-10-29T16:35:00.005+01:00"
-  },
-  {
-    "title": "Give your Github Copilot a break",
-    "link": "https://bartwullems.blogspot.com/2025/10/give-your-github-copilot-break.html",
-    "pubDate": "2025-10-28T06:47:00.017+01:00"
   }
 ]
