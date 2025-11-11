@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-10 simonwillison</small>  
+<small>[Quoting Netflix](https://simonwillison.net/2025/Nov/10/netflix/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-10 bartwullems</small>  
 <small>[I love it when a plan comes together](https://bartwullems.blogspot.com/2025/11/i-love-it-when-plan-comes-together.html)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
 <small>[Mastodon 4.5](https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-07 simonwillison</small>  
-<small>[Quoting Josh Cohenzadeh](https://simonwillison.net/2025/Nov/7/josh-cohenzadeh/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-07 stackoverflow</small>  
 <small>[Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/)</small>
