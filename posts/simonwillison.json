@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Steve Krouse",
+    "link": "https://simonwillison.net/2025/Nov/12/steve-krouse/#atom-everything",
+    "pubDate": "2025-11-12T17:21:19+00:00"
+  },
+  {
     "title": "Fun-reliable side-channels for cross-container communication",
     "link": "https://simonwillison.net/2025/Nov/12/h4x0rchat/#atom-everything",
     "pubDate": "2025-11-12T16:04:03+00:00"
@@ -18,10 +23,5 @@
     "title": "Six coding agents at once",
     "link": "https://simonwillison.net/2025/Nov/11/six-coding-agents-at-once/#atom-everything",
     "pubDate": "2025-11-11T22:52:45+00:00"
-  },
-  {
-    "title": "Quoting Netflix",
-    "link": "https://simonwillison.net/2025/Nov/10/netflix/#atom-everything",
-    "pubDate": "2025-11-10T22:08:27+00:00"
   }
 ]

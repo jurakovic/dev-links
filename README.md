@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'](https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
+<small>[.NET 10 Arrives with AI Integration, Performance Boosts, and New Tools](https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
+<small>[VS Code 1.106 (October Update) Adds Agent HQ, New Security Controls](https://visualstudiomagazine.com/Articles/2025/11/12/VS-Code-1-106-Adds-Agent-HQ-New-Security-Controls.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
+<small>[GitHub Copilot Adds 'Auto Model' Selection Preview for Smarter, Faster Responses](https://visualstudiomagazine.com/Articles/2025/11/12/GitHub-Copilot-Adds-Auto-Model-Selection-Preview-for-Smarter-Faster-Responses.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
+<small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-12 simonwillison</small>  
+<small>[Quoting Steve Krouse](https://simonwillison.net/2025/Nov/12/steve-krouse/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-12 simonwillison</small>  
 <small>[Fun-reliable side-channels for cross-container communication](https://simonwillison.net/2025/Nov/12/h4x0rchat/#atom-everything)</small>
 
@@ -43,9 +61,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-11 bartwullems</small>  
 <small>[Unlocking Collection Expressions for your own types](https://bartwullems.blogspot.com/2025/11/unlocking-collection-expressions-for.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-10 simonwillison</small>  
-<small>[Quoting Netflix](https://simonwillison.net/2025/Nov/10/netflix/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-10 bartwullems</small>  
 <small>[I love it when a plan comes together](https://bartwullems.blogspot.com/2025/11/i-love-it-when-plan-comes-together.html)</small>
 
@@ -60,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
 <small>[Microsoft Details How 'Agents Took Over VS Code in 2025'](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
-<small>[Custom Agents Lead Microsoft AI Roadmap for Visual Studio](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Outlines-November-AI-Roadmap-for-Visual-Studio.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (November)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/)</small>
@@ -94,20 +106,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
-<small>[TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices](https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-31 visualstudiomagazine</small>  
-<small>[Visual Studio 2026 to Be Showcased at .NET Conf](https://visualstudiomagazine.com/Articles/2025/10/31/Visual-Studio-2026-to-Be-Showcased-at-,-d-,NET-Conf.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-31 bartwullems</small>  
 <small>[Restrict MCP server access when using Github Copilot -](https://bartwullems.blogspot.com/2025/10/restrict-mcp-server-access-when-using.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-31 visualstudio</small>  
 <small>[Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-10-30 visualstudiomagazine</small>  
-<small>[Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration](https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-10-24 terriblesoftware</small>  
 <small>[“ChatGPT said this” Is Lazy](https://terriblesoftware.org/2025/10/24/chatgpt-said-this-is-lazy/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2025-10-23 slack</small>  
-<small>[Advancing Our Chef Infrastructure: Safety Without Disruption](https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/)</small>
 

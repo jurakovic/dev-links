@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Copilot auto model selection (preview)",
+    "link": "https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/",
+    "pubDate": "Wed, 12 Nov 2025 17:38:43 +0000"
+  },
+  {
     "title": "Visual Studio 2026 is here: faster, smarter, and a hit with early adopters",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/",
     "pubDate": "Tue, 11 Nov 2025 16:08:47 +0000"
@@ -18,10 +23,5 @@
     "title": "Visual Studio October Update – new models, memories, planning, and more",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/",
     "pubDate": "Thu, 30 Oct 2025 12:00:36 +0000"
-  },
-  {
-    "title": "Introducing Planning in Visual Studio (Public Preview)",
-    "link": "https://devblogs.microsoft.com/visualstudio/introducing-planning-in-visual-studio-public-preview/",
-    "pubDate": "Wed, 22 Oct 2025 15:54:18 +0000"
   }
 ]

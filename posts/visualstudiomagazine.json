@@ -1,27 +1,27 @@
 [
   {
+    "title": "Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx",
+    "pubDate": "Wed, 12 Nov 2025 20:32:00 GMT"
+  },
+  {
+    "title": ".NET 10 Arrives with AI Integration, Performance Boosts, and New Tools",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx",
+    "pubDate": "Wed, 12 Nov 2025 19:51:00 GMT"
+  },
+  {
+    "title": "VS Code 1.106 (October Update) Adds Agent HQ, New Security Controls",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/VS-Code-1-106-Adds-Agent-HQ-New-Security-Controls.aspx",
+    "pubDate": "Wed, 12 Nov 2025 18:58:00 GMT"
+  },
+  {
+    "title": "GitHub Copilot Adds 'Auto Model' Selection Preview for Smarter, Faster Responses",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/GitHub-Copilot-Adds-Auto-Model-Selection-Preview-for-Smarter-Faster-Responses.aspx",
+    "pubDate": "Wed, 12 Nov 2025 18:28:00 GMT"
+  },
+  {
     "title": "Microsoft Details How 'Agents Took Over VS Code in 2025'",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx",
     "pubDate": "Wed, 05 Nov 2025 21:01:00 GMT"
-  },
-  {
-    "title": "Custom Agents Lead Microsoft AI Roadmap for Visual Studio",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Outlines-November-AI-Roadmap-for-Visual-Studio.aspx",
-    "pubDate": "Wed, 05 Nov 2025 20:22:00 GMT"
-  },
-  {
-    "title": "TypeScript Tops GitHub Octoverse as AI Era Reshapes Language Choices",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/31/TypeScript-Tops-GitHub-Octoverse-as-AI-Era-Reshapes-Language-Choices.aspx",
-    "pubDate": "Fri, 31 Oct 2025 22:55:00 GMT"
-  },
-  {
-    "title": "Visual Studio 2026 to Be Showcased at .NET Conf",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/31/Visual-Studio-2026-to-Be-Showcased-at-,-d-,NET-Conf.aspx",
-    "pubDate": "Fri, 31 Oct 2025 18:37:00 GMT"
-  },
-  {
-    "title": "Azure Cosmos DB Python SDK Update Powers AI with OpenAI Integration",
-    "link": "https://visualstudiomagazine.com/Articles/2025/10/30/Azure-Cosmos-DB-Python-SDK-Update-Powers-AI-with-OpenAI-Integration.aspx",
-    "pubDate": "Thu, 30 Oct 2025 22:22:00 GMT"
   }
 ]
