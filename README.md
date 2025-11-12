@@ -7,6 +7,15 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-12 stackoverflow</small>  
 <small>[2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
+<small>[Scaling HNSWs](https://simonwillison.net/2025/Nov/11/scaling-hnsws/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
+<small>[Agentic Pelican on a Bicycle](https://simonwillison.net/2025/Nov/11/agentic-pelican-on-a-bicycle/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
+<small>[Six coding agents at once](https://simonwillison.net/2025/Nov/11/six-coding-agents-at-once/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 visualstudio</small>  
 <small>[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/)</small>
 
@@ -39,15 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
 <small>[Pelican on a Bike - Raytracer Edition](https://simonwillison.net/2025/Nov/9/pelican-on-a-bike-raytracer-edition/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-09 simonwillison</small>  
-<small>[Reverse engineering Codex CLI to get GPT-5-Codex-Mini to draw me a pelican](https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
-<small>[Quoting Kenton Varda](https://simonwillison.net/2025/Nov/8/kenton-varda/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-08 simonwillison</small>  
-<small>[Mastodon 4.5](https://simonwillison.net/2025/Nov/8/mastodon-45/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-07 stackoverflow</small>  
 <small>[Revealing the unknown unknowns in your software](https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/)</small>
