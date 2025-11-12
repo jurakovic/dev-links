@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-12 stackoverflow</small>  
 <small>[2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-12 bartwullems</small>  
+<small>[Vibe Coding with GitHub Spark: From idea to app in minutes](https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
 <small>[Scaling HNSWs](https://simonwillison.net/2025/Nov/11/scaling-hnsws/#atom-everything)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-30 visualstudio</small>  
 <small>[Visual Studio October Update – new models, memories, planning, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-29 bartwullems</small>  
-<small>[Catching dependency injection configuration errors early](https://bartwullems.blogspot.com/2025/10/catching-dependency-injection.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-29 tidyfirst</small>  
 <small>[Getting Ready to Launch](https://tidyfirst.substack.com/p/getting-ready-to-launch)</small>
