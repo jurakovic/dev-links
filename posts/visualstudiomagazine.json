@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx",
+    "pubDate": "Thu, 13 Nov 2025 18:16:00 GMT"
+  },
+  {
+    "title": "Uno Platform Studio 2.0 Adds New AI Tools for Cross-Platform .NET Development",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/13/Uno-Platform-Studio-2-0-Adds-New-AI-Tools-for-Cross-Platform-NET-Development.aspx",
+    "pubDate": "Thu, 13 Nov 2025 17:27:00 GMT"
+  },
+  {
     "title": "Microsoft Releases Aspire 13, Dropping the .NET Part",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx",
     "pubDate": "Wed, 12 Nov 2025 22:26:00 GMT"
@@ -13,15 +23,5 @@
     "title": ".NET 10 Arrives with AI Integration, Performance Boosts, and New Tools",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx",
     "pubDate": "Wed, 12 Nov 2025 19:51:00 GMT"
-  },
-  {
-    "title": "VS Code 1.106 (October Update) Adds Agent HQ, New Security Controls",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/VS-Code-1-106-Adds-Agent-HQ-New-Security-Controls.aspx",
-    "pubDate": "Wed, 12 Nov 2025 18:58:00 GMT"
-  },
-  {
-    "title": "GitHub Copilot Adds 'Auto Model' Selection Preview for Smarter, Faster Responses",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/GitHub-Copilot-Adds-Auto-Model-Selection-Preview-for-Smarter-Faster-Responses.aspx",
-    "pubDate": "Wed, 12 Nov 2025 18:28:00 GMT"
   }
 ]

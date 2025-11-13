@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
+<small>[Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code](https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
+<small>[Uno Platform Studio 2.0 Adds New AI Tools for Cross-Platform .NET Development](https://visualstudiomagazine.com/Articles/2025/11/13/Uno-Platform-Studio-2-0-Adds-New-AI-Tools-for-Cross-Platform-NET-Development.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
+<small>[Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang](https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
 <small>[What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/#atom-everything)</small>
 
@@ -25,12 +34,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
 <small>[.NET 10 Arrives with AI Integration, Performance Boosts, and New Tools](https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
-<small>[VS Code 1.106 (October Update) Adds Agent HQ, New Security Controls](https://visualstudiomagazine.com/Articles/2025/11/12/VS-Code-1-106-Adds-Agent-HQ-New-Security-Controls.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
-<small>[GitHub Copilot Adds 'Auto Model' Selection Preview for Smarter, Faster Responses](https://visualstudiomagazine.com/Articles/2025/11/12/GitHub-Copilot-Adds-Auto-Model-Selection-Preview-for-Smarter-Faster-Responses.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
 
@@ -48,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
 <small>[Scaling HNSWs](https://simonwillison.net/2025/Nov/11/scaling-hnsws/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-11 simonwillison</small>  
-<small>[Agentic Pelican on a Bicycle](https://simonwillison.net/2025/Nov/11/agentic-pelican-on-a-bicycle/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 visualstudio</small>  
 <small>[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/)</small>
