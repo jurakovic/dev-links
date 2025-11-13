@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
+<small>[Microsoft Releases Aspire 13, Dropping the .NET Part](https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'](https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-06 pragmaticengineer</small>  
 <small>[The Pulse: Amazon layoffs – AI or economy to blame?](https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-05 visualstudiomagazine</small>  
-<small>[Microsoft Details How 'Agents Took Over VS Code in 2025'](https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (November)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-november/)</small>

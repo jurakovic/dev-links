@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Releases Aspire 13, Dropping the .NET Part",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx",
+    "pubDate": "Wed, 12 Nov 2025 22:26:00 GMT"
+  },
+  {
     "title": "Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx",
     "pubDate": "Wed, 12 Nov 2025 20:32:00 GMT"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot Adds 'Auto Model' Selection Preview for Smarter, Faster Responses",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/12/GitHub-Copilot-Adds-Auto-Model-Selection-Preview-for-Smarter-Faster-Responses.aspx",
     "pubDate": "Wed, 12 Nov 2025 18:28:00 GMT"
-  },
-  {
-    "title": "Microsoft Details How 'Agents Took Over VS Code in 2025'",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/05/Microsoft-Details-How-Agents-Took-Over-VS-Code-in-2025.aspx",
-    "pubDate": "Wed, 05 Nov 2025 21:01:00 GMT"
   }
 ]
