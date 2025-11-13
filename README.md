@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-13 stackoverflow</small>  
+<small>[One thing enterprise AI projects need to succeed? Community.](https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-13 bartwullems</small>  
+<small>[Vibe Coding with GitHub Spark: From idea to app in minutes (continued)](https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea_01325993047.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
 <small>[Microsoft Releases Aspire 13, Dropping the .NET Part](https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx)</small>
 
@@ -94,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-04 andrewlock</small>  
 <small>[Easier reflection with \[UnsafeAccessorType\] in .NET 10: Exploring the .NET 10 preview - Part 9](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-04 stackoverflow</small>  
-<small>[To write secure code, be less gullible than your AI](https://stackoverflow.blog/2025/11/04/to-write-secure-code-be-less-gullible-than-your-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-10-30 developertoarchitect</small>  
 <small>[Lesson 213 - Governing Architectural Constraints (November 3, 2025)](http://www.developertoarchitect.com/lessons/lesson213.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-30 bartwullems</small>  
-<small>[Git worktrees–A first step towards a multi-agent development workflow](https://bartwullems.blogspot.com/2025/10/git-worktreesa-first-step-towards-multi.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-30 visualstudio</small>  
 <small>[Visual Studio October Update – new models, memories, planning, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update/)</small>
