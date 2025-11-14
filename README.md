@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-14 stackoverflow</small>  
+<small>[The fastest agent in the race has the best evals](https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-14 bartwullems</small>  
+<small>[MCP resources–The piece everyone overlooks](https://bartwullems.blogspot.com/2025/11/mcp-resourcesthe-piece-everyone.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
 <small>[Introducing GPT-5.1 for developers](https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything)</small>
 
@@ -91,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 dotnet</small>  
 <small>[How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-05 stackoverflow</small>  
-<small>[The AI ick](https://stackoverflow.blog/2025/11/05/the-ai-ick/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-04 dotnet</small>  
 <small>[Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/)</small>
 
@@ -111,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-10-31 bartwullems</small>  
-<small>[Restrict MCP server access when using Github Copilot -](https://bartwullems.blogspot.com/2025/10/restrict-mcp-server-access-when-using.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-31 visualstudio</small>  
 <small>[Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/)</small>

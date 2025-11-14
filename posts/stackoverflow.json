@@ -1,5 +1,10 @@
 [
   {
+    "title": "The fastest agent in the race has the best evals",
+    "link": "https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/",
+    "pubDate": "Fri, 14 Nov 2025 08:40:00 GMT"
+  },
+  {
     "title": "One thing enterprise AI projects need to succeed? Community.",
     "link": "https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/",
     "pubDate": "Thu, 13 Nov 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Revealing the unknown unknowns in your software",
     "link": "https://stackoverflow.blog/2025/11/07/revealing-the-unknown-unknowns-in-your-software/",
     "pubDate": "Fri, 07 Nov 2025 08:40:00 GMT"
-  },
-  {
-    "title": "The AI ick",
-    "link": "https://stackoverflow.blog/2025/11/05/the-ai-ick/",
-    "pubDate": "Wed, 05 Nov 2025 17:00:00 GMT"
   }
 ]
