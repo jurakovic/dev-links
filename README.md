@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-14 visualstudio</small>  
+<small>[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-14 simonwillison</small>  
+<small>[GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum](https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-14 stackoverflow</small>  
 <small>[The fastest agent in the race has the best evals](https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/)</small>
 
@@ -27,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
 <small>[Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang](https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
-<small>[What happens if AI labs train for pelicans riding bicycles?](https://simonwillison.net/2025/Nov/13/training-for-pelicans-riding-bicycles/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-13 visualstudio</small>  
 <small>[A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/)</small>
@@ -114,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-31 visualstudio</small>  
-<small>[Join us at .NET Conf: Dive into the future of development with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/join-us-at-net-conf-dive-into-the-future-of-development-with-visual-studio-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
