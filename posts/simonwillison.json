@@ -1,5 +1,10 @@
 [
   {
+    "title": "parakeet-mlx",
+    "link": "https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything",
+    "pubDate": "2025-11-14T20:00:32+00:00"
+  },
+  {
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
     "link": "https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything",
     "pubDate": "2025-11-14T13:46:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Nano Banana can be prompt engineered for extremely nuanced AI image generation",
     "link": "https://simonwillison.net/2025/Nov/13/nano-banana-can-be-prompt-engineered/#atom-everything",
     "pubDate": "2025-11-13T22:50:00+00:00"
-  },
-  {
-    "title": "Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang",
-    "link": "https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything",
-    "pubDate": "2025-11-13T16:34:25+00:00"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-14 simonwillison</small>  
+<small>[parakeet-mlx](https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-14 visualstudiomagazine</small>  
+<small>[OpenAPI.NET Delivers Its 'Biggest Update Ever' With Twin v2 and v3 Releases](https://visualstudiomagazine.com/Articles/2025/11/14/OpenAPI,-d-,NET-Delivers-Its-Biggest-Update-Ever-With-Twin-v2-and-v3-Releases.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-14 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 Integrates Azure MCP Server for Agentic Cloud Workflows](https://visualstudiomagazine.com/Articles/2025/11/14/Visual-Studio-2026-Integrates-Azure-MCP-Server-for-Agentic-Cloud-Workflows.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-14 visualstudio</small>  
 <small>[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/)</small>
 
@@ -31,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
 <small>[Uno Platform Studio 2.0 Adds New AI Tools for Cross-Platform .NET Development](https://visualstudiomagazine.com/Articles/2025/11/13/Uno-Platform-Studio-2-0-Adds-New-AI-Tools-for-Cross-Platform-NET-Development.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
-<small>[Quoting Nov 12th letter from OpenAI to Judge Ona T. Wang](https://simonwillison.net/2025/Nov/13/letter-from-openai/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-13 visualstudio</small>  
 <small>[A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/)</small>
 
@@ -45,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
 <small>[Microsoft Releases Aspire 13, Dropping the .NET Part](https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
-<small>[Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'](https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
-<small>[.NET 10 Arrives with AI Integration, Performance Boosts, and New Tools](https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>

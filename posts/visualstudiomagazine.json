@@ -1,5 +1,15 @@
 [
   {
+    "title": "OpenAPI.NET Delivers Its 'Biggest Update Ever' With Twin v2 and v3 Releases",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/14/OpenAPI,-d-,NET-Delivers-Its-Biggest-Update-Ever-With-Twin-v2-and-v3-Releases.aspx",
+    "pubDate": "Fri, 14 Nov 2025 19:49:00 GMT"
+  },
+  {
+    "title": "Visual Studio 2026 Integrates Azure MCP Server for Agentic Cloud Workflows",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/14/Visual-Studio-2026-Integrates-Azure-MCP-Server-for-Agentic-Cloud-Workflows.aspx",
+    "pubDate": "Fri, 14 Nov 2025 18:52:00 GMT"
+  },
+  {
     "title": "Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx",
     "pubDate": "Thu, 13 Nov 2025 18:16:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Microsoft Releases Aspire 13, Dropping the .NET Part",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx",
     "pubDate": "Wed, 12 Nov 2025 22:26:00 GMT"
-  },
-  {
-    "title": "Visual Studio 2026 GA: 'First Intelligent Developer Environment (IDE)'",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/Visual-Studio-2026-GA-First-Intelligent-Developer-Environment-IDE.aspx",
-    "pubDate": "Wed, 12 Nov 2025 20:32:00 GMT"
-  },
-  {
-    "title": ".NET 10 Arrives with AI Integration, Performance Boosts, and New Tools",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/12/NET-10-Arrives-with-AI-Integration-Performance-Boosts-and-New-Tools.aspx",
-    "pubDate": "Wed, 12 Nov 2025 19:51:00 GMT"
   }
 ]
