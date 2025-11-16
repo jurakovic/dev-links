@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-15 simonwillison</small>  
+<small>[llm-anthropic 0.22](https://simonwillison.net/2025/Nov/15/llm-anthropic-022/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-14 simonwillison</small>  
 <small>[parakeet-mlx](https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything)</small>
 
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
 <small>[Datasette 1.0a22](https://simonwillison.net/2025/Nov/13/datasette-10a22/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
-<small>[Nano Banana can be prompt engineered for extremely nuanced AI image generation](https://simonwillison.net/2025/Nov/13/nano-banana-can-be-prompt-engineered/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
 <small>[Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code](https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx)</small>
