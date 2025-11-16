@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Andrej Karpathy",
+    "link": "https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything",
+    "pubDate": "2025-11-16T18:29:57+00:00"
+  },
+  {
     "title": "llm-anthropic 0.22",
     "link": "https://simonwillison.net/2025/Nov/15/llm-anthropic-022/#atom-everything",
     "pubDate": "2025-11-15T20:48:38+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing GPT-5.1 for developers",
     "link": "https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything",
     "pubDate": "2025-11-13T23:59:35+00:00"
-  },
-  {
-    "title": "Datasette 1.0a22",
-    "link": "https://simonwillison.net/2025/Nov/13/datasette-10a22/#atom-everything",
-    "pubDate": "2025-11-13T23:04:18+00:00"
   }
 ]
