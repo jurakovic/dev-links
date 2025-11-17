@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
+<small>[What's New for C# 14 and F# 10 in .NET 10](https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
+<small>[GPT-5.1 Now Available in Microsoft Copilot Studio as Experimental Model](https://visualstudiomagazine.com/Articles/2025/11/17/GPT-5-1-Now-Available-in-Microsoft-Copilot-Studio-as-Experimental-Model.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
+<small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
+<small>[Introducing C# 14](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-17 bartwullems</small>  
 <small>[Hands-on with MCP Resources in VS Code](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html)</small>
 
@@ -40,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
 <small>[Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code](https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
-<small>[Uno Platform Studio 2.0 Adds New AI Tools for Cross-Platform .NET Development](https://visualstudiomagazine.com/Articles/2025/11/13/Uno-Platform-Studio-2-0-Adds-New-AI-Tools-for-Cross-Platform-NET-Development.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-13 visualstudio</small>  
 <small>[A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/)</small>
 
@@ -51,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-13 bartwullems</small>  
 <small>[Vibe Coding with GitHub Spark: From idea to app in minutes (continued)](https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea_01325993047.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-12 visualstudiomagazine</small>  
-<small>[Microsoft Releases Aspire 13, Dropping the .NET Part](https://visualstudiomagazine.com/Articles/2025/11/12/Microsoft-Releases-Aspire-13.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
@@ -100,9 +106,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-05 dotnet</small>  
 <small>[How Copilot Studio uses .NET and WebAssembly for performance and innovation](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-04 dotnet</small>  
-<small>[Get Ready for .NET Conf 2025!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)</small>
 
@@ -129,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-29 tidyfirst</small>  
 <small>[Getting Ready to Launch](https://tidyfirst.substack.com/p/getting-ready-to-launch)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-10-28 dotnet</small>  
-<small>[Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert](https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
 <small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>

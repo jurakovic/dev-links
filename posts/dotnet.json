@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing F# 10",
+    "link": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
+    "pubDate": "Mon, 17 Nov 2025 18:05:00 +0000"
+  },
+  {
+    "title": "Introducing C# 14",
+    "link": "https://devblogs.microsoft.com/dotnet/introducing-csharp-14/",
+    "pubDate": "Mon, 17 Nov 2025 18:05:00 +0000"
+  },
+  {
     "title": "Announcing .NET 10",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
     "pubDate": "Tue, 11 Nov 2025 15:38:00 +0000"
@@ -13,15 +23,5 @@
     "title": "How Copilot Studio uses .NET and WebAssembly for performance and innovation",
     "link": "https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-wasm/",
     "pubDate": "Wed, 05 Nov 2025 18:05:00 +0000"
-  },
-  {
-    "title": "Get Ready for .NET Conf 2025!",
-    "link": "https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2025/",
-    "pubDate": "Tue, 04 Nov 2025 18:00:00 +0000"
-  },
-  {
-    "title": "Introducing Custom Agents for .NET Developers: C# Expert & WinForms Expert",
-    "link": "https://devblogs.microsoft.com/dotnet/introducing-custom-agents-for-dotnet-developers-csharp-expert-winforms-expert/",
-    "pubDate": "Tue, 28 Oct 2025 22:05:00 +0000"
   }
 ]
