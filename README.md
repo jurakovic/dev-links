@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-17 bartwullems</small>  
+<small>[Hands-on with MCP Resources in VS Code](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-16 simonwillison</small>  
 <small>[Quoting Andrej Karpathy](https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything)</small>
 
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-11 bartwullems</small>  
 <small>[Unlocking Collection Expressions for your own types](https://bartwullems.blogspot.com/2025/11/unlocking-collection-expressions-for.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-10 bartwullems</small>  
-<small>[I love it when a plan comes together](https://bartwullems.blogspot.com/2025/11/i-love-it-when-plan-comes-together.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-10 steven-giesel</small>  
 <small>[Capturing Console Output in xUnit.v3](https://steven-giesel.com/blogPost/63a50c08-ddba-4f23-9ce0-b47917e32875)</small>
