@@ -1,5 +1,10 @@
 [
   {
+    "title": "My Foreword to \"Frictionless\"",
+    "link": "https://martinfowler.com/articles/frictionless-foreword.html",
+    "pubDate": "2025-11-18T12:19:00-05:00"
+  },
+  {
     "title": "The Learning Loop and LLMs",
     "link": "https://martinfowler.com/articles/llm-learning-loop.html",
     "pubDate": "2025-11-04T09:14:00-05:00"
@@ -18,10 +23,5 @@
     "title": "Fragments and Links",
     "link": "https://martinfowler.com/articles/20251021-frags.html",
     "pubDate": "2025-10-21T11:02:00-04:00"
-  },
-  {
-    "title": "Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html",
-    "pubDate": "2025-10-15T08:33:00-04:00"
   }
 ]

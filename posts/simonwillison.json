@@ -1,5 +1,20 @@
 [
   {
+    "title": "Google Antigravity",
+    "link": "https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything",
+    "pubDate": "2025-11-18T20:52:35+00:00"
+  },
+  {
+    "title": "Quoting Ethan Mollick",
+    "link": "https://simonwillison.net/2025/Nov/18/ethan-mollick/#atom-everything",
+    "pubDate": "2025-11-18T19:24:28+00:00"
+  },
+  {
+    "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
+    "link": "https://simonwillison.net/2025/Nov/18/gemini-3/#atom-everything",
+    "pubDate": "2025-11-18T19:00:48+00:00"
+  },
+  {
     "title": "The fate of “small” open source",
     "link": "https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything",
     "pubDate": "2025-11-17T23:24:44+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything",
     "pubDate": "2025-11-16T18:29:57+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.22",
-    "link": "https://simonwillison.net/2025/Nov/15/llm-anthropic-022/#atom-everything",
-    "pubDate": "2025-11-15T20:48:38+00:00"
-  },
-  {
-    "title": "parakeet-mlx",
-    "link": "https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything",
-    "pubDate": "2025-11-14T20:00:32+00:00"
-  },
-  {
-    "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
-    "link": "https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything",
-    "pubDate": "2025-11-14T13:46:23+00:00"
   }
 ]
