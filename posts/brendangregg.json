@@ -1,5 +1,10 @@
 [
   {
+    "title": "Third Stage Engineering",
+    "link": "http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html",
+    "pubDate": "Mon, 17 Nov 2025 00:00:00 +1100"
+  },
+  {
     "title": "When to Hire a Computer Performance Engineering Team (2025) part 1 of 2",
     "link": "http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html",
     "pubDate": "Mon, 04 Aug 2025 00:00:00 +1000"
@@ -18,10 +23,5 @@
     "title": "AI Flame Graphs",
     "link": "http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
     "pubDate": "Tue, 29 Oct 2024 00:00:00 +1100"
-  },
-  {
-    "title": "No More Blue Fridays",
-    "link": "http://www.brendangregg.com/blog//2024-07-22/no-more-blue-fridays.html",
-    "pubDate": "Mon, 22 Jul 2024 00:00:00 +1000"
   }
 ]
