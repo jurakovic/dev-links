@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-17 simonwillison</small>  
+<small>[The fate of “small” open source](https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
 <small>[What's New for C# 14 and F# 10 in .NET 10](https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-14 bartwullems</small>  
 <small>[MCP resources–The piece everyone overlooks](https://bartwullems.blogspot.com/2025/11/mcp-resourcesthe-piece-everyone.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-13 simonwillison</small>  
-<small>[Introducing GPT-5.1 for developers](https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
 <small>[Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code](https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx)</small>

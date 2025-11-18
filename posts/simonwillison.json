@@ -1,5 +1,10 @@
 [
   {
+    "title": "The fate of “small” open source",
+    "link": "https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything",
+    "pubDate": "2025-11-17T23:24:44+00:00"
+  },
+  {
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything",
     "pubDate": "2025-11-16T18:29:57+00:00"
@@ -18,10 +23,5 @@
     "title": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
     "link": "https://simonwillison.net/2025/Nov/14/gpt-51-system-card-addendum/#atom-everything",
     "pubDate": "2025-11-14T13:46:23+00:00"
-  },
-  {
-    "title": "Introducing GPT-5.1 for developers",
-    "link": "https://simonwillison.net/2025/Nov/13/gpt-51/#atom-everything",
-    "pubDate": "2025-11-13T23:59:35+00:00"
   }
 ]
