@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Stack Internal: Powering the human intelligence layer of enterprise AI",
+    "link": "https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/",
+    "pubDate": "Tue, 18 Nov 2025 15:00:00 GMT"
+  },
+  {
     "title": "How to create agents that people actually want to use",
     "link": "https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/",
     "pubDate": "Tue, 18 Nov 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence",
     "link": "https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/",
     "pubDate": "Wed, 12 Nov 2025 15:00:00 GMT"
-  },
-  {
-    "title": "AI code means more critical thinking, not less",
-    "link": "https://stackoverflow.blog/2025/11/11/ai-code-means-more-critical-thinking-not-less/",
-    "pubDate": "Tue, 11 Nov 2025 08:40:00 GMT"
   }
 ]

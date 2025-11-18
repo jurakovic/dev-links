@@ -1,5 +1,10 @@
 [
   {
+    "title": "Companies complaining .NET moves too fast should just pay for post-EOL support",
+    "link": "https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/",
+    "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
+  },
+  {
     "title": "Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9",
     "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/",
     "pubDate": "Tue, 04 Nov 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing",
     "link": "https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/",
     "pubDate": "Tue, 30 Sep 2025 10:00:00 GMT"
-  },
-  {
-    "title": "sleep-pc: a .NET Native AOT tool to make Windows sleep after a timeout",
-    "link": "https://andrewlock.net/sleep-pc-a-dotnet-tool-to-make-windows-sleep-after-a-timeout/",
-    "pubDate": "Tue, 23 Sep 2025 10:00:00 GMT"
   }
 ]
