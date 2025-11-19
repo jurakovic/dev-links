@@ -1,5 +1,10 @@
 [
   {
+    "title": "Supercharge Your Test Coverage with GitHub Copilot Testing for .NET",
+    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/",
+    "pubDate": "Wed, 19 Nov 2025 18:05:00 +0000"
+  },
+  {
     "title": "A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode",
     "link": "https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/",
     "pubDate": "Tue, 18 Nov 2025 18:05:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Introducing C# 14",
     "link": "https://devblogs.microsoft.com/dotnet/introducing-csharp-14/",
     "pubDate": "Mon, 17 Nov 2025 18:05:00 +0000"
-  },
-  {
-    "title": "Announcing .NET 10",
-    "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/",
-    "pubDate": "Tue, 11 Nov 2025 15:38:00 +0000"
   }
 ]

@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
+<small>[How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
+<small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-19 dotnet</small>  
+<small>[Supercharge Your Test Coverage with GitHub Copilot Testing for .NET](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-11-19 lethain</small>  
+<small>[Coding at work (after a decade away).](https://lethain.com/coding-at-work/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-19 steven-giesel</small>  
 <small>[No more public partial class Program in .NET 10](https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983)</small>
 
@@ -21,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
 <small>[Google Antigravity](https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
-<small>[Quoting Ethan Mollick](https://simonwillison.net/2025/Nov/18/ethan-mollick/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
 <small>[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/)</small>
@@ -103,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 visualstudio</small>  
 <small>[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 dotnet</small>  
-<small>[Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-11 antirez</small>  
 <small>[Scaling HNSWs](http://antirez.com/news/156)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
 <small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-10-28 andrewlock</small>  
-<small>[Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315](https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-27 steven-giesel</small>  
-<small>[LinkedIn: "Are you still using new Random() everywhere?"](https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07)</small>
 

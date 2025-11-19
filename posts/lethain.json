@@ -1,5 +1,10 @@
 [
   {
+    "title": "Coding at work (after a decade away).",
+    "link": "https://lethain.com/coding-at-work/",
+    "pubDate": "Wed, 19 Nov 2025 08:00:00 -0700"
+  },
+  {
     "title": "\"Good engineering management\" is a fad",
     "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
     "pubDate": "Sun, 26 Oct 2025 04:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "An agent to use Notion docs as prompts to comment on Notion docs.",
     "link": "https://lethain.com/notion-agent/",
     "pubDate": "Sun, 20 Jul 2025 04:00:00 -0700"
-  },
-  {
-    "title": "Moving from an orchestration-heavy to leadership-heavy management role.",
-    "link": "https://lethain.com/orchestration-heavy-leadership-heavy/",
-    "pubDate": "Sat, 19 Jul 2025 04:00:00 -0700"
   }
 ]

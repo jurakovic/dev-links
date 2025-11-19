@@ -1,5 +1,10 @@
 [
   {
+    "title": "How I automate my Substack newsletter with content from my blog",
+    "link": "https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything",
+    "pubDate": "2025-11-19T22:00:34+00:00"
+  },
+  {
     "title": "Quoting Matthew Prince",
     "link": "https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything",
     "pubDate": "2025-11-19T08:02:36+00:00"
@@ -18,10 +23,5 @@
     "title": "Google Antigravity",
     "link": "https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything",
     "pubDate": "2025-11-18T20:52:35+00:00"
-  },
-  {
-    "title": "Quoting Ethan Mollick",
-    "link": "https://simonwillison.net/2025/Nov/18/ethan-mollick/#atom-everything",
-    "pubDate": "2025-11-18T19:24:28+00:00"
   }
 ]
