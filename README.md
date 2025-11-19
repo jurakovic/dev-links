@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
+<small>[llm-gemini 0.27](https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
+<small>[MacWhisper has Automatic Speaker Recognition now](https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
 <small>[Google Antigravity](https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
@@ -37,9 +43,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-18 bartwullems</small>  
 <small>[How to uninstall older .NET Core versions](https://bartwullems.blogspot.com/2025/11/how-to-uninstall-older-net-core-versions.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-17 simonwillison</small>  
-<small>[The fate of “small” open source](https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
 <small>[What's New for C# 14 and F# 10 in .NET 10](https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx)</small>
 
@@ -54,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-17 bartwullems</small>  
 <small>[Hands-on with MCP Resources in VS Code](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-16 simonwillison</small>  
-<small>[Quoting Andrej Karpathy](https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
 <small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>

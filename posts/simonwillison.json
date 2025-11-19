@@ -1,5 +1,15 @@
 [
   {
+    "title": "llm-gemini 0.27",
+    "link": "https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything",
+    "pubDate": "2025-11-18T23:00:40+00:00"
+  },
+  {
+    "title": "MacWhisper has Automatic Speaker Recognition now",
+    "link": "https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything",
+    "pubDate": "2025-11-18T22:19:26+00:00"
+  },
+  {
     "title": "Google Antigravity",
     "link": "https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything",
     "pubDate": "2025-11-18T20:52:35+00:00"
@@ -13,15 +23,5 @@
     "title": "Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark",
     "link": "https://simonwillison.net/2025/Nov/18/gemini-3/#atom-everything",
     "pubDate": "2025-11-18T19:00:48+00:00"
-  },
-  {
-    "title": "The fate of “small” open source",
-    "link": "https://simonwillison.net/2025/Nov/17/the-fate-of-small-open-source/#atom-everything",
-    "pubDate": "2025-11-17T23:24:44+00:00"
-  },
-  {
-    "title": "Quoting Andrej Karpathy",
-    "link": "https://simonwillison.net/2025/Nov/16/andrej-karpathy/#atom-everything",
-    "pubDate": "2025-11-16T18:29:57+00:00"
   }
 ]
