@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hands-on with MCP Resources in Visual Studio",
+    "link": "https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-visual.html",
+    "pubDate": "2025-11-19T07:08:00.036+01:00"
+  },
+  {
     "title": "How to uninstall older .NET Core versions",
     "link": "https://bartwullems.blogspot.com/2025/11/how-to-uninstall-older-net-core-versions.html",
     "pubDate": "2025-11-18T06:46:00.029+01:00"
@@ -18,10 +23,5 @@
     "title": "Vibe Coding with GitHub Spark: From idea to app in minutes (continued)",
     "link": "https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea_01325993047.html",
     "pubDate": "2025-11-13T06:59:00.022+01:00"
-  },
-  {
-    "title": "Vibe Coding with GitHub Spark: From idea to app in minutes",
-    "link": "https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea.html",
-    "pubDate": "2025-11-12T06:50:00.031+01:00"
   }
 ]
