@@ -1,5 +1,10 @@
 [
   {
+    "title": "No more public partial class Program in .NET 10",
+    "link": "https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983",
+    "pubDate": "Wed, 19 Nov 2025 12:20:51 Z"
+  },
+  {
     "title": "Capturing Console Output in xUnit.v3",
     "link": "https://steven-giesel.com/blogPost/63a50c08-ddba-4f23-9ce0-b47917e32875",
     "pubDate": "Mon, 10 Nov 2025 05:00:00 Z"
@@ -18,10 +23,5 @@
     "title": "Inlining and structs in C#",
     "link": "https://steven-giesel.com/blogPost/e89d7156-f3fd-4152-b78a-cb908bc43226",
     "pubDate": "Mon, 20 Oct 2025 04:55:00 Z"
-  },
-  {
-    "title": "Use CancellationTokens",
-    "link": "https://steven-giesel.com/blogPost/080baaef-27d4-4d98-b0a8-9c3ab96c335e",
-    "pubDate": "Mon, 06 Oct 2025 05:15:00 Z"
   }
 ]

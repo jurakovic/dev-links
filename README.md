@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-19 steven-giesel</small>  
+<small>[No more public partial class Program in .NET 10](https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
 <small>[Quoting Matthew Prince](https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-10-27 steven-giesel</small>  
 <small>[LinkedIn: "Are you still using new Random() everywhere?"](https://steven-giesel.com/blogPost/cc2a3f52-9d35-43d2-9687-c276a2de8e07)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-10-26 lethain</small>  
-<small>["Good engineering management" is a fad](https://lethain.com/good-eng-mgmt-is-a-fad/)</small>
 
