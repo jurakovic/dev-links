@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-20 stackoverflow</small>  
+<small>[Community Products roadmap update, November 2025](https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-20 bartwullems</small>  
 <small>[Help! My Application Insights telemetry stopped working.](https://bartwullems.blogspot.com/2025/11/help-my-application-insights-telemetry.html)</small>
 
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-12 stackoverflow</small>  
-<small>[2025.8 release introduces Stack Overflow Internal: The next generation of enterprise knowledge intelligence](https://stackoverflow.blog/2025/11/12/2025-8-release-introduces-stack-overflow-internal-the-next-generation-of-enterprise-knowledge-intelligence/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-11 visualstudio</small>  
 <small>[Visual Studio 2026 is here: faster, smarter, and a hit with early adopters](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/)</small>
