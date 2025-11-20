@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-20 bartwullems</small>  
+<small>[Help! My Application Insights telemetry stopped working.](https://bartwullems.blogspot.com/2025/11/help-my-application-insights-telemetry.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-20 simonwillison</small>  
 <small>[Quoting Nicholas Carlini](https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything)</small>
 
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-13 stackoverflow</small>  
 <small>[One thing enterprise AI projects need to succeed? Community.](https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-13 bartwullems</small>  
-<small>[Vibe Coding with GitHub Spark: From idea to app in minutes (continued)](https://bartwullems.blogspot.com/2025/11/vibe-coding-with-github-spark-from-idea_01325993047.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
