@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Nicholas Carlini",
+    "link": "https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything",
+    "pubDate": "2025-11-20T01:01:44+00:00"
+  },
+  {
+    "title": "Building more with GPT-5.1-Codex-Max",
+    "link": "https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything",
+    "pubDate": "2025-11-19T23:15:10+00:00"
+  },
+  {
     "title": "How I automate my Substack newsletter with content from my blog",
     "link": "https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything",
     "pubDate": "2025-11-19T22:00:34+00:00"
@@ -13,15 +23,5 @@
     "title": "llm-gemini 0.27",
     "link": "https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything",
     "pubDate": "2025-11-18T23:00:40+00:00"
-  },
-  {
-    "title": "MacWhisper has Automatic Speaker Recognition now",
-    "link": "https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything",
-    "pubDate": "2025-11-18T22:19:26+00:00"
-  },
-  {
-    "title": "Google Antigravity",
-    "link": "https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything",
-    "pubDate": "2025-11-18T20:52:35+00:00"
   }
 ]

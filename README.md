@@ -4,8 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-20 simonwillison</small>  
+<small>[Quoting Nicholas Carlini](https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
+<small>[How Blazor's Unified Rendering Model Shapes Modern NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
+<small>[Building more with GPT-5.1-Codex-Max](https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-19 visualstudiomagazine</small>  
+<small>[Azure Developer CLI Adds AI Agent Extension for Foundry Deployments](https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Developer-CLI-Adds-AI-Agent-Extension-for-Foundry-Deployments.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
 <small>[How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-19 visualstudiomagazine</small>  
+<small>[Azure Cosmos DB Adds New AI Search and Agentic Capabilities at Ignite](https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Cosmos-DB-Adds-New-AI-Search-and-Agentic-Capabilities-at-Ignite.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
 <small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
@@ -27,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
 <small>[llm-gemini 0.27](https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
-<small>[MacWhisper has Automatic Speaker Recognition now](https://simonwillison.net/2025/Nov/18/macwhisper-speaker-recognition/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
-<small>[Google Antigravity](https://simonwillison.net/2025/Nov/18/google-antigravity/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
 <small>[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/)</small>
@@ -76,12 +85,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
 <small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-14 visualstudiomagazine</small>  
-<small>[OpenAPI.NET Delivers Its 'Biggest Update Ever' With Twin v2 and v3 Releases](https://visualstudiomagazine.com/Articles/2025/11/14/OpenAPI,-d-,NET-Delivers-Its-Biggest-Update-Ever-With-Twin-v2-and-v3-Releases.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-14 visualstudiomagazine</small>  
-<small>[Visual Studio 2026 Integrates Azure MCP Server for Agentic Cloud Workflows](https://visualstudiomagazine.com/Articles/2025/11/14/Visual-Studio-2026-Integrates-Azure-MCP-Server-for-Agentic-Cloud-Workflows.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-14 visualstudio</small>  
 <small>[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-14 bartwullems</small>  
 <small>[MCP resources–The piece everyone overlooks](https://bartwullems.blogspot.com/2025/11/mcp-resourcesthe-piece-everyone.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-13 visualstudiomagazine</small>  
-<small>[Microsoft Reaches Second Milestone in Open-Source AI Editing for VS Code](https://visualstudiomagazine.com/Articles/2025/11/13/Microsoft-Reaches-Second-Milestone-in-Open-Source-AI-Editing-for-VS-Code.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-13 visualstudio</small>  
 <small>[A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/)</small>
