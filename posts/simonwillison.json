@@ -1,5 +1,10 @@
 [
   {
+    "title": "Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model",
+    "link": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything",
+    "pubDate": "2025-11-20T16:32:25+00:00"
+  },
+  {
     "title": "Quoting Nicholas Carlini",
     "link": "https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything",
     "pubDate": "2025-11-20T01:01:44+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Matthew Prince",
     "link": "https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything",
     "pubDate": "2025-11-19T08:02:36+00:00"
-  },
-  {
-    "title": "llm-gemini 0.27",
-    "link": "https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything",
-    "pubDate": "2025-11-18T23:00:40+00:00"
   }
 ]

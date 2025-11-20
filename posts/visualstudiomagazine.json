@@ -1,6 +1,11 @@
 [
   {
-    "title": "How Blazor's Unified Rendering Model Shapes Modern NET Web Apps",
+    "title": "Google Joins AI IDE Race to Compete with VS Code, Apparently Forking VS Code",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/20/Google-Joins-AI-IDE-Race-to-Compete-with-VS-Code-Apparently-Forking-VS-Code.aspx",
+    "pubDate": "Thu, 20 Nov 2025 19:36:00 GMT"
+  },
+  {
+    "title": "How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx",
     "pubDate": "Thu, 20 Nov 2025 00:13:00 GMT"
   },
@@ -18,10 +23,5 @@
     "title": "What's New for C# 14 and F# 10 in .NET 10",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx",
     "pubDate": "Mon, 17 Nov 2025 20:49:00 GMT"
-  },
-  {
-    "title": "GPT-5.1 Now Available in Microsoft Copilot Studio as Experimental Model",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/17/GPT-5-1-Now-Available-in-Microsoft-Copilot-Studio-as-Experimental-Model.aspx",
-    "pubDate": "Mon, 17 Nov 2025 18:39:00 GMT"
   }
 ]

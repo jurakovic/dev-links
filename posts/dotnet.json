@@ -1,5 +1,10 @@
 [
   {
+    "title": "Reinventing how .NET Builds and Ships (Again)",
+    "link": "https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/",
+    "pubDate": "Thu, 20 Nov 2025 18:05:00 +0000"
+  },
+  {
     "title": "Supercharge Your Test Coverage with GitHub Copilot Testing for .NET",
     "link": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet/",
     "pubDate": "Wed, 19 Nov 2025 18:05:00 +0000"
@@ -17,11 +22,6 @@
   {
     "title": "Introducing F# 10",
     "link": "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/",
-    "pubDate": "Mon, 17 Nov 2025 18:05:00 +0000"
-  },
-  {
-    "title": "Introducing C# 14",
-    "link": "https://devblogs.microsoft.com/dotnet/introducing-csharp-14/",
     "pubDate": "Mon, 17 Nov 2025 18:05:00 +0000"
   }
 ]

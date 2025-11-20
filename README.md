@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-20 pragmaticengineer</small>  
+<small>[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
+<small>[Google Joins AI IDE Race to Compete with VS Code, Apparently Forking VS Code](https://visualstudiomagazine.com/Articles/2025/11/20/Google-Joins-AI-IDE-Race-to-Compete-with-VS-Code-Apparently-Forking-VS-Code.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-20 dotnet</small>  
+<small>[Reinventing how .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-20 simonwillison</small>  
+<small>[Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model](https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-20 stackoverflow</small>  
 <small>[Community Products roadmap update, November 2025](https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/)</small>
 
@@ -14,7 +26,7 @@
 <small>[Quoting Nicholas Carlini](https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
-<small>[How Blazor's Unified Rendering Model Shapes Modern NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
+<small>[How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
 <small>[Building more with GPT-5.1-Codex-Max](https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything)</small>
@@ -46,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-19 bartwullems</small>  
 <small>[Hands-on with MCP Resources in Visual Studio](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-visual.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-18 simonwillison</small>  
-<small>[llm-gemini 0.27](https://simonwillison.net/2025/Nov/18/llm-gemini/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
 <small>[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/)</small>
 
@@ -76,14 +85,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
 <small>[What's New for C# 14 and F# 10 in .NET 10](https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
-<small>[GPT-5.1 Now Available in Microsoft Copilot Studio as Experimental Model](https://visualstudiomagazine.com/Articles/2025/11/17/GPT-5-1-Now-Available-in-Microsoft-Copilot-Studio-as-Experimental-Model.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
 <small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
-<small>[Introducing C# 14](https://devblogs.microsoft.com/dotnet/introducing-csharp-14/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-17 bartwullems</small>  
 <small>[Hands-on with MCP Resources in VS Code](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-29 tidyfirst</small>  
 <small>[Getting Ready to Launch](https://tidyfirst.substack.com/p/getting-ready-to-launch)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-10-28 martinfowler</small>  
-<small>[Agentic AI and Security](https://martinfowler.com/articles/agentic-ai-security.html)</small>
 
