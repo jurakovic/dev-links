@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-21 stackoverflow</small>  
+<small>[Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-21 bartwullems</small>  
+<small>[Supercharge your AI Workflow with Github Copilot Custom Prompt Files](https://bartwullems.blogspot.com/2025/11/supercharge-your-ai-workflow-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
 <small>['VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development](https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx)</small>
 
@@ -100,14 +106,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-14 stackoverflow</small>  
 <small>[The fastest agent in the race has the best evals](https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-14 bartwullems</small>  
-<small>[MCP resources–The piece everyone overlooks](https://bartwullems.blogspot.com/2025/11/mcp-resourcesthe-piece-everyone.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-13 visualstudio</small>  
 <small>[A first look at the all‑new UX in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-13 stackoverflow</small>  
-<small>[One thing enterprise AI projects need to succeed? Community.](https://stackoverflow.blog/2025/11/13/one-thing-enterprise-ai-projects-need-to-succeed-community/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-12 visualstudio</small>  
 <small>[Introducing Copilot auto model selection (preview)](https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/)</small>
