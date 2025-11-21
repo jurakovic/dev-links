@@ -1,5 +1,10 @@
 [
   {
+    "title": "'VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx",
+    "pubDate": "Fri, 21 Nov 2025 00:04:00 GMT"
+  },
+  {
     "title": "Google Joins AI IDE Race to Compete with VS Code, Apparently Forking VS Code",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/20/Google-Joins-AI-IDE-Race-to-Compete-with-VS-Code-Apparently-Forking-VS-Code.aspx",
     "pubDate": "Thu, 20 Nov 2025 19:36:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Azure Cosmos DB Adds New AI Search and Agentic Capabilities at Ignite",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Cosmos-DB-Adds-New-AI-Search-and-Agentic-Capabilities-at-Ignite.aspx",
     "pubDate": "Wed, 19 Nov 2025 21:18:00 GMT"
-  },
-  {
-    "title": "What's New for C# 14 and F# 10 in .NET 10",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx",
-    "pubDate": "Mon, 17 Nov 2025 20:49:00 GMT"
   }
 ]

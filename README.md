@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
+<small>['VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development](https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-20 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)</small>
 
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-18 bartwullems</small>  
 <small>[How to uninstall older .NET Core versions](https://bartwullems.blogspot.com/2025/11/how-to-uninstall-older-net-core-versions.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-17 visualstudiomagazine</small>  
-<small>[What's New for C# 14 and F# 10 in .NET 10](https://visualstudiomagazine.com/Articles/2025/11/17/hats-New-for-C-14-and-F-10-in-NET-10.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
 <small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
