@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-21 pragmaticengineer</small>  
+<small>[A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-21 stackoverflow</small>  
 <small>[Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
-<small>[New trend: programming by kicking off parallel AI agents](https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-10-30 developertoarchitect</small>  
 <small>[Lesson 213 - Governing Architectural Constraints (November 3, 2025)](http://www.developertoarchitect.com/lessons/lesson213.html)</small>

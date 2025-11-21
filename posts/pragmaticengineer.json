@@ -1,5 +1,10 @@
 [
   {
+    "title": "A startup in Mongolia translated my book",
+    "link": "https://blog.pragmaticengineer.com/traveling-to-mongolia/",
+    "pubDate": "Fri, 21 Nov 2025 13:47:17 GMT"
+  },
+  {
     "title": "The Pulse: Cloudflare takes down half the internet – but shares a great postmortem",
     "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/",
     "pubDate": "Thu, 20 Nov 2025 20:36:19 GMT"
@@ -18,10 +23,5 @@
     "title": "Comparing interviews at 8 large tech companies",
     "link": "https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/",
     "pubDate": "Thu, 30 Oct 2025 18:00:42 GMT"
-  },
-  {
-    "title": "New trend: programming by kicking off parallel AI agents",
-    "link": "https://blog.pragmaticengineer.com/new-trend-programming-by-kicking-off-parallel-ai-agents/",
-    "pubDate": "Thu, 30 Oct 2025 17:58:38 GMT"
   }
 ]
