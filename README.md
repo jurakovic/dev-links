@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
+<small>[Google's Antigravity IDE Sparks Forking Debate](https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-21 simonwillison</small>  
 <small>[We should all be using dependency cooldowns](https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-21 pragmaticengineer</small>  
 <small>[A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-21 brendangregg</small>  
+<small>[Intel is listening, don't waste your shot](http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-21 stackoverflow</small>  
 <small>[Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/)</small>
@@ -18,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
 <small>['VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development](https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-11-21 haacked</small>  
+<small>[tree-me: Because git worktrees shouldn’t be a chore](https://haacked.com/archive/2025/11/21/tree-me/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-20 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)</small>
@@ -51,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
 <small>[How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-19 visualstudiomagazine</small>  
-<small>[Azure Cosmos DB Adds New AI Search and Agentic Capabilities at Ignite](https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Cosmos-DB-Adds-New-AI-Search-and-Agentic-Capabilities-at-Ignite.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
 <small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
 <small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-10-30 developertoarchitect</small>  
-<small>[Lesson 213 - Governing Architectural Constraints (November 3, 2025)](http://www.developertoarchitect.com/lessons/lesson213.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-10-29 tidyfirst</small>  
-<small>[Getting Ready to Launch](https://tidyfirst.substack.com/p/getting-ready-to-launch)</small>
 

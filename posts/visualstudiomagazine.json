@@ -1,5 +1,10 @@
 [
   {
+    "title": "Google's Antigravity IDE Sparks Forking Debate",
+    "link": "https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx",
+    "pubDate": "Fri, 21 Nov 2025 23:20:00 GMT"
+  },
+  {
     "title": "'VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx",
     "pubDate": "Fri, 21 Nov 2025 00:04:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Azure Developer CLI Adds AI Agent Extension for Foundry Deployments",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Developer-CLI-Adds-AI-Agent-Extension-for-Foundry-Deployments.aspx",
     "pubDate": "Wed, 19 Nov 2025 22:33:00 GMT"
-  },
-  {
-    "title": "Azure Cosmos DB Adds New AI Search and Agentic Capabilities at Ignite",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Cosmos-DB-Adds-New-AI-Search-and-Agentic-Capabilities-at-Ignite.aspx",
-    "pubDate": "Wed, 19 Nov 2025 21:18:00 GMT"
   }
 ]
