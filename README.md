@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-23 simonwillison</small>  
+<small>[Agent design is still hard](https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-22 simonwillison</small>  
+<small>[Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
 <small>[Google's Antigravity IDE Sparks Forking Debate](https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx)</small>
 
@@ -52,14 +58,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
 <small>[How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
-<small>[Building more with GPT-5.1-Codex-Max](https://simonwillison.net/2025/Nov/19/gpt-51-codex-max/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-19 visualstudiomagazine</small>  
 <small>[Azure Developer CLI Adds AI Agent Extension for Foundry Deployments](https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Developer-CLI-Adds-AI-Agent-Extension-for-Foundry-Deployments.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-19 simonwillison</small>  
-<small>[How I automate my Substack newsletter with content from my blog](https://simonwillison.net/2025/Nov/19/how-i-automate-my-substack-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
 <small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
