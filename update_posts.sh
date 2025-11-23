@@ -33,7 +33,7 @@ function update() {
       })
   ' > "$name.json"
 
-  if [ $? -ne 0 ] ; then
+  if [ $? -ne 0 ] || [ ! -s "$name.json" ]; then
     echo "  [ERROR] Failed to process $name ($url)"
     git restore "$name.json"
   fi
