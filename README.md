@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-23 simonwillison</small>  
+<small>["Good engineering management" is a fad](https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-23 microservices</small>  
+<small>[QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns](http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-23 simonwillison</small>  
 <small>[Agent design is still hard](https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-22 simonwillison</small>  
@@ -51,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-20 bartwullems</small>  
 <small>[Help! My Application Insights telemetry stopped working.](https://bartwullems.blogspot.com/2025/11/help-my-application-insights-telemetry.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-20 simonwillison</small>  
-<small>[Quoting Nicholas Carlini](https://simonwillison.net/2025/Nov/20/nicholas-carlini/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
 <small>[How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
 <small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-10-30 pragmaticengineer</small>  
-<small>[Comparing interviews at 8 large tech companies](https://blog.pragmaticengineer.com/comparing-interviews-at-8-large-tech-companies/)</small>
 
