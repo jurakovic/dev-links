@@ -1,5 +1,10 @@
 [
   {
+    "title": "sqlite-utils 4.0a1 has several (minor) backwards incompatible changes",
+    "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/#atom-everything",
+    "pubDate": "2025-11-24T14:52:34+00:00"
+  },
+  {
     "title": "\"Good engineering management\" is a fad",
     "link": "https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything",
     "pubDate": "2025-11-23T21:29:09+00:00"
@@ -18,10 +23,5 @@
     "title": "We should all be using dependency cooldowns",
     "link": "https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything",
     "pubDate": "2025-11-21T17:27:33+00:00"
-  },
-  {
-    "title": "Nano Banana Pro aka gemini-3-pro-image-preview is the best available image generation model",
-    "link": "https://simonwillison.net/2025/Nov/20/nano-banana-pro/#atom-everything",
-    "pubDate": "2025-11-20T16:32:25+00:00"
   }
 ]

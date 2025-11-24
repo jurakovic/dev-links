@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio – Built for the Speed of Modern Development",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/",
+    "pubDate": "Mon, 24 Nov 2025 15:00:06 +0000"
+  },
+  {
     "title": "Spend Less Time Upgrading, More Time Coding in Visual Studio 2026",
     "link": "https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/",
     "pubDate": "Tue, 18 Nov 2025 17:00:27 +0000"
@@ -18,10 +23,5 @@
     "title": "Introducing Copilot auto model selection (preview)",
     "link": "https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/",
     "pubDate": "Wed, 12 Nov 2025 17:38:43 +0000"
-  },
-  {
-    "title": "Visual Studio 2026 is here: faster, smarter, and a hit with early adopters",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters/",
-    "pubDate": "Tue, 11 Nov 2025 16:08:47 +0000"
   }
 ]
