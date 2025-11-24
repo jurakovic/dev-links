@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-24 simonwillison</small>  
+<small>[Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-24 simonwillison</small>  
+<small>[sqlite-utils 3.39](https://simonwillison.net/2025/Nov/24/sqlite-utils-339/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-24 visualstudio</small>  
 <small>[Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/)</small>
 
@@ -25,14 +31,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-23 simonwillison</small>  
 <small>[Agent design is still hard](https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-22 simonwillison</small>  
-<small>[Olmo 3 is a fully open LLM](https://simonwillison.net/2025/Nov/22/olmo-3/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
 <small>[Google's Antigravity IDE Sparks Forking Debate](https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-21 simonwillison</small>  
-<small>[We should all be using dependency cooldowns](https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-21 pragmaticengineer</small>  
 <small>[A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/)</small>

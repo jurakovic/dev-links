@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
+    "link": "https://simonwillison.net/2025/Nov/24/claude-opus/#atom-everything",
+    "pubDate": "2025-11-24T19:37:07+00:00"
+  },
+  {
+    "title": "sqlite-utils 3.39",
+    "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-339/#atom-everything",
+    "pubDate": "2025-11-24T18:59:14+00:00"
+  },
+  {
     "title": "sqlite-utils 4.0a1 has several (minor) backwards incompatible changes",
     "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/#atom-everything",
     "pubDate": "2025-11-24T14:52:34+00:00"
@@ -13,15 +23,5 @@
     "title": "Agent design is still hard",
     "link": "https://simonwillison.net/2025/Nov/23/agent-design-is-still-hard/#atom-everything",
     "pubDate": "2025-11-23T00:49:39+00:00"
-  },
-  {
-    "title": "Olmo 3 is a fully open LLM",
-    "link": "https://simonwillison.net/2025/Nov/22/olmo-3/#atom-everything",
-    "pubDate": "2025-11-22T23:59:46+00:00"
-  },
-  {
-    "title": "We should all be using dependency cooldowns",
-    "link": "https://simonwillison.net/2025/Nov/21/dependency-cooldowns/#atom-everything",
-    "pubDate": "2025-11-21T17:27:33+00:00"
   }
 ]
