@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building our first MCP Resources enabled MCP Server with C#",
+    "link": "https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources.html",
+    "pubDate": "2025-11-24T06:56:00.034+01:00"
+  },
+  {
     "title": "Supercharge your AI Workflow with Github Copilot Custom Prompt Files",
     "link": "https://bartwullems.blogspot.com/2025/11/supercharge-your-ai-workflow-with.html",
     "pubDate": "2025-11-21T07:48:00.020+01:00"
@@ -18,10 +23,5 @@
     "title": "How to uninstall older .NET Core versions",
     "link": "https://bartwullems.blogspot.com/2025/11/how-to-uninstall-older-net-core-versions.html",
     "pubDate": "2025-11-18T06:46:00.029+01:00"
-  },
-  {
-    "title": "Hands-on with MCP Resources in VS Code",
-    "link": "https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html",
-    "pubDate": "2025-11-17T07:22:00.023+01:00"
   }
 ]

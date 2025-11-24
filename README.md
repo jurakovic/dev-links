@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-24 bartwullems</small>  
+<small>[Building our first MCP Resources enabled MCP Server with C#](https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-24 steven-giesel</small>  
+<small>[Using sortable UUID / GUIDs in Entity Framework](https://steven-giesel.com/blogPost/d6150b89-a3ef-407e-add2-7afa4a2a8729)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-23 simonwillison</small>  
 <small>["Good engineering management" is a fad](https://simonwillison.net/2025/Nov/23/good-engineering-management-is-a-fad/#atom-everything)</small>
 
@@ -106,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
 <small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-17 bartwullems</small>  
-<small>[Hands-on with MCP Resources in VS Code](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-vs-code.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
 <small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-11-03 jimmybogard</small>  
 <small>[AutoMapper 15.1 and MediatR 13.1 Released](https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-03 steven-giesel</small>  
-<small>[ArrayPool Benchmarks: We have a problem](https://steven-giesel.com/blogPost/b8dffa1a-84f7-49a2-9dad-3bf8f7f4e410)</small>
 
