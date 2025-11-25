@@ -1,5 +1,10 @@
 [
   {
+    "title": "You’re probably underutilizing your GPUs",
+    "link": "https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/",
+    "pubDate": "Tue, 25 Nov 2025 08:40:00 GMT"
+  },
+  {
     "title": "Only you can stop AI database drops",
     "link": "https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/",
     "pubDate": "Fri, 21 Nov 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "How to create agents that people actually want to use",
     "link": "https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/",
     "pubDate": "Tue, 18 Nov 2025 08:40:00 GMT"
-  },
-  {
-    "title": "The fastest agent in the race has the best evals",
-    "link": "https://stackoverflow.blog/2025/11/14/the-fastest-agent-in-the-race-has-the-best-evals/",
-    "pubDate": "Fri, 14 Nov 2025 08:40:00 GMT"
   }
 ]

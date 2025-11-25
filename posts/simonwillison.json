@@ -1,5 +1,10 @@
 [
   {
+    "title": "llm-anthropic 0.23",
+    "link": "https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything",
+    "pubDate": "2025-11-25T05:26:34+00:00"
+  },
+  {
     "title": "LLM SVG Generation Benchmark",
     "link": "https://simonwillison.net/2025/Nov/25/llm-svg-generation-benchmark/#atom-everything",
     "pubDate": "2025-11-25T04:02:25+00:00"
@@ -18,10 +23,5 @@
     "title": "sqlite-utils 3.39",
     "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-339/#atom-everything",
     "pubDate": "2025-11-24T18:59:14+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.0a1 has several (minor) backwards incompatible changes",
-    "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-40a1/#atom-everything",
-    "pubDate": "2025-11-24T14:52:34+00:00"
   }
 ]
