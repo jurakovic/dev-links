@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-25 stackoverflow</small>  
+<small>[Essential ingredients for enterprise AI success](https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-25 andrewlock</small>  
+<small>[Exploring the .NET boot process via host tracing](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-25 stackoverflow</small>  
 <small>[You’re probably underutilizing your GPUs](https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-25 bartwullems</small>  
@@ -112,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-18 andrewlock</small>  
 <small>[Companies complaining .NET moves too fast should just pay for post-EOL support](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-18 stackoverflow</small>  
-<small>[How to create agents that people actually want to use](https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
 <small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-11-03 jimmybogard</small>  
-<small>[AutoMapper 15.1 and MediatR 13.1 Released](https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Exploring the .NET boot process via host tracing",
+    "link": "https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/",
+    "pubDate": "Tue, 25 Nov 2025 10:00:00 GMT"
+  },
+  {
     "title": "Companies complaining .NET moves too fast should just pay for post-EOL support",
     "link": "https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/",
     "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Adding metadata to fallback endpoints in ASP.NET Core",
     "link": "https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/",
     "pubDate": "Wed, 22 Oct 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Publishing NuGet packages from GitHub actions the easy way with Trusted Publishing",
-    "link": "https://andrewlock.net/easily-publishing-nuget-packages-from-github-actions-with-trusted-publishing/",
-    "pubDate": "Tue, 30 Sep 2025 10:00:00 GMT"
   }
 ]

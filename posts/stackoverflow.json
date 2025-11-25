@@ -1,5 +1,10 @@
 [
   {
+    "title": "Essential ingredients for enterprise AI success",
+    "link": "https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/",
+    "pubDate": "Tue, 25 Nov 2025 17:00:00 GMT"
+  },
+  {
     "title": "You’re probably underutilizing your GPUs",
     "link": "https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/",
     "pubDate": "Tue, 25 Nov 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Introducing Stack Internal: Powering the human intelligence layer of enterprise AI",
     "link": "https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/",
     "pubDate": "Tue, 18 Nov 2025 15:00:00 GMT"
-  },
-  {
-    "title": "How to create agents that people actually want to use",
-    "link": "https://stackoverflow.blog/2025/11/18/how-to-create-agents-that-people-actually-want-to-use/",
-    "pubDate": "Tue, 18 Nov 2025 08:40:00 GMT"
   }
 ]
