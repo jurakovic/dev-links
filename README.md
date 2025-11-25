@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-25 simonwillison</small>  
+<small>[Google Antigravity Exfiltrates Data](https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-25 simonwillison</small>  
+<small>[Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
+<small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-25 stackoverflow</small>  
 <small>[Essential ingredients for enterprise AI success](https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/)</small>
 
@@ -24,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-24 simonwillison</small>  
 <small>[Quoting Claude Opus 4.5 system prompt](https://simonwillison.net/2025/Nov/24/claude-opus-45-system-prompt/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-24 simonwillison</small>  
-<small>[Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult](https://simonwillison.net/2025/Nov/24/claude-opus/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-24 simonwillison</small>  
-<small>[sqlite-utils 3.39](https://simonwillison.net/2025/Nov/24/sqlite-utils-339/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-24 visualstudio</small>  
 <small>[Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-04 andrewlock</small>  
 <small>[Easier reflection with \[UnsafeAccessorType\] in .NET 10: Exploring the .NET 10 preview - Part 9](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
-<small>[Fragments Nov 3](https://martinfowler.com/articles/2025-11-03-frags.html)</small>
 

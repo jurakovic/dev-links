@@ -1,5 +1,15 @@
 [
   {
+    "title": "Google Antigravity Exfiltrates Data",
+    "link": "https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/#atom-everything",
+    "pubDate": "2025-11-25T20:47:50+00:00"
+  },
+  {
+    "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
+    "link": "https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything",
+    "pubDate": "2025-11-25T18:32:23+00:00"
+  },
+  {
     "title": "llm-anthropic 0.23",
     "link": "https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything",
     "pubDate": "2025-11-25T05:26:34+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Claude Opus 4.5 system prompt",
     "link": "https://simonwillison.net/2025/Nov/24/claude-opus-45-system-prompt/#atom-everything",
     "pubDate": "2025-11-24T23:58:54+00:00"
-  },
-  {
-    "title": "Claude Opus 4.5, and why evaluating new LLMs is increasingly difficult",
-    "link": "https://simonwillison.net/2025/Nov/24/claude-opus/#atom-everything",
-    "pubDate": "2025-11-24T19:37:07+00:00"
-  },
-  {
-    "title": "sqlite-utils 3.39",
-    "link": "https://simonwillison.net/2025/Nov/24/sqlite-utils-339/#atom-everything",
-    "pubDate": "2025-11-24T18:59:14+00:00"
   }
 ]
