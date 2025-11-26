@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-26 dotnet</small>  
+<small>[.NET Day on Agentic Modernization Coming Soon](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-26 bartwullems</small>  
 <small>[One shot tool execution in .NET 10 - Run tools without installing](https://bartwullems.blogspot.com/2025/11/one-shot-tool-execution-in-net-10-run.html)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-18 andrewlock</small>  
 <small>[Companies complaining .NET moves too fast should just pay for post-EOL support](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-17 dotnet</small>  
-<small>[Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
 <small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>
