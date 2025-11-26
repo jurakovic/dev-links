@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-26 bartwullems</small>  
+<small>[One shot tool execution in .NET 10 - Run tools without installing](https://bartwullems.blogspot.com/2025/11/one-shot-tool-execution-in-net-10-run.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-26 simonwillison</small>  
 <small>[Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything)</small>
 
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-19 steven-giesel</small>  
 <small>[No more public partial class Program in .NET 10](https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-19 bartwullems</small>  
-<small>[Hands-on with MCP Resources in Visual Studio](https://bartwullems.blogspot.com/2025/11/hands-on-with-mcp-resources-in-visual.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
 <small>[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/)</small>
