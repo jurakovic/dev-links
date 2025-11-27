@@ -1,5 +1,10 @@
 [
   {
+    "title": "deepseek-ai/DeepSeek-Math-V2",
+    "link": "https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything",
+    "pubDate": "2025-11-27T15:59:23+00:00"
+  },
+  {
     "title": "Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson",
     "link": "https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything",
     "pubDate": "2025-11-26T00:29:11+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-anthropic 0.23",
     "link": "https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything",
     "pubDate": "2025-11-25T05:26:34+00:00"
-  },
-  {
-    "title": "LLM SVG Generation Benchmark",
-    "link": "https://simonwillison.net/2025/Nov/25/llm-svg-generation-benchmark/#atom-everything",
-    "pubDate": "2025-11-25T04:02:25+00:00"
   }
 ]
