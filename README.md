@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-27 simonwillison</small>  
+<small>[Quoting Qwen3-VL Technical Report](https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-27 simonwillison</small>  
 <small>[deepseek-ai/DeepSeek-Math-V2](https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-27 bartwullems</small>  
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-25 bartwullems</small>  
 <small>[VS Code Planning mode](https://bartwullems.blogspot.com/2025/11/vs-code-planning-mode.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-25 simonwillison</small>  
-<small>[llm-anthropic 0.23](https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-24 visualstudio</small>  
 <small>[Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/)</small>

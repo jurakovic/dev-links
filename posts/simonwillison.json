@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Qwen3-VL Technical Report",
+    "link": "https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything",
+    "pubDate": "2025-11-27T17:01:11+00:00"
+  },
+  {
     "title": "deepseek-ai/DeepSeek-Math-V2",
     "link": "https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything",
     "pubDate": "2025-11-27T15:59:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
     "link": "https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything",
     "pubDate": "2025-11-25T18:32:23+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.23",
-    "link": "https://simonwillison.net/2025/Nov/25/llm-anthropic/#atom-everything",
-    "pubDate": "2025-11-25T05:26:34+00:00"
   }
 ]
