@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-28 stackoverflow</small>  
+<small>[Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-28 bartwullems</small>  
+<small>[Code signing your .NET Core application](https://bartwullems.blogspot.com/2025/11/code-signing-your-net-core-application.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-27 simonwillison</small>  
 <small>[Quoting Qwen3-VL Technical Report](https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything)</small>
 
@@ -70,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-21 stackoverflow</small>  
 <small>[Only you can stop AI database drops](https://stackoverflow.blog/2025/11/21/only-you-can-stop-ai-database-drops/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-21 bartwullems</small>  
-<small>[Supercharge your AI Workflow with Github Copilot Custom Prompt Files](https://bartwullems.blogspot.com/2025/11/supercharge-your-ai-workflow-with.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
 <small>['VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development](https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
 <small>[Post-Quantum Cryptography in .NET](https://devblogs.microsoft.com/dotnet/post-quantum-cryptography-in-dotnet/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-18 stackoverflow</small>  
-<small>[Introducing Stack Internal: Powering the human intelligence layer of enterprise AI](https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-18 andrewlock</small>  
 <small>[Companies complaining .NET moves too fast should just pay for post-EOL support](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/)</small>

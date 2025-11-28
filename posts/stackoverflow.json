@@ -1,5 +1,10 @@
 [
   {
+    "title": "Lightning-as-a-service for agriculture",
+    "link": "https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/",
+    "pubDate": "Fri, 28 Nov 2025 08:40:00 GMT"
+  },
+  {
     "title": "Essential ingredients for enterprise AI success",
     "link": "https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/",
     "pubDate": "Tue, 25 Nov 2025 17:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Community Products roadmap update, November 2025",
     "link": "https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/",
     "pubDate": "Thu, 20 Nov 2025 16:00:00 GMT"
-  },
-  {
-    "title": "Introducing Stack Internal: Powering the human intelligence layer of enterprise AI",
-    "link": "https://stackoverflow.blog/2025/11/18/introducing-stack-internal-powering-the-human-intelligence-layer-of-enterprise-ai/",
-    "pubDate": "Tue, 18 Nov 2025 15:00:00 GMT"
   }
 ]
