@@ -10,6 +10,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-27 simonwillison</small>  
 <small>[deepseek-ai/DeepSeek-Math-V2](https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
+<small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-27 bartwullems</small>  
 <small>[Building our first MCP Resources enabled MCP Server with C#–Advanced](https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources_0251571667.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
 <small>[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-04 andrewlock</small>  
-<small>[Easier reflection with \[UnsafeAccessorType\] in .NET 10: Exploring the .NET 10 preview - Part 9](https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/)</small>
 

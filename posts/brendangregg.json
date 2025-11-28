@@ -1,5 +1,10 @@
 [
   {
+    "title": "On \"AI Brendans\" or \"Virtual Brendans\"",
+    "link": "http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html",
+    "pubDate": "Fri, 28 Nov 2025 00:00:00 +1100"
+  },
+  {
     "title": "Intel is listening, don't waste your shot",
     "link": "http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html",
     "pubDate": "Sat, 22 Nov 2025 00:00:00 +1100"
@@ -18,10 +23,5 @@
     "title": "3 Years of Extremely Remote Work",
     "link": "http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html",
     "pubDate": "Thu, 22 May 2025 00:00:00 +1000"
-  },
-  {
-    "title": "Doom GPU Flame Graphs",
-    "link": "http://www.brendangregg.com/blog//2025-05-01/doom-gpu-flame-graphs.html",
-    "pubDate": "Thu, 01 May 2025 00:00:00 +1000"
   }
 ]
