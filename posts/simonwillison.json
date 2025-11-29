@@ -1,5 +1,15 @@
 [
   {
+    "title": "Context plumbing",
+    "link": "https://simonwillison.net/2025/Nov/29/context-plumbing/#atom-everything",
+    "pubDate": "2025-11-29T11:26:24+00:00"
+  },
+  {
+    "title": "Quoting Wikipedia content guideline",
+    "link": "https://simonwillison.net/2025/Nov/29/wikipedia-content-guideline/#atom-everything",
+    "pubDate": "2025-11-29T10:55:30+00:00"
+  },
+  {
     "title": "A ChatGPT prompt equals about 5.1 seconds of Netflix",
     "link": "https://simonwillison.net/2025/Nov/29/chatgpt-netflix/#atom-everything",
     "pubDate": "2025-11-29T02:13:36+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Qwen3-VL Technical Report",
     "link": "https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything",
     "pubDate": "2025-11-27T17:01:11+00:00"
-  },
-  {
-    "title": "deepseek-ai/DeepSeek-Math-V2",
-    "link": "https://simonwillison.net/2025/Nov/27/deepseek-math-v2/#atom-everything",
-    "pubDate": "2025-11-27T15:59:23+00:00"
-  },
-  {
-    "title": "Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson",
-    "link": "https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything",
-    "pubDate": "2025-11-26T00:29:11+00:00"
   }
 ]
