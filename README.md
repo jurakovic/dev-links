@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
+<small>[A ChatGPT prompt equals about 5.1 seconds of Netflix](https://simonwillison.net/2025/Nov/29/chatgpt-netflix/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-28 simonwillison</small>  
+<small>[Bluesky Thread Viewer thread by @simonwillison.net](https://simonwillison.net/2025/Nov/28/bluesky-thread-viewer/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
+<small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-28 stackoverflow</small>  
 <small>[Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/)</small>
 
@@ -30,12 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-26 simonwillison</small>  
 <small>[Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson](https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-25 simonwillison</small>  
-<small>[Google Antigravity Exfiltrates Data](https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-25 simonwillison</small>  
-<small>[Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
 <small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-06 pragmaticengineer</small>  
 <small>[The Pulse: Amazon layoffs – AI or economy to blame?](https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-04 martinfowler</small>  
-<small>[The Learning Loop and LLMs](https://martinfowler.com/articles/llm-learning-loop.html)</small>
 

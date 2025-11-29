@@ -1,5 +1,15 @@
 [
   {
+    "title": "A ChatGPT prompt equals about 5.1 seconds of Netflix",
+    "link": "https://simonwillison.net/2025/Nov/29/chatgpt-netflix/#atom-everything",
+    "pubDate": "2025-11-29T02:13:36+00:00"
+  },
+  {
+    "title": "Bluesky Thread Viewer thread by @simonwillison.net",
+    "link": "https://simonwillison.net/2025/Nov/28/bluesky-thread-viewer/#atom-everything",
+    "pubDate": "2025-11-28T23:57:22+00:00"
+  },
+  {
     "title": "Quoting Qwen3-VL Technical Report",
     "link": "https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything",
     "pubDate": "2025-11-27T17:01:11+00:00"
@@ -13,15 +23,5 @@
     "title": "Highlights from my appearance on the Data Renegades podcast with CL Kao and Dori Wilson",
     "link": "https://simonwillison.net/2025/Nov/26/data-renegades-podcast/#atom-everything",
     "pubDate": "2025-11-26T00:29:11+00:00"
-  },
-  {
-    "title": "Google Antigravity Exfiltrates Data",
-    "link": "https://simonwillison.net/2025/Nov/25/google-antigravity-exfiltrates-data/#atom-everything",
-    "pubDate": "2025-11-25T20:47:50+00:00"
-  },
-  {
-    "title": "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
-    "link": "https://simonwillison.net/2025/Nov/25/constant-time-support-lands-in-llvm/#atom-everything",
-    "pubDate": "2025-11-25T18:32:23+00:00"
   }
 ]

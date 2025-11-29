@@ -1,5 +1,10 @@
 [
   {
+    "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
+    "link": "https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
+    "pubDate": "Fri, 28 Nov 2025 19:31:25 GMT"
+  },
+  {
     "title": "Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio",
     "link": "https://www.hanselman.com/blog/webcam-randomly-pausing-in-obs-discord-and-websites-lsvcam-and-tiktok-studio",
     "pubDate": "Wed, 09 Oct 2024 19:32:28 GMT"
@@ -18,10 +23,5 @@
     "title": "Using WSL and Let's Encrypt to create Azure App Service SSL Wildcard Certificates",
     "link": "https://www.hanselman.com/blog/using-wsl-and-lets-encrypt-to-create-azure-app-service-ssl-wildcard-certificates",
     "pubDate": "Tue, 27 Jun 2023 17:17:25 GMT"
-  },
-  {
-    "title": "GitHub Copilot for CLI for PowerShell",
-    "link": "https://www.hanselman.com/blog/github-copilot-for-cli-for-powershell",
-    "pubDate": "Tue, 25 Apr 2023 15:31:49 GMT"
   }
 ]
