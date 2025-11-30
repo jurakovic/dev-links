@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Rodrigo Arias Mallo",
+    "link": "https://simonwillison.net/2025/Nov/30/rodrigo-arias-mallo/#atom-everything",
+    "pubDate": "2025-11-30T14:32:11+00:00"
+  },
+  {
     "title": "Context plumbing",
     "link": "https://simonwillison.net/2025/Nov/29/context-plumbing/#atom-everything",
     "pubDate": "2025-11-29T11:26:24+00:00"
@@ -18,10 +23,5 @@
     "title": "Bluesky Thread Viewer thread by @simonwillison.net",
     "link": "https://simonwillison.net/2025/Nov/28/bluesky-thread-viewer/#atom-everything",
     "pubDate": "2025-11-28T23:57:22+00:00"
-  },
-  {
-    "title": "Quoting Qwen3-VL Technical Report",
-    "link": "https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything",
-    "pubDate": "2025-11-27T17:01:11+00:00"
   }
 ]

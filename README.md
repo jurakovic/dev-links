@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-30 simonwillison</small>  
+<small>[Quoting Rodrigo Arias Mallo](https://simonwillison.net/2025/Nov/30/rodrigo-arias-mallo/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-30 paulhammant</small>  
 <small>[Did You Send This - for module phone SMS/Voice](https://paulhammant.com/2025/11/30/did-you-send-this-challenge/)</small>
 
@@ -12,6 +15,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
 <small>[Quoting Wikipedia content guideline](https://simonwillison.net/2025/Nov/29/wikipedia-content-guideline/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
+<small>[Berlin meetup: Microservices rules - what good looks like](http://microservices.io//post/architecture/2025/11/29/berlin-meeting-microservices-rules.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
 <small>[SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow](http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html)</small>
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-28 bartwullems</small>  
 <small>[Code signing your .NET Core application](https://bartwullems.blogspot.com/2025/11/code-signing-your-net-core-application.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-27 simonwillison</small>  
-<small>[Quoting Qwen3-VL Technical Report](https://simonwillison.net/2025/Nov/27/qwen3-vl-technical-report/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
 <small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-11 antirez</small>  
 <small>[Scaling HNSWs](http://antirez.com/news/156)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-11 pragmaticengineer</small>  
-<small>[Four years on writing a tech book: pitching to a publisher](https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/)</small>
 

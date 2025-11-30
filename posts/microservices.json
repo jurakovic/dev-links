@@ -1,5 +1,10 @@
 [
   {
+    "title": "Berlin meetup: Microservices rules - what good looks like",
+    "link": "http://microservices.io//post/architecture/2025/11/29/berlin-meeting-microservices-rules.html",
+    "pubDate": "Sat, 29 Nov 2025 10:00:00 +0000"
+  },
+  {
     "title": "SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow",
     "link": "http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html",
     "pubDate": "Sat, 29 Nov 2025 08:02:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Getting started with Oso Cloud",
     "link": "http://microservices.io//post/architecture/2025/10/06/getting-started-with-oso-cloud.html",
     "pubDate": "Mon, 06 Oct 2025 08:03:00 +0000"
-  },
-  {
-    "title": "A must-read book - Architecture for Flow: Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies",
-    "link": "http://microservices.io//post/architecture/2025/10/02/must-read-book-architecture-for-flow.html",
-    "pubDate": "Thu, 02 Oct 2025 08:03:00 +0000"
   }
 ]
