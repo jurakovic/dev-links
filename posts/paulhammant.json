@@ -1,5 +1,10 @@
 [
   {
+    "title": "Did You Send This - for module phone SMS/Voice",
+    "link": "https://paulhammant.com/2025/11/30/did-you-send-this-challenge/",
+    "pubDate": "2025-11-30T00:00:00+00:00"
+  },
+  {
     "title": "Modern CV Technology: JSON Resume embedded in HTML",
     "link": "https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/",
     "pubDate": "2025-10-12T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "SwiftUI Component Testing with Appium & Test Harnesses",
     "link": "https://paulhammant.com/2025/06/30/swiftui-component-testing/",
     "pubDate": "2025-06-30T00:00:00+00:00"
-  },
-  {
-    "title": "NightWatch Component Testing and visual documentation",
-    "link": "https://paulhammant.com/2025/06/25/nightwatch-component-testing/",
-    "pubDate": "2025-06-25T00:00:00+00:00"
   }
 ]

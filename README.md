@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-30 paulhammant</small>  
+<small>[Did You Send This - for module phone SMS/Voice](https://paulhammant.com/2025/11/30/did-you-send-this-challenge/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
 <small>[Context plumbing](https://simonwillison.net/2025/Nov/29/context-plumbing/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
 <small>[Quoting Wikipedia content guideline](https://simonwillison.net/2025/Nov/29/wikipedia-content-guideline/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
+<small>[SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow](http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
 <small>[A ChatGPT prompt equals about 5.1 seconds of Netflix](https://simonwillison.net/2025/Nov/29/chatgpt-netflix/#atom-everything)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-11 pragmaticengineer</small>  
 <small>[Four years on writing a tech book: pitching to a publisher](https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-10 steven-giesel</small>  
-<small>[Capturing Console Output in xUnit.v3](https://steven-giesel.com/blogPost/63a50c08-ddba-4f23-9ce0-b47917e32875)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-06 pragmaticengineer</small>  
-<small>[The Pulse: Amazon layoffs – AI or economy to blame?](https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/)</small>
 
