@@ -1,5 +1,10 @@
 [
   {
+    "title": "Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson214.html",
+    "pubDate": "Sun, 30 Nov 2025 13:21:15 -0500"
+  },
+  {
     "title": "Lesson 213 - Governing Architectural Constraints (November 3, 2025)",
     "link": "http://www.developertoarchitect.com/lessons/lesson213.html",
     "pubDate": "Thu, 30 Oct 2025 13:38:01 -0400"
@@ -18,10 +23,5 @@
     "title": "Lesson 210 - Architecture Definition Language (August 4, 2025)",
     "link": "http://www.developertoarchitect.com/lessons/lesson210.html",
     "pubDate": "Fri, 01 Aug 2025 12:44:55 -0400"
-  },
-  {
-    "title": "Lesson 209 - Fallacies of Software Architecture Part 1 (July 7, 2025)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson209.html",
-    "pubDate": "Sun, 06 Jul 2025 12:21:12 -0400"
   }
 ]
