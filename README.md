@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-30 simonwillison</small>  
+<small>[Quoting Felix Nolan](https://simonwillison.net/2025/Nov/30/felix-nolan/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-30 simonwillison</small>  
+<small>[ChatGPT is three years old today](https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
 <small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](http://www.developertoarchitect.com/lessons/lesson214.html)</small>
 
@@ -24,12 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
 <small>[SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow](http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
-<small>[A ChatGPT prompt equals about 5.1 seconds of Netflix](https://simonwillison.net/2025/Nov/29/chatgpt-netflix/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-28 simonwillison</small>  
-<small>[Bluesky Thread Viewer thread by @simonwillison.net](https://simonwillison.net/2025/Nov/28/bluesky-thread-viewer/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
 <small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
