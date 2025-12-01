@@ -1,5 +1,10 @@
 [
   {
+    "title": "Upgrade MSVC, improve C++ build performance, and refactor C++ code with GitHub Copilot",
+    "link": "https://devblogs.microsoft.com/visualstudio/upgrade-msvc-improve-c-build-performance-and-refactor-c-code-with-github-copilot/",
+    "pubDate": "Mon, 01 Dec 2025 16:24:40 +0000"
+  },
+  {
     "title": "Visual Studio – Built for the Speed of Modern Development",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/",
     "pubDate": "Mon, 24 Nov 2025 15:00:06 +0000"
@@ -18,10 +23,5 @@
     "title": "A first look at the all‑new UX in Visual Studio 2026",
     "link": "https://devblogs.microsoft.com/visualstudio/a-first-look-at-the-all%e2%80%91new-ux-in-visual-studio-2026/",
     "pubDate": "Thu, 13 Nov 2025 15:00:29 +0000"
-  },
-  {
-    "title": "Introducing Copilot auto model selection (preview)",
-    "link": "https://devblogs.microsoft.com/visualstudio/introducing-copilot-auto-model-selection-preview/",
-    "pubDate": "Wed, 12 Nov 2025 17:38:43 +0000"
   }
 ]
