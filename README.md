@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-01 stackoverflow</small>  
+<small>[What’s new at Stack Overflow: December 2025](https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-01 bartwullems</small>  
 <small>[Concurrent changes on non-concurrent collections](https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html)</small>
 
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-20 dotnet</small>  
 <small>[Reinventing how .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-20 stackoverflow</small>  
-<small>[Community Products roadmap update, November 2025](https://stackoverflow.blog/2025/11/20/community-products-roadmap-update-november-2025/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
 <small>[How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
