@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-01 bartwullems</small>  
+<small>[Concurrent changes on non-concurrent collections](https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
+<small>[YouTube embeds fail with a 153 error](https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-30 simonwillison</small>  
 <small>[Quoting Felix Nolan](https://simonwillison.net/2025/Nov/30/felix-nolan/#atom-everything)</small>
 
@@ -21,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
 <small>[Context plumbing](https://simonwillison.net/2025/Nov/29/context-plumbing/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-11-29 simonwillison</small>  
-<small>[Quoting Wikipedia content guideline](https://simonwillison.net/2025/Nov/29/wikipedia-content-guideline/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
 <small>[Berlin meetup: Microservices rules - what good looks like](http://microservices.io//post/architecture/2025/11/29/berlin-meeting-microservices-rules.html)</small>
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-24 visualstudio</small>  
 <small>[Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-24 bartwullems</small>  
-<small>[Building our first MCP Resources enabled MCP Server with C#](https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-24 steven-giesel</small>  
 <small>[Using sortable UUID / GUIDs in Entity Framework](https://steven-giesel.com/blogPost/d6150b89-a3ef-407e-add2-7afa4a2a8729)</small>

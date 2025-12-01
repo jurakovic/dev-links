@@ -1,5 +1,10 @@
 [
   {
+    "title": "Concurrent changes on non-concurrent collections",
+    "link": "https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html",
+    "pubDate": "2025-12-01T07:21:00.013+01:00"
+  },
+  {
     "title": "Code signing your .NET Core application",
     "link": "https://bartwullems.blogspot.com/2025/11/code-signing-your-net-core-application.html",
     "pubDate": "2025-11-28T06:55:00.010+01:00"
@@ -18,10 +23,5 @@
     "title": "VS Code Planning mode",
     "link": "https://bartwullems.blogspot.com/2025/11/vs-code-planning-mode.html",
     "pubDate": "2025-11-25T08:40:00.018+01:00"
-  },
-  {
-    "title": "Building our first MCP Resources enabled MCP Server with C#",
-    "link": "https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources.html",
-    "pubDate": "2025-11-24T06:56:00.034+01:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "YouTube embeds fail with a 153 error",
+    "link": "https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything",
+    "pubDate": "2025-12-01T05:26:23+00:00"
+  },
+  {
     "title": "Quoting Felix Nolan",
     "link": "https://simonwillison.net/2025/Nov/30/felix-nolan/#atom-everything",
     "pubDate": "2025-11-30T22:48:46+00:00"
@@ -18,10 +23,5 @@
     "title": "Context plumbing",
     "link": "https://simonwillison.net/2025/Nov/29/context-plumbing/#atom-everything",
     "pubDate": "2025-11-29T11:26:24+00:00"
-  },
-  {
-    "title": "Quoting Wikipedia content guideline",
-    "link": "https://simonwillison.net/2025/Nov/29/wikipedia-content-guideline/#atom-everything",
-    "pubDate": "2025-11-29T10:55:30+00:00"
   }
 ]
