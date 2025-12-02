@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Gets 'Real' on Native TypeScript Remake",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx",
+    "pubDate": "Tue, 02 Dec 2025 18:41:00 GMT"
+  },
+  {
+    "title": "Microsoft Brings Anthropic's Claude Opus 4.5 to Foundry Preview",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Brings-Anthropics-Claude-Opus-4-5-to-Foundry-Preview.aspx",
+    "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
+  },
+  {
     "title": "Microsoft Pushes OData Forward with New Previews",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/01/Microsoft-Pushes-OData-Forward-with-New-Previews.aspx",
     "pubDate": "Mon, 01 Dec 2025 20:00:00 GMT"
@@ -13,15 +23,5 @@
     "title": "'VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx",
     "pubDate": "Fri, 21 Nov 2025 00:04:00 GMT"
-  },
-  {
-    "title": "Google Joins AI IDE Race to Compete with VS Code, Apparently Forking VS Code",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/20/Google-Joins-AI-IDE-Race-to-Compete-with-VS-Code-Apparently-Forking-VS-Code.aspx",
-    "pubDate": "Thu, 20 Nov 2025 19:36:00 GMT"
-  },
-  {
-    "title": "How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx",
-    "pubDate": "Thu, 20 Nov 2025 00:13:00 GMT"
   }
 ]

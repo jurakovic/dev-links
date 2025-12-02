@@ -4,11 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
+<small>[Microsoft Gets 'Real' on Native TypeScript Remake](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
+<small>[Anthropic acquires Bun](https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
+<small>[Microsoft Brings Anthropic's Claude Opus 4.5 to Foundry Preview](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Brings-Anthropics-Claude-Opus-4-5-to-Foundry-Preview.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
+<small>[Introducing Mistral 3](https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-02 visualstudio</small>  
+<small>[Profiler Agent – Delegate the analysis, not the performance](https://devblogs.microsoft.com/visualstudio/delegate-the-analysis-not-the-performance/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: \[EnumMember\] support, analyzers, and bug fixes](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/)</small>
@@ -37,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 dotnet</small>  
 <small>[Cross-Platform Age Verification in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
-<small>[Quoting David Bauder, AP News](https://simonwillison.net/2025/Dec/1/journalism/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 visualstudio</small>  
 <small>[Upgrade MSVC, improve C++ build performance, and refactor C++ code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/upgrade-msvc-improve-c-build-performance-and-refactor-c-code-with-github-copilot/)</small>
 
@@ -48,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-01 bartwullems</small>  
 <small>[Concurrent changes on non-concurrent collections](https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
-<small>[YouTube embeds fail with a 153 error](https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
 <small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](http://www.developertoarchitect.com/lessons/lesson214.html)</small>
@@ -118,14 +127,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-20 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
-<small>[Google Joins AI IDE Race to Compete with VS Code, Apparently Forking VS Code](https://visualstudiomagazine.com/Articles/2025/11/20/Google-Joins-AI-IDE-Race-to-Compete-with-VS-Code-Apparently-Forking-VS-Code.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-20 dotnet</small>  
 <small>[Reinventing how .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-20 visualstudiomagazine</small>  
-<small>[How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps](https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
 <small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-18 andrewlock</small>  
 <small>[Companies complaining .NET moves too fast should just pay for post-EOL support](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
-<small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>
 
