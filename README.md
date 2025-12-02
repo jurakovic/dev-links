@@ -5,6 +5,15 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
+<small>[Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
+<small>[Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-02 andrewlock</small>  
+<small>[Recent updates to NetEscapades.EnumGenerators: \[EnumMember\] support, analyzers, and bug fixes](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-02 steven-giesel</small>  
@@ -79,14 +88,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
 <small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-25 stackoverflow</small>  
-<small>[Essential ingredients for enterprise AI success](https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-25 andrewlock</small>  
 <small>[Exploring the .NET boot process via host tracing](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-25 stackoverflow</small>  
-<small>[You’re probably underutilizing your GPUs](https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-24 visualstudio</small>  
 <small>[Visual Studio – Built for the Speed of Modern Development](https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-16 brendangregg</small>  
 <small>[Third Stage Engineering](http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-14 visualstudio</small>  
-<small>[Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows](https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes",
+    "link": "https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/",
+    "pubDate": "Tue, 02 Dec 2025 09:00:00 GMT"
+  },
+  {
     "title": "Exploring the .NET boot process via host tracing",
     "link": "https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/",
     "pubDate": "Tue, 25 Nov 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315",
     "link": "https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/",
     "pubDate": "Tue, 28 Oct 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Adding metadata to fallback endpoints in ASP.NET Core",
-    "link": "https://andrewlock.net/adding-metadata-to-fallback-endpoints-in-aspnetcore/",
-    "pubDate": "Wed, 22 Oct 2025 10:00:00 GMT"
   }
 ]

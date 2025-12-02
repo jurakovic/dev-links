@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing Stack Overflow AI Assist—a tool for the modern developer",
+    "link": "https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/",
+    "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
+  },
+  {
+    "title": "Disrupting yourself in the age of AI",
+    "link": "https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/",
+    "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
+  },
+  {
     "title": "Abstraction, but for robots",
     "link": "https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/",
     "pubDate": "Tue, 02 Dec 2025 08:40:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Lightning-as-a-service for agriculture",
     "link": "https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/",
     "pubDate": "Fri, 28 Nov 2025 08:40:00 GMT"
-  },
-  {
-    "title": "Essential ingredients for enterprise AI success",
-    "link": "https://stackoverflow.blog/2025/11/25/essential-ingredients-for-enterprise-ai-success/",
-    "pubDate": "Tue, 25 Nov 2025 17:00:00 GMT"
-  },
-  {
-    "title": "You’re probably underutilizing your GPUs",
-    "link": "https://stackoverflow.blog/2025/11/25/you-re-probably-underutilizing-your-gpus/",
-    "pubDate": "Tue, 25 Nov 2025 08:40:00 GMT"
   }
 ]
