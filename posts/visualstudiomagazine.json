@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Pushes OData Forward with New Previews",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/01/Microsoft-Pushes-OData-Forward-with-New-Previews.aspx",
+    "pubDate": "Mon, 01 Dec 2025 20:00:00 GMT"
+  },
+  {
     "title": "Google's Antigravity IDE Sparks Forking Debate",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx",
     "pubDate": "Fri, 21 Nov 2025 23:20:00 GMT"
@@ -18,10 +23,5 @@
     "title": "How Blazor's Unified Rendering Model Shapes Modern .NET Web Apps",
     "link": "https://visualstudiomagazine.com/Articles/2025/11/19/How-Blazors-Unified-Rendering-Model-Shapes-Modern-NET-Web-Apps.aspx",
     "pubDate": "Thu, 20 Nov 2025 00:13:00 GMT"
-  },
-  {
-    "title": "Azure Developer CLI Adds AI Agent Extension for Foundry Deployments",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/19/Azure-Developer-CLI-Adds-AI-Agent-Extension-for-Foundry-Deployments.aspx",
-    "pubDate": "Wed, 19 Nov 2025 22:33:00 GMT"
   }
 ]

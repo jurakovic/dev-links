@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude 4.5 Opus' Soul Document",
+    "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/#atom-everything",
+    "pubDate": "2025-12-02T00:35:02+00:00"
+  },
+  {
+    "title": "DeepSeek-V3.2",
+    "link": "https://simonwillison.net/2025/Dec/1/deepseek-v32/#atom-everything",
+    "pubDate": "2025-12-01T23:56:19+00:00"
+  },
+  {
     "title": "I sent out my November sponsor newsletter",
     "link": "https://simonwillison.net/2025/Dec/1/november/#atom-everything",
     "pubDate": "2025-12-01T20:53:18+00:00"
@@ -13,15 +23,5 @@
     "title": "YouTube embeds fail with a 153 error",
     "link": "https://simonwillison.net/2025/Dec/1/youtube-embed-153-error/#atom-everything",
     "pubDate": "2025-12-01T05:26:23+00:00"
-  },
-  {
-    "title": "Quoting Felix Nolan",
-    "link": "https://simonwillison.net/2025/Nov/30/felix-nolan/#atom-everything",
-    "pubDate": "2025-11-30T22:48:46+00:00"
-  },
-  {
-    "title": "ChatGPT is three years old today",
-    "link": "https://simonwillison.net/2025/Nov/30/chatgpt-third-birthday/#atom-everything",
-    "pubDate": "2025-11-30T22:17:53+00:00"
   }
 ]
