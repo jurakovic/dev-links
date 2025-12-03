@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
+<small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-03 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 Gets New AI Features in November Update](https://visualstudiomagazine.com/Articles/2025/12/03/Visual-Studio-2026-Gets-New-AI-Features-in-November-Update.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-03 simonwillison</small>  
+<small>[Quoting Mitchell Hashimoto](https://simonwillison.net/2025/Dec/3/mitchell-hashimoto/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 dotnet</small>  
+<small>[Introducing Data Ingestion Building Blocks (Preview)](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
 <small>[Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/)</small>
 
@@ -51,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
 <small>[Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
-<small>[DeepSeek-V3.2](https://simonwillison.net/2025/Dec/1/deepseek-v32/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-01 visualstudiomagazine</small>  
 <small>[Microsoft Pushes OData Forward with New Previews](https://visualstudiomagazine.com/Articles/2025/12/01/Microsoft-Pushes-OData-Forward-with-New-Previews.aspx)</small>
@@ -124,9 +133,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-21 brendangregg</small>  
 <small>[Intel is listening, don't waste your shot](http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
-<small>['VS Code for the Web -- Azure' Adds Faster Entry Points for Browser-Based Cloud Development](https://visualstudiomagazine.com/Articles/2025/11/20/VS-Code-for-the-Web-Azure-Adds-Faster-Entry-Points-for-Browser-Based-Cloud-Development.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-11-21 haacked</small>  
 <small>[tree-me: Because git worktrees shouldn’t be a chore](https://haacked.com/archive/2025/11/21/tree-me/)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-19 steven-giesel</small>  
 <small>[No more public partial class Program in .NET 10](https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 dotnet</small>  
-<small>[A step-by-step guide to modernizing .NET applications with GitHub Copilot agent mode](https://devblogs.microsoft.com/dotnet/modernizing-dotnet-with-github-copilot-agent-mode/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-18 martinfowler</small>  
-<small>[My Foreword to "Frictionless"](https://martinfowler.com/articles/frictionless-foreword.html)</small>
 

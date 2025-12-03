@@ -1,5 +1,10 @@
 [
   {
+    "title": "AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support",
+    "link": "https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/",
+    "pubDate": "Wed, 03 Dec 2025 21:23:28 GMT"
+  },
+  {
     "title": "AutoMapper 15.1 and MediatR 13.1 Released",
     "link": "https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/",
     "pubDate": "Mon, 03 Nov 2025 22:06:16 GMT"
@@ -18,10 +23,5 @@
     "title": "AutoMapper and MediatR Licensing Update",
     "link": "https://www.jimmybogard.com/automapper-and-mediatr-licensing-update/",
     "pubDate": "Wed, 16 Apr 2025 05:15:28 GMT"
-  },
-  {
-    "title": "AutoMapper and MediatR Going Commercial",
-    "link": "https://www.jimmybogard.com/automapper-and-mediatr-going-commercial/",
-    "pubDate": "Wed, 02 Apr 2025 13:00:12 GMT"
   }
 ]

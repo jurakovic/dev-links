@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Mitchell Hashimoto",
+    "link": "https://simonwillison.net/2025/Dec/3/mitchell-hashimoto/#atom-everything",
+    "pubDate": "2025-12-03T19:18:49+00:00"
+  },
+  {
     "title": "TIL: Dependency groups and uv run",
     "link": "https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything",
     "pubDate": "2025-12-03T05:55:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude 4.5 Opus' Soul Document",
     "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/#atom-everything",
     "pubDate": "2025-12-02T00:35:02+00:00"
-  },
-  {
-    "title": "DeepSeek-V3.2",
-    "link": "https://simonwillison.net/2025/Dec/1/deepseek-v32/#atom-everything",
-    "pubDate": "2025-12-01T23:56:19+00:00"
   }
 ]
