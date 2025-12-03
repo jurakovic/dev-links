@@ -1,5 +1,10 @@
 [
   {
+    "title": "TIL: Dependency groups and uv run",
+    "link": "https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything",
+    "pubDate": "2025-12-03T05:55:23+00:00"
+  },
+  {
     "title": "Anthropic acquires Bun",
     "link": "https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything",
     "pubDate": "2025-12-02T18:40:05+00:00"
@@ -18,10 +23,5 @@
     "title": "DeepSeek-V3.2",
     "link": "https://simonwillison.net/2025/Dec/1/deepseek-v32/#atom-everything",
     "pubDate": "2025-12-01T23:56:19+00:00"
-  },
-  {
-    "title": "I sent out my November sponsor newsletter",
-    "link": "https://simonwillison.net/2025/Dec/1/november/#atom-everything",
-    "pubDate": "2025-12-01T20:53:18+00:00"
   }
 ]

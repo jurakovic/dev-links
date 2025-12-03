@@ -1,5 +1,10 @@
 [
   {
+    "title": "Enhanced security in NuGet for .NET 10",
+    "link": "https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html",
+    "pubDate": "2025-12-03T07:10:00.008+01:00"
+  },
+  {
     "title": "How to exclude specific content when using GitHub Copilot",
     "link": "https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html",
     "pubDate": "2025-12-02T06:58:00.018+01:00"
@@ -18,10 +23,5 @@
     "title": "Building our first MCP Resources enabled MCP Server with C#–Advanced",
     "link": "https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources_0251571667.html",
     "pubDate": "2025-11-27T07:13:00.022+01:00"
-  },
-  {
-    "title": "One shot tool execution in .NET 10 - Run tools without installing",
-    "link": "https://bartwullems.blogspot.com/2025/11/one-shot-tool-execution-in-net-10-run.html",
-    "pubDate": "2025-11-26T07:22:00.011+01:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-03 bartwullems</small>  
+<small>[Enhanced security in NuGet for .NET 10](https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-03 simonwillison</small>  
+<small>[TIL: Dependency groups and uv run](https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
 <small>[Microsoft Gets 'Real' on Native TypeScript Remake](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx)</small>
 
@@ -42,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
 <small>[DeepSeek-V3.2](https://simonwillison.net/2025/Dec/1/deepseek-v32/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-01 simonwillison</small>  
-<small>[I sent out my November sponsor newsletter](https://simonwillison.net/2025/Dec/1/november/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-01 visualstudiomagazine</small>  
 <small>[Microsoft Pushes OData Forward with New Previews](https://visualstudiomagazine.com/Articles/2025/12/01/Microsoft-Pushes-OData-Forward-with-New-Previews.aspx)</small>
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-26 dotnet</small>  
 <small>[.NET Day on Agentic Modernization Coming Soon](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-26 bartwullems</small>  
-<small>[One shot tool execution in .NET 10 - Run tools without installing](https://bartwullems.blogspot.com/2025/11/one-shot-tool-execution-in-net-10-run.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
 <small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
