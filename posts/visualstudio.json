@@ -1,5 +1,15 @@
 [
   {
+    "title": "Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/",
+    "pubDate": "Wed, 03 Dec 2025 16:00:24 +0000"
+  },
+  {
+    "title": "Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems",
+    "link": "https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems/",
+    "pubDate": "Wed, 03 Dec 2025 15:00:13 +0000"
+  },
+  {
     "title": "Profiler Agent – Delegate the analysis, not the performance",
     "link": "https://devblogs.microsoft.com/visualstudio/delegate-the-analysis-not-the-performance/",
     "pubDate": "Tue, 02 Dec 2025 15:00:16 +0000"
@@ -13,15 +23,5 @@
     "title": "Visual Studio – Built for the Speed of Modern Development",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-built-for-the-speed-of-modern-development/",
     "pubDate": "Mon, 24 Nov 2025 15:00:06 +0000"
-  },
-  {
-    "title": "Spend Less Time Upgrading, More Time Coding in Visual Studio 2026",
-    "link": "https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/",
-    "pubDate": "Tue, 18 Nov 2025 17:00:27 +0000"
-  },
-  {
-    "title": "Azure MCP Server Now Built-In with Visual Studio 2026: A New Era for Agentic Workflows",
-    "link": "https://devblogs.microsoft.com/visualstudio/azure-mcp-server-now-built-in-with-visual-studio-2026-a-new-era-for-agentic-workflows/",
-    "pubDate": "Fri, 14 Nov 2025 14:00:14 +0000"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
+<small>[Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
+<small>[Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems](https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-03 bartwullems</small>  
 <small>[Enhanced security in NuGet for .NET 10](https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-18 martinfowler</small>  
 <small>[My Foreword to "Frictionless"](https://martinfowler.com/articles/frictionless-foreword.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-18 visualstudio</small>  
-<small>[Spend Less Time Upgrading, More Time Coding in Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/spend-less-time-upgrading-more-time-coding-in-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-18 andrewlock</small>  
-<small>[Companies complaining .NET moves too fast should just pay for post-EOL support](https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/)</small>
 
