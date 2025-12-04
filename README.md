@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-03 visualstudiomagazine</small>  
+<small>[Post-GA Copilot Response Improvements in Visual Studio 2026](https://visualstudiomagazine.com/Articles/2025/12/03/How-Microsoft-Just-Improved-Copilot-Responses-in-Visual-Studio-2026.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
 <small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-23 microservices</small>  
 <small>[QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns](http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-11-21 visualstudiomagazine</small>  
-<small>[Google's Antigravity IDE Sparks Forking Debate](https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-21 pragmaticengineer</small>  
 <small>[A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Post-GA Copilot Response Improvements in Visual Studio 2026",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/03/How-Microsoft-Just-Improved-Copilot-Responses-in-Visual-Studio-2026.aspx",
+    "pubDate": "Wed, 03 Dec 2025 22:47:00 GMT"
+  },
+  {
     "title": "Visual Studio 2026 Gets New AI Features in November Update",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/03/Visual-Studio-2026-Gets-New-AI-Features-in-November-Update.aspx",
     "pubDate": "Wed, 03 Dec 2025 20:27:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Microsoft Pushes OData Forward with New Previews",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/01/Microsoft-Pushes-OData-Forward-with-New-Previews.aspx",
     "pubDate": "Mon, 01 Dec 2025 20:00:00 GMT"
-  },
-  {
-    "title": "Google's Antigravity IDE Sparks Forking Debate",
-    "link": "https://visualstudiomagazine.com/Articles/2025/11/21/Googles-Antigravity-IDE-Sparks-Forking-Debate.aspx",
-    "pubDate": "Fri, 21 Nov 2025 23:20:00 GMT"
   }
 ]
