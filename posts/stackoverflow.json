@@ -1,5 +1,10 @@
 [
   {
+    "title": "Postman’s journey and unlocking the power of APIs",
+    "link": "https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/",
+    "pubDate": "Thu, 04 Dec 2025 08:40:00 GMT"
+  },
+  {
     "title": "Introducing Stack Overflow AI Assist—a tool for the modern developer",
     "link": "https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/",
     "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "What’s new at Stack Overflow: December 2025",
     "link": "https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/",
     "pubDate": "Mon, 01 Dec 2025 15:18:09 GMT"
-  },
-  {
-    "title": "Lightning-as-a-service for agriculture",
-    "link": "https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/",
-    "pubDate": "Fri, 28 Nov 2025 08:40:00 GMT"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-04 stackoverflow</small>  
+<small>[Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-04 bartwullems</small>  
+<small>[Leave room for the other voice](https://bartwullems.blogspot.com/2025/12/leave-room-for-other-voice.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-03 visualstudiomagazine</small>  
 <small>[Post-GA Copilot Response Improvements in Visual Studio 2026](https://visualstudiomagazine.com/Articles/2025/12/03/How-Microsoft-Just-Improved-Copilot-Responses-in-Visual-Studio-2026.aspx)</small>
 
@@ -97,17 +103,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
 <small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-11-28 stackoverflow</small>  
-<small>[Lightning-as-a-service for agriculture](https://stackoverflow.blog/2025/11/28/lightning-as-a-service-for-agriculture/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-28 bartwullems</small>  
 <small>[Code signing your .NET Core application](https://bartwullems.blogspot.com/2025/11/code-signing-your-net-core-application.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
 <small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-27 bartwullems</small>  
-<small>[Building our first MCP Resources enabled MCP Server with C#–Advanced](https://bartwullems.blogspot.com/2025/11/building-our-first-mcp-resources_0251571667.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-26 dotnet</small>  
 <small>[.NET Day on Agentic Modernization Coming Soon](https://devblogs.microsoft.com/dotnet/dotnet-day-on-agentic-modernization-coming-soon/)</small>
