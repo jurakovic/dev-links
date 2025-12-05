@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
+<small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
 <small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-05 stackoverflow</small>  
+<small>[Treating your agents like microservices](https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-05 bartwullems</small>  
 <small>[Replacing EventCounters with the new Metrics API](https://bartwullems.blogspot.com/2025/12/replacing-eventcounters-with-new.html)</small>
@@ -40,6 +46,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-04 visualstudio</small>  
 <small>[Unlocking the Power of Web with Copilot Chat’s New URL Context](https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-web-with-copilot-chats-new-url-context/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-12-04 brendangregg</small>  
+<small>[Leaving Intel](http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-04 stackoverflow</small>  
 <small>[Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/)</small>
 
@@ -67,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-03 bartwullems</small>  
 <small>[Enhanced security in NuGet for .NET 10](https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
-<small>[Microsoft Gets 'Real' on Native TypeScript Remake](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)</small>
 
@@ -96,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 visualstudio</small>  
 <small>[Upgrade MSVC, improve C++ build performance, and refactor C++ code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/upgrade-msvc-improve-c-build-performance-and-refactor-c-code-with-github-copilot/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-01 stackoverflow</small>  
-<small>[What’s new at Stack Overflow: December 2025](https://stackoverflow.blog/2025/12/01/what-s-new-at-stack-overflow-december-2025/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-01 bartwullems</small>  
 <small>[Concurrent changes on non-concurrent collections](https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-11-20 dotnet</small>  
 <small>[Reinventing how .NET Builds and Ships (Again)](https://devblogs.microsoft.com/dotnet/reinventing-how-dotnet-builds-and-ships-again/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
-<small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
 
