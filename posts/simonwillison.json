@@ -1,5 +1,20 @@
 [
   {
+    "title": "The Resonant Computing Manifesto",
+    "link": "https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything",
+    "pubDate": "2025-12-05T01:19:26+00:00"
+  },
+  {
+    "title": "Django 6.0 released",
+    "link": "https://simonwillison.net/2025/Dec/4/django-6/#atom-everything",
+    "pubDate": "2025-12-04T23:57:34+00:00"
+  },
+  {
+    "title": "Text a community college librarian",
+    "link": "https://simonwillison.net/2025/Dec/4/text-a-librarian/#atom-everything",
+    "pubDate": "2025-12-04T23:52:21+00:00"
+  },
+  {
     "title": "Quoting Mitchell Hashimoto",
     "link": "https://simonwillison.net/2025/Dec/3/mitchell-hashimoto/#atom-everything",
     "pubDate": "2025-12-03T19:18:49+00:00"
@@ -8,20 +23,5 @@
     "title": "TIL: Dependency groups and uv run",
     "link": "https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything",
     "pubDate": "2025-12-03T05:55:23+00:00"
-  },
-  {
-    "title": "Anthropic acquires Bun",
-    "link": "https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything",
-    "pubDate": "2025-12-02T18:40:05+00:00"
-  },
-  {
-    "title": "Introducing Mistral 3",
-    "link": "https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything",
-    "pubDate": "2025-12-02T17:30:57+00:00"
-  },
-  {
-    "title": "Claude 4.5 Opus' Soul Document",
-    "link": "https://simonwillison.net/2025/Dec/2/claude-soul-document/#atom-everything",
-    "pubDate": "2025-12-02T00:35:02+00:00"
   }
 ]

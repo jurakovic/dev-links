@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
+<small>[The Resonant Computing Manifesto](https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-04 simonwillison</small>  
+<small>[Django 6.0 released](https://simonwillison.net/2025/Dec/4/django-6/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-04 simonwillison</small>  
+<small>[Text a community college librarian](https://simonwillison.net/2025/Dec/4/text-a-librarian/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
+<small>[Claude Opus 4.5 Lands in GitHub Copilot for Visual Studio and VS Code](https://visualstudiomagazine.com/Articles/2025/12/04/Claude-Opus-4-5-Lands-in-GitHub-Copilot-for-Visual-Studio-and-VS-Code.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
 <small>[Microsoft Previews Cloud-Hosted Foundry MCP Server for AI Agent Development](https://visualstudiomagazine.com/Articles/2025/12/04/Microsoft-Previews-Cloud-Hosted-Foundry-MCP-Server-for-AI-Agent-Development.aspx)</small>
 
@@ -52,20 +64,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
 <small>[Microsoft Gets 'Real' on Native TypeScript Remake](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
-<small>[Anthropic acquires Bun](https://simonwillison.net/2025/Dec/2/anthropic-acquires-bun/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
-<small>[Microsoft Brings Anthropic's Claude Opus 4.5 to Foundry Preview](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Brings-Anthropics-Claude-Opus-4-5-to-Foundry-Preview.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
-<small>[Introducing Mistral 3](https://simonwillison.net/2025/Dec/2/introducing-mistral-3/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-02 visualstudio</small>  
 <small>[Profiler Agent – Delegate the analysis, not the performance](https://devblogs.microsoft.com/visualstudio/delegate-the-analysis-not-the-performance/)</small>
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-02 bartwullems</small>  
 <small>[How to exclude specific content when using GitHub Copilot](https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-02 simonwillison</small>  
-<small>[Claude 4.5 Opus' Soul Document](https://simonwillison.net/2025/Dec/2/claude-soul-document/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 dotnet</small>  
 <small>[Cross-Platform Age Verification in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/)</small>
