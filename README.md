@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
+<small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-05 bartwullems</small>  
+<small>[Replacing EventCounters with the new Metrics API](https://bartwullems.blogspot.com/2025/12/replacing-eventcounters-with-new.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
+<small>[TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
+<small>[Thoughts on Go vs. Rust vs. Zig](https://simonwillison.net/2025/Dec/5/go-vs-rust-vs-zig/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
 <small>[The Resonant Computing Manifesto](https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything)</small>
 
@@ -43,9 +55,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-03 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Gets New AI Features in November Update](https://visualstudiomagazine.com/Articles/2025/12/03/Visual-Studio-2026-Gets-New-AI-Features-in-November-Update.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-03 simonwillison</small>  
-<small>[Quoting Mitchell Hashimoto](https://simonwillison.net/2025/Dec/3/mitchell-hashimoto/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 dotnet</small>  
 <small>[Introducing Data Ingestion Building Blocks (Preview)](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/)</small>
 
@@ -57,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-03 bartwullems</small>  
 <small>[Enhanced security in NuGet for .NET 10](https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-03 simonwillison</small>  
-<small>[TIL: Dependency groups and uv run](https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-02 visualstudiomagazine</small>  
 <small>[Microsoft Gets 'Real' on Native TypeScript Remake](https://visualstudiomagazine.com/Articles/2025/12/02/Microsoft-Gets-Real-on-Native-TypeScript-Remake.aspx)</small>
@@ -112,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
 <small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-11-28 bartwullems</small>  
-<small>[Code signing your .NET Core application](https://bartwullems.blogspot.com/2025/11/code-signing-your-net-core-application.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
 <small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-11-19 martinfowler</small>  
 <small>[Fragments Nov 19](https://martinfowler.com/articles/2025-11-19-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-11-19 lethain</small>  
-<small>[Coding at work (after a decade away).](https://lethain.com/coding-at-work/)</small>
 

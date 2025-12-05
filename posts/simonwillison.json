@@ -1,5 +1,15 @@
 [
   {
+    "title": "TIL: Subtests in pytest 9.0.0+",
+    "link": "https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything",
+    "pubDate": "2025-12-05T06:03:29+00:00"
+  },
+  {
+    "title": "Thoughts on Go vs. Rust vs. Zig",
+    "link": "https://simonwillison.net/2025/Dec/5/go-vs-rust-vs-zig/#atom-everything",
+    "pubDate": "2025-12-05T04:28:05+00:00"
+  },
+  {
     "title": "The Resonant Computing Manifesto",
     "link": "https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything",
     "pubDate": "2025-12-05T01:19:26+00:00"
@@ -13,15 +23,5 @@
     "title": "Text a community college librarian",
     "link": "https://simonwillison.net/2025/Dec/4/text-a-librarian/#atom-everything",
     "pubDate": "2025-12-04T23:52:21+00:00"
-  },
-  {
-    "title": "Quoting Mitchell Hashimoto",
-    "link": "https://simonwillison.net/2025/Dec/3/mitchell-hashimoto/#atom-everything",
-    "pubDate": "2025-12-03T19:18:49+00:00"
-  },
-  {
-    "title": "TIL: Dependency groups and uv run",
-    "link": "https://simonwillison.net/2025/Dec/3/til-dependency-groups-and-uv-run/#atom-everything",
-    "pubDate": "2025-12-03T05:55:23+00:00"
   }
 ]
