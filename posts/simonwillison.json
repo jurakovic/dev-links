@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
+    "link": "https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything",
+    "pubDate": "2025-12-06T18:30:56+00:00"
+  },
+  {
     "title": "Quoting Daniel Lemire",
     "link": "https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything",
     "pubDate": "2025-12-06T14:40:46+00:00"
@@ -18,10 +23,5 @@
     "title": "The Resonant Computing Manifesto",
     "link": "https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything",
     "pubDate": "2025-12-05T01:19:26+00:00"
-  },
-  {
-    "title": "Django 6.0 released",
-    "link": "https://simonwillison.net/2025/Dec/4/django-6/#atom-everything",
-    "pubDate": "2025-12-04T23:57:34+00:00"
   }
 ]
