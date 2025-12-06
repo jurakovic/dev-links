@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-06 simonwillison</small>  
+<small>[Quoting Daniel Lemire](https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
 <small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>
 
@@ -27,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-04 simonwillison</small>  
 <small>[Django 6.0 released](https://simonwillison.net/2025/Dec/4/django-6/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-04 simonwillison</small>  
-<small>[Text a community college librarian](https://simonwillison.net/2025/Dec/4/text-a-librarian/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
 <small>[Claude Opus 4.5 Lands in GitHub Copilot for Visual Studio and VS Code](https://visualstudiomagazine.com/Articles/2025/12/04/Claude-Opus-4-5-Lands-in-GitHub-Copilot-for-Visual-Studio-and-VS-Code.aspx)</small>
