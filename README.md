@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
+<small>[Quoting Cory Doctorow](https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
+<small>[Using LLMs at Oxide](https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
+<small>[Quoting David Crespo](https://simonwillison.net/2025/Dec/7/david-crespo/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-06 simonwillison</small>  
 <small>[The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything)</small>
 
@@ -21,15 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-05 bartwullems</small>  
 <small>[Replacing EventCounters with the new Metrics API](https://bartwullems.blogspot.com/2025/12/replacing-eventcounters-with-new.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
-<small>[TIL: Subtests in pytest 9.0.0+](https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
-<small>[Thoughts on Go vs. Rust vs. Zig](https://simonwillison.net/2025/Dec/5/go-vs-rust-vs-zig/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-05 simonwillison</small>  
-<small>[The Resonant Computing Manifesto](https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
 <small>[Claude Opus 4.5 Lands in GitHub Copilot for Visual Studio and VS Code](https://visualstudiomagazine.com/Articles/2025/12/04/Claude-Opus-4-5-Lands-in-GitHub-Copilot-for-Visual-Studio-and-VS-Code.aspx)</small>

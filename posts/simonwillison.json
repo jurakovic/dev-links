@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Cory Doctorow",
+    "link": "https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything",
+    "pubDate": "2025-12-07T21:28:28+00:00"
+  },
+  {
+    "title": "Using LLMs at Oxide",
+    "link": "https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything",
+    "pubDate": "2025-12-07T21:28:17+00:00"
+  },
+  {
+    "title": "Quoting David Crespo",
+    "link": "https://simonwillison.net/2025/Dec/7/david-crespo/#atom-everything",
+    "pubDate": "2025-12-07T20:33:54+00:00"
+  },
+  {
     "title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
     "link": "https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything",
     "pubDate": "2025-12-06T18:30:56+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Daniel Lemire",
     "link": "https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything",
     "pubDate": "2025-12-06T14:40:46+00:00"
-  },
-  {
-    "title": "TIL: Subtests in pytest 9.0.0+",
-    "link": "https://simonwillison.net/2025/Dec/5/til-pytest-subtests/#atom-everything",
-    "pubDate": "2025-12-05T06:03:29+00:00"
-  },
-  {
-    "title": "Thoughts on Go vs. Rust vs. Zig",
-    "link": "https://simonwillison.net/2025/Dec/5/go-vs-rust-vs-zig/#atom-everything",
-    "pubDate": "2025-12-05T04:28:05+00:00"
-  },
-  {
-    "title": "The Resonant Computing Manifesto",
-    "link": "https://simonwillison.net/2025/Dec/5/resonant-computing/#atom-everything",
-    "pubDate": "2025-12-05T01:19:26+00:00"
   }
 ]
