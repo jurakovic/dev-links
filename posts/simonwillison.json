@@ -1,5 +1,10 @@
 [
   {
+    "title": "Niche Museums: The Museum of Jurassic Technology",
+    "link": "https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything",
+    "pubDate": "2025-12-08T03:16:41+00:00"
+  },
+  {
     "title": "Quoting Cory Doctorow",
     "link": "https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything",
     "pubDate": "2025-12-07T21:28:28+00:00"
@@ -18,10 +23,5 @@
     "title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
     "link": "https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything",
     "pubDate": "2025-12-06T18:30:56+00:00"
-  },
-  {
-    "title": "Quoting Daniel Lemire",
-    "link": "https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything",
-    "pubDate": "2025-12-06T14:40:46+00:00"
   }
 ]

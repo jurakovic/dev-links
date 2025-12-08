@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-08 simonwillison</small>  
+<small>[Niche Museums: The Museum of Jurassic Technology](https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
 <small>[Quoting Cory Doctorow](https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything)</small>
 
@@ -15,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-06 simonwillison</small>  
 <small>[The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-06 simonwillison</small>  
-<small>[Quoting Daniel Lemire](https://simonwillison.net/2025/Dec/6/daniel-lemire/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
 <small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>
