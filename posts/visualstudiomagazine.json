@@ -1,5 +1,15 @@
 [
   {
+    "title": "Aspire 13 Makes Python a First-Class Workload with .NET and JavaScript",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/08/Aspire-13-Makes-Python-a-First-Class-Workload-with-NET-and-JavaScript.aspx",
+    "pubDate": "Mon, 08 Dec 2025 18:03:00 GMT"
+  },
+  {
+    "title": "Threat Actors Keep Weaponizing VS Code Extensions",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/08/Threat-Actors-Keep-Weaponizing-VS-Code-Extensions.aspx",
+    "pubDate": "Mon, 08 Dec 2025 17:21:00 GMT"
+  },
+  {
     "title": "Listen Up: VS Code Insiders Gets a Podcast",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx",
     "pubDate": "Fri, 05 Dec 2025 16:54:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Microsoft Previews Cloud-Hosted Foundry MCP Server for AI Agent Development",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/04/Microsoft-Previews-Cloud-Hosted-Foundry-MCP-Server-for-AI-Agent-Development.aspx",
     "pubDate": "Thu, 04 Dec 2025 21:05:00 GMT"
-  },
-  {
-    "title": "Post-GA Copilot Response Improvements in Visual Studio 2026",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/03/How-Microsoft-Just-Improved-Copilot-Responses-in-Visual-Studio-2026.aspx",
-    "pubDate": "Wed, 03 Dec 2025 22:47:00 GMT"
-  },
-  {
-    "title": "Visual Studio 2026 Gets New AI Features in November Update",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/03/Visual-Studio-2026-Gets-New-AI-Features-in-November-Update.aspx",
-    "pubDate": "Wed, 03 Dec 2025 20:27:00 GMT"
   }
 ]
