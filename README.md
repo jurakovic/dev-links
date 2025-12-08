@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-08 stackoverflow</small>  
+<small>[The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-08 simonwillison</small>  
 <small>[Niche Museums: The Museum of Jurassic Technology](https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything)</small>
 
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: \[EnumMember\] support, analyzers, and bug fixes](https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
-<small>[Abstraction, but for robots](https://stackoverflow.blog/2025/12/02/abstraction-but-for-robots/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-02 steven-giesel</small>  
 <small>[Mime Type Helper in .NET 11](https://steven-giesel.com/blogPost/8f41d316-f6ac-4712-bf11-ea36b7c2f2e6)</small>
