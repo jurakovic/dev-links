@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Prediction: AI will make formal verification go mainstream](https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Deprecations via warnings don’t work for Python libraries](https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
 <small>[Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/)</small>
 
@@ -27,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
 <small>[Using LLMs at Oxide](https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
-<small>[Quoting David Crespo](https://simonwillison.net/2025/Dec/7/david-crespo/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-06 simonwillison</small>  
-<small>[The Unexpected Effectiveness of One-Shot Decompilation with Claude](https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
 <small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>

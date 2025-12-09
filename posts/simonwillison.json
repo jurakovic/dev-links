@@ -1,5 +1,15 @@
 [
   {
+    "title": "Prediction: AI will make formal verification go mainstream",
+    "link": "https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything",
+    "pubDate": "2025-12-09T03:11:19+00:00"
+  },
+  {
+    "title": "Deprecations via warnings don’t work for Python libraries",
+    "link": "https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything",
+    "pubDate": "2025-12-09T01:13:39+00:00"
+  },
+  {
     "title": "Niche Museums: The Museum of Jurassic Technology",
     "link": "https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything",
     "pubDate": "2025-12-08T03:16:41+00:00"
@@ -13,15 +23,5 @@
     "title": "Using LLMs at Oxide",
     "link": "https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything",
     "pubDate": "2025-12-07T21:28:17+00:00"
-  },
-  {
-    "title": "Quoting David Crespo",
-    "link": "https://simonwillison.net/2025/Dec/7/david-crespo/#atom-everything",
-    "pubDate": "2025-12-07T20:33:54+00:00"
-  },
-  {
-    "title": "The Unexpected Effectiveness of One-Shot Decompilation with Claude",
-    "link": "https://simonwillison.net/2025/Dec/6/one-shot-decompilation/#atom-everything",
-    "pubDate": "2025-12-06T18:30:56+00:00"
   }
 ]
