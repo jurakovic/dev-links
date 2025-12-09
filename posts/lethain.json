@@ -1,5 +1,10 @@
 [
   {
+    "title": "Facilitating AI adoption at Imprint",
+    "link": "https://lethain.com/company-ai-adoption/",
+    "pubDate": "Sun, 07 Dec 2025 08:00:00 -0700"
+  },
+  {
     "title": "Coding at work (after a decade away).",
     "link": "https://lethain.com/coding-at-work/",
     "pubDate": "Wed, 19 Nov 2025 08:00:00 -0700"
@@ -17,11 +22,6 @@
   {
     "title": "Commenting on Notion docs via OpenAI and Zapier.",
     "link": "https://lethain.com/commenting-notion-open-ai-zapier/",
-    "pubDate": "Sun, 20 Jul 2025 04:00:00 -0700"
-  },
-  {
-    "title": "An agent to use Notion docs as prompts to comment on Notion docs.",
-    "link": "https://lethain.com/notion-agent/",
     "pubDate": "Sun, 20 Jul 2025 04:00:00 -0700"
   }
 ]

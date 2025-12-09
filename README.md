@@ -34,6 +34,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
 <small>[Using LLMs at Oxide](https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
+<small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
 <small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-11-21 haacked</small>  
 <small>[tree-me: Because git worktrees shouldn’t be a chore](https://haacked.com/archive/2025/11/21/tree-me/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-20 pragmaticengineer</small>  
-<small>[The Pulse: Cloudflare takes down half the internet – but shares a great postmortem](https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/)</small>
 
