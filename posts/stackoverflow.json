@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI is a crystal ball into your codebase",
+    "link": "https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/",
+    "pubDate": "Tue, 09 Dec 2025 08:40:00 GMT"
+  },
+  {
     "title": "The shift in enterprise AI—what we learned on the floor at Microsoft Ignite",
     "link": "https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/",
     "pubDate": "Mon, 08 Dec 2025 18:00:00 GMT"
@@ -17,11 +22,6 @@
   {
     "title": "Introducing Stack Overflow AI Assist—a tool for the modern developer",
     "link": "https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/",
-    "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
-  },
-  {
-    "title": "Disrupting yourself in the age of AI",
-    "link": "https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/",
     "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
   }
 ]

@@ -5,10 +5,34 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[mistralai/mistral-vibe](https://simonwillison.net/2025/Dec/9/mistral-vibe/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
+<small>[GitHub Ships Early December Copilot Updates Across Spaces, Visual Studio and Model Options](https://visualstudiomagazine.com/Articles/2025/12/09/GitHub-Ships-Early-December-Copilot-Updates-Across-Spaces-Visual-Studio-and-Model-Options.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
+<small>[.NET and .NET Framework December 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
+<small>[Azure Broadens AI Options from Models to Hybrid Deployment](https://visualstudiomagazine.com/Articles/2025/12/09/Azure-Broadens-AI-Options-from-Models-to-Hybrid-Deployment.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
+<small>[Implementing Cross-Platform In-App Billing in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-09 steven-giesel</small>  
+<small>[GitHub Runners might not be a good benchmark baseline](https://steven-giesel.com/blogPost/77f3667e-cf86-4e62-b09f-b32c0aaf58cd)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
 <small>[Quoting Claude](https://simonwillison.net/2025/Dec/9/claude/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
 <small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-09 stackoverflow</small>  
+<small>[AI is a crystal ball into your codebase](https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-09 microservices</small>  
+<small>[Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud](http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
 <small>[Prediction: AI will make formal verification go mainstream](https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything)</small>
@@ -34,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-08 simonwillison</small>  
 <small>[Niche Museums: The Museum of Jurassic Technology](https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
-<small>[Quoting Cory Doctorow](https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
 <small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
 
@@ -51,12 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-05 bartwullems</small>  
 <small>[Replacing EventCounters with the new Metrics API](https://bartwullems.blogspot.com/2025/12/replacing-eventcounters-with-new.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
-<small>[Claude Opus 4.5 Lands in GitHub Copilot for Visual Studio and VS Code](https://visualstudiomagazine.com/Articles/2025/12/04/Claude-Opus-4-5-Lands-in-GitHub-Copilot-for-Visual-Studio-and-VS-Code.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-04 visualstudiomagazine</small>  
-<small>[Microsoft Previews Cloud-Hosted Foundry MCP Server for AI Agent Development](https://visualstudiomagazine.com/Articles/2025/12/04/Microsoft-Previews-Cloud-Hosted-Foundry-MCP-Server-for-AI-Agent-Development.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-04 dotnet</small>  
 <small>[.NET Conf 2025 Recap – Celebrating .NET 10, Visual Studio 2026, AI, Community, & More](https://devblogs.microsoft.com/dotnet/dotnet-conf-2025-recap/)</small>
@@ -79,9 +94,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
 <small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 dotnet</small>  
-<small>[Introducing Data Ingestion Building Blocks (Preview)](https://devblogs.microsoft.com/dotnet/introducing-data-ingestion-building-blocks-preview/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
 <small>[Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/)</small>
 
@@ -94,9 +106,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
 <small>[Introducing Stack Overflow AI Assist—a tool for the modern developer](https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-02 stackoverflow</small>  
-<small>[Disrupting yourself in the age of AI](https://stackoverflow.blog/2025/12/02/disrupting-yourself-in-the-age-of-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-02 visualstudio</small>  
 <small>[Profiler Agent – Delegate the analysis, not the performance](https://devblogs.microsoft.com/visualstudio/delegate-the-analysis-not-the-performance/)</small>
 
@@ -108,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-02 bartwullems</small>  
 <small>[How to exclude specific content when using GitHub Copilot](https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 dotnet</small>  
-<small>[Cross-Platform Age Verification in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-age-verification-dotnet-maui/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-01 visualstudio</small>  
 <small>[Upgrade MSVC, improve C++ build performance, and refactor C++ code with GitHub Copilot](https://devblogs.microsoft.com/visualstudio/upgrade-msvc-improve-c-build-performance-and-refactor-c-code-with-github-copilot/)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-23 microservices</small>  
 <small>[QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns](http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-11-21 pragmaticengineer</small>  
-<small>[A startup in Mongolia translated my book](https://blog.pragmaticengineer.com/traveling-to-mongolia/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-21 brendangregg</small>  
-<small>[Intel is listening, don't waste your shot](http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html)</small>
 
