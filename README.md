@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Quoting Claude](https://simonwillison.net/2025/Dec/9/claude/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
+<small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
 <small>[Prediction: AI will make formal verification go mainstream](https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
 <small>[Quoting Cory Doctorow](https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-07 simonwillison</small>  
-<small>[Using LLMs at Oxide](https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
 <small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-21 brendangregg</small>  
 <small>[Intel is listening, don't waste your shot](http://www.brendangregg.com/blog//2025-11-22/intel-is-listening.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-11-21 haacked</small>  
-<small>[tree-me: Because git worktrees shouldn’t be a chore](https://haacked.com/archive/2025/11/21/tree-me/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Trying out the Zed editor on Windows for .NET and Markdown",
+    "link": "https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/",
+    "pubDate": "Tue, 09 Dec 2025 10:00:00 GMT"
+  },
+  {
     "title": "Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes",
     "link": "https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/",
     "pubDate": "Tue, 02 Dec 2025 09:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Easier reflection with [UnsafeAccessorType] in .NET 10: Exploring the .NET 10 preview - Part 9",
     "link": "https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/",
     "pubDate": "Tue, 04 Nov 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Understanding the worst .NET vulnerability ever: request smuggling and CVE-2025-55315",
-    "link": "https://andrewlock.net/understanding-the-worst-dotnet-vulnerability-request-smuggling-and-cve-2025-55315/",
-    "pubDate": "Tue, 28 Oct 2025 10:00:00 GMT"
   }
 ]

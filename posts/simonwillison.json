@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Claude",
+    "link": "https://simonwillison.net/2025/Dec/9/claude/#atom-everything",
+    "pubDate": "2025-12-09T12:04:43+00:00"
+  },
+  {
     "title": "Prediction: AI will make formal verification go mainstream",
     "link": "https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything",
     "pubDate": "2025-12-09T03:11:19+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Cory Doctorow",
     "link": "https://simonwillison.net/2025/Dec/7/cory-doctorow/#atom-everything",
     "pubDate": "2025-12-07T21:28:28+00:00"
-  },
-  {
-    "title": "Using LLMs at Oxide",
-    "link": "https://simonwillison.net/2025/Dec/7/using-llms-at-oxide/#atom-everything",
-    "pubDate": "2025-12-07T21:28:17+00:00"
   }
 ]
