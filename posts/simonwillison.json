@@ -1,5 +1,15 @@
 [
   {
+    "title": "Useful patterns for building HTML tools",
+    "link": "https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything",
+    "pubDate": "2025-12-10T21:00:59+00:00"
+  },
+  {
+    "title": "The Normalization of Deviance in AI",
+    "link": "https://simonwillison.net/2025/Dec/10/normalization-of-deviance/#atom-everything",
+    "pubDate": "2025-12-10T20:18:58+00:00"
+  },
+  {
     "title": "Dark mode",
     "link": "https://simonwillison.net/2025/Dec/10/dark-mode/#atom-everything",
     "pubDate": "2025-12-10T16:05:34+00:00"
@@ -13,15 +23,5 @@
     "title": "Devstral 2",
     "link": "https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything",
     "pubDate": "2025-12-09T23:58:27+00:00"
-  },
-  {
-    "title": "Under the hood of Canada Spends with Brendan Samek",
-    "link": "https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything",
-    "pubDate": "2025-12-09T23:52:05+00:00"
-  },
-  {
-    "title": "Agentic AI Foundation",
-    "link": "https://simonwillison.net/2025/Dec/9/agentic-ai-foundation/#atom-everything",
-    "pubDate": "2025-12-09T22:24:48+00:00"
   }
 ]

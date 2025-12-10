@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
+<small>[Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
+<small>[The Normalization of Deviance in AI](https://simonwillison.net/2025/Dec/10/normalization-of-deviance/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[Dark mode](https://simonwillison.net/2025/Dec/10/dark-mode/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
@@ -13,17 +19,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-10 stackoverflow</small>  
 <small>[Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-10 visualstudiomagazine</small>  
+<small>[Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code](https://visualstudiomagazine.com/Articles/2025/12/10/Microsoft-Tests-Copilot-Powered-Tool-to-Modernize-JavaScript-TypeScript-in-VS-Code.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[10 Years of Let's Encrypt](https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
 <small>[Devstral 2](https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Under the hood of Canada Spends with Brendan Samek](https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Agentic AI Foundation](https://simonwillison.net/2025/Dec/9/agentic-ai-foundation/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
 <small>[On-Premises Azure DevOps Server Reaches GA](https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx)</small>
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-08 stackoverflow</small>  
 <small>[The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-08 visualstudiomagazine</small>  
-<small>[Threat Actors Keep Weaponizing VS Code Extensions](https://visualstudiomagazine.com/Articles/2025/12/08/Threat-Actors-Keep-Weaponizing-VS-Code-Extensions.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
 <small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
