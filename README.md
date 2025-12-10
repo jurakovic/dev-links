@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
+<small>[10 Years of Let's Encrypt](https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Devstral 2](https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Under the hood of Canada Spends with Brendan Samek](https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
+<small>[Agentic AI Foundation](https://simonwillison.net/2025/Dec/9/agentic-ai-foundation/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
+<small>[On-Premises Azure DevOps Server Reaches GA](https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
 <small>[mistralai/mistral-vibe](https://simonwillison.net/2025/Dec/9/mistral-vibe/#atom-everything)</small>
 
@@ -22,9 +37,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-09 steven-giesel</small>  
 <small>[GitHub Runners might not be a good benchmark baseline](https://steven-giesel.com/blogPost/77f3667e-cf86-4e62-b09f-b32c0aaf58cd)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Quoting Claude](https://simonwillison.net/2025/Dec/9/claude/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
 <small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
 
@@ -33,12 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-09 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud](http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Prediction: AI will make formal verification go mainstream](https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Deprecations via warnings don’t work for Python libraries](https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
 <small>[Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/)</small>
@@ -55,14 +61,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-08 visualstudiomagazine</small>  
 <small>[Threat Actors Keep Weaponizing VS Code Extensions](https://visualstudiomagazine.com/Articles/2025/12/08/Threat-Actors-Keep-Weaponizing-VS-Code-Extensions.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-08 simonwillison</small>  
-<small>[Niche Museums: The Museum of Jurassic Technology](https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
 <small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-05 visualstudiomagazine</small>  
-<small>[Listen Up: VS Code Insiders Gets a Podcast](https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
 <small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>

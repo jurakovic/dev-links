@@ -1,27 +1,27 @@
 [
   {
+    "title": "10 Years of Let's Encrypt",
+    "link": "https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything",
+    "pubDate": "2025-12-10T00:34:15+00:00"
+  },
+  {
+    "title": "Devstral 2",
+    "link": "https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything",
+    "pubDate": "2025-12-09T23:58:27+00:00"
+  },
+  {
+    "title": "Under the hood of Canada Spends with Brendan Samek",
+    "link": "https://simonwillison.net/2025/Dec/9/canada-spends/#atom-everything",
+    "pubDate": "2025-12-09T23:52:05+00:00"
+  },
+  {
+    "title": "Agentic AI Foundation",
+    "link": "https://simonwillison.net/2025/Dec/9/agentic-ai-foundation/#atom-everything",
+    "pubDate": "2025-12-09T22:24:48+00:00"
+  },
+  {
     "title": "mistralai/mistral-vibe",
     "link": "https://simonwillison.net/2025/Dec/9/mistral-vibe/#atom-everything",
     "pubDate": "2025-12-09T20:19:21+00:00"
-  },
-  {
-    "title": "Quoting Claude",
-    "link": "https://simonwillison.net/2025/Dec/9/claude/#atom-everything",
-    "pubDate": "2025-12-09T12:04:43+00:00"
-  },
-  {
-    "title": "Prediction: AI will make formal verification go mainstream",
-    "link": "https://simonwillison.net/2025/Dec/9/formal-verification/#atom-everything",
-    "pubDate": "2025-12-09T03:11:19+00:00"
-  },
-  {
-    "title": "Deprecations via warnings don’t work for Python libraries",
-    "link": "https://simonwillison.net/2025/Dec/9/deprecations-via-warnings/#atom-everything",
-    "pubDate": "2025-12-09T01:13:39+00:00"
-  },
-  {
-    "title": "Niche Museums: The Museum of Jurassic Technology",
-    "link": "https://simonwillison.net/2025/Dec/8/the-museum-of-jurassic-technology/#atom-everything",
-    "pubDate": "2025-12-08T03:16:41+00:00"
   }
 ]

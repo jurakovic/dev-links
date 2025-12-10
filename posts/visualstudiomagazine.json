@@ -1,5 +1,10 @@
 [
   {
+    "title": "On-Premises Azure DevOps Server Reaches GA",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx",
+    "pubDate": "Tue, 09 Dec 2025 22:16:00 GMT"
+  },
+  {
     "title": "GitHub Ships Early December Copilot Updates Across Spaces, Visual Studio and Model Options",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/09/GitHub-Ships-Early-December-Copilot-Updates-Across-Spaces-Visual-Studio-and-Model-Options.aspx",
     "pubDate": "Tue, 09 Dec 2025 20:12:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Threat Actors Keep Weaponizing VS Code Extensions",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/08/Threat-Actors-Keep-Weaponizing-VS-Code-Extensions.aspx",
     "pubDate": "Mon, 08 Dec 2025 17:21:00 GMT"
-  },
-  {
-    "title": "Listen Up: VS Code Insiders Gets a Podcast",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/05/Listen-Up-VS-Code-Insiders-Gets-a-Podcast.aspx",
-    "pubDate": "Fri, 05 Dec 2025 16:54:00 GMT"
   }
 ]
