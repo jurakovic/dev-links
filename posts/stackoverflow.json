@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tell us what you really, really… do not want to spend time working on",
+    "link": "https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/",
+    "pubDate": "Wed, 10 Dec 2025 15:00:00 GMT"
+  },
+  {
     "title": "AI is a crystal ball into your codebase",
     "link": "https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/",
     "pubDate": "Tue, 09 Dec 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Postman’s journey and unlocking the power of APIs",
     "link": "https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/",
     "pubDate": "Thu, 04 Dec 2025 08:40:00 GMT"
-  },
-  {
-    "title": "Introducing Stack Overflow AI Assist—a tool for the modern developer",
-    "link": "https://stackoverflow.blog/2025/12/02/introducing-stack-overflow-ai-assist-a-tool-for-the-modern-developer/",
-    "pubDate": "Tue, 02 Dec 2025 18:00:00 GMT"
   }
 ]
