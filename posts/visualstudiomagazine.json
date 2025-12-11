@@ -1,5 +1,10 @@
 [
   {
+    "title": "dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx",
+    "pubDate": "Thu, 11 Dec 2025 18:36:00 GMT"
+  },
+  {
     "title": "Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/10/Microsoft-Tests-Copilot-Powered-Tool-to-Modernize-JavaScript-TypeScript-in-VS-Code.aspx",
     "pubDate": "Wed, 10 Dec 2025 14:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Azure Broadens AI Options from Models to Hybrid Deployment",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/09/Azure-Broadens-AI-Options-from-Models-to-Hybrid-Deployment.aspx",
     "pubDate": "Tue, 09 Dec 2025 18:08:00 GMT"
-  },
-  {
-    "title": "Aspire 13 Makes Python a First-Class Workload with .NET and JavaScript",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/08/Aspire-13-Makes-Python-a-First-Class-Workload-with-NET-and-JavaScript.aspx",
-    "pubDate": "Mon, 08 Dec 2025 18:03:00 GMT"
   }
 ]

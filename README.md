@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-11 visualstudiomagazine</small>  
+<small>[dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release](https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-11 terriblesoftware</small>  
+<small>[AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-11 martinfowler</small>  
 <small>[Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)</small>
 
@@ -69,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
 <small>[.NET 10 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-08 visualstudiomagazine</small>  
-<small>[Aspire 13 Makes Python a First-Class Workload with .NET and JavaScript](https://visualstudiomagazine.com/Articles/2025/12/08/Aspire-13-Makes-Python-a-First-Class-Workload-with-NET-and-JavaScript.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-08 stackoverflow</small>  
 <small>[The shift in enterprise AI—what we learned on the floor at Microsoft Ignite](https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
 <small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-25 andrewlock</small>  
-<small>[Exploring the .NET boot process via host tracing](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/)</small>
 
