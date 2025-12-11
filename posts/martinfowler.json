@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fragments Dec 11",
+    "link": "https://martinfowler.com/articles/2025-12-11-frags.html",
+    "pubDate": "2025-12-11T10:17:00-05:00"
+  },
+  {
     "title": "Fragments Dec 4",
     "link": "https://martinfowler.com/articles/20251204-frags.html",
     "pubDate": "2025-12-04T10:59:00-05:00"
@@ -18,10 +23,5 @@
     "title": "The Learning Loop and LLMs",
     "link": "https://martinfowler.com/articles/llm-learning-loop.html",
     "pubDate": "2025-11-04T09:14:00-05:00"
-  },
-  {
-    "title": "Fragments Nov 3",
-    "link": "https://martinfowler.com/articles/2025-11-03-frags.html",
-    "pubDate": "2025-11-03T19:42:00-05:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-11 martinfowler</small>  
+<small>[Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-11 stackoverflow</small>  
+<small>[Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything)</small>
 
@@ -94,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-12-04 brendangregg</small>  
 <small>[Leaving Intel](http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-04 stackoverflow</small>  
-<small>[Postman’s journey and unlocking the power of APIs](https://stackoverflow.blog/2025/12/04/postman-s-journey-and-unlocking-the-power-of-apis/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-04 bartwullems</small>  
 <small>[Leave room for the other voice](https://bartwullems.blogspot.com/2025/12/leave-room-for-other-voice.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-11-25 andrewlock</small>  
 <small>[Exploring the .NET boot process via host tracing](https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-24 steven-giesel</small>  
-<small>[Using sortable UUID / GUIDs in Entity Framework](https://steven-giesel.com/blogPost/d6150b89-a3ef-407e-add2-7afa4a2a8729)</small>
 
