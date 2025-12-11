@@ -22,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-10 visualstudiomagazine</small>  
 <small>[Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code](https://visualstudiomagazine.com/Articles/2025/12/10/Microsoft-Tests-Copilot-Powered-Tool-to-Modernize-JavaScript-TypeScript-in-VS-Code.aspx)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-10 microservices</small>  
+<small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1](http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[10 Years of Let's Encrypt](https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-11-24 steven-giesel</small>  
 <small>[Using sortable UUID / GUIDs in Entity Framework](https://steven-giesel.com/blogPost/d6150b89-a3ef-407e-add2-7afa4a2a8729)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-23 microservices</small>  
-<small>[QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns](http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html)</small>
 
