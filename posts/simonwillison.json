@@ -1,5 +1,10 @@
 [
   {
+    "title": "GPT-5.2",
+    "link": "https://simonwillison.net/2025/Dec/11/gpt-52/#atom-everything",
+    "pubDate": "2025-12-11T23:58:04+00:00"
+  },
+  {
     "title": "Useful patterns for building HTML tools",
     "link": "https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything",
     "pubDate": "2025-12-10T21:00:59+00:00"
@@ -18,10 +23,5 @@
     "title": "10 Years of Let's Encrypt",
     "link": "https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything",
     "pubDate": "2025-12-10T00:34:15+00:00"
-  },
-  {
-    "title": "Devstral 2",
-    "link": "https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything",
-    "pubDate": "2025-12-09T23:58:27+00:00"
   }
 ]

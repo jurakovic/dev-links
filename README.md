@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-11 simonwillison</small>  
+<small>[GPT-5.2](https://simonwillison.net/2025/Dec/11/gpt-52/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-11 visualstudiomagazine</small>  
 <small>[dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release](https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[10 Years of Let's Encrypt](https://simonwillison.net/2025/Dec/10/lets-encrypt/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-09 simonwillison</small>  
-<small>[Devstral 2](https://simonwillison.net/2025/Dec/9/devstral-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
 <small>[On-Premises Azure DevOps Server Reaches GA](https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx)</small>
