@@ -1,5 +1,15 @@
 [
   {
+    "title": "GitHub Updates Spark, Its AI Prompt-Based App Builder",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/12/GitHub-Updates-Spark-Its-AI-Prompt-Based-App-Builder.aspx",
+    "pubDate": "Fri, 12 Dec 2025 19:37:00 GMT"
+  },
+  {
+    "title": "VS Code 1.107 (November 2025 Update) Expands Multi-Agent Orchestration, Model Management",
+    "link": "https://visualstudiomagazine.com/Articles/2025/12/12/VS-Code-1-107-November-2025-Update-Expands-Multi-Agent-Orchestration-Model-Management.aspx",
+    "pubDate": "Fri, 12 Dec 2025 18:02:00 GMT"
+  },
+  {
     "title": "dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx",
     "pubDate": "Thu, 11 Dec 2025 18:36:00 GMT"
@@ -13,15 +23,5 @@
     "title": "On-Premises Azure DevOps Server Reaches GA",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx",
     "pubDate": "Tue, 09 Dec 2025 22:16:00 GMT"
-  },
-  {
-    "title": "GitHub Ships Early December Copilot Updates Across Spaces, Visual Studio and Model Options",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/09/GitHub-Ships-Early-December-Copilot-Updates-Across-Spaces-Visual-Studio-and-Model-Options.aspx",
-    "pubDate": "Tue, 09 Dec 2025 20:12:00 GMT"
-  },
-  {
-    "title": "Azure Broadens AI Options from Models to Hybrid Deployment",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/09/Azure-Broadens-AI-Options-from-Models-to-Hybrid-Deployment.aspx",
-    "pubDate": "Tue, 09 Dec 2025 18:08:00 GMT"
   }
 ]

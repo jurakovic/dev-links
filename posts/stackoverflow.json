@@ -1,5 +1,10 @@
 [
   {
+    "title": "How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle",
+    "link": "https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/",
+    "pubDate": "Fri, 12 Dec 2025 18:00:00 GMT"
+  },
+  {
     "title": "Interface is everything, and everything is an interface",
     "link": "https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/",
     "pubDate": "Fri, 12 Dec 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "AI is a crystal ball into your codebase",
     "link": "https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/",
     "pubDate": "Tue, 09 Dec 2025 08:40:00 GMT"
-  },
-  {
-    "title": "The shift in enterprise AI—what we learned on the floor at Microsoft Ignite",
-    "link": "https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/",
-    "pubDate": "Mon, 08 Dec 2025 18:00:00 GMT"
   }
 ]
