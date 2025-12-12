@@ -1,5 +1,10 @@
 [
   {
+    "title": "Interface is everything, and everything is an interface",
+    "link": "https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/",
+    "pubDate": "Fri, 12 Dec 2025 08:40:00 GMT"
+  },
+  {
     "title": "Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce",
     "link": "https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/",
     "pubDate": "Thu, 11 Dec 2025 15:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "The shift in enterprise AI—what we learned on the floor at Microsoft Ignite",
     "link": "https://stackoverflow.blog/2025/12/08/the-shift-in-enterprise-ai-what-we-learned-on-the-floor-at-microsoft-ignite/",
     "pubDate": "Mon, 08 Dec 2025 18:00:00 GMT"
-  },
-  {
-    "title": "Treating your agents like microservices",
-    "link": "https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/",
-    "pubDate": "Fri, 05 Dec 2025 08:40:00 GMT"
   }
 ]

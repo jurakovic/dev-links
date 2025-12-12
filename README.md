@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-12 stackoverflow</small>  
+<small>[Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-11 simonwillison</small>  
 <small>[GPT-5.2](https://simonwillison.net/2025/Dec/11/gpt-52/#atom-everything)</small>
 
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
 <small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-05 stackoverflow</small>  
-<small>[Treating your agents like microservices](https://stackoverflow.blog/2025/12/05/treating-your-agents-like-microservices/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-05 bartwullems</small>  
 <small>[Replacing EventCounters with the new Metrics API](https://bartwullems.blogspot.com/2025/12/replacing-eventcounters-with-new.html)</small>
