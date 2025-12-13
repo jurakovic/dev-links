@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting OpenAI Codex CLI",
+    "link": "https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything",
+    "pubDate": "2025-12-13T03:47:43+00:00"
+  },
+  {
+    "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
+    "link": "https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything",
+    "pubDate": "2025-12-12T23:29:51+00:00"
+  },
+  {
     "title": "LLM 0.28",
     "link": "https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything",
     "pubDate": "2025-12-12T20:20:14+00:00"
@@ -13,15 +23,5 @@
     "title": "Useful patterns for building HTML tools",
     "link": "https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything",
     "pubDate": "2025-12-10T21:00:59+00:00"
-  },
-  {
-    "title": "The Normalization of Deviance in AI",
-    "link": "https://simonwillison.net/2025/Dec/10/normalization-of-deviance/#atom-everything",
-    "pubDate": "2025-12-10T20:18:58+00:00"
-  },
-  {
-    "title": "Dark mode",
-    "link": "https://simonwillison.net/2025/Dec/10/dark-mode/#atom-everything",
-    "pubDate": "2025-12-10T16:05:34+00:00"
   }
 ]

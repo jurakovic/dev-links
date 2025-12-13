@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-13 simonwillison</small>  
+<small>[Quoting OpenAI Codex CLI](https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-12 simonwillison</small>  
+<small>[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-12 simonwillison</small>  
 <small>[LLM 0.28](https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything)</small>
 
@@ -36,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
 <small>[Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
-<small>[The Normalization of Deviance in AI](https://simonwillison.net/2025/Dec/10/normalization-of-deviance/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-10 simonwillison</small>  
-<small>[Dark mode](https://simonwillison.net/2025/Dec/10/dark-mode/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
 <small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
