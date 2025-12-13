@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Could a 5-day RTO be around the corner for Big Tech?",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/",
+    "pubDate": "Sat, 13 Dec 2025 15:21:25 GMT"
+  },
+  {
     "title": "Downdetector and the real cost of no upstream dependencies",
     "link": "https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/",
     "pubDate": "Fri, 05 Dec 2025 09:14:50 GMT"
@@ -18,10 +23,5 @@
     "title": "Four years on writing a tech book: pitching to a publisher",
     "link": "https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/",
     "pubDate": "Tue, 11 Nov 2025 10:45:43 GMT"
-  },
-  {
-    "title": "The Pulse: Amazon layoffs – AI or economy to blame?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-amazon-layoffs/",
-    "pubDate": "Thu, 06 Nov 2025 16:40:34 GMT"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
+<small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-13 simonwillison</small>  
 <small>[Quoting Obie Fernandez](https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
 <small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-11-25 terriblesoftware</small>  
-<small>[What Actually Makes You Senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)</small>
 
