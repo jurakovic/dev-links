@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
+<small>[JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
 <small>[Copywriters reveal how AI has decimated their industry](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
@@ -18,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-12 simonwillison</small>  
 <small>[OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI](https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-12 simonwillison</small>  
-<small>[LLM 0.28](https://simonwillison.net/2025/Dec/12/llm-028/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-12 visualstudiomagazine</small>  
 <small>[GitHub Updates Spark, Its AI Prompt-Based App Builder](https://visualstudiomagazine.com/Articles/2025/12/12/GitHub-Updates-Spark-Its-AI-Prompt-Based-App-Builder.aspx)</small>
