@@ -1,5 +1,10 @@
 [
   {
+    "title": "2025 Word of the Year: Slop",
+    "link": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/#atom-everything",
+    "pubDate": "2025-12-15T17:27:59+00:00"
+  },
+  {
     "title": "JustHTML is a fascinating example of vibe engineering in action",
     "link": "https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything",
     "pubDate": "2025-12-14T15:59:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting OpenAI Codex CLI",
     "link": "https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything",
     "pubDate": "2025-12-13T03:47:43+00:00"
-  },
-  {
-    "title": "OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI",
-    "link": "https://simonwillison.net/2025/Dec/12/openai-skills/#atom-everything",
-    "pubDate": "2025-12-12T23:29:51+00:00"
   }
 ]
