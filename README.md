@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-15 steven-giesel</small>  
+<small>[One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?](https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-15 bartwullems</small>  
+<small>[Showing custom metrics in Aspire](https://bartwullems.blogspot.com/2025/12/showing-custom-metrics-in-aspire.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
 <small>[JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything)</small>
 
@@ -133,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-02 bartwullems</small>  
 <small>[How to exclude specific content when using GitHub Copilot](https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-01 bartwullems</small>  
-<small>[Concurrent changes on non-concurrent collections](https://bartwullems.blogspot.com/2025/12/concurrent-changes-on-non-concurrent.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
 <small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](http://www.developertoarchitect.com/lessons/lesson214.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
 <small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-11-27 brendangregg</small>  
-<small>[On "AI Brendans" or "Virtual Brendans"](http://www.brendangregg.com/blog//2025-11-28/ai-virtual-brendans.html)</small>
 
