@@ -1,5 +1,10 @@
 [
   {
+    "title": "Debugging, but Without the Drama (A Visual Studio 2026 Story)",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/",
+    "pubDate": "Tue, 16 Dec 2025 15:00:12 +0000"
+  },
+  {
     "title": "Behind the scenes of the Visual Studio feedback system",
     "link": "https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/",
     "pubDate": "Mon, 15 Dec 2025 15:00:33 +0000"
@@ -18,10 +23,5 @@
     "title": "Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/",
     "pubDate": "Wed, 03 Dec 2025 16:00:24 +0000"
-  },
-  {
-    "title": "Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems",
-    "link": "https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems/",
-    "pubDate": "Wed, 03 Dec 2025 15:00:13 +0000"
   }
 ]

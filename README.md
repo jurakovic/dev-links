@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
+<small>[Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
+<small>[Writing Fragments](https://martinfowler.com/articles/writing-fragments.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 visualstudio</small>  
+<small>[Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
+<small>[Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-16 andrewlock</small>  
+<small>[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
 <small>[Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/)</small>
 
@@ -63,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-11 martinfowler</small>  
 <small>[Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-11 stackoverflow</small>  
-<small>[Simulating lousy conversations: Q&A with Silvio Savarese, Chief Scientist & Head of AI Research at Salesforce](https://stackoverflow.blog/2025/12/11/simulating-lousy-conversations-q-and-a-with-silvio-savarese-chief-scientist-and-head-of-ai-research-at-salesforce/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
 <small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
@@ -127,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
 <small>[Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
-<small>[Why changing keyboard shortcuts in Visual Studio isn’t as simple as it seems](https://devblogs.microsoft.com/visualstudio/why-changing-keyboard-shortcuts-in-visual-studio-isnt-as-simple-as-it-seems/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-03 bartwullems</small>  
 <small>[Enhanced security in NuGet for .NET 10](https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html)</small>
 
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-30 paulhammant</small>  
 <small>[Did You Send This - for module phone SMS/Voice](https://paulhammant.com/2025/11/30/did-you-send-this-challenge/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
-<small>[Berlin meetup: Microservices rules - what good looks like](http://microservices.io//post/architecture/2025/11/29/berlin-meeting-microservices-rules.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-29 microservices</small>  
-<small>[SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow](http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2025-11-28 hanselman</small>  
-<small>[Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions](https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions)</small>
 
