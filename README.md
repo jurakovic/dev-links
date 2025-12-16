@@ -4,11 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[Quoting Gemini thinking trace](https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[Quoting Kent Beck](https://simonwillison.net/2025/Dec/16/kent-beck/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-15 simonwillison</small>  
+<small>[I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 dotnet</small>  
 <small>[How to Build iOS Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-15 simonwillison</small>  
 <small>[2025 Word of the Year: Slop](https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-15 stackoverflow</small>  
+<small>[At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 visualstudio</small>  
 <small>[Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/)</small>
@@ -22,17 +34,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
 <small>[JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
-<small>[Copywriters reveal how AI has decimated their industry](https://simonwillison.net/2025/Dec/14/copywriters-reveal-how-ai-has-decimated-their-industry/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
 <small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-13 simonwillison</small>  
-<small>[Quoting Obie Fernandez](https://simonwillison.net/2025/Dec/13/obie-fernandez/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-13 simonwillison</small>  
-<small>[Quoting OpenAI Codex CLI](https://simonwillison.net/2025/Dec/13/openai-codex-cli/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-12 visualstudiomagazine</small>  
 <small>[GitHub Updates Spark, Its AI Prompt-Based App Builder](https://visualstudiomagazine.com/Articles/2025/12/12/GitHub-Updates-Spark-Its-AI-Prompt-Based-App-Builder.aspx)</small>
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
 <small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-09 stackoverflow</small>  
-<small>[AI is a crystal ball into your codebase](https://stackoverflow.blog/2025/12/09/ai-is-a-crystal-ball-into-your-codebase/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-09 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud](http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html)</small>
@@ -140,7 +140,7 @@
 <small>[How to exclude specific content when using GitHub Copilot](https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
-<small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](http://www.developertoarchitect.com/lessons/lesson214.html)</small>
+<small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](https://developertoarchitect.com/lessons/lesson214.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-30 paulhammant</small>  
 <small>[Did You Send This - for module phone SMS/Voice](https://paulhammant.com/2025/11/30/did-you-send-this-challenge/)</small>
