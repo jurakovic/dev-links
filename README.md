@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 dotnet</small>  
+<small>[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
 <small>[Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)</small>
 
@@ -108,9 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
 <small>[Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
-<small>[.NET 10 Networking Improvements](https://devblogs.microsoft.com/dotnet/dotnet-10-networking-improvements/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
 <small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
