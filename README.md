@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
+<small>[Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-16 bartwullems</small>  
+<small>[Find your line](https://bartwullems.blogspot.com/2025/12/find-your-line.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
 <small>[Quoting Gemini thinking trace](https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/#atom-everything)</small>
 
@@ -63,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
 <small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-10 stackoverflow</small>  
-<small>[Tell us what you really, really… do not want to spend time working on](https://stackoverflow.blog/2025/12/10/tell-us-what-you-really-really-do-not-want-to-spend-time-working-on/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-10 visualstudiomagazine</small>  
 <small>[Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code](https://visualstudiomagazine.com/Articles/2025/12/10/Microsoft-Tests-Copilot-Powered-Tool-to-Modernize-JavaScript-TypeScript-in-VS-Code.aspx)</small>
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-02 steven-giesel</small>  
 <small>[Mime Type Helper in .NET 11](https://steven-giesel.com/blogPost/8f41d316-f6ac-4712-bf11-ea36b7c2f2e6)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-02 bartwullems</small>  
-<small>[How to exclude specific content when using GitHub Copilot](https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
 <small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](https://developertoarchitect.com/lessons/lesson214.html)</small>

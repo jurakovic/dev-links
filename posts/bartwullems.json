@@ -1,5 +1,10 @@
 [
   {
+    "title": "Find your line",
+    "link": "https://bartwullems.blogspot.com/2025/12/find-your-line.html",
+    "pubDate": "2025-12-16T07:39:00.009+01:00"
+  },
+  {
     "title": "Showing custom metrics in Aspire",
     "link": "https://bartwullems.blogspot.com/2025/12/showing-custom-metrics-in-aspire.html",
     "pubDate": "2025-12-15T07:07:00.007+01:00"
@@ -18,10 +23,5 @@
     "title": "Enhanced security in NuGet for .NET 10",
     "link": "https://bartwullems.blogspot.com/2025/12/enhanced-security-in-nuget-for-net-10.html",
     "pubDate": "2025-12-03T07:10:00.008+01:00"
-  },
-  {
-    "title": "How to exclude specific content when using GitHub Copilot",
-    "link": "https://bartwullems.blogspot.com/2025/12/how-to-exclude-specific-content-when.html",
-    "pubDate": "2025-12-02T06:58:00.018+01:00"
   }
 ]
