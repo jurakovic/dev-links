@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-17 stackoverflow</small>  
+<small>[The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-17 bartwullems</small>  
 <small>[Understanding your project architecture and how it evolves over time using Gource](https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html)</small>
 
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-12 stackoverflow</small>  
 <small>[How Stack Overflow’s MCP Server is helping HP modernize the software development lifecycle](https://stackoverflow.blog/2025/12/12/how-stack-overflow-s-mcp-server-is-helping-hp-modernize-the-software-development-lifecycle/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-12 stackoverflow</small>  
-<small>[Interface is everything, and everything is an interface](https://stackoverflow.blog/2025/12/12/interface-is-everything-and-everything-is-an-interface/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-11 visualstudiomagazine</small>  
 <small>[dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release](https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx)</small>
