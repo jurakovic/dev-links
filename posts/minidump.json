@@ -1,5 +1,10 @@
 [
   {
+    "title": "Investigating a deadlock in Visual Studio",
+    "link": "https://minidump.net/investigating-a-deadlock-in-visual-studio/",
+    "pubDate": "Wed, 17 Dec 2025 00:00:00 +0000"
+  },
+  {
     "title": "Using profiler function hooks in .NET with Silhouette",
     "link": "https://minidump.net/using-function-hooks-with-silhouette/",
     "pubDate": "Tue, 21 Oct 2025 00:00:00 +0000"
@@ -18,10 +23,5 @@
     "title": "Pro .NET Memory Management 2nd Edition",
     "link": "https://minidump.net/pro-net-memory-management/",
     "pubDate": "Tue, 04 Mar 2025 00:00:00 +0000"
-  },
-  {
-    "title": "Writing a .NET Garbage Collector in C#  -  Part 4",
-    "link": "https://minidump.net/writing-a-net-gc-in-c-part-4/",
-    "pubDate": "Tue, 18 Feb 2025 00:00:00 +0000"
   }
 ]

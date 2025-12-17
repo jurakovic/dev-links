@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
+<small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-17 stackoverflow</small>  
 <small>[The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/)</small>
 
@@ -12,6 +15,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
 <small>[firefox parser/html/java/README.txt](https://simonwillison.net/2025/Dec/17/firefox-parser/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
+<small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
 <small>[The new ChatGPT Images is here](https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything)</small>
@@ -94,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-10 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1](http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-09 visualstudiomagazine</small>  
-<small>[On-Premises Azure DevOps Server Reaches GA](https://visualstudiomagazine.com/Articles/2025/12/09/On-Premises-Azure-DevOps-Server-Reaches-GA.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
 <small>[.NET and .NET Framework December 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2025-11-30 developertoarchitect</small>  
 <small>[Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)](https://developertoarchitect.com/lessons/lesson214.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-11-30 paulhammant</small>  
-<small>[Did You Send This - for module phone SMS/Voice](https://paulhammant.com/2025/11/30/did-you-send-this-challenge/)</small>
 
