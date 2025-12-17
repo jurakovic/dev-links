@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
+<small>[firefox parser/html/java/README.txt](https://simonwillison.net/2025/Dec/17/firefox-parser/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[The new ChatGPT Images is here](https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[s3-credentials 0.17](https://simonwillison.net/2025/Dec/16/s3-credentials/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[ty: An extremely fast Python type checker and LSP](https://simonwillison.net/2025/Dec/16/ty/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
+<small>[Poe the Poet](https://simonwillison.net/2025/Dec/16/poe-the-poet/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 dotnet</small>  
 <small>[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/)</small>
 
@@ -28,20 +43,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-16 bartwullems</small>  
 <small>[Find your line](https://bartwullems.blogspot.com/2025/12/find-your-line.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
-<small>[Quoting Gemini thinking trace](https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
-<small>[Quoting Kent Beck](https://simonwillison.net/2025/Dec/16/kent-beck/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-15 simonwillison</small>  
-<small>[I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours](https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 dotnet</small>  
 <small>[How to Build iOS Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-15 simonwillison</small>  
-<small>[2025 Word of the Year: Slop](https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-15 stackoverflow</small>  
 <small>[At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/)</small>
@@ -54,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-15 bartwullems</small>  
 <small>[Showing custom metrics in Aspire](https://bartwullems.blogspot.com/2025/12/showing-custom-metrics-in-aspire.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-14 simonwillison</small>  
-<small>[JustHTML is a fascinating example of vibe engineering in action](https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
 <small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>

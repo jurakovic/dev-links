@@ -1,27 +1,27 @@
 [
   {
-    "title": "Quoting Gemini thinking trace",
-    "link": "https://simonwillison.net/2025/Dec/16/gemini-thinking-trace/#atom-everything",
-    "pubDate": "2025-12-16T04:09:51+00:00"
+    "title": "firefox parser/html/java/README.txt",
+    "link": "https://simonwillison.net/2025/Dec/17/firefox-parser/#atom-everything",
+    "pubDate": "2025-12-17T01:48:54+00:00"
   },
   {
-    "title": "Quoting Kent Beck",
-    "link": "https://simonwillison.net/2025/Dec/16/kent-beck/#atom-everything",
-    "pubDate": "2025-12-16T01:25:37+00:00"
+    "title": "The new ChatGPT Images is here",
+    "link": "https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything",
+    "pubDate": "2025-12-16T23:59:22+00:00"
   },
   {
-    "title": "I ported JustHTML from Python to JavaScript with Codex CLI and GPT-5.2 in 4.5 hours",
-    "link": "https://simonwillison.net/2025/Dec/15/porting-justhtml/#atom-everything",
-    "pubDate": "2025-12-15T23:58:38+00:00"
+    "title": "s3-credentials 0.17",
+    "link": "https://simonwillison.net/2025/Dec/16/s3-credentials/#atom-everything",
+    "pubDate": "2025-12-16T23:40:31+00:00"
   },
   {
-    "title": "2025 Word of the Year: Slop",
-    "link": "https://simonwillison.net/2025/Dec/15/2025-word-of-the-year-slop/#atom-everything",
-    "pubDate": "2025-12-15T17:27:59+00:00"
+    "title": "ty: An extremely fast Python type checker and LSP",
+    "link": "https://simonwillison.net/2025/Dec/16/ty/#atom-everything",
+    "pubDate": "2025-12-16T23:35:33+00:00"
   },
   {
-    "title": "JustHTML is a fascinating example of vibe engineering in action",
-    "link": "https://simonwillison.net/2025/Dec/14/justhtml/#atom-everything",
-    "pubDate": "2025-12-14T15:59:23+00:00"
+    "title": "Poe the Poet",
+    "link": "https://simonwillison.net/2025/Dec/16/poe-the-poet/#atom-everything",
+    "pubDate": "2025-12-16T22:57:02+00:00"
   }
 ]
