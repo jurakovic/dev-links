@@ -1,5 +1,20 @@
 [
   {
+    "title": "Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain",
+    "link": "https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything",
+    "pubDate": "2025-12-18T01:42:22+00:00"
+  },
+  {
+    "title": "AoAH Day 15: Porting a complete HTML5 parser and browser test suite",
+    "link": "https://simonwillison.net/2025/Dec/17/vibespiling/#atom-everything",
+    "pubDate": "2025-12-17T23:23:35+00:00"
+  },
+  {
+    "title": "Gemini 3 Flash",
+    "link": "https://simonwillison.net/2025/Dec/17/gemini-3-flash/#atom-everything",
+    "pubDate": "2025-12-17T22:44:52+00:00"
+  },
+  {
     "title": "firefox parser/html/java/README.txt",
     "link": "https://simonwillison.net/2025/Dec/17/firefox-parser/#atom-everything",
     "pubDate": "2025-12-17T01:48:54+00:00"
@@ -8,20 +23,5 @@
     "title": "The new ChatGPT Images is here",
     "link": "https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything",
     "pubDate": "2025-12-16T23:59:22+00:00"
-  },
-  {
-    "title": "s3-credentials 0.17",
-    "link": "https://simonwillison.net/2025/Dec/16/s3-credentials/#atom-everything",
-    "pubDate": "2025-12-16T23:40:31+00:00"
-  },
-  {
-    "title": "ty: An extremely fast Python type checker and LSP",
-    "link": "https://simonwillison.net/2025/Dec/16/ty/#atom-everything",
-    "pubDate": "2025-12-16T23:35:33+00:00"
-  },
-  {
-    "title": "Poe the Poet",
-    "link": "https://simonwillison.net/2025/Dec/16/poe-the-poet/#atom-everything",
-    "pubDate": "2025-12-16T22:57:02+00:00"
   }
 ]

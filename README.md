@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
+<small>[Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain](https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
+<small>[AoAH Day 15: Porting a complete HTML5 parser and browser test suite](https://simonwillison.net/2025/Dec/17/vibespiling/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
+<small>[Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
 
@@ -21,15 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
 <small>[The new ChatGPT Images is here](https://simonwillison.net/2025/Dec/16/new-chatgpt-images/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
-<small>[s3-credentials 0.17](https://simonwillison.net/2025/Dec/16/s3-credentials/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
-<small>[ty: An extremely fast Python type checker and LSP](https://simonwillison.net/2025/Dec/16/ty/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-16 simonwillison</small>  
-<small>[Poe the Poet](https://simonwillison.net/2025/Dec/16/poe-the-poet/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 dotnet</small>  
 <small>[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/)</small>
