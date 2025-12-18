@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
+<small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
 <small>[Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain](https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything)</small>
 
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-12-04 brendangregg</small>  
 <small>[Leaving Intel](http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-04 bartwullems</small>  
-<small>[Leave room for the other voice](https://bartwullems.blogspot.com/2025/12/leave-room-for-other-voice.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
 <small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
