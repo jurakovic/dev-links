@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/",
+    "pubDate": "Thu, 18 Dec 2025 17:44:21 GMT"
+  },
+  {
     "title": "The Pulse: Could a 5-day RTO be around the corner for Big Tech?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/",
     "pubDate": "Sat, 13 Dec 2025 15:21:25 GMT"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Cloudflare takes down half the internet – but shares a great postmortem",
     "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-takes-down-half-the-internet/",
     "pubDate": "Thu, 20 Nov 2025 20:36:19 GMT"
-  },
-  {
-    "title": "Four years on writing a tech book: pitching to a publisher",
-    "link": "https://blog.pragmaticengineer.com/four-years-on-writing-a-tech-book-pitching-to-a-publisher/",
-    "pubDate": "Tue, 11 Nov 2025 10:45:43 GMT"
   }
 ]
