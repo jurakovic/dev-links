@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
+<small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-19 stackoverflow</small>  
 <small>[Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
 <small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-03 visualstudio</small>  
-<small>[Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/)</small>
 
