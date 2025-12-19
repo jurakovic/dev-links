@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
+<small>[Agent Skills](https://simonwillison.net/2025/Dec/19/agent-skills/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
+<small>[swift-justhtml](https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-18 visualstudiomagazine</small>  
+<small>[Microsoft Again Named a Leader in AI AppDev Platforms Research](https://visualstudiomagazine.com/Articles/2025/12/18/Microsoft-Again-Named-a-Leader-in-AI-Application-Development-Platforms-Research.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
 
@@ -19,9 +28,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
 <small>[AoAH Day 15: Porting a complete HTML5 parser and browser test suite](https://simonwillison.net/2025/Dec/17/vibespiling/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
-<small>[Gemini 3 Flash](https://simonwillison.net/2025/Dec/17/gemini-3-flash/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-17 bartwullems</small>  
 <small>[Understanding your project architecture and how it evolves over time using Gource](https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-17 simonwillison</small>  
-<small>[firefox parser/html/java/README.txt](https://simonwillison.net/2025/Dec/17/firefox-parser/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
 <small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
 <small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-10 visualstudiomagazine</small>  
-<small>[Microsoft Tests Copilot-Powered Tool to Modernize JavaScript/TypeScript in VS Code](https://visualstudiomagazine.com/Articles/2025/12/10/Microsoft-Tests-Copilot-Powered-Tool-to-Modernize-JavaScript-TypeScript-in-VS-Code.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-10 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1](http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html)</small>
