@@ -1,5 +1,15 @@
 [
   {
+    "title": "2025 in review.",
+    "link": "https://lethain.com/2025-in-review/",
+    "pubDate": "Thu, 18 Dec 2025 10:00:00 -0700"
+  },
+  {
+    "title": "Automatically merging dependabot PRs",
+    "link": "https://lethain.com/dependabot-auto-merge/",
+    "pubDate": "Thu, 18 Dec 2025 08:00:00 -0700"
+  },
+  {
     "title": "Facilitating AI adoption at Imprint",
     "link": "https://lethain.com/company-ai-adoption/",
     "pubDate": "Sun, 07 Dec 2025 08:00:00 -0700"
@@ -13,15 +23,5 @@
     "title": "\"Good engineering management\" is a fad",
     "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
     "pubDate": "Sun, 26 Oct 2025 04:00:00 -0700"
-  },
-  {
-    "title": "Crafting Engineering Strategy!",
-    "link": "https://lethain.com/crafting-engineering-strategy/",
-    "pubDate": "Sat, 25 Oct 2025 04:00:00 -0700"
-  },
-  {
-    "title": "Commenting on Notion docs via OpenAI and Zapier.",
-    "link": "https://lethain.com/commenting-notion-open-ai-zapier/",
-    "pubDate": "Sun, 20 Jul 2025 04:00:00 -0700"
   }
 ]
