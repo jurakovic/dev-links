@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-19 visualstudiomagazine</small>  
+<small>[C++ Joins C# in Visual Studio's Deep Copilot Tier](https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
+<small>[Sam Rose explains how LLMs work with a visual essay](https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
 <small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
 <small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
-<small>[Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain](https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-12 visualstudiomagazine</small>  
 <small>[VS Code 1.107 (November 2025 Update) Expands Multi-Agent Orchestration, Model Management](https://visualstudiomagazine.com/Articles/2025/12/12/VS-Code-1-107-November-2025-Update-Expands-Multi-Agent-Orchestration-Model-Management.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-11 visualstudiomagazine</small>  
-<small>[dtSearch Adds Linux ARM64 Build and Boosts JSON/CSV Support in 2025.02 Release](https://visualstudiomagazine.com/Articles/2025/12/11/dtSearch-Adds-Linux-ARM64-Build-and-Boosts-JSON-CSV-Support-in-2025-02-Release.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-11 terriblesoftware</small>  
 <small>[AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Sam Rose explains how LLMs work with a visual essay",
+    "link": "https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything",
+    "pubDate": "2025-12-19T18:33:41+00:00"
+  },
+  {
     "title": "Introducing GPT-5.2-Codex",
     "link": "https://simonwillison.net/2025/Dec/19/introducing-gpt-52-codex/#atom-everything",
     "pubDate": "2025-12-19T05:21:17+00:00"
@@ -18,10 +23,5 @@
     "title": "Your job is to deliver code you have proven to work",
     "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything",
     "pubDate": "2025-12-18T14:49:38+00:00"
-  },
-  {
-    "title": "Inside PostHog: How SSRF, a ClickHouse SQL Escaping 0day, and Default PostgreSQL Credentials Formed an RCE Chain",
-    "link": "https://simonwillison.net/2025/Dec/18/ssrf-clickhouse-postgresql/#atom-everything",
-    "pubDate": "2025-12-18T01:42:22+00:00"
   }
 ]
