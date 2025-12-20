@@ -7,15 +7,21 @@ on:
   schedule:
     - cron: '0 4,10,16,22 * * *' # 06:00, 12:00, 18:00, 00:00 CEST
   workflow_dispatch:
+    inputs:
+      target_branch:
+        description: 'Target branch to checkout and update'
+        required: false
+        default: 'dev-news'
+        type: string
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4 
         with:
-          ref: dev-news
+          ref: ${{ inputs.target_branch || 'dev-news' }}
           fetch-depth: 0
           token: ${{ secrets.DEV_LINKS_PAT }}
 
@@ -28,7 +34,7 @@ jobs:
 
       - name: Prepare Scripts
         run: |
-          # get scripts from master branch
+          # get scripts
           git restore --source origin/${{ github.ref_name }} -- gen_news.js
           git restore --source origin/${{ github.ref_name }} -- update_posts.sh
           chmod +x ./update_posts.sh
