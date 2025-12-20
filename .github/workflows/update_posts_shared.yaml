@@ -16,6 +16,9 @@ on:
       runner:
         required: true
         type: string
+      target_branch:
+        required: true
+        type: string
 
 jobs:
   build:
