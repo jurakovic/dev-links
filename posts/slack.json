@@ -1,5 +1,15 @@
 [
   {
+    "title": "Streamlining Security Investigations with Agents",
+    "link": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+    "pubDate": "Mon, 01 Dec 2025 16:00:42 +0000"
+  },
+  {
+    "title": "Build better software to build software better",
+    "link": "https://slack.engineering/build-better-software-to-build-software-better/",
+    "pubDate": "Thu, 06 Nov 2025 16:00:47 +0000"
+  },
+  {
     "title": "Advancing Our Chef Infrastructure: Safety Without Disruption",
     "link": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/",
     "pubDate": "Thu, 23 Oct 2025 18:17:56 +0000"
@@ -13,15 +23,5 @@
     "title": "Building Slack’s Anomaly Event Response",
     "link": "https://slack.engineering/building-slacks-anomaly-event-response/",
     "pubDate": "Thu, 04 Sep 2025 10:00:02 +0000"
-  },
-  {
-    "title": "Optimizing Our E2E Pipeline",
-    "link": "https://slack.engineering/speedup-e2e-testing/",
-    "pubDate": "Mon, 14 Apr 2025 09:00:30 +0000"
-  },
-  {
-    "title": "How we built enterprise search to be secure and private",
-    "link": "https://slack.engineering/how-we-built-enterprise-search-to-be-secure-and-private/",
-    "pubDate": "Fri, 07 Mar 2025 01:14:37 +0000"
   }
 ]
