@@ -4,8 +4,6 @@ permissions:
   contents: write
 
 on:
-  schedule:
-    - cron: '0 4,10,16,22 * * *' # 06:00, 12:00, 18:00, 00:00 CEST
   workflow_dispatch:
     inputs:
       target_branch:
@@ -13,10 +11,15 @@ on:
         required: false
         default: 'dev-news'
         type: string
+  workflow_call:
+    inputs:
+      runner:
+        required: true
+        type: string
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4

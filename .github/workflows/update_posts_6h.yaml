@@ -1,0 +1,19 @@
+name: Update Posts (dev-news) [GitHub-hosted every 6 hours]
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      target_branch:
+        description: 'Target branch ("dev-news")'
+        required: false
+        default: 'dev-news'
+        type: string
+
+jobs:
+  job:
+    uses: ./.github/workflows/update_posts_shared.yml
+    with:
+      runner: ubuntu-latest
+      ref: ${{ inputs.target_branch || 'dev-news' }}
