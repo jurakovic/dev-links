@@ -24,6 +24,8 @@ jobs:
     with:
       runner: self-hosted
       target_branch: ${{ inputs.target_branch || 'dev-news' }}
+    secrets:
+      token: ${{ secrets.GITHUB_TOKEN }}
 
   alert-on-failure:
     needs: job
