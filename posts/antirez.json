@@ -1,5 +1,10 @@
 [
   {
+    "title": "Reflections on AI at the end of 2025",
+    "link": "http://antirez.com/news/157",
+    "pubDate": "Sat, 20 Dec 2025 08:58:29 +0000"
+  },
+  {
     "title": "Scaling HNSWs",
     "link": "http://antirez.com/news/156",
     "pubDate": "Tue, 11 Nov 2025 12:53:38 +0000"
@@ -18,10 +23,5 @@
     "title": "Human coders are still better than LLMs",
     "link": "http://antirez.com/news/153",
     "pubDate": "Thu, 29 May 2025 16:34:51 +0000"
-  },
-  {
-    "title": "What I learned during the license switch",
-    "link": "http://antirez.com/news/152",
-    "pubDate": "Fri, 02 May 2025 08:46:25 +0000"
   }
 ]

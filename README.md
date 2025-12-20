@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-20 antirez</small>  
+<small>[Reflections on AI at the end of 2025](http://antirez.com/news/157)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
 <small>[Quoting Andrej Karpathy](https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2025-12-04 brendangregg</small>  
 <small>[Leaving Intel](http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2025-12-03 jimmybogard</small>  
-<small>[AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support](https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/)</small>
 
