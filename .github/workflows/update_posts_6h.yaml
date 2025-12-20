@@ -20,5 +20,4 @@ jobs:
     with:
       runner: ubuntu-latest
       target_branch: ${{ inputs.target_branch || 'dev-news' }}
-    secrets:
-      token: ${{ secrets.GITHUB_TOKEN }}
+    secrets: inherit
