@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Andrej Karpathy",
+    "link": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
+    "pubDate": "2025-12-19T23:07:52+00:00"
+  },
+  {
     "title": "Sam Rose explains how LLMs work with a visual essay",
     "link": "https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything",
     "pubDate": "2025-12-19T18:33:41+00:00"
@@ -18,10 +23,5 @@
     "title": "swift-justhtml",
     "link": "https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything",
     "pubDate": "2025-12-18T23:57:58+00:00"
-  },
-  {
-    "title": "Your job is to deliver code you have proven to work",
-    "link": "https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything",
-    "pubDate": "2025-12-18T14:49:38+00:00"
   }
 ]

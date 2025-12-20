@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
+<small>[Quoting Andrej Karpathy](https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-19 visualstudiomagazine</small>  
 <small>[C++ Joins C# in Visual Studio's Deep Copilot Tier](https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-18 lethain</small>  
 <small>[Automatically merging dependabot PRs](https://lethain.com/dependabot-auto-merge/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
-<small>[Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
 <small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
