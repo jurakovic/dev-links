@@ -28,7 +28,7 @@
 
 * * *
 
-## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-net">↓ Community</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 .NET Blog  
@@ -333,7 +333,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
 ![icon](favicons/ardalis.png)
 Steve Smith, Ardalis  

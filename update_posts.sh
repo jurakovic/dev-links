@@ -5,7 +5,7 @@ function update() {
   name=$2
   echo "Processing feed: $name"
 
-  curl -s "$url" -H 'user-agent: Mozilla/5.0' | \
+  curl -Ss -k -L "$url" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0' | \
   yq -p=xml -o=json '
     (
       .rss.channel.item // .feed.entry
@@ -33,7 +33,7 @@ function update() {
       })
   ' > "$name.json"
 
-  if [ $? -ne 0 ] ; then
+  if [ $? -ne 0 ] || [ ! -s "$name.json" ]; then
     echo "  [ERROR] Failed to process $name ($url)"
     git restore "$name.json"
   fi
@@ -46,7 +46,7 @@ update "https://devblogs.microsoft.com/visualstudio/feed/" "visualstudio"
 update "https://visualstudiomagazine.com/rss-feeds/news.aspx" "visualstudiomagazine"
 update "https://microservices.io/feed.xml" "microservices"
 update "https://www.developertoarchitect.com/lessons/index.xml" "developertoarchitect"
-update "https://ardalis.com/rss.xml" "ardalis"
+update "https://ardalis.com/index.xml" "ardalis"
 update "https://www.hanselman.com/blog/feed/rss" "hanselman"
 update "https://andrewlock.net/rss.xml" "andrewlock"
 update "https://davecallan.com/feed/" "davecallan"
@@ -69,7 +69,7 @@ update "https://blog.codinghorror.com/rss/" "codinghorror"
 update "https://www.joelonsoftware.com/feed/" "joelonsoftware"
 update "https://neilonsoftware.com/feed/" "neilonsoftware"
 update "https://www.brendangregg.com/blog/rss.xml" "brendangregg"
-update "https://tidyfirst.substack.com/feed" "tidyfirst" # cloudflare blocks curl
+#update "https://tidyfirst.substack.com/feed" "tidyfirst" # cloudflare blocks curl
 update "https://feeds.feedburner.com/paulhammant" "paulhammant"
 update "https://sizovs.net/feed.xml" "sizovs"
 update "https://bartwullems.blogspot.com/feeds/posts/default" "bartwullems"
@@ -83,8 +83,8 @@ update "https://www.effectiveengineer.com/atom.xml" "effectiveengineer"
 
 update "https://stackoverflow.blog/feed" "stackoverflow"
 update "https://github.blog/engineering/feed/" "github"
-update "https://netflixtechblog.com/feed" "netflix" # temporarily disabled, some json parsing issue?
-update "https://slack.engineering/feed/" "slack" # temporarily disabled, some json parsing issue?
+update "https://netflixtechblog.com/feed" "netflix"
+update "https://slack.engineering/feed/" "slack"
 
 cd ..
 node gen_news.js
