@@ -29,8 +29,8 @@ jobs:
       - name: Prepare Scripts
         run: |
           # get scripts from master branch
-          git restore --source origin/master -- gen_news.js
-          git restore --source origin/master -- update_posts.sh
+          git restore --source origin/${{ github.ref_name }} -- gen_news.js
+          git restore --source origin/${{ github.ref_name }} -- update_posts.sh
           chmod +x ./update_posts.sh
         shell: bash
 
