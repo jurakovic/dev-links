@@ -1,5 +1,8 @@
 name: Update Posts (dev-news) [Self-hosted hourly]
 
+permissions:
+  contents: write
+
 on:
   #schedule:
   #  - cron: '0 * * * *' # every hour
