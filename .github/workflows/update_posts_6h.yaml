@@ -13,7 +13,7 @@ on:
 
 jobs:
   job:
-    uses: ./.github/workflows/update_posts_shared.yml
+    uses: ./.github/workflows/update_posts_shared.yaml
     with:
       runner: ubuntu-latest
       ref: ${{ inputs.target_branch || 'dev-news' }}
