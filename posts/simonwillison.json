@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Shriram Krishnamurthi",
+    "link": "https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything",
+    "pubDate": "2025-12-21T05:26:09+00:00"
+  },
+  {
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
     "pubDate": "2025-12-19T23:07:52+00:00"
@@ -18,10 +23,5 @@
     "title": "Agent Skills",
     "link": "https://simonwillison.net/2025/Dec/19/agent-skills/#atom-everything",
     "pubDate": "2025-12-19T01:09:18+00:00"
-  },
-  {
-    "title": "swift-justhtml",
-    "link": "https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything",
-    "pubDate": "2025-12-18T23:57:58+00:00"
   }
 ]
