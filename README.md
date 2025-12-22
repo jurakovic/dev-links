@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
+<small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-22 stackoverflow</small>  
+<small>[Making your code base better will make your code coverage worse](https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-22 bartwullems</small>  
 <small>[Take a tour along the Microsoft Datacenters](https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html)</small>
 
@@ -97,9 +103,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
 <small>[Netflix Live Origin](https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-15 stackoverflow</small>  
-<small>[At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 visualstudio</small>  
 <small>[Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
 <small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-04 netflix</small>  
-<small>[AV1 — Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss----2615bd06b42e---4)</small>
 
