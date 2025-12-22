@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-22 bartwullems</small>  
+<small>[Take a tour along the Microsoft Datacenters](https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-21 simonwillison</small>  
 <small>[Quoting Shriram Krishnamurthi](https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything)</small>
 
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-15 steven-giesel</small>  
 <small>[One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?](https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-15 bartwullems</small>  
-<small>[Showing custom metrics in Aspire](https://bartwullems.blogspot.com/2025/12/showing-custom-metrics-in-aspire.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
 <small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>
