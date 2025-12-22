@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-22 simonwillison</small>  
+<small>[Using Claude in Chrome to navigate out the Cloudflare dashboard](https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
 <small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
 <small>[Introducing GPT-5.2-Codex](https://simonwillison.net/2025/Dec/19/introducing-gpt-52-codex/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Agent Skills](https://simonwillison.net/2025/Dec/19/agent-skills/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-18 visualstudiomagazine</small>  
 <small>[Microsoft Again Named a Leader in AI AppDev Platforms Research](https://visualstudiomagazine.com/Articles/2025/12/18/Microsoft-Again-Named-a-Leader-in-AI-Application-Development-Platforms-Research.aspx)</small>
