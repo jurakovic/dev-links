@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gain insights in your software supply chain using GitHub’s Dependency Graph",
+    "link": "https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html",
+    "pubDate": "2025-12-23T07:37:00.000+01:00"
+  },
+  {
     "title": "Take a tour along the Microsoft Datacenters",
     "link": "https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html",
     "pubDate": "2025-12-22T07:50:00.020+01:00"
@@ -18,10 +23,5 @@
     "title": "Understanding your project architecture and how it evolves over time using Gource",
     "link": "https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html",
     "pubDate": "2025-12-17T07:19:00.008+01:00"
-  },
-  {
-    "title": "Find your line",
-    "link": "https://bartwullems.blogspot.com/2025/12/find-your-line.html",
-    "pubDate": "2025-12-16T07:39:00.009+01:00"
   }
 ]

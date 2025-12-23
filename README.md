@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
+<small>[Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-23 bartwullems</small>  
+<small>[Gain insights in your software supply chain using GitHub’s Dependency Graph](https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-23 simonwillison</small>  
+<small>[Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-22 simonwillison</small>  
 <small>[Using Claude in Chrome to navigate out the Cloudflare dashboard](https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything)</small>
 
@@ -39,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-19 bartwullems</small>  
 <small>[Giving OpenAI codex a try in VSCode](https://bartwullems.blogspot.com/2025/12/giving-openai-codex-try-in-vscode.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Introducing GPT-5.2-Codex](https://simonwillison.net/2025/Dec/19/introducing-gpt-52-codex/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-18 visualstudiomagazine</small>  
 <small>[Microsoft Again Named a Leader in AI AppDev Platforms Research](https://visualstudiomagazine.com/Articles/2025/12/18/Microsoft-Again-Named-a-Leader-in-AI-Application-Development-Platforms-Research.aspx)</small>
@@ -87,12 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-16 andrewlock</small>  
 <small>[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
-<small>[Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-16 bartwullems</small>  
-<small>[Find your line](https://bartwullems.blogspot.com/2025/12/find-your-line.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
 <small>[How Temporal Powers Reliable Cloud Operations at Netflix](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss----2615bd06b42e---4)</small>
