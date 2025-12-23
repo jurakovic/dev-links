@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-23 simonwillison</small>  
+<small>[MicroQuickJS](https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
 <small>[How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
+<small>[The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
 <small>[Settle down, nerds. AI is a normal technology](https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/)</small>
@@ -40,9 +46,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-19 visualstudiomagazine</small>  
 <small>[C++ Joins C# in Visual Studio's Deep Copilot Tier](https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Sam Rose explains how LLMs work with a visual essay](https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
 <small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-17 stackoverflow</small>  
-<small>[The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-17 bartwullems</small>  
 <small>[Understanding your project architecture and how it evolves over time using Gource](https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html)</small>

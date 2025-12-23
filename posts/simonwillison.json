@@ -1,5 +1,10 @@
 [
   {
+    "title": "MicroQuickJS",
+    "link": "https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything",
+    "pubDate": "2025-12-23T20:53:40+00:00"
+  },
+  {
     "title": "Cooking with Claude",
     "link": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything",
     "pubDate": "2025-12-23T05:01:34+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything",
     "pubDate": "2025-12-19T23:07:52+00:00"
-  },
-  {
-    "title": "Sam Rose explains how LLMs work with a visual essay",
-    "link": "https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything",
-    "pubDate": "2025-12-19T18:33:41+00:00"
   }
 ]

@@ -5,6 +5,11 @@
     "pubDate": "Tue, 23 Dec 2025 17:00:00 GMT"
   },
   {
+    "title": "The AI ick",
+    "link": "https://stackoverflow.blog/2025/12/23/the-ai-ick/",
+    "pubDate": "Tue, 23 Dec 2025 16:41:32 GMT"
+  },
+  {
     "title": "Settle down, nerds. AI is a normal technology",
     "link": "https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/",
     "pubDate": "Tue, 23 Dec 2025 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Last week in AWS re:Invent with Corey Quinn",
     "link": "https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/",
     "pubDate": "Fri, 19 Dec 2025 08:40:00 GMT"
-  },
-  {
-    "title": "The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!",
-    "link": "https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/",
-    "pubDate": "Wed, 17 Dec 2025 18:00:00 GMT"
   }
 ]
