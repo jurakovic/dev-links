@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-24 bartwullems</small>  
+<small>[Why you can't have a ‘work self’ and a ‘home self’](https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-23 simonwillison</small>  
 <small>[Quoting Salvatore Sanfilippo](https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything)</small>
 
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-17 bartwullems</small>  
-<small>[Understanding your project architecture and how it evolves over time using Gource](https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
 <small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
