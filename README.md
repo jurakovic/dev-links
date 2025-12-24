@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-24 simonwillison</small>  
+<small>[uv-init-demos](https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-24 stackoverflow</small>  
 <small>[The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-22 bartwullems</small>  
 <small>[Take a tour along the Microsoft Datacenters](https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-21 simonwillison</small>  
-<small>[Quoting Shriram Krishnamurthi](https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-20 antirez</small>  
 <small>[Reflections on AI at the end of 2025](http://antirez.com/news/157)</small>
