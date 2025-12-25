@@ -1,5 +1,10 @@
 [
   {
+    "title": "Whether AI is a bubble or revolution, how does software survive?",
+    "link": "https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/",
+    "pubDate": "Thu, 25 Dec 2025 14:42:48 GMT"
+  },
+  {
     "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
     "link": "https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/",
     "pubDate": "Wed, 24 Dec 2025 14:03:52 GMT"
@@ -18,10 +23,5 @@
     "title": "Settle down, nerds. AI is a normal technology",
     "link": "https://stackoverflow.blog/2025/12/23/settle-down-nerds-ai-is-a-normal-technology/",
     "pubDate": "Tue, 23 Dec 2025 08:40:00 GMT"
-  },
-  {
-    "title": "Making your code base better will make your code coverage worse",
-    "link": "https://stackoverflow.blog/2025/12/22/making-your-code-base-better-will-make-your-code-coverage-worse/",
-    "pubDate": "Mon, 22 Dec 2025 15:00:07 GMT"
   }
 ]
