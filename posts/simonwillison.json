@@ -1,5 +1,10 @@
 [
   {
+    "title": "A new way to extract detailed transcripts from Claude Code",
+    "link": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything",
+    "pubDate": "2025-12-25T23:52:17+00:00"
+  },
+  {
     "title": "uv-init-demos",
     "link": "https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything",
     "pubDate": "2025-12-24T22:05:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Cooking with Claude",
     "link": "https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything",
     "pubDate": "2025-12-23T05:01:34+00:00"
-  },
-  {
-    "title": "Using Claude in Chrome to navigate out the Cloudflare dashboard",
-    "link": "https://simonwillison.net/2025/Dec/22/claude-chrome-cloudflare/#atom-everything",
-    "pubDate": "2025-12-22T16:10:30+00:00"
   }
 ]
