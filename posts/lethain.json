@@ -1,5 +1,15 @@
 [
   {
+    "title": "Building an internal agent: Progressive disclosure and handling large files",
+    "link": "https://lethain.com/agents-large-files/",
+    "pubDate": "Fri, 26 Dec 2025 08:00:00 -0700"
+  },
+  {
+    "title": "Building an internal agent: Adding support for Agent Skills",
+    "link": "https://lethain.com/agents-skills/",
+    "pubDate": "Fri, 26 Dec 2025 07:00:00 -0700"
+  },
+  {
     "title": "2025 in review.",
     "link": "https://lethain.com/2025-in-review/",
     "pubDate": "Thu, 18 Dec 2025 10:00:00 -0700"
@@ -13,15 +23,5 @@
     "title": "Facilitating AI adoption at Imprint",
     "link": "https://lethain.com/company-ai-adoption/",
     "pubDate": "Sun, 07 Dec 2025 08:00:00 -0700"
-  },
-  {
-    "title": "Coding at work (after a decade away).",
-    "link": "https://lethain.com/coding-at-work/",
-    "pubDate": "Wed, 19 Nov 2025 08:00:00 -0700"
-  },
-  {
-    "title": "\"Good engineering management\" is a fad",
-    "link": "https://lethain.com/good-eng-mgmt-is-a-fad/",
-    "pubDate": "Sun, 26 Oct 2025 04:00:00 -0700"
   }
 ]

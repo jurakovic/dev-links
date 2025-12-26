@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-26 simonwillison</small>  
+<small>[How Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
+<small>[Building an internal agent: Progressive disclosure and handling large files](https://lethain.com/agents-large-files/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
 <small>[AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
+<small>[Building an internal agent: Adding support for Agent Skills](https://lethain.com/agents-skills/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
 <small>[Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/)</small>
@@ -36,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-23 bartwullems</small>  
 <small>[Gain insights in your software supply chain using GitHub’s Dependency Graph](https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-23 simonwillison</small>  
-<small>[Cooking with Claude](https://simonwillison.net/2025/Dec/23/cooking-with-claude/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
 <small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
 <small>[Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
-<small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
-<small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
 
