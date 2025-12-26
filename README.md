@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
+<small>[AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
 <small>[Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-25 simonwillison</small>  
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
 <small>[How Xerox and Stack Overflow partnered to preserve knowledge and power innovation](https://stackoverflow.blog/2025/12/23/how-xerox-and-stack-overflow-partnered-to-preserve-knowledge-and-power-innovation/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-23 stackoverflow</small>  
-<small>[The AI ick](https://stackoverflow.blog/2025/12/23/the-ai-ick/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-23 bartwullems</small>  
 <small>[Gain insights in your software supply chain using GitHub’s Dependency Graph](https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html)</small>
