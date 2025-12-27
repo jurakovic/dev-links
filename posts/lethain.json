@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building an internal agent: Context window compaction",
+    "link": "https://lethain.com/agents-context-compaction/",
+    "pubDate": "Fri, 26 Dec 2025 09:00:00 -0700"
+  },
+  {
     "title": "Building an internal agent: Progressive disclosure and handling large files",
     "link": "https://lethain.com/agents-large-files/",
     "pubDate": "Fri, 26 Dec 2025 08:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "Automatically merging dependabot PRs",
     "link": "https://lethain.com/dependabot-auto-merge/",
     "pubDate": "Thu, 18 Dec 2025 08:00:00 -0700"
-  },
-  {
-    "title": "Facilitating AI adoption at Imprint",
-    "link": "https://lethain.com/company-ai-adoption/",
-    "pubDate": "Sun, 07 Dec 2025 08:00:00 -0700"
   }
 ]

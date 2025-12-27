@@ -1,5 +1,15 @@
 [
   {
+    "title": "textarea.my on GitHub",
+    "link": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything",
+    "pubDate": "2025-12-27T03:23:34+00:00"
+  },
+  {
+    "title": "How uv got so fast",
+    "link": "https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything",
+    "pubDate": "2025-12-26T23:43:15+00:00"
+  },
+  {
     "title": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
     "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything",
     "pubDate": "2025-12-26T18:16:28+00:00"
@@ -13,15 +23,5 @@
     "title": "uv-init-demos",
     "link": "https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything",
     "pubDate": "2025-12-24T22:05:23+00:00"
-  },
-  {
-    "title": "Quoting Salvatore Sanfilippo",
-    "link": "https://simonwillison.net/2025/Dec/23/salvatore-sanfilippo/#atom-everything",
-    "pubDate": "2025-12-23T23:03:00+00:00"
-  },
-  {
-    "title": "MicroQuickJS",
-    "link": "https://simonwillison.net/2025/Dec/23/microquickjs/#atom-everything",
-    "pubDate": "2025-12-23T20:53:40+00:00"
   }
 ]
