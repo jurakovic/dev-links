@@ -14,6 +14,10 @@ on:
         default: 'dev-news'
         type: string
 
+concurrency:
+  group: ${{ github.repository }}
+  cancel-in-progress: true
+
 jobs:
   job:
     uses: ./.github/workflows/update_posts_shared.yaml
