@@ -19,18 +19,20 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  job:
+  check-runner:
+    runs-on: self-hosted
+    timeout-minutes: 5
+    continue-on-error: true
+
+    steps:
+      - name: Runner acquired
+        run: echo "Self-hosted runner is alive"
+
+  update_posts:
+    needs: check-runner
+    if: needs.check-runner.result == 'success'
     uses: ./.github/workflows/update_posts_shared.yaml
     with:
       runner: self-hosted
       target_branch: ${{ inputs.target_branch || 'dev-news' }}
     secrets: inherit
-
-  alert-on-failure:
-    needs: job
-    if: failure()
-    runs-on: ubuntu-latest
-    steps:
-      - name: Alert
-        run: |
-          echo "Self-hosted hourly job failed or runner unavailable"
