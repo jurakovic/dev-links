@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
+<small>[Pluribus training data](https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
+<small>[Quoting Boris Cherny](https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
 <small>[textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-26 simonwillison</small>  
@@ -28,14 +34,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
 <small>[Containers are easy—moving your legacy system off your VM is not](https://stackoverflow.blog/2025/12/26/containers-are-easy-moving-your-legacy-system-off-your-vm-is-not/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-25 simonwillison</small>  
-<small>[A new way to extract detailed transcripts from Claude Code](https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-25 stackoverflow</small>  
 <small>[Whether AI is a bubble or revolution, how does software survive?](https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-24 simonwillison</small>  
-<small>[uv-init-demos](https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-24 stackoverflow</small>  
 <small>[The Great Unracking: Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)</small>

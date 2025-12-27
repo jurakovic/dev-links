@@ -1,5 +1,15 @@
 [
   {
+    "title": "Pluribus training data",
+    "link": "https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything",
+    "pubDate": "2025-12-27T15:43:34+00:00"
+  },
+  {
+    "title": "Quoting Boris Cherny",
+    "link": "https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything",
+    "pubDate": "2025-12-27T14:13:43+00:00"
+  },
+  {
     "title": "textarea.my on GitHub",
     "link": "https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything",
     "pubDate": "2025-12-27T03:23:34+00:00"
@@ -13,15 +23,5 @@
     "title": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
     "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything",
     "pubDate": "2025-12-26T18:16:28+00:00"
-  },
-  {
-    "title": "A new way to extract detailed transcripts from Claude Code",
-    "link": "https://simonwillison.net/2025/Dec/25/claude-code-transcripts/#atom-everything",
-    "pubDate": "2025-12-25T23:52:17+00:00"
-  },
-  {
-    "title": "uv-init-demos",
-    "link": "https://simonwillison.net/2025/Dec/24/uv-init-demos/#atom-everything",
-    "pubDate": "2025-12-24T22:05:23+00:00"
   }
 ]
