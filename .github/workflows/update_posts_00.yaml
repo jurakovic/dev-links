@@ -1,11 +1,11 @@
-name: Update Posts (dev-news) [GitHub-hosted every 6 hours]
+name: Update Posts (dev-news) [GitHub-hosted]
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # every 6 hours starting at midnight
   workflow_dispatch:
     inputs:
       target_branch:
