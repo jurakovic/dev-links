@@ -1,5 +1,10 @@
 [
   {
+    "title": "Task.Delay fails if you wait longer than 49.7 days",
+    "link": "https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4",
+    "pubDate": "Sun, 28 Dec 2025 11:34:09 Z"
+  },
+  {
     "title": "One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?",
     "link": "https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448",
     "pubDate": "Mon, 15 Dec 2025 08:33:36 Z"
@@ -18,10 +23,5 @@
     "title": "Using sortable UUID / GUIDs in Entity Framework",
     "link": "https://steven-giesel.com/blogPost/d6150b89-a3ef-407e-add2-7afa4a2a8729",
     "pubDate": "Mon, 24 Nov 2025 05:49:00 Z"
-  },
-  {
-    "title": "No more public partial class Program in .NET 10",
-    "link": "https://steven-giesel.com/blogPost/9c156006-3e54-45b9-8e0c-ea933e005983",
-    "pubDate": "Wed, 19 Nov 2025 12:20:51 Z"
   }
 ]

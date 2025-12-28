@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
+<small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-28 simonwillison</small>  
 <small>[Substack Network error = security content they don't allow to be sent](https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
 <small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-09 microservices</small>  
-<small>[Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud](http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html)</small>
 
