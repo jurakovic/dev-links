@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-28 simonwillison</small>  
+<small>[Substack Network error = security content they don't allow to be sent](https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
 <small>[Pluribus training data](https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything)</small>
 
@@ -15,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-26 simonwillison</small>  
 <small>[How uv got so fast](https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-26 simonwillison</small>  
-<small>[How Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
 <small>[Building an internal agent: Context window compaction](https://lethain.com/agents-context-compaction/)</small>

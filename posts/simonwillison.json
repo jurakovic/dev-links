@@ -1,5 +1,10 @@
 [
   {
+    "title": "Substack Network error = security content they don't allow to be sent",
+    "link": "https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything",
+    "pubDate": "2025-12-28T04:16:27+00:00"
+  },
+  {
     "title": "Pluribus training data",
     "link": "https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything",
     "pubDate": "2025-12-27T15:43:34+00:00"
@@ -18,10 +23,5 @@
     "title": "How uv got so fast",
     "link": "https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything",
     "pubDate": "2025-12-26T23:43:15+00:00"
-  },
-  {
-    "title": "How Rob Pike got spammed with an AI slop \"act of kindness\"",
-    "link": "https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/#atom-everything",
-    "pubDate": "2025-12-26T18:16:28+00:00"
   }
 ]
