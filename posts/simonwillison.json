@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting D. Richard Hipp",
+    "link": "https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything",
+    "pubDate": "2025-12-29T21:51:49+00:00"
+  },
+  {
+    "title": "Quoting Jason Gorman",
+    "link": "https://simonwillison.net/2025/Dec/29/jason-gorman/#atom-everything",
+    "pubDate": "2025-12-29T20:50:22+00:00"
+  },
+  {
+    "title": "Copyright Release for Contributions To SQLite",
+    "link": "https://simonwillison.net/2025/Dec/29/copyright-release/#atom-everything",
+    "pubDate": "2025-12-29T19:58:45+00:00"
+  },
+  {
     "title": "Quoting Aaron Levie",
     "link": "https://simonwillison.net/2025/Dec/29/aaron-levie/#atom-everything",
     "pubDate": "2025-12-29T03:32:24+00:00"
@@ -8,20 +23,5 @@
     "title": "simonw/actions-latest",
     "link": "https://simonwillison.net/2025/Dec/28/actions-latest/#atom-everything",
     "pubDate": "2025-12-28T22:45:10+00:00"
-  },
-  {
-    "title": "Substack Network error = security content they don't allow to be sent",
-    "link": "https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything",
-    "pubDate": "2025-12-28T04:16:27+00:00"
-  },
-  {
-    "title": "Pluribus training data",
-    "link": "https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything",
-    "pubDate": "2025-12-27T15:43:34+00:00"
-  },
-  {
-    "title": "Quoting Boris Cherny",
-    "link": "https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything",
-    "pubDate": "2025-12-27T14:13:43+00:00"
   }
 ]

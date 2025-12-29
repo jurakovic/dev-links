@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
+<small>[Quoting D. Richard Hipp](https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
+<small>[Quoting Jason Gorman](https://simonwillison.net/2025/Dec/29/jason-gorman/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
+<small>[Copyright Release for Contributions To SQLite](https://simonwillison.net/2025/Dec/29/copyright-release/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-29 stackoverflow</small>  
 <small>[Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/)</small>
 
@@ -18,15 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
 <small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-28 simonwillison</small>  
-<small>[Substack Network error = security content they don't allow to be sent](https://simonwillison.net/2025/Dec/28/substack-network-error/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
-<small>[Pluribus training data](https://simonwillison.net/2025/Dec/27/john-cena/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
-<small>[Quoting Boris Cherny](https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
 <small>[Building an internal agent: Context window compaction](https://lethain.com/agents-context-compaction/)</small>
