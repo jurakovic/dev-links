@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
+<small>[Quoting Aaron Levie](https://simonwillison.net/2025/Dec/29/aaron-levie/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-28 simonwillison</small>  
+<small>[simonw/actions-latest](https://simonwillison.net/2025/Dec/28/actions-latest/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
 <small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
 
@@ -15,12 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
 <small>[Quoting Boris Cherny](https://simonwillison.net/2025/Dec/27/boris-cherny/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-27 simonwillison</small>  
-<small>[textarea.my on GitHub](https://simonwillison.net/2025/Dec/27/textarea-my/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-26 simonwillison</small>  
-<small>[How uv got so fast](https://simonwillison.net/2025/Dec/26/how-uv-got-so-fast/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
 <small>[Building an internal agent: Context window compaction](https://lethain.com/agents-context-compaction/)</small>
