@@ -1,5 +1,10 @@
 [
   {
+    "title": "How AI is helping us build better communities",
+    "link": "https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/",
+    "pubDate": "Tue, 30 Dec 2025 08:40:00 GMT"
+  },
+  {
     "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
     "link": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
     "pubDate": "Mon, 29 Dec 2025 15:04:49 GMT"
@@ -18,10 +23,5 @@
     "title": "Whether AI is a bubble or revolution, how does software survive?",
     "link": "https://stackoverflow.blog/2025/12/25/whether-ai-is-a-bubble-or-revolution-how-does-software-survive/",
     "pubDate": "Thu, 25 Dec 2025 14:42:48 GMT"
-  },
-  {
-    "title": "The Great Unracking: Saying goodbye to the servers at our physical datacenter",
-    "link": "https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/",
-    "pubDate": "Wed, 24 Dec 2025 14:03:52 GMT"
   }
 ]
