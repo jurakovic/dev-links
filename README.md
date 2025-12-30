@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-30 dotnet</small>  
+<small>[Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-30 simonwillison</small>  
 <small>[Quoting Liz Fong-Jones](https://simonwillison.net/2025/Dec/30/liz-fong-jones/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
 <small>[Implementing Cross-Platform In-App Billing in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-09 steven-giesel</small>  
-<small>[GitHub Runners might not be a good benchmark baseline](https://steven-giesel.com/blogPost/77f3667e-cf86-4e62-b09f-b32c0aaf58cd)</small>
 
