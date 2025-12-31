@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Armin Ronacher",
+    "link": "https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything",
+    "pubDate": "2025-12-30T23:54:58+00:00"
+  },
+  {
+    "title": "TIL: Downloading archived Git repositories from archive.softwareheritage.org",
+    "link": "https://simonwillison.net/2025/Dec/30/software-heritage/#atom-everything",
+    "pubDate": "2025-12-30T23:51:33+00:00"
+  },
+  {
     "title": "Quoting Liz Fong-Jones",
     "link": "https://simonwillison.net/2025/Dec/30/liz-fong-jones/#atom-everything",
     "pubDate": "2025-12-30T16:05:08+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting D. Richard Hipp",
     "link": "https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything",
     "pubDate": "2025-12-29T21:51:49+00:00"
-  },
-  {
-    "title": "Quoting Jason Gorman",
-    "link": "https://simonwillison.net/2025/Dec/29/jason-gorman/#atom-everything",
-    "pubDate": "2025-12-29T20:50:22+00:00"
-  },
-  {
-    "title": "Copyright Release for Contributions To SQLite",
-    "link": "https://simonwillison.net/2025/Dec/29/copyright-release/#atom-everything",
-    "pubDate": "2025-12-29T19:58:45+00:00"
   }
 ]
