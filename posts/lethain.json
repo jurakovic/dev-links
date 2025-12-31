@@ -1,27 +1,27 @@
 [
   {
+    "title": "Building an internal agent: Subagent support",
+    "link": "https://lethain.com/agents-subagents/",
+    "pubDate": "Wed, 31 Dec 2025 09:45:00 -0800"
+  },
+  {
+    "title": "Building an internal agent: Code-driven vs LLM-driven workflows",
+    "link": "https://lethain.com/agents-coordinators/",
+    "pubDate": "Wed, 31 Dec 2025 09:30:00 -0800"
+  },
+  {
+    "title": "Building an internal agent: Logging and debugability",
+    "link": "https://lethain.com/agents-logging/",
+    "pubDate": "Wed, 31 Dec 2025 09:15:00 -0800"
+  },
+  {
+    "title": "Building an internal agent: Evals to validate workflows",
+    "link": "https://lethain.com/agents-evals/",
+    "pubDate": "Wed, 31 Dec 2025 09:00:00 -0800"
+  },
+  {
     "title": "Building an internal agent: Context window compaction",
     "link": "https://lethain.com/agents-context-compaction/",
     "pubDate": "Fri, 26 Dec 2025 09:00:00 -0700"
-  },
-  {
-    "title": "Building an internal agent: Progressive disclosure and handling large files",
-    "link": "https://lethain.com/agents-large-files/",
-    "pubDate": "Fri, 26 Dec 2025 08:00:00 -0700"
-  },
-  {
-    "title": "Building an internal agent: Adding support for Agent Skills",
-    "link": "https://lethain.com/agents-skills/",
-    "pubDate": "Fri, 26 Dec 2025 07:00:00 -0700"
-  },
-  {
-    "title": "2025 in review.",
-    "link": "https://lethain.com/2025-in-review/",
-    "pubDate": "Thu, 18 Dec 2025 10:00:00 -0700"
-  },
-  {
-    "title": "Automatically merging dependabot PRs",
-    "link": "https://lethain.com/dependabot-auto-merge/",
-    "pubDate": "Thu, 18 Dec 2025 08:00:00 -0700"
   }
 ]

@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-31 dotnet</small>  
+<small>[Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Subagent support](https://lethain.com/agents-subagents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Code-driven vs LLM-driven workflows](https://lethain.com/agents-coordinators/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Logging and debugability](https://lethain.com/agents-logging/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Evals to validate workflows](https://lethain.com/agents-evals/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-31 simonwillison</small>  
+<small>[Codex cloud is now called Codex web](https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-31 stackoverflow</small>  
 <small>[A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/)</small>
 
@@ -31,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
 <small>[shot-scraper 1.9](https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
-<small>[Quoting D. Richard Hipp](https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-29 stackoverflow</small>  
 <small>[Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/)</small>
 
@@ -46,14 +61,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
 <small>[Building an internal agent: Context window compaction](https://lethain.com/agents-context-compaction/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
-<small>[Building an internal agent: Progressive disclosure and handling large files](https://lethain.com/agents-large-files/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-26 stackoverflow</small>  
 <small>[AI vs Gen Z: How AI has changed the career pathway for junior developers](https://stackoverflow.blog/2025/12/26/ai-vs-gen-z/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
-<small>[Building an internal agent: Adding support for Agent Skills](https://lethain.com/agents-skills/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-24 bartwullems</small>  
 <small>[Why you can't have a ‘work self’ and a ‘home self’](https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html)</small>
@@ -84,12 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-18 lethain</small>  
-<small>[2025 in review.](https://lethain.com/2025-in-review/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-18 lethain</small>  
-<small>[Automatically merging dependabot PRs](https://lethain.com/dependabot-auto-merge/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
 <small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-10 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1](http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
-<small>[.NET and .NET Framework December 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/)</small>
 

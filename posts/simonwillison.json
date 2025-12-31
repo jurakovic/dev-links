@@ -1,5 +1,10 @@
 [
   {
+    "title": "Codex cloud is now called Codex web",
+    "link": "https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything",
+    "pubDate": "2025-12-31T16:35:28+00:00"
+  },
+  {
     "title": "Quoting Armin Ronacher",
     "link": "https://simonwillison.net/2025/Dec/30/armin-ronacher/#atom-everything",
     "pubDate": "2025-12-30T23:54:58+00:00"
@@ -18,10 +23,5 @@
     "title": "shot-scraper 1.9",
     "link": "https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything",
     "pubDate": "2025-12-29T22:33:13+00:00"
-  },
-  {
-    "title": "Quoting D. Richard Hipp",
-    "link": "https://simonwillison.net/2025/Dec/29/d-richard-hipp/#atom-everything",
-    "pubDate": "2025-12-29T21:51:49+00:00"
   }
 ]
