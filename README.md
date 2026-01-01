@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-31 simonwillison</small>  
+<small>[2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-31 dotnet</small>  
 <small>[Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-30 stackoverflow</small>  
 <small>[How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-29 simonwillison</small>  
-<small>[shot-scraper 1.9](https://simonwillison.net/2025/Dec/29/shot-scraper/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-29 stackoverflow</small>  
 <small>[Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/)</small>
