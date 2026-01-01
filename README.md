@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-01 simonwillison</small>  
+<small>[Introducing gisthost.github.io](https://simonwillison.net/2026/Jan/1/gisthost/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-01 stackoverflow</small>  
 <small>[Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/)</small>
 
@@ -28,6 +31,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-31 simonwillison</small>  
 <small>[Codex cloud is now called Codex web](https://simonwillison.net/2025/Dec/31/codex-cloud-is-now-called-codex-web/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Triggers](https://lethain.com/agents-triggers/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-31 stackoverflow</small>  
 <small>[A look under the hood: How (and why) we built Question Assistant](https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/)</small>
 
@@ -43,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-30 dotnet</small>  
 <small>[Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-30 simonwillison</small>  
-<small>[Quoting Liz Fong-Jones](https://simonwillison.net/2025/Dec/30/liz-fong-jones/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-30 stackoverflow</small>  
 <small>[A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/)</small>
 
@@ -60,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
 <small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-26 lethain</small>  
-<small>[Building an internal agent: Context window compaction](https://lethain.com/agents-context-compaction/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-24 bartwullems</small>  
 <small>[Why you can't have a ‘work self’ and a ‘home self’](https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html)</small>
