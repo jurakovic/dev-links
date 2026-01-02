@@ -1,5 +1,10 @@
 [
   {
+    "title": "The most dangerous shortcuts in software",
+    "link": "https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/",
+    "pubDate": "Fri, 02 Jan 2026 08:40:00 GMT"
+  },
+  {
     "title": "Documents: The architect’s programming language",
     "link": "https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/",
     "pubDate": "Thu, 01 Jan 2026 16:16:28 GMT"
@@ -18,10 +23,5 @@
     "title": "How AI is helping us build better communities",
     "link": "https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/",
     "pubDate": "Tue, 30 Dec 2025 08:40:00 GMT"
-  },
-  {
-    "title": "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
-    "link": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
-    "pubDate": "Mon, 29 Dec 2025 15:04:49 GMT"
   }
 ]
