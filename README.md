@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
+<small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-02 simonwillison</small>  
@@ -54,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-30 stackoverflow</small>  
 <small>[A new era of Stack Overflow](https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-30 stackoverflow</small>  
-<small>[How AI is helping us build better communities](https://stackoverflow.blog/2025/12/30/how-ai-is-helping-us-build-better-communities/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-29 terriblesoftware</small>  
 <small>[A Year of Writing for Myself (That 230,000+ People Read)](https://terriblesoftware.org/2025/12/29/a-year-of-writing-for-myself-that-230000-people-read/)</small>
