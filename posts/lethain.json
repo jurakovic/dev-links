@@ -1,5 +1,15 @@
 [
   {
+    "title": "Building internal agents",
+    "link": "https://lethain.com/agents-series/",
+    "pubDate": "Thu, 01 Jan 2026 09:00:00 -0800"
+  },
+  {
+    "title": "Building an internal agent: Iterative prompt and skill refinement",
+    "link": "https://lethain.com/agents-iterative-refinement/",
+    "pubDate": "Thu, 01 Jan 2026 08:30:00 -0800"
+  },
+  {
     "title": "Building an internal agent: Subagent support",
     "link": "https://lethain.com/agents-subagents/",
     "pubDate": "Wed, 31 Dec 2025 09:45:00 -0800"
@@ -13,15 +23,5 @@
     "title": "Building an internal agent: Logging and debugability",
     "link": "https://lethain.com/agents-logging/",
     "pubDate": "Wed, 31 Dec 2025 09:15:00 -0800"
-  },
-  {
-    "title": "Building an internal agent: Evals to validate workflows",
-    "link": "https://lethain.com/agents-evals/",
-    "pubDate": "Wed, 31 Dec 2025 09:00:00 -0800"
-  },
-  {
-    "title": "Building an internal agent: Triggers",
-    "link": "https://lethain.com/agents-triggers/",
-    "pubDate": "Wed, 31 Dec 2025 08:00:00 -0800"
   }
 ]
