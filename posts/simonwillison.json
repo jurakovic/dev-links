@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Jaana Dogan",
+    "link": "https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything",
+    "pubDate": "2026-01-04T03:03:20+00:00"
+  },
+  {
     "title": "Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?",
     "link": "https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything",
     "pubDate": "2026-01-03T05:57:07+00:00"
@@ -18,10 +23,5 @@
     "title": "December 2025 sponsors-only newsletter",
     "link": "https://simonwillison.net/2026/Jan/2/december/#atom-everything",
     "pubDate": "2026-01-02T04:33:47+00:00"
-  },
-  {
-    "title": "Quoting Ben Werdmuller",
-    "link": "https://simonwillison.net/2026/Jan/2/ben-werdmuller/#atom-everything",
-    "pubDate": "2026-01-02T00:48:16+00:00"
   }
 ]

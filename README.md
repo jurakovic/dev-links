@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[Quoting Jaana Dogan](https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-03 simonwillison</small>  
 <small>[Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?](https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-02 simonwillison</small>  
 <small>[December 2025 sponsors-only newsletter](https://simonwillison.net/2026/Jan/2/december/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-02 simonwillison</small>  
-<small>[Quoting Ben Werdmuller](https://simonwillison.net/2026/Jan/2/ben-werdmuller/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building internal agents](https://lethain.com/agents-series/)</small>
