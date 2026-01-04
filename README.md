@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[Helping people write code again](https://simonwillison.net/2026/Jan/4/coding-again/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
 <small>[Quoting Jaana Dogan](https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-03 simonwillison</small>  
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-02 simonwillison</small>  
-<small>[December 2025 sponsors-only newsletter](https://simonwillison.net/2026/Jan/2/december/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building internal agents](https://lethain.com/agents-series/)</small>

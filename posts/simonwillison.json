@@ -1,5 +1,10 @@
 [
   {
+    "title": "Helping people write code again",
+    "link": "https://simonwillison.net/2026/Jan/4/coding-again/#atom-everything",
+    "pubDate": "2026-01-04T15:43:23+00:00"
+  },
+  {
     "title": "Quoting Jaana Dogan",
     "link": "https://simonwillison.net/2026/Jan/4/jaana-dogan/#atom-everything",
     "pubDate": "2026-01-04T03:03:20+00:00"
@@ -18,10 +23,5 @@
     "title": "The most popular blogs of Hacker News in 2025",
     "link": "https://simonwillison.net/2026/Jan/2/most-popular-blogs-of-hacker-news/#atom-everything",
     "pubDate": "2026-01-02T19:10:43+00:00"
-  },
-  {
-    "title": "December 2025 sponsors-only newsletter",
-    "link": "https://simonwillison.net/2026/Jan/2/december/#atom-everything",
-    "pubDate": "2026-01-02T04:33:47+00:00"
   }
 ]
