@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-05 bartwullems</small>  
+<small>[Automate your full development process with handoffs](https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-05 steven-giesel</small>  
+<small>[.NET Toolbox](https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
 <small>[The November 2025 inflection point](https://simonwillison.net/2026/Jan/4/inflection/#atom-everything)</small>
 
@@ -97,9 +103,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
-<small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-11 martinfowler</small>  
 <small>[Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
-<small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
 
