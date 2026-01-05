@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[The November 2025 inflection point](https://simonwillison.net/2026/Jan/4/inflection/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
 <small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
 
@@ -18,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-03 simonwillison</small>  
 <small>[Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?](https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-02 simonwillison</small>  
-<small>[Quoting Will Larson](https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "The November 2025 inflection point",
+    "link": "https://simonwillison.net/2026/Jan/4/inflection/#atom-everything",
+    "pubDate": "2026-01-04T23:21:42+00:00"
+  },
+  {
     "title": "Quoting Addy Osmani",
     "link": "https://simonwillison.net/2026/Jan/4/addy-osmani/#atom-everything",
     "pubDate": "2026-01-04T16:40:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Was Daft Punk Having a Laugh When They Chose the Tempo of Harder, Better, Faster, Stronger?",
     "link": "https://simonwillison.net/2026/Jan/3/daft-punk/#atom-everything",
     "pubDate": "2026-01-03T05:57:07+00:00"
-  },
-  {
-    "title": "Quoting Will Larson",
-    "link": "https://simonwillison.net/2026/Jan/2/will-larson/#atom-everything",
-    "pubDate": "2026-01-02T19:57:37+00:00"
   }
 ]
