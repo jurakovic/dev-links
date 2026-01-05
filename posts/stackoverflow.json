@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s new at Stack Overflow: January 2026",
+    "link": "https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/",
+    "pubDate": "Mon, 05 Jan 2026 15:00:00 GMT"
+  },
+  {
     "title": "A new worst coder has entered the chat: vibe coding without code knowledge",
     "link": "https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/",
     "pubDate": "Fri, 02 Jan 2026 14:43:45 GMT"
@@ -18,10 +23,5 @@
     "title": "A look under the hood: How (and why) we built Question Assistant",
     "link": "https://stackoverflow.blog/2025/12/31/a-look-under-the-hood-how-and-why-we-built-question-assistant/",
     "pubDate": "Wed, 31 Dec 2025 15:07:27 GMT"
-  },
-  {
-    "title": "A new era of Stack Overflow",
-    "link": "https://stackoverflow.blog/2025/12/30/a-new-era-of-stack-overflow/",
-    "pubDate": "Tue, 30 Dec 2025 14:53:16 GMT"
   }
 ]
