@@ -1,5 +1,10 @@
 [
   {
+    "title": "Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support",
+    "link": "https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/",
+    "pubDate": "Fri, 02 Jan 2026 09:00:00 GMT"
+  },
+  {
     "title": "Creating a .NET CLR profiler using C# and NativeAOT with Silhouette",
     "link": "https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/",
     "pubDate": "Tue, 16 Dec 2025 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Exploring the .NET boot process via host tracing",
     "link": "https://andrewlock.net/exploring-the-dotnet-boot-process-via-host-tracing/",
     "pubDate": "Tue, 25 Nov 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Companies complaining .NET moves too fast should just pay for post-EOL support",
-    "link": "https://andrewlock.net/companies-using-dotnet-need-to-suck-it-up-and-pay-for-support/",
-    "pubDate": "Tue, 18 Nov 2025 10:00:00 GMT"
   }
 ]

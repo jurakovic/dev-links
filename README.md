@@ -46,6 +46,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
+<small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-15 steven-giesel</small>  
 <small>[One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?](https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
-<small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>
 
