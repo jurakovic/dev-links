@@ -1,5 +1,10 @@
 [
   {
+    "title": "Background agents in GitHub Copilot",
+    "link": "https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html",
+    "pubDate": "2026-01-06T06:35:00.018+01:00"
+  },
+  {
     "title": "Automate your full development process with handoffs",
     "link": "https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html",
     "pubDate": "2026-01-05T07:00:00.030+01:00"
@@ -18,10 +23,5 @@
     "title": "Take a tour along the Microsoft Datacenters",
     "link": "https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html",
     "pubDate": "2025-12-22T07:50:00.020+01:00"
-  },
-  {
-    "title": "Giving OpenAI codex a try in VSCode",
-    "link": "https://bartwullems.blogspot.com/2025/12/giving-openai-codex-try-in-vscode.html",
-    "pubDate": "2025-12-19T07:08:00.038+01:00"
   }
 ]
