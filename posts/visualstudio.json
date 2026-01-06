@@ -1,5 +1,15 @@
 [
   {
+    "title": "Welcome to 2026, A Growth Year for All of Us",
+    "link": "https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/",
+    "pubDate": "Mon, 05 Jan 2026 14:29:43 +0000"
+  },
+  {
+    "title": "How AI fixed my procrastination",
+    "link": "https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/",
+    "pubDate": "Mon, 22 Dec 2025 15:00:38 +0000"
+  },
+  {
     "title": "Debugging, but Without the Drama (A Visual Studio 2026 Story)",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/",
     "pubDate": "Tue, 16 Dec 2025 15:00:12 +0000"
@@ -13,15 +23,5 @@
     "title": "Streamlining your Git workflow with Visual Studio 2026",
     "link": "https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/",
     "pubDate": "Wed, 10 Dec 2025 15:00:47 +0000"
-  },
-  {
-    "title": "Unlocking the Power of Web with Copilot Chat’s New URL Context",
-    "link": "https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-web-with-copilot-chats-new-url-context/",
-    "pubDate": "Thu, 04 Dec 2025 13:00:24 +0000"
-  },
-  {
-    "title": "Visual Studio November Update – Visual Studio 2026, Cloud Agent Preview, and more",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-visual-studio-2026-cloud-agent-preview-and-more/",
-    "pubDate": "Wed, 03 Dec 2025 16:00:24 +0000"
   }
 ]

@@ -4,35 +4,119 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-06 stackoverflow</small>  
+<small>[Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-06 bartwullems</small>  
+<small>[Background agents in GitHub Copilot](https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-05 visualstudiomagazine</small>  
+<small>[Devs Discuss Updating Backend Code from .NET 8 to .NET 10: 'Like a Breeze'](https://visualstudiomagazine.com/Articles/2026/01/05/Devs-Discuss-Updating-Backend-Code-from-NET-8-to-NET-10-Like-a-Breeze.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-05 simonwillison</small>  
+<small>[It’s hard to justify Tahoe icons](https://simonwillison.net/2026/Jan/5/its-hard-to-justify-tahoe-icons/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 dotnet</small>  
+<small>[Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-05 simonwillison</small>  
+<small>[Oxide and Friends Predictions 2026, today at 4pm PT](https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-05 stackoverflow</small>  
+<small>[What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 visualstudio</small>  
+<small>[Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-05 terriblesoftware</small>  
+<small>[Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-05 bartwullems</small>  
+<small>[Automate your full development process with handoffs](https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-05 steven-giesel</small>  
+<small>[.NET Toolbox](https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[The November 2025 inflection point](https://simonwillison.net/2026/Jan/4/inflection/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
+<small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[Quoting Addy Osmani](https://simonwillison.net/2026/Jan/4/addy-osmani/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
+<small>[Helping people write code again](https://simonwillison.net/2026/Jan/4/coding-again/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
+<small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
+<small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
+<small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
+<small>[Building internal agents](https://lethain.com/agents-series/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
+<small>[Building an internal agent: Iterative prompt and skill refinement](https://lethain.com/agents-iterative-refinement/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-01 stackoverflow</small>  
+<small>[Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-31 dotnet</small>  
+<small>[Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Subagent support](https://lethain.com/agents-subagents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Code-driven vs LLM-driven workflows](https://lethain.com/agents-coordinators/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
+<small>[Building an internal agent: Logging and debugability](https://lethain.com/agents-logging/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2025-12-31 jonskeet</small>  
+<small>[Changing Immutable Collections](https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-30 dotnet</small>  
+<small>[Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-12-29 tidyfirst</small>  
+<small>[The Precious Eyeblink](https://tidyfirst.substack.com/p/the-precious-eyeblink)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-29 terriblesoftware</small>  
+<small>[A Year of Writing for Myself (That 230,000+ People Read)](https://terriblesoftware.org/2025/12/29/a-year-of-writing-for-myself-that-230000-people-read/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
+<small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-12-26 tidyfirst</small>  
+<small>[Party of One for Code Review!](https://tidyfirst.substack.com/p/party-of-one-for-code-review)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-24 bartwullems</small>  
+<small>[Why you can't have a ‘work self’ and a ‘home self’](https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-23 bartwullems</small>  
+<small>[Gain insights in your software supply chain using GitHub’s Dependency Graph](https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
+<small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-22 bartwullems</small>  
+<small>[Take a tour along the Microsoft Datacenters](https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-20 antirez</small>  
 <small>[Reflections on AI at the end of 2025](http://antirez.com/news/157)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Quoting Andrej Karpathy](https://simonwillison.net/2025/Dec/19/andrej-karpathy/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-19 visualstudiomagazine</small>  
 <small>[C++ Joins C# in Visual Studio's Deep Copilot Tier](https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Sam Rose explains how LLMs work with a visual essay](https://simonwillison.net/2025/Dec/19/sam-rose-llms/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
 <small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-19 stackoverflow</small>  
-<small>[Last week in AWS re:Invent with Corey Quinn](https://stackoverflow.blog/2025/12/19/last-week-in-aws-re-invent-with-corey-quinn/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-19 bartwullems</small>  
-<small>[Giving OpenAI codex a try in VSCode](https://bartwullems.blogspot.com/2025/12/giving-openai-codex-try-in-vscode.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Introducing GPT-5.2-Codex](https://simonwillison.net/2025/Dec/19/introducing-gpt-52-codex/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-19 simonwillison</small>  
-<small>[Agent Skills](https://simonwillison.net/2025/Dec/19/agent-skills/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2025-12-18 simonwillison</small>  
-<small>[swift-justhtml](https://simonwillison.net/2025/Dec/18/swift-justhtml/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-18 visualstudiomagazine</small>  
 <small>[Microsoft Again Named a Leader in AI AppDev Platforms Research](https://visualstudiomagazine.com/Articles/2025/12/18/Microsoft-Again-Named-a-Leader-in-AI-Application-Development-Platforms-Research.aspx)</small>
@@ -40,23 +124,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-18 lethain</small>  
-<small>[2025 in review.](https://lethain.com/2025-in-review/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-18 lethain</small>  
-<small>[Automatically merging dependabot PRs](https://lethain.com/dependabot-auto-merge/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-18 bartwullems</small>  
-<small>[Defending yourself against compromised npm packages](https://bartwullems.blogspot.com/2025/12/defending-yourself-against-compromised.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2025-12-18 tidyfirst</small>  
+<small>[Thinkie: Reinforcing Loop](https://tidyfirst.substack.com/p/thinkie-reinforcing-loop)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-17 visualstudiomagazine</small>  
 <small>[Microsoft Quietly Kills IntelliCode as AI Strategy Shifts to Subscription Copilot](https://visualstudiomagazine.com/Articles/2025/12/17/Microsoft-Quietly-Kills-IntelliCode-as-AI-Strategy-Shifts-to-Copilot.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-17 stackoverflow</small>  
-<small>[The 2025 Stack Overflow and Stack Exchange wrap—our top ten questions of the year!](https://stackoverflow.blog/2025/12/17/the-2025-stack-overflow-and-stack-exchange-wrap/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-17 bartwullems</small>  
-<small>[Understanding your project architecture and how it evolves over time using Gource](https://bartwullems.blogspot.com/2025/12/understanding-your-project-architecture.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
 <small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
@@ -73,84 +145,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 visualstudio</small>  
 <small>[Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
-<small>[Your 2025 Stacked: A year of knowledge, community, and impact](https://stackoverflow.blog/2025/12/16/your-2025-stacked-a-year-of-knowledge-community-and-impact/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-16 andrewlock</small>  
 <small>[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-16 stackoverflow</small>  
-<small>[Live from re:Invent…it’s Stack Overflow!](https://stackoverflow.blog/2025/12/16/live-from-re-invent-it-s-stack-overflow/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-16 bartwullems</small>  
-<small>[Find your line](https://bartwullems.blogspot.com/2025/12/find-your-line.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
 <small>[How Temporal Powers Reliable Cloud Operations at Netflix](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 dotnet</small>  
 <small>[How to Build iOS Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
-<small>[Netflix Live Origin](https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2025-12-15 stackoverflow</small>  
-<small>[At AWS re:Invent, the news was agents, but the focus was developers](https://stackoverflow.blog/2025/12/15/at-aws-re-invent-the-news-was-agents-but-the-focus-was-developers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 visualstudio</small>  
-<small>[Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-15 steven-giesel</small>  
-<small>[One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?](https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-15 bartwullems</small>  
-<small>[Showing custom metrics in Aspire](https://bartwullems.blogspot.com/2025/12/showing-custom-metrics-in-aspire.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-13 pragmaticengineer</small>  
-<small>[The Pulse: Could a 5-day RTO be around the corner for Big Tech?](https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-12 visualstudiomagazine</small>  
-<small>[GitHub Updates Spark, Its AI Prompt-Based App Builder](https://visualstudiomagazine.com/Articles/2025/12/12/GitHub-Updates-Spark-Its-AI-Prompt-Based-App-Builder.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-12 visualstudiomagazine</small>  
-<small>[VS Code 1.107 (November 2025 Update) Expands Multi-Agent Orchestration, Model Management](https://visualstudiomagazine.com/Articles/2025/12/12/VS-Code-1-107-November-2025-Update-Expands-Multi-Agent-Orchestration-Model-Management.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-11 terriblesoftware</small>  
-<small>[AI Can Write Your Code. It Can’t Do Your Job.](https://terriblesoftware.org/2025/12/11/ai-can-write-your-code-it-cant-do-your-job/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-11 martinfowler</small>  
-<small>[Fragments Dec 11](https://martinfowler.com/articles/2025-12-11-frags.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-10 visualstudio</small>  
-<small>[Streamlining your Git workflow with Visual Studio 2026](https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-10 microservices</small>  
-<small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1](http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
-<small>[.NET and .NET Framework December 2025 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-december-2025-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-09 dotnet</small>  
-<small>[Implementing Cross-Platform In-App Billing in .NET MAUI Applications](https://devblogs.microsoft.com/dotnet/cross-platform-billing-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-09 steven-giesel</small>  
-<small>[GitHub Runners might not be a good benchmark baseline](https://steven-giesel.com/blogPost/77f3667e-cf86-4e62-b09f-b32c0aaf58cd)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-09 andrewlock</small>  
-<small>[Trying out the Zed editor on Windows for .NET and Markdown](https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-09 microservices</small>  
-<small>[Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud](http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-08 dotnet</small>  
-<small>[Microsoft Learn MCP Server Elevates Development](https://devblogs.microsoft.com/dotnet/microsoft-learn-mcp-server-elevates-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-07 lethain</small>  
-<small>[Facilitating AI adoption at Imprint](https://lethain.com/company-ai-adoption/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-05 pragmaticengineer</small>  
-<small>[Downdetector and the real cost of no upstream dependencies](https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-04 netflix</small>  
-<small>[AV1 — Now Powering 30% of Netflix Streaming](https://netflixtechblog.com/av1-now-powering-30-of-netflix-streaming-02f592242d80?source=rss----2615bd06b42e---4)</small>
 

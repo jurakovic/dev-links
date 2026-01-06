@@ -1,5 +1,10 @@
 [
   {
+    "title": "Devs Discuss Updating Backend Code from .NET 8 to .NET 10: 'Like a Breeze'",
+    "link": "https://visualstudiomagazine.com/Articles/2026/01/05/Devs-Discuss-Updating-Backend-Code-from-NET-8-to-NET-10-Like-a-Breeze.aspx",
+    "pubDate": "Mon, 05 Jan 2026 20:38:00 GMT"
+  },
+  {
     "title": "C++ Joins C# in Visual Studio's Deep Copilot Tier",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx",
     "pubDate": "Fri, 19 Dec 2025 19:10:00 GMT"
@@ -18,10 +23,5 @@
     "title": "GitHub Updates Spark, Its AI Prompt-Based App Builder",
     "link": "https://visualstudiomagazine.com/Articles/2025/12/12/GitHub-Updates-Spark-Its-AI-Prompt-Based-App-Builder.aspx",
     "pubDate": "Fri, 12 Dec 2025 19:37:00 GMT"
-  },
-  {
-    "title": "VS Code 1.107 (November 2025 Update) Expands Multi-Agent Orchestration, Model Management",
-    "link": "https://visualstudiomagazine.com/Articles/2025/12/12/VS-Code-1-107-November-2025-Update-Expands-Multi-Agent-Orchestration-Model-Management.aspx",
-    "pubDate": "Fri, 12 Dec 2025 18:02:00 GMT"
   }
 ]
