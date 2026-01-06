@@ -1,11 +1,11 @@
-name: Update Posts (dev-news) [Self-hosted]
+name: Update Posts (dev-news) [GitHub-hosted]
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 3/6 * * *' # every 6 hours starting at 3 AM
+    - cron: '0 */6 * * *' # every 6 hours starting at midnight
   workflow_dispatch:
     inputs:
       target_branch:
@@ -19,9 +19,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  update_posts:
+  github-hosted:
     uses: ./.github/workflows/update_posts_shared.yaml
     with:
-      runner: self-hosted
+      runner: ubuntu-latest
       target_branch: ${{ inputs.target_branch || 'dev-news' }}
     secrets: inherit

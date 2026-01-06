@@ -1,4 +1,4 @@
-name: Update Posts (dev-news)
+name: Update Posts (dev-news) [Shared]
 
 permissions:
   contents: write
@@ -14,7 +14,7 @@ on:
         type: string
 
 jobs:
-  build:
+  update_posts:
     runs-on: ${{ inputs.runner || 'ubuntu-latest' }}
     steps:
       - name: Checkout
@@ -53,5 +53,5 @@ jobs:
           if [ $? -eq 0 ]; then echo "No git changes"; exit 0; fi
 
           git commit -m "Update posts"
-          #git push
+          git push
         shell: bash {0}
