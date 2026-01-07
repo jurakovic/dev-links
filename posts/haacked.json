@@ -1,5 +1,10 @@
 [
   {
+    "title": "One Year at PostHog",
+    "link": "https://haacked.com/archive/2026/01/06/one-year-at-posthog/",
+    "pubDate": "2026-01-06T00:00:00+00:00"
+  },
+  {
     "title": "tree-me: Because git worktrees shouldn’t be a chore",
     "link": "https://haacked.com/archive/2025/11/21/tree-me/",
     "pubDate": "2025-11-21T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Using PostHog in your .NET applications",
     "link": "https://haacked.com/archive/2025/02/25/posthog-dotnet-1.0/",
     "pubDate": "2025-02-25T00:00:00+00:00"
-  },
-  {
-    "title": "New Year, New Job",
-    "link": "https://haacked.com/archive/2025/01/07/new-year-new-job/",
-    "pubDate": "2025-01-07T00:00:00+00:00"
   }
 ]

@@ -4,11 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-07 simonwillison</small>  
+<small>[Quoting Robin Sloan](https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-06 simonwillison</small>  
+<small>[A field guide to sandboxes for AI](https://simonwillison.net/2026/Jan/6/a-field-guide-to-sandboxes-for-ai/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-06 stackoverflow</small>  
 <small>[Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-06 bartwullems</small>  
 <small>[Background agents in GitHub Copilot](https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-01-06 haacked</small>  
+<small>[One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-05 visualstudiomagazine</small>  
 <small>[Devs Discuss Updating Backend Code from .NET 8 to .NET 10: 'Like a Breeze'](https://visualstudiomagazine.com/Articles/2026/01/05/Devs-Discuss-Updating-Backend-Code-from-NET-8-to-NET-10-Like-a-Breeze.aspx)</small>
@@ -42,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
 <small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
-<small>[Quoting Addy Osmani](https://simonwillison.net/2026/Jan/4/addy-osmani/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
-<small>[Helping people write code again](https://simonwillison.net/2026/Jan/4/coding-again/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
 <small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 visualstudio</small>  
 <small>[Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-15 steven-giesel</small>  
-<small>[One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?](https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448)</small>
 
