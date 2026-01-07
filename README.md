@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-07 bartwullems</small>  
+<small>[Avoiding truncation errors in Microsoft Fabric Data Warehouse: Understanding UTF‑8, collations, and column lengths](https://bartwullems.blogspot.com/2026/01/avoiding-truncation-errors-in-microsoft.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-07 stackoverflow</small>  
+<small>[You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-07 simonwillison</small>  
 <small>[Quoting Robin Sloan](https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything)</small>
 
@@ -67,9 +73,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building an internal agent: Iterative prompt and skill refinement](https://lethain.com/agents-iterative-refinement/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-01 stackoverflow</small>  
-<small>[Documents: The architect’s programming language](https://stackoverflow.blog/2026/01/01/documents-the-architect-s-programming-language/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-31 dotnet</small>  
 <small>[Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/)</small>
 
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
 <small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2025-12-22 bartwullems</small>  
-<small>[Take a tour along the Microsoft Datacenters](https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-20 antirez</small>  
 <small>[Reflections on AI at the end of 2025](http://antirez.com/news/157)</small>
