@@ -1,10 +1,5 @@
 [
   {
-    "title": "Now everyone can chat on Stack Overflow",
-    "link": "https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/",
-    "pubDate": "Wed, 07 Jan 2026 15:00:00 GMT"
-  },
-  {
     "title": "You need quality engineers to turn AI into ROI",
     "link": "https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/",
     "pubDate": "Wed, 07 Jan 2026 05:40:00 GMT"
@@ -23,5 +18,10 @@
     "title": "A new worst coder has entered the chat: vibe coding without code knowledge",
     "link": "https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/",
     "pubDate": "Fri, 02 Jan 2026 14:43:45 GMT"
+  },
+  {
+    "title": "The most dangerous shortcuts in software",
+    "link": "https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/",
+    "pubDate": "Fri, 02 Jan 2026 08:40:00 GMT"
   }
 ]

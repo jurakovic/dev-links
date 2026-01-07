@@ -4,8 +4,17 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-07 stackoverflow</small>  
-<small>[Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-07 pragmaticengineer</small>  
+<small>[The grief when AI writes most of the code](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-07 dotnet</small>  
+<small>[Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-07 visualstudiomagazine</small>  
+<small>[Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate](https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-07 simonwillison</small>  
+<small>[Quoting Adam Wathan](https://simonwillison.net/2026/Jan/7/adam-wathan/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-07 bartwullems</small>  
 <small>[Avoiding truncation errors in Microsoft Fabric Data Warehouse: Understanding UTF‑8, collations, and column lengths](https://bartwullems.blogspot.com/2026/01/avoiding-truncation-errors-in-microsoft.html)</small>
@@ -55,9 +64,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-05 steven-giesel</small>  
 <small>[.NET Toolbox](https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-04 simonwillison</small>  
-<small>[The November 2025 inflection point](https://simonwillison.net/2026/Jan/4/inflection/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
 <small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
 
@@ -66,6 +72,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
+<small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building internal agents](https://lethain.com/agents-series/)</small>
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
 <small>[How Temporal Powers Reliable Cloud Operations at Netflix](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 dotnet</small>  
-<small>[How to Build iOS Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
-<small>[Netflix Live Origin](https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-15 visualstudio</small>  
-<small>[Behind the scenes of the Visual Studio feedback system](https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/)</small>
 

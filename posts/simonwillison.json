@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Adam Wathan",
+    "link": "https://simonwillison.net/2026/Jan/7/adam-wathan/#atom-everything",
+    "pubDate": "2026-01-07T17:29:29+00:00"
+  },
+  {
     "title": "Quoting Robin Sloan",
     "link": "https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything",
     "pubDate": "2026-01-07T00:54:41+00:00"
@@ -18,10 +23,5 @@
     "title": "Oxide and Friends Predictions 2026, today at 4pm PT",
     "link": "https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything",
     "pubDate": "2026-01-05T16:53:05+00:00"
-  },
-  {
-    "title": "The November 2025 inflection point",
-    "link": "https://simonwillison.net/2026/Jan/4/inflection/#atom-everything",
-    "pubDate": "2026-01-04T23:21:42+00:00"
   }
 ]
