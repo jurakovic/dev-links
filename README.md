@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-07 stackoverflow</small>  
+<small>[Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/07/now-everyone-can-chat-on-stack-overflow/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-07 bartwullems</small>  
 <small>[Avoiding truncation errors in Microsoft Fabric Data Warehouse: Understanding UTF‑8, collations, and column lengths](https://bartwullems.blogspot.com/2026/01/avoiding-truncation-errors-in-microsoft.html)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
-<small>[The most dangerous shortcuts in software](https://stackoverflow.blog/2026/01/02/the-most-dangerous-shortcuts-in-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building internal agents](https://lethain.com/agents-series/)</small>
