@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-08 simonwillison</small>  
+<small>[How Google Got Its Groove Back and Edged Ahead of OpenAI](https://simonwillison.net/2026/Jan/8/how-google-got-its-groove-back/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
+<small>[My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
+<small>[Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-08 terriblesoftware</small>  
+<small>[Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-08 bartwullems</small>  
 <small>[Dependency-Track: Taking control of our software supply chain](https://bartwullems.blogspot.com/2026/01/dependency-track-taking-control-of-our.html)</small>
 
@@ -48,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 dotnet</small>  
 <small>[Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-05 simonwillison</small>  
-<small>[Oxide and Friends Predictions 2026, today at 4pm PT](https://simonwillison.net/2026/Jan/5/oxide-and-friends-predictions-2026/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-05 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/)</small>
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
 <small>[Writing Fragments](https://martinfowler.com/articles/writing-fragments.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 visualstudio</small>  
-<small>[Debugging, but Without the Drama (A Visual Studio 2026 Story)](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-debugging-with-copilot/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2025-12-16 andrewlock</small>  
-<small>[Creating a .NET CLR profiler using C# and NativeAOT with Silhouette](https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2025-12-15 netflix</small>  
-<small>[How Temporal Powers Reliable Cloud Operations at Netflix](https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss----2615bd06b42e---4)</small>
 

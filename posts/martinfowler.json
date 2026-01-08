@@ -1,5 +1,15 @@
 [
   {
+    "title": "My favorite musical discoveries of 2025",
+    "link": "https://martinfowler.com/articles/2025-music.html",
+    "pubDate": "2026-01-08T08:55:00-05:00"
+  },
+  {
+    "title": "Fragments: January  8",
+    "link": "https://martinfowler.com/fragments/2026-01-08.html",
+    "pubDate": "2026-01-08T08:29:00-05:00"
+  },
+  {
     "title": "Fragments: December 16",
     "link": "https://martinfowler.com/fragments/2025-12-16.html",
     "pubDate": "2025-12-16T10:14:00-05:00"
@@ -13,15 +23,5 @@
     "title": "Fragments Dec 11",
     "link": "https://martinfowler.com/articles/2025-12-11-frags.html",
     "pubDate": "2025-12-11T10:17:00-05:00"
-  },
-  {
-    "title": "Fragments Dec 4",
-    "link": "https://martinfowler.com/articles/20251204-frags.html",
-    "pubDate": "2025-12-04T10:59:00-05:00"
-  },
-  {
-    "title": "Fragments Nov 19",
-    "link": "https://martinfowler.com/articles/2025-11-19-frags.html",
-    "pubDate": "2025-11-19T14:02:00-05:00"
   }
 ]
