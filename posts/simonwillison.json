@@ -1,5 +1,10 @@
 [
   {
+    "title": "LLM predictions for 2026, shared with Oxide and Friends",
+    "link": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything",
+    "pubDate": "2026-01-08T19:42:13+00:00"
+  },
+  {
     "title": "How Google Got Its Groove Back and Edged Ahead of OpenAI",
     "link": "https://simonwillison.net/2026/Jan/8/how-google-got-its-groove-back/#atom-everything",
     "pubDate": "2026-01-08T15:32:08+00:00"
@@ -18,10 +23,5 @@
     "title": "A field guide to sandboxes for AI",
     "link": "https://simonwillison.net/2026/Jan/6/a-field-guide-to-sandboxes-for-ai/#atom-everything",
     "pubDate": "2026-01-06T22:38:00+00:00"
-  },
-  {
-    "title": "It’s hard to justify Tahoe icons",
-    "link": "https://simonwillison.net/2026/Jan/5/its-hard-to-justify-tahoe-icons/#atom-everything",
-    "pubDate": "2026-01-05T19:30:24+00:00"
   }
 ]
