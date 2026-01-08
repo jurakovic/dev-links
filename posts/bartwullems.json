@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dependency-Track: Taking control of our software supply chain",
+    "link": "https://bartwullems.blogspot.com/2026/01/dependency-track-taking-control-of-our.html",
+    "pubDate": "2026-01-08T08:17:00.002+01:00"
+  },
+  {
     "title": "Avoiding truncation errors in Microsoft Fabric Data Warehouse: Understanding UTF‑8, collations, and column lengths",
     "link": "https://bartwullems.blogspot.com/2026/01/avoiding-truncation-errors-in-microsoft.html",
     "pubDate": "2026-01-07T09:19:00.001+01:00"
@@ -18,10 +23,5 @@
     "title": "Why you can't have a ‘work self’ and a ‘home self’",
     "link": "https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html",
     "pubDate": "2025-12-24T07:39:00.012+01:00"
-  },
-  {
-    "title": "Gain insights in your software supply chain using GitHub’s Dependency Graph",
-    "link": "https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html",
-    "pubDate": "2025-12-23T07:37:00.000+01:00"
   }
 ]
