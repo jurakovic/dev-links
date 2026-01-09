@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-01-09 ardalis</small>  
+<small>[Why a Free Market Fire Department System Beats the Archaic Public Model](https://ardalis.com/why-a-free-market-fire-department-systems-beats-the-archaic-public-model/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-09 bartwullems</small>  
 <small>[Setting Up Dependency-Track on Azure Container Apps](https://bartwullems.blogspot.com/2026/01/setting-up-dependency-track-on-azure.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
 <small>[Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
-<small>[Writing Fragments](https://martinfowler.com/articles/writing-fragments.html)</small>
 
