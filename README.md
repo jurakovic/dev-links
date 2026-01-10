@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
+<small>[Sharing Claude transcripts.](https://lethain.com/sharing-claude-transcripts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
+<small>[Moved newsletter from Mailchimp to Buttondown.](https://lethain.com/newsletter-mailchimp-to-buttondown/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-09 simonwillison</small>  
 <small>[Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything)</small>
 
@@ -108,12 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
 <small>[Building an internal agent: Subagent support](https://lethain.com/agents-subagents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
-<small>[Building an internal agent: Code-driven vs LLM-driven workflows](https://lethain.com/agents-coordinators/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
-<small>[Building an internal agent: Logging and debugability](https://lethain.com/agents-logging/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2025-12-31 jonskeet</small>  
 <small>[Changing Immutable Collections](https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/)</small>
