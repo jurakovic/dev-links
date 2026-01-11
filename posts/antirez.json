@@ -1,5 +1,10 @@
 [
   {
+    "title": "Don't fall into the anti-AI hype",
+    "link": "http://antirez.com/news/158",
+    "pubDate": "Sun, 11 Jan 2026 10:15:51 +0000"
+  },
+  {
     "title": "Reflections on AI at the end of 2025",
     "link": "http://antirez.com/news/157",
     "pubDate": "Sat, 20 Dec 2025 08:58:29 +0000"
@@ -18,10 +23,5 @@
     "title": "Coding with LLMs in the summer of 2025 (an update)",
     "link": "http://antirez.com/news/154",
     "pubDate": "Sun, 20 Jul 2025 10:58:54 +0000"
-  },
-  {
-    "title": "Human coders are still better than LLMs",
-    "link": "http://antirez.com/news/153",
-    "pubDate": "Thu, 29 May 2025 16:34:51 +0000"
   }
 ]

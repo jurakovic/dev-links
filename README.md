@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-11 antirez</small>  
+<small>[Don't fall into the anti-AI hype](http://antirez.com/news/158)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
 <small>[Quoting Linus Torvalds](https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 dotnet</small>  
 <small>[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2025-12-16 martinfowler</small>  
-<small>[Fragments: December 16](https://martinfowler.com/fragments/2025-12-16.html)</small>
 
