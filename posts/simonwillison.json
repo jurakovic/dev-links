@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Linus Torvalds",
+    "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
+    "pubDate": "2026-01-11T02:29:58+00:00"
+  },
+  {
+    "title": "A Software Library with No Code",
+    "link": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything",
+    "pubDate": "2026-01-10T23:41:58+00:00"
+  },
+  {
     "title": "Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
     "link": "https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything",
     "pubDate": "2026-01-09T23:57:12+00:00"
@@ -13,15 +23,5 @@
     "title": "How Google Got Its Groove Back and Edged Ahead of OpenAI",
     "link": "https://simonwillison.net/2026/Jan/8/how-google-got-its-groove-back/#atom-everything",
     "pubDate": "2026-01-08T15:32:08+00:00"
-  },
-  {
-    "title": "Quoting Adam Wathan",
-    "link": "https://simonwillison.net/2026/Jan/7/adam-wathan/#atom-everything",
-    "pubDate": "2026-01-07T17:29:29+00:00"
-  },
-  {
-    "title": "Quoting Robin Sloan",
-    "link": "https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything",
-    "pubDate": "2026-01-07T00:54:41+00:00"
   }
 ]

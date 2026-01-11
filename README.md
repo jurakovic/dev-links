@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
+<small>[Quoting Linus Torvalds](https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-10 simonwillison</small>  
+<small>[A Software Library with No Code](https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
 <small>[Sharing Claude transcripts.](https://lethain.com/sharing-claude-transcripts/)</small>
 
@@ -52,17 +58,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-07 visualstudiomagazine</small>  
 <small>[Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate](https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-07 simonwillison</small>  
-<small>[Quoting Adam Wathan](https://simonwillison.net/2026/Jan/7/adam-wathan/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-07 bartwullems</small>  
 <small>[Avoiding truncation errors in Microsoft Fabric Data Warehouse: Understanding UTF‑8, collations, and column lengths](https://bartwullems.blogspot.com/2026/01/avoiding-truncation-errors-in-microsoft.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-07 stackoverflow</small>  
 <small>[You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-07 simonwillison</small>  
-<small>[Quoting Robin Sloan](https://simonwillison.net/2026/Jan/7/robin-sloan/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-06 stackoverflow</small>  
 <small>[Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/)</small>
