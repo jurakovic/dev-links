@@ -1,5 +1,10 @@
 [
   {
+    "title": "Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication",
+    "link": "https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html",
+    "pubDate": "2026-01-12T07:07:00.016+01:00"
+  },
+  {
     "title": "Setting Up Dependency-Track on Azure Container Apps",
     "link": "https://bartwullems.blogspot.com/2026/01/setting-up-dependency-track-on-azure.html",
     "pubDate": "2026-01-09T10:30:00.027+01:00"
@@ -18,10 +23,5 @@
     "title": "Background agents in GitHub Copilot",
     "link": "https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html",
     "pubDate": "2026-01-06T06:35:00.018+01:00"
-  },
-  {
-    "title": "Automate your full development process with handoffs",
-    "link": "https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html",
-    "pubDate": "2026-01-05T07:00:00.030+01:00"
   }
 ]

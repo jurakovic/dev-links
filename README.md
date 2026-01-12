@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-12 bartwullems</small>  
+<small>[Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication](https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-12 steven-giesel</small>  
+<small>[Collection Expression Arguments in C# 15+](https://steven-giesel.com/blogPost/352fe495-9cc4-4df8-8ad1-a3e26a64185c)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
 <small>[Don't fall into the anti-AI hype](https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything)</small>
 
@@ -91,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-05 terriblesoftware</small>  
 <small>[Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-05 bartwullems</small>  
-<small>[Automate your full development process with handoffs](https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-05 steven-giesel</small>  
 <small>[.NET Toolbox](https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
 <small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-16 dotnet</small>  
-<small>[Microsoft.Testing.Platform Now Fully Supported in Azure DevOps](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/)</small>
 
