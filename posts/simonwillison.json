@@ -1,5 +1,15 @@
 [
   {
+    "title": "Don't fall into the anti-AI hype",
+    "link": "https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything",
+    "pubDate": "2026-01-11T23:58:43+00:00"
+  },
+  {
+    "title": "My answers to the questions I posed about porting open source code with LLMs",
+    "link": "https://simonwillison.net/2026/Jan/11/answers/#atom-everything",
+    "pubDate": "2026-01-11T22:59:23+00:00"
+  },
+  {
     "title": "Quoting Linus Torvalds",
     "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
     "pubDate": "2026-01-11T02:29:58+00:00"
@@ -13,15 +23,5 @@
     "title": "Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
     "link": "https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything",
     "pubDate": "2026-01-09T23:57:12+00:00"
-  },
-  {
-    "title": "LLM predictions for 2026, shared with Oxide and Friends",
-    "link": "https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything",
-    "pubDate": "2026-01-08T19:42:13+00:00"
-  },
-  {
-    "title": "How Google Got Its Groove Back and Edged Ahead of OpenAI",
-    "link": "https://simonwillison.net/2026/Jan/8/how-google-got-its-groove-back/#atom-everything",
-    "pubDate": "2026-01-08T15:32:08+00:00"
   }
 ]

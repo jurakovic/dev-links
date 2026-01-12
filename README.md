@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
+<small>[Don't fall into the anti-AI hype](https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
+<small>[My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-11 antirez</small>  
 <small>[Don't fall into the anti-AI hype](http://antirez.com/news/158)</small>
 
@@ -31,14 +37,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-09 stackoverflow</small>  
 <small>[Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-08 simonwillison</small>  
-<small>[LLM predictions for 2026, shared with Oxide and Friends](https://simonwillison.net/2026/Jan/8/llm-predictions-for-2026/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-08 visualstudiomagazine</small>  
 <small>[C# Grabs Language of the Year, TIOBE Predicts TypeScript Rise](https://visualstudiomagazine.com/Articles/2026/01/08/Csharp-Grabs-Language-of-the-Year-TIOBE-Predicts-TypeScript-Rise.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-08 simonwillison</small>  
-<small>[How Google Got Its Groove Back and Edged Ahead of OpenAI](https://simonwillison.net/2026/Jan/8/how-google-got-its-groove-back/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
 <small>[My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)</small>
