@@ -1,5 +1,10 @@
 [
   {
+    "title": "First impressions of Claude Cowork, Anthropic's general agent",
+    "link": "https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything",
+    "pubDate": "2026-01-12T21:46:13+00:00"
+  },
+  {
     "title": "Don't fall into the anti-AI hype",
     "link": "https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything",
     "pubDate": "2026-01-11T23:58:43+00:00"
@@ -18,10 +23,5 @@
     "title": "A Software Library with No Code",
     "link": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything",
     "pubDate": "2026-01-10T23:41:58+00:00"
-  },
-  {
-    "title": "Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time",
-    "link": "https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything",
-    "pubDate": "2026-01-09T23:57:12+00:00"
   }
 ]

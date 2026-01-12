@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-12 simonwillison</small>  
+<small>[First impressions of Claude Cowork, Anthropic's general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-12 stackoverflow</small>  
+<small>[Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
+<small>[How to Build Android Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
+<small>[How We Synchronize .NET’s Virtual Monorepo](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-12 bartwullems</small>  
 <small>[Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication](https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html)</small>
 
@@ -30,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
 <small>[Moved newsletter from Mailchimp to Buttondown.](https://lethain.com/newsletter-mailchimp-to-buttondown/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-09 simonwillison</small>  
-<small>[Fly's new Sprites.dev addresses both developer sandboxes and API sandboxes at the same time](https://simonwillison.net/2026/Jan/9/sprites-dev/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-01-09 ardalis</small>  
 <small>[Why a Free Market Fire Department System Beats the Archaic Public Model](https://ardalis.com/why-a-free-market-fire-department-systems-beats-the-archaic-public-model/)</small>
@@ -103,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
 <small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-02 stackoverflow</small>  
-<small>[A new worst coder has entered the chat: vibe coding without code knowledge](https://stackoverflow.blog/2026/01/02/a-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
 
@@ -123,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2025-12-31 jonskeet</small>  
 <small>[Changing Immutable Collections](https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-30 dotnet</small>  
-<small>[Top .NET Blog Posts of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-29 terriblesoftware</small>  
 <small>[A Year of Writing for Myself (That 230,000+ People Read)](https://terriblesoftware.org/2025/12/29/a-year-of-writing-for-myself-that-230000-people-read/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2025-12-17 minidump</small>  
-<small>[Investigating a deadlock in Visual Studio](https://minidump.net/investigating-a-deadlock-in-visual-studio/)</small>
 

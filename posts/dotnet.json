@@ -1,5 +1,15 @@
 [
   {
+    "title": "How to Build Android Widgets with .NET MAUI",
+    "link": "https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/",
+    "pubDate": "Mon, 12 Jan 2026 18:05:00 +0000"
+  },
+  {
+    "title": "How We Synchronize .NET’s Virtual Monorepo",
+    "link": "https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/",
+    "pubDate": "Mon, 12 Jan 2026 17:00:00 +0000"
+  },
+  {
     "title": "Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider",
     "link": "https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/",
     "pubDate": "Wed, 07 Jan 2026 18:05:00 +0000"
@@ -13,15 +23,5 @@
     "title": "Top .NET Videos & Live Streams of 2025",
     "link": "https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/",
     "pubDate": "Wed, 31 Dec 2025 18:05:00 +0000"
-  },
-  {
-    "title": "Top .NET Blog Posts of 2025",
-    "link": "https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/",
-    "pubDate": "Tue, 30 Dec 2025 18:05:00 +0000"
-  },
-  {
-    "title": "Microsoft.Testing.Platform Now Fully Supported in Azure DevOps",
-    "link": "https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/",
-    "pubDate": "Tue, 16 Dec 2025 18:05:00 +0000"
   }
 ]
