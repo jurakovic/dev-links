@@ -1,5 +1,10 @@
 [
   {
+    "title": "On the duality of GenAI-based development tools",
+    "link": "http://microservices.io//post/architecture/2026/01/12/on-the-duality-of-genai-based-development-tools.html",
+    "pubDate": "Mon, 12 Jan 2026 08:03:00 +0000"
+  },
+  {
     "title": "Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1",
     "link": "http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html",
     "pubDate": "Wed, 10 Dec 2025 10:00:00 +0000"
@@ -18,10 +23,5 @@
     "title": "SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow",
     "link": "http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html",
     "pubDate": "Sat, 29 Nov 2025 08:02:00 +0000"
-  },
-  {
-    "title": "QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns",
-    "link": "http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html",
-    "pubDate": "Sun, 23 Nov 2025 08:05:00 +0000"
   }
 ]

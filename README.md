@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-12 visualstudiomagazine</small>  
+<small>[VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center](https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-12 simonwillison</small>  
+<small>[Superhuman AI Exfiltrates Emails](https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-12 simonwillison</small>  
 <small>[First impressions of Claude Cowork, Anthropic's general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything)</small>
 
@@ -15,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
 <small>[How We Synchronize .NET’s Virtual Monorepo](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-12 microservices</small>  
+<small>[On the duality of GenAI-based development tools](http://microservices.io//post/architecture/2026/01/12/on-the-duality-of-genai-based-development-tools.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-12 bartwullems</small>  
 <small>[Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication](https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html)</small>
@@ -28,14 +37,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
 <small>[My answers to the questions I posed about porting open source code with LLMs](https://simonwillison.net/2026/Jan/11/answers/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
+<small>[TIL from taking Neon I at the Crucible](https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-11 antirez</small>  
 <small>[Don't fall into the anti-AI hype](http://antirez.com/news/158)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-11 simonwillison</small>  
-<small>[Quoting Linus Torvalds](https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-10 simonwillison</small>  
-<small>[A Software Library with No Code](https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
 <small>[Sharing Claude transcripts.](https://lethain.com/sharing-claude-transcripts/)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
 <small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-18 visualstudiomagazine</small>  
-<small>[Microsoft Again Named a Leader in AI AppDev Platforms Research](https://visualstudiomagazine.com/Articles/2025/12/18/Microsoft-Again-Named-a-Leader-in-AI-Application-Development-Platforms-Research.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2025-12-18 pragmaticengineer</small>  
-<small>[The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)](https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Superhuman AI Exfiltrates Emails",
+    "link": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything",
+    "pubDate": "2026-01-12T22:24:54+00:00"
+  },
+  {
     "title": "First impressions of Claude Cowork, Anthropic's general agent",
     "link": "https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything",
     "pubDate": "2026-01-12T21:46:13+00:00"
@@ -15,13 +20,8 @@
     "pubDate": "2026-01-11T22:59:23+00:00"
   },
   {
-    "title": "Quoting Linus Torvalds",
-    "link": "https://simonwillison.net/2026/Jan/11/linus-torvalds/#atom-everything",
-    "pubDate": "2026-01-11T02:29:58+00:00"
-  },
-  {
-    "title": "A Software Library with No Code",
-    "link": "https://simonwillison.net/2026/Jan/10/a-software-library-with-no-code/#atom-everything",
-    "pubDate": "2026-01-10T23:41:58+00:00"
+    "title": "TIL from taking Neon I at the Crucible",
+    "link": "https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything",
+    "pubDate": "2026-01-11T17:35:57+00:00"
   }
 ]
