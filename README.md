@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-13 dotnet</small>  
+<small>[.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-13 martinfowler</small>  
 <small>[Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization](https://martinfowler.com/articles/stop-picking-sides.html)</small>
 
@@ -132,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building an internal agent: Iterative prompt and skill refinement](https://lethain.com/agents-iterative-refinement/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-31 dotnet</small>  
-<small>[Top .NET Videos & Live Streams of 2025](https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
 <small>[Building an internal agent: Subagent support](https://lethain.com/agents-subagents/)</small>
