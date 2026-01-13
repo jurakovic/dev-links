@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-13 andrewlock</small>  
+<small>[The Windows File Explorer replacement, File Pilot, is awesome](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-13 stackoverflow</small>  
+<small>[Vibe code anything in a Hanselminute](https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-13 bartwullems</small>  
+<small>[Integrating Dependency-Track into Azure DevOps Pipelines](https://bartwullems.blogspot.com/2026/01/integrating-dependency-track-into-azure.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-12 visualstudiomagazine</small>  
 <small>[VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center](https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx)</small>
 
@@ -91,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-06 stackoverflow</small>  
 <small>[Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-06 bartwullems</small>  
-<small>[Background agents in GitHub Copilot](https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-01-06 haacked</small>  
 <small>[One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/)</small>
 
@@ -102,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 dotnet</small>  
 <small>[Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-05 stackoverflow</small>  
-<small>[What’s new at Stack Overflow: January 2026](https://stackoverflow.blog/2026/01/05/what-s-new-at-stack-overflow-january-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 visualstudio</small>  
 <small>[Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2025-12-19 visualstudiomagazine</small>  
 <small>[C++ Joins C# in Visual Studio's Deep Copilot Tier](https://visualstudiomagazine.com/Articles/2025/12/19/Cpp-Joins-Csharp-in-Visual-Studios-Deep-Copilot-Tier.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-19 terriblesoftware</small>  
-<small>[The Strange Case of Engineers Who Dismiss AI](https://terriblesoftware.org/2025/12/19/the-strange-case-of-engineers-who-dismiss-ai/)</small>
 
