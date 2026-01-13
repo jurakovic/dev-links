@@ -1,5 +1,10 @@
 [
   {
+    "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
+    "link": "https://martinfowler.com/articles/stop-picking-sides.html",
+    "pubDate": "2026-01-13T14:59:00+00:00"
+  },
+  {
     "title": "My favorite musical discoveries of 2025",
     "link": "https://martinfowler.com/articles/2025-music.html",
     "pubDate": "2026-01-08T08:55:00-05:00"
@@ -18,10 +23,5 @@
     "title": "Writing Fragments",
     "link": "https://martinfowler.com/articles/writing-fragments.html",
     "pubDate": "2025-12-16T10:06:00-05:00"
-  },
-  {
-    "title": "Fragments Dec 11",
-    "link": "https://martinfowler.com/articles/2025-12-11-frags.html",
-    "pubDate": "2025-12-11T10:17:00-05:00"
   }
 ]
