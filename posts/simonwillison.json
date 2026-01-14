@@ -1,5 +1,10 @@
 [
   {
+    "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
+    "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
+    "pubDate": "2026-01-13T23:58:17+00:00"
+  },
+  {
     "title": "Superhuman AI Exfiltrates Emails",
     "link": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything",
     "pubDate": "2026-01-12T22:24:54+00:00"
@@ -18,10 +23,5 @@
     "title": "My answers to the questions I posed about porting open source code with LLMs",
     "link": "https://simonwillison.net/2026/Jan/11/answers/#atom-everything",
     "pubDate": "2026-01-11T22:59:23+00:00"
-  },
-  {
-    "title": "TIL from taking Neon I at the Crucible",
-    "link": "https://simonwillison.net/2026/Jan/11/neon-i-at-the-crucible/#atom-everything",
-    "pubDate": "2026-01-11T17:35:57+00:00"
   }
 ]
