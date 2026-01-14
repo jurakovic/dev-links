@@ -1,5 +1,15 @@
 [
   {
+    "title": "If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape",
+    "link": "https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/",
+    "pubDate": "Wed, 14 Jan 2026 17:00:00 GMT"
+  },
+  {
+    "title": "8 lessons from tech leadership on scaling teams and AI",
+    "link": "https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/",
+    "pubDate": "Wed, 14 Jan 2026 17:00:00 GMT"
+  },
+  {
     "title": "Vibe code anything in a Hanselminute",
     "link": "https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/",
     "pubDate": "Tue, 13 Jan 2026 08:40:00 GMT"
@@ -13,15 +23,5 @@
     "title": "Every ecommerce hero needs a Sidekick",
     "link": "https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/",
     "pubDate": "Fri, 09 Jan 2026 08:40:00 GMT"
-  },
-  {
-    "title": "You need quality engineers to turn AI into ROI",
-    "link": "https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/",
-    "pubDate": "Wed, 07 Jan 2026 05:40:00 GMT"
-  },
-  {
-    "title": "Search engine bots crawled so AI bots could run",
-    "link": "https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/",
-    "pubDate": "Tue, 06 Jan 2026 08:40:00 GMT"
   }
 ]

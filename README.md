@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-14 stackoverflow</small>  
+<small>[If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-14 stackoverflow</small>  
+<small>[8 lessons from tech leadership on scaling teams and AI](https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-14 bartwullems</small>  
-<small>[Structuring Projects in Dependency-Track: A Practical Guide](https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html)</small>
+<small>[Structuring Projects in Dependency-Track](https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-13 simonwillison</small>  
 <small>[Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything)</small>
@@ -99,12 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-07 visualstudiomagazine</small>  
 <small>[Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate](https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-07 stackoverflow</small>  
-<small>[You need quality engineers to turn AI into ROI](https://stackoverflow.blog/2026/01/07/you-need-quality-engineers-to-turn-ai-into-roi/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-06 stackoverflow</small>  
-<small>[Search engine bots crawled so AI bots could run](https://stackoverflow.blog/2026/01/06/search-engine-bots-crawled-so-ai-bots-could-run/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-01-06 haacked</small>  
 <small>[One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/)</small>
