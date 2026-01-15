@@ -1,5 +1,10 @@
 [
   {
+    "title": "Understanding Microsoft Fabric Capacity and Throttling–A first attempt",
+    "link": "https://bartwullems.blogspot.com/2026/01/understanding-microsoft-fabric-capacity.html",
+    "pubDate": "2026-01-15T07:48:00.030+01:00"
+  },
+  {
     "title": "Structuring Projects in Dependency-Track",
     "link": "https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html",
     "pubDate": "2026-01-14T09:11:00.029+01:00"
@@ -18,10 +23,5 @@
     "title": "Setting Up Dependency-Track on Azure Container Apps",
     "link": "https://bartwullems.blogspot.com/2026/01/setting-up-dependency-track-on-azure.html",
     "pubDate": "2026-01-09T10:30:00.027+01:00"
-  },
-  {
-    "title": "Dependency-Track: Taking control of our software supply chain",
-    "link": "https://bartwullems.blogspot.com/2026/01/dependency-track-taking-control-of-our.html",
-    "pubDate": "2026-01-08T08:17:00.002+01:00"
   }
 ]

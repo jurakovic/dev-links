@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
+<small>[Transforming enterprise workflows: How IBM is unlocking AI's potential](https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-15 bartwullems</small>  
+<small>[Understanding Microsoft Fabric Capacity and Throttling–A first attempt](https://bartwullems.blogspot.com/2026/01/understanding-microsoft-fabric-capacity.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
 <small>[Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar](https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything)</small>
 
@@ -79,9 +85,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-09 bartwullems</small>  
 <small>[Setting Up Dependency-Track on Azure Container Apps](https://bartwullems.blogspot.com/2026/01/setting-up-dependency-track-on-azure.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-09 stackoverflow</small>  
-<small>[Every ecommerce hero needs a Sidekick](https://stackoverflow.blog/2026/01/09/every-ecommerce-hero-needs-a-sidekick/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-08 visualstudiomagazine</small>  
 <small>[C# Grabs Language of the Year, TIOBE Predicts TypeScript Rise](https://visualstudiomagazine.com/Articles/2026/01/08/Csharp-Grabs-Language-of-the-Year-TIOBE-Predicts-TypeScript-Rise.aspx)</small>
 
@@ -93,9 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-08 terriblesoftware</small>  
 <small>[Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-08 bartwullems</small>  
-<small>[Dependency-Track: Taking control of our software supply chain](https://bartwullems.blogspot.com/2026/01/dependency-track-taking-control-of-our.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-07 pragmaticengineer</small>  
 <small>[The grief when AI writes most of the code](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/)</small>
