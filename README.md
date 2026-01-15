@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
+<small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
 <small>[The Design & Implementation of Sprites](https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2025-12-28 steven-giesel</small>  
 <small>[Task.Delay fails if you wait longer than 49.7 days](https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
-<small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
 
