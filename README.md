@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
+<small>[The Design & Implementation of Sprites](https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
+<small>[How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-15 visualstudio</small>  
+<small>[Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
 <small>[Transforming enterprise workflows: How IBM is unlocking AI's potential](https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/)</small>
 
@@ -48,12 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-12 simonwillison</small>  
 <small>[Superhuman AI Exfiltrates Emails](https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-12 simonwillison</small>  
-<small>[First impressions of Claude Cowork, Anthropic's general agent](https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-12 stackoverflow</small>  
-<small>[Now everyone can chat on Stack Overflow](https://stackoverflow.blog/2026/01/12/now-everyone-can-chat-on-stack-overflow/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
 <small>[How to Build Android Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2025-12-22 visualstudio</small>  
 <small>[How AI fixed my procrastination](https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2025-12-20 antirez</small>  
-<small>[Reflections on AI at the end of 2025](http://antirez.com/news/157)</small>
 

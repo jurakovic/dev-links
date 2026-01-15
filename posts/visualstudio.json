@@ -1,5 +1,10 @@
 [
   {
+    "title": "Copilot Memories",
+    "link": "https://devblogs.microsoft.com/visualstudio/copilot-memories/",
+    "pubDate": "Thu, 15 Jan 2026 13:00:33 +0000"
+  },
+  {
     "title": "Welcome to 2026, A Growth Year for All of Us",
     "link": "https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/",
     "pubDate": "Mon, 05 Jan 2026 14:29:43 +0000"
@@ -18,10 +23,5 @@
     "title": "Behind the scenes of the Visual Studio feedback system",
     "link": "https://devblogs.microsoft.com/visualstudio/behind-the-scenes-of-the-visual-studio-feedback-system/",
     "pubDate": "Mon, 15 Dec 2025 15:00:33 +0000"
-  },
-  {
-    "title": "Streamlining your Git workflow with Visual Studio 2026",
-    "link": "https://devblogs.microsoft.com/visualstudio/streamlining-your-git-workflow-with-visual-studio-2026/",
-    "pubDate": "Wed, 10 Dec 2025 15:00:47 +0000"
   }
 ]
