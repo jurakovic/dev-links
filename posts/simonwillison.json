@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar",
+    "link": "https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything",
+    "pubDate": "2026-01-15T00:56:27+00:00"
+  },
+  {
+    "title": "Claude Cowork Exfiltrates Files",
+    "link": "https://simonwillison.net/2026/Jan/14/claude-cowork-exfiltrates-files/#atom-everything",
+    "pubDate": "2026-01-14T22:15:22+00:00"
+  },
+  {
     "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
     "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
     "pubDate": "2026-01-13T23:58:17+00:00"
@@ -13,15 +23,5 @@
     "title": "First impressions of Claude Cowork, Anthropic's general agent",
     "link": "https://simonwillison.net/2026/Jan/12/claude-cowork/#atom-everything",
     "pubDate": "2026-01-12T21:46:13+00:00"
-  },
-  {
-    "title": "Don't fall into the anti-AI hype",
-    "link": "https://simonwillison.net/2026/Jan/11/dont-fall-into-the-anti-ai-hype/#atom-everything",
-    "pubDate": "2026-01-11T23:58:43+00:00"
-  },
-  {
-    "title": "My answers to the questions I posed about porting open source code with LLMs",
-    "link": "https://simonwillison.net/2026/Jan/11/answers/#atom-everything",
-    "pubDate": "2026-01-11T22:59:23+00:00"
   }
 ]
