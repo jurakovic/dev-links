@@ -1,5 +1,10 @@
 [
   {
+    "title": "How AWS re:Invented the cloud",
+    "link": "https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/",
+    "pubDate": "Fri, 16 Jan 2026 08:40:00 GMT"
+  },
+  {
     "title": "How Stack Overflow is taking on spam and bad actors",
     "link": "https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/",
     "pubDate": "Thu, 15 Jan 2026 15:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "8 lessons from tech leadership on scaling teams and AI",
     "link": "https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/",
     "pubDate": "Wed, 14 Jan 2026 17:00:00 GMT"
-  },
-  {
-    "title": "Vibe code anything in a Hanselminute",
-    "link": "https://stackoverflow.blog/2026/01/13/vibe-code-anything-in-a-hanselminute/",
-    "pubDate": "Tue, 13 Jan 2026 08:40:00 GMT"
   }
 ]
