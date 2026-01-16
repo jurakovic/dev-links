@@ -1,5 +1,10 @@
 [
   {
+    "title": "Open Responses",
+    "link": "https://simonwillison.net/2026/Jan/15/open-responses/#atom-everything",
+    "pubDate": "2026-01-15T23:56:56+00:00"
+  },
+  {
     "title": "The Design & Implementation of Sprites",
     "link": "https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything",
     "pubDate": "2026-01-15T16:08:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
     "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
     "pubDate": "2026-01-13T23:58:17+00:00"
-  },
-  {
-    "title": "Superhuman AI Exfiltrates Emails",
-    "link": "https://simonwillison.net/2026/Jan/12/superhuman-ai-exfiltrates-emails/#atom-everything",
-    "pubDate": "2026-01-12T22:24:54+00:00"
   }
 ]
