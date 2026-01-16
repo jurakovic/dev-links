@@ -1,5 +1,10 @@
 [
   {
+    "title": "Our approach to advertising and expanding access to ChatGPT",
+    "link": "https://simonwillison.net/2026/Jan/16/chatgpt-ads/#atom-everything",
+    "pubDate": "2026-01-16T21:28:26+00:00"
+  },
+  {
     "title": "Open Responses",
     "link": "https://simonwillison.net/2026/Jan/15/open-responses/#atom-everything",
     "pubDate": "2026-01-15T23:56:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude Cowork Exfiltrates Files",
     "link": "https://simonwillison.net/2026/Jan/14/claude-cowork-exfiltrates-files/#atom-everything",
     "pubDate": "2026-01-14T22:15:22+00:00"
-  },
-  {
-    "title": "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
-    "link": "https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything",
-    "pubDate": "2026-01-13T23:58:17+00:00"
   }
 ]

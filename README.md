@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-16 simonwillison</small>  
+<small>[Our approach to advertising and expanding access to ChatGPT](https://simonwillison.net/2026/Jan/16/chatgpt-ads/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-16 stackoverflow</small>  
 <small>[How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/)</small>
 
@@ -48,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-14 bartwullems</small>  
 <small>[Structuring Projects in Dependency-Track](https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-13 simonwillison</small>  
-<small>[Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://simonwillison.net/2026/Jan/13/anthropic-invests-15-million-in-the-python-software-foundation-a/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-13 dotnet</small>  
 <small>[.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/)</small>
