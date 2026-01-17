@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-17 simonwillison</small>  
+<small>[Quoting Jeremy Daer](https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-17 jonskeet</small>  
 <small>[Election 2029: Models and Reality](https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
 <small>[Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar](https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-14 simonwillison</small>  
-<small>[Claude Cowork Exfiltrates Files](https://simonwillison.net/2026/Jan/14/claude-cowork-exfiltrates-files/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-14 stackoverflow</small>  
 <small>[If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/)</small>
