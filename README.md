@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-17 jonskeet</small>  
+<small>[Election 2029: Models and Reality](https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-16 simonwillison</small>  
 <small>[Our approach to advertising and expanding access to ChatGPT](https://simonwillison.net/2026/Jan/16/chatgpt-ads/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2025-12-31 jonskeet</small>  
 <small>[Changing Immutable Collections](https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2025-12-29 terriblesoftware</small>  
-<small>[A Year of Writing for Myself (That 230,000+ People Read)](https://terriblesoftware.org/2025/12/29/a-year-of-writing-for-myself-that-230000-people-read/)</small>
 
