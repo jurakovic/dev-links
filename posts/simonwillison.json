@@ -1,5 +1,10 @@
 [
   {
+    "title": "FLUX.2-klein-4B Pure C Implementation",
+    "link": "https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything",
+    "pubDate": "2026-01-18T23:58:58+00:00"
+  },
+  {
     "title": "Quoting Jeremy Daer",
     "link": "https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything",
     "pubDate": "2026-01-17T17:06:41+00:00"
@@ -18,10 +23,5 @@
     "title": "The Design & Implementation of Sprites",
     "link": "https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything",
     "pubDate": "2026-01-15T16:08:27+00:00"
-  },
-  {
-    "title": "Quoting Boaz Barak, Gabriel Wu, Jeremy Chen and Manas Joglekar",
-    "link": "https://simonwillison.net/2026/Jan/15/boaz-barak-gabriel-wu-jeremy-chen-and-manas-joglekar/#atom-everything",
-    "pubDate": "2026-01-15T00:56:27+00:00"
   }
 ]
