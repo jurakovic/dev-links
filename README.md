@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-19 bartwullems</small>  
+<small>[Help! Copilot is eating my Fabric capacity.](https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
+<small>[Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-18 simonwillison</small>  
 <small>[FLUX.2-klein-4B Pure C Implementation](https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
-<small>[The Design & Implementation of Sprites](https://simonwillison.net/2026/Jan/15/the-design-implementation-of-sprites/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
 <small>[How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/)</small>
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-12 microservices</small>  
 <small>[On the duality of GenAI-based development tools](http://microservices.io//post/architecture/2026/01/12/on-the-duality-of-genai-based-development-tools.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-12 bartwullems</small>  
-<small>[Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication](https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-12 steven-giesel</small>  
 <small>[Collection Expression Arguments in C# 15+](https://steven-giesel.com/blogPost/352fe495-9cc4-4df8-8ad1-a3e26a64185c)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Help! Copilot is eating my Fabric capacity.",
+    "link": "https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html",
+    "pubDate": "2026-01-19T08:30:00.018+01:00"
+  },
+  {
     "title": "Azure DevOps( Server) –Check repository health and usage",
     "link": "https://bartwullems.blogspot.com/2026/01/azure-devops-server-check-repository.html",
     "pubDate": "2026-01-16T06:56:00.013+01:00"
@@ -18,10 +23,5 @@
     "title": "Integrating Dependency-Track into Azure DevOps Pipelines",
     "link": "https://bartwullems.blogspot.com/2026/01/integrating-dependency-track-into-azure.html",
     "pubDate": "2026-01-13T07:13:00.026+01:00"
-  },
-  {
-    "title": "Configuring Dependency-Track with Microsoft Entra ID (Azure AD) OIDC Authentication",
-    "link": "https://bartwullems.blogspot.com/2026/01/configuring-dependency-track-with.html",
-    "pubDate": "2026-01-12T07:07:00.016+01:00"
   }
 ]
