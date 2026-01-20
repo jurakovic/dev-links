@@ -1,5 +1,10 @@
 [
   {
+    "title": "Giving University Exams in the Age of Chatbots",
+    "link": "https://simonwillison.net/2026/Jan/20/giving-university-exams-in-the-age-of-chatbots/#atom-everything",
+    "pubDate": "2026-01-20T17:51:17+00:00"
+  },
+  {
     "title": "jordanhubbard/nanolang",
     "link": "https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything",
     "pubDate": "2026-01-19T23:58:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Jeremy Daer",
     "link": "https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything",
     "pubDate": "2026-01-17T17:06:41+00:00"
-  },
-  {
-    "title": "Our approach to advertising and expanding access to ChatGPT",
-    "link": "https://simonwillison.net/2026/Jan/16/chatgpt-ads/#atom-everything",
-    "pubDate": "2026-01-16T21:28:26+00:00"
   }
 ]
