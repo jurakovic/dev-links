@@ -1,5 +1,10 @@
 [
   {
+    "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
+    "link": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
+    "pubDate": "Tue, 20 Jan 2026 10:00:00 GMT"
+  },
+  {
     "title": "The Windows File Explorer replacement, File Pilot, is awesome",
     "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
     "pubDate": "Tue, 13 Jan 2026 09:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Trying out the Zed editor on Windows for .NET and Markdown",
     "link": "https://andrewlock.net/trying-out-the-zed-editor-on-windows-for-dotnet-and-markdown/",
     "pubDate": "Tue, 09 Dec 2025 10:00:00 GMT"
-  },
-  {
-    "title": "Recent updates to NetEscapades.EnumGenerators: [EnumMember] support, analyzers, and bug fixes",
-    "link": "https://andrewlock.net/recent-updates-to-netescapaades-enumgenerators/",
-    "pubDate": "Tue, 02 Dec 2025 09:00:00 GMT"
   }
 ]

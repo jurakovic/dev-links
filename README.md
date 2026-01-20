@@ -4,11 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
+<small>[Making foreach on an IEnumerable allocation-free using reflection and dynamic methods](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-20 stackoverflow</small>  
+<small>[Don’t let your backend write checks your frontend can’t cache](https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-20 bartwullems</small>  
+<small>[Azure DevOps Server –Mermaid support improvements](https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
 <small>[jordanhubbard/nanolang](https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-19 lethain</small>  
 <small>[Learning from Every's Compound Engineering](https://lethain.com/everyinc-compound-engineering/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-19 microservices</small>  
+<small>[Another public service announcement: There are no silver bullets - GenAI included](http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-19 bartwullems</small>  
 <small>[Help! Copilot is eating my Fabric capacity.](https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html)</small>
@@ -55,9 +67,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-14 stackoverflow</small>  
 <small>[If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape](https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-14 stackoverflow</small>  
-<small>[8 lessons from tech leadership on scaling teams and AI](https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-14 microservices</small>  
 <small>[QCONSF Microservices Platforms part 2: service foundation platform](http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html)</small>
 
@@ -72,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-13 andrewlock</small>  
 <small>[The Windows File Explorer replacement, File Pilot, is awesome](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-13 bartwullems</small>  
-<small>[Integrating Dependency-Track into Azure DevOps Pipelines](https://bartwullems.blogspot.com/2026/01/integrating-dependency-track-into-azure.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-12 visualstudiomagazine</small>  
 <small>[VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center](https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-02 andrewlock</small>  
 <small>[Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support](https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
-<small>[Building internal agents](https://lethain.com/agents-series/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
-<small>[Building an internal agent: Iterative prompt and skill refinement](https://lethain.com/agents-iterative-refinement/)</small>
 

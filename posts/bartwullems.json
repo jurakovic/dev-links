@@ -1,5 +1,10 @@
 [
   {
+    "title": "Azure DevOps Server –Mermaid support improvements",
+    "link": "https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html",
+    "pubDate": "2026-01-20T09:18:00.007+01:00"
+  },
+  {
     "title": "Help! Copilot is eating my Fabric capacity.",
     "link": "https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html",
     "pubDate": "2026-01-19T08:30:00.018+01:00"
@@ -18,10 +23,5 @@
     "title": "Structuring Projects in Dependency-Track",
     "link": "https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html",
     "pubDate": "2026-01-14T09:11:00.029+01:00"
-  },
-  {
-    "title": "Integrating Dependency-Track into Azure DevOps Pipelines",
-    "link": "https://bartwullems.blogspot.com/2026/01/integrating-dependency-track-into-azure.html",
-    "pubDate": "2026-01-13T07:13:00.026+01:00"
   }
 ]

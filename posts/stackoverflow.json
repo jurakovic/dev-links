@@ -1,5 +1,10 @@
 [
   {
+    "title": "Don’t let your backend write checks your frontend can’t cache",
+    "link": "https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/",
+    "pubDate": "Tue, 20 Jan 2026 08:40:00 GMT"
+  },
+  {
     "title": "How AWS re:Invented the cloud",
     "link": "https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/",
     "pubDate": "Fri, 16 Jan 2026 08:40:00 GMT"
@@ -17,11 +22,6 @@
   {
     "title": "If you're a Zoomer, this one's for you: Everything Gen Z needs to know about the 2025 tech landscape",
     "link": "https://stackoverflow.blog/2026/01/14/gen-z-wrapped-2025/",
-    "pubDate": "Wed, 14 Jan 2026 17:00:00 GMT"
-  },
-  {
-    "title": "8 lessons from tech leadership on scaling teams and AI",
-    "link": "https://stackoverflow.blog/2026/01/14/8-lessons-from-tech-leadership-on-scaling-teams-and-ai/",
     "pubDate": "Wed, 14 Jan 2026 17:00:00 GMT"
   }
 ]
