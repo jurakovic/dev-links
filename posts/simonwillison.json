@@ -1,5 +1,10 @@
 [
   {
+    "title": "jordanhubbard/nanolang",
+    "link": "https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything",
+    "pubDate": "2026-01-19T23:58:56+00:00"
+  },
+  {
     "title": "Scaling long-running autonomous coding",
     "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything",
     "pubDate": "2026-01-19T05:12:51+00:00"
@@ -18,10 +23,5 @@
     "title": "Our approach to advertising and expanding access to ChatGPT",
     "link": "https://simonwillison.net/2026/Jan/16/chatgpt-ads/#atom-everything",
     "pubDate": "2026-01-16T21:28:26+00:00"
-  },
-  {
-    "title": "Open Responses",
-    "link": "https://simonwillison.net/2026/Jan/15/open-responses/#atom-everything",
-    "pubDate": "2026-01-15T23:56:56+00:00"
   }
 ]

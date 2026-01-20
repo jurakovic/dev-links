@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
+<small>[jordanhubbard/nanolang](https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-19 lethain</small>  
+<small>[Learning from Every's Compound Engineering](https://lethain.com/everyinc-compound-engineering/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-19 bartwullems</small>  
 <small>[Help! Copilot is eating my Fabric capacity.](https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-16 bartwullems</small>  
 <small>[Azure DevOps( Server) –Check repository health and usage](https://bartwullems.blogspot.com/2026/01/azure-devops-server-check-repository.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-15 simonwillison</small>  
-<small>[Open Responses](https://simonwillison.net/2026/Jan/15/open-responses/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-01 lethain</small>  
 <small>[Building an internal agent: Iterative prompt and skill refinement](https://lethain.com/agents-iterative-refinement/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2025-12-31 lethain</small>  
-<small>[Building an internal agent: Subagent support](https://lethain.com/agents-subagents/)</small>
 
