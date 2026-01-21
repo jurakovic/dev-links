@@ -1,5 +1,10 @@
 [
   {
+    "title": "Electricity use of AI coding agents",
+    "link": "https://simonwillison.net/2026/Jan/20/electricity-use-of-ai-coding-agents/#atom-everything",
+    "pubDate": "2026-01-20T23:11:57+00:00"
+  },
+  {
     "title": "Giving University Exams in the Age of Chatbots",
     "link": "https://simonwillison.net/2026/Jan/20/giving-university-exams-in-the-age-of-chatbots/#atom-everything",
     "pubDate": "2026-01-20T17:51:17+00:00"
@@ -18,10 +23,5 @@
     "title": "FLUX.2-klein-4B Pure C Implementation",
     "link": "https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything",
     "pubDate": "2026-01-18T23:58:58+00:00"
-  },
-  {
-    "title": "Quoting Jeremy Daer",
-    "link": "https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything",
-    "pubDate": "2026-01-17T17:06:41+00:00"
   }
 ]

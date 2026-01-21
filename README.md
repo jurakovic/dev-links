@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-20 simonwillison</small>  
+<small>[Electricity use of AI coding agents](https://simonwillison.net/2026/Jan/20/electricity-use-of-ai-coding-agents/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-20 simonwillison</small>  
 <small>[Giving University Exams in the Age of Chatbots](https://simonwillison.net/2026/Jan/20/giving-university-exams-in-the-age-of-chatbots/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
@@ -36,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-18 jonskeet</small>  
 <small>[Election 2029: Load Testing](https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-17 simonwillison</small>  
-<small>[Quoting Jeremy Daer](https://simonwillison.net/2026/Jan/17/jeremy-daer/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-17 jonskeet</small>  
 <small>[Election 2029: Models and Reality](https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/)</small>
