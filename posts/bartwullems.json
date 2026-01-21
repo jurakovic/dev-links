@@ -1,5 +1,10 @@
 [
   {
+    "title": "The power of \"What\" over \"Why\"",
+    "link": "https://bartwullems.blogspot.com/2026/01/the-power-of-what-over-why.html",
+    "pubDate": "2026-01-21T07:34:00.005+01:00"
+  },
+  {
     "title": "Azure DevOps Server –Mermaid support improvements",
     "link": "https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html",
     "pubDate": "2026-01-20T09:18:00.007+01:00"
@@ -18,10 +23,5 @@
     "title": "Understanding Microsoft Fabric Capacity and Throttling–A first attempt",
     "link": "https://bartwullems.blogspot.com/2026/01/understanding-microsoft-fabric-capacity.html",
     "pubDate": "2026-01-15T07:48:00.030+01:00"
-  },
-  {
-    "title": "Structuring Projects in Dependency-Track",
-    "link": "https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html",
-    "pubDate": "2026-01-14T09:11:00.029+01:00"
   }
 ]

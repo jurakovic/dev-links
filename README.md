@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-21 bartwullems</small>  
+<small>[The power of "What" over "Why"](https://bartwullems.blogspot.com/2026/01/the-power-of-what-over-why.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-20 simonwillison</small>  
 <small>[Electricity use of AI coding agents](https://simonwillison.net/2026/Jan/20/electricity-use-of-ai-coding-agents/#atom-everything)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-14 microservices</small>  
 <small>[QCONSF Microservices Platforms part 2: service foundation platform](http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-14 bartwullems</small>  
-<small>[Structuring Projects in Dependency-Track](https://bartwullems.blogspot.com/2026/01/structuring-projects-in-dependency.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-13 dotnet</small>  
 <small>[.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/)</small>
