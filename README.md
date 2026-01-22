@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
+<small>[Quoting Thariq Shihipar](https://simonwillison.net/2026/Jan/22/thariq-shihipar/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-22 stackoverflow</small>  
+<small>[Automate your security whack-a-mole: Q&A with Exaforce](https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-22 martinfowler</small>  
+<small>[Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-22 terriblesoftware</small>  
+<small>[Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-22 bartwullems</small>  
 <small>[Permission to experiment granted](https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html)</small>
 
@@ -46,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-19 bartwullems</small>  
 <small>[Help! Copilot is eating my Fabric capacity.](https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
-<small>[Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-18 jonskeet</small>  
 <small>[Election 2029: Load Testing](https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/)</small>
 
@@ -69,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-15 visualstudio</small>  
 <small>[Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
-<small>[Transforming enterprise workflows: How IBM is unlocking AI's potential](https://stackoverflow.blog/2026/01/15/transforming-enterprise-workflows-how-ibm-is-unlocking-ai-s-potential/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-14 microservices</small>  
 <small>[QCONSF Microservices Platforms part 2: service foundation platform](http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-05 terriblesoftware</small>  
 <small>[Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-05 steven-giesel</small>  
-<small>[.NET Toolbox](https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-04 developertoarchitect</small>  
-<small>[Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)](http://www.developertoarchitect.com/lessons/lesson215.html)</small>
 

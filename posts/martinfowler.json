@@ -1,5 +1,10 @@
 [
   {
+    "title": "Fragments: January 22",
+    "link": "https://martinfowler.com/fragments/2026-01-22.html",
+    "pubDate": "2026-01-22T09:30:00-05:00"
+  },
+  {
     "title": "Conversation: LLMs and the what/how loop",
     "link": "https://martinfowler.com/articles/convo-what-how.html",
     "pubDate": "2026-01-21T09:40:00-05:00"
@@ -18,10 +23,5 @@
     "title": "Fragments: January  8",
     "link": "https://martinfowler.com/fragments/2026-01-08.html",
     "pubDate": "2026-01-08T08:29:00-05:00"
-  },
-  {
-    "title": "Fragments: December 16",
-    "link": "https://martinfowler.com/fragments/2025-12-16.html",
-    "pubDate": "2025-12-16T10:14:00-05:00"
   }
 ]
