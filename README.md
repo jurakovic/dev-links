@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
+<small>[Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation](https://simonwillison.net/2026/Jan/22/qwen3-tts/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
+<small>[Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration](https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
 <small>[Quoting Thariq Shihipar](https://simonwillison.net/2026/Jan/22/thariq-shihipar/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-22 stackoverflow</small>  
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-20 bartwullems</small>  
 <small>[Azure DevOps Server –Mermaid support improvements](https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
-<small>[jordanhubbard/nanolang](https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-19 lethain</small>  
 <small>[Learning from Every's Compound Engineering](https://lethain.com/everyinc-compound-engineering/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 visualstudio</small>  
 <small>[Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-05 terriblesoftware</small>  
-<small>[Creating Your Own Opportunities](https://terriblesoftware.org/2026/01/05/creating-your-own-opportunities/)</small>
 

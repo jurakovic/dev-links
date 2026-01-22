@@ -1,5 +1,10 @@
 [
   {
+    "title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation",
+    "link": "https://simonwillison.net/2026/Jan/22/qwen3-tts/#atom-everything",
+    "pubDate": "2026-01-22T17:42:34+00:00"
+  },
+  {
     "title": "Quoting Thariq Shihipar",
     "link": "https://simonwillison.net/2026/Jan/22/thariq-shihipar/#atom-everything",
     "pubDate": "2026-01-22T15:34:22+00:00"
@@ -18,10 +23,5 @@
     "title": "Giving University Exams in the Age of Chatbots",
     "link": "https://simonwillison.net/2026/Jan/20/giving-university-exams-in-the-age-of-chatbots/#atom-everything",
     "pubDate": "2026-01-20T17:51:17+00:00"
-  },
-  {
-    "title": "jordanhubbard/nanolang",
-    "link": "https://simonwillison.net/2026/Jan/19/nanolang/#atom-everything",
-    "pubDate": "2026-01-19T23:58:56+00:00"
   }
 ]
