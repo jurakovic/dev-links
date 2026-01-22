@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-21 simonwillison</small>  
+<small>[Claude's new constitution](https://simonwillison.net/2026/Jan/21/claudes-new-constitution/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-21 stackoverflow</small>  
 <small>[Is that allowed? Authentication and authorization in Model Context Protocol](https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-19 simonwillison</small>  
 <small>[Scaling long-running autonomous coding](https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-18 simonwillison</small>  
-<small>[FLUX.2-klein-4B Pure C Implementation](https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-18 jonskeet</small>  
 <small>[Election 2029: Load Testing](https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/)</small>

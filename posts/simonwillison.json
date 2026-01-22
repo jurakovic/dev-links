@@ -1,5 +1,10 @@
 [
   {
+    "title": "Claude's new constitution",
+    "link": "https://simonwillison.net/2026/Jan/21/claudes-new-constitution/#atom-everything",
+    "pubDate": "2026-01-21T23:39:49+00:00"
+  },
+  {
     "title": "Electricity use of AI coding agents",
     "link": "https://simonwillison.net/2026/Jan/20/electricity-use-of-ai-coding-agents/#atom-everything",
     "pubDate": "2026-01-20T23:11:57+00:00"
@@ -18,10 +23,5 @@
     "title": "Scaling long-running autonomous coding",
     "link": "https://simonwillison.net/2026/Jan/19/scaling-long-running-autonomous-coding/#atom-everything",
     "pubDate": "2026-01-19T05:12:51+00:00"
-  },
-  {
-    "title": "FLUX.2-klein-4B Pure C Implementation",
-    "link": "https://simonwillison.net/2026/Jan/18/flux2-klein-4b/#atom-everything",
-    "pubDate": "2026-01-18T23:58:58+00:00"
   }
 ]
