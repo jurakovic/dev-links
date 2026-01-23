@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
+<small>[Quoting Theia Vogel](https://simonwillison.net/2026/Jan/23/theia-vogel/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-23 stackoverflow</small>  
+<small>[AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
 <small>[SSH has no Host header](https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/#atom-everything)</small>
 
@@ -43,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-21 bartwullems</small>  
 <small>[The power of "What" over "Why"](https://bartwullems.blogspot.com/2026/01/the-power-of-what-over-why.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-20 simonwillison</small>  
-<small>[Electricity use of AI coding agents](https://simonwillison.net/2026/Jan/20/electricity-use-of-ai-coding-agents/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
 <small>[Making foreach on an IEnumerable allocation-free using reflection and dynamic methods](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/)</small>
 
@@ -78,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-15 stackoverflow</small>  
-<small>[How Stack Overflow is taking on spam and bad actors](https://stackoverflow.blog/2026/01/15/how-stack-overflow-is-taking-on-spam-and-bad-actors/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-15 visualstudio</small>  
 <small>[Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/)</small>
