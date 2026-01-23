@@ -4,11 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
+<small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
 <small>[Quoting Theia Vogel](https://simonwillison.net/2026/Jan/23/theia-vogel/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-23 stackoverflow</small>  
-<small>[AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)</small>
+<small>[Get out of your developer bubble to survive the AI bubble](https://stackoverflow.blog/2026/01/23/get-out-of-your-developer-bubble-to-survive-the-ai-bubble/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
 <small>[SSH has no Host header](https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/#atom-everything)</small>
@@ -75,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-16 stackoverflow</small>  
 <small>[How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-16 bartwullems</small>  
-<small>[Azure DevOps( Server) –Check repository health and usage](https://bartwullems.blogspot.com/2026/01/azure-devops-server-check-repository.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>

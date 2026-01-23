@@ -1,5 +1,10 @@
 [
   {
+    "title": "Passing parameters to a hosted MCP Server in C#",
+    "link": "https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html",
+    "pubDate": "2026-01-23T13:29:51.846+01:00"
+  },
+  {
     "title": "Permission to experiment granted",
     "link": "https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html",
     "pubDate": "2026-01-22T07:50:00.004+01:00"
@@ -18,10 +23,5 @@
     "title": "Help! Copilot is eating my Fabric capacity.",
     "link": "https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html",
     "pubDate": "2026-01-19T08:30:00.018+01:00"
-  },
-  {
-    "title": "Azure DevOps( Server) –Check repository health and usage",
-    "link": "https://bartwullems.blogspot.com/2026/01/azure-devops-server-check-repository.html",
-    "pubDate": "2026-01-16T06:56:00.013+01:00"
   }
 ]
