@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
+<small>[Quoting Jasmine Sun](https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
 <small>[Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything)</small>
 
@@ -27,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration](https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
-<small>[Quoting Chris Lloyd](https://simonwillison.net/2026/Jan/22/chris-lloyd/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-22 stackoverflow</small>  
 <small>[Automate your security whack-a-mole: Q&A with Exaforce](https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/)</small>
