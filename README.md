@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-25 simonwillison</small>  
+<small>[Kākāpō Cam: Rakiura live stream](https://simonwillison.net/2026/Jan/25/kakapo-cam/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
 <small>[Don't "Trust the Process"](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-23 stackoverflow</small>  
 <small>[AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
-<small>[SSH has no Host header](https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Copilot Studio Extension for VS Code Goes GA](https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx)</small>
