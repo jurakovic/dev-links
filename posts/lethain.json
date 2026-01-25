@@ -1,5 +1,15 @@
 [
   {
+    "title": "Stripe's Lighthouse Hiring pattern.",
+    "link": "https://lethain.com/lighthouse-hiring/",
+    "pubDate": "Sun, 25 Jan 2026 09:00:00 -0700"
+  },
+  {
+    "title": "Pressure Without a Plan.",
+    "link": "https://lethain.com/pressure-without-a-plan/",
+    "pubDate": "Sun, 25 Jan 2026 08:00:00 -0700"
+  },
+  {
     "title": "Learning from Every's Compound Engineering",
     "link": "https://lethain.com/everyinc-compound-engineering/",
     "pubDate": "Mon, 19 Jan 2026 10:00:00 -0700"
@@ -13,15 +23,5 @@
     "title": "Moved newsletter from Mailchimp to Buttondown.",
     "link": "https://lethain.com/newsletter-mailchimp-to-buttondown/",
     "pubDate": "Sat, 10 Jan 2026 07:00:00 -0800"
-  },
-  {
-    "title": "Building internal agents",
-    "link": "https://lethain.com/agents-series/",
-    "pubDate": "Thu, 01 Jan 2026 09:00:00 -0800"
-  },
-  {
-    "title": "Building an internal agent: Iterative prompt and skill refinement",
-    "link": "https://lethain.com/agents-iterative-refinement/",
-    "pubDate": "Thu, 01 Jan 2026 08:30:00 -0800"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-25 steven-giesel</small>  
+<small>[Sometimes you just need extensions methods to model your stuff](https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
+<small>[Stripe's Lighthouse Hiring pattern.](https://lethain.com/lighthouse-hiring/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
+<small>[Pressure Without a Plan.](https://lethain.com/pressure-without-a-plan/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-25 simonwillison</small>  
 <small>[Kākāpō Cam: Rakiura live stream](https://simonwillison.net/2026/Jan/25/kakapo-cam/#atom-everything)</small>
 
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-07 visualstudiomagazine</small>  
 <small>[Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate](https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-01-06 haacked</small>  
-<small>[One Year at PostHog](https://haacked.com/archive/2026/01/06/one-year-at-posthog/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 dotnet</small>  
-<small>[Generative AI with Large Language Models in C# in 2026](https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-05 visualstudio</small>  
-<small>[Welcome to 2026, A Growth Year for All of Us](https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/)</small>
 
