@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
+<small>[Don't "Trust the Process"](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
 <small>[Quoting Jasmine Sun](https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Copilot Studio Extension for VS Code Goes GA](https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-22 simonwillison</small>  
-<small>[Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation](https://simonwillison.net/2026/Jan/22/qwen3-tts/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration](https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Don't \"Trust the Process\"",
+    "link": "https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything",
+    "pubDate": "2026-01-24T23:31:03+00:00"
+  },
+  {
     "title": "Quoting Jasmine Sun",
     "link": "https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything",
     "pubDate": "2026-01-24T21:34:35+00:00"
@@ -18,10 +23,5 @@
     "title": "SSH has no Host header",
     "link": "https://simonwillison.net/2026/Jan/22/ssh-has-no-host-header/#atom-everything",
     "pubDate": "2026-01-22T23:57:50+00:00"
-  },
-  {
-    "title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation",
-    "link": "https://simonwillison.net/2026/Jan/22/qwen3-tts/#atom-everything",
-    "pubDate": "2026-01-22T17:42:34+00:00"
   }
 ]
