@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-26 stackoverflow</small>  
+<small>[Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-26 bartwullems</small>  
 <small>[Testing your MCP server with Visual Studio HTTP Files](https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-17 jonskeet</small>  
 <small>[Election 2029: Models and Reality](https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-16 stackoverflow</small>  
-<small>[How AWS re:Invented the cloud](https://stackoverflow.blog/2026/01/16/how-aws-re-invented-the-cloud/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
