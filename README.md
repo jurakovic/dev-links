@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-26 simonwillison</small>  
+<small>[ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-01-26 netflix</small>  
+<small>[The AI Evolution of Graph Search at Netflix](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-26 dotnet</small>  
+<small>[Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-26 stackoverflow</small>  
 <small>[Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/)</small>
 
@@ -39,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
 <small>[Quoting Jasmine Sun](https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
-<small>[Wilson Lin on FastRender: a browser built by thousands of parallel agents](https://simonwillison.net/2026/Jan/23/fastrender/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
 <small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-07 pragmaticengineer</small>  
 <small>[The grief when AI writes most of the code](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-07 dotnet</small>  
-<small>[Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider](https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-07 visualstudiomagazine</small>  
-<small>[Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate](https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx)</small>
 
