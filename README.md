@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-26 bartwullems</small>  
+<small>[Testing your MCP server with Visual Studio HTTP Files](https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-25 simonwillison</small>  
 <small>[the browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
+<small>[Should you include engineers in your leadership meetings?](https://lethain.com/should-include-eng-in-eng-leadership/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Writing Visualizations with Remotion](https://lethain.com/blog-recap-2026/)</small>
@@ -76,14 +82,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-20 bartwullems</small>  
 <small>[Azure DevOps Server –Mermaid support improvements](https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-19 lethain</small>  
-<small>[Learning from Every's Compound Engineering](https://lethain.com/everyinc-compound-engineering/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-19 microservices</small>  
 <small>[Another public service announcement: There are no silver bullets - GenAI included](http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-19 bartwullems</small>  
-<small>[Help! Copilot is eating my Fabric capacity.](https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-18 jonskeet</small>  
 <small>[Election 2029: Load Testing](https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/)</small>

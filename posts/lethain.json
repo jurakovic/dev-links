@@ -1,5 +1,10 @@
 [
   {
+    "title": "Should you include engineers in your leadership meetings?",
+    "link": "https://lethain.com/should-include-eng-in-eng-leadership/",
+    "pubDate": "Sun, 25 Jan 2026 13:00:00 -0700"
+  },
+  {
     "title": "Writing Visualizations with Remotion",
     "link": "https://lethain.com/blog-recap-2026/",
     "pubDate": "Sun, 25 Jan 2026 12:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "Pressure Without a Plan.",
     "link": "https://lethain.com/pressure-without-a-plan/",
     "pubDate": "Sun, 25 Jan 2026 08:00:00 -0700"
-  },
-  {
-    "title": "Learning from Every's Compound Engineering",
-    "link": "https://lethain.com/everyinc-compound-engineering/",
-    "pubDate": "Mon, 19 Jan 2026 10:00:00 -0700"
   }
 ]

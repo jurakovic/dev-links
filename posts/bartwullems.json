@@ -1,5 +1,10 @@
 [
   {
+    "title": "Testing your MCP server with Visual Studio HTTP Files",
+    "link": "https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html",
+    "pubDate": "2026-01-26T06:40:00.000+01:00"
+  },
+  {
     "title": "Passing parameters to a hosted MCP Server in C#",
     "link": "https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html",
     "pubDate": "2026-01-23T13:29:51.846+01:00"
@@ -18,10 +23,5 @@
     "title": "Azure DevOps Server –Mermaid support improvements",
     "link": "https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html",
     "pubDate": "2026-01-20T09:18:00.007+01:00"
-  },
-  {
-    "title": "Help! Copilot is eating my Fabric capacity.",
-    "link": "https://bartwullems.blogspot.com/2026/01/help-copilot-is-eating-my-fabric.html",
-    "pubDate": "2026-01-19T08:30:00.018+01:00"
   }
 ]
