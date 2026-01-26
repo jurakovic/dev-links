@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-25 simonwillison</small>  
+<small>[the browser is the sandbox](https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
+<small>[Writing Visualizations with Remotion](https://lethain.com/blog-recap-2026/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-25 steven-giesel</small>  
 <small>[Sometimes you just need extensions methods to model your stuff](https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
+<small>[Curiosity is the first-step in problem solving.](https://lethain.com/curiosity-first-step-problem-solving/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Stripe's Lighthouse Hiring pattern.](https://lethain.com/lighthouse-hiring/)</small>
@@ -27,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
 <small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-23 simonwillison</small>  
-<small>[Quoting Theia Vogel](https://simonwillison.net/2026/Jan/23/theia-vogel/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-23 stackoverflow</small>  
 <small>[AI can 10x developers...in creating tech debt](https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/)</small>
@@ -123,12 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-11 antirez</small>  
 <small>[Don't fall into the anti-AI hype](http://antirez.com/news/158)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
-<small>[Sharing Claude transcripts.](https://lethain.com/sharing-claude-transcripts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-10 lethain</small>  
-<small>[Moved newsletter from Mailchimp to Buttondown.](https://lethain.com/newsletter-mailchimp-to-buttondown/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-01-09 ardalis</small>  
 <small>[Why a Free Market Fire Department System Beats the Archaic Public Model](https://ardalis.com/why-a-free-market-fire-department-systems-beats-the-archaic-public-model/)</small>

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Writing Visualizations with Remotion",
+    "link": "https://lethain.com/blog-recap-2026/",
+    "pubDate": "Sun, 25 Jan 2026 12:00:00 -0700"
+  },
+  {
+    "title": "Curiosity is the first-step in problem solving.",
+    "link": "https://lethain.com/curiosity-first-step-problem-solving/",
+    "pubDate": "Sun, 25 Jan 2026 10:00:00 -0700"
+  },
+  {
     "title": "Stripe's Lighthouse Hiring pattern.",
     "link": "https://lethain.com/lighthouse-hiring/",
     "pubDate": "Sun, 25 Jan 2026 09:00:00 -0700"
@@ -13,15 +23,5 @@
     "title": "Learning from Every's Compound Engineering",
     "link": "https://lethain.com/everyinc-compound-engineering/",
     "pubDate": "Mon, 19 Jan 2026 10:00:00 -0700"
-  },
-  {
-    "title": "Sharing Claude transcripts.",
-    "link": "https://lethain.com/sharing-claude-transcripts/",
-    "pubDate": "Sat, 10 Jan 2026 07:15:00 -0800"
-  },
-  {
-    "title": "Moved newsletter from Mailchimp to Buttondown.",
-    "link": "https://lethain.com/newsletter-mailchimp-to-buttondown/",
-    "pubDate": "Sat, 10 Jan 2026 07:00:00 -0800"
   }
 ]
