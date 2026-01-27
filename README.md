@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
+<small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-27 stackoverflow</small>  
+<small>[Spy vs spy at scale](https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-27 bartwullems</small>  
+<small>[Why AI helps you to discover new parts of your favorite SDK–The NullLogger](https://bartwullems.blogspot.com/2026/01/why-ai-helps-you-to-discover-new-parts.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-01-27 minidump</small>  
+<small>[Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-26 simonwillison</small>  
 <small>[Tips for getting coding agents to write good Python tests](https://simonwillison.net/2026/Jan/26/tests/#atom-everything)</small>
 
@@ -85,12 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
 <small>[Making foreach on an IEnumerable allocation-free using reflection and dynamic methods](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-20 stackoverflow</small>  
-<small>[Don’t let your backend write checks your frontend can’t cache](https://stackoverflow.blog/2026/01/20/don-t-let-your-backend-write-checks-your-frontend-can-t-cache/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-20 bartwullems</small>  
-<small>[Azure DevOps Server –Mermaid support improvements](https://bartwullems.blogspot.com/2026/01/azure-devops-server-mermaid-support.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-19 microservices</small>  
 <small>[Another public service announcement: There are no silver bullets - GenAI included](http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
 <small>[Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-08 terriblesoftware</small>  
-<small>[Life Happens at 1x Speed](https://terriblesoftware.org/2026/01/08/life-happens-at-1x-speed/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-07 pragmaticengineer</small>  
-<small>[The grief when AI writes most of the code](https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/)</small>
 
