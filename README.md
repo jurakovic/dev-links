@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-27 martinfowler</small>  
+<small>[Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-27 simonwillison</small>  
+<small>[Kimi K2.5: Visual Agentic Intelligence](https://simonwillison.net/2026/Jan/27/kimi-k25/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
 
@@ -57,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-25 simonwillison</small>  
 <small>[Kākāpō Cam: Rakiura live stream](https://simonwillison.net/2026/Jan/25/kakapo-cam/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
-<small>[Don't "Trust the Process"](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
 <small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
 <small>[My favorite musical discoveries of 2025](https://martinfowler.com/articles/2025-music.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-08 martinfowler</small>  
-<small>[Fragments: January  8](https://martinfowler.com/fragments/2026-01-08.html)</small>
 
