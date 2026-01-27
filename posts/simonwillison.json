@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tips for getting coding agents to write good Python tests",
+    "link": "https://simonwillison.net/2026/Jan/26/tests/#atom-everything",
+    "pubDate": "2026-01-26T23:55:29+00:00"
+  },
+  {
     "title": "ChatGPT Containers can now run bash, pip/npm install packages, and download files",
     "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything",
     "pubDate": "2026-01-26T19:19:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Don't \"Trust the Process\"",
     "link": "https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything",
     "pubDate": "2026-01-24T23:31:03+00:00"
-  },
-  {
-    "title": "Quoting Jasmine Sun",
-    "link": "https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything",
-    "pubDate": "2026-01-24T21:34:35+00:00"
   }
 ]

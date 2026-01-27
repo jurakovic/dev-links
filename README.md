@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-26 simonwillison</small>  
+<small>[Tips for getting coding agents to write good Python tests](https://simonwillison.net/2026/Jan/26/tests/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-26 simonwillison</small>  
 <small>[ChatGPT Containers can now run bash, pip/npm install packages, and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-01-26 netflix</small>  
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
 <small>[Don't "Trust the Process"](https://simonwillison.net/2026/Jan/24/dont-trust-the-process/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-24 simonwillison</small>  
-<small>[Quoting Jasmine Sun](https://simonwillison.net/2026/Jan/24/jasmine-sun/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
 <small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
