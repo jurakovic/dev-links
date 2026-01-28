@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-28 bartwullems</small>  
+<small>[Error when using the Microsoft Fabric Capacity Metrics app](https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-27 visualstudio</small>  
 <small>[Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/)</small>
 
@@ -96,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-21 martinfowler</small>  
 <small>[Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-21 bartwullems</small>  
-<small>[The power of "What" over "Why"](https://bartwullems.blogspot.com/2026/01/the-power-of-what-over-why.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
 <small>[Making foreach on an IEnumerable allocation-free using reflection and dynamic methods](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/)</small>
