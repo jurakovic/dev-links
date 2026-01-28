@@ -1,5 +1,15 @@
 [
   {
+    "title": "Adding dynamic features to an aggressively cached website",
+    "link": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything",
+    "pubDate": "2026-01-28T22:10:08+00:00"
+  },
+  {
+    "title": "The Five Levels: from Spicy Autocomplete to the Dark Factory",
+    "link": "https://simonwillison.net/2026/Jan/28/the-five-levels/#atom-everything",
+    "pubDate": "2026-01-28T21:44:29+00:00"
+  },
+  {
     "title": "One Human + One Agent = One Browser From Scratch",
     "link": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything",
     "pubDate": "2026-01-27T16:58:08+00:00"
@@ -13,15 +23,5 @@
     "title": "Tips for getting coding agents to write good Python tests",
     "link": "https://simonwillison.net/2026/Jan/26/tests/#atom-everything",
     "pubDate": "2026-01-26T23:55:29+00:00"
-  },
-  {
-    "title": "ChatGPT Containers can now run bash, pip/npm install packages, and download files",
-    "link": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/#atom-everything",
-    "pubDate": "2026-01-26T19:19:31+00:00"
-  },
-  {
-    "title": "the browser is the sandbox",
-    "link": "https://simonwillison.net/2026/Jan/25/the-browser-is-the-sandbox/#atom-everything",
-    "pubDate": "2026-01-25T23:51:32+00:00"
   }
 ]

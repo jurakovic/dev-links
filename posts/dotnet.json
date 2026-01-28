@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET AI Essentials – The Core Building Blocks Explained",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
+    "pubDate": "Wed, 28 Jan 2026 17:30:00 +0000"
+  },
+  {
     "title": "Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together",
     "link": "https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/",
     "pubDate": "Mon, 26 Jan 2026 18:05:00 +0000"
@@ -18,10 +23,5 @@
     "title": "How We Synchronize .NET’s Virtual Monorepo",
     "link": "https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/",
     "pubDate": "Mon, 12 Jan 2026 17:00:00 +0000"
-  },
-  {
-    "title": "Secure and Intelligent: Queryable Encryption and Vector Search in MongoDB EF Core Provider",
-    "link": "https://devblogs.microsoft.com/dotnet/mongodb-efcore-provider-queryable-encryption-vector-search/",
-    "pubDate": "Wed, 07 Jan 2026 18:05:00 +0000"
   }
 ]
