@@ -1,5 +1,10 @@
 [
   {
+    "title": "Are bugs and incidents inevitable with AI coding agents?",
+    "link": "https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/",
+    "pubDate": "Wed, 28 Jan 2026 15:00:00 GMT"
+  },
+  {
     "title": "Spy vs spy at scale",
     "link": "https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/",
     "pubDate": "Tue, 27 Jan 2026 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Automate your security whack-a-mole: Q&A with Exaforce",
     "link": "https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/",
     "pubDate": "Thu, 22 Jan 2026 15:00:00 GMT"
-  },
-  {
-    "title": "Is that allowed? Authentication and authorization in Model Context Protocol",
-    "link": "https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/",
-    "pubDate": "Wed, 21 Jan 2026 15:00:00 GMT"
   }
 ]

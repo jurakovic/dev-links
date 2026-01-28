@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-28 stackoverflow</small>  
+<small>[Are bugs and incidents inevitable with AI coding agents?](https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-28 martinfowler</small>  
+<small>[Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-28 bartwullems</small>  
 <small>[Error when using the Microsoft Fabric Capacity Metrics app](https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html)</small>
 
@@ -94,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-22 bartwullems</small>  
 <small>[Permission to experiment granted](https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-21 stackoverflow</small>  
-<small>[Is that allowed? Authentication and authorization in Model Context Protocol](https://stackoverflow.blog/2026/01/21/is-that-allowed-authentication-and-authorization-in-model-context-protocol/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-21 martinfowler</small>  
 <small>[Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-01-09 ardalis</small>  
 <small>[Why a Free Market Fire Department System Beats the Archaic Public Model](https://ardalis.com/why-a-free-market-fire-department-systems-beats-the-archaic-public-model/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-08 visualstudiomagazine</small>  
-<small>[C# Grabs Language of the Year, TIOBE Predicts TypeScript Rise](https://visualstudiomagazine.com/Articles/2026/01/08/Csharp-Grabs-Language-of-the-Year-TIOBE-Predicts-TypeScript-Rise.aspx)</small>
 

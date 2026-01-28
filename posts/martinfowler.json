@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bliki: Excessive Bold",
+    "link": "https://martinfowler.com/bliki/ExcessiveBold.html",
+    "pubDate": "2026-01-28T09:20:00-05:00"
+  },
+  {
     "title": "Assessing internal quality while coding with an agent",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html",
     "pubDate": "2026-01-27T10:50:00-05:00"
@@ -18,10 +23,5 @@
     "title": "Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization",
     "link": "https://martinfowler.com/articles/stop-picking-sides.html",
     "pubDate": "2026-01-13T14:59:00+00:00"
-  },
-  {
-    "title": "My favorite musical discoveries of 2025",
-    "link": "https://martinfowler.com/articles/2025-music.html",
-    "pubDate": "2026-01-08T08:55:00-05:00"
   }
 ]
