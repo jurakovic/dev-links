@@ -1,5 +1,10 @@
 [
   {
+    "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
+    "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
+    "pubDate": "Thu, 29 Jan 2026 18:41:45 GMT"
+  },
+  {
     "title": "The grief when AI writes most of the code",
     "link": "https://blog.pragmaticengineer.com/the-grief-when-ai-writes-most-of-the-code/",
     "pubDate": "Wed, 07 Jan 2026 18:53:57 GMT"
@@ -18,10 +23,5 @@
     "title": "Downdetector and the real cost of no upstream dependencies",
     "link": "https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/",
     "pubDate": "Fri, 05 Dec 2025 09:14:50 GMT"
-  },
-  {
-    "title": "A startup in Mongolia translated my book",
-    "link": "https://blog.pragmaticengineer.com/traveling-to-mongolia/",
-    "pubDate": "Fri, 21 Nov 2025 13:47:17 GMT"
   }
 ]
