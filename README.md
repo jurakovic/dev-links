@@ -22,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-28 martinfowler</small>  
 <small>[Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-28 microservices</small>  
+<small>[From two problems to four: the not-so-hidden complexity GenAI-based development](http://microservices.io//post/architecture/2026/01/28/when-two-problems-becomes-four-genai-based-development.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-28 bartwullems</small>  
 <small>[Error when using the Microsoft Fabric Capacity Metrics app](https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-12 microservices</small>  
 <small>[On the duality of GenAI-based development tools](http://microservices.io//post/architecture/2026/01/12/on-the-duality-of-genai-based-development-tools.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-12 steven-giesel</small>  
-<small>[Collection Expression Arguments in C# 15+](https://steven-giesel.com/blogPost/352fe495-9cc4-4df8-8ad1-a3e26a64185c)</small>
 
