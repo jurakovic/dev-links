@@ -1,5 +1,10 @@
 [
   {
+    "title": "Checkout a Git repository using a tag in VSCode",
+    "link": "https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html",
+    "pubDate": "2026-01-29T06:58:00.013+01:00"
+  },
+  {
     "title": "Error when using the Microsoft Fabric Capacity Metrics app",
     "link": "https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html",
     "pubDate": "2026-01-28T06:53:00.017+01:00"
@@ -18,10 +23,5 @@
     "title": "Passing parameters to a hosted MCP Server in C#",
     "link": "https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html",
     "pubDate": "2026-01-23T13:29:51.846+01:00"
-  },
-  {
-    "title": "Permission to experiment granted",
-    "link": "https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html",
-    "pubDate": "2026-01-22T07:50:00.004+01:00"
   }
 ]

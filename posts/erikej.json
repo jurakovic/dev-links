@@ -1,5 +1,10 @@
 [
   {
+    "title": "Getting Started with SQL Database Project Power Tools",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html",
+    "pubDate": "2026-01-29T17:28:49+00:00"
+  },
+  {
     "title": "Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip",
     "link": "https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html",
     "pubDate": "2025-10-22T17:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio",
     "link": "https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html",
     "pubDate": "2025-08-25T17:28:49+00:00"
-  },
-  {
-    "title": "Publish your .NET MCP Server to NuGet",
-    "link": "https://erikej.github.io/mcp/dotnet/nuget/2025/07/30/mcp-dotnet-nuget.html",
-    "pubDate": "2025-07-30T17:28:49+00:00"
   }
 ]

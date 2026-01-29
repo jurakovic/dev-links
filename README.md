@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 erikej</small>  
+<small>[Getting Started with SQL Database Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-29 bartwullems</small>  
+<small>[Checkout a Git repository using a tag in VSCode](https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-28 simonwillison</small>  
 <small>[Adding dynamic features to an aggressively cached website](https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything)</small>
 
@@ -106,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-22 terriblesoftware</small>  
 <small>[Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-22 bartwullems</small>  
-<small>[Permission to experiment granted](https://bartwullems.blogspot.com/2026/01/permission-to-experiment-granted.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-21 martinfowler</small>  
 <small>[Conversation: LLMs and the what/how loop](https://martinfowler.com/articles/convo-what-how.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
 <small>[How We Synchronize .NET’s Virtual Monorepo](https://devblogs.microsoft.com/dotnet/how-we-synchronize-dotnets-virtual-monorepo/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-12 microservices</small>  
-<small>[On the duality of GenAI-based development tools](http://microservices.io//post/architecture/2026/01/12/on-the-duality-of-genai-based-development-tools.html)</small>
 
