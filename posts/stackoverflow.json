@@ -1,5 +1,10 @@
 [
   {
+    "title": "Are you learning with AI? We want to know about it!",
+    "link": "https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/",
+    "pubDate": "Thu, 29 Jan 2026 15:00:00 GMT"
+  },
+  {
     "title": "Are bugs and incidents inevitable with AI coding agents?",
     "link": "https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/",
     "pubDate": "Wed, 28 Jan 2026 15:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "AI can 10x developers...in creating tech debt",
     "link": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
     "pubDate": "Fri, 23 Jan 2026 08:40:00 GMT"
-  },
-  {
-    "title": "Automate your security whack-a-mole: Q&A with Exaforce",
-    "link": "https://stackoverflow.blog/2026/01/22/automate-your-security-whack-a-mole-q-and-a-with-exaforce/",
-    "pubDate": "Thu, 22 Jan 2026 15:00:00 GMT"
   }
 ]
