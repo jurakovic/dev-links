@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-30 stackoverflow</small>  
+<small>[Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
 <small>[We gotta talk about AI as a programming tool for the arts](https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything)</small>
 
@@ -78,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-26 dotnet</small>  
 <small>[Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-26 stackoverflow</small>  
-<small>[Stack Gives Back 2025!](https://stackoverflow.blog/2026/01/26/stack-gives-back-2025/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-26 bartwullems</small>  
 <small>[Testing your MCP server with Visual Studio HTTP Files](https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html)</small>
