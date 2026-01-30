@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
+<small>[We gotta talk about AI as a programming tool for the arts](https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
 <small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
 
@@ -18,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-29 stackoverflow</small>  
 <small>[Are you learning with AI? We want to know about it!](https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 microservices</small>  
+<small>[My GenAI development workflow: Idea to Code](http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-29 bartwullems</small>  
 <small>[Checkout a Git repository using a tag in VSCode](https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html)</small>
@@ -54,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-27 martinfowler</small>  
 <small>[Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-27 simonwillison</small>  
-<small>[Kimi K2.5: Visual Agentic Intelligence](https://simonwillison.net/2026/Jan/27/kimi-k25/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-12 visualstudiomagazine</small>  
 <small>[VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center](https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-12 dotnet</small>  
-<small>[How to Build Android Widgets with .NET MAUI](https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/)</small>
 
