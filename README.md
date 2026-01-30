@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
+<small>[Lesson 218 - Thread Delegate Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson218.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
+<small>[Lesson 217 - Supervisor-Consumer Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson217.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
+<small>[Lesson 216 - Creating Scalable Systems (February 2, 2026)](http://www.developertoarchitect.com/lessons/lesson216.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
+<small>[Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-30 stackoverflow</small>  
 <small>[Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/)</small>
 
@@ -57,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-27 visualstudio</small>  
 <small>[Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-27 simonwillison</small>  
-<small>[One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-27 martinfowler</small>  
 <small>[Assessing internal quality while coding with an agent](https://martinfowler.com/articles/exploring-gen-ai/ccmenu-quality.html)</small>
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-13 dotnet</small>  
 <small>[.NET and .NET Framework January 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-13 martinfowler</small>  
-<small>[Stop Picking Sides: Manage the Tension Between Adaptation and                Optimization](https://martinfowler.com/articles/stop-picking-sides.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-13 andrewlock</small>  
-<small>[The Windows File Explorer replacement, File Pilot, is awesome](https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-12 visualstudiomagazine</small>  
-<small>[VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center](https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx)</small>
 

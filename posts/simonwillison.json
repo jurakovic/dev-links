@@ -1,5 +1,10 @@
 [
   {
+    "title": "Moltbook is the most interesting place on the internet right now",
+    "link": "https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything",
+    "pubDate": "2026-01-30T16:43:23+00:00"
+  },
+  {
     "title": "We gotta talk about AI as a programming tool for the arts",
     "link": "https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything",
     "pubDate": "2026-01-30T03:51:53+00:00"
@@ -18,10 +23,5 @@
     "title": "The Five Levels: from Spicy Autocomplete to the Dark Factory",
     "link": "https://simonwillison.net/2026/Jan/28/the-five-levels/#atom-everything",
     "pubDate": "2026-01-28T21:44:29+00:00"
-  },
-  {
-    "title": "One Human + One Agent = One Browser From Scratch",
-    "link": "https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/#atom-everything",
-    "pubDate": "2026-01-27T16:58:08+00:00"
   }
 ]
