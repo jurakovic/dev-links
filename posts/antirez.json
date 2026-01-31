@@ -1,5 +1,10 @@
 [
   {
+    "title": "Automatic programming",
+    "link": "http://antirez.com/news/159",
+    "pubDate": "Sat, 31 Jan 2026 10:25:27 +0100"
+  },
+  {
     "title": "Don't fall into the anti-AI hype",
     "link": "http://antirez.com/news/158",
     "pubDate": "Sun, 11 Jan 2026 11:15:51 +0100"
@@ -18,10 +23,5 @@
     "title": "AI is different",
     "link": "http://antirez.com/news/155",
     "pubDate": "Wed, 13 Aug 2025 17:59:56 +0200"
-  },
-  {
-    "title": "Coding with LLMs in the summer of 2025 (an update)",
-    "link": "http://antirez.com/news/154",
-    "pubDate": "Sun, 20 Jul 2025 12:58:54 +0200"
   }
 ]
