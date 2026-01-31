@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-31 simonwillison</small>  
+<small>[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
 
@@ -25,6 +28,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
 <small>[Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-30 bartwullems</small>  
+<small>[Using HTTP Files in VS Code with REST Client](https://bartwullems.blogspot.com/2026/01/using-http-files-in-vs-code-with-rest.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-30 stackoverflow</small>  
 <small>[Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/)</small>
 
@@ -36,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 erikej</small>  
 <small>[Getting Started with SQL Database Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-29 simonwillison</small>  
-<small>[Datasette 1.0a24](https://simonwillison.net/2026/Jan/29/datasette-10a24/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-29 stackoverflow</small>  
 <small>[Scaling enterprise AI: lessons in governance and operating models from IBM](https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/)</small>
@@ -114,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Pressure Without a Plan.](https://lethain.com/pressure-without-a-plan/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-23 bartwullems</small>  
-<small>[Passing parameters to a hosted MCP Server in C#](https://bartwullems.blogspot.com/2026/01/passing-parameters-to-hosted-mcp-server.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Copilot Studio Extension for VS Code Goes GA](https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx)</small>
