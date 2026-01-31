@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-31 simonwillison</small>  
+<small>[Singing the gospel of collective efficacy](https://simonwillison.net/2026/Jan/31/collective-efficacy/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
+<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Jan/30/steve-yegge/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
 <small>[Lesson 218 - Thread Delegate Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson218.html)</small>
 
@@ -42,12 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-29 bartwullems</small>  
 <small>[Checkout a Git repository using a tag in VSCode](https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-28 simonwillison</small>  
-<small>[Adding dynamic features to an aggressively cached website](https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-28 simonwillison</small>  
-<small>[The Five Levels: from Spicy Autocomplete to the Dark Factory](https://simonwillison.net/2026/Jan/28/the-five-levels/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-28 dotnet</small>  
 <small>[.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)</small>

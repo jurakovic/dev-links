@@ -1,5 +1,15 @@
 [
   {
+    "title": "Singing the gospel of collective efficacy",
+    "link": "https://simonwillison.net/2026/Jan/31/collective-efficacy/#atom-everything",
+    "pubDate": "2026-01-31T01:22:15+00:00"
+  },
+  {
+    "title": "Quoting Steve Yegge",
+    "link": "https://simonwillison.net/2026/Jan/30/steve-yegge/#atom-everything",
+    "pubDate": "2026-01-30T22:31:09+00:00"
+  },
+  {
     "title": "Moltbook is the most interesting place on the internet right now",
     "link": "https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything",
     "pubDate": "2026-01-30T16:43:23+00:00"
@@ -13,15 +23,5 @@
     "title": "Datasette 1.0a24",
     "link": "https://simonwillison.net/2026/Jan/29/datasette-10a24/#atom-everything",
     "pubDate": "2026-01-29T17:21:51+00:00"
-  },
-  {
-    "title": "Adding dynamic features to an aggressively cached website",
-    "link": "https://simonwillison.net/2026/Jan/28/dynamic-features-static-site/#atom-everything",
-    "pubDate": "2026-01-28T22:10:08+00:00"
-  },
-  {
-    "title": "The Five Levels: from Spicy Autocomplete to the Dark Factory",
-    "link": "https://simonwillison.net/2026/Jan/28/the-five-levels/#atom-everything",
-    "pubDate": "2026-01-28T21:44:29+00:00"
   }
 ]
