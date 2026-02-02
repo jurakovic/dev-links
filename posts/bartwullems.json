@@ -1,5 +1,10 @@
 [
   {
+    "title": "Simplifying data movement in Microsoft Fabric",
+    "link": "https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html",
+    "pubDate": "2026-02-02T07:08:00.052+01:00"
+  },
+  {
     "title": "Using HTTP Files in VS Code with REST Client",
     "link": "https://bartwullems.blogspot.com/2026/01/using-http-files-in-vs-code-with-rest.html",
     "pubDate": "2026-01-30T17:26:00.002+01:00"
@@ -18,10 +23,5 @@
     "title": "Why AI helps you to discover new parts of your favorite SDK–The NullLogger",
     "link": "https://bartwullems.blogspot.com/2026/01/why-ai-helps-you-to-discover-new-parts.html",
     "pubDate": "2026-01-27T07:05:00.008+01:00"
-  },
-  {
-    "title": "Testing your MCP server with Visual Studio HTTP Files",
-    "link": "https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html",
-    "pubDate": "2026-01-26T06:40:00.000+01:00"
   }
 ]

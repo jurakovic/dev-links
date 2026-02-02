@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-02 bartwullems</small>  
+<small>[Simplifying data movement in Microsoft Fabric](https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-01 simonwillison</small>  
 <small>[TIL: Running OpenClaw in Docker](https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything)</small>
 
@@ -96,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-26 dotnet</small>  
 <small>[Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-26 bartwullems</small>  
-<small>[Testing your MCP server with Visual Studio HTTP Files](https://bartwullems.blogspot.com/2026/01/testing-your-mcp-server-with-visual.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Should you include engineers in your leadership meetings?](https://lethain.com/should-include-eng-in-eng-leadership/)</small>
