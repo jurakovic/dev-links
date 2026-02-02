@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-02 stackoverflow</small>  
+<small>[What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-02-02 terriblesoftware</small>  
+<small>[Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-02 bartwullems</small>  
 <small>[Simplifying data movement in Microsoft Fabric](https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html)</small>
 
@@ -85,9 +91,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-27 stackoverflow</small>  
-<small>[Spy vs spy at scale](https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-27 bartwullems</small>  
 <small>[Why AI helps you to discover new parts of your favorite SDK–The NullLogger](https://bartwullems.blogspot.com/2026/01/why-ai-helps-you-to-discover-new-parts.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-15 visualstudio</small>  
 <small>[Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-14 microservices</small>  
-<small>[QCONSF Microservices Platforms part 2: service foundation platform](http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html)</small>
 

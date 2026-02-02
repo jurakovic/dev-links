@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s new at Stack Overflow: February 2026",
+    "link": "https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/",
+    "pubDate": "Mon, 02 Feb 2026 15:00:00 GMT"
+  },
+  {
     "title": "Wanna see a CSS magic trick?",
     "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
     "pubDate": "Fri, 30 Jan 2026 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Are bugs and incidents inevitable with AI coding agents?",
     "link": "https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/",
     "pubDate": "Wed, 28 Jan 2026 15:00:00 GMT"
-  },
-  {
-    "title": "Spy vs spy at scale",
-    "link": "https://stackoverflow.blog/2026/01/27/spy-vs-spy-at-scale/",
-    "pubDate": "Tue, 27 Jan 2026 08:40:00 GMT"
   }
 ]
