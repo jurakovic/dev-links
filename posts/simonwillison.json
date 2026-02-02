@@ -1,5 +1,10 @@
 [
   {
+    "title": "TIL: Running OpenClaw in Docker",
+    "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
+    "pubDate": "2026-02-01T23:59:13+00:00"
+  },
+  {
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything",
     "pubDate": "2026-01-31T21:44:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Moltbook is the most interesting place on the internet right now",
     "link": "https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything",
     "pubDate": "2026-01-30T16:43:23+00:00"
-  },
-  {
-    "title": "We gotta talk about AI as a programming tool for the arts",
-    "link": "https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything",
-    "pubDate": "2026-01-30T03:51:53+00:00"
   }
 ]

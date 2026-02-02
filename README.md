@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-01 simonwillison</small>  
+<small>[TIL: Running OpenClaw in Docker](https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-31 simonwillison</small>  
 <small>[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-30 stackoverflow</small>  
 <small>[Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
-<small>[We gotta talk about AI as a programming tool for the arts](https://simonwillison.net/2026/Jan/30/a-programming-tool-for-the-arts/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
 <small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
