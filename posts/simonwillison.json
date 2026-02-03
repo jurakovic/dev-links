@@ -1,5 +1,10 @@
 [
   {
+    "title": "January sponsors-only newsletter is out",
+    "link": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
+    "pubDate": "2026-02-03T06:36:10+00:00"
+  },
+  {
     "title": "Quoting Brandon Sanderson",
     "link": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
     "pubDate": "2026-02-03T02:31:10+00:00"
@@ -18,10 +23,5 @@
     "title": "TIL: Running OpenClaw in Docker",
     "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
     "pubDate": "2026-02-01T23:59:13+00:00"
-  },
-  {
-    "title": "Quoting Andrej Karpathy",
-    "link": "https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything",
-    "pubDate": "2026-01-31T21:44:02+00:00"
   }
 ]

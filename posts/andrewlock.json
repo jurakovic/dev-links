@@ -1,5 +1,10 @@
 [
   {
+    "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
+    "link": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
+    "pubDate": "Tue, 03 Feb 2026 10:00:00 GMT"
+  },
+  {
     "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1",
     "link": "https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
     "pubDate": "Tue, 27 Jan 2026 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support",
     "link": "https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/",
     "pubDate": "Fri, 02 Jan 2026 09:00:00 GMT"
-  },
-  {
-    "title": "Creating a .NET CLR profiler using C# and NativeAOT with Silhouette",
-    "link": "https://andrewlock.net/creating-a-dotnet-profiler-using-csharp-with-silhouette/",
-    "pubDate": "Tue, 16 Dec 2025 10:00:00 GMT"
   }
 ]

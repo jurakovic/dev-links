@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-03 andrewlock</small>  
+<small>[Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-03 stackoverflow</small>  
+<small>[Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
+<small>[January sponsors-only newsletter is out](https://simonwillison.net/2026/Feb/3/january/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-03 bartwullems</small>  
+<small>[Creating conditional flows in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-conditional-flows-in-tpl.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
 <small>[Quoting Brandon Sanderson](https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything)</small>
 
@@ -24,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-01 simonwillison</small>  
 <small>[TIL: Running OpenClaw in Docker](https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-31 simonwillison</small>  
-<small>[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
@@ -73,9 +82,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-28 github</small>  
 <small>[From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-28 stackoverflow</small>  
-<small>[Are bugs and incidents inevitable with AI coding agents?](https://stackoverflow.blog/2026/01/28/are-bugs-and-incidents-inevitable-with-ai-coding-agents/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-28 martinfowler</small>  
 <small>[Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)</small>
 
@@ -93,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-27 bartwullems</small>  
-<small>[Why AI helps you to discover new parts of your favorite SDK–The NullLogger](https://bartwullems.blogspot.com/2026/01/why-ai-helps-you-to-discover-new-parts.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-01-27 minidump</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-17 jonskeet</small>  
 <small>[Election 2029: Models and Reality](https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
-<small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
 
