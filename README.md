@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
+<small>[Quoting Brandon Sanderson](https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-02 simonwillison</small>  
+<small>[Introducing the Codex app](https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-02 simonwillison</small>  
+<small>[A Social Network for A.I. Bots Only. No Humans Allowed.](https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-02 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/)</small>
 
@@ -22,12 +31,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-31 simonwillison</small>  
-<small>[Singing the gospel of collective efficacy](https://simonwillison.net/2026/Jan/31/collective-efficacy/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
-<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Jan/30/steve-yegge/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
 <small>[Lesson 218 - Thread Delegate Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson218.html)</small>
 
@@ -37,14 +40,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
 <small>[Lesson 216 - Creating Scalable Systems (February 2, 2026)](http://www.developertoarchitect.com/lessons/lesson216.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-01-30 simonwillison</small>  
-<small>[Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-30 bartwullems</small>  
 <small>[Using HTTP Files in VS Code with REST Client](https://bartwullems.blogspot.com/2026/01/using-http-files-in-vs-code-with-rest.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-01-30 stackoverflow</small>  
 <small>[Wanna see a CSS magic trick?](https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 microservices</small>  
+<small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
 <small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-15 github</small>  
 <small>[When protections outlive their purpose: A lesson on managing defense systems at scale](https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-15 visualstudio</small>  
-<small>[Copilot Memories](https://devblogs.microsoft.com/visualstudio/copilot-memories/)</small>
 

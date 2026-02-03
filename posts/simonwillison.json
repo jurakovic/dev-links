@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Brandon Sanderson",
+    "link": "https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything",
+    "pubDate": "2026-02-03T02:31:10+00:00"
+  },
+  {
+    "title": "Introducing the Codex app",
+    "link": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
+    "pubDate": "2026-02-02T19:54:36+00:00"
+  },
+  {
+    "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
+    "link": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
+    "pubDate": "2026-02-02T16:42:46+00:00"
+  },
+  {
     "title": "TIL: Running OpenClaw in Docker",
     "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
     "pubDate": "2026-02-01T23:59:13+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2026/Jan/31/andrej-karpathy/#atom-everything",
     "pubDate": "2026-01-31T21:44:02+00:00"
-  },
-  {
-    "title": "Singing the gospel of collective efficacy",
-    "link": "https://simonwillison.net/2026/Jan/31/collective-efficacy/#atom-everything",
-    "pubDate": "2026-01-31T01:22:15+00:00"
-  },
-  {
-    "title": "Quoting Steve Yegge",
-    "link": "https://simonwillison.net/2026/Jan/30/steve-yegge/#atom-everything",
-    "pubDate": "2026-01-30T22:31:09+00:00"
-  },
-  {
-    "title": "Moltbook is the most interesting place on the internet right now",
-    "link": "https://simonwillison.net/2026/Jan/30/moltbook/#atom-everything",
-    "pubDate": "2026-01-30T16:43:23+00:00"
   }
 ]
