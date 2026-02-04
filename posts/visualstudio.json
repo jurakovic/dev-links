@@ -1,5 +1,10 @@
 [
   {
+    "title": "Roadmap for AI in Visual Studio (February)",
+    "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
+    "pubDate": "Wed, 04 Feb 2026 20:42:53 +0000"
+  },
+  {
     "title": "Performance improvements to MEF-based editor productivity extensions",
     "link": "https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/",
     "pubDate": "Tue, 03 Feb 2026 15:00:21 +0000"
@@ -18,10 +23,5 @@
     "title": "Welcome to 2026, A Growth Year for All of Us",
     "link": "https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/",
     "pubDate": "Mon, 05 Jan 2026 14:29:43 +0000"
-  },
-  {
-    "title": "How AI fixed my procrastination",
-    "link": "https://devblogs.microsoft.com/visualstudio/how-ai-fixed-my-procrastination/",
-    "pubDate": "Mon, 22 Dec 2025 15:00:38 +0000"
   }
 ]
