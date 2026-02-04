@@ -1,5 +1,10 @@
 [
   {
+    "title": "Creating recursion in TPL Dataflow with LinkTo predicates",
+    "link": "https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html",
+    "pubDate": "2026-02-04T07:13:00.006+01:00"
+  },
+  {
     "title": "Creating conditional flows in TPL Dataflow with LinkTo predicates",
     "link": "https://bartwullems.blogspot.com/2026/02/creating-conditional-flows-in-tpl.html",
     "pubDate": "2026-02-03T06:45:00.007+01:00"
@@ -18,10 +23,5 @@
     "title": "Checkout a Git repository using a tag in VSCode",
     "link": "https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html",
     "pubDate": "2026-01-29T06:58:00.013+01:00"
-  },
-  {
-    "title": "Error when using the Microsoft Fabric Capacity Metrics app",
-    "link": "https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html",
-    "pubDate": "2026-01-28T06:53:00.017+01:00"
   }
 ]

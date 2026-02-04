@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
+<small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-04 bartwullems</small>  
+<small>[Creating recursion in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-03 visualstudiomagazine</small>  
 <small>[VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks](https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx)</small>
 
@@ -94,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-28 microservices</small>  
 <small>[From two problems to four: the not-so-hidden complexity GenAI-based development](http://microservices.io//post/architecture/2026/01/28/when-two-problems-becomes-four-genai-based-development.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-28 bartwullems</small>  
-<small>[Error when using the Microsoft Fabric Capacity Metrics app](https://bartwullems.blogspot.com/2026/01/error-when-using-microsoft-fabric.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-27 visualstudio</small>  
 <small>[Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-20 andrewlock</small>  
 <small>[Making foreach on an IEnumerable allocation-free using reflection and dynamic methods](https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-19 microservices</small>  
-<small>[Another public service announcement: There are no silver bullets - GenAI included](http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html)</small>
 
