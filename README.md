@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-03 visualstudiomagazine</small>  
+<small>[VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks](https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
+<small>[Introducing Deno Sandbox](https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-03 visualstudio</small>  
 <small>[Performance improvements to MEF-based editor productivity extensions](https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/)</small>
 
@@ -36,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-02 bartwullems</small>  
 <small>[Simplifying data movement in Microsoft Fabric](https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-01 simonwillison</small>  
-<small>[TIL: Running OpenClaw in Docker](https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-19 microservices</small>  
 <small>[Another public service announcement: There are no silver bullets - GenAI included](http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-01-18 jonskeet</small>  
-<small>[Election 2029: Load Testing](https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/)</small>
 

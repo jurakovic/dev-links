@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Deno Sandbox",
+    "link": "https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything",
+    "pubDate": "2026-02-03T22:44:50+00:00"
+  },
+  {
     "title": "January sponsors-only newsletter is out",
     "link": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
     "pubDate": "2026-02-03T06:36:10+00:00"
@@ -18,10 +23,5 @@
     "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
     "link": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
     "pubDate": "2026-02-02T16:42:46+00:00"
-  },
-  {
-    "title": "TIL: Running OpenClaw in Docker",
-    "link": "https://simonwillison.net/2026/Feb/1/openclaw-in-docker/#atom-everything",
-    "pubDate": "2026-02-01T23:59:13+00:00"
   }
 ]

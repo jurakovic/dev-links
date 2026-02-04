@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx",
+    "pubDate": "Tue, 03 Feb 2026 22:54:00 GMT"
+  },
+  {
     "title": "Copilot Studio Extension for VS Code Goes GA",
     "link": "https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx",
     "pubDate": "Thu, 22 Jan 2026 22:38:00 GMT"
@@ -18,10 +23,5 @@
     "title": "C# Grabs Language of the Year, TIOBE Predicts TypeScript Rise",
     "link": "https://visualstudiomagazine.com/Articles/2026/01/08/Csharp-Grabs-Language-of-the-Year-TIOBE-Predicts-TypeScript-Rise.aspx",
     "pubDate": "Thu, 08 Jan 2026 17:38:00 GMT"
-  },
-  {
-    "title": "Microsoft: Devs Are Choosing Immersive Learning as AI and Modern .NET Accelerate",
-    "link": "https://visualstudiomagazine.com/Articles/2026/01/07/Microsoft-Devs-Are-Choosing-Immersive-Learning-as-AI-and-Modern-NET-Accelerate.aspx",
-    "pubDate": "Wed, 07 Jan 2026 17:31:00 GMT"
   }
 ]
