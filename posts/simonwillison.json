@@ -1,5 +1,10 @@
 [
   {
+    "title": "Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel",
+    "link": "https://simonwillison.net/2026/Feb/4/distributing-go-binaries/#atom-everything",
+    "pubDate": "2026-02-04T14:59:47+00:00"
+  },
+  {
     "title": "Introducing Deno Sandbox",
     "link": "https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything",
     "pubDate": "2026-02-03T22:44:50+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing the Codex app",
     "link": "https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything",
     "pubDate": "2026-02-02T19:54:36+00:00"
-  },
-  {
-    "title": "A Social Network for A.I. Bots Only. No Humans Allowed.",
-    "link": "https://simonwillison.net/2026/Feb/2/no-humans-allowed/#atom-everything",
-    "pubDate": "2026-02-02T16:42:46+00:00"
   }
 ]

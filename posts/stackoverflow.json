@@ -1,5 +1,10 @@
 [
   {
+    "title": "Code smells for AI agents: Q&A with Eno Reyes of Factory",
+    "link": "https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/",
+    "pubDate": "Wed, 04 Feb 2026 15:00:00 GMT"
+  },
+  {
     "title": "Generating text with diffusion (and ROI with LLMs)",
     "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
     "pubDate": "Tue, 03 Feb 2026 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Scaling enterprise AI: lessons in governance and operating models from IBM",
     "link": "https://stackoverflow.blog/2026/01/29/scaling-enterprise-ai-lessons-in-governance-and-operating-models-from-ibm/",
     "pubDate": "Thu, 29 Jan 2026 17:00:00 GMT"
-  },
-  {
-    "title": "Are you learning with AI? We want to know about it!",
-    "link": "https://stackoverflow.blog/2026/01/29/are-you-learning-with-ai-we-want-to-know-about-it/",
-    "pubDate": "Thu, 29 Jan 2026 15:00:00 GMT"
   }
 ]
