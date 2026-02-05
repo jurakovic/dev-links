@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-05 simonwillison</small>  
+<small>[Opus 4.6 and Codex 5.3](https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-05 dotnet</small>  
+<small>[.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-05 martinfowler</small>  
 <small>[Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html)</small>
 
@@ -51,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-03 stackoverflow</small>  
 <small>[Generating text with diffusion (and ROI with LLMs)](https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
-<small>[January sponsors-only newsletter is out](https://simonwillison.net/2026/Feb/3/january/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-03 bartwullems</small>  
 <small>[Creating conditional flows in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-conditional-flows-in-tpl.html)</small>
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration](https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-22 martinfowler</small>  
-<small>[Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html)</small>
 

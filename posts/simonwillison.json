@@ -1,5 +1,10 @@
 [
   {
+    "title": "Opus 4.6 and Codex 5.3",
+    "link": "https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything",
+    "pubDate": "2026-02-05T20:29:20+00:00"
+  },
+  {
     "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
     "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
     "pubDate": "2026-02-05T00:23:38+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing Deno Sandbox",
     "link": "https://simonwillison.net/2026/Feb/3/introducing-deno-sandbox/#atom-everything",
     "pubDate": "2026-02-03T22:44:50+00:00"
-  },
-  {
-    "title": "January sponsors-only newsletter is out",
-    "link": "https://simonwillison.net/2026/Feb/3/january/#atom-everything",
-    "pubDate": "2026-02-03T06:36:10+00:00"
   }
 ]
