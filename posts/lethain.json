@@ -1,5 +1,10 @@
 [
   {
+    "title": "Refactoring internal documentation in Notion",
+    "link": "https://lethain.com/refactoring-internal-docs-notion/",
+    "pubDate": "Thu, 05 Feb 2026 07:00:00 -0700"
+  },
+  {
     "title": "Should you include engineers in your leadership meetings?",
     "link": "https://lethain.com/should-include-eng-in-eng-leadership/",
     "pubDate": "Sun, 25 Jan 2026 13:00:00 -0700"
@@ -18,10 +23,5 @@
     "title": "Stripe's Lighthouse Hiring pattern.",
     "link": "https://lethain.com/lighthouse-hiring/",
     "pubDate": "Sun, 25 Jan 2026 09:00:00 -0700"
-  },
-  {
-    "title": "Pressure Without a Plan.",
-    "link": "https://lethain.com/pressure-without-a-plan/",
-    "pubDate": "Sun, 25 Jan 2026 08:00:00 -0700"
   }
 ]

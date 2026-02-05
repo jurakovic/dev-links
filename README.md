@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-05 martinfowler</small>  
+<small>[Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-02-05 lethain</small>  
+<small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-05 bartwullems</small>  
 <small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 1: Overview & Architecture](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution.html)</small>
 
@@ -139,9 +145,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Stripe's Lighthouse Hiring pattern.](https://lethain.com/lighthouse-hiring/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
-<small>[Pressure Without a Plan.](https://lethain.com/pressure-without-a-plan/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-01-22 visualstudiomagazine</small>  
 <small>[Copilot Studio Extension for VS Code Goes GA](https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-22 martinfowler</small>  
 <small>[Fragments: January 22](https://martinfowler.com/fragments/2026-01-22.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-01-22 terriblesoftware</small>  
-<small>[Why I Still Write Code as an Engineering Manager](https://terriblesoftware.org/2026/01/22/why-i-still-write-code-as-an-engineering-manager/)</small>
 
