@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-05 simonwillison</small>  
+<small>[Spotlighting The World Factbook as We Bid a Fond Farewell](https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-04 simonwillison</small>  
+<small>[Voxtral transcribes at the speed of sound](https://simonwillison.net/2026/Feb/4/voxtral-2/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
 
@@ -42,12 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-03 bartwullems</small>  
 <small>[Creating conditional flows in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-conditional-flows-in-tpl.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-03 simonwillison</small>  
-<small>[Quoting Brandon Sanderson](https://simonwillison.net/2026/Feb/3/brandon-sanderson/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-02 simonwillison</small>  
-<small>[Introducing the Codex app](https://simonwillison.net/2026/Feb/2/introducing-the-codex-app/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-02 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: February 2026](https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/)</small>
