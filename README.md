@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-05 bartwullems</small>  
+<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 1: Overview & Architecture](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-05 simonwillison</small>  
 <small>[Spotlighting The World Factbook as We Bid a Fond Farewell](https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 microservices</small>  
 <small>[My GenAI development workflow: Idea to Code](http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-01-29 bartwullems</small>  
-<small>[Checkout a Git repository using a tag in VSCode](https://bartwullems.blogspot.com/2026/01/checkout-git-repository-using-tag-in.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-28 dotnet</small>  
 <small>[.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)</small>
