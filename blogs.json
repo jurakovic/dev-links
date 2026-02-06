@@ -1,0 +1,212 @@
+[
+  {
+    "blog": "dotnet",
+    "feed": "https://devblogs.microsoft.com/dotnet/feed/",
+    "icon": "microsoft"
+  },
+  {
+    "blog": "visualstudio",
+    "feed": "https://devblogs.microsoft.com/visualstudio/feed/",
+    "icon": "microsoft"
+  },
+  {
+    "blog": "visualstudiomagazine",
+    "feed": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
+    "icon": "visualstudiomagazine"
+  },
+  {
+    "blog": "microservices",
+    "feed": "https://microservices.io/feed.xml",
+    "icon": "blank"
+  },
+  {
+    "blog": "developertoarchitect",
+    "feed": "https://www.developertoarchitect.com/lessons/index.xml",
+    "icon": "developertoarchitect"
+  },
+  {
+    "blog": "ardalis",
+    "feed": "https://ardalis.com/index.xml",
+    "icon": "ardalis"
+  },
+  {
+    "blog": "hanselman",
+    "feed": "https://www.hanselman.com/blog/feed/rss",
+    "icon": "hanselman"
+  },
+  {
+    "blog": "andrewlock",
+    "feed": "https://andrewlock.net/rss.xml",
+    "icon": "andrewlock"
+  },
+  {
+    "blog": "davecallan",
+    "feed": "https://davecallan.com/feed/",
+    "icon": "wp"
+  },
+  {
+    "blog": "stephencleary",
+    "feed": "https://feeds.feedburner.com/NitoPrograms",
+    "icon": "stephencleary"
+  },
+  {
+    "blog": "jonskeet",
+    "feed": "https://codeblog.jonskeet.uk/feed/",
+    "icon": "wp"
+  },
+  {
+    "blog": "jimmybogard",
+    "feed": "https://feeds.feedburner.com/grabbagoft",
+    "icon": "jimmybogard"
+  },
+  {
+    "blog": "devlead",
+    "feed": "https://www.devlead.se/feed.rss",
+    "icon": "devlead"
+  },
+  {
+    "blog": "steven-giesel",
+    "feed": "https://steven-giesel.com/feed.rss",
+    "icon": "steven-giesel"
+  },
+  {
+    "blog": "adamsitnik",
+    "feed": "https://adamsitnik.com/feed.xml",
+    "icon": "blank"
+  },
+  {
+    "blog": "minidump",
+    "feed": "https://minidump.net/index.xml",
+    "icon": "minidump"
+  },
+  {
+    "blog": "mattwarren",
+    "feed": "https://mattwarren.org/atom.xml",
+    "icon": "mattwarren"
+  },
+  {
+    "blog": "haacked",
+    "feed": "http://feeds.haacked.com/haacked",
+    "icon": "haacked"
+  },
+  {
+    "blog": "erikej",
+    "feed": "https://erikej.github.io/feed.xml",
+    "icon": "blank"
+  },
+  {
+    "blog": "enterprisecraftsmanship",
+    "feed": "https://enterprisecraftsmanship.com/index.xml",
+    "icon": "enterprisecraftsmanship"
+  },
+  {
+    "blog": "martinfowler",
+    "feed": "https://www.martinfowler.com/feed.atom",
+    "icon": "martinfowler"
+  },
+  {
+    "blog": "antirez",
+    "feed": "https://antirez.com/rss",
+    "icon": "blank"
+  },
+  {
+    "blog": "simonwillison",
+    "feed": "https://simonwillison.net/atom/everything/",
+    "icon": "simonwillison"
+  },
+  {
+    "blog": "nickcraver",
+    "feed": "https://nickcraver.com/blog/feed.xml",
+    "icon": "nickcraver"
+  },
+  {
+    "blog": "codinghorror",
+    "feed": "https://blog.codinghorror.com/rss/",
+    "icon": "codinghorror"
+  },
+  {
+    "blog": "joelonsoftware",
+    "feed": "https://www.joelonsoftware.com/feed/",
+    "icon": "joelonsoftware"
+  },
+  {
+    "blog": "neilonsoftware",
+    "feed": "https://neilonsoftware.com/feed/",
+    "icon": "neilonsoftware"
+  },
+  {
+    "blog": "brendangregg",
+    "feed": "https://www.brendangregg.com/blog/rss.xml",
+    "icon": "brendangregg"
+  },
+  {
+    "blog": "tidyfirst",
+    "feed": "https://tidyfirst.substack.com/feed",
+    "icon": "tidyfirst"
+  },
+  {
+    "blog": "paulhammant",
+    "feed": "https://feeds.feedburner.com/paulhammant",
+    "icon": "blank"
+  },
+  {
+    "blog": "sizovs",
+    "feed": "https://sizovs.net/feed.xml",
+    "icon": "sizovs"
+  },
+  {
+    "blog": "bartwullems",
+    "feed": "https://bartwullems.blogspot.com/feeds/posts/default",
+    "icon": "blogspot"
+  },
+  {
+    "blog": "pragmaticengineer",
+    "feed": "https://feeds.feedburner.com/ThePragmaticEngineer",
+    "icon": "pragmaticengineer"
+  },
+  {
+    "blog": "vadimkravcenko",
+    "feed": "https://vadimkravcenko.com/feed/",
+    "icon": "vadimkravcenko"
+  },
+  {
+    "blog": "thecodist",
+    "feed": "https://thecodist.com/rss/",
+    "icon": "thecodist"
+  },
+  {
+    "blog": "terriblesoftware",
+    "feed": "https://terriblesoftware.org/feed/",
+    "icon": "terriblesoftware"
+  },
+  {
+    "blog": "lethain",
+    "feed": "https://lethain.com/feeds/",
+    "icon": "lethain"
+  },
+  {
+    "blog": "effectiveengineer",
+    "feed": "https://www.effectiveengineer.com/atom.xml",
+    "icon": "effectiveengineer"
+  },
+  {
+    "blog": "stackoverflow",
+    "feed": "https://stackoverflow.blog/feed",
+    "icon": "stackoverflow"
+  },
+  {
+    "blog": "github",
+    "feed": "https://github.blog/engineering/feed/",
+    "icon": "github"
+  },
+  {
+    "blog": "netflix",
+    "feed": "https://netflixtechblog.com/feed",
+    "icon": "netflix"
+  },
+  {
+    "blog": "slack",
+    "feed": "https://slack.engineering/feed/",
+    "icon": "slack"
+  }
+]
