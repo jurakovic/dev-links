@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sometimes you just need extensions methods to model your stuff",
+    "link": "https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e",
+    "pubDate": "Sun, 25 Jan 2026 17:28:49 Z"
+  },
+  {
+    "title": "Collection Expression Arguments in C# 15+",
+    "link": "https://steven-giesel.com/blogPost/352fe495-9cc4-4df8-8ad1-a3e26a64185c",
+    "pubDate": "Mon, 12 Jan 2026 05:54:00 Z"
+  },
+  {
     "title": ".NET Toolbox",
     "link": "https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083",
     "pubDate": "Mon, 05 Jan 2026 05:41:00 Z"
@@ -13,15 +23,5 @@
     "title": "One Minute Knowledge: Is ToArrayAsync or ToListAsync faster for Entity Framework?",
     "link": "https://steven-giesel.com/blogPost/55dbb67c-cd14-444f-81e8-dec9f5ce1448",
     "pubDate": "Mon, 15 Dec 2025 08:33:36 Z"
-  },
-  {
-    "title": "GitHub Runners might not be a good benchmark baseline",
-    "link": "https://steven-giesel.com/blogPost/77f3667e-cf86-4e62-b09f-b32c0aaf58cd",
-    "pubDate": "Tue, 09 Dec 2025 16:32:44 Z"
-  },
-  {
-    "title": "Mime Type Helper in .NET 11",
-    "link": "https://steven-giesel.com/blogPost/8f41d316-f6ac-4712-bf11-ea36b7c2f2e6",
-    "pubDate": "Tue, 02 Dec 2025 08:11:07 Z"
   }
 ]

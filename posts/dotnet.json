@@ -1,27 +1,27 @@
 [
   {
-    "title": "Generative AI with Large Language Models in C# in 2026",
-    "link": "https://devblogs.microsoft.com/dotnet/generative-ai-with-large-language-models-in-dotnet-and-csharp/",
-    "pubDate": "Mon, 05 Jan 2026 18:05:00 +0000"
+    "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
+    "pubDate": "Thu, 05 Feb 2026 18:00:00 +0000"
   },
   {
-    "title": "Top .NET Videos & Live Streams of 2025",
-    "link": "https://devblogs.microsoft.com/dotnet/top-dotnet-videos-live-streams-of-2025/",
-    "pubDate": "Wed, 31 Dec 2025 18:05:00 +0000"
+    "title": ".NET AI Essentials – The Core Building Blocks Explained",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
+    "pubDate": "Wed, 28 Jan 2026 17:30:00 +0000"
   },
   {
-    "title": "Top .NET Blog Posts of 2025",
-    "link": "https://devblogs.microsoft.com/dotnet/top-dotnet-blogs-posts-of-2025/",
-    "pubDate": "Tue, 30 Dec 2025 18:05:00 +0000"
+    "title": "Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together",
+    "link": "https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/",
+    "pubDate": "Mon, 26 Jan 2026 18:05:00 +0000"
   },
   {
-    "title": "Microsoft.Testing.Platform Now Fully Supported in Azure DevOps",
-    "link": "https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-azure-retry/",
-    "pubDate": "Tue, 16 Dec 2025 18:05:00 +0000"
+    "title": ".NET and .NET Framework January 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/",
+    "pubDate": "Tue, 13 Jan 2026 21:24:09 +0000"
   },
   {
-    "title": "How to Build iOS Widgets with .NET MAUI",
-    "link": "https://devblogs.microsoft.com/dotnet/how-to-build-ios-widgets-with-dotnet-maui/",
-    "pubDate": "Mon, 15 Dec 2025 18:05:00 +0000"
+    "title": "How to Build Android Widgets with .NET MAUI",
+    "link": "https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/",
+    "pubDate": "Mon, 12 Jan 2026 18:05:00 +0000"
   }
 ]

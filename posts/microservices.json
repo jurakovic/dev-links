@@ -1,27 +1,27 @@
 [
   {
-    "title": "Microservices Platforms: When Team Topologies Meets Microservices Patterns - part 1",
-    "link": "http://microservices.io//post/architecture/2025/12/10/qconsf-microservices-platforms-part-1.html",
-    "pubDate": "Wed, 10 Dec 2025 10:00:00 +0000"
+    "title": "QCONSF Microservices Platforms part 3: Security platform",
+    "link": "http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html",
+    "pubDate": "Fri, 30 Jan 2026 08:01:00 +0000"
   },
   {
-    "title": "Authentication and authorization in a microservice architecture: Part 5 - implementing complex authorization using Oso Cloud",
-    "link": "http://microservices.io//post/architecture/2025/12/09/microservices-authn-authz-part-5-using-an-authorization-service.html",
-    "pubDate": "Tue, 09 Dec 2025 08:03:00 +0000"
+    "title": "My GenAI development workflow: Idea to Code",
+    "link": "http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html",
+    "pubDate": "Thu, 29 Jan 2026 08:03:00 +0000"
   },
   {
-    "title": "Berlin meetup: Microservices rules - what good looks like",
-    "link": "http://microservices.io//post/architecture/2025/11/29/berlin-meeting-microservices-rules.html",
-    "pubDate": "Sat, 29 Nov 2025 10:00:00 +0000"
+    "title": "From two problems to four: the not-so-hidden complexity GenAI-based development",
+    "link": "http://microservices.io//post/architecture/2026/01/28/when-two-problems-becomes-four-genai-based-development.html",
+    "pubDate": "Wed, 28 Jan 2026 08:03:00 +0000"
   },
   {
-    "title": "SAG 2025 - Socio-Technical Evolution: Growing an Architecture and Its Organization for Fast Flow",
-    "link": "http://microservices.io//post/architecture/2025/11/29/sag-2025-growing-sociotechical-architecture.html",
-    "pubDate": "Sat, 29 Nov 2025 08:02:00 +0000"
+    "title": "Another public service announcement: There are no silver bullets - GenAI included",
+    "link": "http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html",
+    "pubDate": "Mon, 19 Jan 2026 08:03:00 +0000"
   },
   {
-    "title": "QCONSF 2025 Microservices Platforms: When Team Topologies Meets Microservices Patterns",
-    "link": "http://microservices.io//post/architecture/2025/11/23/qconsf-2025-microservices-platforms.html",
-    "pubDate": "Sun, 23 Nov 2025 08:05:00 +0000"
+    "title": "QCONSF Microservices Platforms part 2: service foundation platform",
+    "link": "http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html",
+    "pubDate": "Wed, 14 Jan 2026 10:01:00 +0000"
   }
 ]

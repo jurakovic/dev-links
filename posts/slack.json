@@ -5,6 +5,11 @@
     "pubDate": "Mon, 01 Dec 2025 16:00:42 +0000"
   },
   {
+    "title": "Android VPAT journey",
+    "link": "https://slack.engineering/android-vpat-journey/",
+    "pubDate": "Wed, 19 Nov 2025 18:00:39 +0000"
+  },
+  {
     "title": "Build better software to build software better",
     "link": "https://slack.engineering/build-better-software-to-build-software-better/",
     "pubDate": "Thu, 06 Nov 2025 16:00:47 +0000"
@@ -18,10 +23,5 @@
     "title": "Deploy Safety: Reducing customer impact from change",
     "link": "https://slack.engineering/deploy-safety/",
     "pubDate": "Tue, 07 Oct 2025 16:33:12 +0000"
-  },
-  {
-    "title": "Building Slack’s Anomaly Event Response",
-    "link": "https://slack.engineering/building-slacks-anomaly-event-response/",
-    "pubDate": "Thu, 04 Sep 2025 10:00:02 +0000"
   }
 ]

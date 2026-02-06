@@ -1,27 +1,27 @@
 [
   {
-    "title": "Background agents in GitHub Copilot",
-    "link": "https://bartwullems.blogspot.com/2026/01/background-agents-in-github-copilot.html",
-    "pubDate": "2026-01-06T06:35:00.018+01:00"
+    "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 2: Data collection with Azure Arc",
+    "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_024280496.html",
+    "pubDate": "2026-02-06T09:17:00.054+01:00"
   },
   {
-    "title": "Automate your full development process with handoffs",
-    "link": "https://bartwullems.blogspot.com/2026/01/automate-your-full-development-process.html",
-    "pubDate": "2026-01-05T07:00:00.030+01:00"
+    "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 1: Overview & Architecture",
+    "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution.html",
+    "pubDate": "2026-02-05T06:59:00.018+01:00"
   },
   {
-    "title": "Why you can't have a ‘work self’ and a ‘home self’",
-    "link": "https://bartwullems.blogspot.com/2025/12/why-you-cant-have-work-self-and-home.html",
-    "pubDate": "2025-12-24T07:39:00.012+01:00"
+    "title": "Creating recursion in TPL Dataflow with LinkTo predicates",
+    "link": "https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html",
+    "pubDate": "2026-02-04T07:13:00.006+01:00"
   },
   {
-    "title": "Gain insights in your software supply chain using GitHub’s Dependency Graph",
-    "link": "https://bartwullems.blogspot.com/2025/12/gain-insights-in-your-software-supply.html",
-    "pubDate": "2025-12-23T07:37:00.000+01:00"
+    "title": "Creating conditional flows in TPL Dataflow with LinkTo predicates",
+    "link": "https://bartwullems.blogspot.com/2026/02/creating-conditional-flows-in-tpl.html",
+    "pubDate": "2026-02-03T06:45:00.007+01:00"
   },
   {
-    "title": "Take a tour along the Microsoft Datacenters",
-    "link": "https://bartwullems.blogspot.com/2025/12/take-tour-along-microsoft-datacenters.html",
-    "pubDate": "2025-12-22T07:50:00.020+01:00"
+    "title": "Simplifying data movement in Microsoft Fabric",
+    "link": "https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html",
+    "pubDate": "2026-02-02T07:08:00.052+01:00"
   }
 ]
