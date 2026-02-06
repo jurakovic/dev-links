@@ -5,28 +5,14 @@ const path = require('path');
 const POSTS_DIR = path.join(__dirname, 'posts');
 const TEMPLATE_FILE = path.join(__dirname, 'README.template');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
+const BLOGS_JSON = path.join(__dirname, 'blogs.json');
 const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/';
 
-// --- Helper to get icon name ---
-function getIconName(feed) {
-    switch (feed) {
-        case 'dotnet':
-        case 'visualstudio':
-            return 'microsoft';
-        case 'davecallan':
-        case 'jonskeet':
-            return 'wp';
-        case 'bartwullems':
-            return 'blogspot';
-        case 'adamsitnik':
-        case 'antirez':
-        case 'erikej':
-        case 'microservices':
-        case 'paulhammant':
-            return 'blank';
-        default:
-            return feed;
-    }
+// --- Load blogs config ---
+const blogsConfig = JSON.parse(fs.readFileSync(BLOGS_JSON, 'utf8'));
+const iconMap = {};
+for (const blog of blogsConfig) {
+    iconMap[blog.title] = blog.icon;
 }
 
 // --- Read all json files ---
@@ -66,8 +52,8 @@ for (const post of posts50) {
     let mm = String(d.getMonth() + 1).padStart(2, '0');
     let dd = String(d.getDate()).padStart(2, '0');
     let dateStr = isNaN(yyyy) ? post.pubDate : `${yyyy}-${mm}-${dd}`;
-    // Icon
-    let icon = getIconName(post.feed);
+    // Icon from blogs.json
+    let icon = iconMap[post.feed] || 'blank';
     // Markdown escape for title (minimal)
     let escTitle = post.title.replace(/([*_`\[\]])/g, '\\$1');
     // Output

@@ -35,6 +35,7 @@ jobs:
       - name: Prepare Scripts
         run: |
           # get scripts
+          git restore --source origin/${{ github.ref_name }} -- blogs.json
           git restore --source origin/${{ github.ref_name }} -- gen_news.js
           git restore --source origin/${{ github.ref_name }} -- update_posts.sh
           chmod +x ./update_posts.sh
@@ -45,6 +46,7 @@ jobs:
           ./update_posts.sh
 
           # cleanup temp scripts
+          rm blogs.json
           rm gen_news.js
           rm update_posts.sh
 
