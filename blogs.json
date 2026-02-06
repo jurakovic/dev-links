@@ -1,252 +1,294 @@
 [
   {
     "title": "dotnet",
+    "htmlUrl": "https://devblogs.microsoft.com/dotnet/",
     "feedUrl": "https://devblogs.microsoft.com/dotnet/feed/",
     "category": "dotnet",
     "icon": "microsoft"
   },
   {
     "title": "visualstudio",
+    "htmlUrl": "https://devblogs.microsoft.com/visualstudio/",
     "feedUrl": "https://devblogs.microsoft.com/visualstudio/feed/",
     "category": "dotnet",
     "icon": "microsoft"
   },
   {
     "title": "visualstudiomagazine",
+    "htmlUrl": "https://visualstudiomagazine.com",
     "feedUrl": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
     "category": "dotnet",
     "icon": "visualstudiomagazine"
   },
   {
     "title": "microservices",
+    "htmlUrl": "https://microservices.io",
     "feedUrl": "https://microservices.io/feed.xml",
     "category": "architecture",
     "icon": "blank"
   },
   {
     "title": "developertoarchitect",
+    "htmlUrl": "https://developertoarchitect.com/lessons/",
     "feedUrl": "https://www.developertoarchitect.com/lessons/index.xml",
     "category": "architecture",
     "icon": "developertoarchitect"
   },
   {
     "title": "ardalis",
+    "htmlUrl": "https://ardalis.com/blog",
     "feedUrl": "https://ardalis.com/index.xml",
     "category": "dotnet",
     "icon": "ardalis"
   },
   {
     "title": "hanselman",
+    "htmlUrl": "https://www.hanselman.com/blog/",
     "feedUrl": "https://www.hanselman.com/blog/feed/rss",
     "category": "dotnet",
     "icon": "hanselman"
   },
   {
     "title": "andrewlock",
+    "htmlUrl": "https://andrewlock.net",
     "feedUrl": "https://andrewlock.net/rss.xml",
     "category": "dotnet",
     "icon": "andrewlock"
   },
   {
     "title": "davecallan",
+    "htmlUrl": "https://davecallan.com",
     "feedUrl": "https://davecallan.com/feed/",
     "category": "dotnet",
     "icon": "wp"
   },
   {
     "title": "stephencleary",
+    "htmlUrl": "https://blog.stephencleary.com",
     "feedUrl": "https://feeds.feedburner.com/NitoPrograms",
     "category": "dotnet",
     "icon": "stephencleary"
   },
   {
     "title": "jonskeet",
+    "htmlUrl": "https://codeblog.jonskeet.uk",
     "feedUrl": "https://codeblog.jonskeet.uk/feed/",
     "category": "dotnet",
     "icon": "wp"
   },
   {
     "title": "jimmybogard",
+    "htmlUrl": "https://www.jimmybogard.com",
     "feedUrl": "https://feeds.feedburner.com/grabbagoft",
     "category": "dotnet",
     "icon": "jimmybogard"
   },
   {
     "title": "devlead",
+    "htmlUrl": "https://www.devlead.se",
     "feedUrl": "https://www.devlead.se/feed.rss",
     "category": "dotnet",
     "icon": "devlead"
   },
   {
     "title": "steven-giesel",
+    "htmlUrl": "https://steven-giesel.com/archive",
     "feedUrl": "https://steven-giesel.com/feed.rss",
     "category": "dotnet",
     "icon": "steven-giesel"
   },
   {
     "title": "adamsitnik",
+    "htmlUrl": "https://adamsitnik.com",
     "feedUrl": "https://adamsitnik.com/feed.xml",
     "category": "dotnet",
     "icon": "blank"
   },
   {
     "title": "minidump",
+    "htmlUrl": "https://minidump.net",
     "feedUrl": "https://minidump.net/index.xml",
     "category": "dotnet",
     "icon": "minidump"
   },
   {
     "title": "mattwarren",
+    "htmlUrl": "https://mattwarren.org",
     "feedUrl": "https://mattwarren.org/atom.xml",
     "category": "dotnet",
     "icon": "mattwarren"
   },
   {
     "title": "haacked",
+    "htmlUrl": "https://haacked.com/archives/",
     "feedUrl": "http://feeds.haacked.com/haacked",
     "category": "dotnet",
     "icon": "haacked"
   },
   {
     "title": "erikej",
+    "htmlUrl": "https://erikej.github.io",
     "feedUrl": "https://erikej.github.io/feed.xml",
     "category": "dotnet",
     "icon": "blank"
   },
   {
     "title": "enterprisecraftsmanship",
+    "htmlUrl": "https://enterprisecraftsmanship.com/archives",
     "feedUrl": "https://enterprisecraftsmanship.com/index.xml",
     "category": "dotnet",
     "icon": "enterprisecraftsmanship"
   },
   {
     "title": "martinfowler",
+    "htmlUrl": "https://www.martinfowler.com/recent-changes.html",
     "feedUrl": "https://www.martinfowler.com/feed.atom",
     "category": "general",
     "icon": "martinfowler"
   },
   {
     "title": "antirez",
+    "htmlUrl": "https://antirez.com",
     "feedUrl": "https://antirez.com/rss",
     "category": "general",
     "icon": "blank"
   },
   {
     "title": "simonwillison",
+    "htmlUrl": "https://simonwillison.net",
     "feedUrl": "https://simonwillison.net/atom/everything/",
     "category": "general",
     "icon": "simonwillison"
   },
   {
     "title": "nickcraver",
+    "htmlUrl": "https://nickcraver.com/blog/",
     "feedUrl": "https://nickcraver.com/blog/feed.xml",
     "category": "general",
     "icon": "nickcraver"
   },
   {
     "title": "codinghorror",
+    "htmlUrl": "https://blog.codinghorror.com",
     "feedUrl": "https://blog.codinghorror.com/rss/",
     "category": "general",
     "icon": "codinghorror"
   },
   {
     "title": "joelonsoftware",
+    "htmlUrl": "https://www.joelonsoftware.com",
     "feedUrl": "https://www.joelonsoftware.com/feed/",
     "category": "general",
     "icon": "joelonsoftware"
   },
   {
     "title": "neilonsoftware",
+    "htmlUrl": "https://neilonsoftware.com/articles/",
     "feedUrl": "https://neilonsoftware.com/feed/",
     "category": "general",
     "icon": "neilonsoftware"
   },
   {
     "title": "brendangregg",
+    "htmlUrl": "https://www.brendangregg.com/blog/",
     "feedUrl": "https://www.brendangregg.com/blog/rss.xml",
     "category": "general",
     "icon": "brendangregg"
   },
   {
     "title": "tidyfirst",
+    "htmlUrl": "https://tidyfirst.substack.com/archive",
     "feedUrl": "https://tidyfirst.substack.com/feed",
     "category": "general",
     "icon": "tidyfirst"
   },
   {
     "title": "paulhammant",
+    "htmlUrl": "https://paulhammant.com/archive/",
     "feedUrl": "https://feeds.feedburner.com/paulhammant",
     "category": "general",
     "icon": "blank"
   },
   {
     "title": "sizovs",
+    "htmlUrl": "https://sizovs.net",
     "feedUrl": "https://sizovs.net/feed.xml",
     "category": "general",
     "icon": "sizovs"
   },
   {
     "title": "bartwullems",
+    "htmlUrl": "https://bartwullems.blogspot.com",
     "feedUrl": "https://bartwullems.blogspot.com/feeds/posts/default",
     "category": "general",
     "icon": "blogspot"
   },
   {
     "title": "pragmaticengineer",
+    "htmlUrl": "https://blog.pragmaticengineer.com",
     "feedUrl": "https://feeds.feedburner.com/ThePragmaticEngineer",
     "category": "general",
     "icon": "pragmaticengineer"
   },
   {
     "title": "vadimkravcenko",
+    "htmlUrl": "https://vadimkravcenko.com/newsletter/#h-past-issues",
     "feedUrl": "https://vadimkravcenko.com/feed/",
     "category": "general",
     "icon": "vadimkravcenko"
   },
   {
     "title": "thecodist",
+    "htmlUrl": "https://thecodist.com",
     "feedUrl": "https://thecodist.com/rss/",
     "category": "general",
     "icon": "thecodist"
   },
   {
     "title": "terriblesoftware",
+    "htmlUrl": "https://terriblesoftware.org/",
     "feedUrl": "https://terriblesoftware.org/feed/",
     "category": "management",
     "icon": "terriblesoftware"
   },
   {
     "title": "lethain",
+    "htmlUrl": "https://lethain.com",
     "feedUrl": "https://lethain.com/feeds/",
     "category": "management",
     "icon": "lethain"
   },
   {
     "title": "effectiveengineer",
+    "htmlUrl": "https://www.effectiveengineer.com/blog",
     "feedUrl": "https://www.effectiveengineer.com/atom.xml",
     "category": "management",
     "icon": "effectiveengineer"
   },
   {
     "title": "stackoverflow",
+    "htmlUrl": "https://stackoverflow.blog/",
     "feedUrl": "https://stackoverflow.blog/feed",
     "category": "tech-companies",
     "icon": "stackoverflow"
   },
   {
     "title": "github",
+    "htmlUrl": "https://github.blog/category/engineering/",
     "feedUrl": "https://github.blog/engineering/feed/",
     "category": "tech-companies",
     "icon": "github"
   },
   {
     "title": "netflix",
+    "htmlUrl": "https://netflixtechblog.com",
     "feedUrl": "https://netflixtechblog.com/feed",
     "category": "tech-companies",
     "icon": "netflix"
   },
   {
     "title": "slack",
+    "htmlUrl": "https://slack.engineering",
     "feedUrl": "https://slack.engineering/feed/",
     "category": "tech-companies",
     "icon": "slack"
