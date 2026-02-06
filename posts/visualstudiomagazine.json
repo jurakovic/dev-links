@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.109 Deemed a Multi-Agent Development Platform",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx",
+    "pubDate": "Thu, 05 Feb 2026 22:30:00 GMT"
+  },
+  {
     "title": "VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks",
     "link": "https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx",
     "pubDate": "Tue, 03 Feb 2026 22:54:00 GMT"
@@ -18,10 +23,5 @@
     "title": "VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center",
     "link": "https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx",
     "pubDate": "Mon, 12 Jan 2026 23:43:00 GMT"
-  },
-  {
-    "title": "C# Grabs Language of the Year, TIOBE Predicts TypeScript Rise",
-    "link": "https://visualstudiomagazine.com/Articles/2026/01/08/Csharp-Grabs-Language-of-the-Year-TIOBE-Predicts-TypeScript-Rise.aspx",
-    "pubDate": "Thu, 08 Jan 2026 17:38:00 GMT"
   }
 ]
