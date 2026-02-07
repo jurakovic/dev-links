@@ -1,5 +1,10 @@
 [
   {
+    "title": "How StrongDM's AI team build serious software without even looking at the code",
+    "link": "https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything",
+    "pubDate": "2026-02-07T15:40:48+00:00"
+  },
+  {
     "title": "Quoting Tom Dale",
     "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
     "pubDate": "2026-02-06T23:41:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Karel D'Oosterlinck",
     "link": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
     "pubDate": "2026-02-06T00:42:22+00:00"
-  },
-  {
-    "title": "Mitchell Hashimoto: My AI Adoption Journey",
-    "link": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
-    "pubDate": "2026-02-05T23:39:07+00:00"
   }
 ]
