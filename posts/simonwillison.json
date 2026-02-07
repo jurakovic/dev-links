@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Tom Dale",
+    "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
+    "pubDate": "2026-02-06T23:41:31+00:00"
+  },
+  {
+    "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
+    "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
+    "pubDate": "2026-02-06T22:31:31+00:00"
+  },
+  {
     "title": "An Update on Heroku",
     "link": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
     "pubDate": "2026-02-06T18:44:21+00:00"
@@ -13,15 +23,5 @@
     "title": "Mitchell Hashimoto: My AI Adoption Journey",
     "link": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
     "pubDate": "2026-02-05T23:39:07+00:00"
-  },
-  {
-    "title": "Opus 4.6 and Codex 5.3",
-    "link": "https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything",
-    "pubDate": "2026-02-05T20:29:20+00:00"
-  },
-  {
-    "title": "Spotlighting The World Factbook as We Bid a Fond Farewell",
-    "link": "https://simonwillison.net/2026/Feb/5/the-world-factbook/#atom-everything",
-    "pubDate": "2026-02-05T00:23:38+00:00"
   }
 ]
