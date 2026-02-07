@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting David Crawshaw",
+    "link": "https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything",
+    "pubDate": "2026-02-07T21:31:44+00:00"
+  },
+  {
     "title": "How StrongDM's AI team build serious software without even looking at the code",
     "link": "https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything",
     "pubDate": "2026-02-07T15:40:48+00:00"
@@ -18,10 +23,5 @@
     "title": "An Update on Heroku",
     "link": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
     "pubDate": "2026-02-06T18:44:21+00:00"
-  },
-  {
-    "title": "Quoting Karel D'Oosterlinck",
-    "link": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
-    "pubDate": "2026-02-06T00:42:22+00:00"
   }
 ]
