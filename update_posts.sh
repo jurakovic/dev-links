@@ -42,7 +42,9 @@ function update() {
 cd posts
 
 # Read blogs from blogs.json and process each one
-jq -r '.[] | "\(.feedUrl)|\(.title)"' ../blogs.json | while IFS='|' read -r feed_url title; do
+# --binary / -b:
+# Windows users using WSL, MSYS2, or Cygwin, should use this option when using a native jq.exe, otherwise jq will turn newlines (LFs) into carriage-return-then-newline (CRLF).
+jq -b -r '.[] | "\(.feedUrl)|\(.title)"' ../blogs.json | while IFS='|' read -r feed_url title; do
   update "$feed_url" "$title"
 done
 
