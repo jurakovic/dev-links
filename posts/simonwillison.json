@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Thomas Ptacek",
+    "link": "https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything",
+    "pubDate": "2026-02-08T02:25:53+00:00"
+  },
+  {
+    "title": "Vouch",
+    "link": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
+    "pubDate": "2026-02-07T23:57:57+00:00"
+  },
+  {
+    "title": "Claude: Speed up responses with fast mode",
+    "link": "https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything",
+    "pubDate": "2026-02-07T23:10:33+00:00"
+  },
+  {
     "title": "Quoting David Crawshaw",
     "link": "https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything",
     "pubDate": "2026-02-07T21:31:44+00:00"
@@ -8,20 +23,5 @@
     "title": "How StrongDM's AI team build serious software without even looking at the code",
     "link": "https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything",
     "pubDate": "2026-02-07T15:40:48+00:00"
-  },
-  {
-    "title": "Quoting Tom Dale",
-    "link": "https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything",
-    "pubDate": "2026-02-06T23:41:31+00:00"
-  },
-  {
-    "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
-    "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
-    "pubDate": "2026-02-06T22:31:31+00:00"
-  },
-  {
-    "title": "An Update on Heroku",
-    "link": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
-    "pubDate": "2026-02-06T18:44:21+00:00"
   }
 ]

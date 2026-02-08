@@ -4,20 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
+<small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
+<small>[Vouch](https://simonwillison.net/2026/Feb/7/vouch/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
+<small>[Claude: Speed up responses with fast mode](https://simonwillison.net/2026/Feb/7/claude-fast-mode/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
 <small>[Quoting David Crawshaw](https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
 <small>[How StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-06 simonwillison</small>  
-<small>[Quoting Tom Dale](https://simonwillison.net/2026/Feb/6/tom-dale/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-06 simonwillison</small>  
-<small>[Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly](https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-06 simonwillison</small>  
-<small>[An Update on Heroku](https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
 <small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
