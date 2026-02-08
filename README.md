@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
+<small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
+<small>[Kākāpō mug by Karen James](https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
 <small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything)</small>
 
@@ -15,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
 <small>[Quoting David Crawshaw](https://simonwillison.net/2026/Feb/7/david-crawshaw/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
-<small>[How StrongDM's AI team build serious software without even looking at the code](https://simonwillison.net/2026/Feb/7/software-factory/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
 <small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
@@ -57,6 +60,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-04 bartwullems</small>  
 <small>[Creating recursion in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-04 hanselman</small>  
+<small>[The danger of glamourizing one shots](https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-03 visualstudiomagazine</small>  
 <small>[VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks](https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-25 steven-giesel</small>  
 <small>[Sometimes you just need extensions methods to model your stuff](https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
-<small>[Curiosity is the first-step in problem solving.](https://lethain.com/curiosity-first-step-problem-solving/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
-<small>[Stripe's Lighthouse Hiring pattern.](https://lethain.com/lighthouse-hiring/)</small>
 
