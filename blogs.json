@@ -250,17 +250,6 @@
     "icon": "mikesdotnetting"
   },
   {
-    "id": "simonwillison",
-    "author": "Simon Willison",
-    "title": "",
-    "url": "https://simonwillison.net",
-    "feed": "https://simonwillison.net/atom/everything/",
-    "extras": [],
-    "github": "https://github.com/simonw",
-    "category": "ai",
-    "icon": "simonwillison"
-  },
-  {
     "id": "martinfowler",
     "author": "Martin Fowler",
     "title": "",
@@ -281,6 +270,17 @@
     "github": "https://github.com/antirez",
     "category": "general",
     "icon": "blank"
+  },
+  {
+    "id": "simonwillison",
+    "author": "Simon Willison",
+    "title": "",
+    "url": "https://simonwillison.net",
+    "feed": "https://simonwillison.net/atom/everything/",
+    "extras": [],
+    "github": "https://github.com/simonw",
+    "category": "general",
+    "icon": "simonwillison"
   },
   {
     "id": "nickcraver",

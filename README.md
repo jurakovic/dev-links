@@ -7,7 +7,6 @@
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs) / [*Reader*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
@@ -334,18 +333,6 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
-
-<!-- BEGIN AI -->
-
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
-
-<!-- END AI -->
-
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN DOTNET -->
@@ -470,6 +457,12 @@ Salvatore Sanfilippo | antirez
 <https://antirez.com>  
 <https://github.com/antirez>  
 <div id="antirez" class="blog-posts"></div>
+
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
+<div id="simonwillison" class="blog-posts"></div>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
