@@ -39,7 +39,16 @@ function update() {
   fi
 }
 
-cd posts
+if [ -d "posts" ]; then
+  cd posts
+else
+  if [ -d "../dev-news/posts" ]; then
+    cd ../dev-news/posts
+  else
+    echo "Error: Posts directory not found in current or parent directory."
+    exit 1
+  fi
+fi
 
 # Read blogs from blogs.json and process each one
 # --binary / -b:
@@ -48,7 +57,7 @@ jq -b -r '.[] | "\(.feedUrl)|\(.title)"' ../blogs.json | while IFS='|' read -r f
   update "$feed_url" "$title"
 done
 
-cd ..
+cd -
 node gen_news.js
 
 echo "Done"
