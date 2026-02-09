@@ -348,8 +348,10 @@ Simon Willison
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
+<!-- BEGIN DOTNET -->
+
 ![icon](favicons/ardalis.png)
-Steve Smith, Ardalis  
+Ardalis (Steve Smith)  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
@@ -388,7 +390,7 @@ Jon Skeet
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
-[https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
+<https://www.jimmybogard.com>  
 <https://github.com/jbogard>  
 <div id="jimmybogard" class="blog-posts"></div>
 
@@ -439,6 +441,8 @@ Erik Ejlskov Jensen | .NET Data Access and more
 Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
+
+<!-- END DOTNET -->
 
 ![icon](favicons/jonhilton.png)
 Jon Hilton (Blazor)  
