@@ -3,21 +3,21 @@
     "title": "dotnet",
     "htmlUrl": "https://devblogs.microsoft.com/dotnet/",
     "feedUrl": "https://devblogs.microsoft.com/dotnet/feed/",
-    "category": "dotnet",
+    "category": "dotnet-official",
     "icon": "microsoft"
   },
   {
     "title": "visualstudio",
     "htmlUrl": "https://devblogs.microsoft.com/visualstudio/",
     "feedUrl": "https://devblogs.microsoft.com/visualstudio/feed/",
-    "category": "dotnet",
+    "category": "dotnet-official",
     "icon": "microsoft"
   },
   {
     "title": "visualstudiomagazine",
     "htmlUrl": "https://visualstudiomagazine.com",
     "feedUrl": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
-    "category": "dotnet",
+    "category": "dotnet-official",
     "icon": "visualstudiomagazine"
   },
   {
@@ -140,6 +140,13 @@
     "icon": "enterprisecraftsmanship"
   },
   {
+    "title": "simonwillison",
+    "htmlUrl": "https://simonwillison.net",
+    "feedUrl": "https://simonwillison.net/atom/everything/",
+    "category": "ai",
+    "icon": "simonwillison"
+  },
+  {
     "title": "martinfowler",
     "htmlUrl": "https://www.martinfowler.com/recent-changes.html",
     "feedUrl": "https://www.martinfowler.com/feed.atom",
@@ -152,13 +159,6 @@
     "feedUrl": "https://antirez.com/rss",
     "category": "general",
     "icon": "blank"
-  },
-  {
-    "title": "simonwillison",
-    "htmlUrl": "https://simonwillison.net",
-    "feedUrl": "https://simonwillison.net/atom/everything/",
-    "category": "general",
-    "icon": "simonwillison"
   },
   {
     "title": "nickcraver",
