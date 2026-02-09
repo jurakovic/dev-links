@@ -55,6 +55,17 @@
     "icon": "developertoarchitect"
   },
   {
+    "id": "azure-sql",
+    "author": "",
+    "title": "Azure SQL Devs' Corner",
+    "url": "https://devblogs.microsoft.com/azure-sql/",
+    "feed": "https://devblogs.microsoft.com/azure-sql/feed/",
+    "extras": [],
+    "github": "",
+    "category": "sql",
+    "icon": "microsoft"
+  },
+  {
     "id": "ardalis",
     "author": "Ardalis (Steve Smith)",
     "title": "",
@@ -210,7 +221,7 @@
       "https://erikej.blogspot.com"
     ],
     "github": "https://github.com/ErikEJ",
-    "category": "dotnet",
+    "category": "sql",
     "icon": "blank"
   },
   {
@@ -507,7 +518,7 @@
   {
     "id": "damienbod",
     "author": "Damien Bowden",
-    "title": "Software Engineering | Web development",
+    "title": "Software Engineering",
     "url": "https://damienbod.com/",
     "feed": "https://damienbod.com/feed/",
     "extras": [],
@@ -525,6 +536,17 @@
     "github": "https://github.com/gsferreira",
     "category": "dotnet",
     "icon": "guiferreira"
+  },
+  {
+    "id": "roji",
+    "author": "Shay Rojansky",
+    "title": "",
+    "url": "https://www.roji.org",
+    "feed": "https://www.roji.org/feed.xml",
+    "extras": [],
+    "github": "https://github.com/roji",
+    "category": "sql",
+    "icon": "blank"
   },
   {
     "id": "barretblake",
@@ -562,12 +584,12 @@
   {
     "id": "db-berater",
     "author": "Uwe Ricken",
-    "title": "SQL Server Blog - db-Berater GmbH",
+    "title": "SQL Server Blog",
     "url": "https://www.db-berater.de/sql-server-blog/",
     "feed": "https://www.db-berater.de/feed/",
     "extras": [],
     "github": "",
-    "category": "dotnet",
+    "category": "sql",
     "icon": "db-berater"
   },
   {

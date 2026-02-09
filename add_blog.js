@@ -106,6 +106,13 @@ function downloadFavicon(urlString, iconName) {
           }
         }
         
+        // Handle 404 - use blank icon
+        if (res.statusCode === 404) {
+          console.log(`✗ Favicon not found (404), using blank icon`);
+          resolve('blank');
+          return;
+        }
+        
         if (res.statusCode !== 200) {
           reject(new Error(`Failed to download: ${res.statusCode}`));
           return;

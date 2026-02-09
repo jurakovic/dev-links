@@ -126,6 +126,33 @@ SQL Indexing and Tuning
 SQLPerformance.com  
 <https://sqlperformance.com>  
 
+<!-- BEGIN SQL -->
+
+![icon](favicons/microsoft.png)
+Azure SQL Devs' Corner  
+<https://devblogs.microsoft.com/azure-sql/>  
+<div id="azure-sql" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Erik Ejlskov Jensen | .NET Data Access and more  
+<https://erikej.github.io>  
+<https://erikej.blogspot.com>  
+<https://github.com/ErikEJ>  
+<div id="erikej" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Shay Rojansky  
+<https://www.roji.org>  
+<https://github.com/roji>  
+<div id="roji" class="blog-posts"></div>
+
+![icon](favicons/db-berater.png)
+Uwe Ricken | SQL Server Blog  
+<https://www.db-berater.de/sql-server-blog/>  
+<div id="db-berater" class="blog-posts"></div>
+
+<!-- END SQL -->
+
 * * *
 
 ## <a name="development"></a>Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
@@ -417,13 +444,6 @@ Phil Haack | You've Been Haacked
 <https://github.com/haacked>  
 <div id="haacked" class="blog-posts"></div>
 
-![icon](favicons/blank.png)
-Erik Ejlskov Jensen | .NET Data Access and more  
-<https://erikej.github.io>  
-<https://erikej.blogspot.com>  
-<https://github.com/ErikEJ>  
-<div id="erikej" class="blog-posts"></div>
-
 ![icon](favicons/enterprisecraftsmanship.png)
 Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
@@ -442,7 +462,7 @@ Mike Brind | Mikesdotnetting (Razor Pages, Blazor)
 <https://github.com/mikebrind>  
 
 ![icon](favicons/damienbod.png)
-Damien Bowden | Software Engineering | Web development  
+Damien Bowden | Software Engineering  
 <https://damienbod.com/>  
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
@@ -458,11 +478,6 @@ Barry Dorrans | Ramblings from a .NET Security PM
 <https://idunno.org/>  
 <https://github.com/blowdart>  
 <div id="idunno" class="blog-posts"></div>
-
-![icon](favicons/db-berater.png)
-Uwe Ricken | SQL Server Blog - db-Berater GmbH  
-<https://www.db-berater.de/sql-server-blog/>  
-<div id="db-berater" class="blog-posts"></div>
 
 ![icon](favicons/rickstrahl.png)
 Rick Strahl  
