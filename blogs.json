@@ -292,7 +292,7 @@
   },
   {
     "author": "Neil Green",
-    "name": "Neil on Software",
+    "name": "Neil on Software (Podcast)",
     "title": "neilonsoftware",
     "htmlUrl": "https://neilonsoftware.com/articles/",
     "feedUrl": "https://neilonsoftware.com/feed/",
@@ -352,7 +352,7 @@
     "htmlUrl": "https://bartwullems.blogspot.com",
     "feedUrl": "https://bartwullems.blogspot.com/feeds/posts/default",
     "extraUrls": [],
-    "github": "",
+    "github": "https://github.com/wullemsb",
     "category": "general",
     "icon": "blogspot"
   },

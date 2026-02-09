@@ -442,6 +442,8 @@ Mike Brind (Razor Pages, Blazor)
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
+<!-- BEGIN GENERAL -->
+
 ![icon](favicons/martinfowler.png)
 Martin Fowler  
 <https://www.martinfowler.com/recent-changes.html>  
@@ -452,12 +454,6 @@ Salvatore Sanfilippo | antirez
 <https://antirez.com>  
 <https://github.com/antirez>  
 <div id="antirez" class="blog-posts"></div>
-
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
 
 ![icon](favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
@@ -504,7 +500,8 @@ Eduards Sizovs | The Principal Developer
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
+<https://bartwullems.blogspot.com>  
+<https://github.com/wullemsb>  
 <div id="bartwullems" class="blog-posts"></div>
 
 ![icon](favicons/pragmaticengineer.png)
@@ -522,6 +519,7 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 <div id="thecodist" class="blog-posts"></div>
 
+<!-- END GENERAL -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
