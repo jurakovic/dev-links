@@ -441,6 +441,35 @@ Mike Brind | Mikesdotnetting (Razor Pages, Blazor)
 <https://www.learnblazor.com>  
 <https://github.com/mikebrind>  
 
+![icon](favicons/damienbod.png)
+Damien Bowden | Software Engineering | Web development  
+<https://damienbod.com/>  
+<https://github.com/damienbod>  
+<div id="damienbod" class="blog-posts"></div>
+
+![icon](favicons/guiferreira.png)
+Gui Ferreira  
+<https://guiferreira.me/blog/>  
+<https://github.com/gsferreira>  
+<div id="guiferreira" class="blog-posts"></div>
+
+![icon](favicons/idunno.png)
+Barry Dorrans | Ramblings from a .NET Security PM  
+<https://idunno.org/>  
+<https://github.com/blowdart>  
+<div id="idunno" class="blog-posts"></div>
+
+![icon](favicons/db-berater.png)
+Uwe Ricken | SQL Server Blog - db-Berater GmbH  
+<https://www.db-berater.de/sql-server-blog/>  
+<div id="db-berater" class="blog-posts"></div>
+
+![icon](favicons/rickstrahl.png)
+Rick Strahl  
+<https://weblog.west-wind.com/>  
+<https://github.com/RickStrahl>  
+<div id="rickstrahl" class="blog-posts"></div>
+
 <!-- END DOTNET -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -527,6 +556,50 @@ Vadim Kravcenko | CTO
 Andrew Wulf | The Codist  
 <https://thecodist.com>  
 <div id="thecodist" class="blog-posts"></div>
+
+![icon](favicons/third-bit.png)
+Greg Wilson | The Third Bit Blog  
+<https://third-bit.com/blog/>  
+<https://github.com/gvwilson>  
+<div id="third-bit" class="blog-posts"></div>
+
+![icon](favicons/barretblake.png)
+Barret Blake  
+<https://barretblake.dev/posts/development/>  
+<https://github.com/barretb>  
+
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
+
+![icon](favicons/samwho.png)
+samwho  
+<https://samwho.dev/blog>  
+<div id="samwho" class="blog-posts"></div>
+
+![icon](favicons/seangoedecke.png)
+Sean Goedecke  
+<https://www.seangoedecke.com>  
+<https://github.com/sgoedecke>  
+<div id="seangoedecke" class="blog-posts"></div>
+
+![icon](favicons/addyosmani.png)
+Addy Osmani  
+<https://addyosmani.com/blog>  
+<https://github.com/addyosmani>  
+<div id="addyosmani" class="blog-posts"></div>
+
+![icon](favicons/dbreunig.png)
+Drew Breunig  
+<https://www.dbreunig.com/>  
+<div id="dbreunig" class="blog-posts"></div>
+
+![icon](favicons/swizec.png)
+Swizec Teller  
+<https://swizec.com/blog/>  
+<https://github.com/swizec>  
+<div id="swizec" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 

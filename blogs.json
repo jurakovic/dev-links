@@ -518,7 +518,7 @@
   {
     "id": "guiferreira",
     "author": "Gui Ferreira",
-    "title": "The Gui Ferreira Blog",
+    "title": "",
     "url": "https://guiferreira.me/blog/",
     "feed": "https://guiferreira.me/feed.xml",
     "extras": [],
@@ -529,7 +529,7 @@
   {
     "id": "barretblake",
     "author": "Barret Blake",
-    "title": "Development",
+    "title": "",
     "url": "https://barretblake.dev/posts/development/",
     "feed": "",
     "extras": [],
@@ -540,7 +540,7 @@
   {
     "id": "techtrenches",
     "author": "Denis Stetskov",
-    "title": "Archive -  From the Trenches",
+    "title": "From the Trenches",
     "url": "https://techtrenches.dev/archive",
     "feed": "https://techtrenches.dev/feed",
     "extras": [],
@@ -571,20 +571,20 @@
     "icon": "db-berater"
   },
   {
-    "id": "weblog-west-wind",
+    "id": "rickstrahl",
     "author": "Rick Strahl",
-    "title": "Rick Strahl's Web Log",
+    "title": "",
     "url": "https://weblog.west-wind.com/",
     "feed": "https://feeds.feedburner.com/rickstrahl",
     "extras": [],
     "github": "https://github.com/RickStrahl",
     "category": "dotnet",
-    "icon": "weblog-west-wind"
+    "icon": "rickstrahl"
   },
   {
     "id": "samwho",
     "author": "",
-    "title": "samwho - all posts",
+    "title": "samwho",
     "url": "https://samwho.dev/blog",
     "feed": "https://samwho.dev/rss.xml",
     "extras": [],
@@ -595,7 +595,7 @@
   {
     "id": "seangoedecke",
     "author": "Sean Goedecke",
-    "title": "All posts",
+    "title": "",
     "url": "https://www.seangoedecke.com",
     "feed": "https://www.seangoedecke.com/rss.xml",
     "extras": [],
@@ -606,7 +606,7 @@
   {
     "id": "addyosmani",
     "author": "Addy Osmani",
-    "title": "Document moved",
+    "title": "",
     "url": "https://addyosmani.com/blog",
     "feed": "https://addyosmani.com/rss.xml",
     "extras": [],
@@ -617,7 +617,7 @@
   {
     "id": "dbreunig",
     "author": "Drew Breunig",
-    "title": "Drew Breunig",
+    "title": "",
     "url": "https://www.dbreunig.com/",
     "feed": "https://www.dbreunig.com/feed.xml",
     "extras": [],
@@ -628,7 +628,7 @@
   {
     "id": "swizec",
     "author": "Swizec Teller",
-    "title": "Swizec Teller",
+    "title": "",
     "url": "https://swizec.com/blog/",
     "feed": "https://swizec.com/rss.xml",
     "extras": [],
