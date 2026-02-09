@@ -10,6 +10,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-09 simonwillison</small>  
 <small>[AI Doesn’t Reduce Work—It Intensifies It](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-09 ardalis</small>  
+<small>[2025 Year in Review](https://ardalis.com/2025-year-in-review/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-09 bartwullems</small>  
 <small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 3: Data persistence in Log Analytics](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_0428528792.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-26 dotnet</small>  
 <small>[Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together](https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
-<small>[Should you include engineers in your leadership meetings?](https://lethain.com/should-include-eng-in-eng-leadership/)</small>
 
