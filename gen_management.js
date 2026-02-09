@@ -9,23 +9,25 @@ const managementBlogs = blogsJson.filter(blog => blog.category === 'management')
 
 // Generate markdown for each management blog
 const managementMarkdown = managementBlogs.map(blog => {
-  const lines = [];
-  lines.push(`![icon](favicons/${blog.icon}.png)`);
-  
-  // Author | Name line (handle empty name case)
-  if (blog.name) {
-    lines.push(`${blog.author} | ${blog.name}  `);
-  } else if (blog.author) {
-    lines.push(`${blog.author}  `);
-  } else {
-    lines.push(`${blog.title}  `);
-  }
-  
-  lines.push(`<${blog.htmlUrl}>  `);
-  lines.push(`<${blog.feedUrl}>  `);
-  lines.push(`<div id="${blog.title}" class="blog-posts"></div>`);
-  
-  return lines.join('\n');
+    const lines = [];
+    lines.push(`![icon](favicons/${blog.icon}.png)`);
+
+    // Author | Name line (handle empty name case)
+    if (blog.name) {
+        lines.push(`${blog.author} | ${blog.name}  `);
+    } else if (blog.author) {
+        lines.push(`${blog.author}  `);
+    } else {
+        lines.push(`${blog.title}  `);
+    }
+
+    lines.push(`<${blog.htmlUrl}>  `);
+    if (blog.github) {
+        lines.push(`<${blog.github}>  `);
+    }
+    lines.push(`<div id="${blog.title}" class="blog-posts"></div>`);
+
+    return lines.join('\n');
 }).join('\n\n');
 
 // Replace content between markers
@@ -36,8 +38,8 @@ const beginIndex = readme.indexOf(beginMarker);
 const endIndex = readme.indexOf(endMarker);
 
 if (beginIndex === -1 || endIndex === -1) {
-  console.error('Error: Could not find BEGIN/END MANAGEMENT markers in README.md');
-  process.exit(1);
+    console.error('Error: Could not find BEGIN/END MANAGEMENT markers in README.md');
+    process.exit(1);
 }
 
 const before = readme.substring(0, beginIndex + beginMarker.length);
