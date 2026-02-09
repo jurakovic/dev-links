@@ -492,5 +492,148 @@
     "github": "",
     "category": "tech-companies",
     "icon": "slack"
+  },
+  {
+    "id": "third-bit",
+    "author": "Greg Wilson",
+    "title": "The Third Bit Blog",
+    "url": "https://third-bit.com/blog/",
+    "feed": "https://third-bit.com/atom.xml",
+    "extras": [],
+    "github": "https://github.com/gvwilson",
+    "category": "general",
+    "icon": "third-bit"
+  },
+  {
+    "id": "damienbod",
+    "author": "Damien Bowden",
+    "title": "Software Engineering | Web development",
+    "url": "https://damienbod.com/",
+    "feed": "https://damienbod.com/feed/",
+    "extras": [],
+    "github": "https://github.com/damienbod",
+    "category": "dotnet",
+    "icon": "damienbod"
+  },
+  {
+    "id": "guiferreira",
+    "author": "Gui Ferreira",
+    "title": "The Gui Ferreira Blog",
+    "url": "https://guiferreira.me/blog/",
+    "feed": "https://guiferreira.me/feed.xml",
+    "extras": [],
+    "github": "https://github.com/gsferreira",
+    "category": "dotnet",
+    "icon": "guiferreira"
+  },
+  {
+    "id": "barretblake",
+    "author": "Barret Blake",
+    "title": "Development",
+    "url": "https://barretblake.dev/posts/development/",
+    "feed": "",
+    "extras": [],
+    "github": "https://github.com/barretb",
+    "category": "general",
+    "icon": "barretblake"
+  },
+  {
+    "id": "techtrenches",
+    "author": "Denis Stetskov",
+    "title": "Archive -  From the Trenches",
+    "url": "https://techtrenches.dev/archive",
+    "feed": "https://techtrenches.dev/feed",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "techtrenches"
+  },
+  {
+    "id": "idunno",
+    "author": "Barry Dorrans",
+    "title": "Ramblings from a .NET Security PM",
+    "url": "https://idunno.org/",
+    "feed": "https://idunno.org/rss/",
+    "extras": [],
+    "github": "https://github.com/blowdart",
+    "category": "dotnet",
+    "icon": "idunno"
+  },
+  {
+    "id": "db-berater",
+    "author": "Uwe Ricken",
+    "title": "SQL Server Blog - db-Berater GmbH",
+    "url": "https://www.db-berater.de/sql-server-blog/",
+    "feed": "https://www.db-berater.de/feed/",
+    "extras": [],
+    "github": "",
+    "category": "dotnet",
+    "icon": "db-berater"
+  },
+  {
+    "id": "weblog-west-wind",
+    "author": "Rick Strahl",
+    "title": "Rick Strahl's Web Log",
+    "url": "https://weblog.west-wind.com/",
+    "feed": "https://feeds.feedburner.com/rickstrahl",
+    "extras": [],
+    "github": "https://github.com/RickStrahl",
+    "category": "dotnet",
+    "icon": "weblog-west-wind"
+  },
+  {
+    "id": "samwho",
+    "author": "",
+    "title": "samwho - all posts",
+    "url": "https://samwho.dev/blog",
+    "feed": "https://samwho.dev/rss.xml",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "samwho"
+  },
+  {
+    "id": "seangoedecke",
+    "author": "Sean Goedecke",
+    "title": "All posts",
+    "url": "https://www.seangoedecke.com",
+    "feed": "https://www.seangoedecke.com/rss.xml",
+    "extras": [],
+    "github": "https://github.com/sgoedecke",
+    "category": "general",
+    "icon": "seangoedecke"
+  },
+  {
+    "id": "addyosmani",
+    "author": "Addy Osmani",
+    "title": "Document moved",
+    "url": "https://addyosmani.com/blog",
+    "feed": "https://addyosmani.com/rss.xml",
+    "extras": [],
+    "github": "https://github.com/addyosmani",
+    "category": "general",
+    "icon": "addyosmani"
+  },
+  {
+    "id": "dbreunig",
+    "author": "Drew Breunig",
+    "title": "Drew Breunig",
+    "url": "https://www.dbreunig.com/",
+    "feed": "https://www.dbreunig.com/feed.xml",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "dbreunig"
+  },
+  {
+    "id": "swizec",
+    "author": "Swizec Teller",
+    "title": "Swizec Teller",
+    "url": "https://swizec.com/blog/",
+    "feed": "https://swizec.com/rss.xml",
+    "extras": [],
+    "github": "https://github.com/swizec",
+    "category": "general",
+    "icon": "swizec"
   }
 ]
