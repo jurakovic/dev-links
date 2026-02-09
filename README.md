@@ -10,6 +10,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
 <small>[Kākāpō mug by Karen James](https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-08 microservices</small>  
+<small>[GenAI-based software delivery needs a fast flow architecture](http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
 <small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Writing Visualizations with Remotion](https://lethain.com/blog-recap-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-01-25 steven-giesel</small>  
-<small>[Sometimes you just need extensions methods to model your stuff](https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e)</small>
 
