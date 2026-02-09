@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-09 martinfowler</small>  
+<small>[Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-09 simonwillison</small>  
 <small>[AI Doesn’t Reduce Work—It Intensifies It](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
 <small>[Should you include engineers in your leadership meetings?](https://lethain.com/should-include-eng-in-eng-leadership/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-01-25 lethain</small>  
-<small>[Writing Visualizations with Remotion](https://lethain.com/blog-recap-2026/)</small>
 
