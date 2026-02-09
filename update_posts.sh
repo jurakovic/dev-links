@@ -50,7 +50,7 @@ jq -b -r '.[] | "\(.id)|\(.feed)"' ../blogs.json | while IFS='|' read -r id feed
   fi
 done
 
-cd -
+cd ..
 node gen_news.js
 
 echo "Done"
