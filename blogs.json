@@ -1,0 +1,496 @@
+[
+  {
+    "id": "dotnet",
+    "author": "",
+    "title": ".NET Blog",
+    "url": "https://devblogs.microsoft.com/dotnet/",
+    "feed": "https://devblogs.microsoft.com/dotnet/feed/",
+    "extras": [],
+    "github": "",
+    "category": "dotnet-official",
+    "icon": "microsoft"
+  },
+  {
+    "id": "visualstudio",
+    "author": "",
+    "title": "Visual Studio Blog",
+    "url": "https://devblogs.microsoft.com/visualstudio/",
+    "feed": "https://devblogs.microsoft.com/visualstudio/feed/",
+    "extras": [],
+    "github": "",
+    "category": "dotnet-official",
+    "icon": "microsoft"
+  },
+  {
+    "id": "visualstudiomagazine",
+    "author": "",
+    "title": "Visual Studio Magazine",
+    "url": "https://visualstudiomagazine.com",
+    "feed": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
+    "extras": [],
+    "github": "",
+    "category": "dotnet-official",
+    "icon": "visualstudiomagazine"
+  },
+  {
+    "id": "microservices",
+    "author": "Chris Richardson",
+    "title": "Microservices.io",
+    "url": "https://microservices.io",
+    "feed": "https://microservices.io/feed.xml",
+    "extras": [],
+    "github": "",
+    "category": "architecture",
+    "icon": "blank"
+  },
+  {
+    "id": "developertoarchitect",
+    "author": "Mark Richards",
+    "title": "Software Developer To Software Architect",
+    "url": "https://developertoarchitect.com/lessons/",
+    "feed": "https://www.developertoarchitect.com/lessons/index.xml",
+    "extras": [],
+    "github": "",
+    "category": "architecture",
+    "icon": "developertoarchitect"
+  },
+  {
+    "id": "ardalis",
+    "author": "Ardalis (Steve Smith)",
+    "title": "",
+    "url": "https://ardalis.com/blog",
+    "feed": "https://ardalis.com/index.xml",
+    "extras": [
+      "https://ardalis.com/category/software-development/",
+      "https://blog.nimblepros.com"
+    ],
+    "github": "https://github.com/ardalis",
+    "category": "dotnet",
+    "icon": "ardalis"
+  },
+  {
+    "id": "hanselman",
+    "author": "Scott Hanselman",
+    "title": "",
+    "url": "https://www.hanselman.com/blog/",
+    "feed": "https://www.hanselman.com/blog/feed/rss",
+    "extras": [],
+    "github": "https://github.com/shanselman",
+    "category": "dotnet",
+    "icon": "hanselman"
+  },
+  {
+    "id": "andrewlock",
+    "author": "Andrew Lock",
+    "title": ".NET Escapades",
+    "url": "https://andrewlock.net",
+    "feed": "https://andrewlock.net/rss.xml",
+    "extras": [],
+    "github": "https://github.com/andrewlock",
+    "category": "dotnet",
+    "icon": "andrewlock"
+  },
+  {
+    "id": "davecallan",
+    "author": "Dave Callan",
+    "title": ".NET, VS, EF",
+    "url": "https://davecallan.com",
+    "feed": "https://davecallan.com/feed/",
+    "extras": [],
+    "github": "https://github.com/davepcallan",
+    "category": "dotnet",
+    "icon": "wp"
+  },
+  {
+    "id": "stephencleary",
+    "author": "Stephen Cleary",
+    "title": "",
+    "url": "https://blog.stephencleary.com",
+    "feed": "https://feeds.feedburner.com/NitoPrograms",
+    "extras": [],
+    "github": "https://github.com/StephenCleary",
+    "category": "dotnet",
+    "icon": "stephencleary"
+  },
+  {
+    "id": "jonskeet",
+    "author": "Jon Skeet",
+    "title": "",
+    "url": "https://codeblog.jonskeet.uk",
+    "feed": "https://codeblog.jonskeet.uk/feed/",
+    "extras": [],
+    "github": "https://github.com/jskeet",
+    "category": "dotnet",
+    "icon": "wp"
+  },
+  {
+    "id": "jimmybogard",
+    "author": "Jimmy Bogard",
+    "title": "",
+    "url": "https://www.jimmybogard.com",
+    "feed": "https://feeds.feedburner.com/grabbagoft",
+    "extras": [],
+    "github": "https://github.com/jbogard",
+    "category": "dotnet",
+    "icon": "jimmybogard"
+  },
+  {
+    "id": "devlead",
+    "author": "Mattias Karlsson",
+    "title": "devlead",
+    "url": "https://www.devlead.se",
+    "feed": "https://www.devlead.se/feed.rss",
+    "extras": [],
+    "github": "https://github.com/devlead",
+    "category": "dotnet",
+    "icon": "devlead"
+  },
+  {
+    "id": "steven-giesel",
+    "author": "Steven Giesel",
+    "title": "",
+    "url": "https://steven-giesel.com/archive",
+    "feed": "https://steven-giesel.com/feed.rss",
+    "extras": [],
+    "github": "https://github.com/linkdotnet",
+    "category": "dotnet",
+    "icon": "steven-giesel"
+  },
+  {
+    "id": "adamsitnik",
+    "author": "Adam Sitnik",
+    "title": ".NET Performance and Reliability",
+    "url": "https://adamsitnik.com",
+    "feed": "https://adamsitnik.com/feed.xml",
+    "extras": [],
+    "github": "https://github.com/adamsitnik",
+    "category": "dotnet",
+    "icon": "blank"
+  },
+  {
+    "id": "minidump",
+    "author": "Kevin Gosse",
+    "title": "minidump.net",
+    "url": "https://minidump.net",
+    "feed": "https://minidump.net/index.xml",
+    "extras": [],
+    "github": "https://github.com/kevingosse",
+    "category": "dotnet",
+    "icon": "minidump"
+  },
+  {
+    "id": "mattwarren",
+    "author": "Matt Warren",
+    "title": "Performance is a Feature!",
+    "url": "https://mattwarren.org",
+    "feed": "https://mattwarren.org/atom.xml",
+    "extras": [],
+    "github": "https://github.com/mattwarren",
+    "category": "dotnet",
+    "icon": "mattwarren"
+  },
+  {
+    "id": "haacked",
+    "author": "Phil Haack",
+    "title": "You've Been Haacked",
+    "url": "https://haacked.com/archives/",
+    "feed": "http://feeds.haacked.com/haacked",
+    "extras": [],
+    "github": "https://github.com/haacked",
+    "category": "dotnet",
+    "icon": "haacked"
+  },
+  {
+    "id": "erikej",
+    "author": "Erik Ejlskov Jensen",
+    "title": ".NET Data Access and more",
+    "url": "https://erikej.github.io",
+    "feed": "https://erikej.github.io/feed.xml",
+    "extras": [
+      "https://erikej.blogspot.com"
+    ],
+    "github": "https://github.com/ErikEJ",
+    "category": "dotnet",
+    "icon": "blank"
+  },
+  {
+    "id": "enterprisecraftsmanship",
+    "author": "Vladimir Khorikov",
+    "title": "Enterprise Craftsmanship",
+    "url": "https://enterprisecraftsmanship.com/archives",
+    "feed": "https://enterprisecraftsmanship.com/index.xml",
+    "extras": [],
+    "github": "",
+    "category": "dotnet",
+    "icon": "enterprisecraftsmanship"
+  },
+  {
+    "id": "jonhilton",
+    "author": "Jon Hilton",
+    "title": "Making sense of ASP.NET (Blazor)",
+    "url": "https://jonhilton.net/post/",
+    "feed": "",
+    "extras": [],
+    "github": "https://github.com/jonhilt",
+    "category": "dotnet",
+    "icon": "jonhilton"
+  },
+  {
+    "id": "mikesdotnetting",
+    "author": "Mike Brind",
+    "title": "Mikesdotnetting (Razor Pages, Blazor)",
+    "url": "https://www.mikesdotnetting.com",
+    "feed": "",
+    "extras": [
+      "https://www.learnrazorpages.com",
+      "https://www.learnblazor.com"
+    ],
+    "github": "https://github.com/mikebrind",
+    "category": "dotnet",
+    "icon": "mikesdotnetting"
+  },
+  {
+    "id": "martinfowler",
+    "author": "Martin Fowler",
+    "title": "",
+    "url": "https://www.martinfowler.com/recent-changes.html",
+    "feed": "https://www.martinfowler.com/feed.atom",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "martinfowler"
+  },
+  {
+    "id": "antirez",
+    "author": "Salvatore Sanfilippo",
+    "title": "antirez",
+    "url": "https://antirez.com",
+    "feed": "https://antirez.com/rss",
+    "extras": [],
+    "github": "https://github.com/antirez",
+    "category": "general",
+    "icon": "blank"
+  },
+  {
+    "id": "simonwillison",
+    "author": "Simon Willison",
+    "title": "",
+    "url": "https://simonwillison.net",
+    "feed": "https://simonwillison.net/atom/everything/",
+    "extras": [],
+    "github": "https://github.com/simonw",
+    "category": "general",
+    "icon": "simonwillison"
+  },
+  {
+    "id": "nickcraver",
+    "author": "Nick Craver",
+    "title": "Software Imagineering",
+    "url": "https://nickcraver.com/blog/",
+    "feed": "https://nickcraver.com/blog/feed.xml",
+    "extras": [],
+    "github": "https://github.com/NickCraver",
+    "category": "general",
+    "icon": "nickcraver"
+  },
+  {
+    "id": "codinghorror",
+    "author": "Jeff Atwood",
+    "title": "Coding Horror",
+    "url": "https://blog.codinghorror.com",
+    "feed": "https://blog.codinghorror.com/rss/",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "codinghorror"
+  },
+  {
+    "id": "joelonsoftware",
+    "author": "Joel Spolsky",
+    "title": "Joel on Software",
+    "url": "https://www.joelonsoftware.com",
+    "feed": "https://www.joelonsoftware.com/feed/",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "joelonsoftware"
+  },
+  {
+    "id": "neilonsoftware",
+    "author": "Neil Green",
+    "title": "Neil on Software (Podcast)",
+    "url": "https://neilonsoftware.com/articles/",
+    "feed": "https://neilonsoftware.com/feed/",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "neilonsoftware"
+  },
+  {
+    "id": "brendangregg",
+    "author": "Brendan Gregg",
+    "title": "Systems Performance",
+    "url": "https://www.brendangregg.com/blog/",
+    "feed": "https://www.brendangregg.com/blog/rss.xml",
+    "extras": [],
+    "github": "https://github.com/brendangregg",
+    "category": "general",
+    "icon": "brendangregg"
+  },
+  {
+    "id": "tidyfirst",
+    "author": "Kent Beck",
+    "title": "Software Design: Tidy First?",
+    "url": "https://tidyfirst.substack.com/archive",
+    "feed": "https://tidyfirst.substack.com/feed",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "tidyfirst"
+  },
+  {
+    "id": "paulhammant",
+    "author": "Paul Hammant",
+    "title": "CTO, Trunk-Based Development expert",
+    "url": "https://paulhammant.com/archive/",
+    "feed": "https://feeds.feedburner.com/paulhammant",
+    "extras": [],
+    "github": "https://github.com/paul-hammant",
+    "category": "general",
+    "icon": "blank"
+  },
+  {
+    "id": "sizovs",
+    "author": "Eduards Sizovs",
+    "title": "The Principal Developer",
+    "url": "https://sizovs.net",
+    "feed": "https://sizovs.net/feed.xml",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "sizovs"
+  },
+  {
+    "id": "bartwullems",
+    "author": "Bart Wullems",
+    "title": "The Art of Simplicity",
+    "url": "https://bartwullems.blogspot.com",
+    "feed": "https://bartwullems.blogspot.com/feeds/posts/default",
+    "extras": [],
+    "github": "https://github.com/wullemsb",
+    "category": "general",
+    "icon": "blogspot"
+  },
+  {
+    "id": "pragmaticengineer",
+    "author": "Gergely Orosz",
+    "title": "The Pragmatic Engineer",
+    "url": "https://blog.pragmaticengineer.com",
+    "feed": "https://feeds.feedburner.com/ThePragmaticEngineer",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "pragmaticengineer"
+  },
+  {
+    "id": "vadimkravcenko",
+    "author": "Vadim Kravcenko",
+    "title": "CTO",
+    "url": "https://vadimkravcenko.com/newsletter/#h-past-issues",
+    "feed": "https://vadimkravcenko.com/feed/",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "vadimkravcenko"
+  },
+  {
+    "id": "thecodist",
+    "author": "Andrew Wulf",
+    "title": "The Codist",
+    "url": "https://thecodist.com",
+    "feed": "https://thecodist.com/rss/",
+    "extras": [],
+    "github": "",
+    "category": "general",
+    "icon": "thecodist"
+  },
+  {
+    "id": "terriblesoftware",
+    "author": "Matheus Lima",
+    "title": "Terrible Software",
+    "url": "https://terriblesoftware.org/",
+    "feed": "https://terriblesoftware.org/feed/",
+    "extras": [],
+    "github": "https://github.com/matheusml",
+    "category": "management",
+    "icon": "terriblesoftware"
+  },
+  {
+    "id": "lethain",
+    "author": "Will Larson",
+    "title": "Irrational Exuberance",
+    "url": "https://lethain.com",
+    "feed": "https://lethain.com/feeds/",
+    "extras": [
+      "https://staffeng.com"
+    ],
+    "github": "",
+    "category": "management",
+    "icon": "lethain"
+  },
+  {
+    "id": "effectiveengineer",
+    "author": "Edmond Lau",
+    "title": "The Effective Engineer",
+    "url": "https://www.effectiveengineer.com/blog",
+    "feed": "https://www.effectiveengineer.com/atom.xml",
+    "extras": [],
+    "github": "",
+    "category": "management",
+    "icon": "effectiveengineer"
+  },
+  {
+    "id": "stackoverflow",
+    "author": "",
+    "title": "The Stack Overflow Blog",
+    "url": "https://stackoverflow.blog/",
+    "feed": "https://stackoverflow.blog/feed",
+    "extras": [],
+    "github": "",
+    "category": "tech-companies",
+    "icon": "stackoverflow"
+  },
+  {
+    "id": "github",
+    "author": "",
+    "title": "The GitHub Blog: Engineering",
+    "url": "https://github.blog/category/engineering/",
+    "feed": "https://github.blog/engineering/feed/",
+    "extras": [],
+    "github": "",
+    "category": "tech-companies",
+    "icon": "github"
+  },
+  {
+    "id": "netflix",
+    "author": "",
+    "title": "Netflix TechBlog",
+    "url": "https://netflixtechblog.com",
+    "feed": "https://netflixtechblog.com/feed",
+    "extras": [],
+    "github": "",
+    "category": "tech-companies",
+    "icon": "netflix"
+  },
+  {
+    "id": "slack",
+    "author": "",
+    "title": "Engineering at Slack",
+    "url": "https://slack.engineering",
+    "feed": "https://slack.engineering/feed/",
+    "extras": [],
+    "github": "",
+    "category": "tech-companies",
+    "icon": "slack"
+  }
+]

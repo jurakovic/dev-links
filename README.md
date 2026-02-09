@@ -335,8 +335,10 @@ r/programming
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
+<!-- BEGIN DOTNET -->
+
 ![icon](favicons/ardalis.png)
-Steve Smith, Ardalis  
+Ardalis (Steve Smith)  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
@@ -375,7 +377,7 @@ Jon Skeet
 
 ![icon](favicons/jimmybogard.png)
 Jimmy Bogard  
-[https://www.jimmybogard.com](https://www.jimmybogard.com/author/jimmy/)  
+<https://www.jimmybogard.com>  
 <https://github.com/jbogard>  
 <div id="jimmybogard" class="blog-posts"></div>
 
@@ -428,19 +430,22 @@ Vladimir Khorikov | Enterprise Craftsmanship
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
 
 ![icon](favicons/jonhilton.png)
-Jon Hilton (Blazor)  
+Jon Hilton | Making sense of ASP.NET (Blazor)  
 <https://jonhilton.net/post/>  
 <https://github.com/jonhilt>  
 
 ![icon](favicons/mikesdotnetting.png)
-Mike Brind (Razor Pages, Blazor)  
+Mike Brind | Mikesdotnetting (Razor Pages, Blazor)  
 <https://www.mikesdotnetting.com>  
 <https://www.learnrazorpages.com>  
 <https://www.learnblazor.com>  
 <https://github.com/mikebrind>  
 
+<!-- END DOTNET -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN GENERAL -->
 
 ![icon](favicons/martinfowler.png)
 Martin Fowler  
@@ -504,7 +509,8 @@ Eduards Sizovs | The Principal Developer
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com>; [/.NET](https://bartwullems.blogspot.com/search/label/.NET); [/Architecture](https://bartwullems.blogspot.com/search/label/Architecture)  
+<https://bartwullems.blogspot.com>  
+<https://github.com/wullemsb>  
 <div id="bartwullems" class="blog-posts"></div>
 
 ![icon](favicons/pragmaticengineer.png)
@@ -522,8 +528,11 @@ Andrew Wulf | The Codist
 <https://thecodist.com>  
 <div id="thecodist" class="blog-posts"></div>
 
+<!-- END GENERAL -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN MANAGEMENT -->
 
 ![icon](favicons/terriblesoftware.png)
 Matheus Lima | Terrible Software  
@@ -542,6 +551,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
 
+<!-- END MANAGEMENT -->
 
 #### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
@@ -572,6 +582,8 @@ Github | The ReadME Project: Guides
 
 #### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
+<!-- BEGIN TECH-COMPANIES -->
+
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog  
 <https://stackoverflow.blog/>  
@@ -591,5 +603,7 @@ Netflix TechBlog
 Engineering at Slack  
 <https://slack.engineering>  
 <div id="slack" class="blog-posts"></div>
+
+<!-- END TECH-COMPANIES -->
 
 <sub><a href="#top">↑ Top</a></sub>
