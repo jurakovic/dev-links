@@ -49,13 +49,17 @@ const mapping = {
   'slack': { Author: '', Name: 'Engineering at Slack' }
 };
 
-// Update each blog entry
+// Update each blog entry with fields in specific order
 const updatedBlogs = blogsJson.map(blog => {
   const info = mapping[blog.title] || { Author: '', Name: '' };
   return {
-    ...blog,
-    Author: info.Author,
-    Name: info.Name
+    author: info.Author,
+    name: info.Name,
+    title: blog.title,
+    htmlUrl: blog.htmlUrl,
+    feedUrl: blog.feedUrl,
+    category: blog.category,
+    icon: blog.icon
   };
 });
 
