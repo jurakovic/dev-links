@@ -5,8 +5,9 @@ function update() {
   feed=$2
   echo "Processing feed: $id"
 
-  curl -Ss -k -L "$feed" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0' | \
-  yq -p=xml -o=json '
+  curl -Ss -k -L "$feed" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0' \
+  | sed 's/xmlns="[^"]*"//g' \
+  | yq -p=xml -o=json '
     (
       .rss.channel.item // .feed.entry
     )
@@ -14,7 +15,8 @@ function update() {
     | .[:5]
     | map({
         "title": (
-               .title.__text
+               .title.div.a["+content"]
+            // .title.__text
             // .title["+content"]
             // .title
         ),
