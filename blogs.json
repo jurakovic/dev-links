@@ -66,6 +66,28 @@
     "icon": "microsoft"
   },
   {
+    "id": "use-the-index-luke",
+    "author": "Markus Winand",
+    "title": "SQL Indexing and Tuning",
+    "url": "https://use-the-index-luke.com/blog",
+    "feed": "https://use-the-index-luke.com/blog/feed/",
+    "extras": [],
+    "github": "",
+    "category": "sql",
+    "icon": "use-the-index-luke"
+  },
+  {
+    "id": "db-berater",
+    "author": "Uwe Ricken",
+    "title": "SQL Server Blog",
+    "url": "https://www.db-berater.de/sql-server-blog/",
+    "feed": "https://www.db-berater.de/feed/",
+    "extras": [],
+    "github": "",
+    "category": "sql",
+    "icon": "db-berater"
+  },
+  {
     "id": "ardalis",
     "author": "Ardalis (Steve Smith)",
     "title": "",
@@ -582,17 +604,6 @@
     "icon": "idunno"
   },
   {
-    "id": "db-berater",
-    "author": "Uwe Ricken",
-    "title": "SQL Server Blog",
-    "url": "https://www.db-berater.de/sql-server-blog/",
-    "feed": "https://www.db-berater.de/feed/",
-    "extras": [],
-    "github": "",
-    "category": "sql",
-    "icon": "db-berater"
-  },
-  {
     "id": "rickstrahl",
     "author": "Rick Strahl",
     "title": "",
@@ -657,5 +668,16 @@
     "github": "https://github.com/swizec",
     "category": "general",
     "icon": "swizec"
+  },
+  {
+    "id": "sqlperformance",
+    "author": "",
+    "title": "SQLPerformance.com",
+    "url": "https://sqlperformance.com",
+    "feed": "https://sqlperformance.com/feed",
+    "extras": [],
+    "github": "",
+    "category": "sql",
+    "icon": "sqlperformance"
   }
 ]

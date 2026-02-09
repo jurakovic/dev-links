@@ -118,20 +118,22 @@ SQL projects
 [https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style](https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style?view=sql-server-ver16)  
 [https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) ([GitHub](https://github.com/microsoft/dacfx))  
 
-![icon](favicons/use-the-index-luke.png)
-SQL Indexing and Tuning  
-<https://use-the-index-luke.com>  
-
-![icon](favicons/sqlperformance.png)
-SQLPerformance.com  
-<https://sqlperformance.com>  
-
 <!-- BEGIN SQL -->
 
 ![icon](favicons/microsoft.png)
 Azure SQL Devs' Corner  
 <https://devblogs.microsoft.com/azure-sql/>  
 <div id="azure-sql" class="blog-posts"></div>
+
+![icon](favicons/use-the-index-luke.png)
+Markus Winand | SQL Indexing and Tuning  
+<https://use-the-index-luke.com/blog>  
+<div id="use-the-index-luke" class="blog-posts"></div>
+
+![icon](favicons/db-berater.png)
+Uwe Ricken | SQL Server Blog  
+<https://www.db-berater.de/sql-server-blog/>  
+<div id="db-berater" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
@@ -146,10 +148,10 @@ Shay Rojansky
 <https://github.com/roji>  
 <div id="roji" class="blog-posts"></div>
 
-![icon](favicons/db-berater.png)
-Uwe Ricken | SQL Server Blog  
-<https://www.db-berater.de/sql-server-blog/>  
-<div id="db-berater" class="blog-posts"></div>
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
+<div id="sqlperformance" class="blog-posts"></div>
 
 <!-- END SQL -->
 
