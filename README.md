@@ -582,6 +582,8 @@ Github | The ReadME Project: Guides
 
 #### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
+<!-- BEGIN TECH-COMPANIES -->
+
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog  
 <https://stackoverflow.blog/>  
@@ -601,5 +603,7 @@ Netflix TechBlog
 Engineering at Slack  
 <https://slack.engineering>  
 <div id="slack" class="blog-posts"></div>
+
+<!-- END TECH-COMPANIES -->
 
 <sub><a href="#top">↑ Top</a></sub>

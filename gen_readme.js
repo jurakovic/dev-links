@@ -27,7 +27,7 @@ const categoryMarkdown = categoryBlogs.map(blog => {
     lines.push(`![icon](favicons/${blog.icon}.png)`);
 
     // Author | Title line (handle empty name case)
-    if (blog.title) {
+    if (blog.author && blog.title) {
         lines.push(`${blog.author} | ${blog.title}  `);
     } else if (blog.author) {
         lines.push(`${blog.author}  `);
