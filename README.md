@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-09 bartwullems</small>  
+<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 3: Data persistence in Log Analytics](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_0428528792.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
 <small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
 
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-02-02 terriblesoftware</small>  
 <small>[Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-02 bartwullems</small>  
-<small>[Simplifying data movement in Microsoft Fabric](https://bartwullems.blogspot.com/2026/02/simplifying-data-movement-in-microsoft.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
