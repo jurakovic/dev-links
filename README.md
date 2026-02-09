@@ -525,6 +525,8 @@ Andrew Wulf | The Codist
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
+<!-- BEGIN MANAGEMENT -->
+
 ![icon](favicons/terriblesoftware.png)
 Matheus Lima | Terrible Software  
 <https://terriblesoftware.org/>  
@@ -542,6 +544,7 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
 
+<!-- END MANAGEMENT -->
 
 #### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
