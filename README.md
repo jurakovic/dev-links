@@ -469,12 +469,6 @@ Damien Bowden | Software Engineering
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
 
-![icon](favicons/guiferreira.png)
-Gui Ferreira  
-<https://guiferreira.me/blog/>  
-<https://github.com/gsferreira>  
-<div id="guiferreira" class="blog-posts"></div>
-
 ![icon](favicons/idunno.png)
 Barry Dorrans | Ramblings from a .NET Security PM  
 <https://idunno.org/>  

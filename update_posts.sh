@@ -15,8 +15,7 @@ function update() {
     | .[:5]
     | map({
         "title": (
-               .title.div.a["+content"]
-            // .title.__text
+               .title.__text
             // .title["+content"]
             // .title
         ),
