@@ -22,9 +22,19 @@ const managementMarkdown = managementBlogs.map(blog => {
     }
 
     lines.push(`<${blog.htmlUrl}>  `);
+    
+    // Add extra URLs if they exist
+    if (blog.extraUrls && blog.extraUrls.length > 0) {
+        blog.extraUrls.forEach(url => {
+            lines.push(`<${url}>  `);
+        });
+    }
+    
+    // Add GitHub URL if it exists
     if (blog.github) {
         lines.push(`<${blog.github}>  `);
     }
+    
     lines.push(`<div id="${blog.title}" class="blog-posts"></div>`);
 
     return lines.join('\n');
