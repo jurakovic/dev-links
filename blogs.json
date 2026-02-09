@@ -5,6 +5,7 @@
     "title": "dotnet",
     "htmlUrl": "https://devblogs.microsoft.com/dotnet/",
     "feedUrl": "https://devblogs.microsoft.com/dotnet/feed/",
+    "github": "",
     "category": "dotnet-official",
     "icon": "microsoft"
   },
@@ -14,6 +15,7 @@
     "title": "visualstudio",
     "htmlUrl": "https://devblogs.microsoft.com/visualstudio/",
     "feedUrl": "https://devblogs.microsoft.com/visualstudio/feed/",
+    "github": "",
     "category": "dotnet-official",
     "icon": "microsoft"
   },
@@ -23,6 +25,7 @@
     "title": "visualstudiomagazine",
     "htmlUrl": "https://visualstudiomagazine.com",
     "feedUrl": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
+    "github": "",
     "category": "dotnet-official",
     "icon": "visualstudiomagazine"
   },
@@ -32,6 +35,7 @@
     "title": "microservices",
     "htmlUrl": "https://microservices.io",
     "feedUrl": "https://microservices.io/feed.xml",
+    "github": "",
     "category": "architecture",
     "icon": "blank"
   },
@@ -41,6 +45,7 @@
     "title": "developertoarchitect",
     "htmlUrl": "https://developertoarchitect.com/lessons/",
     "feedUrl": "https://www.developertoarchitect.com/lessons/index.xml",
+    "github": "",
     "category": "architecture",
     "icon": "developertoarchitect"
   },
@@ -50,6 +55,7 @@
     "title": "ardalis",
     "htmlUrl": "https://ardalis.com/blog",
     "feedUrl": "https://ardalis.com/index.xml",
+    "github": "https://github.com/ardalis",
     "category": "dotnet",
     "icon": "ardalis"
   },
@@ -59,6 +65,7 @@
     "title": "hanselman",
     "htmlUrl": "https://www.hanselman.com/blog/",
     "feedUrl": "https://www.hanselman.com/blog/feed/rss",
+    "github": "https://github.com/shanselman",
     "category": "dotnet",
     "icon": "hanselman"
   },
@@ -68,6 +75,7 @@
     "title": "andrewlock",
     "htmlUrl": "https://andrewlock.net",
     "feedUrl": "https://andrewlock.net/rss.xml",
+    "github": "https://github.com/andrewlock",
     "category": "dotnet",
     "icon": "andrewlock"
   },
@@ -77,6 +85,7 @@
     "title": "davecallan",
     "htmlUrl": "https://davecallan.com",
     "feedUrl": "https://davecallan.com/feed/",
+    "github": "https://github.com/davepcallan",
     "category": "dotnet",
     "icon": "wp"
   },
@@ -86,6 +95,7 @@
     "title": "stephencleary",
     "htmlUrl": "https://blog.stephencleary.com",
     "feedUrl": "https://feeds.feedburner.com/NitoPrograms",
+    "github": "https://github.com/StephenCleary",
     "category": "dotnet",
     "icon": "stephencleary"
   },
@@ -95,6 +105,7 @@
     "title": "jonskeet",
     "htmlUrl": "https://codeblog.jonskeet.uk",
     "feedUrl": "https://codeblog.jonskeet.uk/feed/",
+    "github": "https://github.com/jskeet",
     "category": "dotnet",
     "icon": "wp"
   },
@@ -104,6 +115,7 @@
     "title": "jimmybogard",
     "htmlUrl": "https://www.jimmybogard.com",
     "feedUrl": "https://feeds.feedburner.com/grabbagoft",
+    "github": "https://github.com/jbogard",
     "category": "dotnet",
     "icon": "jimmybogard"
   },
@@ -113,6 +125,7 @@
     "title": "devlead",
     "htmlUrl": "https://www.devlead.se",
     "feedUrl": "https://www.devlead.se/feed.rss",
+    "github": "https://github.com/devlead",
     "category": "dotnet",
     "icon": "devlead"
   },
@@ -122,6 +135,7 @@
     "title": "steven-giesel",
     "htmlUrl": "https://steven-giesel.com/archive",
     "feedUrl": "https://steven-giesel.com/feed.rss",
+    "github": "https://github.com/linkdotnet",
     "category": "dotnet",
     "icon": "steven-giesel"
   },
@@ -131,6 +145,7 @@
     "title": "adamsitnik",
     "htmlUrl": "https://adamsitnik.com",
     "feedUrl": "https://adamsitnik.com/feed.xml",
+    "github": "https://github.com/adamsitnik",
     "category": "dotnet",
     "icon": "blank"
   },
@@ -140,6 +155,7 @@
     "title": "minidump",
     "htmlUrl": "https://minidump.net",
     "feedUrl": "https://minidump.net/index.xml",
+    "github": "https://github.com/kevingosse",
     "category": "dotnet",
     "icon": "minidump"
   },
@@ -149,6 +165,7 @@
     "title": "mattwarren",
     "htmlUrl": "https://mattwarren.org",
     "feedUrl": "https://mattwarren.org/atom.xml",
+    "github": "https://github.com/mattwarren",
     "category": "dotnet",
     "icon": "mattwarren"
   },
@@ -158,6 +175,7 @@
     "title": "haacked",
     "htmlUrl": "https://haacked.com/archives/",
     "feedUrl": "http://feeds.haacked.com/haacked",
+    "github": "https://github.com/haacked",
     "category": "dotnet",
     "icon": "haacked"
   },
@@ -167,6 +185,7 @@
     "title": "erikej",
     "htmlUrl": "https://erikej.github.io",
     "feedUrl": "https://erikej.github.io/feed.xml",
+    "github": "https://github.com/ErikEJ",
     "category": "dotnet",
     "icon": "blank"
   },
@@ -176,6 +195,7 @@
     "title": "enterprisecraftsmanship",
     "htmlUrl": "https://enterprisecraftsmanship.com/archives",
     "feedUrl": "https://enterprisecraftsmanship.com/index.xml",
+    "github": "",
     "category": "dotnet",
     "icon": "enterprisecraftsmanship"
   },
@@ -185,6 +205,7 @@
     "title": "simonwillison",
     "htmlUrl": "https://simonwillison.net",
     "feedUrl": "https://simonwillison.net/atom/everything/",
+    "github": "https://github.com/simonw",
     "category": "ai",
     "icon": "simonwillison"
   },
@@ -194,6 +215,7 @@
     "title": "martinfowler",
     "htmlUrl": "https://www.martinfowler.com/recent-changes.html",
     "feedUrl": "https://www.martinfowler.com/feed.atom",
+    "github": "",
     "category": "general",
     "icon": "martinfowler"
   },
@@ -203,6 +225,7 @@
     "title": "antirez",
     "htmlUrl": "https://antirez.com",
     "feedUrl": "https://antirez.com/rss",
+    "github": "https://github.com/antirez",
     "category": "general",
     "icon": "blank"
   },
@@ -212,6 +235,7 @@
     "title": "nickcraver",
     "htmlUrl": "https://nickcraver.com/blog/",
     "feedUrl": "https://nickcraver.com/blog/feed.xml",
+    "github": "https://github.com/NickCraver",
     "category": "general",
     "icon": "nickcraver"
   },
@@ -221,6 +245,7 @@
     "title": "codinghorror",
     "htmlUrl": "https://blog.codinghorror.com",
     "feedUrl": "https://blog.codinghorror.com/rss/",
+    "github": "",
     "category": "general",
     "icon": "codinghorror"
   },
@@ -230,6 +255,7 @@
     "title": "joelonsoftware",
     "htmlUrl": "https://www.joelonsoftware.com",
     "feedUrl": "https://www.joelonsoftware.com/feed/",
+    "github": "",
     "category": "general",
     "icon": "joelonsoftware"
   },
@@ -239,6 +265,7 @@
     "title": "neilonsoftware",
     "htmlUrl": "https://neilonsoftware.com/articles/",
     "feedUrl": "https://neilonsoftware.com/feed/",
+    "github": "",
     "category": "general",
     "icon": "neilonsoftware"
   },
@@ -248,6 +275,7 @@
     "title": "brendangregg",
     "htmlUrl": "https://www.brendangregg.com/blog/",
     "feedUrl": "https://www.brendangregg.com/blog/rss.xml",
+    "github": "https://github.com/brendangregg",
     "category": "general",
     "icon": "brendangregg"
   },
@@ -257,6 +285,7 @@
     "title": "tidyfirst",
     "htmlUrl": "https://tidyfirst.substack.com/archive",
     "feedUrl": "https://tidyfirst.substack.com/feed",
+    "github": "",
     "category": "general",
     "icon": "tidyfirst"
   },
@@ -266,6 +295,7 @@
     "title": "paulhammant",
     "htmlUrl": "https://paulhammant.com/archive/",
     "feedUrl": "https://feeds.feedburner.com/paulhammant",
+    "github": "https://github.com/paul-hammant",
     "category": "general",
     "icon": "blank"
   },
@@ -275,6 +305,7 @@
     "title": "sizovs",
     "htmlUrl": "https://sizovs.net",
     "feedUrl": "https://sizovs.net/feed.xml",
+    "github": "",
     "category": "general",
     "icon": "sizovs"
   },
@@ -284,6 +315,7 @@
     "title": "bartwullems",
     "htmlUrl": "https://bartwullems.blogspot.com",
     "feedUrl": "https://bartwullems.blogspot.com/feeds/posts/default",
+    "github": "",
     "category": "general",
     "icon": "blogspot"
   },
@@ -293,6 +325,7 @@
     "title": "pragmaticengineer",
     "htmlUrl": "https://blog.pragmaticengineer.com",
     "feedUrl": "https://feeds.feedburner.com/ThePragmaticEngineer",
+    "github": "",
     "category": "general",
     "icon": "pragmaticengineer"
   },
@@ -302,6 +335,7 @@
     "title": "vadimkravcenko",
     "htmlUrl": "https://vadimkravcenko.com/newsletter/#h-past-issues",
     "feedUrl": "https://vadimkravcenko.com/feed/",
+    "github": "",
     "category": "general",
     "icon": "vadimkravcenko"
   },
@@ -311,6 +345,7 @@
     "title": "thecodist",
     "htmlUrl": "https://thecodist.com",
     "feedUrl": "https://thecodist.com/rss/",
+    "github": "",
     "category": "general",
     "icon": "thecodist"
   },
@@ -320,6 +355,7 @@
     "title": "terriblesoftware",
     "htmlUrl": "https://terriblesoftware.org/",
     "feedUrl": "https://terriblesoftware.org/feed/",
+    "github": "https://github.com/matheusml",
     "category": "management",
     "icon": "terriblesoftware"
   },
@@ -329,6 +365,7 @@
     "title": "lethain",
     "htmlUrl": "https://lethain.com",
     "feedUrl": "https://lethain.com/feeds/",
+    "github": "",
     "category": "management",
     "icon": "lethain"
   },
@@ -338,6 +375,7 @@
     "title": "effectiveengineer",
     "htmlUrl": "https://www.effectiveengineer.com/blog",
     "feedUrl": "https://www.effectiveengineer.com/atom.xml",
+    "github": "",
     "category": "management",
     "icon": "effectiveengineer"
   },
@@ -347,6 +385,7 @@
     "title": "stackoverflow",
     "htmlUrl": "https://stackoverflow.blog/",
     "feedUrl": "https://stackoverflow.blog/feed",
+    "github": "",
     "category": "tech-companies",
     "icon": "stackoverflow"
   },
@@ -356,6 +395,7 @@
     "title": "github",
     "htmlUrl": "https://github.blog/category/engineering/",
     "feedUrl": "https://github.blog/engineering/feed/",
+    "github": "",
     "category": "tech-companies",
     "icon": "github"
   },
@@ -365,6 +405,7 @@
     "title": "netflix",
     "htmlUrl": "https://netflixtechblog.com",
     "feedUrl": "https://netflixtechblog.com/feed",
+    "github": "",
     "category": "tech-companies",
     "icon": "netflix"
   },
@@ -374,6 +415,7 @@
     "title": "slack",
     "htmlUrl": "https://slack.engineering",
     "feedUrl": "https://slack.engineering/feed/",
+    "github": "",
     "category": "tech-companies",
     "icon": "slack"
   }
