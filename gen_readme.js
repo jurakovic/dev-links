@@ -36,20 +36,23 @@ const categoryMarkdown = categoryBlogs.map(blog => {
     }
 
     lines.push(`<${blog.url}>  `);
-    
+
     // Add extra URLs if they exist
     if (blog.extras && blog.extras.length > 0) {
         blog.extras.forEach(url => {
             lines.push(`<${url}>  `);
         });
     }
-    
+
     // Add GitHub URL if it exists
     if (blog.github) {
         lines.push(`<${blog.github}>  `);
     }
-    
-    lines.push(`<div id="${blog.id}" class="blog-posts"></div>`);
+
+    // Add blog posts div if feed exists
+    if (blog.feed) {
+        lines.push(`<div id="${blog.id}" class="blog-posts"></div>`);
+    }
 
     return lines.join('\n');
 }).join('\n\n');

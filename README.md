@@ -442,19 +442,19 @@ Vladimir Khorikov | Enterprise Craftsmanship
 <https://enterprisecraftsmanship.com/archives>  
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
 
-<!-- END DOTNET -->
-
 ![icon](favicons/jonhilton.png)
-Jon Hilton (Blazor)  
+Jon Hilton | Making sense of ASP.NET (Blazor)  
 <https://jonhilton.net/post/>  
 <https://github.com/jonhilt>  
 
 ![icon](favicons/mikesdotnetting.png)
-Mike Brind (Razor Pages, Blazor)  
+Mike Brind | Mikesdotnetting (Razor Pages, Blazor)  
 <https://www.mikesdotnetting.com>  
 <https://www.learnrazorpages.com>  
 <https://www.learnblazor.com>  
 <https://github.com/mikebrind>  
+
+<!-- END DOTNET -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 

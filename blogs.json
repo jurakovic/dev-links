@@ -225,6 +225,31 @@
     "icon": "enterprisecraftsmanship"
   },
   {
+    "id": "jonhilton",
+    "author": "Jon Hilton",
+    "title": "Making sense of ASP.NET (Blazor)",
+    "url": "https://jonhilton.net/post/",
+    "feed": "",
+    "extras": [],
+    "github": "https://github.com/jonhilt",
+    "category": "dotnet",
+    "icon": "jonhilton"
+  },
+  {
+    "id": "mikesdotnetting",
+    "author": "Mike Brind",
+    "title": "Mikesdotnetting (Razor Pages, Blazor)",
+    "url": "https://www.mikesdotnetting.com",
+    "feed": "",
+    "extras": [
+      "https://www.learnrazorpages.com",
+      "https://www.learnblazor.com"
+    ],
+    "github": "https://github.com/mikebrind",
+    "category": "dotnet",
+    "icon": "mikesdotnetting"
+  },
+  {
     "id": "simonwillison",
     "author": "Simon Willison",
     "title": "",

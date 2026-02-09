@@ -39,22 +39,15 @@ function update() {
   fi
 }
 
-if [ -d "posts" ]; then
-  cd posts
-else
-  if [ -d "../dev-news/posts" ]; then
-    cd ../dev-news/posts
-  else
-    echo "Error: Posts directory not found in current or parent directory."
-    exit 1
-  fi
-fi
+cd posts
 
 # Read blogs from blogs.json and process each one
 # --binary / -b:
 # Windows users using WSL, MSYS2, or Cygwin, should use this option when using a native jq.exe, otherwise jq will turn newlines (LFs) into carriage-return-then-newline (CRLF).
 jq -b -r '.[] | "\(.id)|\(.feed)"' ../blogs.json | while IFS='|' read -r id feed; do
-  update "$id" "$feed"
+  if [ -n "$feed" ]; then
+    update "$id" "$feed"
+  fi
 done
 
 cd -
