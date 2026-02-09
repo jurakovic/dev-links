@@ -12,7 +12,7 @@ const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs
 const blogsConfig = JSON.parse(fs.readFileSync(BLOGS_JSON, 'utf8'));
 const iconMap = {};
 for (const blog of blogsConfig) {
-    iconMap[blog.title] = blog.icon;
+    iconMap[blog.id] = blog.icon;
 }
 
 // --- Read all json files ---

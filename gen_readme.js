@@ -26,20 +26,20 @@ const categoryMarkdown = categoryBlogs.map(blog => {
     const lines = [];
     lines.push(`![icon](favicons/${blog.icon}.png)`);
 
-    // Author | Name line (handle empty name case)
-    if (blog.name) {
-        lines.push(`${blog.author} | ${blog.name}  `);
+    // Author | Title line (handle empty name case)
+    if (blog.title) {
+        lines.push(`${blog.author} | ${blog.title}  `);
     } else if (blog.author) {
         lines.push(`${blog.author}  `);
     } else {
         lines.push(`${blog.title}  `);
     }
 
-    lines.push(`<${blog.htmlUrl}>  `);
+    lines.push(`<${blog.url}>  `);
     
     // Add extra URLs if they exist
-    if (blog.extraUrls && blog.extraUrls.length > 0) {
-        blog.extraUrls.forEach(url => {
+    if (blog.extras && blog.extras.length > 0) {
+        blog.extras.forEach(url => {
             lines.push(`<${url}>  `);
         });
     }
@@ -49,7 +49,7 @@ const categoryMarkdown = categoryBlogs.map(blog => {
         lines.push(`<${blog.github}>  `);
     }
     
-    lines.push(`<div id="${blog.title}" class="blog-posts"></div>`);
+    lines.push(`<div id="${blog.id}" class="blog-posts"></div>`);
 
     return lines.join('\n');
 }).join('\n\n');
