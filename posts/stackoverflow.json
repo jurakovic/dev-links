@@ -1,5 +1,10 @@
 [
   {
+    "title": "The logos, ethos, and pathos of your LLMs",
+    "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
+    "pubDate": "Tue, 10 Feb 2026 08:40:00 GMT"
+  },
+  {
     "title": "Why demand for code is infinite: How AI creates more developer jobs",
     "link": "https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/",
     "pubDate": "Mon, 09 Feb 2026 17:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Generating text with diffusion (and ROI with LLMs)",
     "link": "https://stackoverflow.blog/2026/02/03/generating-text-with-diffusion-and-roi-with-llms/",
     "pubDate": "Tue, 03 Feb 2026 08:40:00 GMT"
-  },
-  {
-    "title": "What’s new at Stack Overflow: February 2026",
-    "link": "https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/",
-    "pubDate": "Mon, 02 Feb 2026 15:00:00 GMT"
   }
 ]
