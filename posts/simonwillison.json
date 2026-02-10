@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+    "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
+    "pubDate": "2026-02-10T17:45:29+00:00"
+  },
+  {
     "title": "Structured Context Engineering for File-Native Agentic Systems",
     "link": "https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything",
     "pubDate": "2026-02-09T23:56:51+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Thomas Ptacek",
     "link": "https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything",
     "pubDate": "2026-02-08T02:25:53+00:00"
-  },
-  {
-    "title": "Vouch",
-    "link": "https://simonwillison.net/2026/Feb/7/vouch/#atom-everything",
-    "pubDate": "2026-02-07T23:57:57+00:00"
   }
 ]

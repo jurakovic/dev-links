@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-10 steven-giesel</small>  
+<small>[.NET Toolbox February Update](https://steven-giesel.com/blogPost/ec7526ca-9f43-4e28-b8cf-2bbcd30349ca)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
+<small>[.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-10 simonwillison</small>  
+<small>[Introducing Showboat and Rodney, so agents can demo what they’ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-10 stackoverflow</small>  
 <small>[The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/)</small>
 
@@ -42,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
 <small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-07 simonwillison</small>  
-<small>[Vouch](https://simonwillison.net/2026/Feb/7/vouch/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
 <small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-01-27 minidump</small>  
-<small>[Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-01-26 netflix</small>  
-<small>[The AI Evolution of Graph Search at Netflix](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss----2615bd06b42e---4)</small>
 
