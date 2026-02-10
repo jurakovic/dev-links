@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why demand for code is infinite: How AI creates more developer jobs",
+    "link": "https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/",
+    "pubDate": "Mon, 09 Feb 2026 17:00:00 GMT"
+  },
+  {
     "title": "AI attention span so good it shouldn’t be legal",
     "link": "https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/",
     "pubDate": "Fri, 06 Feb 2026 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "What’s new at Stack Overflow: February 2026",
     "link": "https://stackoverflow.blog/2026/02/02/what-s-new-at-stack-overflow-february-2026/",
     "pubDate": "Mon, 02 Feb 2026 15:00:00 GMT"
-  },
-  {
-    "title": "Wanna see a CSS magic trick?",
-    "link": "https://stackoverflow.blog/2026/01/30/wanna-see-a-css-magic-trick/",
-    "pubDate": "Fri, 30 Jan 2026 08:40:00 GMT"
   }
 ]
