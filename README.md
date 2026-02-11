@@ -8,6 +8,7 @@
 └─ [Blogs](#blogs) / [*Reader*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
@@ -30,6 +31,8 @@
 
 ## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-net">↓ Community</a></sub></sup>
 
+<!-- BEGIN DOTNET-MAIN -->
+
 ![icon](favicons/microsoft.png)
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
@@ -44,6 +47,8 @@ Visual Studio Blog
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 <div id="visualstudiomagazine" class="blog-posts"></div>
+
+<!-- END DOTNET-MAIN -->
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
@@ -118,11 +123,18 @@ SQL projects
 [https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style](https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style?view=sql-server-ver16)  
 [https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) ([GitHub](https://github.com/microsoft/dacfx))  
 
-<!-- BEGIN SQL -->
+<!-- BEGIN SQL-MAIN -->
+
+![icon](favicons/microsoft.png)
+Microsoft SQL Server  
+<https://www.microsoft.com/en-us/sql-server/blog/>  
+<https://github.com/microsoft/sql-server-samples>  
+<div id="microsoft-sql-server" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
 Azure SQL Devs' Corner  
 <https://devblogs.microsoft.com/azure-sql/>  
+<https://github.com/microsoft/sql-server-samples>  
 <div id="azure-sql" class="blog-posts"></div>
 
 ![icon](favicons/use-the-index-luke.png)
@@ -130,30 +142,7 @@ Markus Winand | SQL Indexing and Tuning
 <https://use-the-index-luke.com/blog>  
 <div id="use-the-index-luke" class="blog-posts"></div>
 
-![icon](favicons/db-berater.png)
-Uwe Ricken | SQL Server Blog  
-<https://www.db-berater.de/sql-server-blog/>  
-<div id="db-berater" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Erik Ejlskov Jensen | .NET Data Access and more  
-<https://erikej.github.io>  
-<https://erikej.blogspot.com>  
-<https://github.com/ErikEJ>  
-<div id="erikej" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Shay Rojansky  
-<https://www.roji.org>  
-<https://github.com/roji>  
-<div id="roji" class="blog-posts"></div>
-
-![icon](favicons/sqlperformance.png)
-SQLPerformance.com  
-<https://sqlperformance.com>  
-<div id="sqlperformance" class="blog-posts"></div>
-
-<!-- END SQL -->
+<!-- END SQL-MAIN -->
 
 * * *
 
@@ -482,6 +471,35 @@ Rick Strahl
 <div id="rickstrahl" class="blog-posts"></div>
 
 <!-- END DOTNET -->
+
+#### <a name="blogs-sql"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN SQL -->
+
+![icon](favicons/blank.png)
+Erik Ejlskov Jensen | .NET Data Access and more  
+<https://erikej.github.io>  
+<https://erikej.blogspot.com>  
+<https://github.com/ErikEJ>  
+<div id="erikej" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Shay Rojansky  
+<https://www.roji.org>  
+<https://github.com/roji>  
+<div id="roji" class="blog-posts"></div>
+
+![icon](favicons/db-berater.png)
+Uwe Ricken | SQL Server Blog  
+<https://www.db-berater.de/sql-server-blog/>  
+<div id="db-berater" class="blog-posts"></div>
+
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
+<div id="sqlperformance" class="blog-posts"></div>
+
+<!-- END SQL -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 

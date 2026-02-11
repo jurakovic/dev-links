@@ -7,7 +7,7 @@
         "feed": "https://devblogs.microsoft.com/dotnet/feed/",
         "extras": [],
         "github": "",
-        "category": "dotnet-official",
+        "category": "dotnet-main",
         "icon": "microsoft"
     },
     {
@@ -18,7 +18,7 @@
         "feed": "https://devblogs.microsoft.com/visualstudio/feed/",
         "extras": [],
         "github": "",
-        "category": "dotnet-official",
+        "category": "dotnet-main",
         "icon": "microsoft"
     },
     {
@@ -29,7 +29,7 @@
         "feed": "https://visualstudiomagazine.com/rss-feeds/news.aspx",
         "extras": [],
         "github": "",
-        "category": "dotnet-official",
+        "category": "dotnet-main",
         "icon": "visualstudiomagazine"
     },
     {
@@ -55,14 +55,25 @@
         "icon": "developertoarchitect"
     },
     {
+        "id": "microsoft-sql-server",
+        "author": "",
+        "title": "Microsoft SQL Server",
+        "url": "https://www.microsoft.com/en-us/sql-server/blog/",
+        "feed": "https://www.microsoft.com/en-us/sql-server/blog/feed/",
+        "extras": [],
+        "github": "https://github.com/microsoft/sql-server-samples",
+        "category": "sql-main",
+        "icon": "microsoft"
+    },
+    {
         "id": "azure-sql",
         "author": "",
         "title": "Azure SQL Devs' Corner",
         "url": "https://devblogs.microsoft.com/azure-sql/",
         "feed": "https://devblogs.microsoft.com/azure-sql/feed/",
         "extras": [],
-        "github": "",
-        "category": "sql",
+        "github": "https://github.com/microsoft/sql-server-samples",
+        "category": "sql-main",
         "icon": "microsoft"
     },
     {
@@ -73,19 +84,8 @@
         "feed": "https://use-the-index-luke.com/blog/feed/",
         "extras": [],
         "github": "",
-        "category": "sql",
+        "category": "sql-main",
         "icon": "use-the-index-luke"
-    },
-    {
-        "id": "db-berater",
-        "author": "Uwe Ricken",
-        "title": "SQL Server Blog",
-        "url": "https://www.db-berater.de/sql-server-blog/",
-        "feed": "https://www.db-berater.de/feed/",
-        "extras": [],
-        "github": "",
-        "category": "sql",
-        "icon": "db-berater"
     },
     {
         "id": "ardalis",
@@ -657,6 +657,17 @@
         "github": "https://github.com/swizec",
         "category": "general",
         "icon": "swizec"
+    },
+    {
+        "id": "db-berater",
+        "author": "Uwe Ricken",
+        "title": "SQL Server Blog",
+        "url": "https://www.db-berater.de/sql-server-blog/",
+        "feed": "https://www.db-berater.de/feed/",
+        "extras": [],
+        "github": "",
+        "category": "sql",
+        "icon": "db-berater"
     },
     {
         "id": "sqlperformance",
