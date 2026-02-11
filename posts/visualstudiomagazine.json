@@ -1,5 +1,10 @@
 [
   {
+    "title": "Devs Souring on .NET 11?",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx",
+    "pubDate": "Wed, 11 Feb 2026 19:20:00 GMT"
+  },
+  {
     "title": "VS Code 1.109 Deemed a Multi-Agent Development Platform",
     "link": "https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx",
     "pubDate": "Thu, 05 Feb 2026 22:30:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration",
     "link": "https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx",
     "pubDate": "Thu, 22 Jan 2026 17:39:00 GMT"
-  },
-  {
-    "title": "VS Code December 2025 Update Puts AI 'Agent Skills' Front and Center",
-    "link": "https://visualstudiomagazine.com/Articles/2026/01/12/VS-Code-December-2025-Update-Puts-AI-Agent-Skills-Front-and-Center.aspx",
-    "pubDate": "Mon, 12 Jan 2026 23:43:00 GMT"
   }
 ]

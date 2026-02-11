@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
+<small>[Quoting Andrew Deck for Niemen Lab](https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-11 visualstudiomagazine</small>  
+<small>[Devs Souring on .NET 11?](https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
+<small>[Skills in OpenAI API](https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
+<small>[GLM-5: From Vibe Coding to Agentic Engineering](https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
+<small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
+<small>[cysqlite - a new sqlite driver](https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-11 stackoverflow</small>  
 <small>[Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/)</small>
 
@@ -34,17 +52,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-10 minidump</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles](https://minidump.net/writing-a-net-gc-in-c-part-7/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-09 simonwillison</small>  
-<small>[Structured Context Engineering for File-Native Agentic Systems](https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-09 martinfowler</small>  
 <small>[Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-09 stackoverflow</small>  
 <small>[Why demand for code is infinite: How AI creates more developer jobs](https://stackoverflow.blog/2026/02/09/why-demand-for-code-is-infinite-how-ai-creates-more-developer-jobs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-09 simonwillison</small>  
-<small>[AI Doesn’t Reduce Work—It Intensifies It](https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-09 ardalis</small>  
 <small>[2025 Year in Review](https://ardalis.com/2025-year-in-review/)</small>
@@ -55,14 +67,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
 <small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
-<small>[Kākāpō mug by Karen James](https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-08 microservices</small>  
 <small>[GenAI-based software delivery needs a fast flow architecture](http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-08 simonwillison</small>  
-<small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
 <small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-28 martinfowler</small>  
 <small>[Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-28 microservices</small>  
-<small>[From two problems to four: the not-so-hidden complexity GenAI-based development](http://microservices.io//post/architecture/2026/01/28/when-two-problems-becomes-four-genai-based-development.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-27 visualstudio</small>  
-<small>[Visual Studio January Update — Enhanced Editor Experience](https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/)</small>
 

@@ -1,27 +1,27 @@
 [
   {
+    "title": "Quoting Andrew Deck for Niemen Lab",
+    "link": "https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything",
+    "pubDate": "2026-02-11T20:59:03+00:00"
+  },
+  {
+    "title": "Skills in OpenAI API",
+    "link": "https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything",
+    "pubDate": "2026-02-11T19:19:22+00:00"
+  },
+  {
+    "title": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "link": "https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything",
+    "pubDate": "2026-02-11T18:56:14+00:00"
+  },
+  {
+    "title": "cysqlite - a new sqlite driver",
+    "link": "https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything",
+    "pubDate": "2026-02-11T17:34:40+00:00"
+  },
+  {
     "title": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
     "link": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything",
     "pubDate": "2026-02-10T17:45:29+00:00"
-  },
-  {
-    "title": "Structured Context Engineering for File-Native Agentic Systems",
-    "link": "https://simonwillison.net/2026/Feb/9/structured-context-engineering-for-file-native-agentic-systems/#atom-everything",
-    "pubDate": "2026-02-09T23:56:51+00:00"
-  },
-  {
-    "title": "AI Doesn’t Reduce Work—It Intensifies It",
-    "link": "https://simonwillison.net/2026/Feb/9/ai-intensifies-work/#atom-everything",
-    "pubDate": "2026-02-09T16:43:07+00:00"
-  },
-  {
-    "title": "Kākāpō mug by Karen James",
-    "link": "https://simonwillison.net/2026/Feb/8/kakapo-mug/#atom-everything",
-    "pubDate": "2026-02-08T17:25:07+00:00"
-  },
-  {
-    "title": "Quoting Thomas Ptacek",
-    "link": "https://simonwillison.net/2026/Feb/8/thomas-ptacek/#atom-everything",
-    "pubDate": "2026-02-08T02:25:53+00:00"
   }
 ]
