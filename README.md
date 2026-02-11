@@ -592,7 +592,7 @@ samwho
 
 ![icon](favicons/swizec.png)
 Swizec Teller  
-<https://swizec.com/blog/>  
+<https://swizec.com/blog>  
 <https://github.com/swizec>  
 <div id="swizec" class="blog-posts"></div>
 
@@ -683,7 +683,7 @@ Github | The ReadME Project: Guides
 
 ![icon](favicons/stackoverflow.png)
 The Stack Overflow Blog  
-<https://stackoverflow.blog/>  
+<https://stackoverflow.blog>  
 <div id="stackoverflow" class="blog-posts"></div>
 
 ![icon](favicons/github.png)
