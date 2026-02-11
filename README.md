@@ -7,9 +7,11 @@
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs) / [*Reader*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Architecture](#blogs-architecture)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
@@ -282,7 +284,7 @@ Software Architecture, Microservices | Martin Fowler
 Catalog of Patterns of Distributed Systems | Unmesh Joshi  
 <https://martinfowler.com/articles/patterns-of-distributed-systems/>  
 
-<!-- BEGIN ARCHITECTURE -->
+<!-- BEGIN ARCH-MAIN -->
 
 ![icon](favicons/blank.png)
 Chris Richardson | Microservices.io  
@@ -294,7 +296,7 @@ Mark Richards | Software Developer To Software Architect
 <https://developertoarchitect.com/lessons/>  
 <div id="developertoarchitect" class="blog-posts"></div>
 
-<!-- END ARCHITECTURE -->
+<!-- END ARCH-MAIN -->
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
@@ -354,6 +356,29 @@ Lobsters
 r/programming  
 <https://www.reddit.com/r/programming/>  
 -->
+
+#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN AI -->
+
+![icon](favicons/steve-yegge.png)
+Steve Yegge  
+<https://steve-yegge.medium.com>  
+<https://github.com/steveyegge>  
+<div id="steve-yegge-medium" class="blog-posts"></div>
+
+![icon](favicons/addyosmani.png)
+Addy Osmani  
+<https://addyosmani.com/blog>  
+<https://github.com/addyosmani>  
+<div id="addyosmani" class="blog-posts"></div>
+
+![icon](favicons/dbreunig.png)
+Drew Breunig  
+<https://www.dbreunig.com>  
+<div id="dbreunig" class="blog-posts"></div>
+
+<!-- END AI -->
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
@@ -473,6 +498,11 @@ Rick Strahl
 <https://weblog.west-wind.com>  
 <https://github.com/RickStrahl>  
 <div id="rickstrahl" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Chris Patterson | PhatBoyG.com  
+<https://blog.phatboyg.com>  
+<https://github.com/phatboyg>  
 
 <!-- END DOTNET -->
 
@@ -611,30 +641,42 @@ samwho
 <https://samwho.dev/blog>  
 <div id="samwho" class="blog-posts"></div>
 
-![icon](favicons/seangoedecke.png)
-Sean Goedecke  
-<https://www.seangoedecke.com>  
-<https://github.com/sgoedecke>  
-<div id="seangoedecke" class="blog-posts"></div>
-
-![icon](favicons/addyosmani.png)
-Addy Osmani  
-<https://addyosmani.com/blog>  
-<https://github.com/addyosmani>  
-<div id="addyosmani" class="blog-posts"></div>
-
-![icon](favicons/dbreunig.png)
-Drew Breunig  
-<https://www.dbreunig.com>  
-<div id="dbreunig" class="blog-posts"></div>
-
 ![icon](favicons/swizec.png)
 Swizec Teller  
 <https://swizec.com/blog/>  
 <https://github.com/swizec>  
 <div id="swizec" class="blog-posts"></div>
 
+![icon](favicons/blank.png)
+Matthias Kainer  
+<https://matthias-kainer.de/#blog>  
+<https://github.com/MatthiasKainer>  
+
+![icon](favicons/hillelwayne.png)
+Hillel Wayne  
+<https://www.hillelwayne.com/post/>  
+<https://github.com/hwayne>  
+<div id="hillelwayne" class="blog-posts"></div>
+
 <!-- END GENERAL -->
+
+#### <a name="blogs-architecture"></a>Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN ARCH -->
+
+![icon](favicons/seangoedecke.png)
+Sean Goedecke  
+<https://www.seangoedecke.com>  
+<https://github.com/sgoedecke>  
+<div id="seangoedecke" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Benjamin Cane  
+<https://bencane.com>  
+<https://github.com/madflojo>  
+<div id="bencane" class="blog-posts"></div>
+
+<!-- END ARCH -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 

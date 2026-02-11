@@ -40,7 +40,7 @@
         "feed": "https://microservices.io/feed.xml",
         "extras": [],
         "github": "",
-        "category": "architecture",
+        "category": "arch-main",
         "icon": "blank"
     },
     {
@@ -51,7 +51,7 @@
         "feed": "https://www.developertoarchitect.com/lessons/index.xml",
         "extras": [],
         "github": "",
-        "category": "architecture",
+        "category": "arch-main",
         "icon": "developertoarchitect"
     },
     {
@@ -622,8 +622,19 @@
         "feed": "https://www.seangoedecke.com/rss.xml",
         "extras": [],
         "github": "https://github.com/sgoedecke",
-        "category": "general",
+        "category": "arch",
         "icon": "seangoedecke"
+    },
+    {
+        "id": "steve-yegge-medium",
+        "author": "Steve Yegge",
+        "title": "",
+        "url": "https://steve-yegge.medium.com",
+        "feed": "https://medium.com/feed/@steve-yegge",
+        "extras": [],
+        "github": "https://github.com/steveyegge",
+        "category": "ai",
+        "icon": "steve-yegge"
     },
     {
         "id": "addyosmani",
@@ -633,7 +644,7 @@
         "feed": "https://addyosmani.com/rss.xml",
         "extras": [],
         "github": "https://github.com/addyosmani",
-        "category": "general",
+        "category": "ai",
         "icon": "addyosmani"
     },
     {
@@ -644,7 +655,7 @@
         "feed": "https://www.dbreunig.com/feed.xml",
         "extras": [],
         "github": "",
-        "category": "general",
+        "category": "ai",
         "icon": "dbreunig"
     },
     {
@@ -679,5 +690,49 @@
         "github": "",
         "category": "sql",
         "icon": "sqlperformance"
+    },
+    {
+        "id": "matthias-kainer",
+        "author": "Matthias Kainer",
+        "title": "",
+        "url": "https://matthias-kainer.de/#blog",
+        "feed": "",
+        "extras": [],
+        "github": "https://github.com/MatthiasKainer",
+        "category": "general",
+        "icon": "blank"
+    },
+    {
+        "id": "hillelwayne",
+        "author": "Hillel Wayne",
+        "title": "",
+        "url": "https://www.hillelwayne.com/post/",
+        "feed": "https://www.hillelwayne.com/post/index.xml",
+        "extras": [],
+        "github": "https://github.com/hwayne",
+        "category": "general",
+        "icon": "hillelwayne"
+    },
+    {
+        "id": "bencane",
+        "author": "Benjamin Cane",
+        "title": "",
+        "url": "https://bencane.com",
+        "feed": "https://bencane.com/feed.xml",
+        "extras": [],
+        "github": "https://github.com/madflojo",
+        "category": "arch",
+        "icon": "blank"
+    },
+    {
+        "id": "blog-phatboyg",
+        "author": "Chris Patterson",
+        "title": "PhatBoyG.com",
+        "url": "https://blog.phatboyg.com",
+        "feed": "",
+        "extras": [],
+        "github": "https://github.com/phatboyg",
+        "category": "dotnet",
+        "icon": "blank"
     }
 ]

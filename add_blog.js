@@ -87,7 +87,7 @@ function downloadFavicon(urlString, iconName) {
   return new Promise((resolve, reject) => {
     const domain = new URL(urlString).hostname.replace('www.', '');
     const faviconUrl = `https://www.google.com/s2/favicons?sz=16&domain=${domain}`;
-    const outputPath = `favicons\\${iconName}.png`;
+    const outputPath = `favicons/${iconName}.png`;
     
     const downloadFile = (url, redirectCount = 0) => {
       if (redirectCount > 5) {
