@@ -282,15 +282,19 @@ Software Architecture, Microservices | Martin Fowler
 Catalog of Patterns of Distributed Systems | Unmesh Joshi  
 <https://martinfowler.com/articles/patterns-of-distributed-systems/>  
 
+<!-- BEGIN ARCHITECTURE -->
+
 ![icon](favicons/blank.png)
-Microservices.io | Chris Richardson  
+Chris Richardson | Microservices.io  
 <https://microservices.io>  
 <div id="microservices" class="blog-posts"></div>
 
 ![icon](favicons/developertoarchitect.png)
-Software Developer To Software Architect | Mark Richards  
+Mark Richards | Software Developer To Software Architect  
 <https://developertoarchitect.com/lessons/>  
 <div id="developertoarchitect" class="blog-posts"></div>
+
+<!-- END ARCHITECTURE -->
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
