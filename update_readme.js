@@ -11,7 +11,7 @@ if (!category) {
 }
 
 // Read files
-const blogsJson = JSON.parse(fs.readFileSync('blogs.json', 'utf8'));
+const blogsJson = JSON.parse(fs.readFileSync('blogs.json', 'utf8')).filter(blog => blog.selected === true);
 const readme = fs.readFileSync('README.md', 'utf8');
 
 // Filter blogs by category

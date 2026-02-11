@@ -8,7 +8,8 @@
         "extras": [],
         "github": "",
         "category": "dotnet-main",
-        "icon": "microsoft"
+        "icon": "microsoft",
+        "selected": true
     },
     {
         "id": "visualstudio",
@@ -19,7 +20,8 @@
         "extras": [],
         "github": "",
         "category": "dotnet-main",
-        "icon": "microsoft"
+        "icon": "microsoft",
+        "selected": true
     },
     {
         "id": "visualstudiomagazine",
@@ -30,7 +32,8 @@
         "extras": [],
         "github": "",
         "category": "dotnet-main",
-        "icon": "visualstudiomagazine"
+        "icon": "visualstudiomagazine",
+        "selected": true
     },
     {
         "id": "microservices",
@@ -41,7 +44,8 @@
         "extras": [],
         "github": "",
         "category": "arch-main",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "developertoarchitect",
@@ -52,7 +56,8 @@
         "extras": [],
         "github": "",
         "category": "arch-main",
-        "icon": "developertoarchitect"
+        "icon": "developertoarchitect",
+        "selected": true
     },
     {
         "id": "microsoft-sql-server",
@@ -63,7 +68,8 @@
         "extras": [],
         "github": "https://github.com/microsoft/sql-server-samples",
         "category": "sql-main",
-        "icon": "microsoft"
+        "icon": "microsoft",
+        "selected": true
     },
     {
         "id": "azure-sql",
@@ -74,7 +80,8 @@
         "extras": [],
         "github": "https://github.com/microsoft/sql-server-samples",
         "category": "sql-main",
-        "icon": "microsoft"
+        "icon": "microsoft",
+        "selected": true
     },
     {
         "id": "use-the-index-luke",
@@ -85,7 +92,8 @@
         "extras": [],
         "github": "",
         "category": "sql-main",
-        "icon": "use-the-index-luke"
+        "icon": "use-the-index-luke",
+        "selected": true
     },
     {
         "id": "ardalis",
@@ -94,12 +102,12 @@
         "url": "https://ardalis.com/blog",
         "feed": "https://ardalis.com/index.xml",
         "extras": [
-            "https://ardalis.com/category/software-development/",
             "https://blog.nimblepros.com"
         ],
         "github": "https://github.com/ardalis",
         "category": "dotnet",
-        "icon": "ardalis"
+        "icon": "ardalis",
+        "selected": true
     },
     {
         "id": "hanselman",
@@ -110,7 +118,8 @@
         "extras": [],
         "github": "https://github.com/shanselman",
         "category": "dotnet",
-        "icon": "hanselman"
+        "icon": "hanselman",
+        "selected": true
     },
     {
         "id": "andrewlock",
@@ -121,7 +130,8 @@
         "extras": [],
         "github": "https://github.com/andrewlock",
         "category": "dotnet",
-        "icon": "andrewlock"
+        "icon": "andrewlock",
+        "selected": true
     },
     {
         "id": "davecallan",
@@ -132,7 +142,8 @@
         "extras": [],
         "github": "https://github.com/davepcallan",
         "category": "dotnet",
-        "icon": "wp"
+        "icon": "wp",
+        "selected": false
     },
     {
         "id": "stephencleary",
@@ -143,7 +154,8 @@
         "extras": [],
         "github": "https://github.com/StephenCleary",
         "category": "dotnet",
-        "icon": "stephencleary"
+        "icon": "stephencleary",
+        "selected": true
     },
     {
         "id": "jonskeet",
@@ -154,7 +166,8 @@
         "extras": [],
         "github": "https://github.com/jskeet",
         "category": "dotnet",
-        "icon": "wp"
+        "icon": "wp",
+        "selected": true
     },
     {
         "id": "jimmybogard",
@@ -165,7 +178,20 @@
         "extras": [],
         "github": "https://github.com/jbogard",
         "category": "dotnet",
-        "icon": "jimmybogard"
+        "icon": "jimmybogard",
+        "selected": true
+    },
+    {
+        "id": "blog-phatboyg",
+        "author": "Chris Patterson",
+        "title": "PhatBoyG.com",
+        "url": "https://blog.phatboyg.com",
+        "feed": "",
+        "extras": [],
+        "github": "https://github.com/phatboyg",
+        "category": "dotnet",
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "devlead",
@@ -176,7 +202,8 @@
         "extras": [],
         "github": "https://github.com/devlead",
         "category": "dotnet",
-        "icon": "devlead"
+        "icon": "devlead",
+        "selected": true
     },
     {
         "id": "steven-giesel",
@@ -187,7 +214,8 @@
         "extras": [],
         "github": "https://github.com/linkdotnet",
         "category": "dotnet",
-        "icon": "steven-giesel"
+        "icon": "steven-giesel",
+        "selected": true
     },
     {
         "id": "adamsitnik",
@@ -198,7 +226,8 @@
         "extras": [],
         "github": "https://github.com/adamsitnik",
         "category": "dotnet",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "minidump",
@@ -209,7 +238,8 @@
         "extras": [],
         "github": "https://github.com/kevingosse",
         "category": "dotnet",
-        "icon": "minidump"
+        "icon": "minidump",
+        "selected": true
     },
     {
         "id": "mattwarren",
@@ -220,7 +250,8 @@
         "extras": [],
         "github": "https://github.com/mattwarren",
         "category": "dotnet",
-        "icon": "mattwarren"
+        "icon": "mattwarren",
+        "selected": false
     },
     {
         "id": "haacked",
@@ -231,7 +262,8 @@
         "extras": [],
         "github": "https://github.com/haacked",
         "category": "dotnet",
-        "icon": "haacked"
+        "icon": "haacked",
+        "selected": true
     },
     {
         "id": "erikej",
@@ -244,7 +276,8 @@
         ],
         "github": "https://github.com/ErikEJ",
         "category": "sql",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "enterprisecraftsmanship",
@@ -255,7 +288,8 @@
         "extras": [],
         "github": "",
         "category": "dotnet",
-        "icon": "enterprisecraftsmanship"
+        "icon": "enterprisecraftsmanship",
+        "selected": true
     },
     {
         "id": "jonhilton",
@@ -266,7 +300,8 @@
         "extras": [],
         "github": "https://github.com/jonhilt",
         "category": "dotnet",
-        "icon": "jonhilton"
+        "icon": "jonhilton",
+        "selected": false
     },
     {
         "id": "mikesdotnetting",
@@ -280,7 +315,8 @@
         ],
         "github": "https://github.com/mikebrind",
         "category": "dotnet",
-        "icon": "mikesdotnetting"
+        "icon": "mikesdotnetting",
+        "selected": false
     },
     {
         "id": "martinfowler",
@@ -291,18 +327,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "martinfowler"
-    },
-    {
-        "id": "antirez",
-        "author": "Salvatore Sanfilippo",
-        "title": "antirez",
-        "url": "https://antirez.com",
-        "feed": "https://antirez.com/rss",
-        "extras": [],
-        "github": "https://github.com/antirez",
-        "category": "general",
-        "icon": "blank"
+        "icon": "martinfowler",
+        "selected": true
     },
     {
         "id": "simonwillison",
@@ -312,8 +338,33 @@
         "feed": "https://simonwillison.net/atom/everything/",
         "extras": [],
         "github": "https://github.com/simonw",
-        "category": "general",
-        "icon": "simonwillison"
+        "category": "ai",
+        "icon": "simonwillison",
+        "selected": true
+    },
+    {
+        "id": "antirez",
+        "author": "Salvatore Sanfilippo",
+        "title": "antirez",
+        "url": "https://antirez.com",
+        "feed": "https://antirez.com/rss",
+        "extras": [],
+        "github": "https://github.com/antirez",
+        "category": "ai",
+        "icon": "blank",
+        "selected": true
+    },
+    {
+        "id": "steve-yegge",
+        "author": "Steve Yegge",
+        "title": "",
+        "url": "https://steve-yegge.medium.com",
+        "feed": "https://medium.com/feed/@steve-yegge",
+        "extras": [],
+        "github": "https://github.com/steveyegge",
+        "category": "ai",
+        "icon": "steve-yegge",
+        "selected": true
     },
     {
         "id": "nickcraver",
@@ -324,7 +375,8 @@
         "extras": [],
         "github": "https://github.com/NickCraver",
         "category": "general",
-        "icon": "nickcraver"
+        "icon": "nickcraver",
+        "selected": false
     },
     {
         "id": "codinghorror",
@@ -335,7 +387,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "codinghorror"
+        "icon": "codinghorror",
+        "selected": false
     },
     {
         "id": "joelonsoftware",
@@ -346,7 +399,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "joelonsoftware"
+        "icon": "joelonsoftware",
+        "selected": false
     },
     {
         "id": "neilonsoftware",
@@ -357,7 +411,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "neilonsoftware"
+        "icon": "neilonsoftware",
+        "selected": false
     },
     {
         "id": "brendangregg",
@@ -368,7 +423,8 @@
         "extras": [],
         "github": "https://github.com/brendangregg",
         "category": "general",
-        "icon": "brendangregg"
+        "icon": "brendangregg",
+        "selected": true
     },
     {
         "id": "tidyfirst",
@@ -379,7 +435,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "tidyfirst"
+        "icon": "tidyfirst",
+        "selected": true
     },
     {
         "id": "paulhammant",
@@ -390,7 +447,8 @@
         "extras": [],
         "github": "https://github.com/paul-hammant",
         "category": "general",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "sizovs",
@@ -401,7 +459,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "sizovs"
+        "icon": "sizovs",
+        "selected": false
     },
     {
         "id": "bartwullems",
@@ -412,7 +471,8 @@
         "extras": [],
         "github": "https://github.com/wullemsb",
         "category": "general",
-        "icon": "blogspot"
+        "icon": "blogspot",
+        "selected": true
     },
     {
         "id": "pragmaticengineer",
@@ -423,7 +483,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "pragmaticengineer"
+        "icon": "pragmaticengineer",
+        "selected": true
     },
     {
         "id": "vadimkravcenko",
@@ -434,7 +495,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "vadimkravcenko"
+        "icon": "vadimkravcenko",
+        "selected": true
     },
     {
         "id": "thecodist",
@@ -445,7 +507,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "thecodist"
+        "icon": "thecodist",
+        "selected": true
     },
     {
         "id": "terriblesoftware",
@@ -456,7 +519,8 @@
         "extras": [],
         "github": "https://github.com/matheusml",
         "category": "management",
-        "icon": "terriblesoftware"
+        "icon": "terriblesoftware",
+        "selected": true
     },
     {
         "id": "lethain",
@@ -469,7 +533,8 @@
         ],
         "github": "",
         "category": "management",
-        "icon": "lethain"
+        "icon": "lethain",
+        "selected": true
     },
     {
         "id": "effectiveengineer",
@@ -480,7 +545,8 @@
         "extras": [],
         "github": "",
         "category": "management",
-        "icon": "effectiveengineer"
+        "icon": "effectiveengineer",
+        "selected": true
     },
     {
         "id": "stackoverflow",
@@ -491,7 +557,8 @@
         "extras": [],
         "github": "",
         "category": "tech-companies",
-        "icon": "stackoverflow"
+        "icon": "stackoverflow",
+        "selected": true
     },
     {
         "id": "github",
@@ -502,7 +569,8 @@
         "extras": [],
         "github": "",
         "category": "tech-companies",
-        "icon": "github"
+        "icon": "github",
+        "selected": true
     },
     {
         "id": "netflix",
@@ -513,7 +581,8 @@
         "extras": [],
         "github": "",
         "category": "tech-companies",
-        "icon": "netflix"
+        "icon": "netflix",
+        "selected": true
     },
     {
         "id": "slack",
@@ -524,7 +593,8 @@
         "extras": [],
         "github": "",
         "category": "tech-companies",
-        "icon": "slack"
+        "icon": "slack",
+        "selected": true
     },
     {
         "id": "third-bit",
@@ -535,7 +605,8 @@
         "extras": [],
         "github": "https://github.com/gvwilson",
         "category": "general",
-        "icon": "third-bit"
+        "icon": "third-bit",
+        "selected": true
     },
     {
         "id": "damienbod",
@@ -546,7 +617,8 @@
         "extras": [],
         "github": "https://github.com/damienbod",
         "category": "dotnet",
-        "icon": "damienbod"
+        "icon": "damienbod",
+        "selected": true
     },
     {
         "id": "roji",
@@ -557,7 +629,8 @@
         "extras": [],
         "github": "https://github.com/roji",
         "category": "sql",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "barretblake",
@@ -568,7 +641,8 @@
         "extras": [],
         "github": "https://github.com/barretb",
         "category": "general",
-        "icon": "barretblake"
+        "icon": "barretblake",
+        "selected": true
     },
     {
         "id": "techtrenches",
@@ -578,8 +652,9 @@
         "feed": "https://techtrenches.dev/feed",
         "extras": [],
         "github": "",
-        "category": "general",
-        "icon": "techtrenches"
+        "category": "ai",
+        "icon": "techtrenches",
+        "selected": true
     },
     {
         "id": "idunno",
@@ -590,7 +665,8 @@
         "extras": [],
         "github": "https://github.com/blowdart",
         "category": "dotnet",
-        "icon": "idunno"
+        "icon": "idunno",
+        "selected": true
     },
     {
         "id": "rickstrahl",
@@ -601,7 +677,8 @@
         "extras": [],
         "github": "https://github.com/RickStrahl",
         "category": "dotnet",
-        "icon": "rickstrahl"
+        "icon": "rickstrahl",
+        "selected": true
     },
     {
         "id": "samwho",
@@ -612,7 +689,8 @@
         "extras": [],
         "github": "",
         "category": "general",
-        "icon": "samwho"
+        "icon": "samwho",
+        "selected": true
     },
     {
         "id": "seangoedecke",
@@ -623,18 +701,8 @@
         "extras": [],
         "github": "https://github.com/sgoedecke",
         "category": "arch",
-        "icon": "seangoedecke"
-    },
-    {
-        "id": "steve-yegge-medium",
-        "author": "Steve Yegge",
-        "title": "",
-        "url": "https://steve-yegge.medium.com",
-        "feed": "https://medium.com/feed/@steve-yegge",
-        "extras": [],
-        "github": "https://github.com/steveyegge",
-        "category": "ai",
-        "icon": "steve-yegge"
+        "icon": "seangoedecke",
+        "selected": true
     },
     {
         "id": "addyosmani",
@@ -645,7 +713,8 @@
         "extras": [],
         "github": "https://github.com/addyosmani",
         "category": "ai",
-        "icon": "addyosmani"
+        "icon": "addyosmani",
+        "selected": true
     },
     {
         "id": "dbreunig",
@@ -656,7 +725,8 @@
         "extras": [],
         "github": "",
         "category": "ai",
-        "icon": "dbreunig"
+        "icon": "dbreunig",
+        "selected": true
     },
     {
         "id": "swizec",
@@ -667,7 +737,8 @@
         "extras": [],
         "github": "https://github.com/swizec",
         "category": "general",
-        "icon": "swizec"
+        "icon": "swizec",
+        "selected": true
     },
     {
         "id": "db-berater",
@@ -678,7 +749,8 @@
         "extras": [],
         "github": "",
         "category": "sql",
-        "icon": "db-berater"
+        "icon": "db-berater",
+        "selected": true
     },
     {
         "id": "sqlperformance",
@@ -689,7 +761,8 @@
         "extras": [],
         "github": "",
         "category": "sql",
-        "icon": "sqlperformance"
+        "icon": "sqlperformance",
+        "selected": true
     },
     {
         "id": "matthias-kainer",
@@ -700,7 +773,8 @@
         "extras": [],
         "github": "https://github.com/MatthiasKainer",
         "category": "general",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     },
     {
         "id": "hillelwayne",
@@ -711,7 +785,8 @@
         "extras": [],
         "github": "https://github.com/hwayne",
         "category": "general",
-        "icon": "hillelwayne"
+        "icon": "hillelwayne",
+        "selected": true
     },
     {
         "id": "bencane",
@@ -722,17 +797,7 @@
         "extras": [],
         "github": "https://github.com/madflojo",
         "category": "arch",
-        "icon": "blank"
-    },
-    {
-        "id": "blog-phatboyg",
-        "author": "Chris Patterson",
-        "title": "PhatBoyG.com",
-        "url": "https://blog.phatboyg.com",
-        "feed": "",
-        "extras": [],
-        "github": "https://github.com/phatboyg",
-        "category": "dotnet",
-        "icon": "blank"
+        "icon": "blank",
+        "selected": true
     }
 ]

@@ -361,11 +361,28 @@ r/programming
 
 <!-- BEGIN AI -->
 
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
+<div id="simonwillison" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+<div id="antirez" class="blog-posts"></div>
+
 ![icon](favicons/steve-yegge.png)
 Steve Yegge  
 <https://steve-yegge.medium.com>  
 <https://github.com/steveyegge>  
-<div id="steve-yegge-medium" class="blog-posts"></div>
+<div id="steve-yegge" class="blog-posts"></div>
+
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
 
 ![icon](favicons/addyosmani.png)
 Addy Osmani  
@@ -387,7 +404,6 @@ Drew Breunig
 ![icon](favicons/ardalis.png)
 Steve Smith | Ardalis  
 <https://ardalis.com/blog>  
-<https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 <div id="ardalis" class="blog-posts"></div>
@@ -403,12 +419,6 @@ Andrew Lock | .NET Escapades
 <https://andrewlock.net>  
 <https://github.com/andrewlock>  
 <div id="andrewlock" class="blog-posts"></div>
-
-![icon](favicons/wp.png)
-Dave Callan  
-<https://davecallan.com>  
-<https://github.com/davepcallan>  
-<div id="davecallan" class="blog-posts"></div>
 
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
@@ -427,6 +437,11 @@ Jimmy Bogard
 <https://www.jimmybogard.com>  
 <https://github.com/jbogard>  
 <div id="jimmybogard" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Chris Patterson | PhatBoyG.com  
+<https://blog.phatboyg.com>  
+<https://github.com/phatboyg>  
 
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
@@ -452,12 +467,6 @@ Kevin Gosse | minidump.net
 <https://github.com/kevingosse>  
 <div id="minidump" class="blog-posts"></div>
 
-![icon](favicons/mattwarren.png)
-Matt Warren | Performance is a Feature!  
-<https://mattwarren.org>  
-<https://github.com/mattwarren>  
-<div id="mattwarren" class="blog-posts"></div>
-
 ![icon](favicons/haacked.png)
 Phil Haack | You've Been Haacked  
 <https://haacked.com/archives/>  
@@ -468,18 +477,6 @@ Phil Haack | You've Been Haacked
 Vladimir Khorikov | Enterprise Craftsmanship  
 <https://enterprisecraftsmanship.com/archives>  
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
-
-![icon](favicons/jonhilton.png)
-Jon Hilton | Making sense of ASP.NET (Blazor)  
-<https://jonhilton.net/post/>  
-<https://github.com/jonhilt>  
-
-![icon](favicons/mikesdotnetting.png)
-Mike Brind | Mikesdotnetting (Razor Pages, Blazor)  
-<https://www.mikesdotnetting.com>  
-<https://www.learnrazorpages.com>  
-<https://www.learnblazor.com>  
-<https://github.com/mikebrind>  
 
 ![icon](favicons/damienbod.png)
 Damien Bowden | Software Engineering  
@@ -498,11 +495,6 @@ Rick Strahl
 <https://weblog.west-wind.com>  
 <https://github.com/RickStrahl>  
 <div id="rickstrahl" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Chris Patterson | PhatBoyG.com  
-<https://blog.phatboyg.com>  
-<https://github.com/phatboyg>  
 
 <!-- END DOTNET -->
 
@@ -544,39 +536,6 @@ Martin Fowler
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
 
-![icon](favicons/blank.png)
-Salvatore Sanfilippo | antirez  
-<https://antirez.com>  
-<https://github.com/antirez>  
-<div id="antirez" class="blog-posts"></div>
-
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
-
-![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
-<https://nickcraver.com/blog/>  
-<https://github.com/NickCraver>  
-<div id="nickcraver" class="blog-posts"></div>
-
-![icon](favicons/codinghorror.png)
-Jeff Atwood | Coding Horror  
-<https://blog.codinghorror.com>  
-<div id="codinghorror" class="blog-posts"></div>
-
-![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software  
-<https://www.joelonsoftware.com>  
-<div id="joelonsoftware" class="blog-posts"></div>
-
-![icon](favicons/neilonsoftware.png)
-Neil Green | Neil on Software (Podcast)  
-<https://neilonsoftware.com/articles/>  
-<div id="neilonsoftware" class="blog-posts"></div>
-
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
@@ -593,11 +552,6 @@ Paul Hammant
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
 <div id="paulhammant" class="blog-posts"></div>
-
-![icon](favicons/sizovs.png)
-Eduards Sizovs  
-<https://sizovs.net>  
-<div id="sizovs" class="blog-posts"></div>
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
@@ -630,11 +584,6 @@ Greg Wilson | The Third Bit Blog
 Barret Blake  
 <https://barretblake.dev/posts/development/>  
 <https://github.com/barretb>  
-
-![icon](favicons/techtrenches.png)
-Denis Stetskov | From the Trenches  
-<https://techtrenches.dev/archive>  
-<div id="techtrenches" class="blog-posts"></div>
 
 ![icon](favicons/samwho.png)
 samwho  
