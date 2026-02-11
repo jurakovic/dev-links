@@ -6,12 +6,6 @@ on:
       - master
       - dev-news
   workflow_dispatch:
-    inputs:
-      dev_news_branch:
-        description: 'dev-news branch'
-        required: false
-        default: 'dev-news'
-        type: string
   workflow_call:
 
 jobs:
@@ -26,12 +20,12 @@ jobs:
 
       - name: Fetch dev-news branch
         run: |
-          git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
-          git checkout origin/${{ inputs.dev_news_branch || 'dev-news' }} -- .
+          git fetch origin dev-news
+          git checkout origin/dev-news -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
-          #sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
+          sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
           sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master;\.\.;g' news/README.md
 
       - name: Build with Jekyll

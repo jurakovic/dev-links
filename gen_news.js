@@ -6,7 +6,7 @@ const POSTS_DIR = path.join(__dirname, 'posts');
 const TEMPLATE_FILE = path.join(__dirname, 'README.template');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
 const BLOGS_JSON = path.join(__dirname, 'blogs.json');
-const FAVICON_PATH = '/favicons/';
+const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/';
 
 // --- Load blogs config ---
 const blogsConfig = JSON.parse(fs.readFileSync(BLOGS_JSON, 'utf8'));
