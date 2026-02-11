@@ -1,5 +1,10 @@
 [
   {
+    "title": "Unlock language-specific rich symbol context using new find_symbol tool",
+    "link": "https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/",
+    "pubDate": "Wed, 11 Feb 2026 15:29:15 +0000"
+  },
+  {
     "title": "Roadmap for AI in Visual Studio (February)",
     "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
     "pubDate": "Wed, 04 Feb 2026 20:42:53 +0000"
@@ -18,10 +23,5 @@
     "title": "Copilot Memories",
     "link": "https://devblogs.microsoft.com/visualstudio/copilot-memories/",
     "pubDate": "Thu, 15 Jan 2026 13:00:33 +0000"
-  },
-  {
-    "title": "Welcome to 2026, A Growth Year for All of Us",
-    "link": "https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/",
-    "pubDate": "Mon, 05 Jan 2026 14:29:43 +0000"
   }
 ]
