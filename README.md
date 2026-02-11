@@ -305,7 +305,7 @@ Clean Architecture Reference Applications / Solution Templates
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/alex289/CleanArchitecture>  
-<https://github.com/dotnet/eShop>, [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
+<https://github.com/dotnet/eShop>, [eShopLite](https://github.com/azure-Samples/eshoplite), [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
 <https://github.com/NimblePros/eShopOnWeb>  
 
 > <details>
