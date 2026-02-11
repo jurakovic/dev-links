@@ -367,7 +367,7 @@ r/programming
 <!-- BEGIN DOTNET -->
 
 ![icon](favicons/ardalis.png)
-Ardalis (Steve Smith)  
+Steve Smith | Ardalis  
 <https://ardalis.com/blog>  
 <https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
@@ -387,7 +387,7 @@ Andrew Lock | .NET Escapades
 <div id="andrewlock" class="blog-posts"></div>
 
 ![icon](favicons/wp.png)
-Dave Callan | .NET, VS, EF  
+Dave Callan  
 <https://davecallan.com>  
 <https://github.com/davepcallan>  
 <div id="davecallan" class="blog-posts"></div>
@@ -465,19 +465,19 @@ Mike Brind | Mikesdotnetting (Razor Pages, Blazor)
 
 ![icon](favicons/damienbod.png)
 Damien Bowden | Software Engineering  
-<https://damienbod.com/>  
+<https://damienbod.com>  
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
 
 ![icon](favicons/idunno.png)
 Barry Dorrans | Ramblings from a .NET Security PM  
-<https://idunno.org/>  
+<https://idunno.org>  
 <https://github.com/blowdart>  
 <div id="idunno" class="blog-posts"></div>
 
 ![icon](favicons/rickstrahl.png)
 Rick Strahl  
-<https://weblog.west-wind.com/>  
+<https://weblog.west-wind.com>  
 <https://github.com/RickStrahl>  
 <div id="rickstrahl" class="blog-posts"></div>
 
@@ -537,13 +537,13 @@ Kent Beck | Software Design: Tidy First?
 <div id="tidyfirst" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
-Paul Hammant | CTO, Trunk-Based Development expert  
+Paul Hammant  
 <https://paulhammant.com/archive/>  
 <https://github.com/paul-hammant>  
 <div id="paulhammant" class="blog-posts"></div>
 
 ![icon](favicons/sizovs.png)
-Eduards Sizovs | The Principal Developer  
+Eduards Sizovs  
 <https://sizovs.net>  
 <div id="sizovs" class="blog-posts"></div>
 
@@ -559,7 +559,7 @@ Gergely Orosz | The Pragmatic Engineer
 <div id="pragmaticengineer" class="blog-posts"></div>
 
 ![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko | CTO  
+Vadim Kravcenko  
 <https://vadimkravcenko.com/newsletter/#h-past-issues>  
 <div id="vadimkravcenko" class="blog-posts"></div>
 
@@ -603,7 +603,7 @@ Addy Osmani
 
 ![icon](favicons/dbreunig.png)
 Drew Breunig  
-<https://www.dbreunig.com/>  
+<https://www.dbreunig.com>  
 <div id="dbreunig" class="blog-posts"></div>
 
 ![icon](favicons/swizec.png)
@@ -620,7 +620,7 @@ Swizec Teller
 
 ![icon](favicons/terriblesoftware.png)
 Matheus Lima | Terrible Software  
-<https://terriblesoftware.org/>  
+<https://terriblesoftware.org>  
 <https://github.com/matheusml>  
 <div id="terriblesoftware" class="blog-posts"></div>
 
