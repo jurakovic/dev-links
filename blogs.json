@@ -62,7 +62,7 @@
     {
         "id": "microsoft-sql-server",
         "author": "",
-        "title": "Microsoft SQL Server",
+        "title": "Microsoft SQL Server Blog",
         "url": "https://www.microsoft.com/en-us/sql-server/blog/",
         "feed": "https://www.microsoft.com/en-us/sql-server/blog/feed/",
         "extras": [],
@@ -74,7 +74,7 @@
     {
         "id": "azure-sql",
         "author": "",
-        "title": "Azure SQL Devs' Corner",
+        "title": "Azure SQL Devs' Corner Blog",
         "url": "https://devblogs.microsoft.com/azure-sql/",
         "feed": "https://devblogs.microsoft.com/azure-sql/feed/",
         "extras": [],

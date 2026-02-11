@@ -109,7 +109,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-sql">↓ Community</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -128,13 +128,13 @@ SQL projects
 <!-- BEGIN SQL-MAIN -->
 
 ![icon](favicons/microsoft.png)
-Microsoft SQL Server  
+Microsoft SQL Server Blog  
 <https://www.microsoft.com/en-us/sql-server/blog/>  
 <https://github.com/microsoft/sql-server-samples>  
 <div id="microsoft-sql-server" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
-Azure SQL Devs' Corner  
+Azure SQL Devs' Corner Blog  
 <https://devblogs.microsoft.com/azure-sql/>  
 <https://github.com/microsoft/sql-server-samples>  
 <div id="azure-sql" class="blog-posts"></div>
@@ -498,7 +498,7 @@ Rick Strahl
 
 <!-- END DOTNET -->
 
-#### <a name="blogs-sql"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-sql"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#sql-server">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN SQL -->
 
