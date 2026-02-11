@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 4: Data visualisation with Azure Workbooks",
+    "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01091579999.html",
+    "pubDate": "2026-02-11T07:47:00.045+01:00"
+  },
+  {
     "title": "VSCode–Finetune your AI instructions with /init",
     "link": "https://bartwullems.blogspot.com/2026/02/vscodefinetune-your-ai-instructions.html",
     "pubDate": "2026-02-10T07:47:00.026+01:00"
@@ -18,10 +23,5 @@
     "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 1: Overview & Architecture",
     "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution.html",
     "pubDate": "2026-02-05T06:59:00.018+01:00"
-  },
-  {
-    "title": "Creating recursion in TPL Dataflow with LinkTo predicates",
-    "link": "https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html",
-    "pubDate": "2026-02-04T07:13:00.006+01:00"
   }
 ]

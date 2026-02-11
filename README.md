@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-11 bartwullems</small>  
+<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 4: Data visualisation with Azure Workbooks](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01091579999.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
 <small>[.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
 <small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-04 bartwullems</small>  
-<small>[Creating recursion in TPL Dataflow with LinkTo predicates](https://bartwullems.blogspot.com/2026/02/creating-recursion-in-tpl-dataflow-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-04 hanselman</small>  
 <small>[The danger of glamourizing one shots](https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots)</small>
