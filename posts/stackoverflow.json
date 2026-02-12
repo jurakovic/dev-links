@@ -1,5 +1,10 @@
 [
   {
+    "title": "How everyone and anyone can use AI for good",
+    "link": "https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/",
+    "pubDate": "Thu, 12 Feb 2026 17:00:00 GMT"
+  },
+  {
     "title": "Is anyone using AI for good?",
     "link": "https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/",
     "pubDate": "Wed, 11 Feb 2026 17:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "AI attention span so good it shouldn’t be legal",
     "link": "https://stackoverflow.blog/2026/02/06/ai-attention-span-so-good-it-shouldn-t-be-legal/",
     "pubDate": "Fri, 06 Feb 2026 08:40:00 GMT"
-  },
-  {
-    "title": "Code smells for AI agents: Q&A with Eno Reyes of Factory",
-    "link": "https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/",
-    "pubDate": "Wed, 04 Feb 2026 15:00:00 GMT"
   }
 ]

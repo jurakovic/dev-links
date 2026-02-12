@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-12 stackoverflow</small>  
+<small>[How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
+<small>[Supervisor, not overseer](https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
+<small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-12 netflix</small>  
+<small>[Automating RDS Postgres to Aurora Postgres Migration](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-12 microservices</small>  
+<small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-12 bartwullems</small>  
 <small>[Copilot Memory in VS Code: Your AI assistant just got smarter](https://bartwullems.blogspot.com/2026/02/copilot-memory-in-vs-code-your-ai.html)</small>
 
@@ -42,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
 <small>[.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-10 simonwillison</small>  
-<small>[Introducing Showboat and Rodney, so agents can demo what they’ve built](https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-10 stackoverflow</small>  
 <small>[The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/)</small>
@@ -100,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-04 martinfowler</small>  
 <small>[Fragments: February  4](https://martinfowler.com/fragments/2026-02-04.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-04 stackoverflow</small>  
-<small>[Code smells for AI agents: Q&A with Eno Reyes of Factory](https://stackoverflow.blog/2026/02/04/code-smells-for-ai-agents-q-and-a-with-eno-reyes-of-factory/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
 <small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
 
@@ -144,13 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 microservices</small>  
 <small>[My GenAI development workflow: Idea to Code](http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-28 dotnet</small>  
-<small>[.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-28 github</small>  
-<small>[From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-01-28 martinfowler</small>  
-<small>[Bliki: Excessive Bold](https://martinfowler.com/bliki/ExcessiveBold.html)</small>
 

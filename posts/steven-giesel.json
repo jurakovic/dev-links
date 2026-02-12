@@ -1,5 +1,10 @@
 [
   {
+    "title": "Collection Expression Arguments in C# 15 are \"out\"",
+    "link": "https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c",
+    "pubDate": "Thu, 12 Feb 2026 15:07:23 Z"
+  },
+  {
     "title": ".NET Toolbox February Update",
     "link": "https://steven-giesel.com/blogPost/ec7526ca-9f43-4e28-b8cf-2bbcd30349ca",
     "pubDate": "Tue, 10 Feb 2026 19:06:57 Z"
@@ -18,10 +23,5 @@
     "title": ".NET Toolbox",
     "link": "https://steven-giesel.com/blogPost/043491b9-9d2c-433f-bb9b-1cec5b957083",
     "pubDate": "Mon, 05 Jan 2026 05:41:00 Z"
-  },
-  {
-    "title": "Task.Delay fails if you wait longer than 49.7 days",
-    "link": "https://steven-giesel.com/blogPost/c3bdad0d-f9eb-4dcf-b650-98ec0f5dd4d4",
-    "pubDate": "Sun, 28 Dec 2025 11:34:09 Z"
   }
 ]
