@@ -4,11 +4,23 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-12 stackoverflow</small>  
-<small>[How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
+<small>[Introducing GPT‑5.3‑Codex‑Spark](https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
-<small>[Supervisor, not overseer](https://simonwillison.net/2026/Feb/12/supervisor/#atom-everything)</small>
+<small>[Quoting Anthropic](https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
+<small>[Covering electricity price increases from our data centers](https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
+<small>[Gemini 3 Deep Think](https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
+<small>[An AI Agent Published a Hit Piece on Me](https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-12 stackoverflow</small>  
+<small>[How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
 <small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
@@ -22,23 +34,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-12 bartwullems</small>  
 <small>[Copilot Memory in VS Code: Your AI assistant just got smarter](https://bartwullems.blogspot.com/2026/02/copilot-memory-in-vs-code-your-ai.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
-<small>[Quoting Andrew Deck for Niemen Lab](https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-11 visualstudiomagazine</small>  
 <small>[Devs Souring on .NET 11?](https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
-<small>[Skills in OpenAI API](https://simonwillison.net/2026/Feb/11/skills-in-openai-api/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
-<small>[GLM-5: From Vibe Coding to Agentic Engineering](https://simonwillison.net/2026/Feb/11/glm-5/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
 <small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
-<small>[cysqlite - a new sqlite driver](https://simonwillison.net/2026/Feb/11/cysqlite/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-11 stackoverflow</small>  
 <small>[Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/)</small>
