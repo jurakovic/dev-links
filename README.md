@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-12 bartwullems</small>  
+<small>[Copilot Memory in VS Code: Your AI assistant just got smarter](https://bartwullems.blogspot.com/2026/02/copilot-memory-in-vs-code-your-ai.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-11 simonwillison</small>  
 <small>[Quoting Andrew Deck for Niemen Lab](https://simonwillison.net/2026/Feb/11/manosphere-report/#atom-everything)</small>
 
@@ -90,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-02-05 lethain</small>  
 <small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-05 bartwullems</small>  
-<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 1: Overview & Architecture](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
