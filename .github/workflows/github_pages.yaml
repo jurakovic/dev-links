@@ -7,11 +7,6 @@ on:
       - dev-news
   workflow_dispatch:
     inputs:
-      master_branch:
-        description: 'Master branch'
-        required: false
-        default: 'master'
-        type: string
       dev_news_branch:
         description: 'dev-news branch'
         required: false
@@ -26,7 +21,7 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: ${{ inputs.master_branch || 'master' }}
+          ref: '${{ github.ref_name }}'
           fetch-depth: 0
 
       - name: Fetch dev-news branch
