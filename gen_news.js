@@ -37,15 +37,15 @@ allPosts.sort((a, b) => {
     return bd - ad;
 });
 
-// --- Take first 50 ---
-const posts50 = allPosts.slice(0, 50);
+// --- Take first 100 ---
+const posts100 = allPosts.slice(0, 100);
 
 // --- Load template ---
 let md = fs.readFileSync(TEMPLATE_FILE, 'utf8');
 
 // --- Generate markdown ---
 console.log(`Generating file: README.md`);
-for (const post of posts50) {
+for (const post of posts100) {
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
     let yyyy = d.getFullYear();
