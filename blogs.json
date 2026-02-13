@@ -421,7 +421,7 @@
         "url": "https://tidyfirst.substack.com/archive",
         "feed": "https://tidyfirst.substack.com/feed",
         "extras": [],
-        "github": "",
+        "github": "https://github.com/KentBeck",
         "category": "general",
         "icon": "tidyfirst",
         "selected": true
@@ -458,7 +458,7 @@
         "feed": "https://bartwullems.blogspot.com/feeds/posts/default",
         "extras": [],
         "github": "https://github.com/wullemsb",
-        "category": "general",
+        "category": "dotnet",
         "icon": "blogspot",
         "selected": true
     },
@@ -484,7 +484,7 @@
         "github": "",
         "category": "general",
         "icon": "vadimkravcenko",
-        "selected": true
+        "selected": false
     },
     {
         "id": "thecodist",
@@ -628,7 +628,7 @@
         "feed": "",
         "extras": [],
         "github": "https://github.com/barretb",
-        "category": "general",
+        "category": "dotnet",
         "icon": "barretblake",
         "selected": true
     },

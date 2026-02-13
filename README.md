@@ -436,11 +436,22 @@ Vladimir Khorikov | Enterprise Craftsmanship
 <https://enterprisecraftsmanship.com/archives>  
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
 
+![icon](favicons/blogspot.png)
+Bart Wullems | The Art of Simplicity  
+<https://bartwullems.blogspot.com>  
+<https://github.com/wullemsb>  
+<div id="bartwullems" class="blog-posts"></div>
+
 ![icon](favicons/damienbod.png)
 Damien Bowden | Software Engineering  
 <https://damienbod.com>  
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
+
+![icon](favicons/barretblake.png)
+Barret Blake  
+<https://barretblake.dev/posts/development/>  
+<https://github.com/barretb>  
 
 ![icon](favicons/idunno.png)
 Barry Dorrans | Ramblings from a .NET Security PM  
@@ -515,6 +526,7 @@ Brendan Gregg | Systems Performance
 ![icon](favicons/tidyfirst.png)
 Kent Beck | Software Design: Tidy First?  
 <https://tidyfirst.substack.com/archive>  
+<https://github.com/KentBeck>  
 <div id="tidyfirst" class="blog-posts"></div>
 
 ![icon](favicons/blank.png)
@@ -523,21 +535,10 @@ Paul Hammant
 <https://github.com/paul-hammant>  
 <div id="paulhammant" class="blog-posts"></div>
 
-![icon](favicons/blogspot.png)
-Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com>  
-<https://github.com/wullemsb>  
-<div id="bartwullems" class="blog-posts"></div>
-
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 <div id="pragmaticengineer" class="blog-posts"></div>
-
-![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko  
-<https://vadimkravcenko.com/newsletter/#h-past-issues>  
-<div id="vadimkravcenko" class="blog-posts"></div>
 
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
@@ -549,11 +550,6 @@ Greg Wilson | The Third Bit Blog
 <https://third-bit.com/blog/>  
 <https://github.com/gvwilson>  
 <div id="third-bit" class="blog-posts"></div>
-
-![icon](favicons/barretblake.png)
-Barret Blake  
-<https://barretblake.dev/posts/development/>  
-<https://github.com/barretb>  
 
 ![icon](favicons/techtrenches.png)
 Denis Stetskov | From the Trenches  
