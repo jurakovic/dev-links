@@ -6,26 +6,37 @@ on:
       - master
       - dev-news
   workflow_dispatch:
+    inputs:
+      master_branch:
+        description: 'Master branch'
+        required: false
+        default: 'master'
+        type: string
+      dev_news_branch:
+        description: 'dev-news branch'
+        required: false
+        default: 'dev-news'
+        type: string
   workflow_call:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout main
+      - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: master
+          ref: ${{ inputs.master_branch || 'master' }}
           fetch-depth: 0
 
       - name: Fetch dev-news branch
         run: |
-          git fetch origin dev-news
-          git checkout origin/dev-news -- .
+          git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
+          git checkout origin/${{ inputs.dev_news_branch || 'dev-news' }} -- .
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
-          sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
+          #sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
           sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master;\.\.;g' news/README.md
 
       - name: Build with Jekyll
