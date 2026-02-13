@@ -46,12 +46,6 @@ let md = fs.readFileSync(TEMPLATE_FILE, 'utf8');
 // --- Generate markdown ---
 console.log(`Generating file: README.md`);
 for (const post of posts100) {
-    // Skip posts without required fields
-    if (!post.title || !post.link || !post.pubDate) {
-        console.warn(`Skipping post with missing fields from feed: ${post.feed}`);
-        continue;
-    }
-    
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
     let yyyy = d.getFullYear();
