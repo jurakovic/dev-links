@@ -355,6 +355,36 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
+#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN AI -->
+
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
+<div id="simonwillison" class="blog-posts"></div>
+
+![icon](favicons/steve-yegge.png)
+Steve Yegge  
+<https://steve-yegge.medium.com>  
+<https://github.com/steveyegge>  
+<div id="steve-yegge" class="blog-posts"></div>
+
+![icon](favicons/addyosmani.png)
+Addy Osmani  
+<https://addyosmani.com/blog>  
+<https://github.com/addyosmani>  
+<div id="addyosmani" class="blog-posts"></div>
+
+![icon](favicons/dbreunig.png)
+Drew Breunig  
+<https://www.dbreunig.com>  
+<https://github.com/dbreunig>  
+<div id="dbreunig" class="blog-posts"></div>
+
+<!-- END AI -->
+
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN DOTNET -->
@@ -431,11 +461,6 @@ Phil Haack | You've Been Haacked
 <https://github.com/haacked>  
 <div id="haacked" class="blog-posts"></div>
 
-![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
-<https://enterprisecraftsmanship.com/archives>  
-<div id="enterprisecraftsmanship" class="blog-posts"></div>
-
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
 <https://bartwullems.blogspot.com>  
@@ -505,12 +530,6 @@ Martin Fowler
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
 
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
-
 ![icon](favicons/blank.png)
 Salvatore Sanfilippo | antirez  
 <https://antirez.com>  
@@ -529,12 +548,6 @@ Kent Beck | Software Design: Tidy First?
 <https://github.com/KentBeck>  
 <div id="tidyfirst" class="blog-posts"></div>
 
-![icon](favicons/blank.png)
-Paul Hammant  
-<https://paulhammant.com/archive/>  
-<https://github.com/paul-hammant>  
-<div id="paulhammant" class="blog-posts"></div>
-
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
@@ -551,11 +564,6 @@ Greg Wilson | The Third Bit Blog
 <https://github.com/gvwilson>  
 <div id="third-bit" class="blog-posts"></div>
 
-![icon](favicons/techtrenches.png)
-Denis Stetskov | From the Trenches  
-<https://techtrenches.dev/archive>  
-<div id="techtrenches" class="blog-posts"></div>
-
 ![icon](favicons/samwho.png)
 samwho  
 <https://samwho.dev/blog>  
@@ -566,23 +574,6 @@ Sean Goedecke
 <https://www.seangoedecke.com>  
 <https://github.com/sgoedecke>  
 <div id="seangoedecke" class="blog-posts"></div>
-
-![icon](favicons/steve-yegge.png)
-Steve Yegge  
-<https://steve-yegge.medium.com>  
-<https://github.com/steveyegge>  
-<div id="steve-yegge" class="blog-posts"></div>
-
-![icon](favicons/addyosmani.png)
-Addy Osmani  
-<https://addyosmani.com/blog>  
-<https://github.com/addyosmani>  
-<div id="addyosmani" class="blog-posts"></div>
-
-![icon](favicons/dbreunig.png)
-Drew Breunig  
-<https://www.dbreunig.com>  
-<div id="dbreunig" class="blog-posts"></div>
 
 ![icon](favicons/swizec.png)
 Swizec Teller  
@@ -629,6 +620,11 @@ Will Larson | Irrational Exuberance
 Edmond Lau | The Effective Engineer  
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
+
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
 
 <!-- END MANAGEMENT -->
 

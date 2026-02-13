@@ -289,7 +289,7 @@
         "github": "",
         "category": "dotnet",
         "icon": "enterprisecraftsmanship",
-        "selected": true
+        "selected": false
     },
     {
         "id": "jonhilton",
@@ -338,7 +338,7 @@
         "feed": "https://simonwillison.net/atom/everything/",
         "extras": [],
         "github": "https://github.com/simonw",
-        "category": "general",
+        "category": "ai",
         "icon": "simonwillison",
         "selected": true
     },
@@ -352,6 +352,18 @@
         "github": "https://github.com/antirez",
         "category": "general",
         "icon": "blank",
+        "selected": true
+    },
+    {
+        "id": "steve-yegge",
+        "author": "Steve Yegge",
+        "title": "",
+        "url": "https://steve-yegge.medium.com",
+        "feed": "https://medium.com/feed/@steve-yegge",
+        "extras": [],
+        "github": "https://github.com/steveyegge",
+        "category": "ai",
+        "icon": "steve-yegge",
         "selected": true
     },
     {
@@ -436,7 +448,7 @@
         "github": "https://github.com/paul-hammant",
         "category": "general",
         "icon": "blank",
-        "selected": true
+        "selected": false
     },
     {
         "id": "sizovs",
@@ -640,7 +652,7 @@
         "feed": "https://techtrenches.dev/feed",
         "extras": [],
         "github": "",
-        "category": "general",
+        "category": "management",
         "icon": "techtrenches",
         "selected": true
     },
@@ -693,18 +705,6 @@
         "selected": true
     },
     {
-        "id": "steve-yegge",
-        "author": "Steve Yegge",
-        "title": "",
-        "url": "https://steve-yegge.medium.com",
-        "feed": "https://medium.com/feed/@steve-yegge",
-        "extras": [],
-        "github": "https://github.com/steveyegge",
-        "category": "general",
-        "icon": "steve-yegge",
-        "selected": true
-    },
-    {
         "id": "addyosmani",
         "author": "Addy Osmani",
         "title": "",
@@ -712,7 +712,7 @@
         "feed": "https://addyosmani.com/rss.xml",
         "extras": [],
         "github": "https://github.com/addyosmani",
-        "category": "general",
+        "category": "ai",
         "icon": "addyosmani",
         "selected": true
     },
@@ -723,8 +723,8 @@
         "url": "https://www.dbreunig.com",
         "feed": "https://www.dbreunig.com/feed.xml",
         "extras": [],
-        "github": "",
-        "category": "general",
+        "github": "https://github.com/dbreunig",
+        "category": "ai",
         "icon": "dbreunig",
         "selected": true
     },
