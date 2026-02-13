@@ -338,7 +338,7 @@
         "feed": "https://simonwillison.net/atom/everything/",
         "extras": [],
         "github": "https://github.com/simonw",
-        "category": "ai",
+        "category": "general",
         "icon": "simonwillison",
         "selected": true
     },
@@ -350,20 +350,8 @@
         "feed": "https://antirez.com/rss",
         "extras": [],
         "github": "https://github.com/antirez",
-        "category": "ai",
+        "category": "general",
         "icon": "blank",
-        "selected": true
-    },
-    {
-        "id": "steve-yegge",
-        "author": "Steve Yegge",
-        "title": "",
-        "url": "https://steve-yegge.medium.com",
-        "feed": "https://medium.com/feed/@steve-yegge",
-        "extras": [],
-        "github": "https://github.com/steveyegge",
-        "category": "ai",
-        "icon": "steve-yegge",
         "selected": true
     },
     {
@@ -652,7 +640,7 @@
         "feed": "https://techtrenches.dev/feed",
         "extras": [],
         "github": "",
-        "category": "ai",
+        "category": "general",
         "icon": "techtrenches",
         "selected": true
     },
@@ -700,8 +688,20 @@
         "feed": "https://www.seangoedecke.com/rss.xml",
         "extras": [],
         "github": "https://github.com/sgoedecke",
-        "category": "arch",
+        "category": "general",
         "icon": "seangoedecke",
+        "selected": true
+    },
+    {
+        "id": "steve-yegge",
+        "author": "Steve Yegge",
+        "title": "",
+        "url": "https://steve-yegge.medium.com",
+        "feed": "https://medium.com/feed/@steve-yegge",
+        "extras": [],
+        "github": "https://github.com/steveyegge",
+        "category": "general",
+        "icon": "steve-yegge",
         "selected": true
     },
     {
@@ -712,7 +712,7 @@
         "feed": "https://addyosmani.com/rss.xml",
         "extras": [],
         "github": "https://github.com/addyosmani",
-        "category": "ai",
+        "category": "general",
         "icon": "addyosmani",
         "selected": true
     },
@@ -724,7 +724,7 @@
         "feed": "https://www.dbreunig.com/feed.xml",
         "extras": [],
         "github": "",
-        "category": "ai",
+        "category": "general",
         "icon": "dbreunig",
         "selected": true
     },
@@ -796,7 +796,7 @@
         "feed": "https://bencane.com/feed.xml",
         "extras": [],
         "github": "https://github.com/madflojo",
-        "category": "arch",
+        "category": "general",
         "icon": "blank",
         "selected": true
     }

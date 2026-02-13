@@ -7,11 +7,9 @@
 ├─ [Architecture](#architecture)  
 └─ [Blogs](#blogs) / [*Reader*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Architecture](#blogs-architecture)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
@@ -357,46 +355,6 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
-
-<!-- BEGIN AI -->
-
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Salvatore Sanfilippo | antirez  
-<https://antirez.com>  
-<https://github.com/antirez>  
-<div id="antirez" class="blog-posts"></div>
-
-![icon](favicons/steve-yegge.png)
-Steve Yegge  
-<https://steve-yegge.medium.com>  
-<https://github.com/steveyegge>  
-<div id="steve-yegge" class="blog-posts"></div>
-
-![icon](favicons/techtrenches.png)
-Denis Stetskov | From the Trenches  
-<https://techtrenches.dev/archive>  
-<div id="techtrenches" class="blog-posts"></div>
-
-![icon](favicons/addyosmani.png)
-Addy Osmani  
-<https://addyosmani.com/blog>  
-<https://github.com/addyosmani>  
-<div id="addyosmani" class="blog-posts"></div>
-
-![icon](favicons/dbreunig.png)
-Drew Breunig  
-<https://www.dbreunig.com>  
-<div id="dbreunig" class="blog-posts"></div>
-
-<!-- END AI -->
-
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN DOTNET -->
@@ -536,6 +494,18 @@ Martin Fowler
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
 
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
+<div id="simonwillison" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+<div id="antirez" class="blog-posts"></div>
+
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
@@ -585,10 +555,38 @@ Barret Blake
 <https://barretblake.dev/posts/development/>  
 <https://github.com/barretb>  
 
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
+
 ![icon](favicons/samwho.png)
 samwho  
 <https://samwho.dev/blog>  
 <div id="samwho" class="blog-posts"></div>
+
+![icon](favicons/seangoedecke.png)
+Sean Goedecke  
+<https://www.seangoedecke.com>  
+<https://github.com/sgoedecke>  
+<div id="seangoedecke" class="blog-posts"></div>
+
+![icon](favicons/steve-yegge.png)
+Steve Yegge  
+<https://steve-yegge.medium.com>  
+<https://github.com/steveyegge>  
+<div id="steve-yegge" class="blog-posts"></div>
+
+![icon](favicons/addyosmani.png)
+Addy Osmani  
+<https://addyosmani.com/blog>  
+<https://github.com/addyosmani>  
+<div id="addyosmani" class="blog-posts"></div>
+
+![icon](favicons/dbreunig.png)
+Drew Breunig  
+<https://www.dbreunig.com>  
+<div id="dbreunig" class="blog-posts"></div>
 
 ![icon](favicons/swizec.png)
 Swizec Teller  
@@ -607,25 +605,13 @@ Hillel Wayne
 <https://github.com/hwayne>  
 <div id="hillelwayne" class="blog-posts"></div>
 
-<!-- END GENERAL -->
-
-#### <a name="blogs-architecture"></a>Architecture <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
-
-<!-- BEGIN ARCH -->
-
-![icon](favicons/seangoedecke.png)
-Sean Goedecke  
-<https://www.seangoedecke.com>  
-<https://github.com/sgoedecke>  
-<div id="seangoedecke" class="blog-posts"></div>
-
 ![icon](favicons/blank.png)
 Benjamin Cane  
 <https://bencane.com>  
 <https://github.com/madflojo>  
 <div id="bencane" class="blog-posts"></div>
 
-<!-- END ARCH -->
+<!-- END GENERAL -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
