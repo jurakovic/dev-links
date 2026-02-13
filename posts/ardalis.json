@@ -1,5 +1,10 @@
 [
   {
+    "title": "Llms Need Mark as Answer",
+    "link": "https://ardalis.com/llms-need-mark-as-answer/",
+    "pubDate": "Fri, 13 Feb 2026 10:20:47 -0500"
+  },
+  {
     "title": "2025 Year in Review",
     "link": "https://ardalis.com/2025-year-in-review/",
     "pubDate": "Mon, 09 Feb 2026 08:34:11 -0500"
@@ -18,10 +23,5 @@
     "title": "Use cd - in Powershell 7 to Return to Previous Directory",
     "link": "https://ardalis.com/use-cd---in-powershell-7-to-return-to-previous-directory/",
     "pubDate": "Tue, 02 Dec 2025 11:16:30 -0500"
-  },
-  {
-    "title": "How to Update .NET on Wsl or Ubuntu",
-    "link": "https://ardalis.com/how-to-update-net-on-wsl-or-ubuntu/",
-    "pubDate": "Wed, 19 Nov 2025 09:37:56 -0500"
   }
 ]

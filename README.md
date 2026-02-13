@@ -7,6 +7,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-13 stackoverflow</small>  
 <small>[Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-13 martinfowler</small>  
+<small>[Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-13 ardalis</small>  
+<small>[Llms Need Mark as Answer](https://ardalis.com/llms-need-mark-as-answer/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-13 netflix</small>  
 <small>[Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4)</small>
 
@@ -147,10 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 microservices</small>  
 <small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
-<small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 erikej</small>  
-<small>[Getting Started with SQL Database Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html)</small>
 
