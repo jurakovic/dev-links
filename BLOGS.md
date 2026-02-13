@@ -74,6 +74,12 @@ Andrew Lock | .NET Escapades
 <https://github.com/andrewlock>  
 <div id="andrewlock" class="blog-posts"></div>
 
+![icon](favicons/wp.png)
+Dave Callan  
+<https://davecallan.com>  
+<https://github.com/davepcallan>  
+<div id="davecallan" class="blog-posts"></div>
+
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
@@ -121,11 +127,34 @@ Kevin Gosse | minidump.net
 <https://github.com/kevingosse>  
 <div id="minidump" class="blog-posts"></div>
 
+![icon](favicons/mattwarren.png)
+Matt Warren | Performance is a Feature!  
+<https://mattwarren.org>  
+<https://github.com/mattwarren>  
+<div id="mattwarren" class="blog-posts"></div>
+
 ![icon](favicons/haacked.png)
 Phil Haack | You've Been Haacked  
 <https://haacked.com/archives/>  
 <https://github.com/haacked>  
 <div id="haacked" class="blog-posts"></div>
+
+![icon](favicons/enterprisecraftsmanship.png)
+Vladimir Khorikov | Enterprise Craftsmanship  
+<https://enterprisecraftsmanship.com/archives>  
+<div id="enterprisecraftsmanship" class="blog-posts"></div>
+
+![icon](favicons/jonhilton.png)
+Jon Hilton | Making sense of ASP.NET (Blazor)  
+<https://jonhilton.net/post/>  
+<https://github.com/jonhilt>  
+
+![icon](favicons/mikesdotnetting.png)
+Mike Brind | Mikesdotnetting (Razor Pages, Blazor)  
+<https://www.mikesdotnetting.com>  
+<https://www.learnrazorpages.com>  
+<https://www.learnblazor.com>  
+<https://github.com/mikebrind>  
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
@@ -202,6 +231,27 @@ Salvatore Sanfilippo | antirez
 <https://github.com/antirez>  
 <div id="antirez" class="blog-posts"></div>
 
+![icon](favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+<https://nickcraver.com/blog/>  
+<https://github.com/NickCraver>  
+<div id="nickcraver" class="blog-posts"></div>
+
+![icon](favicons/codinghorror.png)
+Jeff Atwood | Coding Horror  
+<https://blog.codinghorror.com>  
+<div id="codinghorror" class="blog-posts"></div>
+
+![icon](favicons/joelonsoftware.png)
+Joel Spolsky | Joel on Software  
+<https://www.joelonsoftware.com>  
+<div id="joelonsoftware" class="blog-posts"></div>
+
+![icon](favicons/neilonsoftware.png)
+Neil Green | Neil on Software (Podcast)  
+<https://neilonsoftware.com/articles/>  
+<div id="neilonsoftware" class="blog-posts"></div>
+
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
@@ -214,10 +264,26 @@ Kent Beck | Software Design: Tidy First?
 <https://github.com/KentBeck>  
 <div id="tidyfirst" class="blog-posts"></div>
 
+![icon](favicons/blank.png)
+Paul Hammant  
+<https://paulhammant.com/archive/>  
+<https://github.com/paul-hammant>  
+<div id="paulhammant" class="blog-posts"></div>
+
+![icon](favicons/sizovs.png)
+Eduards Sizovs  
+<https://sizovs.net>  
+<div id="sizovs" class="blog-posts"></div>
+
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 <div id="pragmaticengineer" class="blog-posts"></div>
+
+![icon](favicons/vadimkravcenko.png)
+Vadim Kravcenko  
+<https://vadimkravcenko.com/newsletter/#h-past-issues>  
+<div id="vadimkravcenko" class="blog-posts"></div>
 
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
