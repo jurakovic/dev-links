@@ -5,7 +5,7 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [**dev-blogs**](#blogs) / [*dev-news*](news/README.md)  
+└─ [dev-blogs](#blogs) / [*dev-news*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
@@ -324,7 +324,7 @@ Clean Architecture Reference Applications / Solution Templates
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 > [!NOTE]
-> *Only selected blogs are listed here. The full list is [here](blogs/README.md).*
+> *Below are only selected blogs. The full list is available [here](blogs/README.md).*
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
