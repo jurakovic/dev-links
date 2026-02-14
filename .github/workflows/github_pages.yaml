@@ -31,8 +31,8 @@ jobs:
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
-          #sed -i -r 's;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g' news/README.md
-          sed -i -r 's;https://github.com/jurakovic/dev-links/blob/master;\.\.;g' news/README.md
+          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ github.ref_name }};\.\.;g" news/README.md
+          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/master;\.\.;g" news/README.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
