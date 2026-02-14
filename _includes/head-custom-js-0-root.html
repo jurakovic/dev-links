@@ -109,52 +109,20 @@
     }
     document.addEventListener('DOMContentLoaded', () => {
         addExpandCollapseAllButton();
-        loadPosts('dotnet');
-        loadPosts('visualstudio');
-        loadPosts('visualstudiomagazine');
-
-        loadPosts('microservices');
-        loadPosts('developertoarchitect');
-
-        loadPosts('ardalis');
-        loadPosts('hanselman');
-        loadPosts('andrewlock');
-        loadPosts('davecallan');
-        loadPosts('stephencleary');
-        loadPosts('jonskeet');
-        loadPosts('jimmybogard');
-        loadPosts('devlead');
-        loadPosts('steven-giesel');
-        loadPosts('adamsitnik');
-        loadPosts('minidump');
-        loadPosts('mattwarren');
-        loadPosts('haacked');
-        loadPosts('erikej');
-        loadPosts('enterprisecraftsmanship');
-
-        loadPosts('martinfowler');
-        loadPosts('antirez');
-        loadPosts('simonwillison');
-        loadPosts('nickcraver');
-        loadPosts('codinghorror');
-        loadPosts('joelonsoftware');
-        loadPosts('neilonsoftware');
-        loadPosts('brendangregg');
-        //loadPosts('tidyfirst'); // cloudflare blocks curl
-        loadPosts('paulhammant');
-        loadPosts('sizovs');
-        loadPosts('bartwullems');
-        loadPosts('pragmaticengineer');
-        loadPosts('vadimkravcenko');
-        loadPosts('thecodist');
-
-        loadPosts('terriblesoftware');
-        loadPosts('lethain');
-        loadPosts('effectiveengineer');
-
-        loadPosts('stackoverflow');
-        loadPosts('github');
-        loadPosts('netflix');
-        loadPosts('slack');
+        
+        // Dynamically load posts for all blogs that have feeds
+        fetch('/dev-links/blogs.json')
+            .then(response => response.json())
+            .then(blogs => {
+                blogs.forEach(blog => {
+                    // Only load posts if the blog has a feed
+                    if (blog.feed) {
+                        loadPosts(blog.id);
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Failed to load blogs.json:', error);
+            });
     });
 </script>

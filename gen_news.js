@@ -1,12 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 
+const branchName = process.argv[2] || 'master';
+
 // --- Config ---
 const POSTS_DIR = path.join(__dirname, 'posts');
 const TEMPLATE_FILE = path.join(__dirname, 'README.template');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
 const BLOGS_JSON = path.join(__dirname, 'blogs.json');
-const FAVICON_PATH = 'https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/';
+const FAVICON_PATH = `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${branchName}/favicons/`;
 
 // --- Load blogs config ---
 const blogsConfig = JSON.parse(fs.readFileSync(BLOGS_JSON, 'utf8'));
@@ -37,15 +39,19 @@ allPosts.sort((a, b) => {
     return bd - ad;
 });
 
-// --- Take first 50 ---
-const posts50 = allPosts.slice(0, 50);
+// --- Take first 100 ---
+const posts100 = allPosts.slice(0, 100);
 
-// --- Load template ---
-let md = fs.readFileSync(TEMPLATE_FILE, 'utf8');
+let md = `
+[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)  
+└─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/blogs/README.md) / ***dev-news***  
+
+* * *
+
+`;
 
 // --- Generate markdown ---
-console.log(`Generating file: README.md`);
-for (const post of posts50) {
+for (const post of posts100) {
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
     let yyyy = d.getFullYear();
@@ -62,3 +68,5 @@ for (const post of posts50) {
 }
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
+
+console.log(`News README.md generated`);

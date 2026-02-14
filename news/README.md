@@ -1,6 +1,6 @@
 
 [dev-links](../README.md#content)  
-└─ [Blogs](../README.md#blogs) / ***Reader***  
+└─ [dev-blogs](../blogs/README.md) / ***dev-news***  
 
 * * *
 

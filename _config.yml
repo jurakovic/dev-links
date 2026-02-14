@@ -14,3 +14,9 @@ defaults:
     values: # set custom values for blog pages
       title: "dev-news"
       show_header: false
+  - scope:
+      path: "blogs/*"
+      type: "pages"
+    values: # set custom values for blog pages
+      title: "dev-blogs"
+      show_header: false

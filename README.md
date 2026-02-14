@@ -5,13 +5,13 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
-└─ [Blogs](#blogs) / [*Reader*](news/README.md)  
+└─ [dev-blogs](#blogs) / [*dev-news*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Management](#blogs-management)</small>  
 
 * * *
 
@@ -30,6 +30,8 @@
 
 ## <a name="net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-net">↓ Community</a></sub></sup>
 
+<!-- BEGIN DOTNET-MAIN -->
+
 ![icon](favicons/microsoft.png)
 .NET Blog  
 <https://devblogs.microsoft.com/dotnet/>  
@@ -44,6 +46,8 @@ Visual Studio Blog
 Visual Studio Magazine  
 <https://visualstudiomagazine.com>  
 <div id="visualstudiomagazine" class="blog-posts"></div>
+
+<!-- END DOTNET-MAIN -->
 
 ![icon](favicons/microsoft.png)
 ASP.NET Core documentation  
@@ -102,7 +106,7 @@ C# in Depth | Jon Skeet
 
 * * *
 
-## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
+## <a name="sql-server"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-sql">↓ Community</a></sub></sup>
 
 ![icon](favicons/microsoft.png)
 Technical Documentation  
@@ -118,13 +122,26 @@ SQL projects
 [https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style](https://learn.microsoft.com/en-us/sql/ssdt/sql-server-data-tools-sdk-style?view=sql-server-ver16)  
 [https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage](https://learn.microsoft.com/en-us/sql/tools/sqlpackage/sqlpackage?view=sql-server-ver16) ([GitHub](https://github.com/microsoft/dacfx))  
 
-![icon](favicons/use-the-index-luke.png)
-SQL Indexing and Tuning  
-<https://use-the-index-luke.com>  
+<!-- BEGIN SQL-MAIN -->
 
-![icon](favicons/sqlperformance.png)
-SQLPerformance.com  
-<https://sqlperformance.com>  
+![icon](favicons/microsoft.png)
+Microsoft SQL Server Blog  
+<https://www.microsoft.com/en-us/sql-server/blog/>  
+<https://github.com/microsoft/sql-server-samples>  
+<div id="microsoft-sql-server" class="blog-posts"></div>
+
+![icon](favicons/microsoft.png)
+Azure SQL Devs' Corner Blog  
+<https://devblogs.microsoft.com/azure-sql/>  
+<https://github.com/microsoft/sql-server-samples>  
+<div id="azure-sql" class="blog-posts"></div>
+
+![icon](favicons/use-the-index-luke.png)
+Markus Winand | SQL Indexing and Tuning  
+<https://use-the-index-luke.com/blog>  
+<div id="use-the-index-luke" class="blog-posts"></div>
+
+<!-- END SQL-MAIN -->
 
 * * *
 
@@ -264,15 +281,19 @@ Software Architecture, Microservices | Martin Fowler
 Catalog of Patterns of Distributed Systems | Unmesh Joshi  
 <https://martinfowler.com/articles/patterns-of-distributed-systems/>  
 
+<!-- BEGIN ARCH-MAIN -->
+
 ![icon](favicons/blank.png)
-Microservices.io | Chris Richardson  
+Chris Richardson | Microservices.io  
 <https://microservices.io>  
 <div id="microservices" class="blog-posts"></div>
 
 ![icon](favicons/developertoarchitect.png)
-Software Developer To Software Architect | Mark Richards  
+Mark Richards | Software Developer To Software Architect  
 <https://developertoarchitect.com/lessons/>  
 <div id="developertoarchitect" class="blog-posts"></div>
+
+<!-- END ARCH-MAIN -->
 
 ![icon](favicons/roadmap.png)
 Software Architect Roadmap  
@@ -283,7 +304,7 @@ Clean Architecture Reference Applications / Solution Templates
 <https://github.com/ardalis/CleanArchitecture>  
 <https://github.com/jasontaylordev/CleanArchitecture>  
 <https://github.com/alex289/CleanArchitecture>  
-<https://github.com/dotnet/eShop>, [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
+<https://github.com/dotnet/eShop>, [eShopLite](https://github.com/azure-Samples/eshoplite), [eShopSupport](https://github.com/dotnet/eShopSupport) (archives: [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb), [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev))  
 <https://github.com/NimblePros/eShopOnWeb>  
 
 > <details>
@@ -302,7 +323,7 @@ Clean Architecture Reference Applications / Solution Templates
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
-<sub>*A few blogs listed below have not been updated for a while, but they still contain valuable content.*</sub>
+<sub>*Below are only selected blogs. The full list is available [here](blogs/README.md).*</sub>
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
@@ -333,14 +354,37 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
+#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN AI -->
+
+![icon](favicons/simonwillison.png)
+Simon Willison  
+<https://simonwillison.net>  
+<https://github.com/simonw>  
+<div id="simonwillison" class="blog-posts"></div>
+
+![icon](favicons/steve-yegge.png)
+Steve Yegge  
+<https://steve-yegge.medium.com>  
+<https://github.com/steveyegge>  
+<div id="steve-yegge" class="blog-posts"></div>
+
+![icon](favicons/addyosmani.png)
+Addy Osmani  
+<https://addyosmani.com/blog>  
+<https://github.com/addyosmani>  
+<div id="addyosmani" class="blog-posts"></div>
+
+<!-- END AI -->
+
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN DOTNET -->
 
 ![icon](favicons/ardalis.png)
-Ardalis (Steve Smith)  
+Steve Smith | Ardalis  
 <https://ardalis.com/blog>  
-<https://ardalis.com/category/software-development/>  
 <https://blog.nimblepros.com>  
 <https://github.com/ardalis>  
 <div id="ardalis" class="blog-posts"></div>
@@ -357,29 +401,11 @@ Andrew Lock | .NET Escapades
 <https://github.com/andrewlock>  
 <div id="andrewlock" class="blog-posts"></div>
 
-![icon](favicons/wp.png)
-Dave Callan | .NET, VS, EF  
-<https://davecallan.com>  
-<https://github.com/davepcallan>  
-<div id="davecallan" class="blog-posts"></div>
-
 ![icon](favicons/stephencleary.png)
 Stephen Cleary  
 <https://blog.stephencleary.com>  
 <https://github.com/StephenCleary>  
 <div id="stephencleary" class="blog-posts"></div>
-
-![icon](favicons/wp.png)
-Jon Skeet  
-<https://codeblog.jonskeet.uk>  
-<https://github.com/jskeet>  
-<div id="jonskeet" class="blog-posts"></div>
-
-![icon](favicons/jimmybogard.png)
-Jimmy Bogard  
-<https://www.jimmybogard.com>  
-<https://github.com/jbogard>  
-<div id="jimmybogard" class="blog-posts"></div>
 
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
@@ -399,23 +425,34 @@ Adam Sitnik | .NET Performance and Reliability
 <https://github.com/adamsitnik>  
 <div id="adamsitnik" class="blog-posts"></div>
 
-![icon](favicons/minidump.png)
-Kevin Gosse | minidump.net  
-<https://minidump.net>  
-<https://github.com/kevingosse>  
-<div id="minidump" class="blog-posts"></div>
+![icon](favicons/blogspot.png)
+Bart Wullems | The Art of Simplicity  
+<https://bartwullems.blogspot.com>  
+<https://github.com/wullemsb>  
+<div id="bartwullems" class="blog-posts"></div>
 
-![icon](favicons/mattwarren.png)
-Matt Warren | Performance is a Feature!  
-<https://mattwarren.org>  
-<https://github.com/mattwarren>  
-<div id="mattwarren" class="blog-posts"></div>
+![icon](favicons/damienbod.png)
+Damien Bowden | Software Engineering  
+<https://damienbod.com>  
+<https://github.com/damienbod>  
+<div id="damienbod" class="blog-posts"></div>
 
-![icon](favicons/haacked.png)
-Phil Haack | You've Been Haacked  
-<https://haacked.com/archives/>  
-<https://github.com/haacked>  
-<div id="haacked" class="blog-posts"></div>
+![icon](favicons/barretblake.png)
+Barret Blake  
+<https://barretblake.dev/posts/development/>  
+<https://github.com/barretb>  
+
+![icon](favicons/idunno.png)
+Barry Dorrans | Ramblings from a .NET Security PM  
+<https://idunno.org>  
+<https://github.com/blowdart>  
+<div id="idunno" class="blog-posts"></div>
+
+<!-- END DOTNET -->
+
+#### <a name="blogs-sql"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#sql-server">­­­­­­↑ Official</a></sub></sup>
+
+<!-- BEGIN SQL -->
 
 ![icon](favicons/blank.png)
 Erik Ejlskov Jensen | .NET Data Access and more  
@@ -424,24 +461,23 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://github.com/ErikEJ>  
 <div id="erikej" class="blog-posts"></div>
 
-![icon](favicons/enterprisecraftsmanship.png)
-Vladimir Khorikov | Enterprise Craftsmanship  
-<https://enterprisecraftsmanship.com/archives>  
-<div id="enterprisecraftsmanship" class="blog-posts"></div>
+![icon](favicons/blank.png)
+Shay Rojansky  
+<https://www.roji.org>  
+<https://github.com/roji>  
+<div id="roji" class="blog-posts"></div>
 
-![icon](favicons/jonhilton.png)
-Jon Hilton | Making sense of ASP.NET (Blazor)  
-<https://jonhilton.net/post/>  
-<https://github.com/jonhilt>  
+![icon](favicons/db-berater.png)
+Uwe Ricken | SQL Server Blog  
+<https://www.db-berater.de/sql-server-blog/>  
+<div id="db-berater" class="blog-posts"></div>
 
-![icon](favicons/mikesdotnetting.png)
-Mike Brind | Mikesdotnetting (Razor Pages, Blazor)  
-<https://www.mikesdotnetting.com>  
-<https://www.learnrazorpages.com>  
-<https://www.learnblazor.com>  
-<https://github.com/mikebrind>  
+![icon](favicons/sqlperformance.png)
+SQLPerformance.com  
+<https://sqlperformance.com>  
+<div id="sqlperformance" class="blog-posts"></div>
 
-<!-- END DOTNET -->
+<!-- END SQL -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
@@ -458,75 +494,44 @@ Salvatore Sanfilippo | antirez
 <https://github.com/antirez>  
 <div id="antirez" class="blog-posts"></div>
 
-![icon](favicons/simonwillison.png)
-Simon Willison  
-<https://simonwillison.net>  
-<https://github.com/simonw>  
-<div id="simonwillison" class="blog-posts"></div>
-
-![icon](favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
-<https://nickcraver.com/blog/>  
-<https://github.com/NickCraver>  
-<div id="nickcraver" class="blog-posts"></div>
-
-![icon](favicons/codinghorror.png)
-Jeff Atwood | Coding Horror  
-<https://blog.codinghorror.com>  
-<div id="codinghorror" class="blog-posts"></div>
-
-![icon](favicons/joelonsoftware.png)
-Joel Spolsky | Joel on Software  
-<https://www.joelonsoftware.com>  
-<div id="joelonsoftware" class="blog-posts"></div>
-
-![icon](favicons/neilonsoftware.png)
-Neil Green | Neil on Software (Podcast)  
-<https://neilonsoftware.com/articles/>  
-<div id="neilonsoftware" class="blog-posts"></div>
-
 ![icon](favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 <div id="brendangregg" class="blog-posts"></div>
 
-![icon](favicons/tidyfirst.png)
-Kent Beck | Software Design: Tidy First?  
-<https://tidyfirst.substack.com/archive>  
-<div id="tidyfirst" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Paul Hammant | CTO, Trunk-Based Development expert  
-<https://paulhammant.com/archive/>  
-<https://github.com/paul-hammant>  
-<div id="paulhammant" class="blog-posts"></div>
-
-![icon](favicons/sizovs.png)
-Eduards Sizovs | The Principal Developer  
-<https://sizovs.net>  
-<div id="sizovs" class="blog-posts"></div>
-
-![icon](favicons/blogspot.png)
-Bart Wullems | The Art of Simplicity  
-<https://bartwullems.blogspot.com>  
-<https://github.com/wullemsb>  
-<div id="bartwullems" class="blog-posts"></div>
-
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 <div id="pragmaticengineer" class="blog-posts"></div>
 
-![icon](favicons/vadimkravcenko.png)
-Vadim Kravcenko | CTO  
-<https://vadimkravcenko.com/newsletter/#h-past-issues>  
-<div id="vadimkravcenko" class="blog-posts"></div>
-
 ![icon](favicons/thecodist.png)
 Andrew Wulf | The Codist  
 <https://thecodist.com>  
 <div id="thecodist" class="blog-posts"></div>
+
+![icon](favicons/third-bit.png)
+Greg Wilson | The Third Bit Blog  
+<https://third-bit.com/blog/>  
+<https://github.com/gvwilson>  
+<div id="third-bit" class="blog-posts"></div>
+
+![icon](favicons/samwho.png)
+samwho  
+<https://samwho.dev/blog>  
+<div id="samwho" class="blog-posts"></div>
+
+![icon](favicons/seangoedecke.png)
+Sean Goedecke  
+<https://www.seangoedecke.com>  
+<https://github.com/sgoedecke>  
+<div id="seangoedecke" class="blog-posts"></div>
+
+![icon](favicons/swizec.png)
+Swizec Teller  
+<https://swizec.com/blog>  
+<https://github.com/swizec>  
+<div id="swizec" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 
@@ -536,7 +541,7 @@ Andrew Wulf | The Codist
 
 ![icon](favicons/terriblesoftware.png)
 Matheus Lima | Terrible Software  
-<https://terriblesoftware.org/>  
+<https://terriblesoftware.org>  
 <https://github.com/matheusml>  
 <div id="terriblesoftware" class="blog-posts"></div>
 
@@ -551,59 +556,11 @@ Edmond Lau | The Effective Engineer
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
 
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
+
 <!-- END MANAGEMENT -->
-
-#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
-
-![icon](favicons/infoq.png)
-InfoQ  
-<https://www.infoq.com/news/>  
-[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
-
-![icon](favicons/thoughtworks.png)
-Thoughtworks  
-<https://www.thoughtworks.com/insights/blog>  
-<https://www.thoughtworks.com/insights/articles>  
-
-<!--
-![icon](favicons/code-maze.png)
-Code Maze  
-<https://code-maze.com/latest-posts-on-code-maze/>  
--->
-
-![icon](favicons/thenewstack.png)
-The New Stack  
-<https://thenewstack.io/software-development/>  
-
-![icon](favicons/github.png)
-Github | The ReadME Project: Guides  
-<https://github.com/readme/guides>  
-
-
-#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
-
-<!-- BEGIN TECH-COMPANIES -->
-
-![icon](favicons/stackoverflow.png)
-The Stack Overflow Blog  
-<https://stackoverflow.blog/>  
-<div id="stackoverflow" class="blog-posts"></div>
-
-![icon](favicons/github.png)
-The GitHub Blog: Engineering  
-<https://github.blog/category/engineering/>  
-<div id="github" class="blog-posts"></div>
-
-![icon](favicons/netflix.png)
-Netflix TechBlog  
-<https://netflixtechblog.com>  
-<div id="netflix" class="blog-posts"></div>
-
-![icon](favicons/slack.png)
-Engineering at Slack  
-<https://slack.engineering>  
-<div id="slack" class="blog-posts"></div>
-
-<!-- END TECH-COMPANIES -->
 
 <sub><a href="#top">↑ Top</a></sub>
