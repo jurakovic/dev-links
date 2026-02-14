@@ -42,12 +42,24 @@ function update() {
 
 cd posts
 
+# Get blog IDs from CLI arguments (if any)
+target_blogs=("$@")
+
 # Read blogs from blogs.json and process each one
 # --binary / -b:
 # Windows users using WSL, MSYS2, or Cygwin, should use this option when using a native jq.exe, otherwise jq will turn newlines (LFs) into carriage-return-then-newline (CRLF).
 jq -b -r '.[] | "\(.id)|\(.feed)"' ../blogs.json | while IFS='|' read -r id feed; do
   if [ -n "$feed" ]; then
-    update "$id" "$feed"
+    # If target_blogs is specified, only process those IDs
+    if [ ${#target_blogs[@]} -gt 0 ]; then
+      # Check if current id is in target_blogs array
+      if [[ " ${target_blogs[@]} " =~ " ${id} " ]]; then
+        update "$id" "$feed"
+      fi
+    else
+      # No filter, update all
+      update "$id" "$feed"
+    fi
   fi
 done
 
