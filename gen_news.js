@@ -44,7 +44,7 @@ const posts50 = allPosts.slice(0, 50);
 
 let md = `
 [dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)  
-└─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#blogs) / ***dev-news***  
+└─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/blogs/README.md) / ***dev-news***  
 
 * * *
 
