@@ -43,8 +43,8 @@ allPosts.sort((a, b) => {
 const posts50 = allPosts.slice(0, 50);
 
 let md = `
-[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)
-└─ [Blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#blogs) / ***Reader***
+[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)  
+└─ [Blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#blogs) / ***Reader***  
 
 * * *
 
