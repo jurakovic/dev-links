@@ -1,5 +1,5 @@
 
-<a name="top"></a>[**dev-links**]([dev-links](../README.md#content))  
+<a name="top"></a>[**dev-links**](../README.md#content)  
 └─ **dev-blogs** / [*dev-news*](../news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
