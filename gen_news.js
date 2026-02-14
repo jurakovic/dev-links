@@ -39,8 +39,8 @@ allPosts.sort((a, b) => {
     return bd - ad;
 });
 
-// --- Take first 50 ---
-const posts50 = allPosts.slice(0, 50);
+// --- Take first 100 ---
+const posts100 = allPosts.slice(0, 100);
 
 let md = `
 [dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)  
@@ -51,7 +51,7 @@ let md = `
 `;
 
 // --- Generate markdown ---
-for (const post of posts50) {
+for (const post of posts100) {
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
     let yyyy = d.getFullYear();
