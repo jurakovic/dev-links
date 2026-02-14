@@ -51,7 +51,6 @@ let md = `
 `;
 
 // --- Generate markdown ---
-console.log(`Generating file: README.md`);
 for (const post of posts50) {
     // Date in YYYY-MM-DD
     let d = new Date(post.pubDate);
@@ -69,3 +68,5 @@ for (const post of posts50) {
 }
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
+
+console.log(`News README.md generated`);

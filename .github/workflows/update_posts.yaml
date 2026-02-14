@@ -45,7 +45,6 @@ jobs:
         run: |
           ./update_posts.sh
           node gen_news.js ${{ github.ref_name }}
-          echo "News README.md generated"
 
           # cleanup temp scripts
           rm blogs.json
