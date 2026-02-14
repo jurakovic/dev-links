@@ -1,5 +1,5 @@
 
-<a name="top"></a>**dev-blogs** / [*Reader*](news/README.md)  
+<a name="top"></a>**dev-blogs** / [*Reader*](../news/README.md)  
 &nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
 &nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
