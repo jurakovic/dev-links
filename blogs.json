@@ -167,7 +167,7 @@
         "github": "https://github.com/jskeet",
         "category": "dotnet",
         "icon": "wp",
-        "selected": true
+        "selected": false
     },
     {
         "id": "jimmybogard",
@@ -179,7 +179,7 @@
         "github": "https://github.com/jbogard",
         "category": "dotnet",
         "icon": "jimmybogard",
-        "selected": true
+        "selected": false
     },
     {
         "id": "blog-phatboyg",
@@ -191,7 +191,7 @@
         "github": "https://github.com/phatboyg",
         "category": "dotnet",
         "icon": "blank",
-        "selected": true
+        "selected": false
     },
     {
         "id": "devlead",
@@ -239,7 +239,7 @@
         "github": "https://github.com/kevingosse",
         "category": "dotnet",
         "icon": "minidump",
-        "selected": true
+        "selected": false
     },
     {
         "id": "mattwarren",
@@ -263,7 +263,7 @@
         "github": "https://github.com/haacked",
         "category": "dotnet",
         "icon": "haacked",
-        "selected": true
+        "selected": false
     },
     {
         "id": "erikej",
@@ -436,7 +436,7 @@
         "github": "https://github.com/KentBeck",
         "category": "general",
         "icon": "tidyfirst",
-        "selected": true
+        "selected": false
     },
     {
         "id": "paulhammant",
@@ -678,7 +678,7 @@
         "github": "https://github.com/RickStrahl",
         "category": "dotnet",
         "icon": "rickstrahl",
-        "selected": true
+        "selected": false
     },
     {
         "id": "samwho",
@@ -726,7 +726,7 @@
         "github": "https://github.com/dbreunig",
         "category": "ai",
         "icon": "dbreunig",
-        "selected": true
+        "selected": false
     },
     {
         "id": "swizec",
@@ -774,7 +774,7 @@
         "github": "https://github.com/MatthiasKainer",
         "category": "general",
         "icon": "blank",
-        "selected": true
+        "selected": false
     },
     {
         "id": "hillelwayne",
@@ -786,7 +786,7 @@
         "github": "https://github.com/hwayne",
         "category": "general",
         "icon": "hillelwayne",
-        "selected": true
+        "selected": false
     },
     {
         "id": "bencane",
@@ -798,6 +798,6 @@
         "github": "https://github.com/madflojo",
         "category": "general",
         "icon": "blank",
-        "selected": true
+        "selected": false
     }
 ]

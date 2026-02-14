@@ -12,8 +12,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
-&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
 * * *
 
@@ -378,12 +376,6 @@ Addy Osmani
 <https://github.com/addyosmani>  
 <div id="addyosmani" class="blog-posts"></div>
 
-![icon](favicons/dbreunig.png)
-Drew Breunig  
-<https://www.dbreunig.com>  
-<https://github.com/dbreunig>  
-<div id="dbreunig" class="blog-posts"></div>
-
 <!-- END AI -->
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
@@ -415,23 +407,6 @@ Stephen Cleary
 <https://github.com/StephenCleary>  
 <div id="stephencleary" class="blog-posts"></div>
 
-![icon](favicons/wp.png)
-Jon Skeet  
-<https://codeblog.jonskeet.uk>  
-<https://github.com/jskeet>  
-<div id="jonskeet" class="blog-posts"></div>
-
-![icon](favicons/jimmybogard.png)
-Jimmy Bogard  
-<https://www.jimmybogard.com>  
-<https://github.com/jbogard>  
-<div id="jimmybogard" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Chris Patterson | PhatBoyG.com  
-<https://blog.phatboyg.com>  
-<https://github.com/phatboyg>  
-
 ![icon](favicons/devlead.png)
 Mattias Karlsson | devlead  
 <https://www.devlead.se>  
@@ -449,18 +424,6 @@ Adam Sitnik | .NET Performance and Reliability
 <https://adamsitnik.com>  
 <https://github.com/adamsitnik>  
 <div id="adamsitnik" class="blog-posts"></div>
-
-![icon](favicons/minidump.png)
-Kevin Gosse | minidump.net  
-<https://minidump.net>  
-<https://github.com/kevingosse>  
-<div id="minidump" class="blog-posts"></div>
-
-![icon](favicons/haacked.png)
-Phil Haack | You've Been Haacked  
-<https://haacked.com/archives/>  
-<https://github.com/haacked>  
-<div id="haacked" class="blog-posts"></div>
 
 ![icon](favicons/blogspot.png)
 Bart Wullems | The Art of Simplicity  
@@ -484,12 +447,6 @@ Barry Dorrans | Ramblings from a .NET Security PM
 <https://idunno.org>  
 <https://github.com/blowdart>  
 <div id="idunno" class="blog-posts"></div>
-
-![icon](favicons/rickstrahl.png)
-Rick Strahl  
-<https://weblog.west-wind.com>  
-<https://github.com/RickStrahl>  
-<div id="rickstrahl" class="blog-posts"></div>
 
 <!-- END DOTNET -->
 
@@ -543,12 +500,6 @@ Brendan Gregg | Systems Performance
 <https://github.com/brendangregg>  
 <div id="brendangregg" class="blog-posts"></div>
 
-![icon](favicons/tidyfirst.png)
-Kent Beck | Software Design: Tidy First?  
-<https://tidyfirst.substack.com/archive>  
-<https://github.com/KentBeck>  
-<div id="tidyfirst" class="blog-posts"></div>
-
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
@@ -582,23 +533,6 @@ Swizec Teller
 <https://github.com/swizec>  
 <div id="swizec" class="blog-posts"></div>
 
-![icon](favicons/blank.png)
-Matthias Kainer  
-<https://matthias-kainer.de/#blog>  
-<https://github.com/MatthiasKainer>  
-
-![icon](favicons/hillelwayne.png)
-Hillel Wayne  
-<https://www.hillelwayne.com/post/>  
-<https://github.com/hwayne>  
-<div id="hillelwayne" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Benjamin Cane  
-<https://bencane.com>  
-<https://github.com/madflojo>  
-<div id="bencane" class="blog-posts"></div>
-
 <!-- END GENERAL -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -628,58 +562,5 @@ Denis Stetskov | From the Trenches
 <div id="techtrenches" class="blog-posts"></div>
 
 <!-- END MANAGEMENT -->
-
-#### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
-
-![icon](favicons/infoq.png)
-InfoQ  
-<https://www.infoq.com/news/>  
-[https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
-
-![icon](favicons/thoughtworks.png)
-Thoughtworks  
-<https://www.thoughtworks.com/insights/blog>  
-<https://www.thoughtworks.com/insights/articles>  
-
-<!--
-![icon](favicons/code-maze.png)
-Code Maze  
-<https://code-maze.com/latest-posts-on-code-maze/>  
--->
-
-![icon](favicons/thenewstack.png)
-The New Stack  
-<https://thenewstack.io/software-development/>  
-
-![icon](favicons/github.png)
-Github | The ReadME Project: Guides  
-<https://github.com/readme/guides>  
-
-
-#### <a name="blogs-tech-companies"></a>Tech Companies Blogs <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
-
-<!-- BEGIN TECH-COMPANIES -->
-
-![icon](favicons/stackoverflow.png)
-The Stack Overflow Blog  
-<https://stackoverflow.blog>  
-<div id="stackoverflow" class="blog-posts"></div>
-
-![icon](favicons/github.png)
-The GitHub Blog: Engineering  
-<https://github.blog/category/engineering/>  
-<div id="github" class="blog-posts"></div>
-
-![icon](favicons/netflix.png)
-Netflix TechBlog  
-<https://netflixtechblog.com>  
-<div id="netflix" class="blog-posts"></div>
-
-![icon](favicons/slack.png)
-Engineering at Slack  
-<https://slack.engineering>  
-<div id="slack" class="blog-posts"></div>
-
-<!-- END TECH-COMPANIES -->
 
 <sub><a href="#top">↑ Top</a></sub>
