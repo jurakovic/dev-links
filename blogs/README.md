@@ -1,13 +1,14 @@
 
-<a name="top"></a>**dev-blogs** / [*Reader*](../news/README.md)  
-&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
-&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
-&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
-&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
-&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
-&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
-&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
-&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
+<a name="top"></a>[**dev-links**]([dev-links](../README.md#content))  
+└─ **dev-blogs** / [*dev-news*](../news/README.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
 
 * * *
 
