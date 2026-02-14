@@ -25,6 +25,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-13 netflix</small>  
 <small>[Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 microservices</small>  
+<small>[Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization](http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-13 bartwullems</small>  
 <small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks - Part 5: Putting it all together](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01554914028.html)</small>
 
@@ -150,7 +153,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
 <small>[Lesson 216 - Creating Scalable Systems (February 2, 2026)](http://www.developertoarchitect.com/lessons/lesson216.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 microservices</small>  
-<small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
 
