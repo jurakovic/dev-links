@@ -17,7 +17,7 @@
 
 #### <a name="blogs-news"></a>News <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
-![icon](favicons/hackernews.png)
+![icon](../favicons/hackernews.png)
 Hacker News  
 <https://news.ycombinator.com/news>  
 
@@ -362,27 +362,27 @@ Denis Stetskov | From the Trenches
 
 #### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
-![icon](favicons/infoq.png)
+![icon](../favicons/infoq.png)
 InfoQ  
 <https://www.infoq.com/news/>  
 [https://www.infoq.com/software-architects-newsletter/](https://www.infoq.com/software-architects-newsletter/#placeholderPastIssues)  
 
-![icon](favicons/thoughtworks.png)
+![icon](../favicons/thoughtworks.png)
 Thoughtworks  
 <https://www.thoughtworks.com/insights/blog>  
 <https://www.thoughtworks.com/insights/articles>  
 
 <!--
-![icon](favicons/code-maze.png)
+![icon](../favicons/code-maze.png)
 Code Maze  
 <https://code-maze.com/latest-posts-on-code-maze/>  
 -->
 
-![icon](favicons/thenewstack.png)
+![icon](../favicons/thenewstack.png)
 The New Stack  
 <https://thenewstack.io/software-development/>  
 
-![icon](favicons/github.png)
+![icon](../favicons/github.png)
 Github | The ReadME Project: Guides  
 <https://github.com/readme/guides>  
 
