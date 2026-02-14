@@ -323,7 +323,7 @@ Clean Architecture Reference Applications / Solution Templates
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
-<sub>*Here is ony list of selected blogs. Full list is [here](blogs/README.md).*</sub>  
+<sub>*Only selected blogs are listed here. The full list is [here](blogs/README.md).*</sub>  
 
 <!--
 <https://www.developmentsimplyput.com/post/top-net-developers-contributors-to-follow>  
