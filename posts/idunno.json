@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Generating SBOMs in NuGet packages with Microsoft.Sbom.Targets",
+    "link": "https://idunno.org/generating-sboms-for-net-apps-and-nuget-packages-with-microsoft-sbom-targets/",
+    "pubDate": "Mon, 08 Dec 2025 09:46:14 GMT"
+  },
+  {
+    "title": "Enabling Source Control integration in Windows File Explorer",
+    "link": "https://idunno.org/enabling-source-control-integration-in-windows-file-explorer/",
+    "pubDate": "Sun, 07 Dec 2025 21:22:45 GMT"
+  },
+  {
+    "title": "Publishing NuGet packages from a Github Action without secrets",
+    "link": "https://idunno.org/publishing-nuget-packages-from-a-github-action-without-secrets/",
+    "pubDate": "Fri, 05 Dec 2025 10:59:12 GMT"
+  },
+  {
+    "title": ".NET code & nupkg signing in GitHub Actions",
+    "link": "https://idunno.org/net-code-nupkg-signing-in-github-actions/",
+    "pubDate": "Wed, 03 Dec 2025 13:58:48 GMT"
+  },
+  {
+    "title": "Post Quantum Support in .NET",
+    "link": "https://idunno.org/post-quantum-support-in-net/",
+    "pubDate": "Tue, 18 Nov 2025 19:38:19 GMT"
+  }
+]

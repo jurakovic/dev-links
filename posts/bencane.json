@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Why is Infrastructure-as-Code so important? Hint: It's correctness",
+    "link": "https://bencane.com/posts/2026-02-12/",
+    "pubDate": "Thu, 12 Feb 2026 24:00:00 GMT"
+  },
+  {
+    "title": "Optimizing the team’s workflow can be more impactful than building business features",
+    "link": "https://bencane.com/posts/2026-02-05/",
+    "pubDate": "Thu, 05 Feb 2026 24:00:00 GMT"
+  },
+  {
+    "title": "I follow an architecture principle I call The Law of Collective Amnesia",
+    "link": "https://bencane.com/posts/2026-01-29/",
+    "pubDate": "Thu, 29 Jan 2026 24:00:00 GMT"
+  },
+  {
+    "title": "Performance testing without a target is like running a race with no finish line",
+    "link": "https://bencane.com/posts/2026-01-22/",
+    "pubDate": "Thu, 22 Jan 2026 24:00:00 GMT"
+  },
+  {
+    "title": "Many teams think performance testing means throwing traffic at a system until it breaks. That approach is fine, but it misses how systems are actually stressed in the real world.",
+    "link": "https://bencane.com/posts/2026-01-15/",
+    "pubDate": "Thu, 15 Jan 2026 24:00:00 GMT"
+  }
+]

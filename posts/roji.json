@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Queryable PostgreSQL arrays in EF Core 8.0",
+    "link": "https://www.roji.org/queryable-pg-arrays-in-ef8",
+    "pubDate": "2023-05-20T00:00:00+02:00"
+  },
+  {
+    "title": "When “UTC everywhere” isn’t enough - storing time zones in PostgreSQL and SQL Server",
+    "link": "https://www.roji.org/storing-timezones-in-the-db",
+    "pubDate": "2021-11-10T00:00:00+01:00"
+  },
+  {
+    "title": "Mapping .NET Timestamps to PostgreSQL",
+    "link": "https://www.roji.org/postgresql-dotnet-timestamp-mapping",
+    "pubDate": "2021-10-10T00:00:00+02:00"
+  },
+  {
+    "title": "Query parameters, batching and SQL rewriting",
+    "link": "https://www.roji.org/parameters-batching-and-sql-rewriting",
+    "pubDate": "2021-08-17T00:00:00+02:00"
+  },
+  {
+    "title": "EF Core 6.7 Update Performance Improvements",
+    "link": "https://www.roji.org/efcore-7-update-perf",
+    "pubDate": "2021-07-12T00:00:00+02:00"
+  }
+]

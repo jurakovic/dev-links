@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Build Intelligent Apps with SQL: Join the SQL + AI Datathon",
+    "link": "https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/",
+    "pubDate": "Thu, 12 Feb 2026 17:35:41 +0000"
+  },
+  {
+    "title": "Time Travel in Azure SQL with Temporal Tables",
+    "link": "https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables/",
+    "pubDate": "Mon, 09 Feb 2026 17:34:56 +0000"
+  },
+  {
+    "title": "Masking Sensitive Data in Azure SQL",
+    "link": "https://devblogs.microsoft.com/azure-sql/mask-data-in-azure-sql/",
+    "pubDate": "Fri, 06 Feb 2026 16:21:44 +0000"
+  },
+  {
+    "title": "Enable Soft Delete in Azure SQL",
+    "link": "https://devblogs.microsoft.com/azure-sql/soft-delete-in-azure-sql/",
+    "pubDate": "Fri, 06 Feb 2026 00:47:59 +0000"
+  },
+  {
+    "title": "Introducing Budget Bytes: Build Powerful AI Apps for Under $25",
+    "link": "https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/",
+    "pubDate": "Mon, 26 Jan 2026 22:52:05 +0000"
+  }
+]

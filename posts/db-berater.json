@@ -1,0 +1,27 @@
+[
+  {
+    "title": "WHERE 1 = 1 – good practice?",
+    "link": "https://www.db-berater.de/2025/11/where-1-1-good-practice/",
+    "pubDate": "Tue, 04 Nov 2025 12:28:49 +0000"
+  },
+  {
+    "title": "Table Hint UPDLOCK and LOCK ESCALATION",
+    "link": "https://www.db-berater.de/2025/03/updlock-and-lock-escalation/",
+    "pubDate": "Wed, 12 Mar 2025 11:55:04 +0000"
+  },
+  {
+    "title": "Auto Update Statistics and Trivial Execution Plans",
+    "link": "https://www.db-berater.de/2025/01/automatic-statistic-updates-in-small-tables/",
+    "pubDate": "Sun, 19 Jan 2025 07:54:54 +0000"
+  },
+  {
+    "title": "When „Auto Update Statistics“ will not update your statistics",
+    "link": "https://www.db-berater.de/2025/01/when-auto-update-statistics-will-not-update-your-statistics/",
+    "pubDate": "Wed, 08 Jan 2025 14:05:03 +0000"
+  },
+  {
+    "title": "Is SWITCH PARTITION a bad idea?",
+    "link": "https://www.db-berater.de/2025/01/is-switch-partition-a-bad-idea/",
+    "pubDate": "Mon, 06 Jan 2025 05:04:40 +0000"
+  }
+]

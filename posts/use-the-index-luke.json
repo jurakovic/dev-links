@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Index Usage For EXTRACT(YEAR FROM …), YEAR(…) etc.",
+    "link": "https://use-the-index-luke.com/blog/2024-12/date-time-prefix-rewrite",
+    "pubDate": "10 Dec 2024 00:00:00 GMT"
+  },
+  {
+    "title": "Index INCLUDE Clause: How it works and when to use it",
+    "link": "https://use-the-index-luke.com/blog/2019-04/include-columns-in-btree-indexes",
+    "pubDate": "30 Apr 2019 00:00:00 GMT"
+  },
+  {
+    "title": "Upcoming Training: SQL Performance Kick-Start and modern SQL",
+    "link": "https://use-the-index-luke.com/blog/2018-07/upcoming-advanced-sql-training",
+    "pubDate": "31 Jul 2018 00:00:00 GMT"
+  },
+  {
+    "title": "Spanish Translation and Other News",
+    "link": "https://use-the-index-luke.com/blog/2017-11/spanish-anyone",
+    "pubDate": "13 Nov 2017 00:00:00 GMT"
+  },
+  {
+    "title": "Big News In Databases: Cloud Wars, IBM’s Renaming Insanity, Three Major Releases",
+    "link": "https://use-the-index-luke.com/blog/2017-11/cloud-wars-ibm-db2-renaming-major-database-releases",
+    "pubDate": "06 Nov 2017 00:00:00 GMT"
+  }
+]

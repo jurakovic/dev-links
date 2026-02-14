@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Isolate the swiyu Public Beta management APIs using YARP",
+    "link": "https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/",
+    "pubDate": "Mon, 09 Feb 2026 06:45:22 +0000"
+  },
+  {
+    "title": "Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR",
+    "link": "https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/",
+    "pubDate": "Mon, 02 Feb 2026 06:31:34 +0000"
+  },
+  {
+    "title": "Force step up authentication in web applications",
+    "link": "https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/",
+    "pubDate": "Mon, 26 Jan 2026 07:02:14 +0000"
+  },
+  {
+    "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
+    "link": "https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
+    "pubDate": "Sun, 18 Jan 2026 21:43:13 +0000"
+  },
+  {
+    "title": "Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende",
+    "link": "https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/",
+    "pubDate": "Mon, 12 Jan 2026 06:29:40 +0000"
+  }
+]
