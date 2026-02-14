@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Thoughtworks",
+    "link": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
+    "pubDate": "2026-02-14T04:54:41+00:00"
+  },
+  {
+    "title": "Anthropic's public benefit mission",
+    "link": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
+    "pubDate": "2026-02-13T23:59:51+00:00"
+  },
+  {
+    "title": "The evolution of OpenAI's mission statement",
+    "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
+    "pubDate": "2026-02-13T23:38:29+00:00"
+  },
+  {
     "title": "Introducing GPT‑5.3‑Codex‑Spark",
     "link": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
     "pubDate": "2026-02-12T21:16:07+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Anthropic",
     "link": "https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything",
     "pubDate": "2026-02-12T20:22:14+00:00"
-  },
-  {
-    "title": "Covering electricity price increases from our data centers",
-    "link": "https://simonwillison.net/2026/Feb/12/covering-electricity-price-increases/#atom-everything",
-    "pubDate": "2026-02-12T20:01:23+00:00"
-  },
-  {
-    "title": "Gemini 3 Deep Think",
-    "link": "https://simonwillison.net/2026/Feb/12/gemini-3-deep-think/#atom-everything",
-    "pubDate": "2026-02-12T18:12:17+00:00"
-  },
-  {
-    "title": "An AI Agent Published a Hit Piece on Me",
-    "link": "https://simonwillison.net/2026/Feb/12/an-ai-agent-published-a-hit-piece-on-me/#atom-everything",
-    "pubDate": "2026-02-12T17:45:05+00:00"
   }
 ]
