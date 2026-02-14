@@ -16,6 +16,15 @@
 
 <sub>*A few blogs listed below have not been updated for a while, but they still contain valuable content.*</sub>
 
+<p class="pages-hidden">
+
+> [!TIP]
+> *<https://jurakovic.github.io/dev-links/> features lists of latest blog posts*
+
+</p>
+
+<div id="posts-button"></div>
+
 #### <a name="blogs-news"></a>News <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
 ![icon](../favicons/hackernews.png)
