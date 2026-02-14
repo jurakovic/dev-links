@@ -58,7 +58,8 @@ function updateFile(outputFile, filterSelected) {
         // Generate markdown for each blog
         const categoryMarkdown = categoryBlogs.map(blog => {
             const lines = [];
-            lines.push(`![icon](favicons/${blog.icon}.png)`);
+            const faviconPath = outputFile === 'README.md' ? `favicons/${blog.icon}.png` : `../favicons/${blog.icon}.png`;
+            lines.push(`![icon](${faviconPath})`);
 
             // Author | Title line (handle empty name case)
             if (blog.author && blog.title) {
@@ -123,5 +124,5 @@ if (updateReadme) {
 }
 
 if (updateBlogs) {
-    updateFile('BLOGS.md', false);  // false = all blogs
+    updateFile('blogs/README.md', false);  // false = all blogs
 }
