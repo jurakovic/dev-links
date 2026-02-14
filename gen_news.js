@@ -42,8 +42,13 @@ allPosts.sort((a, b) => {
 // --- Take first 50 ---
 const posts50 = allPosts.slice(0, 50);
 
-// --- Load template ---
-let md = fs.readFileSync(TEMPLATE_FILE, 'utf8');
+let md = `
+[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)
+└─ [Blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#blogs) / ***Reader***
+
+* * *
+
+`;
 
 // --- Generate markdown ---
 console.log(`Generating file: README.md`);
