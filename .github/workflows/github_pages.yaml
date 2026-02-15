@@ -17,14 +17,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-        # If the workflow is triggered by a push to dev-news, checkout master
-        checkout_ref: ${{ startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name }}
     steps:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: ${{ env.checkout_ref }}
+          ref: master
           fetch-depth: 0
 
       - name: Fetch dev-news branch
@@ -34,9 +31,8 @@ jobs:
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
-          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ env.checkout_ref }};\.\.;g" news/README.md
-          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ env.checkout_ref }};\.\.;g" news/README.md
-          git status -s
+          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master;\.\.;g" news/README.md
+          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/master;\.\.;g" news/README.md
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
