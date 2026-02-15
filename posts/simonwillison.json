@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Eric Meyer",
+    "link": "https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything",
+    "pubDate": "2026-02-15T13:36:20+00:00"
+  },
+  {
     "title": "How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
     "link": "https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything",
     "pubDate": "2026-02-15T05:20:11+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Thoughtworks",
     "link": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
     "pubDate": "2026-02-14T04:54:41+00:00"
-  },
-  {
-    "title": "Anthropic's public benefit mission",
-    "link": "https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything",
-    "pubDate": "2026-02-13T23:59:51+00:00"
   }
 ]

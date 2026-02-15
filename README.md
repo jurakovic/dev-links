@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
+<small>[Quoting Eric Meyer](https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
+<small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
 <small>[How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt](https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
@@ -18,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-14 simonwillison</small>  
 <small>[Quoting Thoughtworks](https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-13 simonwillison</small>  
-<small>[Anthropic's public benefit mission](https://simonwillison.net/2026/Feb/13/anthropic-public-benefit-mission/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-13 tidyfirst</small>  
 <small>[Genie Session: Codex for Mac/GPUSortedMap](https://tidyfirst.substack.com/p/genie-session-codex-for-macgpusortedmap)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-26 azure-sql</small>  
 <small>[Introducing Budget Bytes: Build Powerful AI Apps for Under $25](https://devblogs.microsoft.com/azure-sql/introducing-budget-bytes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-01-26 netflix</small>  
-<small>[The AI Evolution of Graph Search at Netflix](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss----2615bd06b42e---4)</small>
 
