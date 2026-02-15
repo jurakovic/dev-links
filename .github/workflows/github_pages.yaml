@@ -21,7 +21,8 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.event_name == 'workflow_call' && 'master' || github.ref_name }}
+          #ref: ${{ github.event_name == 'workflow_call' && 'master' || github.ref_name }}
+          ref: master
           fetch-depth: 0
 
       - name: Fetch dev-news branch
