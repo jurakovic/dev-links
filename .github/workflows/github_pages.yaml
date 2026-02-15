@@ -21,7 +21,8 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          ref: ${{ github.ref_name == 'dev-news-ghp' && 'master' || github.ref_name }}
+          # If the workflow is triggered by a push to dev-news, checkout master
+          ref: ${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}
           fetch-depth: 0
 
       - name: Fetch dev-news branch
