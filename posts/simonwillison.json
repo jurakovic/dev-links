@@ -1,5 +1,15 @@
 [
   {
+    "title": "Launching Interop 2026",
+    "link": "https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything",
+    "pubDate": "2026-02-15T04:33:22+00:00"
+  },
+  {
+    "title": "Quoting Boris Cherny",
+    "link": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything",
+    "pubDate": "2026-02-14T23:59:09+00:00"
+  },
+  {
     "title": "Quoting Thoughtworks",
     "link": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
     "pubDate": "2026-02-14T04:54:41+00:00"
@@ -13,15 +23,5 @@
     "title": "The evolution of OpenAI's mission statement",
     "link": "https://simonwillison.net/2026/Feb/13/openai-mission-statement/#atom-everything",
     "pubDate": "2026-02-13T23:38:29+00:00"
-  },
-  {
-    "title": "Introducing GPT‑5.3‑Codex‑Spark",
-    "link": "https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything",
-    "pubDate": "2026-02-12T21:16:07+00:00"
-  },
-  {
-    "title": "Quoting Anthropic",
-    "link": "https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything",
-    "pubDate": "2026-02-12T20:22:14+00:00"
   }
 ]

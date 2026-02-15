@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
+<small>[Launching Interop 2026](https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-15 seangoedecke</small>  
+<small>[Two different tricks for fast LLM inference](https://seangoedecke.com/fast-llm-inference/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-14 simonwillison</small>  
+<small>[Quoting Boris Cherny](https://simonwillison.net/2026/Feb/14/boris/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-14 simonwillison</small>  
 <small>[Quoting Thoughtworks](https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything)</small>
 
@@ -36,12 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 bencane</small>  
 <small>[Why is Infrastructure-as-Code so important? Hint: It's correctness](https://bencane.com/posts/2026-02-12/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
-<small>[Introducing GPT‑5.3‑Codex‑Spark](https://simonwillison.net/2026/Feb/12/codex-spark/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-12 simonwillison</small>  
-<small>[Quoting Anthropic](https://simonwillison.net/2026/Feb/12/anthropic/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-12 azure-sql</small>  
 <small>[Build Intelligent Apps with SQL: Join the SQL + AI Datathon](https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-01-26 netflix</small>  
 <small>[The AI Evolution of Graph Search at Netflix](https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-01-26 damienbod</small>  
-<small>[Force step up authentication in web applications](https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/)</small>
 
