@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       dev_news_target_branch:
-        description: 'dev-news target branch'
+        description: 'dev-news target branch' # gen_news.js arg (default: master)
         required: false
         default: 'master'
         type: string
