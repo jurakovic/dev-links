@@ -27,6 +27,8 @@ jobs:
 
       - name: Fetch dev-news branch
         run: |
+          echo "${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}"
+          echo "Event name: ${{ github.event_name }}"
           git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
           git checkout origin/${{ inputs.dev_news_branch || 'dev-news' }} -- .
           git reset # unstage all files
@@ -34,24 +36,25 @@ jobs:
           git restore README.md # restore original README.md
           sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ github.ref_name }};\.\.;g" news/README.md
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ github.ref_name }};\.\.;g" news/README.md
+          git status -s
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
-
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./_site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-    steps:
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+#      - name: Build with Jekyll
+#        uses: actions/jekyll-build-pages@v1
+#        with:
+#          source: ./
+#          destination: ./_site
+#
+#      - name: Upload Pages artifact
+#        uses: actions/upload-pages-artifact@v3
+#        with:
+#          path: ./_site
+#
+#  deploy:
+#    needs: build
+#    runs-on: ubuntu-latest
+#    permissions:
+#      pages: write
+#      id-token: write
+#    steps:
+#      - name: Deploy to GitHub Pages
+#        uses: actions/deploy-pages@v4
