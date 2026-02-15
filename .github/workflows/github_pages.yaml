@@ -18,21 +18,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
+        # If the workflow is triggered by a push to dev-news, checkout master
         checkout_ref: ${{ startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name }}
     steps:
       - name: Checkout master
         uses: actions/checkout@v4
         with:
-          # If the workflow is triggered by a push to dev-news, checkout master
-          #ref: ${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}
           ref: ${{ env.checkout_ref }}
           fetch-depth: 0
 
       - name: Fetch dev-news branch
         run: |
-          echo "${{ env.checkout_ref }}"
-          echo "${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}"
-          echo "Event name: ${{ github.event_name }}"
           git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
           git checkout origin/${{ inputs.dev_news_branch || 'dev-news' }} -- .
           git reset # unstage all files
@@ -42,23 +38,23 @@ jobs:
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ env.checkout_ref }};\.\.;g" news/README.md
           git status -s
 
-#      - name: Build with Jekyll
-#        uses: actions/jekyll-build-pages@v1
-#        with:
-#          source: ./
-#          destination: ./_site
-#
-#      - name: Upload Pages artifact
-#        uses: actions/upload-pages-artifact@v3
-#        with:
-#          path: ./_site
-#
-#  deploy:
-#    needs: build
-#    runs-on: ubuntu-latest
-#    permissions:
-#      pages: write
-#      id-token: write
-#    steps:
-#      - name: Deploy to GitHub Pages
-#        uses: actions/deploy-pages@v4
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
