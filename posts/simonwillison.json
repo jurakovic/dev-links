@@ -1,27 +1,27 @@
 [
   {
+    "title": "Em dash",
+    "link": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
+    "pubDate": "2026-02-15T21:40:46+00:00"
+  },
+  {
+    "title": "Deep Blue",
+    "link": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
+    "pubDate": "2026-02-15T21:06:44+00:00"
+  },
+  {
+    "title": "Gwtar: a static efficient single-file HTML format",
+    "link": "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything",
+    "pubDate": "2026-02-15T18:26:08+00:00"
+  },
+  {
+    "title": "Three months of OpenClaw",
+    "link": "https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything",
+    "pubDate": "2026-02-15T17:23:28+00:00"
+  },
+  {
     "title": "Quoting Eric Meyer",
     "link": "https://simonwillison.net/2026/Feb/15/eric-meyer/#atom-everything",
     "pubDate": "2026-02-15T13:36:20+00:00"
-  },
-  {
-    "title": "How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt",
-    "link": "https://simonwillison.net/2026/Feb/15/cognitive-debt/#atom-everything",
-    "pubDate": "2026-02-15T05:20:11+00:00"
-  },
-  {
-    "title": "Launching Interop 2026",
-    "link": "https://simonwillison.net/2026/Feb/15/interop-2026/#atom-everything",
-    "pubDate": "2026-02-15T04:33:22+00:00"
-  },
-  {
-    "title": "Quoting Boris Cherny",
-    "link": "https://simonwillison.net/2026/Feb/14/boris/#atom-everything",
-    "pubDate": "2026-02-14T23:59:09+00:00"
-  },
-  {
-    "title": "Quoting Thoughtworks",
-    "link": "https://simonwillison.net/2026/Feb/14/thoughtworks/#atom-everything",
-    "pubDate": "2026-02-14T04:54:41+00:00"
   }
 ]
