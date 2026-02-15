@@ -25,7 +25,7 @@ jobs:
         with:
           # If the workflow is triggered by a push to dev-news, checkout master
           #ref: ${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}
-          ref: master
+          ref: ${{ env.checkout_ref }}
           fetch-depth: 0
 
       - name: Fetch dev-news branch
@@ -38,8 +38,8 @@ jobs:
           git reset # unstage all files
           cp README.md news/README.md # move dev-news README.md to news/
           git restore README.md # restore original README.md
-          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ github.ref_name }};\.\.;g" news/README.md
-          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ github.ref_name }};\.\.;g" news/README.md
+          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ env.checkout_ref }};\.\.;g" news/README.md
+          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ env.checkout_ref }};\.\.;g" news/README.md
           git status -s
 
 #      - name: Build with Jekyll
