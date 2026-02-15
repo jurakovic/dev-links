@@ -17,6 +17,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+        checkout_ref: ${{ startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name }}
     steps:
       - name: Checkout master
         uses: actions/checkout@v4
@@ -28,6 +30,7 @@ jobs:
 
       - name: Fetch dev-news branch
         run: |
+          echo "${{ env.checkout_ref }}"
           echo "${{ github.ref_name == 'dev-news' && 'master' || github.ref_name }}"
           echo "Event name: ${{ github.event_name }}"
           git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
