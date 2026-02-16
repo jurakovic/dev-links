@@ -343,6 +343,18 @@
         "selected": true
     },
     {
+        "id": "steipete",
+        "author": "Peter Steinberger",
+        "title": "Peter Steinberger",
+        "url": "https://steipete.me",
+        "feed": "https://steipete.me/rss.xml",
+        "extras": [],
+        "github": "https://github.com/steipete",
+        "category": "ai",
+        "icon": "steipete",
+        "selected": true
+    },
+    {
         "id": "antirez",
         "author": "Salvatore Sanfilippo",
         "title": "antirez",
