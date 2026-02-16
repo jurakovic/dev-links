@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-16 simonwillison</small>  
+<small>[Rodney and Claude Code for Desktop](https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
 <small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-16 bartwullems</small>  
 <small>[ActionFlix Because even rom-coms deserve an explosion](https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
+<small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
 <small>[The AI Vampire](https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything)</small>
@@ -21,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
 <small>[Gwtar: a static efficient single-file HTML format](https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
-<small>[Three months of OpenClaw](https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
 <small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-01-27 techtrenches</small>  
 <small>[RAG Is Easy. Your Data Isn’t.](https://techtrenches.dev/p/rag-is-easy-your-data-isnt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
-<small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
 

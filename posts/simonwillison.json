@@ -1,5 +1,10 @@
 [
   {
+    "title": "Rodney and Claude Code for Desktop",
+    "link": "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything",
+    "pubDate": "2026-02-16T16:38:57+00:00"
+  },
+  {
     "title": "The AI Vampire",
     "link": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything",
     "pubDate": "2026-02-15T23:59:36+00:00"
@@ -18,10 +23,5 @@
     "title": "Gwtar: a static efficient single-file HTML format",
     "link": "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything",
     "pubDate": "2026-02-15T18:26:08+00:00"
-  },
-  {
-    "title": "Three months of OpenClaw",
-    "link": "https://simonwillison.net/2026/Feb/15/openclaw/#atom-everything",
-    "pubDate": "2026-02-15T17:23:28+00:00"
   }
 ]
