@@ -1,5 +1,10 @@
 [
   {
+    "title": "Add application security to the swiyu generic management verifier APIs using OAuth",
+    "link": "https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/",
+    "pubDate": "Mon, 16 Feb 2026 07:07:40 +0000"
+  },
+  {
     "title": "Isolate the swiyu Public Beta management APIs using YARP",
     "link": "https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/",
     "pubDate": "Mon, 09 Feb 2026 06:45:22 +0000"
@@ -18,10 +23,5 @@
     "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
     "link": "https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
     "pubDate": "Sun, 18 Jan 2026 21:43:13 +0000"
-  },
-  {
-    "title": "Implementing Level of Authentication (LoA) with ASP.NET Core Identity and Duende",
-    "link": "https://damienbod.com/2026/01/12/implementing-level-of-authentication-loa-with-asp-net-core-identity-and-duende/",
-    "pubDate": "Mon, 12 Jan 2026 06:29:40 +0000"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
+<small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-16 bartwullems</small>  
+<small>[ActionFlix Because even rom-coms deserve an explosion](https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-15 simonwillison</small>  
 <small>[The AI Vampire](https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything)</small>
 
@@ -141,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-09 damienbod</small>  
 <small>[Isolate the swiyu Public Beta management APIs using YARP](https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-09 bartwullems</small>  
-<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 3: Data persistence in Log Analytics](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_0428528792.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
 <small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-01-27 andrewlock</small>  
 <small>[Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1](https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-01-27 minidump</small>  
-<small>[Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep](https://minidump.net/writing-a-net-gc-in-c-part-6/)</small>
 

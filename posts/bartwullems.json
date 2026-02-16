@@ -1,5 +1,10 @@
 [
   {
+    "title": "ActionFlix Because even rom-coms deserve an explosion",
+    "link": "https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html",
+    "pubDate": "2026-02-16T07:15:00.020+01:00"
+  },
+  {
     "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks - Part 5: Putting it all together",
     "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01554914028.html",
     "pubDate": "2026-02-13T07:39:00.006+01:00"
@@ -18,10 +23,5 @@
     "title": "VSCode–Finetune your AI instructions with /init",
     "link": "https://bartwullems.blogspot.com/2026/02/vscodefinetune-your-ai-instructions.html",
     "pubDate": "2026-02-10T07:47:00.026+01:00"
-  },
-  {
-    "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 3: Data persistence in Log Analytics",
-    "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_0428528792.html",
-    "pubDate": "2026-02-09T07:22:00.016+01:00"
   }
 ]
