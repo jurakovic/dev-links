@@ -1,5 +1,20 @@
 [
   {
+    "title": "Nano Banana Pro diff to webcomic",
+    "link": "https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything",
+    "pubDate": "2026-02-17T04:51:58+00:00"
+  },
+  {
+    "title": "Qwen3.5: Towards Native Multimodal Agents",
+    "link": "https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything",
+    "pubDate": "2026-02-17T04:30:57+00:00"
+  },
+  {
+    "title": "Two new Showboat tools: Chartroom and datasette-showboat",
+    "link": "https://simonwillison.net/2026/Feb/17/chartroom-and-datasette-showboat/#atom-everything",
+    "pubDate": "2026-02-17T00:43:45+00:00"
+  },
+  {
     "title": "Rodney and Claude Code for Desktop",
     "link": "https://simonwillison.net/2026/Feb/16/rodney-claude-code/#atom-everything",
     "pubDate": "2026-02-16T16:38:57+00:00"
@@ -8,20 +23,5 @@
     "title": "The AI Vampire",
     "link": "https://simonwillison.net/2026/Feb/15/the-ai-vampire/#atom-everything",
     "pubDate": "2026-02-15T23:59:36+00:00"
-  },
-  {
-    "title": "Em dash",
-    "link": "https://simonwillison.net/2026/Feb/15/em-dashes/#atom-everything",
-    "pubDate": "2026-02-15T21:40:46+00:00"
-  },
-  {
-    "title": "Deep Blue",
-    "link": "https://simonwillison.net/2026/Feb/15/deep-blue/#atom-everything",
-    "pubDate": "2026-02-15T21:06:44+00:00"
-  },
-  {
-    "title": "Gwtar: a static efficient single-file HTML format",
-    "link": "https://simonwillison.net/2026/Feb/15/gwtar/#atom-everything",
-    "pubDate": "2026-02-15T18:26:08+00:00"
   }
 ]

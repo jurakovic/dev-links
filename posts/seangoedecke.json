@@ -1,5 +1,10 @@
 [
   {
+    "title": "LLM-generated skills work, if you generate them afterwards",
+    "link": "https://seangoedecke.com/generate-skills-afterwards/",
+    "pubDate": "Tue, 17 Feb 2026 00:00:00 GMT"
+  },
+  {
     "title": "Two different tricks for fast LLM inference",
     "link": "https://seangoedecke.com/fast-llm-inference/",
     "pubDate": "Sun, 15 Feb 2026 00:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Getting the main thing right",
     "link": "https://seangoedecke.com/getting-the-main-thing-right/",
     "pubDate": "Thu, 05 Feb 2026 00:00:00 GMT"
-  },
-  {
-    "title": "How does AI impact skill formation?",
-    "link": "https://seangoedecke.com/how-does-ai-impact-skill-formation/",
-    "pubDate": "Sat, 31 Jan 2026 00:00:00 GMT"
   }
 ]
