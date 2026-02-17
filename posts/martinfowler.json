@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bliki: Agentic Email",
+    "link": "https://martinfowler.com/bliki/AgenticEmail.html",
+    "pubDate": "2026-02-17T10:39:00-05:00"
+  },
+  {
+    "title": "Harness Engineering",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html",
+    "pubDate": "2026-02-17T08:33:00-05:00"
+  },
+  {
     "title": "Fragments: February 13",
     "link": "https://martinfowler.com/fragments/2026-02-13.html",
     "pubDate": "2026-02-13T10:45:00-05:00"
@@ -13,15 +23,5 @@
     "title": "Context Engineering for Coding Agents",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html",
     "pubDate": "2026-02-05T07:36:00-08:00"
-  },
-  {
-    "title": "Fragments: February  4",
-    "link": "https://martinfowler.com/fragments/2026-02-04.html",
-    "pubDate": "2026-02-04T09:56:00-08:00"
-  },
-  {
-    "title": "Bliki: Excessive Bold",
-    "link": "https://martinfowler.com/bliki/ExcessiveBold.html",
-    "pubDate": "2026-01-28T09:20:00-05:00"
   }
 ]
