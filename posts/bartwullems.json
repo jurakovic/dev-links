@@ -1,5 +1,10 @@
 [
   {
+    "title": "I didn't notice this VS Code feature until it made me question how I code",
+    "link": "https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html",
+    "pubDate": "2026-02-17T07:09:00.010+01:00"
+  },
+  {
     "title": "ActionFlix Because even rom-coms deserve an explosion",
     "link": "https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html",
     "pubDate": "2026-02-16T07:15:00.020+01:00"
@@ -18,10 +23,5 @@
     "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 4: Data visualisation with Azure Workbooks",
     "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01091579999.html",
     "pubDate": "2026-02-11T07:47:00.045+01:00"
-  },
-  {
-    "title": "VSCode–Finetune your AI instructions with /init",
-    "link": "https://bartwullems.blogspot.com/2026/02/vscodefinetune-your-ai-instructions.html",
-    "pubDate": "2026-02-10T07:47:00.026+01:00"
   }
 ]
