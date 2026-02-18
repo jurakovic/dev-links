@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
+<small>[Introducing Claude Sonnet 4.6](https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
+<small>[Rodney v0.4.0](https://simonwillison.net/2026/Feb/17/rodney/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
 <small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
 
@@ -33,12 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-17 bartwullems</small>  
 <small>[I didn't notice this VS Code feature until it made me question how I code](https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
-<small>[Nano Banana Pro diff to webcomic](https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
-<small>[Qwen3.5: Towards Native Multimodal Agents](https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-17 seangoedecke</small>  
 <small>[LLM-generated skills work, if you generate them afterwards](https://seangoedecke.com/generate-skills-afterwards/)</small>

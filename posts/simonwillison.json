@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing Claude Sonnet 4.6",
+    "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
+    "pubDate": "2026-02-17T23:58:58+00:00"
+  },
+  {
+    "title": "Rodney v0.4.0",
+    "link": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
+    "pubDate": "2026-02-17T23:02:33+00:00"
+  },
+  {
     "title": "Quoting ROUGH DRAFT 8/2/66",
     "link": "https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything",
     "pubDate": "2026-02-17T14:49:04+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Dimitris Papailiopoulos",
     "link": "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything",
     "pubDate": "2026-02-17T14:04:44+00:00"
-  },
-  {
-    "title": "Nano Banana Pro diff to webcomic",
-    "link": "https://simonwillison.net/2026/Feb/17/release-notes-webcomic/#atom-everything",
-    "pubDate": "2026-02-17T04:51:58+00:00"
-  },
-  {
-    "title": "Qwen3.5: Towards Native Multimodal Agents",
-    "link": "https://simonwillison.net/2026/Feb/17/qwen35/#atom-everything",
-    "pubDate": "2026-02-17T04:30:57+00:00"
   }
 ]
