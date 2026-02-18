@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-18 bartwullems</small>  
+<small>[How I built a custom agent skill to configure Application Insights](https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
 <small>[Introducing Claude Sonnet 4.6](https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything)</small>
 
@@ -117,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 visualstudio</small>  
 <small>[Unlock language-specific rich symbol context using new find\_symbol tool](https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-11 bartwullems</small>  
-<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 4: Data visualisation with Azure Workbooks](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01091579999.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-02-11 steve-yegge</small>  
 <small>[The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163?source=rss-c1ec701babb7------2)</small>

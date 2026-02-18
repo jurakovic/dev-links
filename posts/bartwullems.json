@@ -1,5 +1,10 @@
 [
   {
+    "title": "How I built a custom agent skill to configure Application Insights",
+    "link": "https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html",
+    "pubDate": "2026-02-18T07:16:00.012+01:00"
+  },
+  {
     "title": "I didn't notice this VS Code feature until it made me question how I code",
     "link": "https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html",
     "pubDate": "2026-02-17T07:09:00.010+01:00"
@@ -18,10 +23,5 @@
     "title": "Copilot Memory in VS Code: Your AI assistant just got smarter",
     "link": "https://bartwullems.blogspot.com/2026/02/copilot-memory-in-vs-code-your-ai.html",
     "pubDate": "2026-02-12T06:44:00.025+01:00"
-  },
-  {
-    "title": "Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks–Part 4: Data visualisation with Azure Workbooks",
-    "link": "https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01091579999.html",
-    "pubDate": "2026-02-11T07:47:00.045+01:00"
   }
 ]
