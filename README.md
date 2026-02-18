@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
+<small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
+<small>[Quoting Martin Fowler](https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-18 martinfowler</small>  
+<small>[Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-18 bartwullems</small>  
 <small>[How I built a custom agent skill to configure Application Insights](https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
+<small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
 <small>[Introducing Claude Sonnet 4.6](https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything)</small>
@@ -27,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
 <small>[First kākāpō chick in four years hatches on Valentine's Day](https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
-<small>[Quoting Dimitris Papailiopoulos](https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-17 martinfowler</small>  
 <small>[Harness Engineering](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)</small>
@@ -199,9 +208,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-02-06 steve-yegge</small>  
 <small>[The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b?source=rss-c1ec701babb7------2)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-06 azure-sql</small>  
-<small>[Enable Soft Delete in Azure SQL](https://devblogs.microsoft.com/azure-sql/soft-delete-in-azure-sql/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-06 bencane</small>  
 <small>[Optimizing the team’s workflow can be more impactful than building business features](https://bencane.com/posts/2026-02-05/)</small>
 
@@ -210,9 +216,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-05 dotnet</small>  
 <small>[.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-05 martinfowler</small>  
-<small>[Context Engineering for Coding Agents](https://martinfowler.com/articles/exploring-gen-ai/context-engineering-coding-agents.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-02-05 lethain</small>  
 <small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-28 dotnet</small>  
 <small>[.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-01-28 github</small>  
-<small>[From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner](https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Federating Databases with Data API Builder Chaining",
+    "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/",
+    "pubDate": "Wed, 18 Feb 2026 17:00:17 +0000"
+  },
+  {
     "title": "Dear Copilot, can you help me with SQL?",
     "link": "https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/",
     "pubDate": "Tue, 17 Feb 2026 17:00:59 +0000"
@@ -18,10 +23,5 @@
     "title": "Masking Sensitive Data in Azure SQL",
     "link": "https://devblogs.microsoft.com/azure-sql/mask-data-in-azure-sql/",
     "pubDate": "Fri, 06 Feb 2026 16:21:44 +0000"
-  },
-  {
-    "title": "Enable Soft Delete in Azure SQL",
-    "link": "https://devblogs.microsoft.com/azure-sql/soft-delete-in-azure-sql/",
-    "pubDate": "Fri, 06 Feb 2026 00:47:59 +0000"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Martin Fowler",
+    "link": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
+    "pubDate": "2026-02-18T16:50:07+00:00"
+  },
+  {
     "title": "Introducing Claude Sonnet 4.6",
     "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
     "pubDate": "2026-02-17T23:58:58+00:00"
@@ -18,10 +23,5 @@
     "title": "First kākāpō chick in four years hatches on Valentine's Day",
     "link": "https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything",
     "pubDate": "2026-02-17T14:09:43+00:00"
-  },
-  {
-    "title": "Quoting Dimitris Papailiopoulos",
-    "link": "https://simonwillison.net/2026/Feb/17/dimitris-papailiopoulos/#atom-everything",
-    "pubDate": "2026-02-17T14:04:44+00:00"
   }
 ]
