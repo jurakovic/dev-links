@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
+<small>[Typing without having to type](https://simonwillison.net/2026/Feb/18/typing/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
+<small>[The A.I. Disruption We’ve Been Waiting for Has Arrived](https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
 <small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-18 stackoverflow</small>  
+<small>[Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
 <small>[Quoting Martin Fowler](https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything)</small>
@@ -33,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
 <small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
-<small>[Quoting ROUGH DRAFT 8/2/66](https://simonwillison.net/2026/Feb/17/rough-draft-8266/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-17 simonwillison</small>  
-<small>[First kākāpō chick in four years hatches on Valentine's Day](https://simonwillison.net/2026/Feb/17/first-kakapo-chick-in-four-years/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-17 martinfowler</small>  
 <small>[Harness Engineering](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)</small>
@@ -150,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-10 tidyfirst</small>  
 <small>[Generation Gap or Just Rude?](https://tidyfirst.substack.com/p/generation-gap-or-just-rude)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-10 stackoverflow</small>  
-<small>[The logos, ethos, and pathos of your LLMs](https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-10 minidump</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles](https://minidump.net/writing-a-net-gc-in-c-part-7/)</small>

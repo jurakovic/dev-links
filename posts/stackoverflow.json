@@ -1,5 +1,10 @@
 [
   {
+    "title": "Mind the gap: Closing the AI trust gap for developers",
+    "link": "https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/",
+    "pubDate": "Wed, 18 Feb 2026 17:00:00 GMT"
+  },
+  {
     "title": "Data is the new oil, and your database is the only way to extract it",
     "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
     "pubDate": "Tue, 17 Feb 2026 08:40:00 GMT"
@@ -18,10 +23,5 @@
     "title": "Is anyone using AI for good?",
     "link": "https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/",
     "pubDate": "Wed, 11 Feb 2026 17:00:00 GMT"
-  },
-  {
-    "title": "The logos, ethos, and pathos of your LLMs",
-    "link": "https://stackoverflow.blog/2026/02/10/the-logos-ethos-and-pathos-of-your-llms/",
-    "pubDate": "Tue, 10 Feb 2026 08:40:00 GMT"
   }
 ]
