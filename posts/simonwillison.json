@@ -1,5 +1,15 @@
 [
   {
+    "title": "SWE-bench February 2025 leaderboard update",
+    "link": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
+    "pubDate": "2026-02-19T04:48:47+00:00"
+  },
+  {
+    "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
+    "link": "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything",
+    "pubDate": "2026-02-19T01:25:33+00:00"
+  },
+  {
     "title": "Typing without having to type",
     "link": "https://simonwillison.net/2026/Feb/18/typing/#atom-everything",
     "pubDate": "2026-02-18T18:56:56+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Martin Fowler",
     "link": "https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything",
     "pubDate": "2026-02-18T16:50:07+00:00"
-  },
-  {
-    "title": "Introducing Claude Sonnet 4.6",
-    "link": "https://simonwillison.net/2026/Feb/17/claude-sonnet-46/#atom-everything",
-    "pubDate": "2026-02-17T23:58:58+00:00"
-  },
-  {
-    "title": "Rodney v0.4.0",
-    "link": "https://simonwillison.net/2026/Feb/17/rodney/#atom-everything",
-    "pubDate": "2026-02-17T23:02:33+00:00"
   }
 ]
