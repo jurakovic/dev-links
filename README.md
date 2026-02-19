@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
+<small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-19 stackoverflow</small>  
+<small>[Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-19 bartwullems</small>  
+<small>[Azure Pipelines–Failed to set a git tag](https://bartwullems.blogspot.com/2026/02/azure-pipelinesfailed-to-set-git-tag.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-19 simonwillison</small>  
-<small>[SWE-bench February 2025 leaderboard update](https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything)</small>
+<small>[Experimenting with sponsorship for my blog and newsletter](https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-19 simonwillison</small>  
+<small>[SWE-bench February 2026 leaderboard update](https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-19 simonwillison</small>  
 <small>[LadybirdBrowser/ladybird: Abandon Swift adoption](https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything)</small>
@@ -21,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-18 stackoverflow</small>  
 <small>[Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
-<small>[Quoting Martin Fowler](https://simonwillison.net/2026/Feb/18/martin-fowler/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-18 martinfowler</small>  
 <small>[Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)</small>
@@ -115,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-12 microservices</small>  
 <small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-12 bartwullems</small>  
-<small>[Copilot Memory in VS Code: Your AI assistant just got smarter](https://bartwullems.blogspot.com/2026/02/copilot-memory-in-vs-code-your-ai.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-12 addyosmani</small>  
 <small>[14 More Lessons from 14 years at Google](https://addyosmani.com/blog/14-more-lessons/)</small>
 
@@ -126,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
 <small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-11 stackoverflow</small>  
-<small>[Is anyone using AI for good?](https://stackoverflow.blog/2026/02/11/is-anyone-using-ai-for-good/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 visualstudio</small>  
 <small>[Unlock language-specific rich symbol context using new find\_symbol tool](https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-01-29 steve-yegge</small>  
 <small>[Software Survival 3.0](https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-01-28 dotnet</small>  
-<small>[.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)</small>
 
