@@ -7,6 +7,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
 <small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
+<small>[Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
+<small>[Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-19 stackoverflow</small>  
 <small>[Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/)</small>
 
@@ -91,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-13 stackoverflow</small>  
 <small>[Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-13 martinfowler</small>  
-<small>[Fragments: February 13](https://martinfowler.com/fragments/2026-02-13.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-13 ardalis</small>  
 <small>[Llms Need Mark as Answer](https://ardalis.com/llms-need-mark-as-answer/)</small>
 
@@ -162,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-10 swizec</small>  
 <small>[The 3 curves that make a scalable business](https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-09 martinfowler</small>  
-<small>[Fragments: February  9](https://martinfowler.com/fragments/2026-02-09.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-09 dbreunig</small>  
 <small>[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)</small>
