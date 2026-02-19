@@ -7,6 +7,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
 <small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
+<small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-19 simonwillison</small>  
+<small>[Gemini 3.1 Pro](https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
 <small>[Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
 <small>[Typing without having to type](https://simonwillison.net/2026/Feb/18/typing/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
-<small>[The A.I. Disruption We’ve Been Waiting for Has Arrived](https://simonwillison.net/2026/Feb/18/the-ai-disruption/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
 <small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 microservices</small>  
 <small>[My GenAI development workflow: Idea to Code](http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-01-29 steve-yegge</small>  
-<small>[Software Survival 3.0](https://steve-yegge.medium.com/software-survival-3-0-97a2a6255f7b?source=rss-c1ec701babb7------2)</small>
 
