@@ -1,27 +1,27 @@
 [
   {
+    "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+    "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
+    "pubDate": "2026-02-20T22:10:04+00:00"
+  },
+  {
+    "title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "link": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything",
+    "pubDate": "2026-02-20T17:12:55+00:00"
+  },
+  {
     "title": "Quoting Thariq Shihipar",
     "link": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything",
     "pubDate": "2026-02-20T07:13:19+00:00"
   },
   {
+    "title": "Recovering lost code",
+    "link": "https://simonwillison.net/2026/Feb/19/recovering-lost-code/#atom-everything",
+    "pubDate": "2026-02-19T23:48:35+00:00"
+  },
+  {
     "title": "Gemini 3.1 Pro",
     "link": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
     "pubDate": "2026-02-19T17:58:37+00:00"
-  },
-  {
-    "title": "Experimenting with sponsorship for my blog and newsletter",
-    "link": "https://simonwillison.net/2026/Feb/19/sponsorship/#atom-everything",
-    "pubDate": "2026-02-19T05:44:29+00:00"
-  },
-  {
-    "title": "SWE-bench February 2026 leaderboard update",
-    "link": "https://simonwillison.net/2026/Feb/19/swe-bench/#atom-everything",
-    "pubDate": "2026-02-19T04:48:47+00:00"
-  },
-  {
-    "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
-    "link": "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything",
-    "pubDate": "2026-02-19T01:25:33+00:00"
   }
 ]
