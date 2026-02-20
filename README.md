@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-20 stackoverflow</small>  
+<small>[Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
+<small>[Quoting Thariq Shihipar](https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-20 bartwullems</small>  
+<small>[Accessing Microsoft Fabric data locally with OneLake file explorer](https://bartwullems.blogspot.com/2026/02/accessing-microsoft-fabric-data-locally.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
 <small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
 
@@ -33,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-19 simonwillison</small>  
 <small>[LadybirdBrowser/ladybird: Abandon Swift adoption](https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-18 simonwillison</small>  
-<small>[Typing without having to type](https://simonwillison.net/2026/Feb/18/typing/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
 <small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
@@ -109,17 +115,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization](http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-13 bartwullems</small>  
-<small>[Building an end-to-end monitoring solution with Azure Arc, Log Analytics and Workbooks - Part 5: Putting it all together](https://bartwullems.blogspot.com/2026/02/building-end-to-end-monitoring-solution_01554914028.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 bencane</small>  
 <small>[Why is Infrastructure-as-Code so important? Hint: It's correctness](https://bencane.com/posts/2026-02-12/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-12 azure-sql</small>  
 <small>[Build Intelligent Apps with SQL: Join the SQL + AI Datathon](https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-12 stackoverflow</small>  
-<small>[How everyone and anyone can use AI for good](https://stackoverflow.blog/2026/02/12/how-everyone-and-anyone-can-use-ai-for-good/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
 <small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>

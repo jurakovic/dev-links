@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Thariq Shihipar",
+    "link": "https://simonwillison.net/2026/Feb/20/thariq-shihipar/#atom-everything",
+    "pubDate": "2026-02-20T07:13:19+00:00"
+  },
+  {
     "title": "Gemini 3.1 Pro",
     "link": "https://simonwillison.net/2026/Feb/19/gemini-31-pro/#atom-everything",
     "pubDate": "2026-02-19T17:58:37+00:00"
@@ -18,10 +23,5 @@
     "title": "LadybirdBrowser/ladybird: Abandon Swift adoption",
     "link": "https://simonwillison.net/2026/Feb/19/ladybird/#atom-everything",
     "pubDate": "2026-02-19T01:25:33+00:00"
-  },
-  {
-    "title": "Typing without having to type",
-    "link": "https://simonwillison.net/2026/Feb/18/typing/#atom-everything",
-    "pubDate": "2026-02-18T18:56:56+00:00"
   }
 ]
