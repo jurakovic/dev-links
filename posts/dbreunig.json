@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why is Claude an Electron App?",
+    "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "pubDate": "2026-02-21T10:00:00-08:00"
+  },
+  {
     "title": "How System Prompts Define Agent Behavior",
     "link": "https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html",
     "pubDate": "2026-02-10T21:34:00-08:00"
@@ -18,10 +23,5 @@
     "title": "A Software Library with No Code",
     "link": "https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html",
     "pubDate": "2026-01-08T14:59:00-08:00"
-  },
-  {
-    "title": "2025 in Review: Jagged Intelligence Becomes a Fault Line",
-    "link": "https://www.dbreunig.com/2025/12/29/2025-in-review.html",
-    "pubDate": "2025-12-29T10:03:00-08:00"
   }
 ]

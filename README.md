@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-21 dbreunig</small>  
+<small>[Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
 <small>[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
 <small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-29 erikej</small>  
-<small>[Getting Started with SQL Database Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html)</small>
 
