@@ -17,6 +17,7 @@ function update() {
         "title": (
                .title.__text
             // .title["+content"]
+            // .title["xhtml:div"]["xhtml:a"]["+content"]
             // .title.div.a["+content"]
             // .title
         ),
