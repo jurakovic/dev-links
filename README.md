@@ -112,6 +112,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
 <small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steipete.png) <small>2026-02-15 steipete</small>  
+<small>[OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-13 tidyfirst</small>  
 <small>[Genie Session: Codex for Mac/GPUSortedMap](https://tidyfirst.substack.com/p/genie-session-codex-for-macgpusortedmap)</small>
 
@@ -268,6 +271,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-03 andrewlock</small>  
 <small>[Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/guiferreira.png) <small>2026-02-03 guiferreira</small>  
+<small>[Understanding Hexagonal Architecture - A Guide to Ports and Adapters](https://guiferreira.me/archive/2026/understanding-hexagonal-architecture-a-guide-to-ports-and-adapters/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-02 techtrenches</small>  
 <small>[When Capex Beats Headcount: What Amazon’s Layoffs Actually Mean](https://techtrenches.dev/p/when-capex-beats-headcount-what-amazons)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 microservices</small>  
 <small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 bencane</small>  
-<small>[I follow an architecture principle I call The Law of Collective Amnesia](https://bencane.com/posts/2026-01-29/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
-<small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
 
