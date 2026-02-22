@@ -38,6 +38,7 @@ jobs:
           git restore --source origin/${{ github.ref_name }} -- blogs.json
           git restore --source origin/${{ github.ref_name }} -- gen_news.js
           git restore --source origin/${{ github.ref_name }} -- update_posts.sh
+          git restore --source origin/${{ github.ref_name }} -- fix_post_times.js
           chmod +x ./update_posts.sh
         shell: bash
 
@@ -50,6 +51,7 @@ jobs:
           rm blogs.json
           rm gen_news.js
           rm update_posts.sh
+          rm fix_post_times.js
 
           git status -s
           git add .
