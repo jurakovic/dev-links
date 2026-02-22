@@ -811,5 +811,17 @@
         "category": "general",
         "icon": "blank",
         "selected": false
+    },
+    {
+        "id": "guiferreira",
+        "author": "Gui Ferreira",
+        "title": "The Gui Ferreira Blog",
+        "url": "https://guiferreira.me/blog/",
+        "feed": "https://guiferreira.me/feed.xml",
+        "extras": [],
+        "github": "https://github.com/gsferreira",
+        "category": "general",
+        "icon": "guiferreira",
+        "selected": false
     }
 ]
