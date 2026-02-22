@@ -25,6 +25,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
 <small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-20 minidump</small>  
+<small>[Too good to be true: an unexpected profiler trap](https://minidump.net/an-unexpected-profiler-trap/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-20 stackoverflow</small>  
 <small>[Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
 <small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-20 minidump</small>  
-<small>[Too good to be true: an unexpected profiler trap](https://minidump.net/an-unexpected-profiler-trap/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
 <small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
@@ -52,6 +52,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-19 bartwullems</small>  
 <small>[Azure Pipelines–Failed to set a git tag](https://bartwullems.blogspot.com/2026/02/azure-pipelinesfailed-to-set-git-tag.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
+<small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
 <small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
 
@@ -61,11 +64,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-18 martinfowler</small>  
 <small>[Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-18 tidyfirst</small>  
+<small>[Earn \*And\* Learn](https://tidyfirst.substack.com/p/earn-and-learn)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-18 bartwullems</small>  
 <small>[How I built a custom agent skill to configure Application Insights](https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
-<small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
 <small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
@@ -91,23 +94,23 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-17 seangoedecke</small>  
 <small>[LLM-generated skills work, if you generate them afterwards](https://seangoedecke.com/generate-skills-afterwards/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
+<small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
 <small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-16 bartwullems</small>  
 <small>[ActionFlix Because even rom-coms deserve an explosion](https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
-<small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
 <small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
-<small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-15 seangoedecke</small>  
 <small>[Two different tricks for fast LLM inference](https://seangoedecke.com/fast-llm-inference/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
+<small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-13 tidyfirst</small>  
 <small>[Genie Session: Codex for Mac/GPUSortedMap](https://tidyfirst.substack.com/p/genie-session-codex-for-macgpusortedmap)</small>
@@ -243,9 +246,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-04 tidyfirst</small>  
-<small>[The Pinhole View of AI Value](https://tidyfirst.substack.com/p/the-pinhole-view-of-ai-value)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
 <small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
