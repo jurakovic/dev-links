@@ -1,0 +1,102 @@
+[
+  {
+    "title": {
+      "+@type": "xhtml",
+      "xhtml:div": {
+        "xhtml:a": {
+          "+content": "Understanding Hexagonal Architecture - A Guide to Ports and Adapters",
+          "+@href": "https://guiferreira.me/archive/2026/understanding-hexagonal-architecture-a-guide-to-ports-and-adapters/"
+        }
+      },
+      "__text": null,
+      "+content": null,
+      "div": {
+        "a": {
+          "+content": null
+        }
+      }
+    },
+    "link": "https://guiferreira.me/archive/2026/understanding-hexagonal-architecture-a-guide-to-ports-and-adapters/",
+    "pubDate": "2026-02-03T00:00:00+00:00"
+  },
+  {
+    "title": {
+      "+@type": "xhtml",
+      "xhtml:div": {
+        "xhtml:a": {
+          "+content": "How to use AGENTS.md to define AI Rules across any IDE",
+          "+@href": "https://guiferreira.me/archive/2026/how-to-use-agents-md-to-define-ai-rules-across-any-ide/"
+        }
+      },
+      "__text": null,
+      "+content": null,
+      "div": {
+        "a": {
+          "+content": null
+        }
+      }
+    },
+    "link": "https://guiferreira.me/archive/2026/how-to-use-agents-md-to-define-ai-rules-across-any-ide/",
+    "pubDate": "2026-01-30T00:00:00+00:00"
+  },
+  {
+    "title": {
+      "+@type": "xhtml",
+      "xhtml:div": {
+        "xhtml:a": {
+          "+content": "How to Use Cursor Rules to Plan and Execute Tasks",
+          "+@href": "https://guiferreira.me/archive/2026/how-to-use-cursor-rules-to-plan-and-execute-tasks/"
+        }
+      },
+      "__text": null,
+      "+content": null,
+      "div": {
+        "a": {
+          "+content": null
+        }
+      }
+    },
+    "link": "https://guiferreira.me/archive/2026/how-to-use-cursor-rules-to-plan-and-execute-tasks/",
+    "pubDate": "2026-01-13T00:00:00+00:00"
+  },
+  {
+    "title": {
+      "+@type": "xhtml",
+      "xhtml:div": {
+        "xhtml:a": {
+          "+content": "Year in review 2025",
+          "+@href": "https://guiferreira.me/archive/2025/year-in-review-2025/"
+        }
+      },
+      "__text": null,
+      "+content": null,
+      "div": {
+        "a": {
+          "+content": null
+        }
+      }
+    },
+    "link": "https://guiferreira.me/archive/2025/year-in-review-2025/",
+    "pubDate": "2025-12-31T00:00:00+00:00"
+  },
+  {
+    "title": {
+      "+@type": "xhtml",
+      "xhtml:div": {
+        "xhtml:a": {
+          "+content": "Assembly Fixtures - The Best New Feature in xUnit v3",
+          "+@href": "https://guiferreira.me/archive/2025/xunit-v3-assembly-fixtures/"
+        }
+      },
+      "__text": null,
+      "+content": null,
+      "div": {
+        "a": {
+          "+content": null
+        }
+      }
+    },
+    "link": "https://guiferreira.me/archive/2025/xunit-v3-assembly-fixtures/",
+    "pubDate": "2025-12-17T00:00:00+00:00"
+  }
+]

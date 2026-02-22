@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why I joined OpenAI",
+    "link": "http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html",
+    "pubDate": "2026-02-06T13:00:00+00:00"
+  },
+  {
     "title": "Leaving Intel",
     "link": "http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html",
     "pubDate": "Fri, 05 Dec 2025 00:00:00 +1100"
@@ -18,10 +23,5 @@
     "title": "Third Stage Engineering",
     "link": "http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html",
     "pubDate": "Mon, 17 Nov 2025 00:00:00 +1100"
-  },
-  {
-    "title": "When to Hire a Computer Performance Engineering Team (2025) part 1 of 2",
-    "link": "http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html",
-    "pubDate": "Mon, 04 Aug 2025 00:00:00 +1000"
   }
 ]

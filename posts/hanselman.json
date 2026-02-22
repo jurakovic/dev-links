@@ -1,5 +1,15 @@
 [
   {
+    "title": "Is the craft dead?",
+    "link": "https://www.hanselman.com/blog/is-the-craft-dead",
+    "pubDate": "2026-02-09T05:50:59+00:00"
+  },
+  {
+    "title": "The danger of glamourizing one shots",
+    "link": "https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots",
+    "pubDate": "2026-02-04T05:53:00+00:00"
+  },
+  {
     "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
     "link": "https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
     "pubDate": "Fri, 28 Nov 2025 19:31:25 GMT"
@@ -13,15 +23,5 @@
     "title": "Open Sourcing DOS 4",
     "link": "https://www.hanselman.com/blog/open-sourcing-dos-4",
     "pubDate": "Thu, 25 Apr 2024 16:46:13 GMT"
-  },
-  {
-    "title": "Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS",
-    "link": "https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os",
-    "pubDate": "Thu, 07 Mar 2024 01:12:13 GMT"
-  },
-  {
-    "title": "Using WSL and Let's Encrypt to create Azure App Service SSL Wildcard Certificates",
-    "link": "https://www.hanselman.com/blog/using-wsl-and-lets-encrypt-to-create-azure-app-service-ssl-wildcard-certificates",
-    "pubDate": "Tue, 27 Jun 2023 17:17:25 GMT"
   }
 ]

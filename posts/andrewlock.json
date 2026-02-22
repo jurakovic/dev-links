@@ -1,5 +1,10 @@
 [
   {
+    "title": "Creating standard and \"observable\" instruments: System.Diagnostics.Metrics APIs - Part 3",
+    "link": "https://andrewlock.net/creating-standard-and-observable-instruments/",
+    "pubDate": "2026-02-17T10:00:00+00:00"
+  },
+  {
     "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
     "link": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
     "pubDate": "Tue, 03 Feb 2026 10:00:00 GMT"
@@ -18,10 +23,5 @@
     "title": "The Windows File Explorer replacement, File Pilot, is awesome",
     "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
     "pubDate": "Tue, 13 Jan 2026 09:00:00 GMT"
-  },
-  {
-    "title": "Recent updates to NetEscapades.EnumGenerators: new APIs and System.Memory support",
-    "link": "https://andrewlock.net/updates-to-netescapaades-enumgenerators-new-apis-and-system-memory-support/",
-    "pubDate": "Fri, 02 Jan 2026 09:00:00 GMT"
   }
 ]

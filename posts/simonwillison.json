@@ -1,27 +1,27 @@
 [
   {
-    "title": "Running Pydantic's Monty Rust sandboxed Python subset in WebAssembly",
-    "link": "https://simonwillison.net/2026/Feb/6/pydantic-monty/#atom-everything",
-    "pubDate": "2026-02-06T22:31:31+00:00"
+    "title": "How I think about Codex",
+    "link": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
+    "pubDate": "2026-02-22T15:53:43+00:00"
   },
   {
-    "title": "An Update on Heroku",
-    "link": "https://simonwillison.net/2026/Feb/6/an-update-on-heroku/#atom-everything",
-    "pubDate": "2026-02-06T18:44:21+00:00"
+    "title": "Quoting Thibault Sottiaux",
+    "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
+    "pubDate": "2026-02-21T01:30:21+00:00"
   },
   {
-    "title": "Quoting Karel D'Oosterlinck",
-    "link": "https://simonwillison.net/2026/Feb/6/karel-doosterlinck/#atom-everything",
-    "pubDate": "2026-02-06T00:42:22+00:00"
+    "title": "Andrej Karpathy talks about \"Claws\"",
+    "link": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything",
+    "pubDate": "2026-02-21T00:37:45+00:00"
   },
   {
-    "title": "Mitchell Hashimoto: My AI Adoption Journey",
-    "link": "https://simonwillison.net/2026/Feb/5/ai-adoption-journey/#atom-everything",
-    "pubDate": "2026-02-05T23:39:07+00:00"
+    "title": "Adding TILs, releases, museums, tools and research to my blog",
+    "link": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything",
+    "pubDate": "2026-02-20T23:47:10+00:00"
   },
   {
-    "title": "Opus 4.6 and Codex 5.3",
-    "link": "https://simonwillison.net/2026/Feb/5/two-new-models/#atom-everything",
-    "pubDate": "2026-02-05T20:29:20+00:00"
+    "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
+    "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
+    "pubDate": "2026-02-20T22:10:04+00:00"
   }
 ]

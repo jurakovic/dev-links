@@ -1,5 +1,15 @@
 [
   {
+    "title": "Custom Agents in Visual Studio: Built in and Build-Your-Own agents",
+    "link": "https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/",
+    "pubDate": "2026-02-19T21:02:13+00:00"
+  },
+  {
+    "title": "Unlock language-specific rich symbol context using new find_symbol tool",
+    "link": "https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/",
+    "pubDate": "2026-02-11T15:29:15+00:00"
+  },
+  {
     "title": "Roadmap for AI in Visual Studio (February)",
     "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
     "pubDate": "Wed, 04 Feb 2026 20:42:53 +0000"
@@ -13,15 +23,5 @@
     "title": "Visual Studio January Update — Enhanced Editor Experience",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/",
     "pubDate": "Tue, 27 Jan 2026 18:30:12 +0000"
-  },
-  {
-    "title": "Copilot Memories",
-    "link": "https://devblogs.microsoft.com/visualstudio/copilot-memories/",
-    "pubDate": "Thu, 15 Jan 2026 13:00:33 +0000"
-  },
-  {
-    "title": "Welcome to 2026, A Growth Year for All of Us",
-    "link": "https://devblogs.microsoft.com/visualstudio/vs-live-2026-immersive-learning-for-vs2026/",
-    "pubDate": "Mon, 05 Jan 2026 14:29:43 +0000"
   }
 ]

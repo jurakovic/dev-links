@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The Lock Escalation Threshold – Part 3",
+    "link": "https://sqlperformance.com/2022/10/sql-performance/lock-escalation-threshold-part-3",
+    "pubDate": "2022-10-20T09:00:21+00:00"
+  },
+  {
+    "title": "DATE_BUCKET and DATETRUNC Improve Optimization of Time-Based Grouping",
+    "link": "https://sqlperformance.com/2022/10/t-sql-queries/date-bucket-datetrunc-improve-time-based-grouping",
+    "pubDate": "2022-10-18T09:00:04+00:00"
+  },
+  {
+    "title": "The Lock Escalation Threshold – Part 2",
+    "link": "https://sqlperformance.com/2022/10/sql-performance/lock-escalation-threshold-part-2",
+    "pubDate": "2022-10-04T09:00:51+00:00"
+  },
+  {
+    "title": "New Bit Manipulation Functions in SQL Server 2022",
+    "link": "https://sqlperformance.com/2022/09/sql-server-2022/new-bit-manipulation-functions",
+    "pubDate": "2022-09-21T09:00:57+00:00"
+  },
+  {
+    "title": "The Lock Escalation Threshold – Part 1",
+    "link": "https://sqlperformance.com/2022/09/sql-performance/lock-escalation-threshold-part-1",
+    "pubDate": "2022-09-06T09:00:32+00:00"
+  }
+]

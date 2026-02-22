@@ -1,0 +1,27 @@
+[
+  {
+    "title": "How the Microsoft SQL team is investing in SQL tools and experiences",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/",
+    "pubDate": "2025-12-05T17:00:00+00:00"
+  },
+  {
+    "title": "One consistent SQL: The launchpad from legacy to innovation",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/11/18/one-consistent-sql-the-launchpad-from-legacy-to-innovation/",
+    "pubDate": "2025-11-18T16:00:00+00:00"
+  },
+  {
+    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
+    "pubDate": "2025-10-20T16:00:00+00:00"
+  },
+  {
+    "title": "Accelerating SQL Server 2025 momentum: Announcing the first release candidate",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/08/22/accelerating-sql-server-2025-momentum-announcing-the-first-release-candidate/",
+    "pubDate": "2025-08-22T15:00:00+00:00"
+  },
+  {
+    "title": "Accelerate SQL Server Migration to Azure with Azure Arc",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/07/17/accelerate-sql-server-migration-to-azure-with-azure-arc/",
+    "pubDate": "2025-07-17T21:00:00+00:00"
+  }
+]

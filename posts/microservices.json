@@ -1,5 +1,20 @@
 [
   {
+    "title": "Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization",
+    "link": "http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html",
+    "pubDate": "2026-02-13T08:03:00+00:00"
+  },
+  {
+    "title": "QCONSF Microservices Platforms - part 4: Infrastructure services platform",
+    "link": "http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html",
+    "pubDate": "2026-02-12T08:03:00+00:00"
+  },
+  {
+    "title": "GenAI-based software delivery needs a fast flow architecture",
+    "link": "http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html",
+    "pubDate": "2026-02-08T08:03:00+00:00"
+  },
+  {
     "title": "QCONSF Microservices Platforms part 3: Security platform",
     "link": "http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html",
     "pubDate": "Fri, 30 Jan 2026 08:01:00 +0000"
@@ -8,20 +23,5 @@
     "title": "My GenAI development workflow: Idea to Code",
     "link": "http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html",
     "pubDate": "Thu, 29 Jan 2026 08:03:00 +0000"
-  },
-  {
-    "title": "From two problems to four: the not-so-hidden complexity GenAI-based development",
-    "link": "http://microservices.io//post/architecture/2026/01/28/when-two-problems-becomes-four-genai-based-development.html",
-    "pubDate": "Wed, 28 Jan 2026 08:03:00 +0000"
-  },
-  {
-    "title": "Another public service announcement: There are no silver bullets - GenAI included",
-    "link": "http://microservices.io//post/architecture/2026/01/19/psa-no-silver-bullets.html",
-    "pubDate": "Mon, 19 Jan 2026 08:03:00 +0000"
-  },
-  {
-    "title": "QCONSF Microservices Platforms part 2: service foundation platform",
-    "link": "http://microservices.io//post/architecture/2026/01/14/qconsf-microservices-platforms-part-2.html",
-    "pubDate": "Wed, 14 Jan 2026 10:01:00 +0000"
   }
 ]

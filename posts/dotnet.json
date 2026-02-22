@@ -1,5 +1,20 @@
 [
   {
+    "title": "GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026",
+    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/",
+    "pubDate": "2026-02-11T18:05:00+00:00"
+  },
+  {
+    "title": ".NET 11 Preview 1 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/",
+    "pubDate": "2026-02-10T22:38:20+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework February 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/",
+    "pubDate": "2026-02-10T19:00:00+00:00"
+  },
+  {
     "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
     "pubDate": "Thu, 05 Feb 2026 18:00:00 +0000"
@@ -8,20 +23,5 @@
     "title": ".NET AI Essentials – The Core Building Blocks Explained",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
     "pubDate": "Wed, 28 Jan 2026 17:30:00 +0000"
-  },
-  {
-    "title": "Join Microsoft at NDC London 2026 – Let’s Build the Future of .NET Together",
-    "link": "https://devblogs.microsoft.com/dotnet/join-us-at-ndc-london-2026/",
-    "pubDate": "Mon, 26 Jan 2026 18:05:00 +0000"
-  },
-  {
-    "title": ".NET and .NET Framework January 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-january-2026-servicing-updates/",
-    "pubDate": "Tue, 13 Jan 2026 21:24:09 +0000"
-  },
-  {
-    "title": "How to Build Android Widgets with .NET MAUI",
-    "link": "https://devblogs.microsoft.com/dotnet/how-to-build-android-widgets-with-dotnet-maui/",
-    "pubDate": "Mon, 12 Jan 2026 18:05:00 +0000"
   }
 ]

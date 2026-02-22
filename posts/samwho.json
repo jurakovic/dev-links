@@ -1,0 +1,27 @@
+[
+  {
+    "title": "2025",
+    "link": "/2025/",
+    "pubDate": "2025-12-23T00:00:00+00:00"
+  },
+  {
+    "title": "Big O",
+    "link": "/big-o/",
+    "pubDate": "2025-08-23T00:00:00+00:00"
+  },
+  {
+    "title": "Reservoir Sampling",
+    "link": "/reservoir-sampling/",
+    "pubDate": "2025-05-07T00:00:00+00:00"
+  },
+  {
+    "title": "Turing Machines",
+    "link": "/turing-machines/",
+    "pubDate": "2024-12-20T00:00:00+00:00"
+  },
+  {
+    "title": "A Commitment to Art and Dogs",
+    "link": "/dogs/",
+    "pubDate": "2024-06-01T00:00:00+00:00"
+  }
+]
