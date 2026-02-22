@@ -346,6 +346,12 @@ Benjamin Cane
 <https://github.com/madflojo>  
 <div id="bencane" class="blog-posts"></div>
 
+![icon](../favicons/guiferreira.png)
+Gui Ferreira  
+<https://guiferreira.me/blog/>  
+<https://github.com/gsferreira>  
+<div id="guiferreira" class="blog-posts"></div>
+
 <!-- END GENERAL -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
