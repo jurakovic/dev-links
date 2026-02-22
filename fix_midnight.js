@@ -12,7 +12,7 @@ function toISO(date) {
            `T${p(date.getUTCHours())}:${p(date.getUTCMinutes())}:${p(date.getUTCSeconds())}+00:00`;
 }
 
-function getBlameTime(relPath, lineNumber) {
+function getBlameTimestamp(relPath, lineNumber) {
     const output = execSync(
         `git blame --line-porcelain -L ${lineNumber},${lineNumber} -- "${relPath}"`,
         { cwd: __dirname, encoding: 'utf8' }
@@ -23,7 +23,7 @@ function getBlameTime(relPath, lineNumber) {
     const timeMatch = output.match(/^author-time (\d+)$/m);
     if (!timeMatch) return null;
 
-    return toISO(new Date(parseInt(timeMatch[1]) * 1000));
+    return parseInt(timeMatch[1]);
 }
 
 const files = fs.readdirSync(POSTS_DIR).filter(f => f.endsWith('.json'));
@@ -43,7 +43,21 @@ for (const file of files) {
         let newValue;
 
         if (/00:00:00/.test(currentValue)) {
-            newValue = getBlameTime(relPath, i + 1);
+            const pubDate = new Date(currentValue);
+            if (isNaN(pubDate.getTime())) continue;
+            const blameTs = getBlameTimestamp(relPath, i + 1);
+            if (blameTs !== null) {
+                const commitDate = new Date(blameTs * 1000);
+                // Only use commit time if the date parts match — if they differ, the post is
+                // older than the commit (e.g. feed added in bulk), so keep midnight as-is.
+                if (toISO(commitDate).slice(0, 10) === toISO(pubDate).slice(0, 10)) {
+                    newValue = toISO(commitDate);
+                } else {
+                    newValue = toISO(pubDate);
+                }
+            } else {
+                newValue = toISO(pubDate);
+            }
         } else {
             const d = new Date(currentValue);
             if (isNaN(d.getTime())) continue;
