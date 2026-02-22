@@ -36,6 +36,7 @@ jobs:
         run: |
           # get scripts
           git restore --source origin/${{ github.ref_name }} -- blogs.json
+          git restore --source origin/${{ github.ref_name }} -- fix_post_times.js
           git restore --source origin/${{ github.ref_name }} -- gen_news.js
           git restore --source origin/${{ github.ref_name }} -- update_posts.sh
           chmod +x ./update_posts.sh
