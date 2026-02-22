@@ -5,7 +5,8 @@ function update() {
   feed=$2
   echo "Processing feed: $id"
 
-  curl -Ss -k -L "$feed" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0' | \
+  # Fetch and parse feed into a variable
+  new_json=$(curl -Ss -k -L "$feed" -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0' | \
   yq -p=xml -o=json '
     (
       .rss.channel.item // .feed.entry
@@ -16,6 +17,7 @@ function update() {
         "title": (
                .title.__text
             // .title["+content"]
+            // .title.div.a["+content"]
             // .title
         ),
         "link": (
@@ -31,10 +33,27 @@ function update() {
             // .updated
         )
       })
-  ' > "$id.json"
+  ')
 
-  if [ $? -ne 0 ] || [ ! -s "$id.json" ]; then
+  if [ $? -ne 0 ] || [ -z "$new_json" ] || [ "$new_json" = "null" ]; then
     echo "  [ERROR] Failed to process $id ($feed)"
+    return
+  fi
+
+  # Fix midnight pubDates via node script.
+  # Capture into variable first — redirecting stdout directly to "$id.json" would truncate
+  # the file before node's synchronous read of the existing content could run.
+  fixed_json=$(echo "$new_json" | node ../fix_post_times.js "$id.json")
+
+  if [ $? -ne 0 ] || [ -z "$fixed_json" ]; then
+    echo "  [ERROR] Failed to process $id ($feed)"
+    return
+  fi
+
+  echo "$fixed_json" > "$id.json"
+
+  if [ ! -s "$id.json" ]; then
+    echo "  [ERROR] Failed to write $id"
     git restore "$id.json"
   fi
 }

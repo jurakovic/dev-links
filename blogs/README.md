@@ -41,6 +41,12 @@ Simon Willison
 <https://github.com/simonw>  
 <div id="simonwillison" class="blog-posts"></div>
 
+![icon](../favicons/steipete.png)
+Peter Steinberger  
+<https://steipete.me>  
+<https://github.com/steipete>  
+<div id="steipete" class="blog-posts"></div>
+
 ![icon](../favicons/steve-yegge.png)
 Steve Yegge  
 <https://steve-yegge.medium.com>  
@@ -339,6 +345,12 @@ Benjamin Cane
 <https://bencane.com>  
 <https://github.com/madflojo>  
 <div id="bencane" class="blog-posts"></div>
+
+![icon](../favicons/guiferreira.png)
+Gui Ferreira  
+<https://guiferreira.me/blog/>  
+<https://github.com/gsferreira>  
+<div id="guiferreira" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 

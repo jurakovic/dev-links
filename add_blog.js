@@ -157,7 +157,8 @@ async function addBlog() {
       extras: [],
       github,
       category,
-      icon
+      icon,
+      selected: false
     };
     
     // Read existing blogs
@@ -175,10 +176,11 @@ async function addBlog() {
     blogs.push(newBlog);
     
     // Save updated blogs
-    fs.writeFileSync(blogsPath, JSON.stringify(blogs, null, 2), 'utf8');
+    fs.writeFileSync(blogsPath, JSON.stringify(blogs, null, 4), 'utf8');
+    fs.appendFileSync(blogsPath, '\n', 'utf8'); // Add newline at end of file
     
     console.log('\n✓ Blog added successfully!');
-    console.log(JSON.stringify(newBlog, null, 2));
+    console.log(JSON.stringify(newBlog, null, 4));
     
     process.exit(0);
     

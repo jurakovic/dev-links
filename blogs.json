@@ -343,6 +343,18 @@
         "selected": true
     },
     {
+        "id": "steipete",
+        "author": "Peter Steinberger",
+        "title": "",
+        "url": "https://steipete.me",
+        "feed": "https://steipete.me/rss.xml",
+        "extras": [],
+        "github": "https://github.com/steipete",
+        "category": "ai",
+        "icon": "steipete",
+        "selected": true
+    },
+    {
         "id": "antirez",
         "author": "Salvatore Sanfilippo",
         "title": "antirez",
@@ -798,6 +810,18 @@
         "github": "https://github.com/madflojo",
         "category": "general",
         "icon": "blank",
+        "selected": false
+    },
+    {
+        "id": "guiferreira",
+        "author": "Gui Ferreira",
+        "title": "",
+        "url": "https://guiferreira.me/blog/",
+        "feed": "https://guiferreira.me/feed.xml",
+        "extras": [],
+        "github": "https://github.com/gsferreira",
+        "category": "general",
+        "icon": "guiferreira",
         "selected": false
     }
 ]
