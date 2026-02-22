@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-22 simonwillison</small>  
+<small>[How I think about Codex](https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-21 dbreunig</small>  
 <small>[Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
 <small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
-<small>[ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-20 stackoverflow</small>  
 <small>[Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/)</small>

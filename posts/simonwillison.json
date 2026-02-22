@@ -1,5 +1,10 @@
 [
   {
+    "title": "How I think about Codex",
+    "link": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
+    "pubDate": "2026-02-22T15:53:43+00:00"
+  },
+  {
     "title": "Quoting Thibault Sottiaux",
     "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
     "pubDate": "2026-02-21T01:30:21+00:00"
@@ -18,10 +23,5 @@
     "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
     "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
     "pubDate": "2026-02-20T22:10:04+00:00"
-  },
-  {
-    "title": "ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
-    "link": "https://simonwillison.net/2026/Feb/20/ggmlai-joins-hugging-face/#atom-everything",
-    "pubDate": "2026-02-20T17:12:55+00:00"
   }
 ]
