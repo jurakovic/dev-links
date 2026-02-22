@@ -2,26 +2,26 @@
   {
     "title": "Creating standard and \"observable\" instruments: System.Diagnostics.Metrics APIs - Part 3",
     "link": "https://andrewlock.net/creating-standard-and-observable-instruments/",
-    "pubDate": "Tue, 17 Feb 2026 10:00:00 GMT"
+    "pubDate": "2026-02-17T10:00:00+00:00"
   },
   {
     "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
     "link": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
-    "pubDate": "Tue, 03 Feb 2026 10:00:00 GMT"
+    "pubDate": "2026-02-03T10:00:00+00:00"
   },
   {
     "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1",
     "link": "https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
-    "pubDate": "Tue, 27 Jan 2026 10:00:00 GMT"
+    "pubDate": "2026-01-27T10:00:00+00:00"
   },
   {
     "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
     "link": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
-    "pubDate": "Tue, 20 Jan 2026 10:00:00 GMT"
+    "pubDate": "2026-01-20T10:00:00+00:00"
   },
   {
     "title": "The Windows File Explorer replacement, File Pilot, is awesome",
     "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
-    "pubDate": "Tue, 13 Jan 2026 09:00:00 GMT"
+    "pubDate": "2026-01-13T09:00:00+00:00"
   }
 ]

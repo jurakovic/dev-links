@@ -2,26 +2,26 @@
   {
     "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
     "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
-    "pubDate": "Wed, 28 Jan 2026 17:00:00 +0000"
+    "pubDate": "2026-01-28T17:00:00+00:00"
   },
   {
     "title": "When protections outlive their purpose: A lesson on managing defense systems at scale",
     "link": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
-    "pubDate": "Thu, 15 Jan 2026 20:54:32 +0000"
+    "pubDate": "2026-01-15T20:54:32+00:00"
   },
   {
     "title": "Post-quantum security for SSH access on GitHub",
     "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
-    "pubDate": "Mon, 15 Sep 2025 16:00:00 +0000"
+    "pubDate": "2025-09-15T16:00:00+00:00"
   },
   {
     "title": "How GitHub engineers tackle platform problems",
     "link": "https://github.blog/engineering/infrastructure/how-github-engineers-tackle-platform-problems/",
-    "pubDate": "Tue, 10 Jun 2025 16:00:00 +0000"
+    "pubDate": "2025-06-10T16:00:00+00:00"
   },
   {
     "title": "GitHub Issues search now supports nested queries and boolean operators: Here’s how we (re)built it",
     "link": "https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/",
-    "pubDate": "Tue, 13 May 2025 16:00:00 +0000"
+    "pubDate": "2025-05-13T16:00:00+00:00"
   }
 ]

@@ -2,26 +2,26 @@
   {
     "title": "Too good to be true: an unexpected profiler trap",
     "link": "https://minidump.net/an-unexpected-profiler-trap/",
-    "pubDate": "Fri, 20 Feb 2026 00:00:00 +0000"
+    "pubDate": "2026-02-20T16:36:34+00:00"
   },
   {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-7/",
-    "pubDate": "Tue, 10 Feb 2026 00:00:00 +0000"
+    "pubDate": "2026-02-10T10:53:11+00:00"
   },
   {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
-    "pubDate": "Tue, 27 Jan 2026 00:00:00 +0000"
+    "pubDate": "2026-01-27T10:26:05+00:00"
   },
   {
     "title": "Investigating a deadlock in Visual Studio",
     "link": "https://minidump.net/investigating-a-deadlock-in-visual-studio/",
-    "pubDate": "Wed, 17 Dec 2025 00:00:00 +0000"
+    "pubDate": "2025-12-17T22:10:40+00:00"
   },
   {
     "title": "Using profiler function hooks in .NET with Silhouette",
     "link": "https://minidump.net/using-function-hooks-with-silhouette/",
-    "pubDate": "Tue, 21 Oct 2025 00:00:00 +0000"
+    "pubDate": "2025-10-21T16:13:43+00:00"
   }
 ]

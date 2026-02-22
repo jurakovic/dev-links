@@ -2,26 +2,26 @@
   {
     "title": "Storing information in its highest form",
     "link": "https://enterprisecraftsmanship.com/posts/storing-information-in-its-highest-form/",
-    "pubDate": "Wed, 29 Mar 2023 00:00:00 +0000"
+    "pubDate": "2023-03-29T00:00:00+00:00"
   },
   {
     "title": "Which collection interface to use?",
     "link": "https://enterprisecraftsmanship.com/posts/which-collection-interface-to-use/",
-    "pubDate": "Mon, 23 Jan 2023 00:00:00 +0000"
+    "pubDate": "2023-01-23T00:00:00+00:00"
   },
   {
     "title": "Generic types are for arguments, specific types are for return values",
     "link": "https://enterprisecraftsmanship.com/posts/generic-types-arguments-specific-types-return-values/",
-    "pubDate": "Tue, 25 Oct 2022 00:00:00 +0000"
+    "pubDate": "2022-10-25T00:00:00+00:00"
   },
   {
     "title": "Modeling Relationships in a DDD Way",
     "link": "https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/",
-    "pubDate": "Tue, 19 Apr 2022 00:00:00 +0000"
+    "pubDate": "2022-04-19T00:00:00+00:00"
   },
   {
     "title": "Encapsulating EF Core Usage: New Pluralsight course",
     "link": "https://enterprisecraftsmanship.com/posts/new-course-ef-core-encapsulation/",
-    "pubDate": "Mon, 11 Apr 2022 00:00:00 +0000"
+    "pubDate": "2022-04-11T00:00:00+00:00"
   }
 ]
