@@ -2,26 +2,26 @@
   {
     "title": "Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration",
     "link": "https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/",
-    "pubDate": "Fri, 20 Feb 2026 17:30:27 +0000"
+    "pubDate": "2026-02-20T17:30:27+00:00"
   },
   {
     "title": "Federating Databases with Data API Builder Chaining",
     "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/",
-    "pubDate": "Wed, 18 Feb 2026 17:00:17 +0000"
+    "pubDate": "2026-02-18T17:00:17+00:00"
   },
   {
     "title": "Dear Copilot, can you help me with SQL?",
     "link": "https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/",
-    "pubDate": "Tue, 17 Feb 2026 17:00:59 +0000"
+    "pubDate": "2026-02-17T17:00:59+00:00"
   },
   {
     "title": "Build Intelligent Apps with SQL: Join the SQL + AI Datathon",
     "link": "https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/",
-    "pubDate": "Thu, 12 Feb 2026 17:35:41 +0000"
+    "pubDate": "2026-02-12T17:35:41+00:00"
   },
   {
     "title": "Time Travel in Azure SQL with Temporal Tables",
     "link": "https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables/",
-    "pubDate": "Mon, 09 Feb 2026 17:34:56 +0000"
+    "pubDate": "2026-02-09T17:34:56+00:00"
   }
 ]
