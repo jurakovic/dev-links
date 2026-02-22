@@ -1,4 +1,93 @@
 #!/usr/bin/env node
+//
+// fix_midnight.js — One-time backfill script for normalizing pubDates in posts/*.json
+//
+// PROBLEM
+// -------
+// Some RSS/Atom feeds publish only a date with no time component. The raw feed value
+// looks like one of these:
+//
+//   "2023-01-13T00:00:00+00:00"       (ISO 8601, date-only expressed as midnight UTC)
+//   "Sun, 15 Feb 2026 00:00:00 +0000" (RFC 2822, same)
+//   "Tue, 10 Feb 2026 00:00:00 GMT"   (RFC 2822 variant)
+//
+// All share the same symptom: time is exactly 00:00:00. Because posts are sorted by
+// pubDate descending in gen_news.js, date-only posts from the same day all collapse
+// to the same instant (midnight), making their relative order arbitrary and unstable
+// across runs.
+//
+// Additionally, pubDates arrive from feeds in mixed formats (ISO 8601, RFC 2822, with
+// varying timezone offsets). Normalizing everything to ISO 8601 UTC makes sorting
+// consistent and unambiguous.
+//
+// HOW IT WORKS
+// ------------
+// The script processes every posts/*.json file line by line, finds "pubDate" fields,
+// and applies one of two strategies depending on whether the time is midnight:
+//
+// 1. NON-MIDNIGHT dates
+//    Parsed with new Date() and reformatted to ISO 8601 UTC via toISO(). This
+//    normalizes format without changing the represented instant in time.
+//    Example: "Sat, 31 Jan 2026 10:25:27 +0100" → "2026-01-31T09:25:27+00:00"
+//
+// 2. MIDNIGHT dates (00:00:00)
+//    These need special handling because midnight is ambiguous — it may mean:
+//      a) The post was genuinely published on that date and the feed just omits time.
+//      b) A new feed was added and all its historical posts were committed at once,
+//         making the commit timestamp meaningless for older posts.
+//
+//    The script resolves this using `git blame --line-porcelain` on the exact line
+//    containing the pubDate. This gives the Unix timestamp of the commit that last
+//    wrote that line (author-time). The decision logic:
+//
+//    - If pubDate date part == commit date part (same calendar day in UTC):
+//        The post was committed on the same day it was published. The commit time
+//        is a reasonable approximation of the actual publish time.
+//        → Replace midnight with the commit timestamp.
+//        Example: "Sun, 15 Feb 2026 00:00:00 +0000" committed on 2026-02-15
+//                 → "2026-02-15T14:32:10+00:00"
+//
+//    - If pubDate date part != commit date part (post is older than the commit):
+//        The post was added in a bulk import or the feed was added later. Using
+//        the commit timestamp would assign a completely wrong date.
+//        → Normalize format only, keep midnight.
+//        Example: "Fri, 13 Jan 2023 00:00:00 +0000" committed on 2026-02-22
+//                 → "2023-01-13T00:00:00+00:00"
+//
+// MIDNIGHT DETECTION
+// ------------------
+// The regex /00:00:00/ matches the time component in both ISO 8601 and RFC 2822
+// formats. It assumes that a feed publishing at exactly midnight UTC is actually
+// omitting the time — a safe assumption in practice since real publish timestamps
+// at precisely midnight are extremely rare.
+//
+// GIT BLAME APPROACH
+// ------------------
+// `git blame --line-porcelain -L N,N -- path` returns structured output for a
+// single line including:
+//   author-time <unix_seconds>   ← when the author made the change
+//   author-tz   <±HHMM>         ← author's timezone (not used; we work in UTC)
+//
+// Lines with a zero hash (0000000000000000...) indicate uncommitted changes.
+// Those are skipped and only format-normalized.
+//
+// WHEN TO RUN
+// -----------
+// This is a one-time (or occasional) backfill script, not part of the regular
+// update pipeline. Run it manually after:
+//   - Adding new blog feeds (to normalize historical posts)
+//   - Discovering that existing pubDates are in raw feed format rather than ISO UTC
+//
+// After this script runs, fix_post_times.js (called by update_posts.sh on every
+// update) takes over and keeps new posts normalized going forward.
+//
+// USAGE
+//   node fix_midnight.js
+//
+// OUTPUT
+//   Prints each changed line with before/after values, then a total count.
+//   Only files with actual changes are written.
+//
 
 const fs = require('fs');
 const path = require('path');
