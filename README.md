@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
+<small>[Insider amnesia](https://seangoedecke.com/insider-amnesia/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-23 steven-giesel</small>  
+<small>[Being stupid is fun: Let's create long exception messages!](https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-22 simonwillison</small>  
+<small>[The Claude C Compiler: What It Reveals About the Future of Software](https://simonwillison.net/2026/Feb/22/ccc/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-22 simonwillison</small>  
+<small>[London Stock Exchange: Raspberry Pi Holdings plc](https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-22 simonwillison</small>  
 <small>[How I think about Codex](https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything)</small>
 
@@ -15,12 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
 <small>[Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
-<small>[Adding TILs, releases, museums, tools and research to my blog](https://simonwillison.net/2026/Feb/20/beats/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
-<small>[Taalas serves Llama 3.1 8B at 17,000 tokens/second](https://simonwillison.net/2026/Feb/20/taalas/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
 <small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
@@ -244,9 +250,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-05 addyosmani</small>  
 <small>[Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-05 seangoedecke</small>  
-<small>[Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
 <small>[Lesson 216 - Creating Scalable Systems (February 2, 2026)](http://www.developertoarchitect.com/lessons/lesson216.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-30 microservices</small>  
-<small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
 

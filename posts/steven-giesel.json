@@ -1,5 +1,10 @@
 [
   {
+    "title": "Being stupid is fun: Let's create long exception messages!",
+    "link": "https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93",
+    "pubDate": "2026-02-23T05:01:00+00:00"
+  },
+  {
     "title": "New runtime async is hitting .NET 11 - Part 1",
     "link": "https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674",
     "pubDate": "2026-02-15T13:00:22+00:00"
@@ -18,10 +23,5 @@
     "title": "Sometimes you just need extensions methods to model your stuff",
     "link": "https://steven-giesel.com/blogPost/7f6e2ade-b5b9-4de6-a060-281e45b2448e",
     "pubDate": "2026-01-25T17:28:49+00:00"
-  },
-  {
-    "title": "Collection Expression Arguments in C# 15+",
-    "link": "https://steven-giesel.com/blogPost/352fe495-9cc4-4df8-8ad1-a3e26a64185c",
-    "pubDate": "2026-01-12T05:54:00+00:00"
   }
 ]
