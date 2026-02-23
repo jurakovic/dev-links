@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
+<small>[Red/green TDD](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-23 bartwullems</small>  
+<small>[How to work with OneLake files locally using Python](https://bartwullems.blogspot.com/2026/02/how-to-work-with-onelake-files-locally.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
 <small>[Insider amnesia](https://seangoedecke.com/insider-amnesia/)</small>
 
@@ -24,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
 <small>[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
-<small>[Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
 <small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
 <small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-16 bartwullems</small>  
-<small>[ActionFlix Because even rom-coms deserve an explosion](https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
 <small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
