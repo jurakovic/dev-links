@@ -1,5 +1,15 @@
 [
   {
+    "title": "Ladybird adopts Rust, with help from AI",
+    "link": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything",
+    "pubDate": "2026-02-23T18:52:53+00:00"
+  },
+  {
+    "title": "Writing about Agentic Engineering Patterns",
+    "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything",
+    "pubDate": "2026-02-23T17:43:02+00:00"
+  },
+  {
     "title": "Writing code is cheap now",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything",
     "pubDate": "2026-02-23T16:20:42+00:00"
@@ -13,15 +23,5 @@
     "title": "Reply guy",
     "link": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything",
     "pubDate": "2026-02-23T13:11:57+00:00"
-  },
-  {
-    "title": "Quoting Summer Yue",
-    "link": "https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything",
-    "pubDate": "2026-02-23T13:01:13+00:00"
-  },
-  {
-    "title": "Red/green TDD",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
-    "pubDate": "2026-02-23T07:12:28+00:00"
   }
 ]

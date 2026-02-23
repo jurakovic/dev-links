@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
+<small>[What's so hard about continuous learning?](https://seangoedecke.com/continuous-learning/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
+<small>[Ladybird adopts Rust, with help from AI](https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-23 netflix</small>  
+<small>[MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
+<small>[Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-02-23 hillelwayne</small>  
 <small>[Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)</small>
 
@@ -22,14 +34,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
 <small>[Reply guy](https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Quoting Summer Yue](https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-23 martinfowler</small>  
 <small>[Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Red/green TDD](https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-23 bartwullems</small>  
 <small>[How to work with OneLake files locally using Python](https://bartwullems.blogspot.com/2026/02/how-to-work-with-onelake-files-locally.html)</small>
@@ -217,9 +223,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-08 microservices</small>  
 <small>[GenAI-based software delivery needs a fast flow architecture](http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-08 seangoedecke</small>  
-<small>[Large tech companies don't need heroes](https://seangoedecke.com/heroism/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-02-08 third-bit</small>  
 <small>[104 Days](https://third-bit.com/2026/02/08/104-days/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-01-31 swizec</small>  
 <small>[How you migrate is everything](https://swizec.com/blog/how-you-migrate-is-everything/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
-<small>[Lesson 218 - Thread Delegate Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson218.html)</small>
 
