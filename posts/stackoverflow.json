@@ -1,5 +1,10 @@
 [
   {
+    "title": "Defense against uploads: Q&A with OSS file scanner, pompelmi",
+    "link": "https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/",
+    "pubDate": "2026-02-23T15:00:00+00:00"
+  },
+  {
     "title": "Even GenAI uses Wikipedia as a source",
     "link": "https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/",
     "pubDate": "2026-02-20T08:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Data is the new oil, and your database is the only way to extract it",
     "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
     "pubDate": "2026-02-17T08:40:00+00:00"
-  },
-  {
-    "title": "Even your voice is a data problem",
-    "link": "https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/",
-    "pubDate": "2026-02-13T17:00:00+00:00"
   }
 ]

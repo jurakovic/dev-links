@@ -1,27 +1,27 @@
 [
   {
+    "title": "Writing code is cheap now",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything",
+    "pubDate": "2026-02-23T16:20:42+00:00"
+  },
+  {
+    "title": "Quoting Paul Ford",
+    "link": "https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything",
+    "pubDate": "2026-02-23T16:00:32+00:00"
+  },
+  {
+    "title": "Reply guy",
+    "link": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything",
+    "pubDate": "2026-02-23T13:11:57+00:00"
+  },
+  {
+    "title": "Quoting Summer Yue",
+    "link": "https://simonwillison.net/2026/Feb/23/summer-yue/#atom-everything",
+    "pubDate": "2026-02-23T13:01:13+00:00"
+  },
+  {
     "title": "Red/green TDD",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/#atom-everything",
     "pubDate": "2026-02-23T07:12:28+00:00"
-  },
-  {
-    "title": "The Claude C Compiler: What It Reveals About the Future of Software",
-    "link": "https://simonwillison.net/2026/Feb/22/ccc/#atom-everything",
-    "pubDate": "2026-02-22T23:58:43+00:00"
-  },
-  {
-    "title": "London Stock Exchange: Raspberry Pi Holdings plc",
-    "link": "https://simonwillison.net/2026/Feb/22/raspberry-pi-openclaw/#atom-everything",
-    "pubDate": "2026-02-22T23:54:39+00:00"
-  },
-  {
-    "title": "How I think about Codex",
-    "link": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
-    "pubDate": "2026-02-22T15:53:43+00:00"
-  },
-  {
-    "title": "Quoting Thibault Sottiaux",
-    "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
-    "pubDate": "2026-02-21T01:30:21+00:00"
   }
 ]
