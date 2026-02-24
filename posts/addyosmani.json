@@ -1,5 +1,10 @@
 [
   {
+    "title": "Stop Using /init for AGENTS.md",
+    "link": "https://addyosmani.com/blog/agents-md/",
+    "pubDate": "2026-02-23T00:00:00+00:00"
+  },
+  {
     "title": "Bias Toward Action",
     "link": "https://addyosmani.com/blog/bias-towards-action/",
     "pubDate": "2026-02-15T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agentic Engineering",
     "link": "https://addyosmani.com/blog/agentic-engineering/",
     "pubDate": "2026-02-04T00:00:00+00:00"
-  },
-  {
-    "title": "Self-Improving Coding Agents",
-    "link": "https://addyosmani.com/blog/self-improving-agents/",
-    "pubDate": "2026-01-31T00:00:00+00:00"
   }
 ]

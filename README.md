@@ -46,6 +46,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-23 steven-giesel</small>  
 <small>[Being stupid is fun: Let's create long exception messages!](https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-23 addyosmani</small>  
+<small>[Stop Using /init for AGENTS.md](https://addyosmani.com/blog/agents-md/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-21 dbreunig</small>  
 <small>[Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)</small>
 
@@ -297,9 +300,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-01-31 addyosmani</small>  
-<small>[Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-01-31 swizec</small>  
 <small>[How you migrate is everything](https://swizec.com/blog/how-you-migrate-is-everything/)</small>
