@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-24 simonwillison</small>  
+<small>[go-size-analyzer](https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-24 martinfowler</small>  
+<small>[Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-24 simonwillison</small>  
+<small>[First run the tests](https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-24 andrewlock</small>  
 <small>[Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/)</small>
 
@@ -31,17 +40,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
 <small>[Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Quoting Paul Ford](https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-23 techtrenches</small>  
 <small>[AI Agent Platforms: The Security Nightmare Nobody’s Talking About](https://techtrenches.dev/p/ai-agent-platforms-the-security-nightmare)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-23 stackoverflow</small>  
 <small>[Defense against uploads: Q&A with OSS file scanner, pompelmi](https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Reply guy](https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-23 martinfowler</small>  
 <small>[Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html)</small>
@@ -111,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
 <small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-17 martinfowler</small>  
-<small>[Bliki: Agentic Email](https://martinfowler.com/bliki/AgenticEmail.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
 <small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>

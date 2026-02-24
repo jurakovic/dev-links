@@ -1,5 +1,15 @@
 [
   {
+    "title": "go-size-analyzer",
+    "link": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything",
+    "pubDate": "2026-02-24T16:10:06+00:00"
+  },
+  {
+    "title": "First run the tests",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything",
+    "pubDate": "2026-02-24T12:30:05+00:00"
+  },
+  {
     "title": "Ladybird adopts Rust, with help from AI",
     "link": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything",
     "pubDate": "2026-02-23T18:52:53+00:00"
@@ -13,15 +23,5 @@
     "title": "Writing code is cheap now",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything",
     "pubDate": "2026-02-23T16:20:42+00:00"
-  },
-  {
-    "title": "Quoting Paul Ford",
-    "link": "https://simonwillison.net/2026/Feb/23/paul-ford/#atom-everything",
-    "pubDate": "2026-02-23T16:00:32+00:00"
-  },
-  {
-    "title": "Reply guy",
-    "link": "https://simonwillison.net/2026/Feb/23/reply-guy/#atom-everything",
-    "pubDate": "2026-02-23T13:11:57+00:00"
   }
 ]
