@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dogfood so nutritious it’s building the future of SDLCs",
+    "link": "https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/",
+    "pubDate": "2026-02-24T08:40:00+00:00"
+  },
+  {
     "title": "Defense against uploads: Q&A with OSS file scanner, pompelmi",
     "link": "https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/",
     "pubDate": "2026-02-23T15:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Mind the gap: Closing the AI trust gap for developers",
     "link": "https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/",
     "pubDate": "2026-02-18T17:00:00+00:00"
-  },
-  {
-    "title": "Data is the new oil, and your database is the only way to extract it",
-    "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
-    "pubDate": "2026-02-17T08:40:00+00:00"
   }
 ]

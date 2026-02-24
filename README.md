@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-24 andrewlock</small>  
+<small>[Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-24 stackoverflow</small>  
+<small>[Dogfood so nutritious it’s building the future of SDLCs](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-24 bartwullems</small>  
+<small>[Run SQL queries on local parquet and delta files using DuckDB](https://bartwullems.blogspot.com/2026/02/run-sql-queries-on-local-parquet-and.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
 <small>[What's so hard about continuous learning?](https://seangoedecke.com/continuous-learning/)</small>
 
@@ -111,12 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-17 andrewlock</small>  
 <small>[Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3](https://andrewlock.net/creating-standard-and-observable-instruments/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-17 stackoverflow</small>  
-<small>[Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-17 bartwullems</small>  
-<small>[I didn't notice this VS Code feature until it made me question how I code](https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-17 seangoedecke</small>  
 <small>[LLM-generated skills work, if you generate them afterwards](https://seangoedecke.com/generate-skills-afterwards/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-01-31 antirez</small>  
 <small>[Automatic programming](http://antirez.com/news/159)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-01-31 swizec</small>  
-<small>[How you migrate is everything](https://swizec.com/blog/how-you-migrate-is-everything/)</small>
 

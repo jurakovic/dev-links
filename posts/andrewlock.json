@@ -1,5 +1,10 @@
 [
   {
+    "title": "Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4",
+    "link": "https://andrewlock.net/recording-metrics-in-process-using-meterlistener/",
+    "pubDate": "2026-02-24T10:00:00+00:00"
+  },
+  {
     "title": "Creating standard and \"observable\" instruments: System.Diagnostics.Metrics APIs - Part 3",
     "link": "https://andrewlock.net/creating-standard-and-observable-instruments/",
     "pubDate": "2026-02-17T10:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
     "link": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
     "pubDate": "2026-01-20T10:00:00+00:00"
-  },
-  {
-    "title": "The Windows File Explorer replacement, File Pilot, is awesome",
-    "link": "https://andrewlock.net/windows-explorer-replacement-filepilot-is-awesome/",
-    "pubDate": "2026-01-13T09:00:00+00:00"
   }
 ]
