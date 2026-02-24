@@ -1,5 +1,10 @@
 [
   {
+    "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+    "link": "http://antirez.com/news/160",
+    "pubDate": "2026-02-24T17:58:02+00:00"
+  },
+  {
     "title": "Automatic programming",
     "link": "http://antirez.com/news/159",
     "pubDate": "2026-01-31T09:25:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Scaling HNSWs",
     "link": "http://antirez.com/news/156",
     "pubDate": "2025-11-11T12:53:38+00:00"
-  },
-  {
-    "title": "AI is different",
-    "link": "http://antirez.com/news/155",
-    "pubDate": "2025-08-13T15:59:56+00:00"
   }
 ]

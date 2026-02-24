@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio February Update",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/",
+    "pubDate": "2026-02-24T22:16:30+00:00"
+  },
+  {
     "title": "Custom Agents in Visual Studio: Built in and Build-Your-Own agents",
     "link": "https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/",
     "pubDate": "2026-02-19T21:02:13+00:00"
@@ -18,10 +23,5 @@
     "title": "Performance improvements to MEF-based editor productivity extensions",
     "link": "https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/",
     "pubDate": "2026-02-03T15:00:21+00:00"
-  },
-  {
-    "title": "Visual Studio January Update — Enhanced Editor Experience",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-january-update-enhanced-editor-experience/",
-    "pubDate": "2026-01-27T18:30:12+00:00"
   }
 ]
