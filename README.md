@@ -4,8 +4,17 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
-<small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
+<small>[WinForms Gets Some AI Love in Visual Studio February Update](https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
+<small>[tldraw issue: Move tests to closed source repo](https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
+<small>[VS Code v1.110 Insiders: AI Agents Gain Native Browser Access and Global Instructions](https://visualstudiomagazine.com/Articles/2026/02/25/VS-Code-v1-110-Insiders-AI-Agents-Gain-Native-Browser-Access-and-Global-Instruction.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
+<small>[Claude Code Remote Control](https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
 <small>[I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything)</small>
@@ -37,14 +46,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 antirez</small>  
 <small>[Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code](http://antirez.com/news/160)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-24 simonwillison</small>  
-<small>[go-size-analyzer](https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-24 martinfowler</small>  
 <small>[Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-24 simonwillison</small>  
-<small>[First run the tests](https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-24 andrewlock</small>  
 <small>[Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/)</small>
@@ -229,6 +232,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-09 dbreunig</small>  
 <small>[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-09 azure-sql</small>  
+<small>[Time Travel in Azure SQL with Temporal Tables](https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-09 techtrenches</small>  
 <small>[Big Tech’s $364B Hypothesis Meets the $650B Reality](https://techtrenches.dev/p/big-techs-364b-hypothesis-meets-the)</small>
 
@@ -295,12 +301,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-04 swizec</small>  
 <small>[In praise of the stacked pull request](https://swizec.com/blog/in-praise-of-the-stacked-pull-request/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-03 visualstudiomagazine</small>  
-<small>[VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks](https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-03 visualstudio</small>  
 <small>[Performance improvements to MEF-based editor productivity extensions](https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-03 andrewlock</small>  
-<small>[Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/)</small>
 

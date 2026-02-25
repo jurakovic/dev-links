@@ -1,5 +1,15 @@
 [
   {
+    "title": "WinForms Gets Some AI Love in Visual Studio February Update",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx",
+    "pubDate": "2026-02-25T22:10:00+00:00"
+  },
+  {
+    "title": "VS Code v1.110 Insiders: AI Agents Gain Native Browser Access and Global Instructions",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/25/VS-Code-v1-110-Insiders-AI-Agents-Gain-Native-Browser-Access-and-Global-Instruction.aspx",
+    "pubDate": "2026-02-25T19:54:00+00:00"
+  },
+  {
     "title": "Devs Diss Visual Studio's AI",
     "link": "https://visualstudiomagazine.com/Articles/2026/02/24/Devs-Diss-Visual-Studios-AI.aspx",
     "pubDate": "2026-02-24T23:05:00+00:00"
@@ -13,15 +23,5 @@
     "title": "VS Code 1.109 Deemed a Multi-Agent Development Platform",
     "link": "https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx",
     "pubDate": "2026-02-05T22:30:00+00:00"
-  },
-  {
-    "title": "VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks",
-    "link": "https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx",
-    "pubDate": "2026-02-03T22:54:00+00:00"
-  },
-  {
-    "title": "Copilot Studio Extension for VS Code Goes GA",
-    "link": "https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx",
-    "pubDate": "2026-01-22T22:38:00+00:00"
   }
 ]
