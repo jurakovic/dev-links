@@ -1,5 +1,10 @@
 [
   {
+    "title": "Devs Diss Visual Studio's AI",
+    "link": "https://visualstudiomagazine.com/Articles/2026/02/24/Devs-Diss-Visual-Studios-AI.aspx",
+    "pubDate": "2026-02-24T23:05:00+00:00"
+  },
+  {
     "title": "Devs Souring on .NET 11?",
     "link": "https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx",
     "pubDate": "2026-02-11T19:20:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Copilot Studio Extension for VS Code Goes GA",
     "link": "https://visualstudiomagazine.com/Articles/2026/01/22/Copilot-Studio-Extension-for-VS-Code-Goes-GA.aspx",
     "pubDate": "2026-01-22T22:38:00+00:00"
-  },
-  {
-    "title": "Microsoft Expands Quantum Development Kit with New Open-Source Tools, VS Code Integration",
-    "link": "https://visualstudiomagazine.com/Articles/2026/01/22/Microsoft-Expands-Quantum-Development-Kit-with-New-Open-Source-Tools-VS-Code-Integration.aspx",
-    "pubDate": "2026-01-22T17:39:00+00:00"
   }
 ]

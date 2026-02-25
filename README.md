@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
+<small>[Quoting Kellan Elliott-McCrea](https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
+<small>[Linear walkthroughs](https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-24 visualstudiomagazine</small>  
+<small>[Devs Diss Visual Studio's AI](https://visualstudiomagazine.com/Articles/2026/02/24/Devs-Diss-Visual-Studios-AI.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-24 dotnet</small>  
+<small>[The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-24 visualstudio</small>  
 <small>[Visual Studio February Update](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/)</small>
 
@@ -25,6 +37,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-24 stackoverflow</small>  
 <small>[Dogfood so nutritious it’s building the future of SDLCs](https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 microservices</small>  
+<small>[Microservices Platforms - part 5: Observability platform](http://microservices.io//post/architecture/2026/02/24/qconsf-microservices-platforms-part-5.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-24 bartwullems</small>  
 <small>[Run SQL queries on local parquet and delta files using DuckDB](https://bartwullems.blogspot.com/2026/02/run-sql-queries-on-local-parquet-and.html)</small>
 
@@ -37,14 +52,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-23 netflix</small>  
 <small>[MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix](https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Writing about Agentic Engineering Patterns](https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-02-23 hillelwayne</small>  
 <small>[Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-23 simonwillison</small>  
-<small>[Writing code is cheap now](https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-23 techtrenches</small>  
 <small>[AI Agent Platforms: The Security Nightmare Nobody’s Talking About](https://techtrenches.dev/p/ai-agent-platforms-the-security-nightmare)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-03 andrewlock</small>  
 <small>[Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/guiferreira.png) <small>2026-02-03 guiferreira</small>  
-<small>[Understanding Hexagonal Architecture - A Guide to Ports and Adapters](https://guiferreira.me/archive/2026/understanding-hexagonal-architecture-a-guide-to-ports-and-adapters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-02 techtrenches</small>  
-<small>[When Capex Beats Headcount: What Amazon’s Layoffs Actually Mean](https://techtrenches.dev/p/when-capex-beats-headcount-what-amazons)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-02-02 terriblesoftware</small>  
-<small>[Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/)</small>
 

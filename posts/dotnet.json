@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip",
+    "link": "https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/",
+    "pubDate": "2026-02-24T23:00:00+00:00"
+  },
+  {
     "title": "GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026",
     "link": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/",
     "pubDate": "2026-02-11T18:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
     "pubDate": "2026-02-05T18:00:00+00:00"
-  },
-  {
-    "title": ".NET AI Essentials – The Core Building Blocks Explained",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/",
-    "pubDate": "2026-01-28T17:30:00+00:00"
   }
 ]

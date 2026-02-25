@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microservices Platforms - part 5: Observability platform",
+    "link": "http://microservices.io//post/architecture/2026/02/24/qconsf-microservices-platforms-part-5.html",
+    "pubDate": "2026-02-24T08:03:00+00:00"
+  },
+  {
     "title": "Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization",
     "link": "http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html",
     "pubDate": "2026-02-13T08:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "QCONSF Microservices Platforms part 3: Security platform",
     "link": "http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html",
     "pubDate": "2026-01-30T08:01:00+00:00"
-  },
-  {
-    "title": "My GenAI development workflow: Idea to Code",
-    "link": "http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html",
-    "pubDate": "2026-01-29T08:03:00+00:00"
   }
 ]

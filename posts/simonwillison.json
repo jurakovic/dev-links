@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Kellan Elliott-McCrea",
+    "link": "https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything",
+    "pubDate": "2026-02-25T03:30:32+00:00"
+  },
+  {
+    "title": "Linear walkthroughs",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/linear-walkthroughs/#atom-everything",
+    "pubDate": "2026-02-25T01:07:10+00:00"
+  },
+  {
     "title": "go-size-analyzer",
     "link": "https://simonwillison.net/2026/Feb/24/go-size-analyzer/#atom-everything",
     "pubDate": "2026-02-24T16:10:06+00:00"
@@ -13,15 +23,5 @@
     "title": "Ladybird adopts Rust, with help from AI",
     "link": "https://simonwillison.net/2026/Feb/23/ladybird-adopts-rust/#atom-everything",
     "pubDate": "2026-02-23T18:52:53+00:00"
-  },
-  {
-    "title": "Writing about Agentic Engineering Patterns",
-    "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/#atom-everything",
-    "pubDate": "2026-02-23T17:43:02+00:00"
-  },
-  {
-    "title": "Writing code is cheap now",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/#atom-everything",
-    "pubDate": "2026-02-23T16:20:42+00:00"
   }
 ]
