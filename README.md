@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-25 bartwullems</small>  
+<small>[Cleaner switch expressions with pattern matching in C#](https://bartwullems.blogspot.com/2026/02/cleaner-switch-expressions-with-pattern.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
 <small>[Quoting Kellan Elliott-McCrea](https://simonwillison.net/2026/Feb/25/kellan-elliott-mccrea/#atom-everything)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-18 tidyfirst</small>  
 <small>[Earn \*And\* Learn](https://tidyfirst.substack.com/p/earn-and-learn)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-18 bartwullems</small>  
-<small>[How I built a custom agent skill to configure Application Insights](https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
 <small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
