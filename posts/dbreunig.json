@@ -1,5 +1,10 @@
 [
   {
+    "title": "Two Beliefs About Coding Agents",
+    "link": "https://www.dbreunig.com/2026/02/25/two-things-i-believe-about-coding-agents.html",
+    "pubDate": "2026-02-25T22:12:00+00:00"
+  },
+  {
     "title": "Why is Claude an Electron App?",
     "link": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
     "pubDate": "2026-02-21T18:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The Rise of Spec Driven Development",
     "link": "https://www.dbreunig.com/2026/02/06/the-rise-of-spec-driven-development.html",
     "pubDate": "2026-02-06T16:22:00+00:00"
-  },
-  {
-    "title": "A Software Library with No Code",
-    "link": "https://www.dbreunig.com/2026/01/08/a-software-library-with-no-code.html",
-    "pubDate": "2026-01-08T22:59:00+00:00"
   }
 ]
