@@ -1,5 +1,10 @@
 [
   {
+    "title": "You can have 100% Code Coverage and still have ticking time bombs in your code. 💣",
+    "link": "https://bencane.com/posts/2026-02-26/",
+    "pubDate": "2026-02-27T00:00:00+00:00"
+  },
+  {
     "title": "Getting More Out of Agentic Coding Tools",
     "link": "https://bencane.com/posts/2026-02-19/",
     "pubDate": "2026-02-20T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "I follow an architecture principle I call The Law of Collective Amnesia",
     "link": "https://bencane.com/posts/2026-01-29/",
     "pubDate": "2026-01-30T00:00:00+00:00"
-  },
-  {
-    "title": "Performance testing without a target is like running a race with no finish line",
-    "link": "https://bencane.com/posts/2026-01-22/",
-    "pubDate": "2026-01-23T00:00:00+00:00"
   }
 ]
