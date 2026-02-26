@@ -1,5 +1,10 @@
 [
   {
+    "title": "Vector Data in .NET – Building Blocks for AI Part 2",
+    "link": "https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/",
+    "pubDate": "2026-02-26T18:00:00+00:00"
+  },
+  {
     "title": "The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip",
     "link": "https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/",
     "pubDate": "2026-02-24T23:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET and .NET Framework February 2026 servicing releases updates",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/",
     "pubDate": "2026-02-10T19:00:00+00:00"
-  },
-  {
-    "title": ".NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/",
-    "pubDate": "2026-02-05T18:00:00+00:00"
   }
 ]

@@ -7,6 +7,15 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-27 bencane</small>  
 <small>[You can have 100% Code Coverage and still have ticking time bombs in your code. 💣](https://bencane.com/posts/2026-02-26/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-26 simonwillison</small>  
+<small>[Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-26 simonwillison</small>  
+<small>[Quoting Andrej Karpathy](https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-26 dotnet</small>  
+<small>[Vector Data in .NET – Building Blocks for AI Part 2](https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-26 stackoverflow</small>  
 <small>[Beyond block or allow: How pay-per-crawl is reshaping public data monetization](https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/)</small>
 
@@ -34,14 +43,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
 <small>[VS Code v1.110 Insiders: AI Agents Gain Native Browser Access and Global Instructions](https://visualstudiomagazine.com/Articles/2026/02/25/VS-Code-v1-110-Insiders-AI-Agents-Gain-Native-Browser-Access-and-Global-Instruction.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
-<small>[Claude Code Remote Control](https://simonwillison.net/2026/Feb/25/claude-code-remote-control/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
-<small>[I vibe coded my dream macOS presentation app](https://simonwillison.net/2026/Feb/25/present/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-25 stackoverflow</small>  
 <small>[Your sneak peek at the redesigned Stack Overflow](https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/)</small>
@@ -282,9 +285,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-05 visualstudiomagazine</small>  
 <small>[VS Code 1.109 Deemed a Multi-Agent Development Platform](https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-05 dotnet</small>  
-<small>[.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-02-05 lethain</small>  
 <small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
