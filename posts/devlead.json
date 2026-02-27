@@ -1,5 +1,10 @@
 [
   {
+    "title": "Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk",
+    "link": "https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps",
+    "pubDate": "2026-02-26T00:00:00+00:00"
+  },
+  {
     "title": "Migrating to Cake.Sdk",
     "link": "https://www.devlead.se/posts/2025/2025-07-28-migrating-to-cake-sdk",
     "pubDate": "2025-07-28T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "SLNX Finally here📄",
     "link": "https://www.devlead.se/posts/2025/2025-02-24-slnx-finally-here",
     "pubDate": "2025-02-24T00:00:00+00:00"
-  },
-  {
-    "title": "Long paths in Git on Windows",
-    "link": "https://www.devlead.se/posts/2025/2025-02-19-git-windows-long-paths",
-    "pubDate": "2025-02-19T00:00:00+00:00"
   }
 ]

@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-27 bencane</small>  
 <small>[You can have 100% Code Coverage and still have ticking time bombs in your code. 💣](https://bencane.com/posts/2026-02-26/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-02-26 rickstrahl</small>  
+<small>[Don't use the Microsoft Timestamp Server for Signing](https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-26 simonwillison</small>  
 <small>[Hoard things you know how to do](https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything)</small>
 
@@ -30,6 +33,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-26 azure-sql</small>  
 <small>[The Polyglot Tax](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-02-26 devlead</small>  
+<small>[Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk](https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-25 dbreunig</small>  
 <small>[Two Beliefs About Coding Agents](https://www.dbreunig.com/2026/02/25/two-things-i-believe-about-coding-agents.html)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
 <small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
-<small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-04 hanselman</small>  
-<small>[The danger of glamourizing one shots](https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots)</small>
 
