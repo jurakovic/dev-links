@@ -1,5 +1,10 @@
 [
   {
+    "title": "To live in an AI world, knowing is half the battle",
+    "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
+    "pubDate": "2026-02-27T08:40:00+00:00"
+  },
+  {
     "title": "Beyond block or allow: How pay-per-crawl is reshaping public data monetization",
     "link": "https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/",
     "pubDate": "2026-02-26T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Defense against uploads: Q&A with OSS file scanner, pompelmi",
     "link": "https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/",
     "pubDate": "2026-02-23T15:00:00+00:00"
-  },
-  {
-    "title": "Even GenAI uses Wikipedia as a source",
-    "link": "https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/",
-    "pubDate": "2026-02-20T08:40:00+00:00"
   }
 ]

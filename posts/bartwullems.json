@@ -1,5 +1,10 @@
 [
   {
+    "title": "Community is a verb",
+    "link": "https://bartwullems.blogspot.com/2026/02/community-is-verb.html",
+    "pubDate": "2026-02-27T06:46:00+00:00"
+  },
+  {
     "title": "Python vs PySpark notebooks in MS Fabric",
     "link": "https://bartwullems.blogspot.com/2026/02/python-vs-pyspark-notebooks-in-ms-fabric.html",
     "pubDate": "2026-02-26T06:09:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How to work with OneLake files locally using Python",
     "link": "https://bartwullems.blogspot.com/2026/02/how-to-work-with-onelake-files-locally.html",
     "pubDate": "2026-02-23T06:29:00+00:00"
-  },
-  {
-    "title": "Accessing Microsoft Fabric data locally with OneLake file explorer",
-    "link": "https://bartwullems.blogspot.com/2026/02/accessing-microsoft-fabric-data-locally.html",
-    "pubDate": "2026-02-20T06:11:00+00:00"
   }
 ]
