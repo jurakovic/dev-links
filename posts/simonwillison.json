@@ -1,5 +1,10 @@
 [
   {
+    "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
+    "link": "https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything",
+    "pubDate": "2026-02-27T20:43:41+00:00"
+  },
+  {
     "title": "Free Claude Max for (large project) open source maintainers",
     "link": "https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything",
     "pubDate": "2026-02-27T18:08:22+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything",
     "pubDate": "2026-02-26T19:03:27+00:00"
-  },
-  {
-    "title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules.",
-    "link": "https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything",
-    "pubDate": "2026-02-26T04:28:55+00:00"
   }
 ]
