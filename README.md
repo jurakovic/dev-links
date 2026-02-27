@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-27 simonwillison</small>  
+<small>[Free Claude Max for (large project) open source maintainers](https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-27 simonwillison</small>  
+<small>[Unicode Explorer using binary search over fetch() HTTP range requests](https://simonwillison.net/2026/Feb/27/unicode-explorer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-27 stackoverflow</small>  
 <small>[To live in an AI world, knowing is half the battle](https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/)</small>
 
@@ -34,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-26 simonwillison</small>  
 <small>[Google API Keys Weren't Secrets. But then Gemini Changed the Rules.](https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-26 simonwillison</small>  
-<small>[Quoting Benedict Evans](https://simonwillison.net/2026/Feb/26/benedict-evans/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-26 azure-sql</small>  
 <small>[The Polyglot Tax](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax/)</small>
 
@@ -48,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
 <small>[WinForms Gets Some AI Love in Visual Studio February Update](https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-25 simonwillison</small>  
-<small>[tldraw issue: Move tests to closed source repo](https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
 <small>[VS Code v1.110 Insiders: AI Agents Gain Native Browser Access and Global Instructions](https://visualstudiomagazine.com/Articles/2026/02/25/VS-Code-v1-110-Insiders-AI-Agents-Gain-Native-Browser-Access-and-Global-Instruction.aspx)</small>
