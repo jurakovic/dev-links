@@ -1,5 +1,10 @@
 [
   {
+    "title": "Please, please, please stop using passkeys for encrypting user data",
+    "link": "https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything",
+    "pubDate": "2026-02-27T22:49:32+00:00"
+  },
+  {
     "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
     "link": "https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything",
     "pubDate": "2026-02-27T20:43:41+00:00"
@@ -18,10 +23,5 @@
     "title": "Hoard things you know how to do",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/#atom-everything",
     "pubDate": "2026-02-26T20:33:27+00:00"
-  },
-  {
-    "title": "Quoting Andrej Karpathy",
-    "link": "https://simonwillison.net/2026/Feb/26/andrej-karpathy/#atom-everything",
-    "pubDate": "2026-02-26T19:03:27+00:00"
   }
 ]
