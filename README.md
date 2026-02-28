@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-28 swizec</small>  
+<small>[Probably the realest thing I ever wrote](https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-27 simonwillison</small>  
 <small>[Please, please, please stop using passkeys for encrypting user data](https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-05 addyosmani</small>  
 <small>[Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
-<small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Probably the realest thing I ever wrote",
+    "link": "https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/",
+    "pubDate": "2026-02-28T22:21:02+00:00"
+  },
+  {
     "title": "Users buy your service, not your code",
     "link": "https://swizec.com/blog/users-buy-your-service-not-your-code/",
     "pubDate": "2026-02-18T17:01:23+00:00"
@@ -18,10 +23,5 @@
     "title": "In praise of the stacked pull request",
     "link": "https://swizec.com/blog/in-praise-of-the-stacked-pull-request/",
     "pubDate": "2026-02-04T00:00:00+00:00"
-  },
-  {
-    "title": "How you migrate is everything",
-    "link": "https://swizec.com/blog/how-you-migrate-is-everything/",
-    "pubDate": "2026-01-31T00:00:00+00:00"
   }
 ]
