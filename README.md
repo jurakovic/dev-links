@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-01 dbreunig</small>  
+<small>[We’re Talking About Terms of Use, But the Issue is Embedded Judgment](https://www.dbreunig.com/2026/03/01/the-issue-is-embedded-judgment.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-01 simonwillison</small>  
 <small>[Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 antirez</small>  
 <small>[Redis patterns for coding](http://antirez.com/news/161)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 microservices</small>  
+<small>[Why GenAI-based coding agents are a complex domain in Cynefin - and what that means for adoption](http://microservices.io//post/architecture/2026/03/01/using-genai-based-coding-agents-cynefin-complex-domain.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-28 simonwillison</small>  
 <small>[Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything)</small>
@@ -283,9 +289,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-07 tidyfirst</small>  
 <small>[Labor Replacement is a Poison Pill](https://tidyfirst.substack.com/p/labor-replacement-is-a-poison-pill)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-06 dbreunig</small>  
-<small>[The Rise of Spec Driven Development](https://www.dbreunig.com/2026/02/06/the-rise-of-spec-driven-development.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-06 tidyfirst</small>  
 <small>[Is Source Code Going Away?](https://tidyfirst.substack.com/p/is-source-code-going-away)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-05 visualstudiomagazine</small>  
 <small>[VS Code 1.109 Deemed a Multi-Agent Development Platform](https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-02-05 lethain</small>  
-<small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
 
