@@ -1,5 +1,10 @@
 [
   {
+    "title": "Redis patterns for coding",
+    "link": "http://antirez.com/news/161",
+    "pubDate": "2026-03-01T09:55:09+00:00"
+  },
+  {
     "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
     "link": "http://antirez.com/news/160",
     "pubDate": "2026-02-24T17:58:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Reflections on AI at the end of 2025",
     "link": "http://antirez.com/news/157",
     "pubDate": "2025-12-20T08:58:29+00:00"
-  },
-  {
-    "title": "Scaling HNSWs",
-    "link": "http://antirez.com/news/156",
-    "pubDate": "2025-11-11T12:53:38+00:00"
   }
 ]
