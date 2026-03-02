@@ -1,5 +1,10 @@
 [
   {
+    "title": "What questions will you ask your data agent?",
+    "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-mcp-questions/",
+    "pubDate": "2026-03-02T21:18:18+00:00"
+  },
+  {
     "title": "The Polyglot Tax",
     "link": "https://devblogs.microsoft.com/azure-sql/the-polyglot-tax/",
     "pubDate": "2026-02-26T01:09:47+00:00"
@@ -18,10 +23,5 @@
     "title": "Federating Databases with Data API Builder Chaining",
     "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/",
     "pubDate": "2026-02-18T17:00:17+00:00"
-  },
-  {
-    "title": "Dear Copilot, can you help me with SQL?",
-    "link": "https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/",
-    "pubDate": "2026-02-17T17:00:59+00:00"
   }
 ]

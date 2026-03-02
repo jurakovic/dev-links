@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-02 azure-sql</small>  
+<small>[What questions will you ask your data agent?](https://devblogs.microsoft.com/azure-sql/data-api-builder-mcp-questions/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-03-02 rickstrahl</small>  
+<small>[Azure Trusted Signing Revisited with Dotnet Sign](https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-02 techtrenches</small>  
+<small>[The Comprehension Extinction: AI Isn’t Replacing Engineers. It’s Eliminating the Ones Who Understand.](https://techtrenches.dev/p/the-comprehension-extinction-ai-isnt)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-02 simonwillison</small>  
 <small>[GIF optimization tool using WebAssembly and Gifsicle](https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything)</small>
 
@@ -175,9 +184,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-18 tidyfirst</small>  
 <small>[Earn \*And\* Learn](https://tidyfirst.substack.com/p/earn-and-learn)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
-<small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
 <small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
 <small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-02-06 steve-yegge</small>  
-<small>[The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-06 bencane</small>  
-<small>[Optimizing the team’s workflow can be more impactful than building business features](https://bencane.com/posts/2026-02-05/)</small>
 
