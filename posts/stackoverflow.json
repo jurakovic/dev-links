@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s new at Stack Overflow: March 2026",
+    "link": "https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/",
+    "pubDate": "2026-03-02T15:03:00+00:00"
+  },
+  {
     "title": "To live in an AI world, knowing is half the battle",
     "link": "https://stackoverflow.blog/2026/02/27/to-live-in-an-ai-world-knowing-is-half-the-battle/",
     "pubDate": "2026-02-27T08:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Dogfood so nutritious it’s building the future of SDLCs",
     "link": "https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/",
     "pubDate": "2026-02-24T08:40:00+00:00"
-  },
-  {
-    "title": "Defense against uploads: Q&A with OSS file scanner, pompelmi",
-    "link": "https://stackoverflow.blog/2026/02/23/defense-against-uploads-oss-file-scanner-pompelmi/",
-    "pubDate": "2026-02-23T15:00:00+00:00"
   }
 ]

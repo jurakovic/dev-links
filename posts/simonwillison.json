@@ -1,5 +1,15 @@
 [
   {
+    "title": "GIF optimization tool using WebAssembly and Gifsicle",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything",
+    "pubDate": "2026-03-02T16:35:10+00:00"
+  },
+  {
+    "title": "February sponsors-only newsletter",
+    "link": "https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything",
+    "pubDate": "2026-03-02T14:53:15+00:00"
+  },
+  {
     "title": "Quoting claude.com/import-memory",
     "link": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything",
     "pubDate": "2026-03-01T11:21:45+00:00"
@@ -13,15 +23,5 @@
     "title": "Please, please, please stop using passkeys for encrypting user data",
     "link": "https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything",
     "pubDate": "2026-02-27T22:49:32+00:00"
-  },
-  {
-    "title": "An AI agent coding skeptic tries AI agent coding, in excessive detail",
-    "link": "https://simonwillison.net/2026/Feb/27/ai-agent-coding-in-excessive-detail/#atom-everything",
-    "pubDate": "2026-02-27T20:43:41+00:00"
-  },
-  {
-    "title": "Free Claude Max for (large project) open source maintainers",
-    "link": "https://simonwillison.net/2026/Feb/27/claude-max-oss-six-months/#atom-everything",
-    "pubDate": "2026-02-27T18:08:22+00:00"
   }
 ]
