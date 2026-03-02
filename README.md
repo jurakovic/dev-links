@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
+<small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-02 bartwullems</small>  
+<small>[ASP.NET Core - TryParse error when using Minimal APIs](https://bartwullems.blogspot.com/2026/03/aspnet-core-tryparse-error-when-using.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-01 dbreunig</small>  
 <small>[We’re Talking About Terms of Use, But the Issue is Embedded Judgment](https://www.dbreunig.com/2026/03/01/the-issue-is-embedded-judgment.html)</small>
 
@@ -129,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-23 martinfowler</small>  
 <small>[Fragments: February 23](https://martinfowler.com/fragments/2026-02-23.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-23 bartwullems</small>  
-<small>[How to work with OneLake files locally using Python](https://bartwullems.blogspot.com/2026/02/how-to-work-with-onelake-files-locally.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
 <small>[Insider amnesia](https://seangoedecke.com/insider-amnesia/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-06 bencane</small>  
 <small>[Optimizing the team’s workflow can be more impactful than building business features](https://bencane.com/posts/2026-02-05/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-05 visualstudiomagazine</small>  
-<small>[VS Code 1.109 Deemed a Multi-Agent Development Platform](https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx)</small>
 
