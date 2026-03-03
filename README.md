@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-03-03 minidump</small>  
+<small>[Writing a .NET Garbage Collector in C#  -  Part 8: Interior pointers](https://minidump.net/writing-a-net-gc-in-c-part-8/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-03 terriblesoftware</small>  
+<small>[Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-03 bartwullems</small>  
 <small>[Cleaner Minimal API Endpoints with \[AsParameters\]](https://bartwullems.blogspot.com/2026/03/cleaner-minimal-api-endpoints-with.html)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-08 microservices</small>  
 <small>[GenAI-based software delivery needs a fast flow architecture](http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-02-08 third-bit</small>  
-<small>[104 Days](https://third-bit.com/2026/02/08/104-days/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-07 tidyfirst</small>  
-<small>[Labor Replacement is a Poison Pill](https://tidyfirst.substack.com/p/labor-replacement-is-a-poison-pill)</small>
 
