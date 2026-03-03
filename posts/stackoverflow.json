@@ -1,5 +1,10 @@
 [
   {
+    "title": "No need for Ctrl+C when you have MCP",
+    "link": "https://stackoverflow.blog/2026/03/03/no-need-for-ctrl-c-when-you-have-mcp/",
+    "pubDate": "2026-03-03T08:40:00+00:00"
+  },
+  {
     "title": "What’s new at Stack Overflow: March 2026",
     "link": "https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/",
     "pubDate": "2026-03-02T15:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Your sneak peek at the redesigned Stack Overflow",
     "link": "https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/",
     "pubDate": "2026-02-25T15:00:00+00:00"
-  },
-  {
-    "title": "Dogfood so nutritious it’s building the future of SDLCs",
-    "link": "https://stackoverflow.blog/2026/02/24/dogfood-so-nutritious-it-s-building-the-future-of-sdlcs/",
-    "pubDate": "2026-02-24T08:40:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gemini 3.1 Flash-Lite",
+    "link": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything",
+    "pubDate": "2026-03-03T21:53:54+00:00"
+  },
+  {
     "title": "GIF optimization tool using WebAssembly and Gifsicle",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/gif-optimization/#atom-everything",
     "pubDate": "2026-03-02T16:35:10+00:00"
@@ -18,10 +23,5 @@
     "title": "Interactive explanations",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
     "pubDate": "2026-02-28T23:09:39+00:00"
-  },
-  {
-    "title": "Please, please, please stop using passkeys for encrypting user data",
-    "link": "https://simonwillison.net/2026/Feb/27/passkeys/#atom-everything",
-    "pubDate": "2026-02-27T22:49:32+00:00"
   }
 ]
