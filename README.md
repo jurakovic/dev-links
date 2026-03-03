@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-03 bartwullems</small>  
+<small>[Cleaner Minimal API Endpoints with \[AsParameters\]](https://bartwullems.blogspot.com/2026/03/cleaner-minimal-api-endpoints-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-03 seangoedecke</small>  
 <small>[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/)</small>
 
@@ -138,9 +141,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 microservices</small>  
 <small>[Microservices Platforms - part 5: Observability platform](http://microservices.io//post/architecture/2026/02/24/qconsf-microservices-platforms-part-5.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-24 bartwullems</small>  
-<small>[Run SQL queries on local parquet and delta files using DuckDB](https://bartwullems.blogspot.com/2026/02/run-sql-queries-on-local-parquet-and.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
 <small>[What's so hard about continuous learning?](https://seangoedecke.com/continuous-learning/)</small>
