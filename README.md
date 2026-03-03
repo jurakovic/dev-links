@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-03 seangoedecke</small>  
+<small>[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-03 martinfowler</small>  
+<small>[Design-First Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-03 visualstudiomagazine</small>  
+<small>[GitHub Copilot CLI Reaches General Availability, Bringing Agentic Coding to the Terminal](https://visualstudiomagazine.com/Articles/2026/03/02/GitHub-Copilot-CLI-Reaches-General-Availability-Bringing-Agentic-Coding-to-the-Terminal.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-03 netflix</small>  
+<small>[Optimizing Recommendation Systems with JDK’s Vector API](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-02 azure-sql</small>  
 <small>[What questions will you ask your data agent?](https://devblogs.microsoft.com/azure-sql/data-api-builder-mcp-questions/)</small>
 
@@ -172,9 +184,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
 <small>[Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
-<small>[Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
 <small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
 
@@ -253,9 +262,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-11 dbreunig</small>  
 <small>[How System Prompts Define Agent Behavior](https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-11 seangoedecke</small>  
-<small>[On screwing up](https://seangoedecke.com/screwing-up/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
 <small>[.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-07 tidyfirst</small>  
 <small>[Labor Replacement is a Poison Pill](https://tidyfirst.substack.com/p/labor-replacement-is-a-poison-pill)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-06 tidyfirst</small>  
-<small>[Is Source Code Going Away?](https://tidyfirst.substack.com/p/is-source-code-going-away)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
-<small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
 
