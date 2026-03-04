@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-04 erikej</small>  
+<small>[8 New T-SQL Analysis Rules to Catch Bugs Before They Reach Production](https://erikej.github.io/dacfx/dotnet/2026/03/04/dacxf-new-rules.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-04 swizec</small>  
+<small>[Put scope on your resume](https://swizec.com/blog/put-scope-on-your-resume/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-04 simonwillison</small>  
+<small>[Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-04 steve-yegge</small>  
 <small>[Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f?source=rss-c1ec701babb7------2)</small>
 
@@ -81,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-01 dbreunig</small>  
 <small>[We’re Talking About Terms of Use, But the Issue is Embedded Judgment](https://www.dbreunig.com/2026/03/01/the-issue-is-embedded-judgment.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-01 simonwillison</small>  
-<small>[Quoting claude.com/import-memory](https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 antirez</small>  
 <small>[Redis patterns for coding](http://antirez.com/news/161)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-09 dbreunig</small>  
 <small>[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-09 techtrenches</small>  
-<small>[Big Tech’s $364B Hypothesis Meets the $650B Reality](https://techtrenches.dev/p/big-techs-364b-hypothesis-meets-the)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-09 ardalis</small>  
-<small>[2025 Year in Review](https://ardalis.com/2025-year-in-review/)</small>
 
