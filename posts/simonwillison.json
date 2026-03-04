@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Donald Knuth",
+    "link": "https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything",
+    "pubDate": "2026-03-03T23:59:04+00:00"
+  },
+  {
     "title": "Gemini 3.1 Flash-Lite",
     "link": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything",
     "pubDate": "2026-03-03T21:53:54+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting claude.com/import-memory",
     "link": "https://simonwillison.net/2026/Mar/1/claude-import-memory/#atom-everything",
     "pubDate": "2026-03-01T11:21:45+00:00"
-  },
-  {
-    "title": "Interactive explanations",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything",
-    "pubDate": "2026-02-28T23:09:39+00:00"
   }
 ]

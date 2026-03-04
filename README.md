@@ -5,7 +5,16 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-03 simonwillison</small>  
+<small>[Quoting Donald Knuth](https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-03 visualstudiomagazine</small>  
+<small>[Custom Agents Transform Visual Studio with Built-In and DIY Options](https://visualstudiomagazine.com/Articles/2026/03/03/Custom-Agents-Transform-Visual-Studio-with-Built-In-and-DIY-Options.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-03 simonwillison</small>  
 <small>[Gemini 3.1 Flash-Lite](https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-03 jimmybogard</small>  
+<small>[AutoMapper 16.1 and MediatR 14.1 Released](https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-03 github</small>  
 <small>[How we rebuilt the search architecture for high availability in GitHub Enterprise Server](https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/)</small>
@@ -69,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 microservices</small>  
 <small>[Why GenAI-based coding agents are a complex domain in Cynefin - and what that means for adoption](http://microservices.io//post/architecture/2026/03/01/using-genai-based-coding-agents-cynefin-complex-domain.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-02-28 simonwillison</small>  
-<small>[Interactive explanations](https://simonwillison.net/guides/agentic-engineering-patterns/interactive-explanations/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-28 netflix</small>  
 <small>[Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac?source=rss----2615bd06b42e---4)</small>
@@ -256,9 +262,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-12 addyosmani</small>  
 <small>[14 More Lessons from 14 years at Google](https://addyosmani.com/blog/14-more-lessons/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-11 visualstudiomagazine</small>  
-<small>[Devs Souring on .NET 11?](https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
 <small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-09 damienbod</small>  
 <small>[Isolate the swiyu Public Beta management APIs using YARP](https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
-<small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
 
