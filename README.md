@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-04 steve-yegge</small>  
+<small>[Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f?source=rss-c1ec701babb7------2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-04 bartwullems</small>  
+<small>[The silent filter: How an ASP.NET MVC quirk became a security leak](https://bartwullems.blogspot.com/2026/03/the-silent-filter-how-aspnet-mvc-quirk.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-04 martinfowler</small>  
+<small>[Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-04 stackoverflow</small>  
+<small>[AI-assisted coding needs more than vibes; it needs containers and sandboxes](https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-03 simonwillison</small>  
 <small>[Quoting Donald Knuth](https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything)</small>
 
@@ -124,14 +136,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-25 stackoverflow</small>  
-<small>[Your sneak peek at the redesigned Stack Overflow](https://stackoverflow.blog/2026/02/25/your-sneak-peek-at-the-redesigned-stack-overflow/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-25 martinfowler</small>  
 <small>[Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-25 bartwullems</small>  
-<small>[Cleaner switch expressions with pattern matching in C#](https://bartwullems.blogspot.com/2026/02/cleaner-switch-expressions-with-pattern.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
 <small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
@@ -195,9 +201,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
 <small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
-<small>[Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
 <small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-02-09 ardalis</small>  
 <small>[2025 Year in Review](https://ardalis.com/2025-year-in-review/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-09 damienbod</small>  
-<small>[Isolate the swiyu Public Beta management APIs using YARP](https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/)</small>
 
