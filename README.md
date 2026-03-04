@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-04 simonwillison</small>  
+<small>[Anti-patterns: things to avoid](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-04 erikej</small>  
 <small>[8 New T-SQL Analysis Rules to Catch Bugs Before They Reach Production](https://erikej.github.io/dacfx/dotnet/2026/03/04/dacxf-new-rules.html)</small>
 
@@ -12,6 +15,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-04 simonwillison</small>  
 <small>[Something is afoot in the land of Qwen](https://simonwillison.net/2026/Mar/4/qwen/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-04 dbreunig</small>  
+<small>[Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync](https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-04 steve-yegge</small>  
 <small>[Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f?source=rss-c1ec701babb7------2)</small>
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-02 stackoverflow</small>  
 <small>[What’s new at Stack Overflow: March 2026](https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-02 simonwillison</small>  
-<small>[February sponsors-only newsletter](https://simonwillison.net/2026/Mar/2/february-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
 <small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-10 swizec</small>  
 <small>[The 3 curves that make a scalable business](https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-09 dbreunig</small>  
-<small>[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)</small>
 
