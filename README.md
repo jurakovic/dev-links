@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-05 visualstudiomagazine</small>  
+<small>[VS Code 1.110 Ships with Agent Plugins, Browser Tools and Session Memory](https://visualstudiomagazine.com/Articles/2026/03/04/VS-Code-1-110-Ships-with-Agent-Plugins-Browser-Tools-and-Session-Memory.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-04 azure-sql</small>  
+<small>[The Polyglot tax – Part 2](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-2/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-04 simonwillison</small>  
 <small>[Anti-patterns: things to avoid](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything)</small>
 
@@ -151,9 +157,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
 <small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-24 visualstudiomagazine</small>  
-<small>[Devs Diss Visual Studio's AI](https://visualstudiomagazine.com/Articles/2026/02/24/Devs-Diss-Visual-Studios-AI.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-24 dotnet</small>  
 <small>[The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/)</small>
 
@@ -213,9 +216,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
 <small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
-<small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-18 tidyfirst</small>  
 <small>[Earn \*And\* Learn](https://tidyfirst.substack.com/p/earn-and-learn)</small>
