@@ -1,5 +1,10 @@
 [
   {
+    "title": "The lock that killed my migration",
+    "link": "https://bartwullems.blogspot.com/2026/03/the-lock-that-killed-my-migration.html",
+    "pubDate": "2026-03-05T07:32:00+00:00"
+  },
+  {
     "title": "The silent filter: How an ASP.NET MVC quirk became a security leak",
     "link": "https://bartwullems.blogspot.com/2026/03/the-silent-filter-how-aspnet-mvc-quirk.html",
     "pubDate": "2026-03-04T06:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Community is a verb",
     "link": "https://bartwullems.blogspot.com/2026/02/community-is-verb.html",
     "pubDate": "2026-02-27T06:46:00+00:00"
-  },
-  {
-    "title": "Python vs PySpark notebooks in MS Fabric",
-    "link": "https://bartwullems.blogspot.com/2026/02/python-vs-pyspark-notebooks-in-ms-fabric.html",
-    "pubDate": "2026-02-26T06:09:00+00:00"
   }
 ]

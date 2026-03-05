@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
+<small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-05 bartwullems</small>  
+<small>[The lock that killed my migration](https://bartwullems.blogspot.com/2026/03/the-lock-that-killed-my-migration.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-05 visualstudiomagazine</small>  
 <small>[VS Code 1.110 Ships with Agent Plugins, Browser Tools and Session Memory](https://visualstudiomagazine.com/Articles/2026/03/04/VS-Code-1-110-Ships-with-Agent-Plugins-Browser-Tools-and-Session-Memory.aspx)</small>
 
@@ -129,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-02-26 stackoverflow</small>  
 <small>[Beyond block or allow: How pay-per-crawl is reshaping public data monetization](https://stackoverflow.blog/2026/02/26/how-pay-per-crawl-is-reshaping-data-monetization/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-02-26 bartwullems</small>  
-<small>[Python vs PySpark notebooks in MS Fabric](https://bartwullems.blogspot.com/2026/02/python-vs-pyspark-notebooks-in-ms-fabric.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-26 azure-sql</small>  
 <small>[The Polyglot Tax](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-10 minidump</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles](https://minidump.net/writing-a-net-gc-in-c-part-7/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-10 swizec</small>  
-<small>[The 3 curves that make a scalable business](https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/)</small>
 
