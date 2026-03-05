@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
+    "pubDate": "2026-03-05T18:03:16+00:00"
+  },
+  {
     "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
     "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
     "pubDate": "2026-01-29T18:41:45+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Could a 5-day RTO be around the corner for Big Tech?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/",
     "pubDate": "2025-12-13T15:21:25+00:00"
-  },
-  {
-    "title": "Downdetector and the real cost of no upstream dependencies",
-    "link": "https://blog.pragmaticengineer.com/downdetector-and-the-real-cost-of-no-upstream-dependencies/",
-    "pubDate": "2025-12-05T09:14:50+00:00"
   }
 ]

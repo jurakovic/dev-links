@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 erikej</small>  
+<small>[Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉](https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
 <small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-05 visualstudiomagazine</small>  
+<small>[Shortly After Debut, GPT-5.3-codex Dominates Microsoft Foundry AI Model Leaderboard](https://visualstudiomagazine.com/Articles/2026/03/05/Shortly-After-Debut-GPT-53-codex-Dominates-Microsoft-Foundry-AI-Model-Leaderboard.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-05 dotnet</small>  
+<small>[Release v1.0 of the official MCP C# SDK](https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-05 pragmaticengineer</small>  
+<small>[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-05 stackoverflow</small>  
 <small>[DeveloperWeek 2026: Making AI tools that are actually good](https://stackoverflow.blog/2026/03/05/developerweek-2026/)</small>
@@ -151,9 +163,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
 <small>[WinForms Gets Some AI Love in Visual Studio February Update](https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
-<small>[VS Code v1.110 Insiders: AI Agents Gain Native Browser Access and Global Instructions](https://visualstudiomagazine.com/Articles/2026/02/25/VS-Code-v1-110-Insiders-AI-Agents-Gain-Native-Browser-Access-and-Global-Instruction.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
 
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-10 steven-giesel</small>  
 <small>[.NET Toolbox February Update](https://steven-giesel.com/blogPost/ec7526ca-9f43-4e28-b8cf-2bbcd30349ca)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
-<small>[.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-10 tidyfirst</small>  
-<small>[Generation Gap or Just Rude?](https://tidyfirst.substack.com/p/generation-gap-or-just-rude)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-10 minidump</small>  
-<small>[Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles](https://minidump.net/writing-a-net-gc-in-c-part-7/)</small>
 

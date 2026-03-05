@@ -1,5 +1,10 @@
 [
   {
+    "title": "Release v1.0 of the official MCP C# SDK",
+    "link": "https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/",
+    "pubDate": "2026-03-05T18:05:00+00:00"
+  },
+  {
     "title": "Vector Data in .NET – Building Blocks for AI Part 2",
     "link": "https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/",
     "pubDate": "2026-02-26T18:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 1 is now available!",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/",
     "pubDate": "2026-02-10T22:38:20+00:00"
-  },
-  {
-    "title": ".NET and .NET Framework February 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/",
-    "pubDate": "2026-02-10T19:00:00+00:00"
   }
 ]
