@@ -1,5 +1,15 @@
 [
   {
+    "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager",
+    "link": "https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything",
+    "pubDate": "2026-03-06T02:39:04+00:00"
+  },
+  {
+    "title": "Introducing GPT‑5.4",
+    "link": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything",
+    "pubDate": "2026-03-05T23:56:09+00:00"
+  },
+  {
     "title": "Can coding agents relicense open source through a “clean room” implementation of code?",
     "link": "https://simonwillison.net/2026/Mar/5/chardet/#atom-everything",
     "pubDate": "2026-03-05T16:49:33+00:00"
@@ -13,15 +23,5 @@
     "title": "Something is afoot in the land of Qwen",
     "link": "https://simonwillison.net/2026/Mar/4/qwen/#atom-everything",
     "pubDate": "2026-03-04T15:50:03+00:00"
-  },
-  {
-    "title": "Quoting Donald Knuth",
-    "link": "https://simonwillison.net/2026/Mar/3/donald-knuth/#atom-everything",
-    "pubDate": "2026-03-03T23:59:04+00:00"
-  },
-  {
-    "title": "Gemini 3.1 Flash-Lite",
-    "link": "https://simonwillison.net/2026/Mar/3/gemini-31-flash-lite/#atom-everything",
-    "pubDate": "2026-03-03T21:53:54+00:00"
   }
 ]
