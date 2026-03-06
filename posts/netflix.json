@@ -1,5 +1,10 @@
 [
   {
+    "title": "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
+    "link": "https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-03-06T15:01:27+00:00"
+  },
+  {
     "title": "Optimizing Recommendation Systems with JDK’s Vector API",
     "link": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss----2615bd06b42e---4",
     "pubDate": "2026-03-03T01:36:46+00:00"
@@ -18,10 +23,5 @@
     "title": "Scaling LLM Post-Training at Netflix",
     "link": "https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4",
     "pubDate": "2026-02-13T08:05:33+00:00"
-  },
-  {
-    "title": "Automating RDS Postgres to Aurora Postgres Migration",
-    "link": "https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-02-12T14:07:19+00:00"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-06 netflix</small>  
+<small>[Scaling Global Storytelling: Modernizing Localization Analytics at Netflix](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-06 seangoedecke</small>  
 <small>[I don't know if my job will still exist in ten years](https://seangoedecke.com/will-my-job-still-exist/)</small>
 
@@ -279,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
 <small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-12 netflix</small>  
-<small>[Automating RDS Postgres to Aurora Postgres Migration](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-12 microservices</small>  
 <small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
