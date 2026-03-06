@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
+<small>[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
+<small>[TypeScript 6.0 RC Bridges to Go-Based Future](https://visualstudiomagazine.com/Articles/2026/03/06/TypeScript-6-0-RC-Bridges-to-Go-Based-Future.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
+<small>[WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements](https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
+<small>[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-06 netflix</small>  
 <small>[Scaling Global Storytelling: Modernizing Localization Analytics at Netflix](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4)</small>
 
@@ -46,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-05 stackoverflow</small>  
 <small>[DeveloperWeek 2026: Making AI tools that are actually good](https://stackoverflow.blog/2026/03/05/developerweek-2026/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-05 simonwillison</small>  
-<small>[Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-05 martinfowler</small>  
 <small>[Ideological Resistance to Patents, Followed by Reluctant                Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html)</small>
 
@@ -60,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-04 azure-sql</small>  
 <small>[The Polyglot tax – Part 2](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-04 simonwillison</small>  
-<small>[Anti-patterns: things to avoid](https://simonwillison.net/guides/agentic-engineering-patterns/anti-patterns/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-04 erikej</small>  
 <small>[8 New T-SQL Analysis Rules to Catch Bugs Before They Reach Production](https://erikej.github.io/dacfx/dotnet/2026/03/04/dacxf-new-rules.html)</small>
@@ -111,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-03 martinfowler</small>  
 <small>[Design-First Collaboration](https://martinfowler.com/articles/reduce-friction-ai/design-first-collaboration.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-03 visualstudiomagazine</small>  
-<small>[GitHub Copilot CLI Reaches General Availability, Bringing Agentic Coding to the Terminal](https://visualstudiomagazine.com/Articles/2026/03/02/GitHub-Copilot-CLI-Reaches-General-Availability-Bringing-Agentic-Coding-to-the-Terminal.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-03 netflix</small>  
 <small>[Optimizing Recommendation Systems with JDK’s Vector API](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss----2615bd06b42e---4)</small>
@@ -168,9 +171,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-25 dbreunig</small>  
 <small>[Two Beliefs About Coding Agents](https://www.dbreunig.com/2026/02/25/two-things-i-believe-about-coding-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-02-25 visualstudiomagazine</small>  
-<small>[WinForms Gets Some AI Love in Visual Studio February Update](https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>

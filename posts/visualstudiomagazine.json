@@ -1,5 +1,15 @@
 [
   {
+    "title": "TypeScript 6.0 RC Bridges to Go-Based Future",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/06/TypeScript-6-0-RC-Bridges-to-Go-Based-Future.aspx",
+    "pubDate": "2026-03-06T20:42:00+00:00"
+  },
+  {
+    "title": "WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx",
+    "pubDate": "2026-03-06T20:08:00+00:00"
+  },
+  {
     "title": "Shortly After Debut, GPT-5.3-codex Dominates Microsoft Foundry AI Model Leaderboard",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/05/Shortly-After-Debut-GPT-53-codex-Dominates-Microsoft-Foundry-AI-Model-Leaderboard.aspx",
     "pubDate": "2026-03-05T21:23:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Custom Agents Transform Visual Studio with Built-In and DIY Options",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/03/Custom-Agents-Transform-Visual-Studio-with-Built-In-and-DIY-Options.aspx",
     "pubDate": "2026-03-03T22:21:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot CLI Reaches General Availability, Bringing Agentic Coding to the Terminal",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/02/GitHub-Copilot-CLI-Reaches-General-Availability-Bringing-Agentic-Coding-to-the-Terminal.aspx",
-    "pubDate": "2026-03-03T03:52:00+00:00"
-  },
-  {
-    "title": "WinForms Gets Some AI Love in Visual Studio February Update",
-    "link": "https://visualstudiomagazine.com/Articles/2026/02/25/WinForms-Gets-Some-AI-Love-in-Visual-Studio-February-Update.aspx",
-    "pubDate": "2026-02-25T22:10:00+00:00"
   }
 ]
