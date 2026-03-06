@@ -4,9 +4,6 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 erikej</small>  
-<small>[Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉](https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-06 seangoedecke</small>  
 <small>[I don't know if my job will still exist in ten years](https://seangoedecke.com/will-my-job-still-exist/)</small>
 
@@ -39,6 +36,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-05 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-05 erikej</small>  
+<small>[Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉](https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-05 stackoverflow</small>  
 <small>[DeveloperWeek 2026: Making AI tools that are actually good](https://stackoverflow.blog/2026/03/05/developerweek-2026/)</small>
