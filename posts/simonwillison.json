@@ -1,5 +1,10 @@
 [
   {
+    "title": "Codex for Open Source",
+    "link": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything",
+    "pubDate": "2026-03-07T18:13:39+00:00"
+  },
+  {
     "title": "Quoting Ally Piechowski",
     "link": "https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything",
     "pubDate": "2026-03-06T21:58:33+00:00"
@@ -18,10 +23,5 @@
     "title": "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager",
     "link": "https://simonwillison.net/2026/Mar/6/clinejection/#atom-everything",
     "pubDate": "2026-03-06T02:39:04+00:00"
-  },
-  {
-    "title": "Introducing GPT‑5.4",
-    "link": "https://simonwillison.net/2026/Mar/5/introducing-gpt54/#atom-everything",
-    "pubDate": "2026-03-05T23:56:09+00:00"
   }
 ]
