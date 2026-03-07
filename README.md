@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-03-07 davecallan</small>  
+<small>[Configuring Private Constructors and Setters with Entity Framework DB First flow](https://davecallan.com/configuring-private-constructors-and-setters-with-entity-framework-db-first-flow/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
 <small>[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-11 dbreunig</small>  
 <small>[How System Prompts Define Agent Behavior](https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
-<small>[.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/)</small>
 
