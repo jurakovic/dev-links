@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 dotnet</small>  
+<small>[Extend your coding agent with .NET Skills](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-09 visualstudiomagazine</small>  
+<small>[Microsoft Sharpens AI Toolkit for VS Code in Foundry Update](https://visualstudiomagazine.com/Articles/2026/03/09/Microsoft-Sharpens-AI-Toolkit-for-VS-Code-in-Foundry-Update.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 visualstudio</small>  
 <small>[Visual Studio Dev Essentials: Free, Practical Tools for Every Developer](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/)</small>
 
@@ -114,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-04 stackoverflow</small>  
 <small>[AI-assisted coding needs more than vibes; it needs containers and sandboxes](https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-03 visualstudiomagazine</small>  
-<small>[Custom Agents Transform Visual Studio with Built-In and DIY Options](https://visualstudiomagazine.com/Articles/2026/03/03/Custom-Agents-Transform-Visual-Studio-with-Built-In-and-DIY-Options.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-03 jimmybogard</small>  
 <small>[AutoMapper 16.1 and MediatR 14.1 Released](https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
 <small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-12 microservices</small>  
-<small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
 
