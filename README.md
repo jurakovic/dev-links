@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 visualstudio</small>  
+<small>[Visual Studio Dev Essentials: Free, Practical Tools for Every Developer](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-09 simonwillison</small>  
+<small>[Production query plans without production data](https://simonwillison.net/2026/Mar/9/production-query-plans-without-production-data/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-09 techtrenches</small>  
+<small>[Your Brain on Autopilot: The Cost of AI Thinking for You](https://techtrenches.dev/p/your-brain-on-autopilot-the-cost)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-09 stackoverflow</small>  
+<small>[Organizing productive platform teams](https://stackoverflow.blog/2026/03/09/organizing-productive-platform-teams/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-09 simonwillison</small>  
+<small>[Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-03-09 damienbod</small>  
 <small>[Invite Guest users in a Entra ID Multi-tenant setup](https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/)</small>
 
@@ -34,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
 <small>[WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements](https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
-<small>[Anthropic and the Pentagon](https://simonwillison.net/2026/Mar/6/anthropic-and-the-pentagon/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-06 netflix</small>  
 <small>[Scaling Global Storytelling: Modernizing Localization Analytics at Netflix](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4)</small>
 
@@ -51,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-06 bartwullems</small>  
 <small>[Managing multiple SQL Server instances from SQL Server Management Studio](https://bartwullems.blogspot.com/2026/03/managing-multiple-sql-server-instances.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
-<small>[Agentic manual testing](https://simonwillison.net/guides/agentic-engineering-patterns/agentic-manual-testing/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
 <small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
@@ -144,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-02 techtrenches</small>  
 <small>[The Comprehension Extinction: AI Isn’t Replacing Engineers. It’s Eliminating the Ones Who Understand.](https://techtrenches.dev/p/the-comprehension-extinction-ai-isnt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-02 stackoverflow</small>  
-<small>[What’s new at Stack Overflow: March 2026](https://stackoverflow.blog/2026/03/02/what-s-new-at-stack-overflow-march-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
 <small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-12 microservices</small>  
 <small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-12 addyosmani</small>  
-<small>[14 More Lessons from 14 years at Google](https://addyosmani.com/blog/14-more-lessons/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
-<small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
 

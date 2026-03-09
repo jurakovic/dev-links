@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Dev Essentials: Free, Practical Tools for Every Developer",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/",
+    "pubDate": "2026-03-09T15:35:00+00:00"
+  },
+  {
     "title": "Visual Studio February Update",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/",
     "pubDate": "2026-02-24T22:16:30+00:00"
@@ -18,10 +23,5 @@
     "title": "Roadmap for AI in Visual Studio (February)",
     "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
     "pubDate": "2026-02-04T20:42:53+00:00"
-  },
-  {
-    "title": "Performance improvements to MEF-based editor productivity extensions",
-    "link": "https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/",
-    "pubDate": "2026-02-03T15:00:21+00:00"
   }
 ]
