@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot CLI Tips & Tricks — Part 1: Understanding the Different Modes",
+    "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-1.html",
+    "pubDate": "2026-03-09T06:38:00+00:00"
+  },
+  {
     "title": "Managing multiple SQL Server instances from SQL Server Management Studio",
     "link": "https://bartwullems.blogspot.com/2026/03/managing-multiple-sql-server-instances.html",
     "pubDate": "2026-03-06T06:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Cleaner Minimal API Endpoints with [AsParameters]",
     "link": "https://bartwullems.blogspot.com/2026/03/cleaner-minimal-api-endpoints-with.html",
     "pubDate": "2026-03-03T06:25:00+00:00"
-  },
-  {
-    "title": "ASP.NET Core - TryParse error when using Minimal APIs",
-    "link": "https://bartwullems.blogspot.com/2026/03/aspnet-core-tryparse-error-when-using.html",
-    "pubDate": "2026-03-02T06:05:00+00:00"
   }
 ]

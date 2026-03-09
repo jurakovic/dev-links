@@ -1,5 +1,10 @@
 [
   {
+    "title": "Invite Guest users in a Entra ID Multi-tenant setup",
+    "link": "https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/",
+    "pubDate": "2026-03-09T09:06:26+00:00"
+  },
+  {
     "title": "Add application security to the swiyu generic management verifier APIs using OAuth",
     "link": "https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/",
     "pubDate": "2026-02-16T07:07:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Force step up authentication in web applications",
     "link": "https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/",
     "pubDate": "2026-01-26T07:02:14+00:00"
-  },
-  {
-    "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
-    "link": "https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
-    "pubDate": "2026-01-18T21:43:13+00:00"
   }
 ]
