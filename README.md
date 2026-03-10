@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-03-10 andrewlock</small>  
+<small>[Splitting the NetEscapades.EnumGenerators packages: the road to a stable release](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-10 bartwullems</small>  
+<small>[GitHub Copilot CLI Tips & Tricks — Part 2: Session management](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-2.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 dotnet</small>  
 <small>[Extend your coding agent with .NET Skills](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/)</small>
 
@@ -138,9 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-03 stackoverflow</small>  
 <small>[No need for Ctrl+C when you have MCP](https://stackoverflow.blog/2026/03/03/no-need-for-ctrl-c-when-you-have-mcp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-03 bartwullems</small>  
-<small>[Cleaner Minimal API Endpoints with \[AsParameters\]](https://bartwullems.blogspot.com/2026/03/cleaner-minimal-api-endpoints-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-03 seangoedecke</small>  
 <small>[Giving LLMs a personality is just good engineering](https://seangoedecke.com/giving-llms-a-personality/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 microservices</small>  
 <small>[Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization](http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 bencane</small>  
-<small>[Why is Infrastructure-as-Code so important? Hint: It's correctness](https://bencane.com/posts/2026-02-12/)</small>
 
