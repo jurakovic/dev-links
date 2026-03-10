@@ -28,6 +28,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-03-09 damienbod</small>  
 <small>[Invite Guest users in a Entra ID Multi-tenant setup](https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-09 microservices</small>  
+<small>[GenAI-based development platform - part 1: guardrails](http://microservices.io//post/architecture/2026/03/09/genai-development-platform-part-1-development-guardrails.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-09 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 1: Understanding the Different Modes](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-1.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 bencane</small>  
 <small>[Why is Infrastructure-as-Code so important? Hint: It's correctness](https://bencane.com/posts/2026-02-12/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
-<small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
 
