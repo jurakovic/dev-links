@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-10 simonwillison</small>  
+<small>[AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
+<small>[.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
+<small>[.NET and .NET Framework March 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-10 martinfowler</small>  
+<small>[Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-03-10 andrewlock</small>  
 <small>[Splitting the NetEscapades.EnumGenerators packages: the road to a stable release](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/)</small>
 
@@ -54,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-03-07 davecallan</small>  
 <small>[Configuring Private Constructors and Setters with Entity Framework DB First flow](https://davecallan.com/configuring-private-constructors-and-setters-with-entity-framework-db-first-flow/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-06 simonwillison</small>  
-<small>[Quoting Ally Piechowski](https://simonwillison.net/2026/Mar/6/ally-piechowski/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
 <small>[TypeScript 6.0 RC Bridges to Go-Based Future](https://visualstudiomagazine.com/Articles/2026/03/06/TypeScript-6-0-RC-Bridges-to-Go-Based-Future.aspx)</small>
@@ -208,17 +217,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
 <small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-24 dotnet</small>  
-<small>[The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip](https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-24 visualstudio</small>  
 <small>[Visual Studio February Update](https://devblogs.microsoft.com/visualstudio/visual-studio-february-update/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 antirez</small>  
 <small>[Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code](http://antirez.com/news/160)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-24 martinfowler</small>  
-<small>[Knowledge Priming](https://martinfowler.com/articles/reduce-friction-ai/knowledge-priming.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-24 andrewlock</small>  
 <small>[Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-02-13 netflix</small>  
 <small>[Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-13 microservices</small>  
-<small>[Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization](http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html)</small>
 

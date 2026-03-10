@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET 11 Preview 2 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/",
+    "pubDate": "2026-03-10T20:35:00+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework March 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/",
+    "pubDate": "2026-03-10T20:33:31+00:00"
+  },
+  {
     "title": "Extend your coding agent with .NET Skills",
     "link": "https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/",
     "pubDate": "2026-03-09T20:30:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Vector Data in .NET – Building Blocks for AI Part 2",
     "link": "https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/",
     "pubDate": "2026-02-26T18:00:00+00:00"
-  },
-  {
-    "title": "The Dongle Died at Midnight – WinForms Agent Saved my German Mom’s Business Trip",
-    "link": "https://devblogs.microsoft.com/dotnet/the-dongle-died-at-midnight/",
-    "pubDate": "2026-02-24T23:00:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026",
-    "link": "https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/",
-    "pubDate": "2026-02-11T18:05:00+00:00"
   }
 ]
