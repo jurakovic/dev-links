@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting John Carmack",
+    "link": "https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything",
+    "pubDate": "2026-03-11T14:47:09+00:00"
+  },
+  {
     "title": "AI should help us produce better code",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything",
     "pubDate": "2026-03-10T22:25:09+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Joseph Weizenbaum",
     "link": "https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything",
     "pubDate": "2026-03-08T14:59:48+00:00"
-  },
-  {
-    "title": "Codex for Open Source",
-    "link": "https://simonwillison.net/2026/Mar/7/codex-for-open-source/#atom-everything",
-    "pubDate": "2026-03-07T18:13:39+00:00"
   }
 ]

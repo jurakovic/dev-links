@@ -1,5 +1,10 @@
 [
   {
+    "title": "Judgment and creativity are all you need.",
+    "link": "https://lethain.com/judgment-is-all-you-need/",
+    "pubDate": "2026-03-11T14:30:00+00:00"
+  },
+  {
     "title": "Refactoring internal documentation in Notion",
     "link": "https://lethain.com/refactoring-internal-docs-notion/",
     "pubDate": "2026-02-05T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Curiosity is the first-step in problem solving.",
     "link": "https://lethain.com/curiosity-first-step-problem-solving/",
     "pubDate": "2026-01-25T17:00:00+00:00"
-  },
-  {
-    "title": "Stripe's Lighthouse Hiring pattern.",
-    "link": "https://lethain.com/lighthouse-hiring/",
-    "pubDate": "2026-01-25T16:00:00+00:00"
   }
 ]
