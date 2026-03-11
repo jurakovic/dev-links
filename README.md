@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-11 visualstudiomagazine</small>  
+<small>[VS Code 1.111 Debuts Weekly Stable Cadence, Expands Agent Controls](https://visualstudiomagazine.com/Articles/2026/03/11/VS-Code-1-111-Debuts-Weekly-Stable-Cadence-Expands-Agent-Controls.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-11 swizec</small>  
 <small>[Taming chaos is a learnable skill](https://swizec.com/blog/taming-chaos-is-a-learnable-skill/)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-05 bartwullems</small>  
 <small>[The lock that killed my migration](https://bartwullems.blogspot.com/2026/03/the-lock-that-killed-my-migration.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-05 visualstudiomagazine</small>  
-<small>[VS Code 1.110 Ships with Agent Plugins, Browser Tools and Session Memory](https://visualstudiomagazine.com/Articles/2026/03/04/VS-Code-1-110-Ships-with-Agent-Plugins-Browser-Tools-and-Session-Memory.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-04 azure-sql</small>  
 <small>[The Polyglot tax – Part 2](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-2/)</small>
