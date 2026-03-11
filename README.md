@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-11 bartwullems</small>  
+<small>[GitHub Copilot CLI Tips & Tricks — Part 3: Parallelizing Work](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-3.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-10 simonwillison</small>  
 <small>[AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/#atom-everything)</small>
 
@@ -129,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-04 steve-yegge</small>  
 <small>[Welcome to the Wasteland: A Thousand Gas Towns](https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-04 bartwullems</small>  
-<small>[The silent filter: How an ASP.NET MVC quirk became a security leak](https://bartwullems.blogspot.com/2026/03/the-silent-filter-how-aspnet-mvc-quirk.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-04 martinfowler</small>  
 <small>[Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)</small>
