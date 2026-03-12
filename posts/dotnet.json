@@ -1,5 +1,15 @@
 [
   {
+    "title": "Modernize .NET Anywhere with GitHub Copilot",
+    "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/",
+    "pubDate": "2026-03-12T17:05:00+00:00"
+  },
+  {
+    "title": ".NET 10.0.5 Out-of-Band Release – macOS Debugger Fix",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/",
+    "pubDate": "2026-03-12T17:00:00+00:00"
+  },
+  {
     "title": ".NET 11 Preview 2 is now available!",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/",
     "pubDate": "2026-03-10T20:35:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Extend your coding agent with .NET Skills",
     "link": "https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/",
     "pubDate": "2026-03-09T20:30:00+00:00"
-  },
-  {
-    "title": "Release v1.0 of the official MCP C# SDK",
-    "link": "https://devblogs.microsoft.com/dotnet/release-v10-of-the-official-mcp-csharp-sdk/",
-    "pubDate": "2026-03-05T18:05:00+00:00"
-  },
-  {
-    "title": "Vector Data in .NET – Building Blocks for AI Part 2",
-    "link": "https://devblogs.microsoft.com/dotnet/vector-data-in-dotnet-building-blocks-for-ai-part-2/",
-    "pubDate": "2026-02-26T18:00:00+00:00"
   }
 ]
