@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-11 simonwillison</small>  
+<small>[Sorting algorithms](https://simonwillison.net/2026/Mar/11/sorting-algorithms/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-11 visualstudiomagazine</small>  
 <small>[VS Code 1.111 Debuts Weekly Stable Cadence, Expands Agent Controls](https://visualstudiomagazine.com/Articles/2026/03/11/VS-Code-1-111-Debuts-Weekly-Stable-Cadence-Expands-Agent-Controls.aspx)</small>
 
@@ -75,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-08 antirez</small>  
 <small>[GNU and the AI reimplementations](http://antirez.com/news/162)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-08 simonwillison</small>  
-<small>[Quoting Joseph Weizenbaum](https://simonwillison.net/2026/Mar/8/joseph-weizenbaum/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-03-07 davecallan</small>  
 <small>[Configuring Private Constructors and Setters with Entity Framework DB First flow](https://davecallan.com/configuring-private-constructors-and-setters-with-entity-framework-db-first-flow/)</small>
