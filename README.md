@@ -7,6 +7,15 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
 <small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-12 simonwillison</small>  
+<small>[Quoting Les Orchard](https://simonwillison.net/2026/Mar/12/les-orchard/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github</small>  
+<small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-12 stackoverflow</small>  
+<small>[The context problem: Why enterprise AI needs more than foundation models](https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-12 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 4: Automating and enforcing policies with hooks](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-4.html)</small>
 
@@ -66,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-09 stackoverflow</small>  
 <small>[Organizing productive platform teams](https://stackoverflow.blog/2026/03/09/organizing-productive-platform-teams/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-09 simonwillison</small>  
-<small>[Perhaps not Boring Technology after all](https://simonwillison.net/2026/Mar/9/not-so-boring/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-03-09 damienbod</small>  
 <small>[Invite Guest users in a Entra ID Multi-tenant setup](https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/)</small>
@@ -147,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-04 martinfowler</small>  
 <small>[Humans and Agents in Software Engineering Loops](https://martinfowler.com/articles/exploring-gen-ai/humans-and-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-04 stackoverflow</small>  
-<small>[AI-assisted coding needs more than vibes; it needs containers and sandboxes](https://stackoverflow.blog/2026/03/04/ai-assisted-coding-vibes-hardened-containers-and-sandboxes/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-03 jimmybogard</small>  
 <small>[AutoMapper 16.1 and MediatR 14.1 Released](https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
 <small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steipete.png) <small>2026-02-15 steipete</small>  
-<small>[OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)</small>
 
