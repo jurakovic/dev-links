@@ -1,5 +1,10 @@
 [
   {
+    "title": "You may be building for availability, but are you building for resiliency?",
+    "link": "https://bencane.com/posts/2026-03-12/",
+    "pubDate": "2026-03-13T00:00:00+00:00"
+  },
+  {
     "title": "When your coding agent doesn’t understand your project, you’ll get junk",
     "link": "https://bencane.com/posts/2026-03-05/",
     "pubDate": "2026-03-06T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Why is Infrastructure-as-Code so important? Hint: It's correctness",
     "link": "https://bencane.com/posts/2026-02-12/",
     "pubDate": "2026-02-13T00:00:00+00:00"
-  },
-  {
-    "title": "Optimizing the team’s workflow can be more impactful than building business features",
-    "link": "https://bencane.com/posts/2026-02-05/",
-    "pubDate": "2026-02-06T00:00:00+00:00"
   }
 ]
