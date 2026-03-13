@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot CLI Tips & Tricks — Part 5: Delegation",
+    "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html",
+    "pubDate": "2026-03-13T08:37:00+00:00"
+  },
+  {
     "title": "GitHub Copilot CLI Tips & Tricks — Part 4: Automating and enforcing policies with hooks",
     "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-4.html",
     "pubDate": "2026-03-12T06:01:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot CLI Tips & Tricks — Part 1: Understanding the Different Modes",
     "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-1.html",
     "pubDate": "2026-03-09T06:38:00+00:00"
-  },
-  {
-    "title": "Managing multiple SQL Server instances from SQL Server Management Studio",
-    "link": "https://bartwullems.blogspot.com/2026/03/managing-multiple-sql-server-instances.html",
-    "pubDate": "2026-03-06T06:05:00+00:00"
   }
 ]

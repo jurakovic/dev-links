@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-13 bartwullems</small>  
+<small>[GitHub Copilot CLI Tips & Tricks — Part 5: Delegation](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-13 stackoverflow</small>  
 <small>[Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-06 stackoverflow</small>  
 <small>[Building brains for bulldozers](https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-06 bartwullems</small>  
-<small>[Managing multiple SQL Server instances from SQL Server Management Studio](https://bartwullems.blogspot.com/2026/03/managing-multiple-sql-server-instances.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
 <small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
