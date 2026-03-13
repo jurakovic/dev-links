@@ -1,5 +1,10 @@
 [
   {
+    "title": "Open source for awkward robots",
+    "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
+    "pubDate": "2026-03-13T07:40:00+00:00"
+  },
+  {
     "title": "The context problem: Why enterprise AI needs more than foundation models",
     "link": "https://stackoverflow.blog/2026/03/12/enterprise-ai-needs-more-than-foundation-models/",
     "pubDate": "2026-03-12T13:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Building brains for bulldozers",
     "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
     "pubDate": "2026-03-06T08:40:00+00:00"
-  },
-  {
-    "title": "DeveloperWeek 2026: Making AI tools that are actually good",
-    "link": "https://stackoverflow.blog/2026/03/05/developerweek-2026/",
-    "pubDate": "2026-03-05T17:00:00+00:00"
   }
 ]

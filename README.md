@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-13 stackoverflow</small>  
+<small>[Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-13 simonwillison</small>  
+<small>[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
 <small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-11 swizec</small>  
 <small>[Taming chaos is a learnable skill](https://swizec.com/blog/taming-chaos-is-a-learnable-skill/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-11 simonwillison</small>  
-<small>[Quoting John Carmack](https://simonwillison.net/2026/Mar/11/john-carmack/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-11 lethain</small>  
 <small>[Judgment and creativity are all you need.](https://lethain.com/judgment-is-all-you-need/)</small>
@@ -132,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-05 erikej</small>  
 <small>[Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉](https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-05 stackoverflow</small>  
-<small>[DeveloperWeek 2026: Making AI tools that are actually good](https://stackoverflow.blog/2026/03/05/developerweek-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-05 martinfowler</small>  
 <small>[Ideological Resistance to Patents, Followed by Reluctant                Pragmatism](https://martinfowler.com/articles/patents-reluctant-pragmatism.html)</small>
