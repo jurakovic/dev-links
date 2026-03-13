@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 erikej</small>  
+<small>[Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support](https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-13 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 5: Delegation](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
 <small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
-<small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
 
