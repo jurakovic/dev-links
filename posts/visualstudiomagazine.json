@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx",
+    "pubDate": "2026-03-13T19:13:00+00:00"
+  },
+  {
     "title": "VS Code 1.111 Debuts Weekly Stable Cadence, Expands Agent Controls",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/11/VS-Code-1-111-Debuts-Weekly-Stable-Cadence-Expands-Agent-Controls.aspx",
     "pubDate": "2026-03-11T21:31:00+00:00"
@@ -18,10 +23,5 @@
     "title": "WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx",
     "pubDate": "2026-03-06T20:08:00+00:00"
-  },
-  {
-    "title": "Shortly After Debut, GPT-5.3-codex Dominates Microsoft Foundry AI Model Leaderboard",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/05/Shortly-After-Debut-GPT-53-codex-Dominates-Microsoft-Foundry-AI-Model-Leaderboard.aspx",
-    "pubDate": "2026-03-05T21:23:00+00:00"
   }
 ]
