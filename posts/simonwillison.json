@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Jannis Leidel",
+    "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
+    "pubDate": "2026-03-14T18:41:25+00:00"
+  },
+  {
+    "title": "My fireside chat about agentic engineering at the Pragmatic Summit",
+    "link": "https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything",
+    "pubDate": "2026-03-14T18:19:38+00:00"
+  },
+  {
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "link": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
     "pubDate": "2026-03-13T18:29:13+00:00"
@@ -13,15 +23,5 @@
     "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
     "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
     "pubDate": "2026-03-13T03:44:34+00:00"
-  },
-  {
-    "title": "MALUS - Clean Room as a Service",
-    "link": "https://simonwillison.net/2026/Mar/12/malus/#atom-everything",
-    "pubDate": "2026-03-12T20:08:55+00:00"
-  },
-  {
-    "title": "Coding After Coders: The End of Computer Programming as We Know It",
-    "link": "https://simonwillison.net/2026/Mar/12/coding-after-coders/#atom-everything",
-    "pubDate": "2026-03-12T19:23:44+00:00"
   }
 ]
