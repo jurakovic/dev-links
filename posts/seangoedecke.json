@@ -1,5 +1,10 @@
 [
   {
+    "title": "Big tech engineers need big egos",
+    "link": "https://seangoedecke.com/big-tech-needs-big-egos/",
+    "pubDate": "2026-03-14T05:09:15+00:00"
+  },
+  {
     "title": "I don't know if my job will still exist in ten years",
     "link": "https://seangoedecke.com/will-my-job-still-exist/",
     "pubDate": "2026-03-06T10:33:28+00:00"
@@ -18,10 +23,5 @@
     "title": "What's so hard about continuous learning?",
     "link": "https://seangoedecke.com/continuous-learning/",
     "pubDate": "2026-02-23T22:39:30+00:00"
-  },
-  {
-    "title": "LLM-generated skills work, if you generate them afterwards",
-    "link": "https://seangoedecke.com/generate-skills-afterwards/",
-    "pubDate": "2026-02-17T05:20:18+00:00"
   }
 ]

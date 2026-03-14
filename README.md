@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-14 seangoedecke</small>  
+<small>[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-13 visualstudiomagazine</small>  
 <small>[Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise](https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx)</small>
 
@@ -294,9 +297,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-17 andrewlock</small>  
 <small>[Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3](https://andrewlock.net/creating-standard-and-observable-instruments/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-17 seangoedecke</small>  
-<small>[LLM-generated skills work, if you generate them afterwards](https://seangoedecke.com/generate-skills-afterwards/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
 <small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
