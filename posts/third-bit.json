@@ -1,5 +1,10 @@
 [
   {
+    "title": "Distributed Systems Design by Example",
+    "link": "https://third-bit.com/2026/03/15/dsdx/",
+    "pubDate": "2026-03-15T22:25:47+00:00"
+  },
+  {
     "title": "Cognitive Pollution",
     "link": "https://third-bit.com/2026/03/08/cognitive-pollution/",
     "pubDate": "2026-03-08T16:25:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Updating Snailz",
     "link": "https://third-bit.com/2026/01/23/updating-snailz/",
     "pubDate": "2026-01-23T00:00:00+00:00"
-  },
-  {
-    "title": "If Not Lessons, Then What?",
-    "link": "https://third-bit.com/2026/01/18/if-not-lessons-then-what/",
-    "pubDate": "2026-01-18T00:00:00+00:00"
   }
 ]

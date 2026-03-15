@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-15 third-bit</small>  
+<small>[Distributed Systems Design by Example](https://third-bit.com/2026/03/15/dsdx/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-14 simonwillison</small>  
 <small>[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-17 andrewlock</small>  
 <small>[Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3](https://andrewlock.net/creating-standard-and-observable-instruments/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
-<small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
 
