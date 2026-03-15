@@ -13,6 +13,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-14 seangoedecke</small>  
 <small>[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-03-14 addyosmani</small>  
+<small>[Comprehension Debt — the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-13 visualstudiomagazine</small>  
 <small>[Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise](https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-16 swizec</small>  
 <small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
-<small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
 

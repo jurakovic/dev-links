@@ -1,5 +1,10 @@
 [
   {
+    "title": "Comprehension Debt — the hidden cost of AI generated code.",
+    "link": "https://addyosmani.com/blog/comprehension-debt/",
+    "pubDate": "2026-03-14T00:00:00+00:00"
+  },
+  {
     "title": "The Factory Model: How Coding Agents Changed Software Engineering",
     "link": "https://addyosmani.com/blog/factory-model/",
     "pubDate": "2026-02-25T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "14 More Lessons from 14 years at Google",
     "link": "https://addyosmani.com/blog/14-more-lessons/",
     "pubDate": "2026-02-12T00:00:00+00:00"
-  },
-  {
-    "title": "Claude Code Swarms",
-    "link": "https://addyosmani.com/blog/claude-code-agent-teams/",
-    "pubDate": "2026-02-05T00:00:00+00:00"
   }
 ]
