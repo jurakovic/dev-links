@@ -1,5 +1,10 @@
 [
   {
+    "title": "How coding agents work",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything",
+    "pubDate": "2026-03-16T14:01:41+00:00"
+  },
+  {
     "title": "What is agentic engineering?",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
     "pubDate": "2026-03-15T22:41:57+00:00"
@@ -18,10 +23,5 @@
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "link": "https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything",
     "pubDate": "2026-03-13T18:29:13+00:00"
-  },
-  {
-    "title": "Quoting Craig Mod",
-    "link": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
-    "pubDate": "2026-03-13T17:14:29+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers",
+    "link": "https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/",
+    "pubDate": "2026-03-16T14:00:00+00:00"
+  },
+  {
     "title": "Open source for awkward robots",
     "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
     "pubDate": "2026-03-13T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Organizing productive platform teams",
     "link": "https://stackoverflow.blog/2026/03/09/organizing-productive-platform-teams/",
     "pubDate": "2026-03-09T14:00:00+00:00"
-  },
-  {
-    "title": "Building brains for bulldozers",
-    "link": "https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/",
-    "pubDate": "2026-03-06T08:40:00+00:00"
   }
 ]

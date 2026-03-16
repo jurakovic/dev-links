@@ -1,5 +1,10 @@
 [
   {
+    "title": "Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox",
+    "link": "https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/",
+    "pubDate": "2026-03-16T14:59:12+00:00"
+  },
+  {
     "title": "Visual Studio Dev Essentials: Free, Practical Tools for Every Developer",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/",
     "pubDate": "2026-03-09T15:35:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Unlock language-specific rich symbol context using new find_symbol tool",
     "link": "https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/",
     "pubDate": "2026-02-11T15:29:15+00:00"
-  },
-  {
-    "title": "Roadmap for AI in Visual Studio (February)",
-    "link": "https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/",
-    "pubDate": "2026-02-04T20:42:53+00:00"
   }
 ]

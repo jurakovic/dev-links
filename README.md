@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-16 visualstudio</small>  
+<small>[Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-16 martinfowler</small>  
+<small>[Fragments: March 16](https://martinfowler.com/fragments/2026-03-16.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) <small>2026-03-16 thecodist</small>  
+<small>[Why Buying An Apple II+ In 1979 Changed My Life](https://thecodist.com/why-buying-an-apple-ii-in-1979-changed-my-life/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-16 techtrenches</small>  
+<small>[AI’s Announcement Problem](https://techtrenches.dev/p/ais-announcement-problem)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
+<small>[How coding agents work](https://simonwillison.net/guides/agentic-engineering-patterns/how-coding-agents-work/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-16 stackoverflow</small>  
+<small>[Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers](https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-16 steven-giesel</small>  
 <small>[records ToString and inheritence](https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7)</small>
 
@@ -23,7 +41,7 @@
 <small>[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-03-14 addyosmani</small>  
-<small>[Comprehension Debt — the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)</small>
+<small>[Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-13 visualstudiomagazine</small>  
 <small>[Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise](https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx)</small>
@@ -33,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 erikej</small>  
 <small>[Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support](https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-13 simonwillison</small>  
-<small>[Quoting Craig Mod](https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-13 jimmybogard</small>  
 <small>[AutoMapper 16.1.1 Released](https://www.jimmybogard.com/automapper-16-1-1-released/)</small>
@@ -142,9 +157,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-06 steven-giesel</small>  
 <small>[FullJoin in .NET 11 - potentially](https://steven-giesel.com/blogPost/5a750fbf-cbf1-44dc-b864-70bedd8a29a9)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-06 stackoverflow</small>  
-<small>[Building brains for bulldozers](https://stackoverflow.blog/2026/03/06/building-brains-for-bulldozers/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
 <small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
 
@@ -241,9 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-02-25 martinfowler</small>  
-<small>[Fragments: February 25](https://martinfowler.com/fragments/2026-02-25.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
 <small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
 
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
 <small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-18 swizec</small>  
-<small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-02-18 tidyfirst</small>  
-<small>[Earn \*And\* Learn](https://tidyfirst.substack.com/p/earn-and-learn)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
-<small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>
 
