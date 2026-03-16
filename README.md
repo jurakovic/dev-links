@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-16 steven-giesel</small>  
+<small>[records ToString and inheritence](https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-15 simonwillison</small>  
+<small>[What is agentic engineering?](https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-15 third-bit</small>  
 <small>[Distributed Systems Design by Example](https://third-bit.com/2026/03/15/dsdx/)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-13 stackoverflow</small>  
 <small>[Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-13 simonwillison</small>  
-<small>[Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations](https://simonwillison.net/2026/Mar/13/liquid/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
 <small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
 <small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-17 andrewlock</small>  
-<small>[Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3](https://andrewlock.net/creating-standard-and-observable-instruments/)</small>
 

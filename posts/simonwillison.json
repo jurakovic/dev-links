@@ -1,5 +1,10 @@
 [
   {
+    "title": "What is agentic engineering?",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/what-is-agentic-engineering/#atom-everything",
+    "pubDate": "2026-03-15T22:41:57+00:00"
+  },
+  {
     "title": "Quoting Jannis Leidel",
     "link": "https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything",
     "pubDate": "2026-03-14T18:41:25+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Craig Mod",
     "link": "https://simonwillison.net/2026/Mar/13/craig-mod/#atom-everything",
     "pubDate": "2026-03-13T17:14:29+00:00"
-  },
-  {
-    "title": "Shopify/liquid: Performance: 53% faster parse+render, 61% fewer allocations",
-    "link": "https://simonwillison.net/2026/Mar/13/liquid/#atom-everything",
-    "pubDate": "2026-03-13T03:44:34+00:00"
   }
 ]
