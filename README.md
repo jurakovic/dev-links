@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
+<small>[Quoting A member of Anthropic’s alignment-science team](https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
+<small>[Quoting Guilherme Rambo](https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
+<small>[Coding agents for data analysis](https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-16 visualstudio</small>  
 <small>[Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/)</small>
 
@@ -31,12 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-15 third-bit</small>  
 <small>[Distributed Systems Design by Example](https://third-bit.com/2026/03/15/dsdx/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-14 simonwillison</small>  
-<small>[Quoting Jannis Leidel](https://simonwillison.net/2026/Mar/14/jannis-leidel/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-14 simonwillison</small>  
-<small>[My fireside chat about agentic engineering at the Pragmatic Summit](https://simonwillison.net/2026/Mar/14/pragmatic-summit/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-14 seangoedecke</small>  
 <small>[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-13 visualstudiomagazine</small>  
 <small>[Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise](https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-13 simonwillison</small>  
-<small>[1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://simonwillison.net/2026/Mar/13/1m-context/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 erikej</small>  
 <small>[Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support](https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html)</small>
