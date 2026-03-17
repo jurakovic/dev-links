@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Tim Schilling",
+    "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
+    "pubDate": "2026-03-17T16:13:37+00:00"
+  },
+  {
+    "title": "Subagents",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
+    "pubDate": "2026-03-17T12:32:28+00:00"
+  },
+  {
     "title": "Introducing Mistral Small 4",
     "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
     "pubDate": "2026-03-16T23:41:17+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting A member of Anthropic’s alignment-science team",
     "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
     "pubDate": "2026-03-16T21:38:55+00:00"
-  },
-  {
-    "title": "Quoting Guilherme Rambo",
-    "link": "https://simonwillison.net/2026/Mar/16/guilherme-rambo/#atom-everything",
-    "pubDate": "2026-03-16T20:34:13+00:00"
-  },
-  {
-    "title": "Coding agents for data analysis",
-    "link": "https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/#atom-everything",
-    "pubDate": "2026-03-16T20:12:32+00:00"
   }
 ]
