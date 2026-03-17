@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Ken Jin",
+    "link": "https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything",
+    "pubDate": "2026-03-17T21:48:26+00:00"
+  },
+  {
+    "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
+    "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
+    "pubDate": "2026-03-17T19:39:17+00:00"
+  },
+  {
     "title": "Quoting Tim Schilling",
     "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
     "pubDate": "2026-03-17T16:13:37+00:00"
@@ -13,15 +23,5 @@
     "title": "Introducing Mistral Small 4",
     "link": "https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything",
     "pubDate": "2026-03-16T23:41:17+00:00"
-  },
-  {
-    "title": "Use subagents and custom agents in Codex",
-    "link": "https://simonwillison.net/2026/Mar/16/codex-subagents/#atom-everything",
-    "pubDate": "2026-03-16T23:03:56+00:00"
-  },
-  {
-    "title": "Quoting A member of Anthropic’s alignment-science team",
-    "link": "https://simonwillison.net/2026/Mar/16/blackmail/#atom-everything",
-    "pubDate": "2026-03-16T21:38:55+00:00"
   }
 ]
