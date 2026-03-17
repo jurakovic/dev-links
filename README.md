@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-03-17 minidump</small>  
+<small>[Writing a .NET Garbage Collector in C#  -  Part 9: Frozen segments and new allocation strategy](https://minidump.net/writing-a-net-gc-in-c-part-9/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-17 microservices</small>  
+<small>[GenAI-based development platform - part 2: How Idea to Code turns an idea into working, tested software](http://microservices.io//post/architecture/2026/03/17/overview-i2code-implement-agent-orchestrator.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
 <small>[Introducing Mistral Small 4](https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-02-20 minidump</small>  
 <small>[Too good to be true: an unexpected profiler trap](https://minidump.net/an-unexpected-profiler-trap/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-20 bencane</small>  
-<small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
-<small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
 
