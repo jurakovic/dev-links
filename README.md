@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
+<small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-17 simonwillison</small>  
 <small>[Quoting Ken Jin](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-21 dbreunig</small>  
 <small>[Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
-<small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
 
