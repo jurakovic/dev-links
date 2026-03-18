@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 dotnet</small>  
+<small>[Pin Clustering in .NET MAUI Maps](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-18 simonwillison</small>  
+<small>[Snowflake Cortex AI Escapes Sandbox and Executes Malware](https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
+<small>[DiskANN Vector Index Improvements](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-improvements/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
 
@@ -36,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-17 microservices</small>  
 <small>[GenAI-based development platform - part 2: How Idea to Code turns an idea into working, tested software](http://microservices.io//post/architecture/2026/03/17/overview-i2code-implement-agent-orchestrator.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-16 simonwillison</small>  
-<small>[Introducing Mistral Small 4](https://simonwillison.net/2026/Mar/16/mistral-small-4/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-16 visualstudio</small>  
 <small>[Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/)</small>
@@ -114,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
 <small>[.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
-<small>[.NET and .NET Framework March 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-10 martinfowler</small>  
 <small>[Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)</small>
@@ -261,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-25 dbreunig</small>  
 <small>[Two Beliefs About Coding Agents](https://www.dbreunig.com/2026/02/25/two-things-i-believe-about-coding-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-25 azure-sql</small>  
-<small>[MSSQL Extension for VS Code: Query Profiler, ADS Migration Toolkit & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-feb-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
 <small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
