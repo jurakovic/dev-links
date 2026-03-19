@@ -7,6 +7,18 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 bencane</small>  
 <small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
+<small>[Hands On with VS Code 1.112's New Image Analysis for Agents](https://visualstudiomagazine.com/Articles/2026/03/19/Hands-On-with-VS-Code-1-112s-New-Image-Analysis-for-Agents.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 dotnet</small>  
+<small>[Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-19 slack</small>  
+<small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
+<small>[Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control](https://visualstudiomagazine.com/Articles/2026/03/19/VS-Code-1-112-Adds-Integrated-Browser-Debugging-More-Copilot-CLI-Control.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
 <small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
 
@@ -15,6 +27,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-19 martinfowler</small>  
 <small>[Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
+<small>[Use Asciinema and Powersession on Windows](https://ardalis.com/use-asciinema-and-powersession-on-windows/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-19 stackoverflow</small>  
 <small>[AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/)</small>
@@ -130,9 +145,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
 <small>[.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
-<small>[.NET and .NET Framework March 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-10 martinfowler</small>  
 <small>[Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)</small>
 
@@ -168,12 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-03-07 davecallan</small>  
 <small>[Configuring Private Constructors and Setters with Entity Framework DB First flow](https://davecallan.com/configuring-private-constructors-and-setters-with-entity-framework-db-first-flow/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
-<small>[TypeScript 6.0 RC Bridges to Go-Based Future](https://visualstudiomagazine.com/Articles/2026/03/06/TypeScript-6-0-RC-Bridges-to-Go-Based-Future.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-06 visualstudiomagazine</small>  
-<small>[WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements](https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-06 netflix</small>  
 <small>[Scaling Global Storytelling: Modernizing Localization Analytics at Netflix](https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-23 techtrenches</small>  
 <small>[AI Agent Platforms: The Security Nightmare Nobody’s Talking About](https://techtrenches.dev/p/ai-agent-platforms-the-security-nightmare)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
-<small>[Insider amnesia](https://seangoedecke.com/insider-amnesia/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-02-23 steven-giesel</small>  
-<small>[Being stupid is fun: Let's create long exception messages!](https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93)</small>
 

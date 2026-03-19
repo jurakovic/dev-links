@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hands On with VS Code 1.112's New Image Analysis for Agents",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/19/Hands-On-with-VS-Code-1-112s-New-Image-Analysis-for-Agents.aspx",
+    "pubDate": "2026-03-19T21:34:00+00:00"
+  },
+  {
+    "title": "Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/19/VS-Code-1-112-Adds-Integrated-Browser-Debugging-More-Copilot-CLI-Control.aspx",
+    "pubDate": "2026-03-19T18:59:00+00:00"
+  },
+  {
     "title": "Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx",
     "pubDate": "2026-03-13T19:13:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Microsoft Sharpens AI Toolkit for VS Code in Foundry Update",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/09/Microsoft-Sharpens-AI-Toolkit-for-VS-Code-in-Foundry-Update.aspx",
     "pubDate": "2026-03-09T17:06:00+00:00"
-  },
-  {
-    "title": "TypeScript 6.0 RC Bridges to Go-Based Future",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/06/TypeScript-6-0-RC-Bridges-to-Go-Based-Future.aspx",
-    "pubDate": "2026-03-06T20:42:00+00:00"
-  },
-  {
-    "title": "WinUI Gallery 2.8 Adds Jump Lists, New Samples and Accessibility Improvements",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/06/WinUI-Gallery-2-8-Adds-Jump-Lists-New-Samples-and-Accessibility-Improvements.aspx",
-    "pubDate": "2026-03-06T20:08:00+00:00"
   }
 ]

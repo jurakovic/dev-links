@@ -1,5 +1,10 @@
 [
   {
+    "title": "Accelerating .NET MAUI Development with AI Agents",
+    "link": "https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/",
+    "pubDate": "2026-03-19T21:12:42+00:00"
+  },
+  {
     "title": "RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI",
     "link": "https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/",
     "pubDate": "2026-03-17T17:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 2 is now available!",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/",
     "pubDate": "2026-03-10T20:35:00+00:00"
-  },
-  {
-    "title": ".NET and .NET Framework March 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-march-2026-servicing-updates/",
-    "pubDate": "2026-03-10T20:33:31+00:00"
   }
 ]

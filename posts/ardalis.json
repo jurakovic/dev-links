@@ -1,5 +1,10 @@
 [
   {
+    "title": "Use Asciinema and Powersession on Windows",
+    "link": "https://ardalis.com/use-asciinema-and-powersession-on-windows/",
+    "pubDate": "2026-03-19T15:31:56+00:00"
+  },
+  {
     "title": "Llms Need Mark as Answer",
     "link": "https://ardalis.com/llms-need-mark-as-answer/",
     "pubDate": "2026-02-13T15:20:47+00:00"
@@ -18,10 +23,5 @@
     "title": "Single File Test Suites in Dotnet Csharp",
     "link": "https://ardalis.com/single-file-tests-in-dotnet-csharp/",
     "pubDate": "2025-12-02T21:16:18+00:00"
-  },
-  {
-    "title": "Use cd - in Powershell 7 to Return to Previous Directory",
-    "link": "https://ardalis.com/use-cd---in-powershell-7-to-return-to-previous-directory/",
-    "pubDate": "2025-12-02T16:16:30+00:00"
   }
 ]

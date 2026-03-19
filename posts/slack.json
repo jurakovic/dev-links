@@ -1,5 +1,10 @@
 [
   {
+    "title": "How Slack Rebuilt Notifications 📣",
+    "link": "https://slack.engineering/how-slack-rebuilt-notifications/",
+    "pubDate": "2026-03-19T19:00:54+00:00"
+  },
+  {
     "title": "Streamlining Security Investigations with Agents",
     "link": "https://slack.engineering/streamlining-security-investigations-with-agents/",
     "pubDate": "2025-12-01T16:00:42+00:00"
@@ -18,10 +23,5 @@
     "title": "Advancing Our Chef Infrastructure: Safety Without Disruption",
     "link": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/",
     "pubDate": "2025-10-23T18:17:56+00:00"
-  },
-  {
-    "title": "Deploy Safety: Reducing customer impact from change",
-    "link": "https://slack.engineering/deploy-safety/",
-    "pubDate": "2025-10-07T16:33:12+00:00"
   }
 ]
