@@ -1,5 +1,10 @@
 [
   {
+    "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
+    "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
+    "pubDate": "2026-03-18T23:56:46+00:00"
+  },
+  {
     "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
     "link": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything",
     "pubDate": "2026-03-18T17:43:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Tim Schilling",
     "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
     "pubDate": "2026-03-17T16:13:37+00:00"
-  },
-  {
-    "title": "Subagents",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/subagents/#atom-everything",
-    "pubDate": "2026-03-17T12:32:28+00:00"
   }
 ]
