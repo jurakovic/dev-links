@@ -1,5 +1,10 @@
 [
   {
+    "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+    "link": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything",
+    "pubDate": "2026-03-19T16:45:15+00:00"
+  },
+  {
     "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
     "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
     "pubDate": "2026-03-18T23:56:46+00:00"
@@ -18,10 +23,5 @@
     "title": "GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52",
     "link": "https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything",
     "pubDate": "2026-03-17T19:39:17+00:00"
-  },
-  {
-    "title": "Quoting Tim Schilling",
-    "link": "https://simonwillison.net/2026/Mar/17/tim-schilling/#atom-everything",
-    "pubDate": "2026-03-17T16:13:37+00:00"
   }
 ]

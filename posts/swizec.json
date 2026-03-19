@@ -1,5 +1,10 @@
 [
   {
+    "title": "The best engineers just get shit done, sometimes with AI",
+    "link": "https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/",
+    "pubDate": "2026-03-19T16:56:11+00:00"
+  },
+  {
     "title": "Taming chaos is a learnable skill",
     "link": "https://swizec.com/blog/taming-chaos-is-a-learnable-skill/",
     "pubDate": "2026-03-11T16:50:24+00:00"
@@ -18,10 +23,5 @@
     "title": "Users buy your service, not your code",
     "link": "https://swizec.com/blog/users-buy-your-service-not-your-code/",
     "pubDate": "2026-02-18T17:01:23+00:00"
-  },
-  {
-    "title": "GeLLMan amnesia",
-    "link": "https://swizec.com/blog/ge-ll-man-amnesia/",
-    "pubDate": "2026-02-16T22:26:45+00:00"
   }
 ]
