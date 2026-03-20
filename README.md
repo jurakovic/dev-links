@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-20 simonwillison</small>  
+<small>[Quoting Kimi.ai @Kimi\_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 microservices</small>  
 <small>[Microservices Platforms - part 6: Build platform](http://microservices.io//post/architecture/2026/03/20/qconsf-microservices-platforms-part-6.html)</small>
 
@@ -60,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-17 simonwillison</small>  
 <small>[Quoting Ken Jin](https://simonwillison.net/2026/Mar/17/ken-jin/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-17 simonwillison</small>  
-<small>[GPT-5.4 mini and GPT-5.4 nano, which can describe 76,000 photos for $52](https://simonwillison.net/2026/Mar/17/mini-and-nano/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
