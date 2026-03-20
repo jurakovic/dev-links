@@ -1,5 +1,10 @@
 [
   {
+    "title": "After all the hype, was 2025 really the year of AI agents?",
+    "link": "https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/",
+    "pubDate": "2026-03-20T07:40:00+00:00"
+  },
+  {
     "title": "AI is becoming a second brain at the expense of your first one",
     "link": "https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/",
     "pubDate": "2026-03-19T14:01:58+00:00"
@@ -18,10 +23,5 @@
     "title": "Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers",
     "link": "https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/",
     "pubDate": "2026-03-16T14:00:00+00:00"
-  },
-  {
-    "title": "Open source for awkward robots",
-    "link": "https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/",
-    "pubDate": "2026-03-13T07:40:00+00:00"
   }
 ]

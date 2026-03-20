@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-20 stackoverflow</small>  
+<small>[After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 bencane</small>  
 <small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
 
@@ -12,6 +15,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 dotnet</small>  
 <small>[Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
+<small>[AI Benefits - But at What Cost?](https://ardalis.com/ai-benefits---but-at-what-cost/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-19 slack</small>  
 <small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
@@ -111,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-13 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 5: Delegation](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-13 stackoverflow</small>  
-<small>[Open source for awkward robots](https://stackoverflow.blog/2026/03/13/open-source-for-awkward-robots/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
 <small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-02-23 hillelwayne</small>  
 <small>[Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-02-23 techtrenches</small>  
-<small>[AI Agent Platforms: The Security Nightmare Nobody’s Talking About](https://techtrenches.dev/p/ai-agent-platforms-the-security-nightmare)</small>
 
