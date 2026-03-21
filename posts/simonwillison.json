@@ -1,5 +1,10 @@
 [
   {
+    "title": "Using Git with coding agents",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
+    "pubDate": "2026-03-21T22:08:24+00:00"
+  },
+  {
     "title": "Turbo Pascal 3.02A, deconstructed",
     "link": "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything",
     "pubDate": "2026-03-20T23:59:14+00:00"
@@ -18,10 +23,5 @@
     "title": "Autoresearching Apple's \"LLM in a Flash\" to run Qwen 397B locally",
     "link": "https://simonwillison.net/2026/Mar/18/llm-in-a-flash/#atom-everything",
     "pubDate": "2026-03-18T23:56:46+00:00"
-  },
-  {
-    "title": "Snowflake Cortex AI Escapes Sandbox and Executes Malware",
-    "link": "https://simonwillison.net/2026/Mar/18/snowflake-cortex-ai/#atom-everything",
-    "pubDate": "2026-03-18T17:43:49+00:00"
   }
 ]
