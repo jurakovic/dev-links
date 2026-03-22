@@ -1,5 +1,10 @@
 [
   {
+    "title": "A quarter of a billion NuGet downloads",
+    "link": "https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads",
+    "pubDate": "2026-03-22T16:28:14+00:00"
+  },
+  {
     "title": "Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk",
     "link": "https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps",
     "pubDate": "2026-02-26T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Static Web App WASM Search",
     "link": "https://www.devlead.se/posts/2025/2025-03-12-static-web-app-wasm-search",
     "pubDate": "2025-03-12T00:00:00+00:00"
-  },
-  {
-    "title": "SLNX Finally here📄",
-    "link": "https://www.devlead.se/posts/2025/2025-02-24-slnx-finally-here",
-    "pubDate": "2025-02-24T00:00:00+00:00"
   }
 ]
