@@ -4,20 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
+<small>[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
+<small>[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-22 simonwillison</small>  
+<small>[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-22 simonwillison</small>  
+<small>[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-22 simonwillison</small>  
+<small>[JavaScript Sandboxing Research](https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-03-22 devlead</small>  
 <small>[A quarter of a billion NuGet downloads](https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-21 simonwillison</small>  
-<small>[Profiling Hacker News users based on their comments](https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-21 simonwillison</small>  
-<small>[Using Git with coding agents](https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-20 simonwillison</small>  
-<small>[Turbo Pascal 3.02A, deconstructed](https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-20 simonwillison</small>  
-<small>[Quoting Kimi.ai @Kimi\_Moonshot](https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 microservices</small>  
 <small>[Microservices Platforms - part 6: Build platform](http://microservices.io//post/architecture/2026/03/20/qconsf-microservices-platforms-part-6.html)</small>
@@ -46,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
 <small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-19 simonwillison</small>  
-<small>[Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-19 martinfowler</small>  
 <small>[Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)</small>
 
@@ -66,12 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
@@ -303,4 +297,10 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-02-24 andrewlock</small>  
 <small>[Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4](https://andrewlock.net/recording-metrics-in-process-using-meterlistener/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 microservices</small>  
+<small>[Microservices Platforms - part 5: Observability platform](http://microservices.io//post/architecture/2026/02/24/qconsf-microservices-platforms-part-5.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
+<small>[What's so hard about continuous learning?](https://seangoedecke.com/continuous-learning/)</small>
 

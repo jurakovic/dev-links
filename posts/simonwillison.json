@@ -1,27 +1,27 @@
 [
   {
-    "title": "Profiling Hacker News users based on their comments",
-    "link": "https://simonwillison.net/2026/Mar/21/profiling-hacker-news-users/#atom-everything",
-    "pubDate": "2026-03-21T23:59:47+00:00"
+    "title": "Beats now have notes",
+    "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
+    "pubDate": "2026-03-23T02:13:13+00:00"
   },
   {
-    "title": "Using Git with coding agents",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/using-git-with-coding-agents/#atom-everything",
-    "pubDate": "2026-03-21T22:08:24+00:00"
+    "title": "Starlette 1.0 skill",
+    "link": "https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything",
+    "pubDate": "2026-03-23T00:05:00+00:00"
   },
   {
-    "title": "Turbo Pascal 3.02A, deconstructed",
-    "link": "https://simonwillison.net/2026/Mar/20/turbo-pascal/#atom-everything",
-    "pubDate": "2026-03-20T23:59:14+00:00"
+    "title": "Experimenting with Starlette 1.0 with Claude skills",
+    "link": "https://simonwillison.net/2026/Mar/22/starlette/#atom-everything",
+    "pubDate": "2026-03-22T23:57:44+00:00"
   },
   {
-    "title": "Quoting Kimi.ai @Kimi_Moonshot",
-    "link": "https://simonwillison.net/2026/Mar/20/cursor-on-kimi/#atom-everything",
-    "pubDate": "2026-03-20T20:29:23+00:00"
+    "title": "PCGamer Article Performance Audit",
+    "link": "https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything",
+    "pubDate": "2026-03-22T22:49:00+00:00"
   },
   {
-    "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
-    "link": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/#atom-everything",
-    "pubDate": "2026-03-19T16:45:15+00:00"
+    "title": "JavaScript Sandboxing Research",
+    "link": "https://simonwillison.net/2026/Mar/22/javascript-sandboxing-research/#atom-everything",
+    "pubDate": "2026-03-22T19:53:00+00:00"
   }
 ]
