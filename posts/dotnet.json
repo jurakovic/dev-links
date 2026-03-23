@@ -1,5 +1,10 @@
 [
   {
+    "title": "Generative AI for Beginners .NET: Version 2 on .NET 10",
+    "link": "https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/",
+    "pubDate": "2026-03-23T17:05:00+00:00"
+  },
+  {
     "title": "Ten Months with Copilot Coding Agent in dotnet/runtime",
     "link": "https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/",
     "pubDate": "2026-03-23T14:55:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Modernize .NET Anywhere with GitHub Copilot",
     "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/",
     "pubDate": "2026-03-12T17:05:00+00:00"
-  },
-  {
-    "title": ".NET 10.0.5 Out-of-Band Release – macOS Debugger Fix",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-0-5-oob-release-macos-debugger-fix/",
-    "pubDate": "2026-03-12T17:00:00+00:00"
   }
 ]

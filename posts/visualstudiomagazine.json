@@ -1,5 +1,10 @@
 [
   {
+    "title": "TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/23/TypeScript-6-0-Ships-as-Final-JavaScript-Based-Release-Clears-Path-for-Go-Native-7-0.aspx",
+    "pubDate": "2026-03-23T18:23:00+00:00"
+  },
+  {
     "title": "Hands On with VS Code 1.112's New Image Analysis for Agents",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/19/Hands-On-with-VS-Code-1-112s-New-Image-Analysis-for-Agents.aspx",
     "pubDate": "2026-03-19T21:34:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code 1.111 Debuts Weekly Stable Cadence, Expands Agent Controls",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/11/VS-Code-1-111-Debuts-Weekly-Stable-Cadence-Expands-Agent-Controls.aspx",
     "pubDate": "2026-03-11T21:31:00+00:00"
-  },
-  {
-    "title": "Microsoft Sharpens AI Toolkit for VS Code in Foundry Update",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/09/Microsoft-Sharpens-AI-Toolkit-for-VS-Code-in-Foundry-Update.aspx",
-    "pubDate": "2026-03-09T17:06:00+00:00"
   }
 ]
