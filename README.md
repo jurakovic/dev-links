@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-23 bartwullems</small>  
+<small>[You no longer have to wait for Copilot to finish thinking](https://bartwullems.blogspot.com/2026/03/you-no-longer-have-to-wait-for-copilot.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
 <small>[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything)</small>
 
@@ -177,9 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-09 microservices</small>  
 <small>[GenAI-based development platform - part 1: guardrails](http://microservices.io//post/architecture/2026/03/09/genai-development-platform-part-1-development-guardrails.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-09 bartwullems</small>  
-<small>[GitHub Copilot CLI Tips & Tricks — Part 1: Understanding the Different Modes](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-1.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-08 third-bit</small>  
 <small>[Cognitive Pollution](https://third-bit.com/2026/03/08/cognitive-pollution/)</small>

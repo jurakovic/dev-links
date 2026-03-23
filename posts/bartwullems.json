@@ -1,5 +1,10 @@
 [
   {
+    "title": "You no longer have to wait for Copilot to finish thinking",
+    "link": "https://bartwullems.blogspot.com/2026/03/you-no-longer-have-to-wait-for-copilot.html",
+    "pubDate": "2026-03-23T06:59:00+00:00"
+  },
+  {
     "title": "GitHub Copilot CLI Tips & Tricks — Part 5: Delegation",
     "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html",
     "pubDate": "2026-03-13T08:37:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot CLI Tips & Tricks — Part 2: Session management",
     "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-2.html",
     "pubDate": "2026-03-10T06:36:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot CLI Tips & Tricks — Part 1: Understanding the Different Modes",
-    "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-1.html",
-    "pubDate": "2026-03-09T06:38:00+00:00"
   }
 ]
