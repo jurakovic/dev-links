@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-23 techtrenches</small>  
+<small>[The Autonomy Illusion](https://techtrenches.dev/p/the-autonomy-illusion)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
+<small>[Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-23 bartwullems</small>  
 <small>[You no longer have to wait for Copilot to finish thinking](https://bartwullems.blogspot.com/2026/03/you-no-longer-have-to-wait-for-copilot.html)</small>
 
@@ -154,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-11 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 3: Parallelizing Work](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-3.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-10 dotnet</small>  
-<small>[.NET 11 Preview 2 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-2/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-10 martinfowler</small>  
 <small>[Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-24 microservices</small>  
 <small>[Microservices Platforms - part 5: Observability platform](http://microservices.io//post/architecture/2026/02/24/qconsf-microservices-platforms-part-5.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-02-23 seangoedecke</small>  
-<small>[What's so hard about continuous learning?](https://seangoedecke.com/continuous-learning/)</small>
 
