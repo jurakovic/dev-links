@@ -1,5 +1,15 @@
 [
   {
+    "title": "Package Managers Need to Cool Down",
+    "link": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything",
+    "pubDate": "2026-03-24T21:11:38+00:00"
+  },
+  {
+    "title": "Quoting Christopher Mims",
+    "link": "https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything",
+    "pubDate": "2026-03-24T20:35:52+00:00"
+  },
+  {
     "title": "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
     "link": "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything",
     "pubDate": "2026-03-24T15:07:31+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Neurotica",
     "link": "https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything",
     "pubDate": "2026-03-23T23:31:45+00:00"
-  },
-  {
-    "title": "datasette-files 0.1a2",
-    "link": "https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything",
-    "pubDate": "2026-03-23T23:06:38+00:00"
-  },
-  {
-    "title": "Quoting David Abram",
-    "link": "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything",
-    "pubDate": "2026-03-23T18:56:18+00:00"
   }
 ]
