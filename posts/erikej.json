@@ -1,5 +1,10 @@
 [
   {
+    "title": "Supercharge Database DevOps in SSMS with SQL Database Project Power Tools",
+    "link": "https://erikej.github.io/sqlserver/ssms/dacfx/2026/03/24/sql-database-project-power-tools-ssms.html",
+    "pubDate": "2026-03-24T11:00:00+00:00"
+  },
+  {
     "title": "Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support",
     "link": "https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html",
     "pubDate": "2026-03-13T17:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Getting Started with SQL Database Project Power Tools",
     "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html",
     "pubDate": "2026-01-29T17:28:49+00:00"
-  },
-  {
-    "title": "Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip",
-    "link": "https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html",
-    "pubDate": "2025-10-22T17:28:49+00:00"
   }
 ]

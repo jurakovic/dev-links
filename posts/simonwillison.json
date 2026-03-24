@@ -1,5 +1,10 @@
 [
   {
+    "title": "Malicious litellm_init.pth in litellm 1.82.8 — credential stealer",
+    "link": "https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything",
+    "pubDate": "2026-03-24T15:07:31+00:00"
+  },
+  {
     "title": "Streaming experts",
     "link": "https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything",
     "pubDate": "2026-03-24T05:09:03+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting David Abram",
     "link": "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything",
     "pubDate": "2026-03-23T18:56:18+00:00"
-  },
-  {
-    "title": "Beats now have notes",
-    "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
-    "pubDate": "2026-03-23T02:13:13+00:00"
   }
 ]
