@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
+<small>[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
+<small>[SQL code analysis in VS Code: Configure rules without editing your project file](https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
+<small>[Manage SQL database schemas in VS Code: Publish dialog and item templates](https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
+<small>[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
+<small>[datasette-files 0.1a2](https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
 <small>[Quoting David Abram](https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything)</small>
 
@@ -24,15 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
 <small>[Beats now have notes](https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
-<small>[Starlette 1.0 skill](https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-22 simonwillison</small>  
-<small>[Experimenting with Starlette 1.0 with Claude skills](https://simonwillison.net/2026/Mar/22/starlette/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-22 simonwillison</small>  
-<small>[PCGamer Article Performance Audit](https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-03-22 devlead</small>  
 <small>[A quarter of a billion NuGet downloads](https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads)</small>
@@ -247,9 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-03-03 netflix</small>  
 <small>[Optimizing Recommendation Systems with JDK’s Vector API](https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-02 azure-sql</small>  
-<small>[What questions will you ask your data agent?](https://devblogs.microsoft.com/azure-sql/data-api-builder-mcp-questions/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-03-02 rickstrahl</small>  
 <small>[Azure Trusted Signing Revisited with Dotnet Sign](https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign)</small>
 
@@ -279,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-02-26 rickstrahl</small>  
 <small>[Don't use the Microsoft Timestamp Server for Signing](https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-02-26 azure-sql</small>  
-<small>[The Polyglot Tax](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-02-26 devlead</small>  
 <small>[Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk](https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps)</small>

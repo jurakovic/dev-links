@@ -1,5 +1,20 @@
 [
   {
+    "title": "Streaming experts",
+    "link": "https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything",
+    "pubDate": "2026-03-24T05:09:03+00:00"
+  },
+  {
+    "title": "Quoting Neurotica",
+    "link": "https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything",
+    "pubDate": "2026-03-23T23:31:45+00:00"
+  },
+  {
+    "title": "datasette-files 0.1a2",
+    "link": "https://simonwillison.net/2026/Mar/23/datasette-files/#atom-everything",
+    "pubDate": "2026-03-23T23:06:38+00:00"
+  },
+  {
     "title": "Quoting David Abram",
     "link": "https://simonwillison.net/2026/Mar/23/david-abram/#atom-everything",
     "pubDate": "2026-03-23T18:56:18+00:00"
@@ -8,20 +23,5 @@
     "title": "Beats now have notes",
     "link": "https://simonwillison.net/2026/Mar/23/beats-now-have-notes/#atom-everything",
     "pubDate": "2026-03-23T02:13:13+00:00"
-  },
-  {
-    "title": "Starlette 1.0 skill",
-    "link": "https://simonwillison.net/2026/Mar/23/starlette-1-skill/#atom-everything",
-    "pubDate": "2026-03-23T00:05:00+00:00"
-  },
-  {
-    "title": "Experimenting with Starlette 1.0 with Claude skills",
-    "link": "https://simonwillison.net/2026/Mar/22/starlette/#atom-everything",
-    "pubDate": "2026-03-22T23:57:44+00:00"
-  },
-  {
-    "title": "PCGamer Article Performance Audit",
-    "link": "https://simonwillison.net/2026/Mar/22/pcgamer-audit/#atom-everything",
-    "pubDate": "2026-03-22T22:49:00+00:00"
   }
 ]
