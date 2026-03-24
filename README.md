@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-24 stackoverflow</small>  
+<small>[Multi-stage attacks are the Final Fantasy bosses of security](https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-24 bartwullems</small>  
+<small>[How to explore multiple solutions in parallel when using Github Copilot](https://bartwullems.blogspot.com/2026/03/how-to-explore-multiple-solutions-in.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
 <small>[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything)</small>
 
@@ -118,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-16 techtrenches</small>  
 <small>[AI’s Announcement Problem](https://techtrenches.dev/p/ais-announcement-problem)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-16 stackoverflow</small>  
-<small>[Domain expertise still wanted: the latest trends in AI-assisted knowledge for developers](https://stackoverflow.blog/2026/03/16/domain-expertise-still-wanted-the-latest-trends-in-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-16 steven-giesel</small>  
 <small>[records ToString and inheritence](https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7)</small>
 
@@ -174,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-03-10 andrewlock</small>  
 <small>[Splitting the NetEscapades.EnumGenerators packages: the road to a stable release](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-10 bartwullems</small>  
-<small>[GitHub Copilot CLI Tips & Tricks — Part 2: Session management](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-2.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 visualstudio</small>  
 <small>[Visual Studio Dev Essentials: Free, Practical Tools for Every Developer](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/)</small>
