@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-03-25 haacked</small>  
+<small>[Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-25 simonwillison</small>  
+<small>[Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-25 simonwillison</small>  
+<small>[datasette-llm 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-25 simonwillison</small>  
+<small>[LiteLLM Hack: Were You One of the 47,000?](https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-25 swizec</small>  
 <small>[Software engineer interviews for the age of AI](https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/)</small>
 
@@ -25,12 +37,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
 <small>[Package Managers Need to Cool Down](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
-<small>[Quoting Christopher Mims](https://simonwillison.net/2026/Mar/24/christopher-mims/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
-<small>[Malicious litellm\_init.pth in litellm 1.82.8 — credential stealer](https://simonwillison.net/2026/Mar/24/malicious-litellm/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 visualstudio</small>  
 <small>[Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/)</small>
 
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-24 bartwullems</small>  
 <small>[How to explore multiple solutions in parallel when using Github Copilot](https://bartwullems.blogspot.com/2026/03/how-to-explore-multiple-solutions-in.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
-<small>[Streaming experts](https://simonwillison.net/2026/Mar/24/streaming-experts/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
 <small>[SQL code analysis in VS Code: Configure rules without editing your project file](https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-27 bencane</small>  
 <small>[You can have 100% Code Coverage and still have ticking time bombs in your code. 💣](https://bencane.com/posts/2026-02-26/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-02-26 rickstrahl</small>  
-<small>[Don't use the Microsoft Timestamp Server for Signing](https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing)</small>
 
