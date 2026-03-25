@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
+<small>[Auto mode for Claude Code](https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-24 third-bit</small>  
 <small>[Accessibility Improvements](https://third-bit.com/2026/03/24/accessibility-improvements/)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
 <small>[Manage SQL database schemas in VS Code: Publish dialog and item templates](https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-23 simonwillison</small>  
-<small>[Quoting Neurotica](https://simonwillison.net/2026/Mar/23/neurotica/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-23 visualstudiomagazine</small>  
 <small>[TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0](https://visualstudiomagazine.com/Articles/2026/03/23/TypeScript-6-0-Ships-as-Final-JavaScript-Based-Release-Clears-Path-for-Go-Native-7-0.aspx)</small>
