@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-25 swizec</small>  
+<small>[Software engineer interviews for the age of AI](https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-25 visualstudiomagazine</small>  
+<small>[.NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support](https://visualstudiomagazine.com/Articles/2026/03/25/NET-Aspire-13-2-Adds-AI-Agent-CLI-TypeScript-AppHost-Support.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-25 third-bit</small>  
 <small>[A Modest Proposal](https://third-bit.com/2026/03/25/a-modest-proposal/)</small>
 
@@ -112,6 +118,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
 
@@ -177,9 +189,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-12 bartwullems</small>  
 <small>[GitHub Copilot CLI Tips & Tricks — Part 4: Automating and enforcing policies with hooks](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-4.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-11 visualstudiomagazine</small>  
-<small>[VS Code 1.111 Debuts Weekly Stable Cadence, Expands Agent Controls](https://visualstudiomagazine.com/Articles/2026/03/11/VS-Code-1-111-Debuts-Weekly-Stable-Cadence-Expands-Agent-Controls.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-11 swizec</small>  
 <small>[Taming chaos is a learnable skill](https://swizec.com/blog/taming-chaos-is-a-learnable-skill/)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-02-26 rickstrahl</small>  
 <small>[Don't use the Microsoft Timestamp Server for Signing](https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-02-26 devlead</small>  
-<small>[Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk](https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-02-25 dbreunig</small>  
-<small>[Two Beliefs About Coding Agents](https://www.dbreunig.com/2026/02/25/two-things-i-believe-about-coding-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-02-25 addyosmani</small>  
-<small>[The Factory Model: How Coding Agents Changed Software Engineering](https://addyosmani.com/blog/factory-model/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Software engineer interviews for the age of AI",
+    "link": "https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/",
+    "pubDate": "2026-03-25T17:00:22+00:00"
+  },
+  {
     "title": "The best engineers just get shit done, sometimes with AI",
     "link": "https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/",
     "pubDate": "2026-03-19T16:56:11+00:00"
@@ -18,10 +23,5 @@
     "title": "Probably the realest thing I ever wrote",
     "link": "https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/",
     "pubDate": "2026-02-28T22:21:02+00:00"
-  },
-  {
-    "title": "Users buy your service, not your code",
-    "link": "https://swizec.com/blog/users-buy-your-service-not-your-code/",
-    "pubDate": "2026-02-18T17:01:23+00:00"
   }
 ]
