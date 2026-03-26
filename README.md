@@ -7,6 +7,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-27 bencane</small>  
 <small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-26 third-bit</small>  
+<small>[Feasible](https://third-bit.com/2026/03/26/feasible/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-26 martinfowler</small>  
+<small>[Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-26 simonwillison</small>  
 <small>[Quantization from the ground up](https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything)</small>
 
@@ -172,9 +178,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-16 steven-giesel</small>  
 <small>[records ToString and inheritence](https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-15 third-bit</small>  
-<small>[Distributed Systems Design by Example](https://third-bit.com/2026/03/15/dsdx/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-14 seangoedecke</small>  
 <small>[Big tech engineers need big egos](https://seangoedecke.com/big-tech-needs-big-egos/)</small>
 
@@ -207,9 +210,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-11 lethain</small>  
 <small>[Judgment and creativity are all you need.](https://lethain.com/judgment-is-all-you-need/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-10 martinfowler</small>  
-<small>[Fragments: March 10](https://martinfowler.com/fragments/2026-03-10.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-03-10 andrewlock</small>  
 <small>[Splitting the NetEscapades.EnumGenerators packages: the road to a stable release](https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/)</small>
