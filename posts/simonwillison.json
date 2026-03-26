@@ -1,5 +1,10 @@
 [
   {
+    "title": "datasette-files-s3 0.1a1",
+    "link": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
+    "pubDate": "2026-03-25T21:57:05+00:00"
+  },
+  {
     "title": "Thoughts on slowing the fuck down",
     "link": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
     "pubDate": "2026-03-25T21:47:17+00:00"
@@ -18,10 +23,5 @@
     "title": "Auto mode for Claude Code",
     "link": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
     "pubDate": "2026-03-24T23:57:33+00:00"
-  },
-  {
-    "title": "Package Managers Need to Cool Down",
-    "link": "https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything",
-    "pubDate": "2026-03-24T21:11:38+00:00"
   }
 ]

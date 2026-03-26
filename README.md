@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-27 bencane</small>  
+<small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-03-25 haacked</small>  
 <small>[Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-25 simonwillison</small>  
+<small>[datasette-files-s3 0.1a1](https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-25 simonwillison</small>  
 <small>[Thoughts on slowing the fuck down](https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything)</small>
@@ -33,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-24 third-bit</small>  
 <small>[Accessibility Improvements](https://third-bit.com/2026/03/24/accessibility-improvements/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-24 simonwillison</small>  
-<small>[Package Managers Need to Cool Down](https://simonwillison.net/2026/Mar/24/package-managers-need-to-cool-down/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 visualstudio</small>  
 <small>[Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-02-28 swizec</small>  
 <small>[Probably the realest thing I ever wrote](https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-02-27 bencane</small>  
-<small>[You can have 100% Code Coverage and still have ticking time bombs in your code. 💣](https://bencane.com/posts/2026-02-26/)</small>
 
