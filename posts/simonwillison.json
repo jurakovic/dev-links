@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quantization from the ground up",
+    "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
+    "pubDate": "2026-03-26T16:21:09+00:00"
+  },
+  {
     "title": "datasette-files-s3 0.1a1",
     "link": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
     "pubDate": "2026-03-25T21:57:05+00:00"
@@ -18,10 +23,5 @@
     "title": "LiteLLM Hack: Were You One of the 47,000?",
     "link": "https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything",
     "pubDate": "2026-03-25T17:21:04+00:00"
-  },
-  {
-    "title": "Auto mode for Claude Code",
-    "link": "https://simonwillison.net/2026/Mar/24/auto-mode-for-claude-code/#atom-everything",
-    "pubDate": "2026-03-24T23:57:33+00:00"
   }
 ]

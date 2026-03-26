@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building shared coding guidelines for AI (and people too)",
+    "link": "https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/",
+    "pubDate": "2026-03-26T14:00:00+00:00"
+  },
+  {
     "title": "Multi-stage attacks are the Final Fantasy bosses of security",
     "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
     "pubDate": "2026-03-24T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Building a global engineering team (plus AI agents) with Netlify",
     "link": "https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/",
     "pubDate": "2026-03-19T07:40:00+00:00"
-  },
-  {
-    "title": "Keeping the lights on for open source",
-    "link": "https://stackoverflow.blog/2026/03/17/keeping-the-lights-on-for-open-source/",
-    "pubDate": "2026-03-17T16:00:00+00:00"
   }
 ]
