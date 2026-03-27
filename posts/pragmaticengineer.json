@@ -1,5 +1,10 @@
 [
   {
+    "title": "Is the FDE role becoming less desirable?",
+    "link": "https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/",
+    "pubDate": "2026-03-27T10:29:33+00:00"
+  },
+  {
     "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
     "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
     "pubDate": "2026-03-05T18:03:16+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Cloudflare’s latest outage proves dangers of global configuration changes (again)",
     "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflares-latest-outage/",
     "pubDate": "2025-12-18T17:44:21+00:00"
-  },
-  {
-    "title": "The Pulse: Could a 5-day RTO be around the corner for Big Tech?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-could-a-5-day-rto-be-around-the-corner-for-big-tech/",
-    "pubDate": "2025-12-13T15:21:25+00:00"
   }
 ]

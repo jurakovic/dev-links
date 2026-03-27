@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases",
+    "link": "https://visualstudiomagazine.com/Articles/2026/03/27/VS-Code-1-113-Bundles-Agent-Chat-and-Editor-Tweaks-as-Team-Settles-into-Weekly-Releases.aspx",
+    "pubDate": "2026-03-27T16:11:00+00:00"
+  },
+  {
     "title": ".NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/25/NET-Aspire-13-2-Adds-AI-Agent-CLI-TypeScript-AppHost-Support.aspx",
     "pubDate": "2026-03-25T16:04:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control",
     "link": "https://visualstudiomagazine.com/Articles/2026/03/19/VS-Code-1-112-Adds-Integrated-Browser-Debugging-More-Copilot-CLI-Control.aspx",
     "pubDate": "2026-03-19T18:59:00+00:00"
-  },
-  {
-    "title": "Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise",
-    "link": "https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx",
-    "pubDate": "2026-03-13T19:13:00+00:00"
   }
 ]

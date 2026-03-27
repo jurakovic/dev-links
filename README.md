@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-27 visualstudiomagazine</small>  
+<small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/Articles/2026/03/27/VS-Code-1-113-Bundles-Agent-Chat-and-Editor-Tweaks-as-Team-Settles-into-Weekly-Releases.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-27 third-bit</small>  
 <small>[Another Modest Proposal](https://third-bit.com/2026/03/27/another-modest-proposal/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-27 pragmaticengineer</small>  
+<small>[Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-27 stackoverflow</small>  
 <small>[Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/)</small>
@@ -154,6 +160,12 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
 
@@ -189,9 +201,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-03-14 addyosmani</small>  
 <small>[Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-13 visualstudiomagazine</small>  
-<small>[Microsoft Launches Azure Skills Plugin to Give AI Coding Agents Real Azure Expertise](https://visualstudiomagazine.com/Articles/2026/03/13/Microsoft-Launches-Azure-Skills-Plugin-to-Give-AI-Coding-Agents-Real-Azure-Expertise.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 erikej</small>  
 <small>[Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support](https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
 <small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-01 dbreunig</small>  
-<small>[We’re Talking About Terms of Use, But the Issue is Embedded Judgment](https://www.dbreunig.com/2026/03/01/the-issue-is-embedded-judgment.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 antirez</small>  
-<small>[Redis patterns for coding](http://antirez.com/news/161)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 microservices</small>  
-<small>[Why GenAI-based coding agents are a complex domain in Cynefin - and what that means for adoption](http://microservices.io//post/architecture/2026/03/01/using-genai-based-coding-agents-cynefin-complex-domain.html)</small>
 
