@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Richard Fontana",
+    "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
+    "pubDate": "2026-03-27T21:11:17+00:00"
+  },
+  {
+    "title": "Vibe coding SwiftUI apps is a lot of fun",
+    "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything",
+    "pubDate": "2026-03-27T20:59:53+00:00"
+  },
+  {
     "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
     "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
     "pubDate": "2026-03-27T00:35:01+00:00"
@@ -13,15 +23,5 @@
     "title": "Quantization from the ground up",
     "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
     "pubDate": "2026-03-26T16:21:09+00:00"
-  },
-  {
-    "title": "datasette-files-s3 0.1a1",
-    "link": "https://simonwillison.net/2026/Mar/25/datasette-files-s3/#atom-everything",
-    "pubDate": "2026-03-25T21:57:05+00:00"
-  },
-  {
-    "title": "Thoughts on slowing the fuck down",
-    "link": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
-    "pubDate": "2026-03-25T21:47:17+00:00"
   }
 ]
