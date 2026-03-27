@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-27 third-bit</small>  
+<small>[Another Modest Proposal](https://third-bit.com/2026/03/27/another-modest-proposal/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-27 stackoverflow</small>  
+<small>[Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-27 bartwullems</small>  
+<small>[SQL Server silently renames your user when you ALTER with a login](https://bartwullems.blogspot.com/2026/03/sql-server-silently-renames-your-user.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
 <small>[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything)</small>
 
@@ -63,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-25 bartwullems</small>  
 <small>[Validating configuration at startup with IValidateOptions in .NET](https://bartwullems.blogspot.com/2026/03/validating-configuration-at-startup.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-24 third-bit</small>  
-<small>[Accessibility Improvements](https://third-bit.com/2026/03/24/accessibility-improvements/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 visualstudio</small>  
 <small>[Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/)</small>
@@ -142,20 +148,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-19 stackoverflow</small>  
 <small>[AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-19 stackoverflow</small>  
-<small>[Building a global engineering team (plus AI agents) with Netlify](https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[DiskANN Vector Index Improvements](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-improvements/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
@@ -201,9 +198,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-13 jimmybogard</small>  
 <small>[AutoMapper 16.1.1 Released](https://www.jimmybogard.com/automapper-16-1-1-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-13 bartwullems</small>  
-<small>[GitHub Copilot CLI Tips & Tricks — Part 5: Delegation](https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
 <small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
@@ -303,4 +297,10 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-01 dbreunig</small>  
 <small>[We’re Talking About Terms of Use, But the Issue is Embedded Judgment](https://www.dbreunig.com/2026/03/01/the-issue-is-embedded-judgment.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 antirez</small>  
+<small>[Redis patterns for coding](http://antirez.com/news/161)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-01 microservices</small>  
+<small>[Why GenAI-based coding agents are a complex domain in Cynefin - and what that means for adoption](http://microservices.io//post/architecture/2026/03/01/using-genai-based-coding-agents-cynefin-complex-domain.html)</small>
 

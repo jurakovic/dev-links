@@ -1,5 +1,10 @@
 [
   {
+    "title": "Prevent agentic identity theft",
+    "link": "https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/",
+    "pubDate": "2026-03-27T07:40:00+00:00"
+  },
+  {
     "title": "Building shared coding guidelines for AI (and people too)",
     "link": "https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/",
     "pubDate": "2026-03-26T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "AI is becoming a second brain at the expense of your first one",
     "link": "https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/",
     "pubDate": "2026-03-19T14:01:58+00:00"
-  },
-  {
-    "title": "Building a global engineering team (plus AI agents) with Netlify",
-    "link": "https://stackoverflow.blog/2026/03/19/building-a-global-engineering-team-netlify/",
-    "pubDate": "2026-03-19T07:40:00+00:00"
   }
 ]

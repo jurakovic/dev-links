@@ -1,5 +1,10 @@
 [
   {
+    "title": "Another Modest Proposal",
+    "link": "https://third-bit.com/2026/03/27/another-modest-proposal/",
+    "pubDate": "2026-03-27T10:47:58+00:00"
+  },
+  {
     "title": "Classifying Research Software",
     "link": "https://third-bit.com/2026/03/26/classifying-research-software/",
     "pubDate": "2026-03-26T10:51:19+00:00"
@@ -18,10 +23,5 @@
     "title": "A Modest Proposal",
     "link": "https://third-bit.com/2026/03/25/a-modest-proposal/",
     "pubDate": "2026-03-25T10:47:06+00:00"
-  },
-  {
-    "title": "Accessibility Improvements",
-    "link": "https://third-bit.com/2026/03/24/accessibility-improvements/",
-    "pubDate": "2026-03-24T22:28:45+00:00"
   }
 ]

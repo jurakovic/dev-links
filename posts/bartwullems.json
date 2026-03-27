@@ -1,5 +1,10 @@
 [
   {
+    "title": "SQL Server silently renames your user when you ALTER with a login",
+    "link": "https://bartwullems.blogspot.com/2026/03/sql-server-silently-renames-your-user.html",
+    "pubDate": "2026-03-27T06:03:00+00:00"
+  },
+  {
     "title": "Compile-Time options validation with the OptionsValidator source generator",
     "link": "https://bartwullems.blogspot.com/2026/03/compile-time-options-validation-with.html",
     "pubDate": "2026-03-26T05:54:00+00:00"
@@ -18,10 +23,5 @@
     "title": "You no longer have to wait for Copilot to finish thinking",
     "link": "https://bartwullems.blogspot.com/2026/03/you-no-longer-have-to-wait-for-copilot.html",
     "pubDate": "2026-03-23T06:59:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot CLI Tips & Tricks — Part 5: Delegation",
-    "link": "https://bartwullems.blogspot.com/2026/03/github-copilot-cli-tips-tricks-part-5.html",
-    "pubDate": "2026-03-13T08:37:00+00:00"
   }
 ]
