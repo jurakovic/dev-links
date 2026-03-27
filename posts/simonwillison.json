@@ -1,5 +1,15 @@
 [
   {
+    "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
+    "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
+    "pubDate": "2026-03-27T00:35:01+00:00"
+  },
+  {
+    "title": "My minute-by-minute response to the LiteLLM malware attack",
+    "link": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
+    "pubDate": "2026-03-26T23:58:22+00:00"
+  },
+  {
     "title": "Quantization from the ground up",
     "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
     "pubDate": "2026-03-26T16:21:09+00:00"
@@ -13,15 +23,5 @@
     "title": "Thoughts on slowing the fuck down",
     "link": "https://simonwillison.net/2026/Mar/25/thoughts-on-slowing-the-fuck-down/#atom-everything",
     "pubDate": "2026-03-25T21:47:17+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a1",
-    "link": "https://simonwillison.net/2026/Mar/25/datasette-llm/#atom-everything",
-    "pubDate": "2026-03-25T21:24:31+00:00"
-  },
-  {
-    "title": "LiteLLM Hack: Were You One of the 47,000?",
-    "link": "https://simonwillison.net/2026/Mar/25/litellm-hack/#atom-everything",
-    "pubDate": "2026-03-25T17:21:04+00:00"
   }
 ]
