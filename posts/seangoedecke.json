@@ -1,5 +1,10 @@
 [
   {
+    "title": "Working on products people hate",
+    "link": "https://seangoedecke.com/working-on-products-people-hate/",
+    "pubDate": "2026-03-27T00:00:00+00:00"
+  },
+  {
     "title": "Engineers do get promoted for writing simple code",
     "link": "https://seangoedecke.com/simple-work-gets-rewarded/",
     "pubDate": "2026-03-26T10:51:21+00:00"
@@ -18,10 +23,5 @@
     "title": "Giving LLMs a personality is just good engineering",
     "link": "https://seangoedecke.com/giving-llms-a-personality/",
     "pubDate": "2026-03-03T05:13:07+00:00"
-  },
-  {
-    "title": "Insider amnesia",
-    "link": "https://seangoedecke.com/insider-amnesia/",
-    "pubDate": "2026-02-23T05:24:24+00:00"
   }
 ]

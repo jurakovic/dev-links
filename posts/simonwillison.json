@@ -1,5 +1,10 @@
 [
   {
+    "title": "datasette-showboat 0.1a2",
+    "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
+    "pubDate": "2026-03-27T23:42:47+00:00"
+  },
+  {
     "title": "Quoting Richard Fontana",
     "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
     "pubDate": "2026-03-27T21:11:17+00:00"
@@ -18,10 +23,5 @@
     "title": "My minute-by-minute response to the LiteLLM malware attack",
     "link": "https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything",
     "pubDate": "2026-03-26T23:58:22+00:00"
-  },
-  {
-    "title": "Quantization from the ground up",
-    "link": "https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything",
-    "pubDate": "2026-03-26T16:21:09+00:00"
   }
 ]

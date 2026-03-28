@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
+<small>[datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
 <small>[Quoting Richard Fontana](https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
@@ -31,6 +34,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-27 bencane</small>  
 <small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
+<small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-26 simonwillison</small>  
 <small>[My minute-by-minute response to the LiteLLM malware attack](https://simonwillison.net/2026/Mar/26/response-to-the-litellm-malware-attack/#atom-everything)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-26 martinfowler</small>  
 <small>[Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-26 simonwillison</small>  
-<small>[Quantization from the ground up](https://simonwillison.net/2026/Mar/26/quantization-from-the-ground-up/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-26 stackoverflow</small>  
 <small>[Building shared coding guidelines for AI (and people too)](https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-02 techtrenches</small>  
 <small>[The Comprehension Extinction: AI Isn’t Replacing Engineers. It’s Eliminating the Ones Who Understand.](https://techtrenches.dev/p/the-comprehension-extinction-ai-isnt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
-<small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
 
