@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-28 third-bit</small>  
+<small>[An E-Bike for the Mind](https://third-bit.com/2026/03/28/e-bike-for-the-mind/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
 <small>[datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything)</small>
 
@@ -75,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-25 visualstudiomagazine</small>  
 <small>[.NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support](https://visualstudiomagazine.com/Articles/2026/03/25/NET-Aspire-13-2-Adds-AI-Agent-CLI-TypeScript-AppHost-Support.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-25 third-bit</small>  
-<small>[A Modest Proposal](https://third-bit.com/2026/03/25/a-modest-proposal/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-25 bartwullems</small>  
 <small>[Validating configuration at startup with IValidateOptions in .NET](https://bartwullems.blogspot.com/2026/03/validating-configuration-at-startup.html)</small>
