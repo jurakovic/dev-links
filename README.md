@@ -136,6 +136,12 @@ Azure SQL Devs' Corner Blog
 <https://github.com/microsoft/sql-server-samples>  
 <div id="azure-sql" class="blog-posts"></div>
 
+![icon](favicons/microsoft.png)
+Azure SQL Blog  
+<https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/>  
+<https://github.com/microsoft/sql-server-samples>  
+<div id="azuresqlblog" class="blog-posts"></div>
+
 ![icon](favicons/use-the-index-luke.png)
 Markus Winand | SQL Indexing and Tuning  
 <https://use-the-index-luke.com/blog>  
@@ -525,6 +531,8 @@ Greg Wilson | The Third Bit Blog
 ![icon](favicons/samwho.png)
 samwho  
 <https://samwho.dev/blog>  
+<https://ngrok.com/blog/author/sam-rose>  
+<https://github.com/samwho>  
 <div id="samwho" class="blog-posts"></div>
 
 ![icon](favicons/seangoedecke.png)
