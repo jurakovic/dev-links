@@ -19,6 +19,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
 <small>[Vibe coding SwiftUI apps is a lot of fun](https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-27 terriblesoftware</small>  
+<small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-27 visualstudiomagazine</small>  
 <small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/Articles/2026/03/27/VS-Code-1-113-Bundles-Agent-Chat-and-Editor-Tweaks-as-Team-Settles-into-Weekly-Releases.aspx)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-03-02 rickstrahl</small>  
 <small>[Azure Trusted Signing Revisited with Dotnet Sign](https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-02 techtrenches</small>  
-<small>[The Comprehension Extinction: AI Isn’t Replacing Engineers. It’s Eliminating the Ones Who Understand.](https://techtrenches.dev/p/the-comprehension-extinction-ai-isnt)</small>
 
