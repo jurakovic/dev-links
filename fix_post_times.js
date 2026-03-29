@@ -36,18 +36,27 @@
 //      - A normalized midnight: "2023-01-13T00:00:00+00:00"  (old post, format only)
 //      - Already ISO UTC:       "2026-01-31T09:25:27+00:00"  (feed had correct format)
 //
-// 2. NEW POST with midnight time (00:00:00), published today
-//    The post appears for the first time and its date matches today in UTC. The feed
-//    is date-only, so midnight is not a real timestamp. The current time is used as
-//    a reasonable approximation of when the post was published.
+// 2. NEW POST with a future pubDate or timestamp, or with midnight time today
+//    A future pubDate means the feed is wrong — either date-only feeds that emit
+//    midnight UTC, or feeds that publish with pubDate set to a future date/time.
+//    In all cases the current time is used as a reasonable approximation of when
+//    the post was actually published.
 //    → pubDate = current UTC time as ISO 8601
 //    Example: "Sun, 22 Feb 2026 00:00:00 +0000" seen on 2026-02-22
 //             → "2026-02-22T14:35:12+00:00"
+//    Example: "Fri, 27 Mar 2026 00:00:00 +0000" seen on 2026-03-26 (feed off by one day)
+//             → "2026-03-26T05:40:05+00:00"
 //
-//    If the date does NOT match today, the post is older than this run (e.g. a new
-//    feed was added and historical posts are appearing for the first time). Using the
-//    current time would assign a completely wrong date, so the post falls through to
-//    strategy 3 instead.
+//    Two conditions trigger this:
+//    a) The parsed datetime is strictly after now (covers future dates and future
+//       times on the same day, e.g. feed says 23:00 but it is currently 10:00).
+//    b) The pubDate is midnight on today's date (feed is date-only; midnight has
+//       already passed so condition (a) would miss it).
+//
+//    If the date is in the past, the post is older than this run (e.g. a new feed was
+//    added and historical posts are appearing for the first time). Using the current
+//    time would assign a completely wrong date, so the post falls through to strategy
+//    3 instead.
 //
 // 3. NEW POST, everything else
 //    The post is new and either has a real time or is an old midnight post. The raw
@@ -144,13 +153,15 @@ process.stdin.on('end', () => {
         }
 
         // New post not seen before
-        if (/00:00:00/.test(post.pubDate) && pubdateToYMD(post.pubDate) === todayUTC) {
-            // Published today, feed just omits time — assign current time
+        const d = new Date(post.pubDate);
+        const isFutureDateTime = !isNaN(d.getTime()) && d > now;
+        const isMidnightToday = /00:00:00/.test(post.pubDate) && pubdateToYMD(post.pubDate) === todayUTC;
+        if (isFutureDateTime || isMidnightToday) {
+            // Future datetime or today with no real time — assign current time
             return { ...post, pubDate: nowISO };
         }
 
         // New post — normalize to ISO UTC
-        const d = new Date(post.pubDate);
         return isNaN(d.getTime()) ? post : { ...post, pubDate: toISO(d) };
     });
 

@@ -84,6 +84,18 @@
         "selected": true
     },
     {
+        "id": "azuresqlblog",
+        "author": "",
+        "title": "Azure SQL Blog",
+        "url": "https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/",
+        "feed": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=AzureSQLBlog",
+        "extras": [],
+        "github": "https://github.com/microsoft/sql-server-samples",
+        "category": "sql-main",
+        "icon": "microsoft",
+        "selected": true
+    },
+    {
         "id": "use-the-index-luke",
         "author": "Markus Winand",
         "title": "SQL Indexing and Tuning",
@@ -573,7 +585,19 @@
         "selected": true
     },
     {
-        "id": "github",
+        "id": "github-ai",
+        "author": "",
+        "title": "The GitHub Blog: AI & ML",
+        "url": "https://github.blog/ai-and-ml/",
+        "feed": "https://github.blog/ai-and-ml/feed/",
+        "extras": [],
+        "github": "",
+        "category": "tech-companies",
+        "icon": "github",
+        "selected": false
+    },
+    {
+        "id": "github-eng",
         "author": "",
         "title": "The GitHub Blog: Engineering",
         "url": "https://github.blog/category/engineering/",
@@ -698,8 +722,10 @@
         "title": "samwho",
         "url": "https://samwho.dev/blog",
         "feed": "https://samwho.dev/rss.xml",
-        "extras": [],
-        "github": "",
+        "extras": [
+            "https://ngrok.com/blog/author/sam-rose"
+        ],
+        "github": "https://github.com/samwho",
         "category": "general",
         "icon": "samwho",
         "selected": true
@@ -822,6 +848,18 @@
         "github": "https://github.com/gsferreira",
         "category": "general",
         "icon": "guiferreira",
+        "selected": false
+    },
+    {
+        "id": "lucumr-pocoo",
+        "author": "Armin Ronacher",
+        "title": "Armin Ronacher's Thoughts and Writings",
+        "url": "https://lucumr.pocoo.org",
+        "feed": "https://lucumr.pocoo.org/feed.xml",
+        "extras": [],
+        "github": "https://github.com/mitsuhiko",
+        "category": "management",
+        "icon": "lucumr-pocoo",
         "selected": false
     }
 ]

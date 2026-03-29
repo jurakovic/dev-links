@@ -315,6 +315,8 @@ Greg Wilson | The Third Bit Blog
 ![icon](../favicons/samwho.png)
 samwho  
 <https://samwho.dev/blog>  
+<https://ngrok.com/blog/author/sam-rose>  
+<https://github.com/samwho>  
 <div id="samwho" class="blog-posts"></div>
 
 ![icon](../favicons/seangoedecke.png)
@@ -380,6 +382,12 @@ Denis Stetskov | From the Trenches
 <https://techtrenches.dev/archive>  
 <div id="techtrenches" class="blog-posts"></div>
 
+![icon](../favicons/lucumr-pocoo.png)
+Armin Ronacher | Armin Ronacher's Thoughts and Writings  
+<https://lucumr.pocoo.org>  
+<https://github.com/mitsuhiko>  
+<div id="lucumr-pocoo" class="blog-posts"></div>
+
 <!-- END MANAGEMENT -->
 
 #### <a name="blogs-tech-sites"></a>Tech Sites / Articles <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
@@ -419,9 +427,14 @@ The Stack Overflow Blog
 <div id="stackoverflow" class="blog-posts"></div>
 
 ![icon](../favicons/github.png)
+The GitHub Blog: AI & ML  
+<https://github.blog/ai-and-ml/>  
+<div id="github-ai" class="blog-posts"></div>
+
+![icon](../favicons/github.png)
 The GitHub Blog: Engineering  
 <https://github.blog/category/engineering/>  
-<div id="github" class="blog-posts"></div>
+<div id="github-eng" class="blog-posts"></div>
 
 ![icon](../favicons/netflix.png)
 Netflix TechBlog  
