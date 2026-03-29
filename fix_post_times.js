@@ -162,7 +162,6 @@ process.stdin.on('end', () => {
         }
 
         // New post — normalize to ISO UTC
-        const d = new Date(post.pubDate);
         return isNaN(d.getTime()) ? post : { ...post, pubDate: toISO(d) };
     });
 
