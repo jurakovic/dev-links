@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+    "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+    "pubDate": "2026-03-24T16:00:00+00:00"
+  },
+  {
+    "title": "How Squad runs coordinated AI agents inside your repository",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+    "pubDate": "2026-03-19T16:09:50+00:00"
+  },
+  {
+    "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+    "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+    "pubDate": "2026-03-12T16:00:00+00:00"
+  },
+  {
+    "title": "The era of “AI as text” is over. Execution is the new interface.",
+    "link": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+    "pubDate": "2026-03-10T20:16:01+00:00"
+  },
+  {
+    "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+    "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+    "pubDate": "2026-03-09T16:00:00+00:00"
+  }
+]

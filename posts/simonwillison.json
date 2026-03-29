@@ -1,5 +1,20 @@
 [
   {
+    "title": "Pretext",
+    "link": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything",
+    "pubDate": "2026-03-29T20:08:45+00:00"
+  },
+  {
+    "title": "Pretext — Under the Hood",
+    "link": "https://simonwillison.net/2026/Mar/29/pretext-explainer/#atom-everything",
+    "pubDate": "2026-03-29T19:59:28+00:00"
+  },
+  {
+    "title": "Python Vulnerability Lookup",
+    "link": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything",
+    "pubDate": "2026-03-29T18:46:16+00:00"
+  },
+  {
     "title": "Quoting Matt Webb",
     "link": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
     "pubDate": "2026-03-28T12:04:26+00:00"
@@ -8,20 +23,5 @@
     "title": "datasette-showboat 0.1a2",
     "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
     "pubDate": "2026-03-27T23:42:47+00:00"
-  },
-  {
-    "title": "Quoting Richard Fontana",
-    "link": "https://simonwillison.net/2026/Mar/27/richard-fontana/#atom-everything",
-    "pubDate": "2026-03-27T21:11:17+00:00"
-  },
-  {
-    "title": "Vibe coding SwiftUI apps is a lot of fun",
-    "link": "https://simonwillison.net/2026/Mar/27/vibe-coding-swiftui/#atom-everything",
-    "pubDate": "2026-03-27T20:59:53+00:00"
-  },
-  {
-    "title": "We Rewrote JSONata with AI in a Day, Saved $500K/Year",
-    "link": "https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything",
-    "pubDate": "2026-03-27T00:35:01+00:00"
   }
 ]
