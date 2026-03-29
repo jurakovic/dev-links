@@ -722,7 +722,9 @@
         "title": "samwho",
         "url": "https://samwho.dev/blog",
         "feed": "https://samwho.dev/rss.xml",
-        "extras": [],
+        "extras": [
+            "https://ngrok.com/blog/author/sam-rose"
+        ],
         "github": "https://github.com/samwho",
         "category": "general",
         "icon": "samwho",
