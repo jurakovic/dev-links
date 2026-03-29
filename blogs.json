@@ -84,6 +84,18 @@
         "selected": true
     },
     {
+        "id": "azuresqlblog",
+        "author": "",
+        "title": "Azure SQL Blog",
+        "url": "https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/",
+        "feed": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=AzureSQLBlog",
+        "extras": [],
+        "github": "https://github.com/microsoft/sql-server-samples",
+        "category": "sql-main",
+        "icon": "microsoft",
+        "selected": true
+    },
+    {
         "id": "use-the-index-luke",
         "author": "Markus Winand",
         "title": "SQL Indexing and Tuning",
