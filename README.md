@@ -40,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
 <small>[We Rewrote JSONata with AI in a Day, Saved $500K/Year](https://simonwillison.net/2026/Mar/27/vine-porting-jsonata/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-27 bencane</small>  
-<small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
 <small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
 
@@ -69,6 +66,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-26 bartwullems</small>  
 <small>[Compile-Time options validation with the OptionsValidator source generator](https://bartwullems.blogspot.com/2026/03/compile-time-options-validation-with.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-26 bencane</small>  
+<small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-03-26 addyosmani</small>  
 <small>[The Code Agent Orchestra - what makes multi-agent coding work](https://addyosmani.com/blog/code-agent-orchestra/)</small>
@@ -130,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-20 stackoverflow</small>  
 <small>[After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 bencane</small>  
-<small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
 <small>[Hands On with VS Code 1.112's New Image Analysis for Agents](https://visualstudiomagazine.com/Articles/2026/03/19/Hands-On-with-VS-Code-1-112s-New-Image-Analysis-for-Agents.aspx)</small>
 
@@ -160,17 +157,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-19 stackoverflow</small>  
 <small>[AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-19 bencane</small>  
+<small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[DiskANN Vector Index Improvements](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-improvements/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
@@ -214,14 +208,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-13 jimmybogard</small>  
 <small>[AutoMapper 16.1.1 Released](https://www.jimmybogard.com/automapper-16-1-1-released/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 bencane</small>  
-<small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-12 dotnet</small>  
 <small>[Modernize .NET Anywhere with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github</small>  
 <small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-12 bencane</small>  
+<small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-11 swizec</small>  
 <small>[Taming chaos is a learnable skill](https://swizec.com/blog/taming-chaos-is-a-learnable-skill/)</small>
@@ -259,14 +253,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-06 steven-giesel</small>  
 <small>[FullJoin in .NET 11 - potentially](https://steven-giesel.com/blogPost/5a750fbf-cbf1-44dc-b864-70bedd8a29a9)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-06 bencane</small>  
-<small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-05 pragmaticengineer</small>  
 <small>[The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source](https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-05 erikej</small>  
 <small>[Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉](https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-05 bencane</small>  
+<small>[When your coding agent doesn’t understand your project, you’ll get junk](https://bencane.com/posts/2026-03-05/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-04 azure-sql</small>  
 <small>[The Polyglot tax – Part 2](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-2/)</small>
@@ -303,4 +297,10 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-03-02 rickstrahl</small>  
 <small>[Azure Trusted Signing Revisited with Dotnet Sign](https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-02 techtrenches</small>  
+<small>[The Comprehension Extinction: AI Isn’t Replacing Engineers. It’s Eliminating the Ones Who Understand.](https://techtrenches.dev/p/the-comprehension-extinction-ai-isnt)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-02 steven-giesel</small>  
+<small>[Tool-Highlight: Handy](https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c)</small>
 
