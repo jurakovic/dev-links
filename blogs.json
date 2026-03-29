@@ -849,5 +849,17 @@
         "category": "general",
         "icon": "guiferreira",
         "selected": false
+    },
+    {
+        "id": "lucumr-pocoo",
+        "author": "Armin Ronacher",
+        "title": "Blog | Armin Ronacher's Thoughts and Writings",
+        "url": "https://lucumr.pocoo.org",
+        "feed": "https://lucumr.pocoo.org/feed.xml",
+        "extras": [],
+        "github": "https://github.com/mitsuhiko",
+        "category": "management",
+        "icon": "lucumr-pocoo",
+        "selected": false
     }
 ]
