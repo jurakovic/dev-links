@@ -573,7 +573,19 @@
         "selected": true
     },
     {
-        "id": "github",
+        "id": "github-ai",
+        "author": "",
+        "title": "The GitHub Blog: AI & ML",
+        "url": "https://github.blog/ai-and-ml/",
+        "feed": "https://github.blog/ai-and-ml/feed/",
+        "extras": [],
+        "github": "",
+        "category": "tech-companies",
+        "icon": "github",
+        "selected": false
+    },
+    {
+        "id": "github-eng",
         "author": "",
         "title": "The GitHub Blog: Engineering",
         "url": "https://github.blog/category/engineering/",
