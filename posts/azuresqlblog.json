@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Stream data in near real time from SQL MI to Azure Event Hubs - Public preview",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/stream-data-in-near-real-time-from-sql-mi-to-azure-event-hubs/ba-p/4504212",
+    "pubDate": "2026-03-20T20:34:02+00:00"
+  },
+  {
+    "title": "Database DevOps (preview) in SSMS 22.4.1",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-devops-preview-in-ssms-22-4-1/ba-p/4503858",
+    "pubDate": "2026-03-19T15:31:46+00:00"
+  },
+  {
+    "title": "Announcing Preview of 160 and 192vCore Premium-series Options for Azure SQL Database Hyperscale",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-preview-of-160-and-192vcore-premium-series-options/ba-p/4501367",
+    "pubDate": "2026-03-18T18:53:27+00:00"
+  },
+  {
+    "title": "Versionless keys for Transparent Data Encryption in Azure SQL Database (Generally Available)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/versionless-keys-for-transparent-data-encryption-in-azure-sql/ba-p/4502969",
+    "pubDate": "2026-03-18T13:23:11+00:00"
+  },
+  {
+    "title": "Stop defragmenting and start living: introducing auto index compaction",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/stop-defragmenting-and-start-living-introducing-auto-index/ba-p/4500089",
+    "pubDate": "2026-03-18T12:30:29+00:00"
+  }
+]
