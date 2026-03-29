@@ -723,7 +723,7 @@
         "url": "https://samwho.dev/blog",
         "feed": "https://samwho.dev/rss.xml",
         "extras": [],
-        "github": "",
+        "github": "https://github.com/samwho",
         "category": "general",
         "icon": "samwho",
         "selected": true
