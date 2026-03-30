@@ -1,5 +1,15 @@
 [
   {
+    "title": "Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer",
+    "link": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything",
+    "pubDate": "2026-03-30T14:28:34+00:00"
+  },
+  {
+    "title": "llm-mrchatterbox 0.1",
+    "link": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything",
+    "pubDate": "2026-03-30T02:20:46+00:00"
+  },
+  {
     "title": "Pretext",
     "link": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything",
     "pubDate": "2026-03-29T20:08:45+00:00"
@@ -13,15 +23,5 @@
     "title": "Python Vulnerability Lookup",
     "link": "https://simonwillison.net/2026/Mar/29/python-vulnerability-lookup/#atom-everything",
     "pubDate": "2026-03-29T18:46:16+00:00"
-  },
-  {
-    "title": "Quoting Matt Webb",
-    "link": "https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything",
-    "pubDate": "2026-03-28T12:04:26+00:00"
-  },
-  {
-    "title": "datasette-showboat 0.1a2",
-    "link": "https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything",
-    "pubDate": "2026-03-27T23:42:47+00:00"
   }
 ]

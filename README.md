@@ -4,11 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
+<small>[Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-30 techtrenches</small>  
+<small>[Your CLAUDE.md Is a Wish List, Not a Contract](https://techtrenches.dev/p/your-claudemd-is-a-wish-list-not)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-30 bartwullems</small>  
 <small>[DeepWiki - Talk to your documentation](https://bartwullems.blogspot.com/2026/03/deepwiki-talk-to-your-documentation.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
 <small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
+<small>[llm-mrchatterbox 0.1](https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-29 simonwillison</small>  
 <small>[Pretext](https://simonwillison.net/2026/Mar/29/pretext/#atom-everything)</small>
@@ -22,14 +31,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
 <small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-28 simonwillison</small>  
-<small>[Quoting Matt Webb](https://simonwillison.net/2026/Mar/28/matt-webb/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-28 third-bit</small>  
 <small>[An E-Bike for the Mind](https://third-bit.com/2026/03/28/e-bike-for-the-mind/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-27 simonwillison</small>  
-<small>[datasette-showboat 0.1a2](https://simonwillison.net/2026/Mar/27/datasette-showboat/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-27 terriblesoftware</small>  
 <small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-06 seangoedecke</small>  
 <small>[I don't know if my job will still exist in ten years](https://seangoedecke.com/will-my-job-still-exist/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-06 steven-giesel</small>  
-<small>[FullJoin in .NET 11 - potentially](https://steven-giesel.com/blogPost/5a750fbf-cbf1-44dc-b864-70bedd8a29a9)</small>
 
