@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-30 bartwullems</small>  
+<small>[DeepWiki - Talk to your documentation](https://bartwullems.blogspot.com/2026/03/deepwiki-talk-to-your-documentation.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
+<small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-29 simonwillison</small>  
 <small>[Pretext](https://simonwillison.net/2026/Mar/29/pretext/#atom-everything)</small>
 
@@ -130,9 +136,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
 <small>[Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-23 bartwullems</small>  
-<small>[You no longer have to wait for Copilot to finish thinking](https://bartwullems.blogspot.com/2026/03/you-no-longer-have-to-wait-for-copilot.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-03-22 devlead</small>  
 <small>[A quarter of a billion NuGet downloads](https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads)</small>
 
@@ -204,9 +207,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
 <small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
-<small>[Stop defragmenting and start living: introducing auto index compaction](https://techcommunity.microsoft.com/t5/azure-sql-blog/stop-defragmenting-and-start-living-introducing-auto-index/ba-p/4500089)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>

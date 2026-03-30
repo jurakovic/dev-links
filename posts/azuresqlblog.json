@@ -1,5 +1,10 @@
 [
   {
+    "title": "Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679",
+    "pubDate": "2026-03-30T02:24:12+00:00"
+  },
+  {
     "title": "Stream data in near real time from SQL MI to Azure Event Hubs - Public preview",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/stream-data-in-near-real-time-from-sql-mi-to-azure-event-hubs/ba-p/4504212",
     "pubDate": "2026-03-20T20:34:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Versionless keys for Transparent Data Encryption in Azure SQL Database (Generally Available)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/versionless-keys-for-transparent-data-encryption-in-azure-sql/ba-p/4502969",
     "pubDate": "2026-03-18T13:23:11+00:00"
-  },
-  {
-    "title": "Stop defragmenting and start living: introducing auto index compaction",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/stop-defragmenting-and-start-living-introducing-auto-index/ba-p/4500089",
-    "pubDate": "2026-03-18T12:30:29+00:00"
   }
 ]
