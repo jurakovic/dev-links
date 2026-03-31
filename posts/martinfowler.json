@@ -1,5 +1,10 @@
 [
   {
+    "title": "Encoding Team Standards",
+    "link": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
+    "pubDate": "2026-03-31T15:20:00+00:00"
+  },
+  {
     "title": "Fragments: March 26",
     "link": "https://martinfowler.com/fragments/2026-03-26.html",
     "pubDate": "2026-03-26T17:11:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Context Anchoring",
     "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
     "pubDate": "2026-03-17T13:37:00+00:00"
-  },
-  {
-    "title": "Fragments: March 16",
-    "link": "https://martinfowler.com/fragments/2026-03-16.html",
-    "pubDate": "2026-03-16T14:13:00+00:00"
   }
 ]
