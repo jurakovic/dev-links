@@ -1,5 +1,10 @@
 [
   {
+    "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
+    "link": "https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/",
+    "pubDate": "2026-03-31T17:00:39+00:00"
+  },
+  {
     "title": "How Slack Rebuilt Notifications 📣",
     "link": "https://slack.engineering/how-slack-rebuilt-notifications/",
     "pubDate": "2026-03-19T19:00:54+00:00"
@@ -18,10 +23,5 @@
     "title": "Build better software to build software better",
     "link": "https://slack.engineering/build-better-software-to-build-software-better/",
     "pubDate": "2025-11-06T16:00:47+00:00"
-  },
-  {
-    "title": "Advancing Our Chef Infrastructure: Safety Without Disruption",
-    "link": "https://slack.engineering/advancing-our-chef-infrastructure-safety-without-disruption/",
-    "pubDate": "2025-10-23T18:17:56+00:00"
   }
 ]

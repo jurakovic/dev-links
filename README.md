@@ -4,11 +4,32 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-31 simonwillison</small>  
+<small>[datasette-llm 0.1a4](https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-31 simonwillison</small>  
+<small>[llm-all-models-async 0.1](https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-31 simonwillison</small>  
+<small>[llm 0.30](https://simonwillison.net/2026/Mar/31/llm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-31 slack</small>  
+<small>[From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus](https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-31 simonwillison</small>  
+<small>[llm-echo 0.4](https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-31 visualstudio</small>  
 <small>[Visual Studio March Update – Build Your Own Custom Agents](https://devblogs.microsoft.com/visualstudio/visual-studio-march-update-build-your-own-custom-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-31 github-ai</small>  
 <small>[Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-31 github-eng</small>  
+<small>[Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-31 simonwillison</small>  
+<small>[llm-echo 0.3](https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-31 martinfowler</small>  
 <small>[Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)</small>
@@ -19,23 +40,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-31 bartwullems</small>  
 <small>[VS Code Memory Tool: Local Memory meets GitHub Copilot Memory](https://bartwullems.blogspot.com/2026/03/vs-code-memory-tool-local-memory-meets.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
-<small>[datasette-files 0.1a3](https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-30 third-bit</small>  
 <small>[Project Status](https://third-bit.com/2026/03/30/project-status/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
-<small>[Quoting Georgi Gerganov](https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
-<small>[datasette-llm 0.1a3](https://simonwillison.net/2026/Mar/30/datasette-llm/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-03-30 idunno</small>  
 <small>[Protecting your .NET app from Server-Side Request Forgery (SSRF) vulnerabilities.](https://idunno.org/protecting-your-net-app-from-server-side-request-forgery-ssrf-vulnerabilities/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
-<small>[Mr. Chatterbox is a (weak) Victorian-era ethically trained model you can run on your own computer](https://simonwillison.net/2026/Mar/30/mr-chatterbox/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-30 techtrenches</small>  
 <small>[Your CLAUDE.md Is a Wish List, Not a Contract](https://techtrenches.dev/p/your-claudemd-is-a-wish-list-not)</small>
@@ -45,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
 <small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
-<small>[llm-mrchatterbox 0.1](https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
 <small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-03-09 damienbod</small>  
 <small>[Invite Guest users in a Entra ID Multi-tenant setup](https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-09 microservices</small>  
-<small>[GenAI-based development platform - part 1: guardrails](http://microservices.io//post/architecture/2026/03/09/genai-development-platform-part-1-development-guardrails.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-08 antirez</small>  
-<small>[GNU and the AI reimplementations](http://antirez.com/news/162)</small>
 
