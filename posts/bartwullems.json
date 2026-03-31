@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code Memory Tool: Local Memory meets GitHub Copilot Memory",
+    "link": "https://bartwullems.blogspot.com/2026/03/vs-code-memory-tool-local-memory-meets.html",
+    "pubDate": "2026-03-31T05:55:00+00:00"
+  },
+  {
     "title": "DeepWiki - Talk to your documentation",
     "link": "https://bartwullems.blogspot.com/2026/03/deepwiki-talk-to-your-documentation.html",
     "pubDate": "2026-03-30T05:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Validating configuration at startup with IValidateOptions in .NET",
     "link": "https://bartwullems.blogspot.com/2026/03/validating-configuration-at-startup.html",
     "pubDate": "2026-03-25T06:06:00+00:00"
-  },
-  {
-    "title": "How to explore multiple solutions in parallel when using Github Copilot",
-    "link": "https://bartwullems.blogspot.com/2026/03/how-to-explore-multiple-solutions-in.html",
-    "pubDate": "2026-03-24T06:21:00+00:00"
   }
 ]
