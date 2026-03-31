@@ -1,5 +1,10 @@
 [
   {
+    "title": "datasette-files 0.1a3",
+    "link": "https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything",
+    "pubDate": "2026-03-30T23:58:49+00:00"
+  },
+  {
     "title": "Quoting Georgi Gerganov",
     "link": "https://simonwillison.net/2026/Mar/30/georgi-gerganov/#atom-everything",
     "pubDate": "2026-03-30T21:31:02+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-mrchatterbox 0.1",
     "link": "https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything",
     "pubDate": "2026-03-30T02:20:46+00:00"
-  },
-  {
-    "title": "Pretext",
-    "link": "https://simonwillison.net/2026/Mar/29/pretext/#atom-everything",
-    "pubDate": "2026-03-29T20:08:45+00:00"
   }
 ]

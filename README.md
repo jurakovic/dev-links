@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
+<small>[datasette-files 0.1a3](https://simonwillison.net/2026/Mar/30/datasette-files/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-30 third-bit</small>  
 <small>[Project Status](https://third-bit.com/2026/03/30/project-status/)</small>
 
@@ -31,9 +34,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-30 simonwillison</small>  
 <small>[llm-mrchatterbox 0.1](https://simonwillison.net/2026/Mar/30/llm-mrchatterbox-2/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-03-29 simonwillison</small>  
-<small>[Pretext](https://simonwillison.net/2026/Mar/29/pretext/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
 <small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
 
@@ -44,7 +44,7 @@
 <small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-27 visualstudiomagazine</small>  
-<small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/Articles/2026/03/27/VS-Code-1-113-Bundles-Agent-Chat-and-Editor-Tweaks-as-Team-Settles-into-Weekly-Releases.aspx)</small>
+<small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/articles/2026/03/27/vs-code-1-113-bundles-agent-chat-and-editor-tweaks-as-team-settles-into-weekly-releases.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-27 third-bit</small>  
 <small>[Another Modest Proposal](https://third-bit.com/2026/03/27/another-modest-proposal/)</small>
@@ -98,7 +98,7 @@
 <small>[Software engineer interviews for the age of AI](https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-25 visualstudiomagazine</small>  
-<small>[.NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support](https://visualstudiomagazine.com/Articles/2026/03/25/NET-Aspire-13-2-Adds-AI-Agent-CLI-TypeScript-AppHost-Support.aspx)</small>
+<small>[.NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support](https://visualstudiomagazine.com/articles/2026/03/25/net-aspire-13-2-adds-ai-agent-cli-typescript-apphost-support.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-25 tidyfirst</small>  
 <small>[Nobody Knows](https://tidyfirst.substack.com/p/nobody-knows)</small>
@@ -131,7 +131,7 @@
 <small>[Manage SQL database schemas in VS Code: Publish dialog and item templates](https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-23 visualstudiomagazine</small>  
-<small>[TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0](https://visualstudiomagazine.com/Articles/2026/03/23/TypeScript-6-0-Ships-as-Final-JavaScript-Based-Release-Clears-Path-for-Go-Native-7-0.aspx)</small>
+<small>[TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0](https://visualstudiomagazine.com/articles/2026/03/23/typescript-6-0-ships-as-final-javascript-based-release-clears-path-for-go-native-7-0.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
 <small>[Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/)</small>
@@ -161,7 +161,7 @@
 <small>[Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
-<small>[Hands On with VS Code 1.112's New Image Analysis for Agents](https://visualstudiomagazine.com/Articles/2026/03/19/Hands-On-with-VS-Code-1-112s-New-Image-Analysis-for-Agents.aspx)</small>
+<small>[Hands On with VS Code 1.112's New Image Analysis for Agents](https://visualstudiomagazine.com/articles/2026/03/19/hands-on-with-vs-code-1-112s-new-image-analysis-for-agents.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 dotnet</small>  
 <small>[Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/)</small>
@@ -173,7 +173,7 @@
 <small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
-<small>[Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control](https://visualstudiomagazine.com/Articles/2026/03/19/VS-Code-1-112-Adds-Integrated-Browser-Debugging-More-Copilot-CLI-Control.aspx)</small>
+<small>[Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control](https://visualstudiomagazine.com/articles/2026/03/19/vs-code-1-112-adds-integrated-browser-debugging-more-copilot-cli-control.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
 <small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
