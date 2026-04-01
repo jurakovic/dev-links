@@ -1,5 +1,10 @@
 [
   {
+    "title": "Chicago vs New York Pizza is the Wrong Argument",
+    "link": "https://www.hillelwayne.com/post/pizza/",
+    "pubDate": "2026-04-01T16:52:24+00:00"
+  },
+  {
     "title": "Some Silly Z3 Scripts I Wrote",
     "link": "https://www.hillelwayne.com/post/z3-examples/",
     "pubDate": "2026-02-23T16:54:56+00:00"
@@ -18,10 +23,5 @@
     "title": "A Perplexing Javascript Parsing Puzzle",
     "link": "https://www.hillelwayne.com/post/javascript-puzzle/",
     "pubDate": "2025-03-12T00:00:00+00:00"
-  },
-  {
-    "title": "The Hierarchy of Controls (or how to stop devs from dropping prod)",
-    "link": "https://www.hillelwayne.com/post/hoc/",
-    "pubDate": "2025-03-04T00:00:00+00:00"
   }
 ]
