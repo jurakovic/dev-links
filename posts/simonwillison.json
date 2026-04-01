@@ -1,27 +1,27 @@
 [
   {
-    "title": "datasette-llm 0.1a4",
-    "link": "https://simonwillison.net/2026/Mar/31/datasette-llm/#atom-everything",
-    "pubDate": "2026-03-31T21:17:23+00:00"
+    "title": "datasette-extract 0.3a0",
+    "link": "https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything",
+    "pubDate": "2026-04-01T03:32:16+00:00"
   },
   {
-    "title": "llm-all-models-async 0.1",
-    "link": "https://simonwillison.net/2026/Mar/31/llm-all-models-async/#atom-everything",
-    "pubDate": "2026-03-31T20:52:02+00:00"
+    "title": "datasette-enrichments-llm 0.2a0",
+    "link": "https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything",
+    "pubDate": "2026-04-01T03:28:44+00:00"
   },
   {
-    "title": "llm 0.30",
-    "link": "https://simonwillison.net/2026/Mar/31/llm/#atom-everything",
-    "pubDate": "2026-03-31T20:35:51+00:00"
+    "title": "datasette-llm-usage 0.2a0",
+    "link": "https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything",
+    "pubDate": "2026-04-01T03:24:03+00:00"
   },
   {
-    "title": "llm-echo 0.4",
-    "link": "https://simonwillison.net/2026/Mar/31/llm-echo/#atom-everything",
-    "pubDate": "2026-03-31T16:48:59+00:00"
+    "title": "datasette-llm 0.1a5",
+    "link": "https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything",
+    "pubDate": "2026-04-01T03:11:01+00:00"
   },
   {
-    "title": "llm-echo 0.3",
-    "link": "https://simonwillison.net/2026/Mar/31/llm-echo-2/#atom-everything",
-    "pubDate": "2026-03-31T15:43:26+00:00"
+    "title": "Quoting Soohoon Choi",
+    "link": "https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything",
+    "pubDate": "2026-04-01T02:07:16+00:00"
   }
 ]
