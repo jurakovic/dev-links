@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-01 andrewlock</small>  
+<small>[Configuring contextual options with Microsoft.Extensions.Options.Contextual](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-01 bartwullems</small>  
 <small>[Shining a light on .NET versions across our organisation with OpenTelemetry](https://bartwullems.blogspot.com/2026/04/shining-light-on-net-versions-across.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-09 visualstudio</small>  
 <small>[Visual Studio Dev Essentials: Free, Practical Tools for Every Developer](https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-09 techtrenches</small>  
-<small>[Your Brain on Autopilot: The Cost of AI Thinking for You](https://techtrenches.dev/p/your-brain-on-autopilot-the-cost)</small>
 
