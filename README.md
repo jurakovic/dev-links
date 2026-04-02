@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-02 martinfowler</small>  
+<small>[Fragments: April  2](https://martinfowler.com/fragments/2026-04-02.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
+<small>[Visual Studio Code 1.114 Keeps Weekly Cadence Rolling with Chat, Search and TypeScript Updates](https://visualstudiomagazine.com/articles/2026/04/02/visual-studio-code-1,-d-,114-keeps-weekly-cadence-rolling-with-chat-search-and-typescript-updates.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-02 martinfowler</small>  
+<small>[Harness engineering for coding agent users](https://martinfowler.com/articles/harness-engineering.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-02 stackoverflow</small>  
+<small>[What the AI trust gap means for enterprise SaaS](https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
 <small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
 
@@ -12,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-02 bartwullems</small>  
 <small>[Awesome GitHub Copilot just got awesommer (if that’s a word)](https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-01 dbreunig</small>  
+<small>[The 2nd Phase of Agentic Development](https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
 <small>[datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything)</small>
@@ -69,6 +84,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-31 martinfowler</small>  
 <small>[Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-31 stackoverflow</small>  
+<small>[How can you test your code when you don’t know what’s in it?](https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-31 steve-yegge</small>  
 <small>[Vibe Maintainer](https://steve-yegge.medium.com/vibe-maintainer-a2273a841040?source=rss-c1ec701babb7------2)</small>
@@ -202,9 +220,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-20 microservices</small>  
 <small>[Microservices Platforms - part 6: Build platform](http://microservices.io//post/architecture/2026/03/20/qconsf-microservices-platforms-part-6.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-20 stackoverflow</small>  
-<small>[After all the hype, was 2025 really the year of AI agents?](https://stackoverflow.blog/2026/03/20/was-2025-really-the-year-of-ai-agents/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-03-20 lucumr-pocoo</small>  
 <small>[Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)</small>
 
@@ -220,26 +235,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-19 slack</small>  
 <small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
-<small>[Visual Studio Code 1.112 Adds Integrated Browser Debugging, More Copilot CLI Control](https://visualstudiomagazine.com/articles/2026/03/19/vs-code-1-112-adds-integrated-browser-debugging-more-copilot-cli-control.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
 <small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-19 github-ai</small>  
 <small>[How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-19 martinfowler</small>  
-<small>[Fragments: March 19](https://martinfowler.com/fragments/2026-03-19.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
 <small>[Use Asciinema and Powersession on Windows](https://ardalis.com/use-asciinema-and-powersession-on-windows/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 azuresqlblog</small>  
 <small>[Database DevOps (preview) in SSMS 22.4.1](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-devops-preview-in-ssms-22-4-1/ba-p/4503858)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-19 stackoverflow</small>  
-<small>[AI is becoming a second brain at the expense of your first one](https://stackoverflow.blog/2026/03/19/ai-is-becoming-a-second-brain-at-the-expense-of-your-first-one/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-19 bencane</small>  
 <small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
@@ -256,14 +262,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
 <small>[Versionless keys for Transparent Data Encryption in Azure SQL Database (Generally Available)](https://techcommunity.microsoft.com/t5/azure-sql-blog/versionless-keys-for-transparent-data-encryption-in-azure-sql/ba-p/4502969)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
+<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-17 paulhammant</small>  
 <small>[Live Verify](https://paulhammant.com/2026/03/17/live-verify/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-17 martinfowler</small>  
-<small>[Context Anchoring](https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-03-17 minidump</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 9: Frozen segments and new allocation strategy](https://minidump.net/writing-a-net-gc-in-c-part-9/)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-13 jimmybogard</small>  
 <small>[AutoMapper 16.1.1 Released](https://www.jimmybogard.com/automapper-16-1-1-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-12 dotnet</small>  
-<small>[Modernize .NET Anywhere with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-ai</small>  
-<small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-eng</small>  
-<small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Fragments: April  2",
+    "link": "https://martinfowler.com/fragments/2026-04-02.html",
+    "pubDate": "2026-04-02T16:42:00+00:00"
+  },
+  {
+    "title": "Harness engineering for coding agent users",
+    "link": "https://martinfowler.com/articles/harness-engineering.html",
+    "pubDate": "2026-04-02T13:10:00+00:00"
+  },
+  {
     "title": "Encoding Team Standards",
     "link": "https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html",
     "pubDate": "2026-03-31T15:20:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Bliki: Architecture Decision Record",
     "link": "https://martinfowler.com/bliki/ArchitectureDecisionRecord.html",
     "pubDate": "2026-03-24T13:50:00+00:00"
-  },
-  {
-    "title": "Fragments: March 19",
-    "link": "https://martinfowler.com/fragments/2026-03-19.html",
-    "pubDate": "2026-03-19T15:57:00+00:00"
-  },
-  {
-    "title": "Context Anchoring",
-    "link": "https://martinfowler.com/articles/reduce-friction-ai/context-anchoring.html",
-    "pubDate": "2026-03-17T13:37:00+00:00"
   }
 ]
