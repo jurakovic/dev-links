@@ -28,6 +28,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-01 azure-sql</small>  
 <small>[The Polyglot tax – Part 3](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-3/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-04-01 terriblesoftware</small>  
+<small>[Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-01 github-ai</small>  
 <small>[Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/)</small>
 
@@ -253,12 +256,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
 <small>[Versionless keys for Transparent Data Encryption in Azure SQL Database (Generally Available)](https://techcommunity.microsoft.com/t5/azure-sql-blog/versionless-keys-for-transparent-data-encryption-in-azure-sql/ba-p/4502969)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
 <small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
 
@@ -302,5 +299,8 @@
 <small>[Modernize .NET Anywhere with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-anywhere-with-ghcp/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-ai</small>  
+<small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-eng</small>  
 <small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
 
