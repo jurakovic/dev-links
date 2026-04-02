@@ -1,5 +1,10 @@
 [
   {
+    "title": "OpenClaw Gets a Microsoft 365 Champion While VS Code Tooling Stays Nascent",
+    "link": "https://visualstudiomagazine.com/articles/2026/04/02/openclaw-gets-a-microsoft-365-champion-while-vs-code-tooling-stays-nascent.aspx",
+    "pubDate": "2026-04-02T18:19:00+00:00"
+  },
+  {
     "title": "Visual Studio Code 1.114 Keeps Weekly Cadence Rolling with Chat, Search and TypeScript Updates",
     "link": "https://visualstudiomagazine.com/articles/2026/04/02/visual-studio-code-1,-d-,114-keeps-weekly-cadence-rolling-with-chat-search-and-typescript-updates.aspx",
     "pubDate": "2026-04-02T15:47:00+00:00"
@@ -18,10 +23,5 @@
     "title": "TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0",
     "link": "https://visualstudiomagazine.com/articles/2026/03/23/typescript-6-0-ships-as-final-javascript-based-release-clears-path-for-go-native-7-0.aspx",
     "pubDate": "2026-03-23T18:23:00+00:00"
-  },
-  {
-    "title": "Hands On with VS Code 1.112's New Image Analysis for Agents",
-    "link": "https://visualstudiomagazine.com/articles/2026/03/19/hands-on-with-vs-code-1-112s-new-image-analysis-for-agents.aspx",
-    "pubDate": "2026-03-19T21:34:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Smarter Live Streaming at Scale: Rolling Out VBR for All Netflix Live Events",
+    "link": "https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-04-02T21:46:27+00:00"
+  },
+  {
     "title": "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
     "link": "https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4",
     "pubDate": "2026-03-06T15:01:27+00:00"
@@ -18,10 +23,5 @@
     "title": "MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix",
     "link": "https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss----2615bd06b42e---4",
     "pubDate": "2026-02-23T18:24:32+00:00"
-  },
-  {
-    "title": "Scaling LLM Post-Training at Netflix",
-    "link": "https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-02-13T08:05:33+00:00"
   }
 ]

@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-02 netflix</small>  
+<small>[Smarter Live Streaming at Scale: Rolling Out VBR for All Netflix Live Events](https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-02 simonwillison</small>  
+<small>[Highlights from my conversation about agentic engineering on Lenny's Podcast](https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-02 simonwillison</small>  
+<small>[Gemma 4: Byte for byte, the most capable open models](https://simonwillison.net/2026/Apr/2/gemma-4/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-02 simonwillison</small>  
+<small>[llm-gemini 0.30](https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
+<small>[OpenClaw Gets a Microsoft 365 Champion While VS Code Tooling Stays Nascent](https://visualstudiomagazine.com/articles/2026/04/02/openclaw-gets-a-microsoft-365-champion-while-vs-code-tooling-stays-nascent.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-02 dotnet</small>  
+<small>[Explore union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-02 martinfowler</small>  
 <small>[Fragments: April  2](https://martinfowler.com/fragments/2026-04-02.html)</small>
 
@@ -31,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
 <small>[datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-enrichments-llm 0.2a1](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-01 ardalis</small>  
 <small>[.NET Conf Most Popular Sessions Tool](https://ardalis.com/dotnetconf-most-popular-sessions-tool/)</small>
 
@@ -60,12 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-01 bartwullems</small>  
 <small>[Shining a light on .NET versions across our organisation with OpenTelemetry](https://bartwullems.blogspot.com/2026/04/shining-light-on-net-versions-across.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-extract 0.3a0](https://simonwillison.net/2026/Apr/1/datasette-extract/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-enrichments-llm 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-01 third-bit</small>  
 <small>[Current Projects](https://third-bit.com/2026/04/01/current-projects/)</small>
@@ -223,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-03-20 lucumr-pocoo</small>  
 <small>[Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-19 visualstudiomagazine</small>  
-<small>[Hands On with VS Code 1.112's New Image Analysis for Agents](https://visualstudiomagazine.com/articles/2026/03/19/hands-on-with-vs-code-1-112s-new-image-analysis-for-agents.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 dotnet</small>  
 <small>[Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-03-14 addyosmani</small>  
 <small>[Comprehension Debt - the hidden cost of AI generated code.](https://addyosmani.com/blog/comprehension-debt/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-13 erikej</small>  
-<small>[Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support](https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-03-13 jimmybogard</small>  
-<small>[AutoMapper 16.1.1 Released](https://www.jimmybogard.com/automapper-16-1-1-released/)</small>
 
