@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
+<small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-02 simonwillison</small>  
+<small>[March 2026 sponsors-only newsletter](https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-02 bartwullems</small>  
+<small>[Awesome GitHub Copilot just got awesommer (if that’s a word)](https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
+<small>[datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
+<small>[datasette-enrichments-llm 0.2a1](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm-2/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-01 ardalis</small>  
+<small>[.NET Conf Most Popular Sessions Tool](https://ardalis.com/dotnetconf-most-popular-sessions-tool/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-04-01 hillelwayne</small>  
 <small>[Chicago vs New York Pizza is the Wrong Argument](https://www.hillelwayne.com/post/pizza/)</small>
 
@@ -31,14 +49,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
 <small>[datasette-enrichments-llm 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-enrichments-llm/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-llm-usage 0.2a0](https://simonwillison.net/2026/Apr/1/datasette-llm-usage/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-llm 0.1a5](https://simonwillison.net/2026/Apr/1/datasette-llm/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[Quoting Soohoon Choi](https://simonwillison.net/2026/Apr/1/soohoon-choi/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-01 third-bit</small>  
+<small>[Current Projects](https://third-bit.com/2026/04/01/current-projects/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-31 slack</small>  
 <small>[From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus](https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/)</small>
@@ -106,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
 <small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-26 third-bit</small>  
-<small>[Feasible](https://third-bit.com/2026/03/26/feasible/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-26 martinfowler</small>  
 <small>[Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)</small>
 
@@ -126,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-26 microservices</small>  
 <small>[GenAI-based development platform - part 3: Announcing Isolarium, three flavors of secure sandboxes for GenAI-based coding agents](http://microservices.io//post/architecture/2026/03/26/genai-development-platform-part-3-announcing-isolarium.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-26 bartwullems</small>  
-<small>[Compile-Time options validation with the OptionsValidator source generator](https://bartwullems.blogspot.com/2026/03/compile-time-options-validation-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-26 bencane</small>  
 <small>[Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence](https://bencane.com/posts/2026-03-26/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-ai</small>  
 <small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-12 github-eng</small>  
-<small>[Continuous AI for accessibility: How GitHub transforms feedback into inclusion](https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-12 bencane</small>  
-<small>[You may be building for availability, but are you building for resiliency?](https://bencane.com/posts/2026-03-12/)</small>
 

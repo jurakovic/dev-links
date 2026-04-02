@@ -1,5 +1,10 @@
 [
   {
+    "title": "Saved Prompts Are Dead. Agent Skills Are the Future.",
+    "link": "https://bencane.com/posts/2026-04-02/",
+    "pubDate": "2026-04-02T05:40:29+00:00"
+  },
+  {
     "title": "Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence",
     "link": "https://bencane.com/posts/2026-03-26/",
     "pubDate": "2026-03-26T05:40:05+00:00"
@@ -18,10 +23,5 @@
     "title": "When your coding agent doesn’t understand your project, you’ll get junk",
     "link": "https://bencane.com/posts/2026-03-05/",
     "pubDate": "2026-03-05T10:36:51+00:00"
-  },
-  {
-    "title": "You can have 100% Code Coverage and still have ticking time bombs in your code. 💣",
-    "link": "https://bencane.com/posts/2026-02-26/",
-    "pubDate": "2026-02-26T10:44:19+00:00"
   }
 ]
