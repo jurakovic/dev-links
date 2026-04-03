@@ -1,5 +1,10 @@
 [
   {
+    "title": "Seizing the means of messenger production",
+    "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
+    "pubDate": "2026-04-03T05:40:53+00:00"
+  },
+  {
     "title": "What the AI trust gap means for enterprise SaaS",
     "link": "https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/",
     "pubDate": "2026-04-02T13:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Building shared coding guidelines for AI (and people too)",
     "link": "https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/",
     "pubDate": "2026-03-26T14:00:00+00:00"
-  },
-  {
-    "title": "Multi-stage attacks are the Final Fantasy bosses of security",
-    "link": "https://stackoverflow.blog/2026/03/24/multi-stage-attacks-are-the-final-fantasy-bosses-of-security/",
-    "pubDate": "2026-03-24T07:40:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Agents can now verify your UI changes without leaving VS Code",
+    "link": "https://bartwullems.blogspot.com/2026/04/agents-can-now-verify-your-ui-changes.html",
+    "pubDate": "2026-04-03T05:27:00+00:00"
+  },
+  {
     "title": "Awesome GitHub Copilot just got awesommer (if that’s a word)",
     "link": "https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html",
     "pubDate": "2026-04-02T05:04:00+00:00"
@@ -18,10 +23,5 @@
     "title": "DeepWiki - Talk to your documentation",
     "link": "https://bartwullems.blogspot.com/2026/03/deepwiki-talk-to-your-documentation.html",
     "pubDate": "2026-03-30T05:05:00+00:00"
-  },
-  {
-    "title": "SQL Server silently renames your user when you ALTER with a login",
-    "link": "https://bartwullems.blogspot.com/2026/03/sql-server-silently-renames-your-user.html",
-    "pubDate": "2026-03-27T06:03:00+00:00"
   }
 ]
