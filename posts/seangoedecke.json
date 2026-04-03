@@ -1,5 +1,10 @@
 [
   {
+    "title": "Programming (with AI agents) as theory building",
+    "link": "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/",
+    "pubDate": "2026-04-03T10:40:59+00:00"
+  },
+  {
     "title": "Working on products people hate",
     "link": "https://seangoedecke.com/working-on-products-people-hate/",
     "pubDate": "2026-03-27T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "I don't know if my job will still exist in ten years",
     "link": "https://seangoedecke.com/will-my-job-still-exist/",
     "pubDate": "2026-03-06T10:33:28+00:00"
-  },
-  {
-    "title": "Giving LLMs a personality is just good engineering",
-    "link": "https://seangoedecke.com/giving-llms-a-personality/",
-    "pubDate": "2026-03-03T05:13:07+00:00"
   }
 ]
