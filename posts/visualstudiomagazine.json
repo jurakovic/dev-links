@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hands On with OpenClaw Node for VS Code: Real Workflow, Real Friction",
+    "link": "https://visualstudiomagazine.com/articles/2026/04/03/hands-on-with-openclaw-node-for-vs-code-real-workflow-real-friction.aspx",
+    "pubDate": "2026-04-03T13:30:00+00:00"
+  },
+  {
     "title": "OpenClaw Gets a Microsoft 365 Champion While VS Code Tooling Stays Nascent",
     "link": "https://visualstudiomagazine.com/articles/2026/04/02/openclaw-gets-a-microsoft-365-champion-while-vs-code-tooling-stays-nascent.aspx",
     "pubDate": "2026-04-02T18:19:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support",
     "link": "https://visualstudiomagazine.com/articles/2026/03/25/net-aspire-13-2-adds-ai-agent-cli-typescript-apphost-support.aspx",
     "pubDate": "2026-03-25T16:04:00+00:00"
-  },
-  {
-    "title": "TypeScript 6.0 Ships as Final JavaScript-Based Release, Clears Path for Go-Native 7.0",
-    "link": "https://visualstudiomagazine.com/articles/2026/03/23/typescript-6-0-ships-as-final-javascript-based-release-clears-path-for-go-native-7-0.aspx",
-    "pubDate": "2026-03-23T18:23:00+00:00"
   }
 ]
