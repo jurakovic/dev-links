@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-03 simonwillison</small>  
+<small>[Can JavaScript Escape a CSP Meta Tag Inside an Iframe?](https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-03 github-eng</small>  
+<small>[The uphill climb of making diff lines performant](https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-03 simonwillison</small>  
+<small>[The Axios supply chain attack used individually targeted social engineering](https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-03 seangoedecke</small>  
 <small>[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/)</small>
 
@@ -49,17 +58,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
 <small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-02 simonwillison</small>  
-<small>[March 2026 sponsors-only newsletter](https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-02 bartwullems</small>  
 <small>[Awesome GitHub Copilot just got awesommer (if that’s a word)](https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-01 dbreunig</small>  
 <small>[The 2nd Phase of Agentic Development](https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-01 simonwillison</small>  
-<small>[datasette-llm 0.1a6](https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-01 ardalis</small>  
 <small>[.NET Conf Most Popular Sessions Tool](https://ardalis.com/dotnetconf-most-popular-sessions-tool/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-16 techtrenches</small>  
 <small>[AI’s Announcement Problem](https://techtrenches.dev/p/ais-announcement-problem)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-03-16 steven-giesel</small>  
-<small>[records ToString and inheritence](https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7)</small>
 

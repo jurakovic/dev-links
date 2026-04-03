@@ -1,5 +1,10 @@
 [
   {
+    "title": "The uphill climb of making diff lines performant",
+    "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+    "pubDate": "2026-04-03T16:00:00+00:00"
+  },
+  {
     "title": "Agent-driven development in Copilot Applied Science",
     "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
     "pubDate": "2026-03-31T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
     "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
     "pubDate": "2026-01-28T17:00:00+00:00"
-  },
-  {
-    "title": "When protections outlive their purpose: A lesson on managing defense systems at scale",
-    "link": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
-    "pubDate": "2026-01-15T20:54:32+00:00"
   }
 ]

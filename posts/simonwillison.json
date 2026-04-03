@@ -1,5 +1,15 @@
 [
   {
+    "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
+    "link": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
+    "pubDate": "2026-04-03T16:05:00+00:00"
+  },
+  {
+    "title": "The Axios supply chain attack used individually targeted social engineering",
+    "link": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
+    "pubDate": "2026-04-03T13:54:53+00:00"
+  },
+  {
     "title": "Highlights from my conversation about agentic engineering on Lenny's Podcast",
     "link": "https://simonwillison.net/2026/Apr/2/lennys-podcast/#atom-everything",
     "pubDate": "2026-04-02T20:40:47+00:00"
@@ -13,15 +23,5 @@
     "title": "llm-gemini 0.30",
     "link": "https://simonwillison.net/2026/Apr/2/llm-gemini/#atom-everything",
     "pubDate": "2026-04-02T18:25:08+00:00"
-  },
-  {
-    "title": "March 2026 sponsors-only newsletter",
-    "link": "https://simonwillison.net/2026/Apr/2/march-newsletter/#atom-everything",
-    "pubDate": "2026-04-02T05:15:04+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a6",
-    "link": "https://simonwillison.net/2026/Apr/1/datasette-llm-2/#atom-everything",
-    "pubDate": "2026-04-01T23:01:37+00:00"
   }
 ]
