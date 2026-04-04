@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Kyle Daigle",
+    "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
+    "pubDate": "2026-04-04T02:20:17+00:00"
+  },
+  {
+    "title": "Vulnerability Research Is Cooked",
+    "link": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
+    "pubDate": "2026-04-03T23:59:08+00:00"
+  },
+  {
+    "title": "The cognitive impact of coding agents",
+    "link": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
+    "pubDate": "2026-04-03T23:57:04+00:00"
+  },
+  {
     "title": "Quoting Willy Tarreau",
     "link": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
     "pubDate": "2026-04-03T21:48:22+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Daniel Stenberg",
     "link": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
     "pubDate": "2026-04-03T21:46:07+00:00"
-  },
-  {
-    "title": "Quoting Greg Kroah-Hartman",
-    "link": "https://simonwillison.net/2026/Apr/3/greg-kroah-hartman/#atom-everything",
-    "pubDate": "2026-04-03T21:44:41+00:00"
-  },
-  {
-    "title": "Can JavaScript Escape a CSP Meta Tag Inside an Iframe?",
-    "link": "https://simonwillison.net/2026/Apr/3/test-csp-iframe-escape/#atom-everything",
-    "pubDate": "2026-04-03T16:05:00+00:00"
-  },
-  {
-    "title": "The Axios supply chain attack used individually targeted social engineering",
-    "link": "https://simonwillison.net/2026/Apr/3/supply-chain-social-engineering/#atom-everything",
-    "pubDate": "2026-04-03T13:54:53+00:00"
   }
 ]

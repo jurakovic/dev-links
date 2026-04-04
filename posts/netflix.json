@@ -1,5 +1,10 @@
 [
   {
+    "title": "Powering Multimodal Intelligence for Video Search",
+    "link": "https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-04-04T00:44:32+00:00"
+  },
+  {
     "title": "Smarter Live Streaming at Scale: Rolling Out VBR for All Netflix Live Events",
     "link": "https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-02T21:46:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
     "link": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac?source=rss----2615bd06b42e---4",
     "pubDate": "2026-02-28T22:55:53+00:00"
-  },
-  {
-    "title": "MediaFM: The Multimodal AI Foundation for Media Understanding at Netflix",
-    "link": "https://netflixtechblog.com/mediafm-the-multimodal-ai-foundation-for-media-understanding-at-netflix-e8c28df82e2d?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-02-23T18:24:32+00:00"
   }
 ]
