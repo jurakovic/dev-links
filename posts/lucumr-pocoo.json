@@ -1,5 +1,10 @@
 [
   {
+    "title": "Absurd In Production",
+    "link": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
+    "pubDate": "2026-04-04T16:33:46+00:00"
+  },
+  {
     "title": "Some Things Just Take Time",
     "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
     "pubDate": "2026-03-20T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "A Language For Agents",
     "link": "https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/",
     "pubDate": "2026-02-09T00:00:00+00:00"
-  },
-  {
-    "title": "Pi: The Minimal Agent Within OpenClaw",
-    "link": "https://lucumr.pocoo.org/2026/1/31/pi/",
-    "pubDate": "2026-01-31T00:00:00+00:00"
   }
 ]

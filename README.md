@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-04 lucumr-pocoo</small>  
+<small>[Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-04 simonwillison</small>  
 <small>[Quoting Kyle Daigle](https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-17 microservices</small>  
 <small>[GenAI-based development platform - part 2: How Idea to Code turns an idea into working, tested software](http://microservices.io//post/architecture/2026/03/17/overview-i2code-implement-agent-orchestrator.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-16 visualstudio</small>  
-<small>[Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox](https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/)</small>
 
