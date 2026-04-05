@@ -1,27 +1,27 @@
 [
   {
+    "title": "scan-for-secrets 0.2",
+    "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets/#atom-everything",
+    "pubDate": "2026-04-05T04:07:13+00:00"
+  },
+  {
+    "title": "scan-for-secrets 0.1.1",
+    "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-2/#atom-everything",
+    "pubDate": "2026-04-05T03:39:33+00:00"
+  },
+  {
+    "title": "scan-for-secrets 0.1",
+    "link": "https://simonwillison.net/2026/Apr/5/scan-for-secrets-3/#atom-everything",
+    "pubDate": "2026-04-05T03:27:13+00:00"
+  },
+  {
+    "title": "research-llm-apis 2026-04-04",
+    "link": "https://simonwillison.net/2026/Apr/5/research-llm-apis/#atom-everything",
+    "pubDate": "2026-04-05T00:32:11+00:00"
+  },
+  {
     "title": "Quoting Kyle Daigle",
     "link": "https://simonwillison.net/2026/Apr/4/kyle-daigle/#atom-everything",
     "pubDate": "2026-04-04T02:20:17+00:00"
-  },
-  {
-    "title": "Vulnerability Research Is Cooked",
-    "link": "https://simonwillison.net/2026/Apr/3/vulnerability-research-is-cooked/#atom-everything",
-    "pubDate": "2026-04-03T23:59:08+00:00"
-  },
-  {
-    "title": "The cognitive impact of coding agents",
-    "link": "https://simonwillison.net/2026/Apr/3/cognitive-cost/#atom-everything",
-    "pubDate": "2026-04-03T23:57:04+00:00"
-  },
-  {
-    "title": "Quoting Willy Tarreau",
-    "link": "https://simonwillison.net/2026/Apr/3/willy-tarreau/#atom-everything",
-    "pubDate": "2026-04-03T21:48:22+00:00"
-  },
-  {
-    "title": "Quoting Daniel Stenberg",
-    "link": "https://simonwillison.net/2026/Apr/3/daniel-stenberg/#atom-everything",
-    "pubDate": "2026-04-03T21:46:07+00:00"
   }
 ]
