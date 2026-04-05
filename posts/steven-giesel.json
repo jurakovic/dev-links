@@ -1,5 +1,10 @@
 [
   {
+    "title": "Source code generated string enums with exhaustion support",
+    "link": "https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d",
+    "pubDate": "2026-04-05T22:28:44+00:00"
+  },
+  {
     "title": "records ToString and inheritence",
     "link": "https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7",
     "pubDate": "2026-03-16T03:42:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Being stupid is fun: Let's create long exception messages!",
     "link": "https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93",
     "pubDate": "2026-02-23T05:01:00+00:00"
-  },
-  {
-    "title": "New runtime async is hitting .NET 11 - Part 1",
-    "link": "https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674",
-    "pubDate": "2026-02-15T13:00:22+00:00"
   }
 ]
