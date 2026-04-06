@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-06 ardalis</small>  
+<small>[Own What Makes You You](https://ardalis.com/own-what-makes-you-you/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-06 netflix</small>  
+<small>[Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale](https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-06 github-ai</small>  
+<small>[GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-06 azuresqlblog</small>  
+<small>[Azure SQL is Deprecating the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-deprecating-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-06 visualstudiomagazine</small>  
+<small>[Microsoft Ships Production-Ready Agent Framework 1.0 for .NET and Python](https://visualstudiomagazine.com/articles/2026/04/06/microsoft-ships-production-ready-agent-framework-1-0-for-net-and-python.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
 <small>[Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything)</small>
 
@@ -208,9 +223,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-25 swizec</small>  
 <small>[Software engineer interviews for the age of AI](https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-25 visualstudiomagazine</small>  
-<small>[.NET Aspire 13.2 Adds AI-Agent CLI, TypeScript AppHost Support](https://visualstudiomagazine.com/articles/2026/03/25/net-aspire-13-2-adds-ai-agent-cli-typescript-apphost-support.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-25 tidyfirst</small>  
 <small>[Nobody Knows](https://tidyfirst.substack.com/p/nobody-knows)</small>
 
@@ -289,18 +301,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
-<small>[Versionless keys for Transparent Data Encryption in Azure SQL Database (Generally Available)](https://techcommunity.microsoft.com/t5/azure-sql-blog/versionless-keys-for-transparent-data-encryption-in-azure-sql/ba-p/4502969)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
 <small>[FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform](https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 microsoft-sql-server</small>  
-<small>[Advancing agentic AI with Microsoft databases across a unified data estate](https://www.microsoft.com/en-us/sql-server/blog/2026/03/18/advancing-agentic-ai-with-microsoft-databases-across-a-unified-data-estate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-17 dotnet</small>  
-<small>[RT.Assistant: A Multi-Agent Voice Bot Using .NET and OpenAI](https://devblogs.microsoft.com/dotnet/rt-assistant-a-realtime-multiagent-voice-bot-using-dotnet-and-open-ai-api/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-17 paulhammant</small>  
-<small>[Live Verify](https://paulhammant.com/2026/03/17/live-verify/)</small>
 

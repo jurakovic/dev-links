@@ -1,5 +1,10 @@
 [
   {
+    "title": "Own What Makes You You",
+    "link": "https://ardalis.com/own-what-makes-you-you/",
+    "pubDate": "2026-04-06T22:34:19+00:00"
+  },
+  {
     "title": ".NET Conf Most Popular Sessions Tool",
     "link": "https://ardalis.com/dotnetconf-most-popular-sessions-tool/",
     "pubDate": "2026-04-01T20:47:18+00:00"
@@ -18,10 +23,5 @@
     "title": "Llms Need Mark as Answer",
     "link": "https://ardalis.com/llms-need-mark-as-answer/",
     "pubDate": "2026-02-13T15:20:47+00:00"
-  },
-  {
-    "title": "2025 Year in Review",
-    "link": "https://ardalis.com/2025-year-in-review/",
-    "pubDate": "2026-02-09T13:34:11+00:00"
   }
 ]
