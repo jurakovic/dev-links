@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-07 stackoverflow</small>  
+<small>[He designed C++ to solve your code problems](https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-07 bartwullems</small>  
+<small>[CycloneDX 1.7 not yet supported by Dependency-Track](https://bartwullems.blogspot.com/2026/04/cyclonedx-17-not-yet-supported-by.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-06 ardalis</small>  
 <small>[Own What Makes You You](https://ardalis.com/own-what-makes-you-you/)</small>
 
@@ -160,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-30 techtrenches</small>  
 <small>[Your CLAUDE.md Is a Wish List, Not a Contract](https://techtrenches.dev/p/your-claudemd-is-a-wish-list-not)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-30 bartwullems</small>  
-<small>[DeepWiki - Talk to your documentation](https://bartwullems.blogspot.com/2026/03/deepwiki-talk-to-your-documentation.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
 <small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
 
@@ -195,9 +198,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-26 martinfowler</small>  
 <small>[Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-26 stackoverflow</small>  
-<small>[Building shared coding guidelines for AI (and people too)](https://stackoverflow.blog/2026/03/26/coding-guidelines-for-ai-agents-and-people-too/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-26 tidyfirst</small>  
 <small>[Why Your Progress Is About The Same As Everyone Else's](https://tidyfirst.substack.com/p/why-your-progress-is-about-the-same)</small>
