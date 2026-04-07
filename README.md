@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-07 ardalis</small>  
+<small>[Claude Throttling and the Cloud](https://ardalis.com/claude-throttling-and-the-cloud/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-07 simonwillison</small>  
+<small>[GLM-5.1: Towards Long-Horizon Tasks](https://simonwillison.net/2026/Apr/7/glm-51/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-07 simonwillison</small>  
+<small>[Anthropic's Project Glasswing - restricting Claude Mythos to security researchers - sounds necessary to me](https://simonwillison.net/2026/Apr/7/project-glasswing/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-07 dotnet</small>  
+<small>[Your Migration’s Source of Truth: The Modernization Assessment](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-07 dotnet</small>  
+<small>[ASP.NET Core 2.3 end of support announcement](https://devblogs.microsoft.com/dotnet/aspnet-core-2-3-end-of-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-07 simonwillison</small>  
+<small>[SQLite WAL Mode Across Docker Containers Sharing a Volume](https://simonwillison.net/2026/Apr/7/sqlite-wal-docker-containers/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-07 techtrenches</small>  
 <small>[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)</small>
 
@@ -42,15 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
 <small>[datasette-ports 0.2](https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
-<small>[scan-for-secrets 0.3](https://simonwillison.net/2026/Apr/6/scan-for-secrets/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
-<small>[Cleanup Claude Code Paste](https://simonwillison.net/2026/Apr/6/cleanup-claude-code-paste/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
-<small>[datasette-ports 0.1](https://simonwillison.net/2026/Apr/6/datasette-ports/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-05 steven-giesel</small>  
 <small>[Source code generated string enums with exhaustion support](https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d)</small>
@@ -277,9 +286,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-03-20 lucumr-pocoo</small>  
 <small>[Some Things Just Take Time](https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 dotnet</small>  
-<small>[Accelerating .NET MAUI Development with AI Agents](https://devblogs.microsoft.com/dotnet/accelerating-dotnet-maui-with-ai-agents/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
 <small>[AI Benefits - But at What Cost?](https://ardalis.com/ai-benefits---but-at-what-cost/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 azuresqlblog</small>  
 <small>[Database DevOps (preview) in SSMS 22.4.1](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-devops-preview-in-ssms-22-4-1/ba-p/4503858)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-19 bencane</small>  
-<small>[When You Go to Production with gRPC, Make Sure You’ve Solved Load Distribution First](https://bencane.com/posts/2026-03-19/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
-<small>[Announcing Preview of 160 and 192vCore Premium-series Options for Azure SQL Database Hyperscale](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-preview-of-160-and-192vcore-premium-series-options/ba-p/4501367)</small>
 
