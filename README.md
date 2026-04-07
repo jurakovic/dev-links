@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-07 techtrenches</small>  
+<small>[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-07 visualstudio</small>  
+<small>[Take full control of your floating windows in Visual Studio](https://devblogs.microsoft.com/visualstudio/take-full-control-of-your-floating-windows-in-visual-studio/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-07 martinfowler</small>  
+<small>[Principles of Mechanical Sympathy](https://martinfowler.com/articles/mechanical-sympathy-principles.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-07 andrewlock</small>  
 <small>[Running AI agents safely in a microVM using docker sandbox](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/)</small>
 
@@ -235,9 +244,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 visualstudio</small>  
 <small>[Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-24 martinfowler</small>  
-<small>[Bliki: Architecture Decision Record](https://martinfowler.com/bliki/ArchitectureDecisionRecord.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-24 erikej</small>  
 <small>[Supercharge Database DevOps in SSMS with SQL Database Project Power Tools](https://erikej.github.io/sqlserver/ssms/dacfx/2026/03/24/sql-database-project-power-tools-ssms.html)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azuresqlblog</small>  
 <small>[Announcing Preview of 160 and 192vCore Premium-series Options for Azure SQL Database Hyperscale](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-preview-of-160-and-192vcore-premium-series-options/ba-p/4501367)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
-<small>[DiskANN Vector Index Improvements](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-improvements/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-18 azure-sql</small>  
-<small>[MSSQL Extension for VS Code: SQL Notebooks, AI-Powered Schema Design, Data API builder & More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-march-2026/)</small>
 

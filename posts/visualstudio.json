@@ -1,5 +1,10 @@
 [
   {
+    "title": "Take full control of your floating windows in Visual Studio",
+    "link": "https://devblogs.microsoft.com/visualstudio/take-full-control-of-your-floating-windows-in-visual-studio/",
+    "pubDate": "2026-04-07T14:00:39+00:00"
+  },
+  {
     "title": "Bookmark Studio: evolving bookmarks in Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/bookmark-studio-evolving-bookmarks-in-visual-studio/",
     "pubDate": "2026-04-01T14:09:58+00:00"
@@ -18,10 +23,5 @@
     "title": "Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox",
     "link": "https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/",
     "pubDate": "2026-03-16T14:59:12+00:00"
-  },
-  {
-    "title": "Visual Studio Dev Essentials: Free, Practical Tools for Every Developer",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-dev-essentials-free-practical-tools-for-every-developer/",
-    "pubDate": "2026-03-09T15:35:00+00:00"
   }
 ]
