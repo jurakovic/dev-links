@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
+<small>[Lessons from Disaster Management](https://third-bit.com/2026/04/08/lessons-from-disasters/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
+<small>[Lessons from MAID](https://third-bit.com/2026/04/08/lessons-from-maid/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
+<small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-08 simonwillison</small>  
+<small>[Quoting Giles Turnbull](https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-08 bartwullems</small>  
+<small>[GitHub Copilot–Format your code using hooks](https://bartwullems.blogspot.com/2026/04/github-copilotformat-your-code-using.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-08 martinfowler</small>  
+<small>[Feedback Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-08 lucumr-pocoo</small>  
 <small>[Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)</small>
 
@@ -63,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
 <small>[Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
-<small>[datasette-ports 0.2](https://simonwillison.net/2026/Apr/6/datasette-ports-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-05 steven-giesel</small>  
 <small>[Source code generated string enums with exhaustion support](https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d)</small>
@@ -181,9 +196,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-31 steve-yegge</small>  
 <small>[Vibe Maintainer](https://steve-yegge.medium.com/vibe-maintainer-a2273a841040?source=rss-c1ec701babb7------2)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-03-31 bartwullems</small>  
-<small>[VS Code Memory Tool: Local Memory meets GitHub Copilot Memory](https://bartwullems.blogspot.com/2026/03/vs-code-memory-tool-local-memory-meets.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-30 third-bit</small>  
 <small>[Project Status](https://third-bit.com/2026/03/30/project-status/)</small>
 
@@ -208,9 +220,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-27 visualstudiomagazine</small>  
 <small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/articles/2026/03/27/vs-code-1-113-bundles-agent-chat-and-editor-tweaks-as-team-settles-into-weekly-releases.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-27 third-bit</small>  
-<small>[Another Modest Proposal](https://third-bit.com/2026/03/27/another-modest-proposal/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-27 pragmaticengineer</small>  
 <small>[Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/)</small>
 
@@ -223,17 +232,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
 <small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-26 martinfowler</small>  
-<small>[Fragments: March 26](https://martinfowler.com/fragments/2026-03-26.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-26 tidyfirst</small>  
 <small>[Why Your Progress Is About The Same As Everyone Else's](https://tidyfirst.substack.com/p/why-your-progress-is-about-the-same)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-26 seangoedecke</small>  
 <small>[Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-26 third-bit</small>  
-<small>[Classifying Research Software](https://third-bit.com/2026/03/26/classifying-research-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-26 microservices</small>  
 <small>[GenAI-based development platform - part 3: Announcing Isolarium, three flavors of secure sandboxes for GenAI-based coding agents](http://microservices.io//post/architecture/2026/03/26/genai-development-platform-part-3-announcing-isolarium.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
 <small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-19 github-ai</small>  
-<small>[How Squad runs coordinated AI agents inside your repository](https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Lessons from Disaster Management",
+    "link": "https://third-bit.com/2026/04/08/lessons-from-disasters/",
+    "pubDate": "2026-04-08T16:59:26+00:00"
+  },
+  {
+    "title": "Lessons from MAID",
+    "link": "https://third-bit.com/2026/04/08/lessons-from-maid/",
+    "pubDate": "2026-04-08T16:59:26+00:00"
+  },
+  {
     "title": "Current Projects",
     "link": "https://third-bit.com/2026/04/01/current-projects/",
     "pubDate": "2026-04-01T00:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": "An E-Bike for the Mind",
     "link": "https://third-bit.com/2026/03/28/e-bike-for-the-mind/",
     "pubDate": "2026-03-28T10:29:39+00:00"
-  },
-  {
-    "title": "Another Modest Proposal",
-    "link": "https://third-bit.com/2026/03/27/another-modest-proposal/",
-    "pubDate": "2026-03-27T10:47:58+00:00"
-  },
-  {
-    "title": "Classifying Research Software",
-    "link": "https://third-bit.com/2026/03/26/classifying-research-software/",
-    "pubDate": "2026-03-26T10:51:19+00:00"
   }
 ]
