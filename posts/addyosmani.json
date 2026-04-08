@@ -1,5 +1,10 @@
 [
   {
+    "title": "Your parallel Agent limit",
+    "link": "https://addyosmani.com/blog/cognitive-parallel-agents/",
+    "pubDate": "2026-04-07T00:00:00+00:00"
+  },
+  {
     "title": "The Code Agent Orchestra - what makes multi-agent coding work",
     "link": "https://addyosmani.com/blog/code-agent-orchestra/",
     "pubDate": "2026-03-26T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Stop Using /init for AGENTS.md",
     "link": "https://addyosmani.com/blog/agents-md/",
     "pubDate": "2026-02-23T00:00:00+00:00"
-  },
-  {
-    "title": "Bias Toward Action",
-    "link": "https://addyosmani.com/blog/bias-towards-action/",
-    "pubDate": "2026-02-15T00:00:00+00:00"
   }
 ]

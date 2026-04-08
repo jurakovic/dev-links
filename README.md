@@ -40,6 +40,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-07 bartwullems</small>  
 <small>[CycloneDX 1.7 not yet supported by Dependency-Track](https://bartwullems.blogspot.com/2026/04/cyclonedx-17-not-yet-supported-by.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-07 addyosmani</small>  
+<small>[Your parallel Agent limit](https://addyosmani.com/blog/cognitive-parallel-agents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-06 ardalis</small>  
 <small>[Own What Makes You You](https://ardalis.com/own-what-makes-you-you/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
 <small>[Use Asciinema and Powersession on Windows](https://ardalis.com/use-asciinema-and-powersession-on-windows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-19 azuresqlblog</small>  
-<small>[Database DevOps (preview) in SSMS 22.4.1](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-devops-preview-in-ssms-22-4-1/ba-p/4503858)</small>
 
