@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 bencane</small>  
+<small>[Agent Skills Are Becoming the Best Way to Capture Institutional Knowledge](https://bencane.com/posts/2026-04-09/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-09 bartwullems</small>  
+<small>[Icons for Tools, Resources, and Prompts–Because a picture is worth a thousand words](https://bartwullems.blogspot.com/2026/04/icons-for-tools-resources-and.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-08 simonwillison</small>  
+<small>[Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
 <small>[Lessons from Disaster Management](https://third-bit.com/2026/04/08/lessons-from-disasters/)</small>
 
@@ -24,6 +33,12 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-08 lucumr-pocoo</small>  
 <small>[Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
+<small>[Lessons from Business](https://third-bit.com/2026/04/08/lessons-from-business/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
+<small>[Lessons from Crisis](https://third-bit.com/2026/04/08/lessons-from-crisis/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-07 ardalis</small>  
 <small>[Claude Throttling and the Cloud](https://ardalis.com/claude-throttling-and-the-cloud/)</small>
@@ -78,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-06 visualstudiomagazine</small>  
 <small>[Microsoft Ships Production-Ready Agent Framework 1.0 for .NET and Python](https://visualstudiomagazine.com/articles/2026/04/06/microsoft-ships-production-ready-agent-framework-1-0-for-net-and-python.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-06 simonwillison</small>  
-<small>[Google AI Edge Gallery](https://simonwillison.net/2026/Apr/6/google-ai-edge-gallery/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-05 steven-giesel</small>  
 <small>[Source code generated string enums with exhaustion support](https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d)</small>
@@ -169,9 +181,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-01 andrewlock</small>  
 <small>[Configuring contextual options with Microsoft.Extensions.Options.Contextual](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-01 bartwullems</small>  
-<small>[Shining a light on .NET versions across our organisation with OpenTelemetry](https://bartwullems.blogspot.com/2026/04/shining-light-on-net-versions-across.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-01 third-bit</small>  
 <small>[Current Projects](https://third-bit.com/2026/04/01/current-projects/)</small>
 
@@ -196,9 +205,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-03-31 steve-yegge</small>  
 <small>[Vibe Maintainer](https://steve-yegge.medium.com/vibe-maintainer-a2273a841040?source=rss-c1ec701babb7------2)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-30 third-bit</small>  
-<small>[Project Status](https://third-bit.com/2026/03/30/project-status/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-03-30 idunno</small>  
 <small>[Protecting your .NET app from Server-Side Request Forgery (SSRF) vulnerabilities.](https://idunno.org/protecting-your-net-app-from-server-side-request-forgery-ssrf-vulnerabilities/)</small>
 
@@ -210,9 +216,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
 <small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-03-28 third-bit</small>  
-<small>[An E-Bike for the Mind](https://third-bit.com/2026/03/28/e-bike-for-the-mind/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-27 terriblesoftware</small>  
 <small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-19 slack</small>  
 <small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-03-19 swizec</small>  
-<small>[The best engineers just get shit done, sometimes with AI](https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Icons for Tools, Resources, and Prompts–Because a picture is worth a thousand words",
+    "link": "https://bartwullems.blogspot.com/2026/04/icons-for-tools-resources-and.html",
+    "pubDate": "2026-04-09T04:57:00+00:00"
+  },
+  {
     "title": "GitHub Copilot–Format your code using hooks",
     "link": "https://bartwullems.blogspot.com/2026/04/github-copilotformat-your-code-using.html",
     "pubDate": "2026-04-08T13:33:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Awesome GitHub Copilot just got awesommer (if that’s a word)",
     "link": "https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html",
     "pubDate": "2026-04-02T05:04:00+00:00"
-  },
-  {
-    "title": "Shining a light on .NET versions across our organisation with OpenTelemetry",
-    "link": "https://bartwullems.blogspot.com/2026/04/shining-light-on-net-versions-across.html",
-    "pubDate": "2026-04-01T05:05:00+00:00"
   }
 ]
