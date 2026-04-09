@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 erikej</small>  
+<small>[Publish SQL Database Projects as Container Images with MSBuild.Sdk.SqlProj](https://erikej.github.io/sqlclient/dotnet/dacfx/2026/04/09/dacfx-container-publish.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 bencane</small>  
 <small>[Agent Skills Are Becoming the Best Way to Capture Institutional Knowledge](https://bencane.com/posts/2026-04-09/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-03-19 ardalis</small>  
 <small>[AI Benefits - But at What Cost?](https://ardalis.com/ai-benefits---but-at-what-cost/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-19 slack</small>  
-<small>[How Slack Rebuilt Notifications 📣](https://slack.engineering/how-slack-rebuilt-notifications/)</small>
 
