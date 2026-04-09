@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-09 stackoverflow</small>  
+<small>[Gen Z needs a knowledge base (and so do you)](https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-09 martinfowler</small>  
+<small>[Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 erikej</small>  
 <small>[Publish SQL Database Projects as Container Images with MSBuild.Sdk.SqlProj](https://erikej.github.io/sqlclient/dotnet/dacfx/2026/04/09/dacfx-container-publish.html)</small>
 
@@ -199,9 +205,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-03-31 github-eng</small>  
 <small>[Agent-driven development in Copilot Applied Science](https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-03-31 martinfowler</small>  
-<small>[Encoding Team Standards](https://martinfowler.com/articles/reduce-friction-ai/encoding-team-standards.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-31 stackoverflow</small>  
 <small>[How can you test your code when you don’t know what’s in it?](https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/)</small>
 
@@ -228,9 +231,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-27 pragmaticengineer</small>  
 <small>[Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-03-27 stackoverflow</small>  
-<small>[Prevent agentic identity theft](https://stackoverflow.blog/2026/03/27/prevent-agentic-identity-theft/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-27 dbreunig</small>  
 <small>[The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)</small>
