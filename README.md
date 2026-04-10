@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-10 simonwillison</small>  
+<small>[Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-10 netflix</small>  
 <small>[Evaluating Netflix Show Synopses with LLM-as-a-Judge](https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-08 simonwillison</small>  
-<small>[Quoting Giles Turnbull](https://simonwillison.net/2026/Apr/8/giles-turnbull/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-08 bartwullems</small>  
 <small>[GitHub Copilot–Format your code using hooks](https://bartwullems.blogspot.com/2026/04/github-copilotformat-your-code-using.html)</small>
