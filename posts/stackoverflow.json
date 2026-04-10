@@ -1,5 +1,10 @@
 [
   {
+    "title": "The messy truth of your AI strategies",
+    "link": "https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/",
+    "pubDate": "2026-04-10T07:40:00+00:00"
+  },
+  {
     "title": "Gen Z needs a knowledge base (and so do you)",
     "link": "https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/",
     "pubDate": "2026-04-09T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "What the AI trust gap means for enterprise SaaS",
     "link": "https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/",
     "pubDate": "2026-04-02T13:00:00+00:00"
-  },
-  {
-    "title": "How can you test your code when you don’t know what’s in it?",
-    "link": "https://stackoverflow.blog/2026/03/31/how-can-you-test-your-code-when-you-don-t-know-what-s-in-it/",
-    "pubDate": "2026-03-31T07:40:00+00:00"
   }
 ]

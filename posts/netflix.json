@@ -1,5 +1,10 @@
 [
   {
+    "title": "Evaluating Netflix Show Synopses with LLM-as-a-Judge",
+    "link": "https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-04-10T16:26:01+00:00"
+  },
+  {
     "title": "Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale",
     "link": "https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-06T22:15:14+00:00"
@@ -18,10 +23,5 @@
     "title": "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
     "link": "https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4",
     "pubDate": "2026-03-06T15:01:27+00:00"
-  },
-  {
-    "title": "Optimizing Recommendation Systems with JDK’s Vector API",
-    "link": "https://netflixtechblog.com/optimizing-recommendation-systems-with-jdks-vector-api-30d2830401ec?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-03-03T01:36:46+00:00"
   }
 ]
