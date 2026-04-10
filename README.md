@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-10 bartwullems</small>  
+<small>[Debugging your VSCode agent interactions](https://bartwullems.blogspot.com/2026/04/debugging-your-vscode-agent-interactions.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-09 simonwillison</small>  
 <small>[GitHub Repo Size](https://simonwillison.net/2026/Apr/9/github-repo-size/#atom-everything)</small>
 
@@ -159,9 +162,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
 <small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-02 bartwullems</small>  
-<small>[Awesome GitHub Copilot just got awesommer (if that’s a word)](https://bartwullems.blogspot.com/2026/04/awesome-github-copilot-just-got.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-01 dbreunig</small>  
 <small>[The 2nd Phase of Agentic Development](https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html)</small>
