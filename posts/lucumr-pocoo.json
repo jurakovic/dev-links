@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Center Has a Bias",
+    "link": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
+    "pubDate": "2026-04-11T22:30:08+00:00"
+  },
+  {
     "title": "Mario and Earendil",
     "link": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/",
     "pubDate": "2026-04-08T10:54:19+00:00"
@@ -18,10 +23,5 @@
     "title": "AI And The Ship of Theseus",
     "link": "https://lucumr.pocoo.org/2026/3/5/theseus/",
     "pubDate": "2026-03-05T00:00:00+00:00"
-  },
-  {
-    "title": "The Final Bottleneck",
-    "link": "https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/",
-    "pubDate": "2026-02-13T00:00:00+00:00"
   }
 ]

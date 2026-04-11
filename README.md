@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-11 lucumr-pocoo</small>  
+<small>[The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-11 simonwillison</small>  
+<small>[SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-11 simonwillison</small>  
+<small>[SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-11 martinfowler</small>  
 <small>[Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)</small>
 
@@ -42,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-09 bartwullems</small>  
 <small>[Icons for Tools, Resources, and Prompts–Because a picture is worth a thousand words](https://bartwullems.blogspot.com/2026/04/icons-for-tools-resources-and.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-09 simonwillison</small>  
-<small>[asgi-gzip 0.3](https://simonwillison.net/2026/Apr/9/asgi-gzip/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-08 simonwillison</small>  
-<small>[Meta's new model is Muse Spark, and meta.ai chat has some interesting tools](https://simonwillison.net/2026/Apr/8/muse-spark/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
 <small>[Lessons from Disaster Management](https://third-bit.com/2026/04/08/lessons-from-disasters/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-20 azuresqlblog</small>  
 <small>[Stream data in near real time from SQL MI to Azure Event Hubs - Public preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/stream-data-in-near-real-time-from-sql-mi-to-azure-event-hubs/ba-p/4504212)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-20 tidyfirst</small>  
-<small>[Forest Thinning](https://tidyfirst.substack.com/p/forest-thinning)</small>
 
