@@ -16,6 +16,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-11 martinfowler</small>  
 <small>[Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-11 addyosmani</small>  
+<small>[Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-10 simonwillison</small>  
 <small>[Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-03-22 devlead</small>  
 <small>[A quarter of a billion NuGet downloads](https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-20 azuresqlblog</small>  
-<small>[Stream data in near real time from SQL MI to Azure Event Hubs - Public preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/stream-data-in-near-real-time-from-sql-mi-to-azure-event-hubs/ba-p/4504212)</small>
 
