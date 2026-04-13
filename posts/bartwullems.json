@@ -1,5 +1,10 @@
 [
   {
+    "title": "Git for Windows 2.49.0 broke my Azure DevOps pushes",
+    "link": "https://bartwullems.blogspot.com/2026/04/git-for-windows-2490-broke-my-azure.html",
+    "pubDate": "2026-04-13T05:46:00+00:00"
+  },
+  {
     "title": "Debugging your VSCode agent interactions",
     "link": "https://bartwullems.blogspot.com/2026/04/debugging-your-vscode-agent-interactions.html",
     "pubDate": "2026-04-10T04:49:00+00:00"
@@ -18,10 +23,5 @@
     "title": "CycloneDX 1.7 not yet supported by Dependency-Track",
     "link": "https://bartwullems.blogspot.com/2026/04/cyclonedx-17-not-yet-supported-by.html",
     "pubDate": "2026-04-07T05:15:00+00:00"
-  },
-  {
-    "title": "Agents can now verify your UI changes without leaving VS Code",
-    "link": "https://bartwullems.blogspot.com/2026/04/agents-can-now-verify-your-ui-changes.html",
-    "pubDate": "2026-04-03T05:27:00+00:00"
   }
 ]
