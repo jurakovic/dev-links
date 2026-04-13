@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-13 simonwillison</small>  
+<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
+<small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-13 simonwillison</small>  
+<small>[Exploring the new \`servo\` crate](https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-13 third-bit</small>  
 <small>[A Bibliography](https://third-bit.com/2026/04/13/a-bibliography/)</small>
 
@@ -28,17 +37,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-11 simonwillison</small>  
 <small>[SQLite 3.53.0](https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-11 simonwillison</small>  
-<small>[SQLite Query Result Formatter Demo](https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-11 martinfowler</small>  
 <small>[Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-11 addyosmani</small>  
 <small>[Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-10 simonwillison</small>  
-<small>[Kākāpō parrots](https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-10 netflix</small>  
 <small>[Evaluating Netflix Show Synopses with LLM-as-a-Judge](https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
 <small>[Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-23 techtrenches</small>  
-<small>[The Autonomy Illusion](https://techtrenches.dev/p/the-autonomy-illusion)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Steve Yegge",
+    "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything",
+    "pubDate": "2026-04-13T20:59:45+00:00"
+  },
+  {
+    "title": "Exploring the new `servo` crate",
+    "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything",
+    "pubDate": "2026-04-13T15:04:00+00:00"
+  },
+  {
     "title": "Quoting Bryan Cantrill",
     "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
     "pubDate": "2026-04-13T02:44:24+00:00"
@@ -13,15 +23,5 @@
     "title": "SQLite 3.53.0",
     "link": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
     "pubDate": "2026-04-11T19:56:53+00:00"
-  },
-  {
-    "title": "SQLite Query Result Formatter Demo",
-    "link": "https://simonwillison.net/2026/Apr/11/sqlite-qrf/#atom-everything",
-    "pubDate": "2026-04-11T19:35:31+00:00"
-  },
-  {
-    "title": "Kākāpō parrots",
-    "link": "https://simonwillison.net/2026/Apr/10/kakapo/#atom-everything",
-    "pubDate": "2026-04-10T19:07:02+00:00"
   }
 ]
