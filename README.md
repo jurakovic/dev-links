@@ -19,6 +19,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-12 simonwillison</small>  
 <small>[Gemma 4 audio with MLX](https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-12 lethain</small>  
+<small>[Agents as scaffolding for recurring tasks.](https://lethain.com/agents-as-scaffolding/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-11 lucumr-pocoo</small>  
 <small>[The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-23 techtrenches</small>  
 <small>[The Autonomy Illusion](https://techtrenches.dev/p/the-autonomy-illusion)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
-<small>[Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)</small>
 
