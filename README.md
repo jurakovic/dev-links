@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-13 third-bit</small>  
+<small>[A Bibliography](https://third-bit.com/2026/04/13/a-bibliography/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-13 erikej</small>  
+<small>[New Visual Rule Manager: Configure SQL Code Analysis Without Editing XML](https://erikej.github.io/dacfx/dotnet/sqlserver/ssms/visualstudio/2026/04/13/sqlprojects-rule-manager.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-13 bartwullems</small>  
 <small>[Git for Windows 2.49.0 broke my Azure DevOps pushes](https://bartwullems.blogspot.com/2026/04/git-for-windows-2490-broke-my-azure.html)</small>
 
@@ -208,9 +214,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-01 andrewlock</small>  
 <small>[Configuring contextual options with Microsoft.Extensions.Options.Contextual](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-01 third-bit</small>  
-<small>[Current Projects](https://third-bit.com/2026/04/01/current-projects/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-03-31 slack</small>  
 <small>[From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus](https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
 <small>[Ten Months with Copilot Coding Agent in dotnet/runtime](https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-03-22 devlead</small>  
-<small>[A quarter of a billion NuGet downloads](https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads)</small>
 
