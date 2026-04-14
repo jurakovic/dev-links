@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-14 swizec</small>  
+<small>[Watch people work](https://swizec.com/blog/watch-people-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-14 techtrenches</small>  
+<small>[Everyone Wants a Better Team. Nobody Wants to Do Anything About It.](https://techtrenches.dev/p/everyone-wants-a-better-team-nobody)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-14 martinfowler</small>  
+<small>[Fragments: April 14](https://martinfowler.com/fragments/2026-04-14.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-14 andrewlock</small>  
 <small>[Running AI agents with customized templates using docker sandbox](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/)</small>
 
@@ -184,9 +193,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-02 dotnet</small>  
 <small>[Explore union types in C# 15](https://devblogs.microsoft.com/dotnet/csharp-15-union-types/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-02 martinfowler</small>  
-<small>[Fragments: April  2](https://martinfowler.com/fragments/2026-04-02.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
 <small>[Visual Studio Code 1.114 Keeps Weekly Cadence Rolling with Chat, Search and TypeScript Updates](https://visualstudiomagazine.com/articles/2026/04/02/visual-studio-code-1,-d-,114-keeps-weekly-cadence-rolling-with-chat-search-and-typescript-updates.aspx)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-24 erikej</small>  
 <small>[Supercharge Database DevOps in SSMS with SQL Database Project Power Tools](https://erikej.github.io/sqlserver/ssms/dacfx/2026/03/24/sql-database-project-power-tools-ssms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
-<small>[SQL code analysis in VS Code: Configure rules without editing your project file](https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
-<small>[Manage SQL database schemas in VS Code: Publish dialog and item templates](https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates/)</small>
 
