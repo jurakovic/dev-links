@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET and .NET Framework April 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/",
+    "pubDate": "2026-04-14T19:49:00+00:00"
+  },
+  {
+    "title": ".NET 11 Preview 3 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/",
+    "pubDate": "2026-04-14T19:30:00+00:00"
+  },
+  {
     "title": "Your Migration’s Source of Truth: The Modernization Assessment",
     "link": "https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/",
     "pubDate": "2026-04-07T18:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Explore union types in C# 15",
     "link": "https://devblogs.microsoft.com/dotnet/csharp-15-union-types/",
     "pubDate": "2026-04-02T17:05:00+00:00"
-  },
-  {
-    "title": "Generative AI for Beginners .NET: Version 2 on .NET 10",
-    "link": "https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/",
-    "pubDate": "2026-03-23T17:05:00+00:00"
-  },
-  {
-    "title": "Ten Months with Copilot Coding Agent in dotnet/runtime",
-    "link": "https://devblogs.microsoft.com/dotnet/ten-months-with-cca-in-dotnet-runtime/",
-    "pubDate": "2026-03-23T14:55:00+00:00"
   }
 ]

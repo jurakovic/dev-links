@@ -1,5 +1,15 @@
 [
   {
+    "title": "Trusted access for the next era of cyber defense",
+    "link": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
+    "pubDate": "2026-04-14T21:23:59+00:00"
+  },
+  {
+    "title": "Cybersecurity Looks Like Proof of Work Now",
+    "link": "https://simonwillison.net/2026/Apr/14/cybersecurity-proof-of-work/#atom-everything",
+    "pubDate": "2026-04-14T19:41:48+00:00"
+  },
+  {
     "title": "Steve Yegge",
     "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything",
     "pubDate": "2026-04-13T20:59:45+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Bryan Cantrill",
     "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
     "pubDate": "2026-04-13T02:44:24+00:00"
-  },
-  {
-    "title": "Gemma 4 audio with MLX",
-    "link": "https://simonwillison.net/2026/Apr/12/mlx-audio/#atom-everything",
-    "pubDate": "2026-04-12T23:57:53+00:00"
-  },
-  {
-    "title": "SQLite 3.53.0",
-    "link": "https://simonwillison.net/2026/Apr/11/sqlite/#atom-everything",
-    "pubDate": "2026-04-11T19:56:53+00:00"
   }
 ]
