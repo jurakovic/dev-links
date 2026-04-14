@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-14 stackoverflow</small>  
+<small>[Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-14 bartwullems</small>  
+<small>[Keep your context short - Manual compaction is now available in VS Code](https://bartwullems.blogspot.com/2026/04/keep-your-context-short-manual.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-13 simonwillison</small>  
-<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything)</small>
+<small>[Steve Yegge](https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
 <small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
@@ -118,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-07 stackoverflow</small>  
 <small>[He designed C++ to solve your code problems](https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-07 bartwullems</small>  
-<small>[CycloneDX 1.7 not yet supported by Dependency-Track](https://bartwullems.blogspot.com/2026/04/cyclonedx-17-not-yet-supported-by.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-07 addyosmani</small>  
 <small>[Your parallel Agent limit](https://addyosmani.com/blog/cognitive-parallel-agents/)</small>
 
@@ -183,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
 <small>[Visual Studio Code 1.114 Keeps Weekly Cadence Rolling with Chat, Search and TypeScript Updates](https://visualstudiomagazine.com/articles/2026/04/02/visual-studio-code-1,-d-,114-keeps-weekly-cadence-rolling-with-chat-search-and-typescript-updates.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-02 stackoverflow</small>  
-<small>[What the AI trust gap means for enterprise SaaS](https://stackoverflow.blog/2026/04/02/what-the-ai-trust-gap-means-for-enterprise-saas/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
 <small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
