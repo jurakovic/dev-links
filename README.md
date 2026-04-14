@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-14 andrewlock</small>  
+<small>[Running AI agents with customized templates using docker sandbox](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-14 stackoverflow</small>  
 <small>[Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-24 azure-sql</small>  
 <small>[Manage SQL database schemas in VS Code: Publish dialog and item templates](https://devblogs.microsoft.com/azure-sql/sql-database-projects-publish-dialog-item-templates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-23 dotnet</small>  
-<small>[Generative AI for Beginners .NET: Version 2 on .NET 10](https://devblogs.microsoft.com/dotnet/generative-ai-for-beginners-dotnet-version-2-on-dotnet-10/)</small>
 
