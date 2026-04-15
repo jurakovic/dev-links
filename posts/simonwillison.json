@@ -1,5 +1,15 @@
 [
   {
+    "title": "Zig 0.16.0 release notes: \"Juicy Main\"",
+    "link": "https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything",
+    "pubDate": "2026-04-15T01:59:21+00:00"
+  },
+  {
+    "title": "datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection",
+    "link": "https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything",
+    "pubDate": "2026-04-14T23:58:53+00:00"
+  },
+  {
     "title": "Trusted access for the next era of cyber defense",
     "link": "https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything",
     "pubDate": "2026-04-14T21:23:59+00:00"
@@ -13,15 +23,5 @@
     "title": "Steve Yegge",
     "link": "https://simonwillison.net/2026/Apr/13/steve-yegge/#atom-everything",
     "pubDate": "2026-04-13T20:59:45+00:00"
-  },
-  {
-    "title": "Exploring the new `servo` crate",
-    "link": "https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything",
-    "pubDate": "2026-04-13T15:04:00+00:00"
-  },
-  {
-    "title": "Quoting Bryan Cantrill",
-    "link": "https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything",
-    "pubDate": "2026-04-13T02:44:24+00:00"
   }
 ]

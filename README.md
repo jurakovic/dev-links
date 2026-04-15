@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-15 bartwullems</small>  
+<small>[ADFS policies vs authorization rules - understanding the difference](https://bartwullems.blogspot.com/2026/04/adfs-policies-vs-authorization-rules.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-15 simonwillison</small>  
+<small>[Zig 0.16.0 release notes: "Juicy Main"](https://simonwillison.net/2026/Apr/15/juicy-main/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-14 simonwillison</small>  
+<small>[datasette PR #2689: Replace token-based CSRF with Sec-Fetch-Site header protection](https://simonwillison.net/2026/Apr/14/replace-token-based-csrf/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-14 simonwillison</small>  
 <small>[Trusted access for the next era of cyber defense](https://simonwillison.net/2026/Apr/14/trusted-access-openai/#atom-everything)</small>
 
@@ -46,9 +55,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
 <small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-13 simonwillison</small>  
-<small>[Exploring the new \`servo\` crate](https://simonwillison.net/2026/Apr/13/servo-crate-exploration/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-13 third-bit</small>  
 <small>[A Bibliography](https://third-bit.com/2026/04/13/a-bibliography/)</small>
 
@@ -57,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-13 bartwullems</small>  
 <small>[Git for Windows 2.49.0 broke my Azure DevOps pushes](https://bartwullems.blogspot.com/2026/04/git-for-windows-2490-broke-my-azure.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-13 simonwillison</small>  
-<small>[Quoting Bryan Cantrill](https://simonwillison.net/2026/Apr/13/bryan-cantrill/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-12 lethain</small>  
 <small>[Agents as scaffolding for recurring tasks.](https://lethain.com/agents-as-scaffolding/)</small>
@@ -108,9 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-08 bartwullems</small>  
-<small>[GitHub Copilot–Format your code using hooks](https://bartwullems.blogspot.com/2026/04/github-copilotformat-your-code-using.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-08 martinfowler</small>  
 <small>[Feedback Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html)</small>
