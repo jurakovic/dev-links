@@ -1,5 +1,10 @@
 [
   {
+    "title": "Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent",
+    "link": "https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/",
+    "pubDate": "2026-04-15T16:00:15+00:00"
+  },
+  {
     "title": "Take full control of your floating windows in Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/take-full-control-of-your-floating-windows-in-visual-studio/",
     "pubDate": "2026-04-07T14:00:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers",
     "link": "https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/",
     "pubDate": "2026-03-24T15:00:12+00:00"
-  },
-  {
-    "title": "Get the Inside Scoop on Visual Studio Subscriptions, Straight to Your Inbox",
-    "link": "https://devblogs.microsoft.com/visualstudio/vss-newsletter-opt-in/",
-    "pubDate": "2026-03-16T14:59:12+00:00"
   }
 ]

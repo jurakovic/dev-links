@@ -1,5 +1,15 @@
 [
   {
+    "title": "Human input needed: take our survey on AI agents",
+    "link": "https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/",
+    "pubDate": "2026-04-15T14:00:00+00:00"
+  },
+  {
+    "title": "Why AI hasn't replaced human expertise—and what that means for your SaaS stack",
+    "link": "https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/",
+    "pubDate": "2026-04-15T13:00:00+00:00"
+  },
+  {
     "title": "Who needs VCs when you have friends like these?",
     "link": "https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/",
     "pubDate": "2026-04-14T05:59:25+00:00"
@@ -13,15 +23,5 @@
     "title": "Gen Z needs a knowledge base (and so do you)",
     "link": "https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/",
     "pubDate": "2026-04-09T16:00:00+00:00"
-  },
-  {
-    "title": "He designed C++ to solve your code problems",
-    "link": "https://stackoverflow.blog/2026/04/07/he-designed-c-to-solve-your-code-problems/",
-    "pubDate": "2026-04-07T05:45:25+00:00"
-  },
-  {
-    "title": "Seizing the means of messenger production",
-    "link": "https://stackoverflow.blog/2026/04/03/seizing-the-means-of-messenger-production/",
-    "pubDate": "2026-04-03T05:40:53+00:00"
   }
 ]
