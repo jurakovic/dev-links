@@ -1,6 +1,11 @@
 [
   {
-    "title": "Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent",
+    "title": "Azure MCP tools now ship built into Visual Studio 2022 — no extension required",
+    "link": "https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/",
+    "pubDate": "2026-04-15T17:30:28+00:00"
+  },
+  {
+    "title": "Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow",
     "link": "https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/",
     "pubDate": "2026-04-15T16:00:15+00:00"
   },
@@ -18,10 +23,5 @@
     "title": "Visual Studio March Update – Build Your Own Custom Agents",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-march-update-build-your-own-custom-agents/",
     "pubDate": "2026-03-31T16:00:18+00:00"
-  },
-  {
-    "title": "Unlock More Power in Your Development Workflow: Syncfusion for Visual Studio Subscribers",
-    "link": "https://devblogs.microsoft.com/visualstudio/syncfusion-for-visual-studio/",
-    "pubDate": "2026-03-24T15:00:12+00:00"
   }
 ]
