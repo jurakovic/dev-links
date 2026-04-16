@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Agent Framework - Getting started with DevUI in .NET",
+    "link": "https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-getting.html",
+    "pubDate": "2026-04-16T05:17:00+00:00"
+  },
+  {
     "title": "ADFS policies vs authorization rules - understanding the difference",
     "link": "https://bartwullems.blogspot.com/2026/04/adfs-policies-vs-authorization-rules.html",
     "pubDate": "2026-04-15T05:18:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Debugging your VSCode agent interactions",
     "link": "https://bartwullems.blogspot.com/2026/04/debugging-your-vscode-agent-interactions.html",
     "pubDate": "2026-04-10T04:49:00+00:00"
-  },
-  {
-    "title": "Icons for Tools, Resources, and Prompts–Because a picture is worth a thousand words",
-    "link": "https://bartwullems.blogspot.com/2026/04/icons-for-tools-resources-and.html",
-    "pubDate": "2026-04-09T04:57:00+00:00"
   }
 ]
