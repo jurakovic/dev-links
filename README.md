@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-16 third-bit</small>  
+<small>[Big Tech is Like…](https://third-bit.com/2026/04/16/big-tech-is-like/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-16 simonwillison</small>  
+<small>[llm-anthropic 0.25](https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-16 simonwillison</small>  
+<small>[Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7](https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-16 github-eng</small>  
 <small>[How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)</small>
 
@@ -12,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-16 antirez</small>  
 <small>[AI cybersecurity is not proof of work](http://antirez.com/news/163)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-16 visualstudiomagazine</small>  
+<small>[VS Code Updates Boost AI Agents, Terminal Control and Copilot Workflow](https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-16 bencane</small>  
 <small>[Are you using traffic mirroring in production? If not, try it out.](https://bencane.com/posts/2026-04-16/)</small>
@@ -30,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Azure MCP tools now ship built into Visual Studio 2022 — no extension required](https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-15 simonwillison</small>  
-<small>[Quoting John Gruber](https://simonwillison.net/2026/Apr/15/john-gruber/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-15 simonwillison</small>  
-<small>[Gemini 3.1 Flash TTS](https://simonwillison.net/2026/Apr/15/gemini-31-flash-tts/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-15 ardalis</small>  
 <small>[How Software Developers Fail](https://ardalis.com/how-software-developers-fail/)</small>
@@ -138,9 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
 <small>[Lessons from Disaster Management](https://third-bit.com/2026/04/08/lessons-from-disasters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
-<small>[Lessons from MAID](https://third-bit.com/2026/04/08/lessons-from-maid/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
@@ -288,9 +291,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-27 terriblesoftware</small>  
 <small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-03-27 visualstudiomagazine</small>  
-<small>[VS Code 1.113 Bundles Agent, Chat and Editor Tweaks as Dev Team Settles into Weekly Releases](https://visualstudiomagazine.com/articles/2026/03/27/vs-code-1-113-bundles-agent-chat-and-editor-tweaks-as-team-settles-into-weekly-releases.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-27 pragmaticengineer</small>  
 <small>[Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/)</small>
