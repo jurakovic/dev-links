@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-16 antirez</small>  
+<small>[AI cybersecurity is not proof of work](http://antirez.com/news/163)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-16 bencane</small>  
 <small>[Are you using traffic mirroring in production? If not, try it out.](https://bencane.com/posts/2026-04-16/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-26 seangoedecke</small>  
 <small>[Engineers do get promoted for writing simple code](https://seangoedecke.com/simple-work-gets-rewarded/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-03-26 microservices</small>  
-<small>[GenAI-based development platform - part 3: Announcing Isolarium, three flavors of secure sandboxes for GenAI-based coding agents](http://microservices.io//post/architecture/2026/03/26/genai-development-platform-part-3-announcing-isolarium.html)</small>
 
