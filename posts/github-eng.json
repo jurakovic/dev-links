@@ -1,5 +1,10 @@
 [
   {
+    "title": "How GitHub uses eBPF to improve deployment safety",
+    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+    "pubDate": "2026-04-16T16:00:00+00:00"
+  },
+  {
     "title": "The uphill climb of making diff lines performant",
     "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
     "pubDate": "2026-04-03T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
     "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
     "pubDate": "2026-03-03T18:45:09+00:00"
-  },
-  {
-    "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
-    "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
-    "pubDate": "2026-01-28T17:00:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "From AI to .NET: 20 VS Live! Las Vegas Sessions You Can Watch Now",
+    "link": "https://devblogs.microsoft.com/visualstudio/from-ai-to-net-20-vs-live-las-vegas-sessions-you-can-watch-now/",
+    "pubDate": "2026-04-16T15:00:04+00:00"
+  },
+  {
     "title": "Azure MCP tools now ship built into Visual Studio 2022 — no extension required",
     "link": "https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/",
     "pubDate": "2026-04-15T17:30:28+00:00"
@@ -18,10 +23,5 @@
     "title": "Bookmark Studio: evolving bookmarks in Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/bookmark-studio-evolving-bookmarks-in-visual-studio/",
     "pubDate": "2026-04-01T14:09:58+00:00"
-  },
-  {
-    "title": "Visual Studio March Update – Build Your Own Custom Agents",
-    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-march-update-build-your-own-custom-agents/",
-    "pubDate": "2026-03-31T16:00:18+00:00"
   }
 ]
