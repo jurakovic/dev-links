@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-17 stackoverflow</small>  
+<small>[No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-17 simonwillison</small>  
+<small>[datasette 1.0a28](https://simonwillison.net/2026/Apr/17/datasette/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-16 third-bit</small>  
 <small>[Big Tech is Like…](https://third-bit.com/2026/04/16/big-tech-is-like/)</small>
 
@@ -36,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-15 simonwillison</small>  
 <small>[datasette-export-database 0.3a1](https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-15 simonwillison</small>  
-<small>[datasette 1.0a27](https://simonwillison.net/2026/Apr/15/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Azure MCP tools now ship built into Visual Studio 2022 — no extension required](https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/)</small>
@@ -129,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-10 bartwullems</small>  
 <small>[Debugging your VSCode agent interactions](https://bartwullems.blogspot.com/2026/04/debugging-your-vscode-agent-interactions.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-09 stackoverflow</small>  
-<small>[Gen Z needs a knowledge base (and so do you)](https://stackoverflow.blog/2026/04/09/gen-z-needs-a-knowledge-base-and-so-do-you/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-09 martinfowler</small>  
 <small>[Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)</small>

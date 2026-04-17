@@ -1,5 +1,10 @@
 [
   {
+    "title": "datasette 1.0a28",
+    "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
+    "pubDate": "2026-04-17T04:01:56+00:00"
+  },
+  {
     "title": "llm-anthropic 0.25",
     "link": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
     "pubDate": "2026-04-16T20:37:12+00:00"
@@ -18,10 +23,5 @@
     "title": "datasette-export-database 0.3a1",
     "link": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
     "pubDate": "2026-04-15T23:52:35+00:00"
-  },
-  {
-    "title": "datasette 1.0a27",
-    "link": "https://simonwillison.net/2026/Apr/15/datasette/#atom-everything",
-    "pubDate": "2026-04-15T23:16:34+00:00"
   }
 ]
