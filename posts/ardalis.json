@@ -1,5 +1,10 @@
 [
   {
+    "title": "Optimizing AI Agents with Progressive Disclosure",
+    "link": "https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/",
+    "pubDate": "2026-04-17T22:36:23+00:00"
+  },
+  {
     "title": "How Software Developers Fail",
     "link": "https://ardalis.com/how-software-developers-fail/",
     "pubDate": "2026-04-15T17:01:09+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET Conf Most Popular Sessions Tool",
     "link": "https://ardalis.com/dotnetconf-most-popular-sessions-tool/",
     "pubDate": "2026-04-01T20:47:18+00:00"
-  },
-  {
-    "title": "AI Benefits - But at What Cost?",
-    "link": "https://ardalis.com/ai-benefits---but-at-what-cost/",
-    "pubDate": "2026-03-19T20:17:07+00:00"
   }
 ]

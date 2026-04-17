@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-17 ardalis</small>  
+<small>[Optimizing AI Agents with Progressive Disclosure](https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-17 visualstudiomagazine</small>  
+<small>[At VSLive!, Mads Kristensen Lets 'the Cat out of the Bag' on Visual Studio 2027](https://visualstudiomagazine.com/articles/2026/04/17/at-vslive-mads-k-lets-the-cat-out-of-the-bag-on-visual-studio-2027.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-17 github-ai</small>  
+<small>[Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-17 netflix</small>  
 <small>[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4)</small>
 
@@ -235,9 +244,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
 <small>[OpenClaw Gets a Microsoft 365 Champion While VS Code Tooling Stays Nascent](https://visualstudiomagazine.com/articles/2026/04/02/openclaw-gets-a-microsoft-365-champion-while-vs-code-tooling-stays-nascent.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-02 visualstudiomagazine</small>  
-<small>[Visual Studio Code 1.114 Keeps Weekly Cadence Rolling with Chat, Search and TypeScript Updates](https://visualstudiomagazine.com/articles/2026/04/02/visual-studio-code-1,-d-,114-keeps-weekly-cadence-rolling-with-chat-search-and-typescript-updates.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-02 bencane</small>  
 <small>[Saved Prompts Are Dead. Agent Skills Are the Future.](https://bencane.com/posts/2026-04-02/)</small>
 
@@ -258,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-04-01 terriblesoftware</small>  
 <small>[Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-01 github-ai</small>  
-<small>[Run multiple agents at once with /fleet in Copilot CLI](https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-01 visualstudio</small>  
 <small>[Bookmark Studio: evolving bookmarks in Visual Studio](https://devblogs.microsoft.com/visualstudio/bookmark-studio-evolving-bookmarks-in-visual-studio/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-03-27 dbreunig</small>  
 <small>[The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
-<small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
 
