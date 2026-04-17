@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-17 bartwullems</small>  
+<small>[Microsoft Agent Framework–Building a multi-agent workflow with DevUI in .NET](https://bartwullems.blogspot.com/2026/04/microsoft-agent-frameworkbuilding-multi.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-17 stackoverflow</small>  
 <small>[No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/)</small>
 
@@ -129,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-10 stackoverflow</small>  
 <small>[The messy truth of your AI strategies](https://stackoverflow.blog/2026/04/10/the-messy-truth-of-your-ai-strategies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-10 bartwullems</small>  
-<small>[Debugging your VSCode agent interactions](https://bartwullems.blogspot.com/2026/04/debugging-your-vscode-agent-interactions.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-09 martinfowler</small>  
 <small>[Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)</small>
