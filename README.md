@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-17 netflix</small>  
+<small>[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-17 bartwullems</small>  
 <small>[Microsoft Agent Framework–Building a multi-agent workflow with DevUI in .NET](https://bartwullems.blogspot.com/2026/04/microsoft-agent-frameworkbuilding-multi.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-03-27 seangoedecke</small>  
 <small>[Working on products people hate](https://seangoedecke.com/working-on-products-people-hate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-03-26 tidyfirst</small>  
-<small>[Why Your Progress Is About The Same As Everyone Else's](https://tidyfirst.substack.com/p/why-your-progress-is-about-the-same)</small>
 

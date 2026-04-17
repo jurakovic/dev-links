@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale",
+    "link": "https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-04-17T15:01:02+00:00"
+  },
+  {
     "title": "Evaluating Netflix Show Synopses with LLM-as-a-Judge",
     "link": "https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-10T16:26:01+00:00"
@@ -18,10 +23,5 @@
     "title": "Smarter Live Streaming at Scale: Rolling Out VBR for All Netflix Live Events",
     "link": "https://netflixtechblog.com/smarter-live-streaming-at-scale-rolling-out-vbr-for-all-netflix-live-events-c8f833b238cc?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-02T21:46:27+00:00"
-  },
-  {
-    "title": "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
-    "link": "https://netflixtechblog.com/scaling-global-storytelling-modernizing-localization-analytics-at-netflix-816f47290641?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-03-06T15:01:27+00:00"
   }
 ]
