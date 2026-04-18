@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-18 third-bit</small>  
+<small>[Changing Minds](https://third-bit.com/2026/04/18/changing-minds/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-18 third-bit</small>  
+<small>[asimpy Performance Benchmarking](https://third-bit.com/2026/04/18/asimpy-performance-benchmarking/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
 <small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
 
@@ -157,9 +163,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 bencane</small>  
 <small>[Agent Skills Are Becoming the Best Way to Capture Institutional Knowledge](https://bencane.com/posts/2026-04-09/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
-<small>[Lessons from Disaster Management](https://third-bit.com/2026/04/08/lessons-from-disasters/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
 
@@ -171,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
 <small>[Lessons from Business](https://third-bit.com/2026/04/08/lessons-from-business/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-08 third-bit</small>  
-<small>[Lessons from Crisis](https://third-bit.com/2026/04/08/lessons-from-crisis/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-07 ardalis</small>  
 <small>[Claude Throttling and the Cloud](https://ardalis.com/claude-throttling-and-the-cloud/)</small>
