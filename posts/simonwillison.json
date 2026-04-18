@@ -1,5 +1,15 @@
 [
   {
+    "title": "Adding a new content type to my blog-to-newsletter tool",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
+    "pubDate": "2026-04-18T03:15:36+00:00"
+  },
+  {
+    "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
+    "link": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
+    "pubDate": "2026-04-17T23:59:03+00:00"
+  },
+  {
     "title": "datasette 1.0a28",
     "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
     "pubDate": "2026-04-17T04:01:56+00:00"
@@ -13,15 +23,5 @@
     "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
     "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
     "pubDate": "2026-04-16T17:16:52+00:00"
-  },
-  {
-    "title": "datasette.io news preview",
-    "link": "https://simonwillison.net/2026/Apr/16/datasette-io-preview/#atom-everything",
-    "pubDate": "2026-04-16T00:18:03+00:00"
-  },
-  {
-    "title": "datasette-export-database 0.3a1",
-    "link": "https://simonwillison.net/2026/Apr/15/datasette-export-database/#atom-everything",
-    "pubDate": "2026-04-15T23:52:35+00:00"
   }
 ]
