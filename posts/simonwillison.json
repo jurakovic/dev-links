@@ -1,5 +1,15 @@
 [
   {
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
+    "pubDate": "2026-04-18T23:59:40+00:00"
+  },
+  {
+    "title": "Claude system prompts as a git timeline",
+    "link": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
+    "pubDate": "2026-04-18T12:25:00+00:00"
+  },
+  {
     "title": "Adding a new content type to my blog-to-newsletter tool",
     "link": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
     "pubDate": "2026-04-18T03:15:36+00:00"
@@ -13,15 +23,5 @@
     "title": "datasette 1.0a28",
     "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
     "pubDate": "2026-04-17T04:01:56+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.25",
-    "link": "https://simonwillison.net/2026/Apr/16/llm-anthropic/#atom-everything",
-    "pubDate": "2026-04-16T20:37:12+00:00"
-  },
-  {
-    "title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-    "link": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/#atom-everything",
-    "pubDate": "2026-04-16T17:16:52+00:00"
   }
 ]
