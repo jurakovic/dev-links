@@ -1,5 +1,10 @@
 [
   {
+    "title": "Headless everything for personal AI",
+    "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
+    "pubDate": "2026-04-19T21:46:38+00:00"
+  },
+  {
     "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
     "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
     "pubDate": "2026-04-18T23:59:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
     "link": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
     "pubDate": "2026-04-17T23:59:03+00:00"
-  },
-  {
-    "title": "datasette 1.0a28",
-    "link": "https://simonwillison.net/2026/Apr/17/datasette/#atom-everything",
-    "pubDate": "2026-04-17T04:01:56+00:00"
   }
 ]
