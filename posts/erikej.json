@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Schema Compare for SDK Style SQL Database Projects in Visual Studio and SSMS",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/ssms/visualstudio/2026/04/20/sqlprojects-schemacompare.html",
+    "pubDate": "2026-04-20T17:01:37+00:00"
+  },
+  {
     "title": "New Visual Rule Manager: Configure SQL Code Analysis Without Editing XML",
     "link": "https://erikej.github.io/dacfx/dotnet/sqlserver/ssms/visualstudio/2026/04/13/sqlprojects-rule-manager.html",
     "pubDate": "2026-04-13T11:15:59+00:00"
@@ -18,10 +23,5 @@
     "title": "Fixing SQL Server 2025 LocalDB in Visual Studio 2026: Enabling REGEXP and VECTOR Support",
     "link": "https://erikej.github.io/sqlserver/localdb/2026/03/13/localdb-sqlserver-2025.html",
     "pubDate": "2026-03-13T17:28:49+00:00"
-  },
-  {
-    "title": "Microsoft.Data.SqlClient 7.0 Preview: Finally, Azure.Identity is Optional! 🎉",
-    "link": "https://erikej.github.io/sqlclient/dotnet/2026/03/06/dotnet-sqlClient-7.html",
-    "pubDate": "2026-03-05T17:28:49+00:00"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-20 erikej</small>  
+<small>[Visual Schema Compare for SDK Style SQL Database Projects in Visual Studio and SSMS](https://erikej.github.io/dotnet/dacfx/sqlserver/ssms/visualstudio/2026/04/20/sqlprojects-schemacompare.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-20 azuresqlblog</small>  
 <small>[Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively](https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-03-30 techtrenches</small>  
 <small>[Your CLAUDE.md Is a Wish List, Not a Contract](https://techtrenches.dev/p/your-claudemd-is-a-wish-list-not)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
-<small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
 
