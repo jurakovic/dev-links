@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-20 azuresqlblog</small>  
+<small>[Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively](https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-04-20 damienbod</small>  
 <small>[Remove sign-up from Entra External ID user flows](https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-03-30 azuresqlblog</small>  
 <small>[Zero Trust for data: Make Microsoft Entra authentication for SQL your policy baseline](https://techcommunity.microsoft.com/t5/azure-sql-blog/zero-trust-for-data-make-microsoft-entra-authentication-for-sql/ba-p/4506679)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
-<small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
 
