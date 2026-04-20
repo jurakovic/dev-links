@@ -4,11 +4,29 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-04-20 damienbod</small>  
+<small>[Remove sign-up from Entra External ID user flows](https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-20 bartwullems</small>  
+<small>[Fixing the "Newer version of Aspire.Hosting.AppHost required" error](https://bartwullems.blogspot.com/2026/04/fixing-newer-version-of.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
+<small>[SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
+<small>[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-19 third-bit</small>  
 <small>[asimpy Improvements](https://third-bit.com/2026/04/19/asimpy-improvements/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-19 simonwillison</small>  
 <small>[Headless everything for personal AI](https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-19 addyosmani</small>  
+<small>[Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-19 third-bit</small>  
+<small>[Big Tech is Like the Cocaine Cartels](https://third-bit.com/2026/04/19/big-tech-cocaine-cartels/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-18 simonwillison</small>  
 <small>[Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything)</small>
@@ -24,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
 <small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-18 simonwillison</small>  
-<small>[Adding a new content type to my blog-to-newsletter tool](https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-17 simonwillison</small>  
-<small>[Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year](https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-17 ardalis</small>  
 <small>[Optimizing AI Agents with Progressive Disclosure](https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/)</small>
@@ -127,14 +139,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
 <small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-13 third-bit</small>  
-<small>[A Bibliography](https://third-bit.com/2026/04/13/a-bibliography/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-13 erikej</small>  
 <small>[New Visual Rule Manager: Configure SQL Code Analysis Without Editing XML](https://erikej.github.io/dacfx/dotnet/sqlserver/ssms/visualstudio/2026/04/13/sqlprojects-rule-manager.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-13 bartwullems</small>  
-<small>[Git for Windows 2.49.0 broke my Azure DevOps pushes](https://bartwullems.blogspot.com/2026/04/git-for-windows-2490-broke-my-azure.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-12 lethain</small>  
 <small>[Agents as scaffolding for recurring tasks.](https://lethain.com/agents-as-scaffolding/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-03-29 lethain</small>  
 <small>[The agentic passive voice.](https://lethain.com/agentic-passive-voice/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-03-27 terriblesoftware</small>  
-<small>[“Good Taste” Is Just Experience](https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-03-27 pragmaticengineer</small>  
-<small>[Is the FDE role becoming less desirable?](https://blog.pragmaticengineer.com/is-the-fde-role-becoming-less-desirable/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "SQL functions in Google Sheets to fetch data from Datasette",
+    "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
+    "pubDate": "2026-04-20T02:33:58+00:00"
+  },
+  {
+    "title": "Claude Token Counter, now with model comparisons",
+    "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
+    "pubDate": "2026-04-20T00:50:45+00:00"
+  },
+  {
     "title": "Headless everything for personal AI",
     "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
     "pubDate": "2026-04-19T21:46:38+00:00"
@@ -13,15 +23,5 @@
     "title": "Claude system prompts as a git timeline",
     "link": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
     "pubDate": "2026-04-18T12:25:00+00:00"
-  },
-  {
-    "title": "Adding a new content type to my blog-to-newsletter tool",
-    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/adding-a-new-content-type/#atom-everything",
-    "pubDate": "2026-04-18T03:15:36+00:00"
-  },
-  {
-    "title": "Join us at PyCon US 2026 in Long Beach - we have new AI and security tracks this year",
-    "link": "https://simonwillison.net/2026/Apr/17/pycon-us-2026/#atom-everything",
-    "pubDate": "2026-04-17T23:59:03+00:00"
   }
 ]

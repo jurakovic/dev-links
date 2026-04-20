@@ -1,5 +1,10 @@
 [
   {
+    "title": "Remove sign-up from Entra External ID user flows",
+    "link": "https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/",
+    "pubDate": "2026-04-20T05:15:03+00:00"
+  },
+  {
     "title": "Invite Guest users in a Entra ID Multi-tenant setup",
     "link": "https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/",
     "pubDate": "2026-03-09T09:06:26+00:00"
@@ -18,10 +23,5 @@
     "title": "Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR",
     "link": "https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/",
     "pubDate": "2026-02-02T06:31:34+00:00"
-  },
-  {
-    "title": "Force step up authentication in web applications",
-    "link": "https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/",
-    "pubDate": "2026-01-26T07:02:14+00:00"
   }
 ]
