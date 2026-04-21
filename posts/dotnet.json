@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET 10.0.7 Out-of-Band Security Update",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/",
+    "pubDate": "2026-04-21T18:48:34+00:00"
+  },
+  {
     "title": "Writing Node.js addons with .NET Native AOT",
     "link": "https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/",
     "pubDate": "2026-04-20T20:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 3 is now available!",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/",
     "pubDate": "2026-04-14T19:30:00+00:00"
-  },
-  {
-    "title": "Your Migration’s Source of Truth: The Modernization Assessment",
-    "link": "https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/",
-    "pubDate": "2026-04-07T18:00:00+00:00"
   }
 ]

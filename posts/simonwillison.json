@@ -1,5 +1,10 @@
 [
   {
+    "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
+    "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
+    "pubDate": "2026-04-21T20:32:24+00:00"
+  },
+  {
     "title": "Quoting Andreas Påhlsson-Notini",
     "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
     "pubDate": "2026-04-21T16:39:33+00:00"
@@ -18,10 +23,5 @@
     "title": "SQL functions in Google Sheets to fetch data from Datasette",
     "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
     "pubDate": "2026-04-20T02:33:58+00:00"
-  },
-  {
-    "title": "Claude Token Counter, now with model comparisons",
-    "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
-    "pubDate": "2026-04-20T00:50:45+00:00"
   }
 ]

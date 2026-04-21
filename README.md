@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-21 third-bit</small>  
+<small>[Big Tech is Soviet](https://third-bit.com/2026/04/21/big-tech-is-soviet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-21 visualstudiomagazine</small>  
+<small>[TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim](https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-21 simonwillison</small>  
+<small>[Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 azure-sql</small>  
+<small>[The Polyglot tax – Part 4](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 dotnet</small>  
+<small>[.NET 10.0.7 Out-of-Band Security Update](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-21 simonwillison</small>  
 <small>[Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)</small>
 
@@ -58,9 +73,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
 <small>[SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
-<small>[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-20 swizec</small>  
 <small>[Just Read the Paper](https://swizec.com/blog/just-read-the-paper/)</small>
 
@@ -75,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-18 third-bit</small>  
 <small>[Changing Minds](https://third-bit.com/2026/04/18/changing-minds/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-18 third-bit</small>  
-<small>[asimpy Performance Benchmarking](https://third-bit.com/2026/04/18/asimpy-performance-benchmarking/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
 <small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
@@ -214,9 +223,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-07 ardalis</small>  
 <small>[Claude Throttling and the Cloud](https://ardalis.com/claude-throttling-and-the-cloud/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-07 dotnet</small>  
-<small>[Your Migration’s Source of Truth: The Modernization Assessment](https://devblogs.microsoft.com/dotnet/your-migrations-source-of-truth-the-modernization-assessment/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-07 techtrenches</small>  
 <small>[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)</small>
 
@@ -262,9 +268,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-03 pragmaticengineer</small>  
 <small>[The Pulse: is GitHub still best for AI-native development?](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-03 visualstudiomagazine</small>  
-<small>[Hands On with OpenClaw Node for VS Code: Real Workflow, Real Friction](https://visualstudiomagazine.com/articles/2026/04/03/hands-on-with-openclaw-node-for-vs-code-real-workflow-real-friction.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-03 seangoedecke</small>  
 <small>[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-01 techtrenches</small>  
 <small>[The Snake That Ate Itself: What Claude Code’s Source Revealed About AI Engineering Culture](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-01 andrewlock</small>  
-<small>[Configuring contextual options with Microsoft.Extensions.Options.Contextual](https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/)</small>
 
