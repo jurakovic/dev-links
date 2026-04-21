@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Andreas Påhlsson-Notini",
+    "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
+    "pubDate": "2026-04-21T16:39:33+00:00"
+  },
+  {
+    "title": "scosman/pelicans_riding_bicycles",
+    "link": "https://simonwillison.net/2026/Apr/21/scosman/#atom-everything",
+    "pubDate": "2026-04-21T15:54:43+00:00"
+  },
+  {
+    "title": "llm-openrouter 0.6",
+    "link": "https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything",
+    "pubDate": "2026-04-20T18:00:26+00:00"
+  },
+  {
     "title": "SQL functions in Google Sheets to fetch data from Datasette",
     "link": "https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything",
     "pubDate": "2026-04-20T02:33:58+00:00"
@@ -8,20 +23,5 @@
     "title": "Claude Token Counter, now with model comparisons",
     "link": "https://simonwillison.net/2026/Apr/20/claude-token-counts/#atom-everything",
     "pubDate": "2026-04-20T00:50:45+00:00"
-  },
-  {
-    "title": "Headless everything for personal AI",
-    "link": "https://simonwillison.net/2026/Apr/19/headless-everything/#atom-everything",
-    "pubDate": "2026-04-19T21:46:38+00:00"
-  },
-  {
-    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-    "link": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/#atom-everything",
-    "pubDate": "2026-04-18T23:59:40+00:00"
-  },
-  {
-    "title": "Claude system prompts as a git timeline",
-    "link": "https://simonwillison.net/2026/Apr/18/extract-system-prompts/#atom-everything",
-    "pubDate": "2026-04-18T12:25:00+00:00"
   }
 ]
