@@ -5,7 +5,7 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-21 andrewlock</small>  
-<small>[Removing byte\[\] allocations in .NET Framework using ReadOnlySpan<T>](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/)</small>
+<small>[Removing byte\[\] allocations in .NET Framework using ReadOnlySpan&lt;T&gt;](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-21 stackoverflow</small>  
 <small>[We still need developer communities](https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/)</small>
