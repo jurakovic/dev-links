@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-21 bartwullems</small>  
+<small>[DAB 2.0 Preview: Autoconfiguration with autoentities](https://bartwullems.blogspot.com/2026/04/dab-20-preview-autoconfiguration-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-20 third-bit</small>  
 <small>[Big Tech is Like a Long Firm Fraud](https://third-bit.com/2026/04/20/big-tech-fraud/)</small>
 
@@ -150,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-14 stackoverflow</small>  
 <small>[Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-14 bartwullems</small>  
-<small>[Keep your context short - Manual compaction is now available in VS Code](https://bartwullems.blogspot.com/2026/04/keep-your-context-short-manual.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
 <small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "DAB 2.0 Preview: Autoconfiguration with autoentities",
+    "link": "https://bartwullems.blogspot.com/2026/04/dab-20-preview-autoconfiguration-with.html",
+    "pubDate": "2026-04-21T05:30:00+00:00"
+  },
+  {
     "title": "Fixing the \"Newer version of Aspire.Hosting.AppHost required\" error",
     "link": "https://bartwullems.blogspot.com/2026/04/fixing-newer-version-of.html",
     "pubDate": "2026-04-20T04:45:00+00:00"
@@ -18,10 +23,5 @@
     "title": "ADFS policies vs authorization rules - understanding the difference",
     "link": "https://bartwullems.blogspot.com/2026/04/adfs-policies-vs-authorization-rules.html",
     "pubDate": "2026-04-15T05:18:00+00:00"
-  },
-  {
-    "title": "Keep your context short - Manual compaction is now available in VS Code",
-    "link": "https://bartwullems.blogspot.com/2026/04/keep-your-context-short-manual.html",
-    "pubDate": "2026-04-14T05:14:00+00:00"
   }
 ]
