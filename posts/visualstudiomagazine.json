@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else",
+    "link": "https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx",
+    "pubDate": "2026-04-22T21:56:00+00:00"
+  },
+  {
     "title": "TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim",
     "link": "https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx",
     "pubDate": "2026-04-21T22:18:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code Updates Boost AI Agents, Terminal Control and Copilot Workflow",
     "link": "https://visualstudiomagazine.com/articles/2026/04/16/vs-code-updates-boost-ai-agents-terminal-control-and-copilot-workflow.aspx",
     "pubDate": "2026-04-16T10:00:00+00:00"
-  },
-  {
-    "title": "Microsoft Ships Production-Ready Agent Framework 1.0 for .NET and Python",
-    "link": "https://visualstudiomagazine.com/articles/2026/04/06/microsoft-ships-production-ready-agent-framework-1-0-for-net-and-python.aspx",
-    "pubDate": "2026-04-06T11:30:00+00:00"
   }
 ]
