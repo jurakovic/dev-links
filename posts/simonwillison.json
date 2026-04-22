@@ -1,5 +1,10 @@
 [
   {
+    "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+    "link": "https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything",
+    "pubDate": "2026-04-22T16:45:23+00:00"
+  },
+  {
     "title": "Quoting Bobby Holley",
     "link": "https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything",
     "pubDate": "2026-04-22T05:40:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Where's the raccoon with the ham radio? (ChatGPT Images 2.0)",
     "link": "https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything",
     "pubDate": "2026-04-21T20:32:24+00:00"
-  },
-  {
-    "title": "Quoting Andreas Påhlsson-Notini",
-    "link": "https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything",
-    "pubDate": "2026-04-21T16:39:33+00:00"
   }
 ]
