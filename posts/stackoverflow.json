@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to get multiple agents to play nice at scale",
+    "link": "https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/",
+    "pubDate": "2026-04-22T04:40:00+00:00"
+  },
+  {
     "title": "We still need developer communities",
     "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
     "pubDate": "2026-04-21T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Why AI hasn't replaced human expertise—and what that means for your SaaS stack",
     "link": "https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/",
     "pubDate": "2026-04-15T13:00:00+00:00"
-  },
-  {
-    "title": "Who needs VCs when you have friends like these?",
-    "link": "https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/",
-    "pubDate": "2026-04-14T05:59:25+00:00"
   }
 ]

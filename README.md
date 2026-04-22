@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
+<small>[Quoting Bobby Holley](https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-22 stackoverflow</small>  
+<small>[How to get multiple agents to play nice at scale](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
+<small>[Changes to GitHub Copilot Individual plans](https://simonwillison.net/2026/Apr/22/changes-to-github-copilot/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
+<small>[Is Claude Code going to cost $100/month? Probably not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-21 third-bit</small>  
 <small>[Big Tech is Soviet](https://third-bit.com/2026/04/21/big-tech-is-soviet/)</small>
 
@@ -19,11 +31,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 dotnet</small>  
 <small>[.NET 10.0.7 Out-of-Band Security Update](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-21 simonwillison</small>  
-<small>[Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-21 ardalis</small>  
+<small>[Setting Up Claude Code Agent Teams With Wsl2 and Tmux on Windows](https://ardalis.com/setting-up-claude-code-agent-teams-with-wsl2-and-tmux-on-windows/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-21 simonwillison</small>  
-<small>[scosman/pelicans\_riding\_bicycles](https://simonwillison.net/2026/Apr/21/scosman/#atom-everything)</small>
+<small>[Quoting Andreas Påhlsson-Notini](https://simonwillison.net/2026/Apr/21/andreas-pahlsson-notini/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-21 martinfowler</small>  
 <small>[Fragments: April 21](https://martinfowler.com/fragments/2026-04-21.html)</small>
@@ -49,9 +61,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-20 dotnet</small>  
 <small>[Writing Node.js addons with .NET Native AOT](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
-<small>[llm-openrouter 0.6](https://simonwillison.net/2026/Apr/20/llm-openrouter/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-04-20 codinghorror</small>  
 <small>[Thank You For Being a Friend](https://blog.codinghorror.com/thank-you-for-being-a-friend/)</small>
 
@@ -69,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-20 bartwullems</small>  
 <small>[Fixing the "Newer version of Aspire.Hosting.AppHost required" error](https://bartwullems.blogspot.com/2026/04/fixing-newer-version-of.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-20 simonwillison</small>  
-<small>[SQL functions in Google Sheets to fetch data from Datasette](https://simonwillison.net/2026/Apr/20/datasette-sql/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-20 swizec</small>  
 <small>[Just Read the Paper](https://swizec.com/blog/just-read-the-paper/)</small>
@@ -174,9 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-14 andrewlock</small>  
 <small>[Running AI agents with customized templates using docker sandbox](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-14 stackoverflow</small>  
-<small>[Who needs VCs when you have friends like these?](https://stackoverflow.blog/2026/04/14/who-needs-vcs-when-you-have-friends-like-these/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
 <small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
@@ -285,9 +288,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-01 dbreunig</small>  
 <small>[The 2nd Phase of Agentic Development](https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-01 ardalis</small>  
-<small>[.NET Conf Most Popular Sessions Tool](https://ardalis.com/dotnetconf-most-popular-sessions-tool/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-04-01 hillelwayne</small>  
 <small>[Chicago vs New York Pizza is the Wrong Argument](https://www.hillelwayne.com/post/pizza/)</small>
