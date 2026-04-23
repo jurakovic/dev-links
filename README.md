@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-23 stackoverflow</small>  
+<small>[Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-23 simonwillison</small>  
+<small>[Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 microservices</small>  
+<small>[Microservices Platforms - part 7: Deployment platform](http://microservices.io//post/architecture/2026/04/23/qconsf-microservices-platforms-part-7.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-23 bartwullems</small>  
 <small>[Expose your stored procedures as AI agent tools with DAB 2.0](https://bartwullems.blogspot.com/2026/04/expose-your-stored-procedures-as-ai.html)</small>
 
@@ -39,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-21 visualstudiomagazine</small>  
 <small>[TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim](https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-21 simonwillison</small>  
-<small>[Where's the raccoon with the ham radio? (ChatGPT Images 2.0)](https://simonwillison.net/2026/Apr/21/gpt-image-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 azure-sql</small>  
 <small>[The Polyglot tax – Part 4](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/)</small>
@@ -162,9 +168,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-15 stackoverflow</small>  
 <small>[Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-15 stackoverflow</small>  
-<small>[Why AI hasn't replaced human expertise—and what that means for your SaaS stack](https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-14 dotnet</small>  
 <small>[.NET and .NET Framework April 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-01 azure-sql</small>  
 <small>[The Polyglot tax – Part 3](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-3/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-04-01 terriblesoftware</small>  
-<small>[Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/)</small>
 

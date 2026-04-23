@@ -1,5 +1,10 @@
 [
   {
+    "title": "Black box AI drift: AI tools are making design decisions nobody asked for",
+    "link": "https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/",
+    "pubDate": "2026-04-23T14:00:00+00:00"
+  },
+  {
     "title": "How to get multiple agents to play nice at scale",
     "link": "https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/",
     "pubDate": "2026-04-22T04:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Human input needed: take our survey on AI agents",
     "link": "https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/",
     "pubDate": "2026-04-15T14:00:00+00:00"
-  },
-  {
-    "title": "Why AI hasn't replaced human expertise—and what that means for your SaaS stack",
-    "link": "https://stackoverflow.blog/2026/04/15/why-ai-hasn-t-replaced-human-expertise/",
-    "pubDate": "2026-04-15T13:00:00+00:00"
   }
 ]
