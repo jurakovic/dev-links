@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 bencane</small>  
+<small>[When you think of microservices, you probably think of centralized shared services. But there's another valid pattern that is rarely discussed](https://bencane.com/posts/2026-04-23/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-22 visualstudiomagazine</small>  
 <small>[Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else](https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx)</small>
 
@@ -24,6 +27,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
 <small>[Is Claude Code going to cost $100/month? Probably not - it's all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-22 third-bit</small>  
+<small>[Big Tech as the Medieval Church](https://third-bit.com/2026/04/22/big-tech-as-church/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-21 third-bit</small>  
 <small>[Big Tech is Soviet](https://third-bit.com/2026/04/21/big-tech-is-soviet/)</small>
@@ -96,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-19 third-bit</small>  
 <small>[Big Tech is Like the Cocaine Cartels](https://third-bit.com/2026/04/19/big-tech-cocaine-cartels/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-18 third-bit</small>  
-<small>[Changing Minds](https://third-bit.com/2026/04/18/changing-minds/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
 <small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-04-01 terriblesoftware</small>  
 <small>[Say the Thing You Want](https://terriblesoftware.org/2026/04/01/say-the-thing-you-want/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-01 visualstudio</small>  
-<small>[Bookmark Studio: evolving bookmarks in Visual Studio](https://devblogs.microsoft.com/visualstudio/bookmark-studio-evolving-bookmarks-in-visual-studio/)</small>
 
