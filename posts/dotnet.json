@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s new for .NET in Ubuntu 26.04",
+    "link": "https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/",
+    "pubDate": "2026-04-23T17:25:00+00:00"
+  },
+  {
     "title": ".NET 10.0.7 Out-of-Band Security Update",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/",
     "pubDate": "2026-04-21T18:48:34+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET and .NET Framework April 2026 servicing releases updates",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/",
     "pubDate": "2026-04-14T19:49:00+00:00"
-  },
-  {
-    "title": ".NET 11 Preview 3 is now available!",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-3/",
-    "pubDate": "2026-04-14T19:30:00+00:00"
   }
 ]
