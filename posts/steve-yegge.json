@@ -1,5 +1,10 @@
 [
   {
+    "title": "Welcome to Gas City",
+    "link": "https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607?source=rss-c1ec701babb7------2",
+    "pubDate": "2026-04-24T07:41:25+00:00"
+  },
+  {
     "title": "Gas Town: from Clown Show to v1.0",
     "link": "https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec?source=rss-c1ec701babb7------2",
     "pubDate": "2026-04-03T05:08:04+00:00"
@@ -18,10 +23,5 @@
     "title": "The AI Vampire",
     "link": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163?source=rss-c1ec701babb7------2",
     "pubDate": "2026-02-11T06:11:11+00:00"
-  },
-  {
-    "title": "The Anthropic Hive Mind",
-    "link": "https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b?source=rss-c1ec701babb7------2",
-    "pubDate": "2026-02-06T09:13:29+00:00"
   }
 ]
