@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-24 third-bit</small>  
+<small>[Big Tech is Like the Stasi](https://third-bit.com/2026/04/24/big-tech-as-stasi/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-24 netflix</small>  
 <small>[Scaling Camera File Processing at Netflix](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4)</small>
 
@@ -26,7 +29,7 @@
 <small>[It's a big one](https://simonwillison.net/2026/Apr/24/weekly/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-24 rickstrahl</small>  
-<small>[Putting the Westwind.Scripting Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
+<small>[Putting the Westwind.Scripting C# Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
 <small>[russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything)</small>
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-19 addyosmani</small>  
 <small>[Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-19 third-bit</small>  
-<small>[Big Tech is Like the Cocaine Cartels](https://third-bit.com/2026/04/19/big-tech-cocaine-cartels/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
 <small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
