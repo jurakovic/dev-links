@@ -1,5 +1,10 @@
 [
   {
+    "title": "Equity for Europeans",
+    "link": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
+    "pubDate": "2026-04-23T00:00:00+00:00"
+  },
+  {
     "title": "The Center Has a Bias",
     "link": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
     "pubDate": "2026-04-11T22:30:08+00:00"
@@ -18,10 +23,5 @@
     "title": "Some Things Just Take Time",
     "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
     "pubDate": "2026-03-20T00:00:00+00:00"
-  },
-  {
-    "title": "AI And The Ship of Theseus",
-    "link": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "pubDate": "2026-03-05T00:00:00+00:00"
   }
 ]

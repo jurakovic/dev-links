@@ -1,5 +1,10 @@
 [
   {
+    "title": "Putting the Westwind.Scripting Templating Library to work, Part 2",
+    "link": "https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
+    "pubDate": "2026-04-24T02:04:43+00:00"
+  },
+  {
     "title": "Revisiting C# Scripting with the Westwind.Scripting Templating Library, Part 1",
     "link": "https://weblog.west-wind.com/posts/2026/Apr/20/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1",
     "pubDate": "2026-04-20T20:35:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Reliably Refreshing the WebView2 Control",
     "link": "https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control",
     "pubDate": "2026-02-05T07:53:22+00:00"
-  },
-  {
-    "title": "What the heck is a `\\\\.\\nul` path and why is it breaking my Directory Files Lookup?",
-    "link": "https://weblog.west-wind.com/posts/2025/Dec/08/What-the-heck-is-a-nul-path-and-why-is-it-breaking-my-Directory-Files-Lookup",
-    "pubDate": "2025-12-08T23:15:18+00:00"
   }
 ]

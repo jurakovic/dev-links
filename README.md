@@ -4,11 +4,26 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-23 simonwillison</small>  
-<small>[Extract PDF text in your browser with LiteParse for the web](https://simonwillison.net/2026/Apr/23/liteparse-for-the-web/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-24 stackoverflow</small>  
+<small>[Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-23 simonwillison</small>  
-<small>[A pelican for GPT-5.5 via the semi-official Codex backdoor API](https://simonwillison.net/2026/Apr/23/gpt-5-5/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
+<small>[DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
+<small>[It's a big one](https://simonwillison.net/2026/Apr/24/weekly/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-24 rickstrahl</small>  
+<small>[Putting the Westwind.Scripting Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
+<small>[russellromney/honker](https://simonwillison.net/2026/Apr/24/honker/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
+<small>[An update on recent Claude Code quality reports](https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
+<small>[Serving the For You feed](https://simonwillison.net/2026/Apr/24/serving-the-for-you-feed/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-23 visualstudiomagazine</small>  
 <small>[Visual Studio Code 1.117 Expands Copilot Controls for Business and Enterprise User](https://visualstudiomagazine.com/articles/2026/04/23/visual-studio-code-1-117-expands-copilot-controls-for-business-and-enterprise-user.aspx)</small>
@@ -22,9 +37,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-23 stackoverflow</small>  
 <small>[Black box AI drift: AI tools are making design decisions nobody asked for](https://stackoverflow.blog/2026/04/23/black-box-ai-drift-ai-tools-are-making-design-decisions-nobody-asked-for/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-23 simonwillison</small>  
-<small>[Quoting Maggie Appleton](https://simonwillison.net/2026/Apr/23/maggie-appleton/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 microservices</small>  
 <small>[Microservices Platforms - part 7: Deployment platform](http://microservices.io//post/architecture/2026/04/23/qconsf-microservices-platforms-part-7.html)</small>
 
@@ -34,17 +46,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 bencane</small>  
 <small>[When you think of microservices, you probably think of centralized shared services. But there's another valid pattern that is rarely discussed](https://bencane.com/posts/2026-04-23/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-23 lucumr-pocoo</small>  
+<small>[Equity for Europeans](https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-23 third-bit</small>  
+<small>[Big Tech as Payola](https://third-bit.com/2026/04/23/big-tech-as-payola/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-22 visualstudiomagazine</small>  
 <small>[Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else](https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
-<small>[Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://simonwillison.net/2026/Apr/22/qwen36-27b/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-22 seangoedecke</small>  
 <small>[Luddites and AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-22 simonwillison</small>  
-<small>[Quoting Bobby Holley](https://simonwillison.net/2026/Apr/22/bobby-holley/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-22 stackoverflow</small>  
 <small>[How to get multiple agents to play nice at scale](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/)</small>
@@ -112,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-20 swizec</small>  
 <small>[Just Read the Paper](https://swizec.com/blog/just-read-the-paper/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-19 third-bit</small>  
-<small>[asimpy Improvements](https://third-bit.com/2026/04/19/asimpy-improvements/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-19 addyosmani</small>  
 <small>[Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)</small>
 
@@ -171,9 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow](https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-15 stackoverflow</small>  
-<small>[Human input needed: take our survey on AI agents](https://stackoverflow.blog/2026/04/15/human-input-needed-take-our-survey-on-ai-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-14 dotnet</small>  
 <small>[.NET and .NET Framework April 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-april-2026-servicing-updates/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-02 swizec</small>  
 <small>[Frustration Driven Development](https://swizec.com/blog/frustration-driven-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-01 dbreunig</small>  
-<small>[The 2nd Phase of Agentic Development](https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-04-01 hillelwayne</small>  
-<small>[Chicago vs New York Pizza is the Wrong Argument](https://www.hillelwayne.com/post/pizza/)</small>
 
