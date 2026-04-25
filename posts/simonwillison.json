@@ -1,5 +1,20 @@
 [
   {
+    "title": "GPT-5.5 prompting guide",
+    "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
+    "pubDate": "2026-04-25T04:13:36+00:00"
+  },
+  {
+    "title": "llm 0.31",
+    "link": "https://simonwillison.net/2026/Apr/24/llm/#atom-everything",
+    "pubDate": "2026-04-24T23:35:07+00:00"
+  },
+  {
+    "title": "The people do not yearn for automation",
+    "link": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
+    "pubDate": "2026-04-24T22:38:49+00:00"
+  },
+  {
     "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
     "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
     "pubDate": "2026-04-24T06:01:04+00:00"
@@ -8,20 +23,5 @@
     "title": "Millisecond Converter",
     "link": "https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything",
     "pubDate": "2026-04-24T04:23:11+00:00"
-  },
-  {
-    "title": "It's a big one",
-    "link": "https://simonwillison.net/2026/Apr/24/weekly/#atom-everything",
-    "pubDate": "2026-04-24T04:09:54+00:00"
-  },
-  {
-    "title": "russellromney/honker",
-    "link": "https://simonwillison.net/2026/Apr/24/honker/#atom-everything",
-    "pubDate": "2026-04-24T01:50:07+00:00"
-  },
-  {
-    "title": "An update on recent Claude Code quality reports",
-    "link": "https://simonwillison.net/2026/Apr/24/recent-claude-code-quality-reports/#atom-everything",
-    "pubDate": "2026-04-24T01:31:25+00:00"
   }
 ]
