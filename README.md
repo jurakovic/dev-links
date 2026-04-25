@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
+<small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
+<small>[Big Tech is Like the Beauty Industry](https://third-bit.com/2026/04/25/big-tech-as-beauty/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-25 simonwillison</small>  
+<small>[Quoting Romain Huet](https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-25 simonwillison</small>  
 <small>[GPT-5.5 prompting guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything)</small>
 
@@ -31,8 +40,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
 <small>[DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
-<small>[Millisecond Converter](https://simonwillison.net/2026/Apr/24/milliseconds/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-24 bartwullems</small>  
+<small>[Microsoft Agent Framework- Workflow lifetime](https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-workflow.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-24 rickstrahl</small>  
 <small>[Putting the Westwind.Scripting C# Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
@@ -106,9 +115,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-21 bartwullems</small>  
 <small>[DAB 2.0 Preview: Autoconfiguration with autoentities](https://bartwullems.blogspot.com/2026/04/dab-20-preview-autoconfiguration-with.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-20 third-bit</small>  
-<small>[Big Tech is Like a Long Firm Fraud](https://third-bit.com/2026/04/20/big-tech-fraud/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-20 rickstrahl</small>  
 <small>[Revisiting C# Scripting with the Westwind.Scripting Templating Library, Part 1](https://weblog.west-wind.com/posts/2026/Apr/20/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1)</small>
 
@@ -171,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-16 bencane</small>  
 <small>[Are you using traffic mirroring in production? If not, try it out.](https://bencane.com/posts/2026-04-16/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-16 bartwullems</small>  
-<small>[Microsoft Agent Framework - Getting started with DevUI in .NET](https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-getting.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Azure MCP tools now ship built into Visual Studio 2022 — no extension required](https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-03 seangoedecke</small>  
 <small>[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-04-03 steve-yegge</small>  
-<small>[Gas Town: from Clown Show to v1.0](https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec?source=rss-c1ec701babb7------2)</small>
 
