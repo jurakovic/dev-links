@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
+<small>[Cognitive Pollution Revisited](https://third-bit.com/2026/04/25/cognitive-pollution-revisited/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
+<small>[Why Discrimination Persists](https://third-bit.com/2026/04/25/why-discrimination-persists/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
+<small>[Software Taboos](https://third-bit.com/2026/04/25/software-taboos/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-25 simonwillison</small>  
+<small>[WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
 <small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
 
@@ -37,9 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-24 stackoverflow</small>  
 <small>[Lights, camera, open source!](https://stackoverflow.blog/2026/04/24/lights-camera-open-source/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
-<small>[DeepSeek V4 - almost on the frontier, a fraction of the price](https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-24 bartwullems</small>  
 <small>[Microsoft Agent Framework- Workflow lifetime](https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-workflow.html)</small>
 
@@ -70,9 +79,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-23 lucumr-pocoo</small>  
 <small>[Equity for Europeans](https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-23 third-bit</small>  
-<small>[Big Tech as Payola](https://third-bit.com/2026/04/23/big-tech-as-payola/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-22 visualstudiomagazine</small>  
 <small>[Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else](https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx)</small>
 
@@ -81,12 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-22 stackoverflow</small>  
 <small>[How to get multiple agents to play nice at scale](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-22 third-bit</small>  
-<small>[Big Tech as the Medieval Church](https://third-bit.com/2026/04/22/big-tech-as-church/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-21 third-bit</small>  
-<small>[Big Tech is Soviet](https://third-bit.com/2026/04/21/big-tech-is-soviet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-21 visualstudiomagazine</small>  
 <small>[TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim](https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "WHY ARE YOU LIKE THIS",
+    "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
+    "pubDate": "2026-04-25T16:44:01+00:00"
+  },
+  {
     "title": "Quoting Romain Huet",
     "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
     "pubDate": "2026-04-25T12:06:55+00:00"
@@ -18,10 +23,5 @@
     "title": "The people do not yearn for automation",
     "link": "https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything",
     "pubDate": "2026-04-24T22:38:49+00:00"
-  },
-  {
-    "title": "DeepSeek V4 - almost on the frontier, a fraction of the price",
-    "link": "https://simonwillison.net/2026/Apr/24/deepseek-v4/#atom-everything",
-    "pubDate": "2026-04-24T06:01:04+00:00"
   }
 ]
