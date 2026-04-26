@@ -28,14 +28,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-25 simonwillison</small>  
 <small>[GPT-5.5 prompting guide](https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
+<small>[Big Tech is Like a Fast Food Franchise](https://third-bit.com/2026/04/25/big-tech-as-fast-food/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
 <small>[llm 0.31](https://simonwillison.net/2026/Apr/24/llm/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-24 simonwillison</small>  
 <small>[The people do not yearn for automation](https://simonwillison.net/2026/Apr/24/the-people-do-not-yearn-for-automation/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-24 third-bit</small>  
-<small>[Big Tech is Like the Stasi](https://third-bit.com/2026/04/24/big-tech-as-stasi/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-24 netflix</small>  
 <small>[Scaling Camera File Processing at Netflix](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4)</small>
