@@ -1,5 +1,10 @@
 [
   {
+    "title": "ConfigurationIgnoreAttribute in .NET 11",
+    "link": "https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a",
+    "pubDate": "2026-04-26T11:57:06+00:00"
+  },
+  {
     "title": "Source code generated string enums with exhaustion support",
     "link": "https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d",
     "pubDate": "2026-04-05T22:28:44+00:00"
@@ -18,10 +23,5 @@
     "title": "Tool-Highlight: Handy",
     "link": "https://steven-giesel.com/blogPost/c193059f-33d5-4332-9b4b-96a5652bb67c",
     "pubDate": "2026-03-02T07:32:00+00:00"
-  },
-  {
-    "title": "Being stupid is fun: Let's create long exception messages!",
-    "link": "https://steven-giesel.com/blogPost/63431000-1192-4210-a85c-5fff00910d93",
-    "pubDate": "2026-02-23T05:01:00+00:00"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
+<small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
 <small>[Cognitive Pollution Revisited](https://third-bit.com/2026/04/25/cognitive-pollution-revisited/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-03 pragmaticengineer</small>  
 <small>[The Pulse: is GitHub still best for AI-native development?](https://blog.pragmaticengineer.com/the-pulse-is-github-still-best-for-ai-native-development/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-03 seangoedecke</small>  
-<small>[Programming (with AI agents) as theory building](https://seangoedecke.com/programming-with-ai-agents-as-theory-building/)</small>
 
