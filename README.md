@@ -4,17 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-27 bartwullems</small>  
+<small>[Data API Builder - Get a visual config UI](https://bartwullems.blogspot.com/2026/04/data-api-builder-get-visual-config-ui.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
 <small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-26 third-bit</small>  
+<small>[Big Tech is Like the Enclosure Movement](https://third-bit.com/2026/04/26/big-tech-enclosure-movement/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
 <small>[Cognitive Pollution Revisited](https://third-bit.com/2026/04/25/cognitive-pollution-revisited/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
 <small>[Why Discrimination Persists](https://third-bit.com/2026/04/25/why-discrimination-persists/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
-<small>[Software Taboos](https://third-bit.com/2026/04/25/software-taboos/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-25 simonwillison</small>  
 <small>[WHY ARE YOU LIKE THIS](https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything)</small>
@@ -162,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-17 netflix</small>  
 <small>[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-17 bartwullems</small>  
-<small>[Microsoft Agent Framework–Building a multi-agent workflow with DevUI in .NET](https://bartwullems.blogspot.com/2026/04/microsoft-agent-frameworkbuilding-multi.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-17 stackoverflow</small>  
 <small>[No country left behind with sovereign AI](https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/)</small>

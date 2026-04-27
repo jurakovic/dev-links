@@ -1,5 +1,10 @@
 [
   {
+    "title": "Data API Builder - Get a visual config UI",
+    "link": "https://bartwullems.blogspot.com/2026/04/data-api-builder-get-visual-config-ui.html",
+    "pubDate": "2026-04-27T05:06:00+00:00"
+  },
+  {
     "title": "Microsoft Agent Framework- Workflow lifetime",
     "link": "https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-workflow.html",
     "pubDate": "2026-04-24T05:32:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fixing the \"Newer version of Aspire.Hosting.AppHost required\" error",
     "link": "https://bartwullems.blogspot.com/2026/04/fixing-newer-version-of.html",
     "pubDate": "2026-04-20T04:45:00+00:00"
-  },
-  {
-    "title": "Microsoft Agent Framework–Building a multi-agent workflow with DevUI in .NET",
-    "link": "https://bartwullems.blogspot.com/2026/04/microsoft-agent-frameworkbuilding-multi.html",
-    "pubDate": "2026-04-17T08:19:00+00:00"
   }
 ]
