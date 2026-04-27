@@ -1,5 +1,10 @@
 [
   {
+    "title": "Early and late-stage hypergrowth.",
+    "link": "https://lethain.com/early-late-stage-hypergrowth/",
+    "pubDate": "2026-04-27T13:00:00+00:00"
+  },
+  {
     "title": "Agents as scaffolding for recurring tasks.",
     "link": "https://lethain.com/agents-as-scaffolding/",
     "pubDate": "2026-04-12T17:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Refactoring internal documentation in Notion",
     "link": "https://lethain.com/refactoring-internal-docs-notion/",
     "pubDate": "2026-02-05T14:00:00+00:00"
-  },
-  {
-    "title": "Should you include engineers in your leadership meetings?",
-    "link": "https://lethain.com/should-include-eng-in-eng-leadership/",
-    "pubDate": "2026-01-25T20:00:00+00:00"
   }
 ]

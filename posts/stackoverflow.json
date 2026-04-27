@@ -1,5 +1,10 @@
 [
   {
+    "title": "Welcome to the “find out” stage of AI",
+    "link": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
+    "pubDate": "2026-04-27T13:56:07+00:00"
+  },
+  {
     "title": "Lights, camera, open source!",
     "link": "https://stackoverflow.blog/2026/04/24/lights-camera-open-source/",
     "pubDate": "2026-04-24T06:06:28+00:00"
@@ -18,10 +23,5 @@
     "title": "We still need developer communities",
     "link": "https://stackoverflow.blog/2026/04/21/we-still-need-developer-communities/",
     "pubDate": "2026-04-21T07:40:00+00:00"
-  },
-  {
-    "title": "No country left behind with sovereign AI",
-    "link": "https://stackoverflow.blog/2026/04/17/no-country-left-behind-with-sovereign-ai/",
-    "pubDate": "2026-04-17T06:02:00+00:00"
   }
 ]
