@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-28 paulhammant</small>  
+<small>[The limits of merging experiment](https://paulhammant.com/2026/04/28/limits-of-merging-experiment/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-28 andrewlock</small>  
+<small>[New features in Git 2.54: easier rebasing, hooks, and statistics](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-28 stackoverflow</small>  
 <small>[Your LLM issues are really data issues](https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-04 dbreunig</small>  
 <small>[How Claude Code Builds a System Prompt](https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-04 lucumr-pocoo</small>  
-<small>[Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-04 netflix</small>  
-<small>[Powering Multimodal Intelligence for Video Search](https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss----2615bd06b42e---4)</small>
 
