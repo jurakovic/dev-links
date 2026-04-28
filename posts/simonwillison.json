@@ -1,5 +1,20 @@
 [
   {
+    "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
+    "link": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
+    "pubDate": "2026-04-28T05:23:05+00:00"
+  },
+  {
+    "title": "Introducing talkie: a 13B vintage language model from 1930",
+    "link": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
+    "pubDate": "2026-04-28T02:47:42+00:00"
+  },
+  {
+    "title": "microsoft/VibeVoice",
+    "link": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
+    "pubDate": "2026-04-27T23:46:56+00:00"
+  },
+  {
     "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
     "link": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
     "pubDate": "2026-04-27T18:38:17+00:00"
@@ -8,20 +23,5 @@
     "title": "Speech translation in Google Meet is now rolling out to mobile devices",
     "link": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
     "pubDate": "2026-04-27T17:37:47+00:00"
-  },
-  {
-    "title": "WHY ARE YOU LIKE THIS",
-    "link": "https://simonwillison.net/2026/Apr/25/why-are-you-like-this/#atom-everything",
-    "pubDate": "2026-04-25T16:44:01+00:00"
-  },
-  {
-    "title": "Quoting Romain Huet",
-    "link": "https://simonwillison.net/2026/Apr/25/romain-huet/#atom-everything",
-    "pubDate": "2026-04-25T12:06:55+00:00"
-  },
-  {
-    "title": "GPT-5.5 prompting guide",
-    "link": "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide/#atom-everything",
-    "pubDate": "2026-04-25T04:13:36+00:00"
   }
 ]
