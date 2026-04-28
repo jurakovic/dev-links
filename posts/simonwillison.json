@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Matthew Yglesias",
+    "link": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
+    "pubDate": "2026-04-28T13:25:29+00:00"
+  },
+  {
     "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
     "link": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
     "pubDate": "2026-04-28T05:23:05+00:00"
@@ -18,10 +23,5 @@
     "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
     "link": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
     "pubDate": "2026-04-27T18:38:17+00:00"
-  },
-  {
-    "title": "Speech translation in Google Meet is now rolling out to mobile devices",
-    "link": "https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything",
-    "pubDate": "2026-04-27T17:37:47+00:00"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Welcome to SkiaSharp 4.0 Preview 1",
+    "link": "https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/",
+    "pubDate": "2026-04-28T17:06:00+00:00"
+  },
+  {
+    "title": "High-Performance Distributed Caching with .NET and Postgres on Azure",
+    "link": "https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/",
+    "pubDate": "2026-04-28T17:05:00+00:00"
+  },
+  {
     "title": "Combining API versioning with OpenAPI in .NET 10 applications",
     "link": "https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/",
     "pubDate": "2026-04-27T20:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": ".NET 10.0.7 Out-of-Band Security Update",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/",
     "pubDate": "2026-04-21T18:48:34+00:00"
-  },
-  {
-    "title": "Writing Node.js addons with .NET Native AOT",
-    "link": "https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/",
-    "pubDate": "2026-04-20T20:00:00+00:00"
-  },
-  {
-    "title": "Pin Clustering in .NET MAUI Maps",
-    "link": "https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/",
-    "pubDate": "2026-04-15T16:45:00+00:00"
   }
 ]

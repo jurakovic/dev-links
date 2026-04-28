@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
+<small>[Welcome to SkiaSharp 4.0 Preview 1](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
+<small>[High-Performance Distributed Caching with .NET and Postgres on Azure](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-28 visualstudiomagazine</small>  
+<small>[Visual Studio 2026 Gives IntelliSense Priority in Longstanding Copilot Completion Clash](https://visualstudiomagazine.com/articles/2026/04/28/visual-studio-2026-gives-intellisense-priority-over-copilot.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-28 techtrenches</small>  
+<small>[I Was Wrong About Anthropic](https://techtrenches.dev/p/i-was-wrong-about-anthropic)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
+<small>[Quoting Matthew Yglesias](https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-28 martinfowler</small>  
+<small>[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-28 stackoverflow</small>  
+<small>[Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3](https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-28 paulhammant</small>  
 <small>[The limits of merging experiment](https://paulhammant.com/2026/04/28/limits-of-merging-experiment/)</small>
 
@@ -42,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-27 azure-sql</small>  
 <small>[Azure Data Studio is retired: Move your Azure SQL workflow to VS Code in 10 minutes](https://devblogs.microsoft.com/azure-sql/azure-data-studio-is-retired-move-your-azure-sql-workflow-to-vs-code-in-10-minutes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-27 simonwillison</small>  
-<small>[Speech translation in Google Meet is now rolling out to mobile devices](https://simonwillison.net/2026/Apr/27/speech-translation-in-google-meet-is-now-rolling-out-to-mobile-d/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-27 stackoverflow</small>  
 <small>[Welcome to the “find out” stage of AI](https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/)</small>
@@ -121,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-22 seangoedecke</small>  
 <small>[Luddites and burning down AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-22 stackoverflow</small>  
-<small>[How to get multiple agents to play nice at scale](https://stackoverflow.blog/2026/04/22/how-to-get-multiple-agents-to-play-nice-at-scale/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-21 visualstudiomagazine</small>  
 <small>[TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim](https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx)</small>
 
@@ -151,17 +166,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-20 rickstrahl</small>  
 <small>[Revisiting C# Scripting with the Westwind.Scripting Templating Library, Part 1](https://weblog.west-wind.com/posts/2026/Apr/20/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-20 dotnet</small>  
-<small>[Writing Node.js addons with .NET Native AOT](https://devblogs.microsoft.com/dotnet/writing-nodejs-addons-with-dotnet-native-aot/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-04-20 codinghorror</small>  
 <small>[Thank You For Being a Friend](https://blog.codinghorror.com/thank-you-for-being-a-friend/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-20 erikej</small>  
 <small>[Visual Schema Compare for SDK Style SQL Database Projects in Visual Studio and SSMS](https://erikej.github.io/dotnet/dacfx/sqlserver/ssms/visualstudio/2026/04/20/sqlprojects-schemacompare.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-20 visualstudiomagazine</small>  
-<small>[.NET 11 Previews Focus on Nuts-and-Bolts Coding -- AI Not So Much](https://visualstudiomagazine.com/articles/2026/04/20/net-11-previews-focus-on-nuts-and-bolts-coding-ai-not-so-much.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-20 azuresqlblog</small>  
 <small>[Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively](https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877)</small>
@@ -207,9 +216,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-15 github-ai</small>  
 <small>[Build a personal organization command center with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 dotnet</small>  
-<small>[Pin Clustering in .NET MAUI Maps](https://devblogs.microsoft.com/dotnet/pin-clustering-in-dotnet-maui-maps/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow](https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/)</small>
@@ -268,9 +274,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-08 martinfowler</small>  
-<small>[Feedback Flywheel](https://martinfowler.com/articles/reduce-friction-ai/feedback-flywheel.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-08 lucumr-pocoo</small>  
 <small>[Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-05 steven-giesel</small>  
 <small>[Source code generated string enums with exhaustion support](https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-04 dbreunig</small>  
-<small>[How Claude Code Builds a System Prompt](https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html)</small>
 
