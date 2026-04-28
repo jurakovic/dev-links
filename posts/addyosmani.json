@@ -1,5 +1,10 @@
 [
   {
+    "title": "Long-running Agents",
+    "link": "https://addyosmani.com/blog/long-running-agents/",
+    "pubDate": "2026-04-28T22:55:35+00:00"
+  },
+  {
     "title": "Agent Harness Engineering",
     "link": "https://addyosmani.com/blog/agent-harness-engineering/",
     "pubDate": "2026-04-19T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The Code Agent Orchestra - what makes multi-agent coding work",
     "link": "https://addyosmani.com/blog/code-agent-orchestra/",
     "pubDate": "2026-03-26T00:00:00+00:00"
-  },
-  {
-    "title": "Comprehension Debt - the hidden cost of AI generated code.",
-    "link": "https://addyosmani.com/blog/comprehension-debt/",
-    "pubDate": "2026-03-14T00:00:00+00:00"
   }
 ]

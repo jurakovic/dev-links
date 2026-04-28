@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-28 lucumr-pocoo</small>  
+<small>[Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-28 addyosmani</small>  
+<small>[Long-running Agents](https://addyosmani.com/blog/long-running-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-28 third-bit</small>  
+<small>[Big Tech is Like the Penny Press](https://third-bit.com/2026/04/28/big-tech-as-penny-press/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
+<small>[Quoting OpenAI Codex base\_instructions](https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-28 rickstrahl</small>  
+<small>[Using .NET Native AOT to build Windows WinAPI Dlls](https://weblog.west-wind.com/posts/2026/Apr/28/Using-NET-Native-AOT-to-build-Windows-WinAPI-Dlls)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 visualstudio</small>  
+<small>[Visual Studio April Update – Cloud Agent Integration](https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
 <small>[Welcome to SkiaSharp 4.0 Preview 1](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/)</small>
 
@@ -55,9 +73,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-27 dotnet</small>  
 <small>[Combining API versioning with OpenAPI in .NET 10 applications](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-27 simonwillison</small>  
-<small>[Tracking the history of the now-deceased OpenAI Microsoft AGI clause](https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-27 visualstudiomagazine</small>  
 <small>[Devs Sound Off on Usage-Based Copilot Pricing Change: 'You Will Get Less, but Pay the Same Price'](https://visualstudiomagazine.com/articles/2026/04/27/devs-sound-off-on-usage-based-copilot-pricing-change-you-will-get-less-but-pay-the-same-price.aspx)</small>
 
@@ -87,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
 <small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
-<small>[Big Tech is Like the Beauty Industry](https://third-bit.com/2026/04/25/big-tech-as-beauty/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-24 netflix</small>  
 <small>[Scaling Camera File Processing at Netflix](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4)</small>
@@ -291,16 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-07 addyosmani</small>  
 <small>[Your parallel Agent limit](https://addyosmani.com/blog/cognitive-parallel-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-06 ardalis</small>  
-<small>[Own What Makes You You](https://ardalis.com/own-what-makes-you-you/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-06 netflix</small>  
-<small>[Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale](https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-06 github-ai</small>  
-<small>[GitHub Copilot CLI combines model families for a second opinion](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-05 steven-giesel</small>  
-<small>[Source code generated string enums with exhaustion support](https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d)</small>
 

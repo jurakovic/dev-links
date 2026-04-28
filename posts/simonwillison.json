@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting OpenAI Codex base_instructions",
+    "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
+    "pubDate": "2026-04-28T22:02:53+00:00"
+  },
+  {
     "title": "Quoting Matthew Yglesias",
     "link": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
     "pubDate": "2026-04-28T13:25:29+00:00"
@@ -18,10 +23,5 @@
     "title": "microsoft/VibeVoice",
     "link": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
     "pubDate": "2026-04-27T23:46:56+00:00"
-  },
-  {
-    "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-    "link": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
-    "pubDate": "2026-04-27T18:38:17+00:00"
   }
 ]

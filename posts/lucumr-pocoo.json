@@ -1,5 +1,10 @@
 [
   {
+    "title": "Before GitHub",
+    "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+    "pubDate": "2026-04-28T22:55:39+00:00"
+  },
+  {
     "title": "Equity for Europeans",
     "link": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
     "pubDate": "2026-04-23T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Absurd In Production",
     "link": "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/",
     "pubDate": "2026-04-04T16:33:46+00:00"
-  },
-  {
-    "title": "Some Things Just Take Time",
-    "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-    "pubDate": "2026-03-20T00:00:00+00:00"
   }
 ]
