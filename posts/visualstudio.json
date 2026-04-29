@@ -1,5 +1,10 @@
 [
   {
+    "title": "SDK-Style Support for Extension Projects",
+    "link": "https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/",
+    "pubDate": "2026-04-29T14:00:36+00:00"
+  },
+  {
     "title": "Visual Studio April Update – Cloud Agent Integration",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/",
     "pubDate": "2026-04-28T19:00:04+00:00"
@@ -18,10 +23,5 @@
     "title": "Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow",
     "link": "https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/",
     "pubDate": "2026-04-15T16:00:15+00:00"
-  },
-  {
-    "title": "Take full control of your floating windows in Visual Studio",
-    "link": "https://devblogs.microsoft.com/visualstudio/take-full-control-of-your-floating-windows-in-visual-studio/",
-    "pubDate": "2026-04-07T14:00:39+00:00"
   }
 ]

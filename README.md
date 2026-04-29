@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
+<small>[Pornography, Obscenity, and the Limits of Regulation](https://third-bit.com/2026/04/29/pornography-debate/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
+<small>[Guns in America](https://third-bit.com/2026/04/29/guns-in-america/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 dotnet</small>  
+<small>[Governing MCP tool calls in .NET with the Agent Governance Toolkit](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 visualstudio</small>  
+<small>[SDK-Style Support for Extension Projects](https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-29 martinfowler</small>  
+<small>[Fragments: April 29](https://martinfowler.com/fragments/2026-04-29.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-29 bartwullems</small>  
 <small>[Fixing "Selected tag uses an invalid operating system " error when deploying to Azure Container Apps](https://bartwullems.blogspot.com/2026/04/fixing-selected-tag-uses-invalid.html)</small>
 
@@ -68,13 +83,13 @@
 <small>[Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-28 third-bit</small>  
+<small>[The Differential Legalization of Pleasure](https://third-bit.com/2026/04/28/differential-legalization/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-28 third-bit</small>  
 <small>[The Geography of Industrial Harm](https://third-bit.com/2026/04/28/geography-of-industrial-harm/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-27 simonwillison</small>  
 <small>[microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-27 third-bit</small>  
-<small>[Big Tech is Like the Sharecropping System](https://third-bit.com/2026/04/27/big-tech-as-sharecropping/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-27 dotnet</small>  
 <small>[Combining API versioning with OpenAPI in .NET 10 applications](https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/)</small>
@@ -94,14 +109,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-27 bartwullems</small>  
 <small>[Data API Builder - Get a visual config UI](https://bartwullems.blogspot.com/2026/04/data-api-builder-get-visual-config-ui.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-27 third-bit</small>  
-<small>[Big Tech is Like Standard Oil](https://third-bit.com/2026/04/27/big-tech-as-standard-oil/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
 <small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-26 third-bit</small>  
-<small>[Big Tech is Like the Enclosure Movement](https://third-bit.com/2026/04/26/big-tech-enclosure-movement/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
 <small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
@@ -159,9 +168,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 azure-sql</small>  
 <small>[The Polyglot tax – Part 4](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 dotnet</small>  
-<small>[.NET 10.0.7 Out-of-Band Security Update](https://devblogs.microsoft.com/dotnet/dotnet-10-0-7-oob-security-update/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-21 ardalis</small>  
 <small>[Setting Up Claude Code Agent Teams With Wsl2 and Tmux on Windows](https://ardalis.com/setting-up-claude-code-agent-teams-with-wsl2-and-tmux-on-windows/)</small>
@@ -274,9 +280,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-10 github-ai</small>  
 <small>[GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-09 martinfowler</small>  
-<small>[Fragments: April  9](https://martinfowler.com/fragments/2026-04-09.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 erikej</small>  
 <small>[Publish SQL Database Projects as Container Images with MSBuild.Sdk.SqlProj](https://erikej.github.io/sqlclient/dotnet/dacfx/2026/04/09/dacfx-container-publish.html)</small>
 
@@ -294,9 +297,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-07 techtrenches</small>  
 <small>[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-07 visualstudio</small>  
-<small>[Take full control of your floating windows in Visual Studio](https://devblogs.microsoft.com/visualstudio/take-full-control-of-your-floating-windows-in-visual-studio/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-07 andrewlock</small>  
 <small>[Running AI agents safely in a microVM using docker sandbox](https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/)</small>
