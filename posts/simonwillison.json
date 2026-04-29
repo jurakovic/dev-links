@@ -1,5 +1,10 @@
 [
   {
+    "title": "LLM 0.32a0  is a major backwards-compatible refactor",
+    "link": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+    "pubDate": "2026-04-29T19:01:47+00:00"
+  },
+  {
     "title": "Quoting OpenAI Codex base_instructions",
     "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
     "pubDate": "2026-04-28T22:02:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing talkie: a 13B vintage language model from 1930",
     "link": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
     "pubDate": "2026-04-28T02:47:42+00:00"
-  },
-  {
-    "title": "microsoft/VibeVoice",
-    "link": "https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything",
-    "pubDate": "2026-04-27T23:46:56+00:00"
   }
 ]

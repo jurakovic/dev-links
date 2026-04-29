@@ -5,6 +5,11 @@
     "pubDate": "2026-04-29T17:05:00+00:00"
   },
   {
+    "title": "VSTest is Removing its Newtonsoft.Json Dependency",
+    "link": "https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/",
+    "pubDate": "2026-04-29T17:05:00+00:00"
+  },
+  {
     "title": "Welcome to SkiaSharp 4.0 Preview 1",
     "link": "https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/",
     "pubDate": "2026-04-28T17:06:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Combining API versioning with OpenAPI in .NET 10 applications",
     "link": "https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/",
     "pubDate": "2026-04-27T20:00:00+00:00"
-  },
-  {
-    "title": "What’s new for .NET in Ubuntu 26.04",
-    "link": "https://devblogs.microsoft.com/dotnet/whats-new-for-dotnet-in-ubuntu-2604/",
-    "pubDate": "2026-04-23T17:25:00+00:00"
   }
 ]
