@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-29 bartwullems</small>  
+<small>[Fixing "Selected tag uses an invalid operating system " error when deploying to Azure Container Apps](https://bartwullems.blogspot.com/2026/04/fixing-selected-tag-uses-invalid.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-28 lucumr-pocoo</small>  
 <small>[Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)</small>
 
@@ -64,6 +67,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 azuresqlblog</small>  
 <small>[Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-28 third-bit</small>  
+<small>[The Geography of Industrial Harm](https://third-bit.com/2026/04/28/geography-of-industrial-harm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-27 simonwillison</small>  
 <small>[microsoft/VibeVoice](https://simonwillison.net/2026/Apr/27/vibevoice/#atom-everything)</small>
 
@@ -96,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-26 third-bit</small>  
 <small>[Big Tech is Like the Enclosure Movement](https://third-bit.com/2026/04/26/big-tech-enclosure-movement/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-25 third-bit</small>  
-<small>[Cognitive Pollution Revisited](https://third-bit.com/2026/04/25/cognitive-pollution-revisited/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
 <small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
@@ -171,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-21 andrewlock</small>  
 <small>[Removing byte\[\] allocations in .NET Framework using ReadOnlySpan&lt;T&gt;](https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-21 bartwullems</small>  
-<small>[DAB 2.0 Preview: Autoconfiguration with autoentities](https://bartwullems.blogspot.com/2026/04/dab-20-preview-autoconfiguration-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-20 rickstrahl</small>  
 <small>[Revisiting C# Scripting with the Westwind.Scripting Templating Library, Part 1](https://weblog.west-wind.com/posts/2026/Apr/20/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1)</small>
