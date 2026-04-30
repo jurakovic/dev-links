@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR",
+    "link": "https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx",
+    "pubDate": "2026-04-29T22:20:00+00:00"
+  },
+  {
     "title": "Visual Studio 2026 Gives IntelliSense Priority in Longstanding Copilot Completion Clash",
     "link": "https://visualstudiomagazine.com/articles/2026/04/28/visual-studio-2026-gives-intellisense-priority-over-copilot.aspx",
     "pubDate": "2026-04-28T15:51:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else",
     "link": "https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx",
     "pubDate": "2026-04-22T21:56:00+00:00"
-  },
-  {
-    "title": "TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim",
-    "link": "https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx",
-    "pubDate": "2026-04-21T22:18:00+00:00"
   }
 ]

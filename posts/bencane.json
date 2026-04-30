@@ -1,5 +1,10 @@
 [
   {
+    "title": "Deterministic routing is one of the most effective ways distributed systems reduce consistency problems at scale",
+    "link": "https://bencane.com/posts/2026-04-30/",
+    "pubDate": "2026-04-30T06:27:41+00:00"
+  },
+  {
     "title": "When you think of microservices, you probably think of centralized shared services. But there's another valid pattern that is rarely discussed",
     "link": "https://bencane.com/posts/2026-04-23/",
     "pubDate": "2026-04-23T06:04:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Saved Prompts Are Dead. Agent Skills Are the Future.",
     "link": "https://bencane.com/posts/2026-04-02/",
     "pubDate": "2026-04-02T05:40:29+00:00"
-  },
-  {
-    "title": "Generating Code Faster Is Only Valuable If You Can Validate Every Change With Confidence",
-    "link": "https://bencane.com/posts/2026-03-26/",
-    "pubDate": "2026-03-26T05:40:05+00:00"
   }
 ]

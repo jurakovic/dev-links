@@ -1,27 +1,27 @@
 [
   {
+    "title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
+    "pubDate": "2026-04-30T01:24:23+00:00"
+  },
+  {
+    "title": "llm 0.32a1",
+    "link": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
+    "pubDate": "2026-04-29T23:52:50+00:00"
+  },
+  {
     "title": "LLM 0.32a0  is a major backwards-compatible refactor",
     "link": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
     "pubDate": "2026-04-29T19:01:47+00:00"
   },
   {
+    "title": "llm 0.32a0",
+    "link": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
+    "pubDate": "2026-04-29T18:57:47+00:00"
+  },
+  {
     "title": "Quoting OpenAI Codex base_instructions",
     "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
     "pubDate": "2026-04-28T22:02:53+00:00"
-  },
-  {
-    "title": "Quoting Matthew Yglesias",
-    "link": "https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything",
-    "pubDate": "2026-04-28T13:25:29+00:00"
-  },
-  {
-    "title": "What's new in pip 26.1 - lockfiles and dependency cooldowns!",
-    "link": "https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything",
-    "pubDate": "2026-04-28T05:23:05+00:00"
-  },
-  {
-    "title": "Introducing talkie: a 13B vintage language model from 1930",
-    "link": "https://simonwillison.net/2026/Apr/28/talkie/#atom-everything",
-    "pubDate": "2026-04-28T02:47:42+00:00"
   }
 ]

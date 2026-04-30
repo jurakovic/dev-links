@@ -4,11 +4,29 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-30 bencane</small>  
+<small>[Deterministic routing is one of the most effective ways distributed systems reduce consistency problems at scale](https://bencane.com/posts/2026-04-30/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-30 bartwullems</small>  
+<small>[Supercharging GitHub Copilot CLI with Ollama: Local Models, Full Control](https://bartwullems.blogspot.com/2026/04/supercharging-github-copilot-cli-with.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
+<small>[The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-29 simonwillison</small>  
+<small>[llm 0.32a1](https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
 <small>[The Myth of Meritocracy](https://third-bit.com/2026/04/29/myth-of-meritocracy/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-29 visualstudiomagazine</small>  
+<small>[VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR](https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-29 simonwillison</small>  
 <small>[LLM 0.32a0  is a major backwards-compatible refactor](https://simonwillison.net/2026/Apr/29/llm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-29 simonwillison</small>  
+<small>[llm 0.32a0](https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
 <small>[Pornography, Obscenity, and the Limits of Regulation](https://third-bit.com/2026/04/29/pornography-debate/)</small>
@@ -31,14 +49,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-29 bartwullems</small>  
 <small>[Fixing "Selected tag uses an invalid operating system " error when deploying to Azure Container Apps](https://bartwullems.blogspot.com/2026/04/fixing-selected-tag-uses-invalid.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
+<small>[Big Tech is Like a Department Store](https://third-bit.com/2026/04/29/big-tech-department-store/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-28 lucumr-pocoo</small>  
 <small>[Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-28 addyosmani</small>  
 <small>[Long-running Agents](https://addyosmani.com/blog/long-running-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-28 third-bit</small>  
-<small>[Big Tech is Like the Penny Press](https://third-bit.com/2026/04/28/big-tech-as-penny-press/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
 <small>[Quoting OpenAI Codex base\_instructions](https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything)</small>
@@ -58,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-28 techtrenches</small>  
 <small>[I Was Wrong About Anthropic](https://techtrenches.dev/p/i-was-wrong-about-anthropic)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
-<small>[Quoting Matthew Yglesias](https://simonwillison.net/2026/Apr/28/matthew-yglesias/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-28 martinfowler</small>  
 <small>[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)</small>
 
@@ -78,12 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-28 bartwullems</small>  
 <small>[How to fix NuGet vulnerabilities with GitHub Copilot in Visual Studio](https://bartwullems.blogspot.com/2026/04/how-to-fix-nuget-vulnerabilities-with.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
-<small>[What's new in pip 26.1 - lockfiles and dependency cooldowns!](https://simonwillison.net/2026/Apr/28/pip-261/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-28 simonwillison</small>  
-<small>[Introducing talkie: a 13B vintage language model from 1930](https://simonwillison.net/2026/Apr/28/talkie/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 azuresqlblog</small>  
 <small>[Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
@@ -145,9 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 microservices</small>  
 <small>[Microservices Platforms - part 7: Deployment platform](http://microservices.io//post/architecture/2026/04/23/qconsf-microservices-platforms-part-7.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-23 bartwullems</small>  
-<small>[Expose your stored procedures as AI agent tools with DAB 2.0](https://bartwullems.blogspot.com/2026/04/expose-your-stored-procedures-as-ai.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 bencane</small>  
 <small>[When you think of microservices, you probably think of centralized shared services. But there's another valid pattern that is rarely discussed](https://bencane.com/posts/2026-04-23/)</small>
 
@@ -159,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-22 seangoedecke</small>  
 <small>[Luddites and burning down AI datacenters](https://seangoedecke.com/luddites-and-ai-datacenters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-21 visualstudiomagazine</small>  
-<small>[TypeScript 7.0 Beta Arrives on Go-Based Foundation With 10x Speed Claim](https://visualstudiomagazine.com/articles/2026/04/21/typescript-7-0-beta-arrives-on-go-based-foundation-with-10x-speed-claim.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 azure-sql</small>  
 <small>[The Polyglot tax – Part 4](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-06 ardalis</small>  
 <small>[Own What Makes You You](https://ardalis.com/own-what-makes-you-you/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-06 netflix</small>  
-<small>[Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale](https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e?source=rss----2615bd06b42e---4)</small>
 
