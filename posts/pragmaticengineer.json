@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: token spend breaks budgets – what next?",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/",
+    "pubDate": "2026-04-30T14:52:36+00:00"
+  },
+  {
     "title": "The Pulse: ‘Tokenmaxxing’ as a weird new trend",
     "link": "https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/",
     "pubDate": "2026-04-23T16:55:40+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Cloudflare rewrites Next.js as AI rewrites commercial open source",
     "link": "https://blog.pragmaticengineer.com/the-pulse-cloudflare-rewrites-next-js-as-ai-rewrites-commercial-open-source/",
     "pubDate": "2026-03-05T18:03:16+00:00"
-  },
-  {
-    "title": "I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code",
-    "link": "https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/",
-    "pubDate": "2026-01-29T18:41:45+00:00"
   }
 ]

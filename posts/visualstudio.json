@@ -1,5 +1,10 @@
 [
   {
+    "title": "TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3",
+    "link": "https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/",
+    "pubDate": "2026-04-30T17:08:44+00:00"
+  },
+  {
     "title": "SDK-Style Support for Extension Projects",
     "link": "https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/",
     "pubDate": "2026-04-29T14:00:36+00:00"
@@ -18,10 +23,5 @@
     "title": "Azure MCP tools now ship built into Visual Studio 2022 — no extension required",
     "link": "https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/",
     "pubDate": "2026-04-15T17:30:28+00:00"
-  },
-  {
-    "title": "Stop Hunting Bugs: Meet the New Visual Studio Debugger Agent Workflow",
-    "link": "https://devblogs.microsoft.com/visualstudio/stop-hunting-bugs-meet-the-new-visual-studio-debugger-agent/",
-    "pubDate": "2026-04-15T16:00:15+00:00"
   }
 ]

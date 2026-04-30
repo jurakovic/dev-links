@@ -1,5 +1,10 @@
 [
   {
+    "title": "Building an AI-Powered Conference App with .NET’s Composable AI Stack",
+    "link": "https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/",
+    "pubDate": "2026-04-30T17:05:00+00:00"
+  },
+  {
     "title": "Governing MCP tool calls in .NET with the Agent Governance Toolkit",
     "link": "https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/",
     "pubDate": "2026-04-29T17:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "High-Performance Distributed Caching with .NET and Postgres on Azure",
     "link": "https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/",
     "pubDate": "2026-04-28T17:05:00+00:00"
-  },
-  {
-    "title": "Combining API versioning with OpenAPI in .NET 10 applications",
-    "link": "https://devblogs.microsoft.com/dotnet/api-versioning-in-dotnet-10-applications/",
-    "pubDate": "2026-04-27T20:00:00+00:00"
   }
 ]
