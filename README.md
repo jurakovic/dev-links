@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-01 third-bit</small>  
+<small>[Big Tech is Like a Danwei](https://third-bit.com/2026/05/01/big-tech-as-danwei/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-01 visualstudiomagazine</small>  
+<small>[WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers](https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-01 netflix</small>  
+<small>[State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-01 simonwillison</small>  
+<small>[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-01 swizec</small>  
 <small>[Quick note on evals and putting AI in your resume](https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/)</small>
 
@@ -52,9 +64,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-30 bartwullems</small>  
 <small>[Supercharging GitHub Copilot CLI with Ollama: Local Models, Full Control](https://bartwullems.blogspot.com/2026/04/supercharging-github-copilot-cli-with.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
-<small>[The Zig project's rationale for their firm anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
 <small>[The Myth of Meritocracy](https://third-bit.com/2026/04/29/myth-of-meritocracy/)</small>
 
@@ -81,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-29 bartwullems</small>  
 <small>[Fixing "Selected tag uses an invalid operating system " error when deploying to Azure Container Apps](https://bartwullems.blogspot.com/2026/04/fixing-selected-tag-uses-invalid.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
-<small>[Big Tech is Like a Department Store](https://third-bit.com/2026/04/29/big-tech-department-store/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-28 lucumr-pocoo</small>  
 <small>[Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)</small>
@@ -159,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-24 rickstrahl</small>  
 <small>[Putting the Westwind.Scripting C# Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-23 visualstudiomagazine</small>  
-<small>[Visual Studio Code 1.117 Expands Copilot Controls for Business and Enterprise User](https://visualstudiomagazine.com/articles/2026/04/23/visual-studio-code-1-117-expands-copilot-controls-for-business-and-enterprise-user.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-23 pragmaticengineer</small>  
 <small>[The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-07 ardalis</small>  
 <small>[Claude Throttling and the Cloud](https://ardalis.com/claude-throttling-and-the-cloud/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-07 techtrenches</small>  
-<small>[The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers](https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically)</small>
 

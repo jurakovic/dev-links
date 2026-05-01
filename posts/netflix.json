@@ -1,5 +1,10 @@
 [
   {
+    "title": "State of Routing in Model Serving",
+    "link": "https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-05-01T21:03:13+00:00"
+  },
+  {
     "title": "Scaling Camera File Processing at Netflix",
     "link": "https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-24T15:06:01+00:00"
@@ -18,10 +23,5 @@
     "title": "Stop Answering the Same Question Twice: Interval-Aware Caching for Druid at Netflix Scale",
     "link": "https://netflixtechblog.com/stop-answering-the-same-question-twice-interval-aware-caching-for-druid-at-netflix-scale-22fadc9b840e?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-06T22:15:14+00:00"
-  },
-  {
-    "title": "Powering Multimodal Intelligence for Video Search",
-    "link": "https://netflixtechblog.com/powering-multimodal-intelligence-for-video-search-3e0020cf1202?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-04-04T00:44:32+00:00"
   }
 ]

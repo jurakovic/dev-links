@@ -1,5 +1,10 @@
 [
   {
+    "title": "WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers",
+    "link": "https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx",
+    "pubDate": "2026-05-01T22:20:00+00:00"
+  },
+  {
     "title": "VS Code Curbs Token Use Ahead of Copilot's Controversial Usage-Based Billing Switch",
     "link": "https://visualstudiomagazine.com/articles/2026/04/30/vs-code-curbs-token-use-ahead-of-copilots-controversial-usage-based-billing-switch.aspx",
     "pubDate": "2026-04-30T17:08:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Devs Sound Off on Usage-Based Copilot Pricing Change: 'You Will Get Less, but Pay the Same Price'",
     "link": "https://visualstudiomagazine.com/articles/2026/04/27/devs-sound-off-on-usage-based-copilot-pricing-change-you-will-get-less-but-pay-the-same-price.aspx",
     "pubDate": "2026-04-27T18:21:00+00:00"
-  },
-  {
-    "title": "Visual Studio Code 1.117 Expands Copilot Controls for Business and Enterprise User",
-    "link": "https://visualstudiomagazine.com/articles/2026/04/23/visual-studio-code-1-117-expands-copilot-controls-for-business-and-enterprise-user.aspx",
-    "pubDate": "2026-04-23T18:10:00+00:00"
   }
 ]
