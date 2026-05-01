@@ -1,27 +1,27 @@
 [
   {
+    "title": "Codex CLI 0.128.0 adds /goal",
+    "link": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "pubDate": "2026-04-30T23:23:17+00:00"
+  },
+  {
+    "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+    "link": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "pubDate": "2026-04-30T23:03:24+00:00"
+  },
+  {
+    "title": "Quoting Andrew Kelley",
+    "link": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+    "pubDate": "2026-04-30T21:24:55+00:00"
+  },
+  {
+    "title": "We need RSS for sharing abundant vibe-coded apps",
+    "link": "https://simonwillison.net/2026/Apr/30/rss-vibe-coded-apps/#atom-everything",
+    "pubDate": "2026-04-30T18:38:48+00:00"
+  },
+  {
     "title": "The Zig project's rationale for their firm anti-AI contribution policy",
     "link": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/#atom-everything",
     "pubDate": "2026-04-30T01:24:23+00:00"
-  },
-  {
-    "title": "llm 0.32a1",
-    "link": "https://simonwillison.net/2026/Apr/29/llm-3/#atom-everything",
-    "pubDate": "2026-04-29T23:52:50+00:00"
-  },
-  {
-    "title": "LLM 0.32a0  is a major backwards-compatible refactor",
-    "link": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
-    "pubDate": "2026-04-29T19:01:47+00:00"
-  },
-  {
-    "title": "llm 0.32a0",
-    "link": "https://simonwillison.net/2026/Apr/29/llm-2/#atom-everything",
-    "pubDate": "2026-04-29T18:57:47+00:00"
-  },
-  {
-    "title": "Quoting OpenAI Codex base_instructions",
-    "link": "https://simonwillison.net/2026/Apr/28/openai-codex/#atom-everything",
-    "pubDate": "2026-04-28T22:02:53+00:00"
   }
 ]

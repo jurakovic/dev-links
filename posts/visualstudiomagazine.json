@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code Curbs Token Use Ahead of Copilot's Controversial Usage-Based Billing Switch",
+    "link": "https://visualstudiomagazine.com/articles/2026/04/30/vs-code-curbs-token-use-ahead-of-copilots-controversial-usage-based-billing-switch.aspx",
+    "pubDate": "2026-04-30T17:08:00+00:00"
+  },
+  {
     "title": "VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR",
     "link": "https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx",
     "pubDate": "2026-04-29T22:20:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio Code 1.117 Expands Copilot Controls for Business and Enterprise User",
     "link": "https://visualstudiomagazine.com/articles/2026/04/23/visual-studio-code-1-117-expands-copilot-controls-for-business-and-enterprise-user.aspx",
     "pubDate": "2026-04-23T18:10:00+00:00"
-  },
-  {
-    "title": "Microsoft Keeps Adding VS 2026 MCP Functionality to VS 2022, but Not Much Else",
-    "link": "https://visualstudiomagazine.com/articles/2026/04/22/microsoft-keeps-adding-vs-2026-mcp-functionality-to-vs-2022-but-not-much-else.aspx",
-    "pubDate": "2026-04-22T21:56:00+00:00"
   }
 ]
