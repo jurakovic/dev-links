@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dispatches from O'Reilly: Fast Paths and Slow Paths",
+    "link": "https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/",
+    "pubDate": "2026-05-01T14:00:00+00:00"
+  },
+  {
     "title": "Time is a construct but it can still break your software",
     "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
     "pubDate": "2026-05-01T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Your LLM issues are really data issues",
     "link": "https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/",
     "pubDate": "2026-04-28T06:27:43+00:00"
-  },
-  {
-    "title": "Welcome to the “find out” stage of AI",
-    "link": "https://stackoverflow.blog/2026/04/27/welcome-to-the-find-out-stage-of-ai/",
-    "pubDate": "2026-04-27T13:56:07+00:00"
   }
 ]
