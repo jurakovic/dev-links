@@ -28,6 +28,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-01 stackoverflow</small>  
 <small>[Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-01 third-bit</small>  
+<small>[Labor and Passion](https://third-bit.com/2026/05/01/labor-and-passion/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
 <small>[Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-30 bartwullems</small>  
 <small>[Supercharging GitHub Copilot CLI with Ollama: Local Models, Full Control](https://bartwullems.blogspot.com/2026/04/supercharging-github-copilot-cli-with.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-04-29 third-bit</small>  
-<small>[The Myth of Meritocracy](https://third-bit.com/2026/04/29/myth-of-meritocracy/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-29 visualstudiomagazine</small>  
 <small>[VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR](https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx)</small>
