@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Anthropic",
+    "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+    "pubDate": "2026-05-03T15:13:23+00:00"
+  },
+  {
     "title": "Sightings",
     "link": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
     "pubDate": "2026-05-02T17:26:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
     "link": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
     "pubDate": "2026-04-30T23:03:24+00:00"
-  },
-  {
-    "title": "Quoting Andrew Kelley",
-    "link": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
-    "pubDate": "2026-04-30T21:24:55+00:00"
   }
 ]
