@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-04 bartwullems</small>  
+<small>[How to use GitHub Copilot Agent Skills in Visual Studio](https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-03 third-bit</small>  
 <small>[Other Kinds of Firms](https://third-bit.com/2026/05/03/other-kinds-of-firms/)</small>
 
@@ -165,9 +168,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-04-24 steve-yegge</small>  
 <small>[Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-24 bartwullems</small>  
-<small>[Microsoft Agent Framework- Workflow lifetime](https://bartwullems.blogspot.com/2026/04/microsoft-agent-framework-workflow.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-24 rickstrahl</small>  
 <small>[Putting the Westwind.Scripting C# Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
