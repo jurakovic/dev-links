@@ -1,5 +1,10 @@
 [
   {
+    "title": "Agent Skills",
+    "link": "https://addyosmani.com/blog/agent-skills/",
+    "pubDate": "2026-05-03T00:00:00+00:00"
+  },
+  {
     "title": "Long-running Agents",
     "link": "https://addyosmani.com/blog/long-running-agents/",
     "pubDate": "2026-04-28T22:55:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Your parallel Agent limit",
     "link": "https://addyosmani.com/blog/cognitive-parallel-agents/",
     "pubDate": "2026-04-07T00:00:00+00:00"
-  },
-  {
-    "title": "The Code Agent Orchestra - what makes multi-agent coding work",
-    "link": "https://addyosmani.com/blog/code-agent-orchestra/",
-    "pubDate": "2026-03-26T00:00:00+00:00"
   }
 ]

@@ -13,6 +13,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-03 seangoedecke</small>  
 <small>[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-03 addyosmani</small>  
+<small>[Agent Skills](https://addyosmani.com/blog/agent-skills/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
 <small>[The Invention of Intellectual Property](https://third-bit.com/2026/05/02/intellectual-property/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
 <small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-08 lucumr-pocoo</small>  
-<small>[Mario and Earendil](https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/)</small>
 
