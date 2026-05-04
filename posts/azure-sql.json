@@ -1,5 +1,10 @@
 [
   {
+    "title": "SQL MCP Server as an App Service",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-app-service/",
+    "pubDate": "2026-05-04T16:30:34+00:00"
+  },
+  {
     "title": "Azure Data Studio is retired: Move your Azure SQL workflow to VS Code in 10 minutes",
     "link": "https://devblogs.microsoft.com/azure-sql/azure-data-studio-is-retired-move-your-azure-sql-workflow-to-vs-code-in-10-minutes/",
     "pubDate": "2026-04-27T18:20:58+00:00"
@@ -18,10 +23,5 @@
     "title": "The Polyglot tax – Part 3",
     "link": "https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-3/",
     "pubDate": "2026-04-01T16:11:53+00:00"
-  },
-  {
-    "title": "SQL code analysis in VS Code: Configure rules without editing your project file",
-    "link": "https://devblogs.microsoft.com/azure-sql/sql-code-analysis-in-vs-code-configure-rules-without-editing-your-project-file/",
-    "pubDate": "2026-03-24T03:30:13+00:00"
   }
 ]

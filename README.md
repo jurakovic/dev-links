@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
+<small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-04 dotnet</small>  
+<small>[Microsoft Agent Framework – Building Blocks for AI Part 3](https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-04 azure-sql</small>  
+<small>[SQL MCP Server as an App Service](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-app-service/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-04 netflix</small>  
+<small>[Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
+<small>[Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-04 github-ai</small>  
+<small>[Register now for OpenClaw: After Hours @ GitHub](https://github.blog/open-source/register-now-for-openclaw-after-hours-github/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-04 antirez</small>  
+<small>[Redis array type: short story of a long development](http://antirez.com/news/164)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-04 bartwullems</small>  
 <small>[How to use GitHub Copilot Agent Skills in Visual Studio](https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html)</small>
 
@@ -47,16 +68,13 @@
 <small>[A Short History of Fads](https://third-bit.com/2026/05/01/short-history-of-fads/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-01 stackoverflow</small>  
-<small>[Dispatches from O'Reilly: Fast Paths and Slow Paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/)</small>
+<small>[Dispatches from O'Reilly: Fast paths and slow paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-01 stackoverflow</small>  
 <small>[Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
 <small>[Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
-<small>[Our evaluation of OpenAI's GPT-5.5 cyber capabilities](https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-30 visualstudio</small>  
 <small>[TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3](https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/)</small>
@@ -85,6 +103,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-29 visualstudiomagazine</small>  
 <small>[VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR](https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-04-29 developertoarchitect</small>  
+<small>[Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)](http://www.developertoarchitect.com/lessons/lesson219.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 dotnet</small>  
 <small>[Governing MCP tool calls in .NET with the Agent Governance Toolkit](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/)</small>
 
@@ -111,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
 <small>[Welcome to SkiaSharp 4.0 Preview 1](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
-<small>[High-Performance Distributed Caching with .NET and Postgres on Azure](https://devblogs.microsoft.com/dotnet/high-performance-distributed-caching-dotnet-postgres-azure/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-28 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Gives IntelliSense Priority in Longstanding Copilot Completion Clash](https://visualstudiomagazine.com/articles/2026/04/28/visual-studio-2026-gives-intellisense-priority-over-copilot.aspx)</small>
@@ -285,22 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-11 martinfowler</small>  
 <small>[Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-11 addyosmani</small>  
-<small>[Agentic Engine Optimization (AEO)](https://addyosmani.com/blog/agentic-engine-optimization/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-10 netflix</small>  
-<small>[Evaluating Netflix Show Synopses with LLM-as-a-Judge](https://netflixtechblog.com/evaluating-netflix-show-synopses-with-llm-as-a-judge-6269251e6f28?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-10 github-ai</small>  
-<small>[GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 erikej</small>  
-<small>[Publish SQL Database Projects as Container Images with MSBuild.Sdk.SqlProj](https://erikej.github.io/sqlclient/dotnet/dacfx/2026/04/09/dacfx-container-publish.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-09 bencane</small>  
-<small>[Agent Skills Are Becoming the Best Way to Capture Institutional Knowledge](https://bencane.com/posts/2026-04-09/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-08 azure-sql</small>  
-<small>[Introducing SQL MCP Server](https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Redis Array Playground",
+    "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
+    "pubDate": "2026-05-04T15:53:57+00:00"
+  },
+  {
     "title": "Quoting Anthropic",
     "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
     "pubDate": "2026-05-03T15:13:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Codex CLI 0.128.0 adds /goal",
     "link": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
     "pubDate": "2026-04-30T23:23:17+00:00"
-  },
-  {
-    "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-    "link": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-    "pubDate": "2026-04-30T23:03:24+00:00"
   }
 ]

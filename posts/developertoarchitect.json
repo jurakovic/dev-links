@@ -1,5 +1,10 @@
 [
   {
+    "title": "Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson219.html",
+    "pubDate": "2026-04-29T17:58:25+00:00"
+  },
+  {
     "title": "Lesson 218 - Thread Delegate Pattern (April 6, 2026)",
     "link": "http://www.developertoarchitect.com/lessons/lesson218.html",
     "pubDate": "2026-01-30T20:11:41+00:00"
@@ -18,10 +23,5 @@
     "title": "Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)",
     "link": "http://www.developertoarchitect.com/lessons/lesson215.html",
     "pubDate": "2026-01-04T20:29:50+00:00"
-  },
-  {
-    "title": "Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson214.html",
-    "pubDate": "2025-11-30T18:21:15+00:00"
   }
 ]
