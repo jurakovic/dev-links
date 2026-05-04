@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Andy Masley",
+    "link": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
+    "pubDate": "2026-05-04T22:51:09+00:00"
+  },
+  {
+    "title": "April 2026 newsletter",
+    "link": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+    "pubDate": "2026-05-04T22:38:36+00:00"
+  },
+  {
+    "title": "TRE Python binding — ReDoS robustness demo",
+    "link": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
+    "pubDate": "2026-05-04T17:52:00+00:00"
+  },
+  {
     "title": "Redis Array Playground",
     "link": "https://simonwillison.net/2026/May/4/redis-array/#atom-everything",
     "pubDate": "2026-05-04T15:53:57+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Anthropic",
     "link": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
     "pubDate": "2026-05-03T15:13:23+00:00"
-  },
-  {
-    "title": "Sightings",
-    "link": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
-    "pubDate": "2026-05-02T17:26:40+00:00"
-  },
-  {
-    "title": "iNaturalist Sightings",
-    "link": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-    "pubDate": "2026-05-01T19:35:41+00:00"
-  },
-  {
-    "title": "Codex CLI 0.128.0 adds /goal",
-    "link": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-    "pubDate": "2026-04-30T23:23:17+00:00"
   }
 ]

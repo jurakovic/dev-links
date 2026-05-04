@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
+<small>[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
+<small>[April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
+<small>[TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
 
@@ -46,9 +55,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
 <small>[The Evolution of Morality](https://third-bit.com/2026/05/02/evolution-of-morality/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-02 simonwillison</small>  
-<small>[Sightings](https://simonwillison.net/2026/May/2/sightings/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-01 third-bit</small>  
 <small>[Big Tech is Like a Danwei](https://third-bit.com/2026/05/01/big-tech-as-danwei/)</small>
 
@@ -57,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-01 netflix</small>  
 <small>[State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-01 simonwillison</small>  
-<small>[iNaturalist Sightings](https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-01 swizec</small>  
 <small>[Quick note on evals and putting AI in your resume](https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/)</small>
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-01 stackoverflow</small>  
 <small>[Time is a construct but it can still break your software](https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-04-30 simonwillison</small>  
-<small>[Codex CLI 0.128.0 adds /goal](https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-30 visualstudio</small>  
 <small>[TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3](https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/)</small>
