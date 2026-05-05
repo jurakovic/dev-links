@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-05 swizec</small>  
+<small>[What you need to make an agent](https://swizec.com/blog/what-you-need-to-make-an-agent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
+<small>[Moral Panics and the Video Game Debate](https://third-bit.com/2026/05/05/moral-panic/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
+<small>[The Psychology of Building Harmful Things](https://third-bit.com/2026/05/05/harmful-things/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
+<small>[Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
+<small>[Bliki: Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-05 techtrenches</small>  
+<small>[AI Is a Mirror of Our Engineering Culture](https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-05-05 slack</small>  
+<small>[From SSH to REST: A Security-Driven Modernization of Slack’s EMR Data Pipelines](https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-05 stackoverflow</small>  
 <small>[What (un)exactly do you mean by semantic search?](https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/)</small>
 
@@ -14,6 +35,12 @@
 <small>[10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
+<small>[datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
+<small>[llm-echo 0.5a0](https://simonwillison.net/2026/May/5/llm-echo/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
 <small>[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
@@ -21,12 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
 <small>[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
-<small>[April 2026 newsletter](https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
-<small>[TRE Python binding — ReDoS robustness demo](https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
@@ -64,9 +85,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
 <small>[The Invention of Intellectual Property](https://third-bit.com/2026/05/02/intellectual-property/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
-<small>[The Evolution of Morality](https://third-bit.com/2026/05/02/evolution-of-morality/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-01 visualstudiomagazine</small>  
 <small>[WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers](https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx)</small>
 
@@ -75,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-01 swizec</small>  
 <small>[Quick note on evals and putting AI in your resume](https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-01 third-bit</small>  
-<small>[A Short History of Fads](https://third-bit.com/2026/05/01/short-history-of-fads/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-01 stackoverflow</small>  
 <small>[Dispatches from O'Reilly: Fast paths and slow paths](https://stackoverflow.blog/2026/05/01/dispatches-from-o-reilly-fast-paths-and-slow-paths/)</small>
@@ -286,21 +301,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-14 techtrenches</small>  
 <small>[Everyone Wants a Better Team. Nobody Wants to Do Anything About It.](https://techtrenches.dev/p/everyone-wants-a-better-team-nobody)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-14 martinfowler</small>  
-<small>[Fragments: April 14](https://martinfowler.com/fragments/2026-04-14.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-14 andrewlock</small>  
 <small>[Running AI agents with customized templates using docker sandbox](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-04-13 slack</small>  
-<small>[Managing context in long-run agentic applications](https://slack.engineering/managing-context-in-long-run-agentic-applications/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-13 erikej</small>  
-<small>[New Visual Rule Manager: Configure SQL Code Analysis Without Editing XML](https://erikej.github.io/dacfx/dotnet/sqlserver/ssms/visualstudio/2026/04/13/sqlprojects-rule-manager.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-12 lethain</small>  
-<small>[Agents as scaffolding for recurring tasks.](https://lethain.com/agents-as-scaffolding/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-11 lucumr-pocoo</small>  
-<small>[The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)</small>
 

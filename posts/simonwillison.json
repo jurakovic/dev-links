@@ -1,5 +1,15 @@
 [
   {
+    "title": "datasette-llm 0.1a7",
+    "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
+    "pubDate": "2026-05-05T01:56:55+00:00"
+  },
+  {
+    "title": "llm-echo 0.5a0",
+    "link": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
+    "pubDate": "2026-05-05T01:31:54+00:00"
+  },
+  {
     "title": "Quoting John Gruber",
     "link": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
     "pubDate": "2026-05-05T00:46:29+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Andy Masley",
     "link": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
     "pubDate": "2026-05-04T22:51:09+00:00"
-  },
-  {
-    "title": "April 2026 newsletter",
-    "link": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
-    "pubDate": "2026-05-04T22:38:36+00:00"
-  },
-  {
-    "title": "TRE Python binding — ReDoS robustness demo",
-    "link": "https://simonwillison.net/2026/May/4/tre-python-binding/#atom-everything",
-    "pubDate": "2026-05-04T17:52:00+00:00"
   }
 ]

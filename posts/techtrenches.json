@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI Is a Mirror of Our Engineering Culture",
+    "link": "https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering",
+    "pubDate": "2026-05-05T14:02:53+00:00"
+  },
+  {
     "title": "I Was Wrong About Anthropic",
     "link": "https://techtrenches.dev/p/i-was-wrong-about-anthropic",
     "pubDate": "2026-04-28T14:03:11+00:00"
@@ -18,10 +23,5 @@
     "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
     "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
     "pubDate": "2026-04-07T14:04:04+00:00"
-  },
-  {
-    "title": "The Snake That Ate Itself: What Claude Code’s Source Revealed About AI Engineering Culture",
-    "link": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
-    "pubDate": "2026-04-01T14:01:08+00:00"
   }
 ]

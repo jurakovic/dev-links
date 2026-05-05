@@ -1,5 +1,10 @@
 [
   {
+    "title": "What you need to make an agent",
+    "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
+    "pubDate": "2026-05-05T17:21:39+00:00"
+  },
+  {
     "title": "Quick note on evals and putting AI in your resume",
     "link": "https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/",
     "pubDate": "2026-05-01T16:58:10+00:00"
@@ -18,10 +23,5 @@
     "title": "Watch people work",
     "link": "https://swizec.com/blog/watch-people-work/",
     "pubDate": "2026-04-14T17:03:53+00:00"
-  },
-  {
-    "title": "Frustration Driven Development",
-    "link": "https://swizec.com/blog/frustration-driven-development/",
-    "pubDate": "2026-04-02T00:00:00+00:00"
   }
 ]
