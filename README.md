@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-05 stackoverflow</small>  
+<small>[What (un)exactly do you mean by semantic search?](https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-05 bartwullems</small>  
+<small>[We are all beginners](https://bartwullems.blogspot.com/2026/05/we-are-all-beginners.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-05 dbreunig</small>  
+<small>[10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
+<small>[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
+<small>[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
 <small>[Quoting Andy Masley](https://simonwillison.net/2026/May/4/andy-masley/#atom-everything)</small>
 
@@ -25,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-04 netflix</small>  
 <small>[Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
-<small>[Redis Array Playground](https://simonwillison.net/2026/May/4/redis-array/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-04 github-ai</small>  
 <small>[Register now for OpenClaw: After Hours @ GitHub](https://github.blog/open-source/register-now-for-openclaw-after-hours-github/)</small>
 
@@ -37,11 +49,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-04 bartwullems</small>  
 <small>[How to use GitHub Copilot Agent Skills in Visual Studio](https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-04 third-bit</small>  
+<small>[Free Speech and Hate Speech](https://third-bit.com/2026/05/04/free-speech-and-hate-speech/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-03 third-bit</small>  
 <small>[Other Kinds of Firms](https://third-bit.com/2026/05/03/other-kinds-of-firms/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-03 simonwillison</small>  
-<small>[Quoting Anthropic](https://simonwillison.net/2026/May/3/anthropic/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-03 seangoedecke</small>  
 <small>[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/)</small>
@@ -54,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
 <small>[The Evolution of Morality](https://third-bit.com/2026/05/02/evolution-of-morality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-01 third-bit</small>  
-<small>[Big Tech is Like a Danwei](https://third-bit.com/2026/05/01/big-tech-as-danwei/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-01 visualstudiomagazine</small>  
 <small>[WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers](https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx)</small>
@@ -151,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-28 andrewlock</small>  
 <small>[New features in Git 2.54: easier rebasing, hooks, and statistics](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-28 stackoverflow</small>  
-<small>[Your LLM issues are really data issues](https://stackoverflow.blog/2026/04/28/your-llm-issues-are-really-data-issues/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-28 bartwullems</small>  
 <small>[How to fix NuGet vulnerabilities with GitHub Copilot in Visual Studio](https://bartwullems.blogspot.com/2026/04/how-to-fix-nuget-vulnerabilities-with.html)</small>
 
@@ -168,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-27 lethain</small>  
 <small>[Early and late-stage hypergrowth.](https://lethain.com/early-late-stage-hypergrowth/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-27 bartwullems</small>  
-<small>[Data API Builder - Get a visual config UI](https://bartwullems.blogspot.com/2026/04/data-api-builder-get-visual-config-ui.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
 <small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-11 lucumr-pocoo</small>  
 <small>[The Center Has a Bias](https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-11 martinfowler</small>  
-<small>[Alan Turing play in Cambridge MA](https://martinfowler.com/articles/202604-turing.html)</small>
 
