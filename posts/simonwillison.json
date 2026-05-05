@@ -1,5 +1,10 @@
 [
   {
+    "title": "Our AI started a cafe in Stockholm",
+    "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
+    "pubDate": "2026-05-05T22:14:21+00:00"
+  },
+  {
     "title": "datasette-llm 0.1a7",
     "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
     "pubDate": "2026-05-05T01:56:55+00:00"
@@ -18,10 +23,5 @@
     "title": "Granite 4.1 3B SVG Pelican Gallery",
     "link": "https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything",
     "pubDate": "2026-05-04T23:49:24+00:00"
-  },
-  {
-    "title": "Quoting Andy Masley",
-    "link": "https://simonwillison.net/2026/May/4/andy-masley/#atom-everything",
-    "pubDate": "2026-05-04T22:51:09+00:00"
   }
 ]
