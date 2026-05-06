@@ -1,5 +1,10 @@
 [
   {
+    "title": "Validating agentic behavior when “correct” isn’t deterministic",
+    "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+    "pubDate": "2026-05-06T21:16:31+00:00"
+  },
+  {
     "title": "Register now for OpenClaw: After Hours @ GitHub",
     "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
     "pubDate": "2026-05-04T15:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Build a personal organization command center with GitHub Copilot CLI",
     "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
     "pubDate": "2026-04-15T17:00:00+00:00"
-  },
-  {
-    "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
-    "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
-    "pubDate": "2026-04-14T18:17:59+00:00"
   }
 ]

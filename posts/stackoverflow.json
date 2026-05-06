@@ -1,5 +1,10 @@
 [
   {
+    "title": "How we replaced NGINX-Ingress at Stack Overflow",
+    "link": "https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/",
+    "pubDate": "2026-05-06T18:47:46+00:00"
+  },
+  {
     "title": "What (un)exactly do you mean by semantic search?",
     "link": "https://stackoverflow.blog/2026/05/05/what-un-exactly-do-you-mean-by-semantic-search/",
     "pubDate": "2026-05-05T06:13:46+00:00"
@@ -18,10 +23,5 @@
     "title": "The Worst Coder in the World goes agentic: building a leaderboard cracking AI",
     "link": "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/",
     "pubDate": "2026-04-30T16:00:00+00:00"
-  },
-  {
-    "title": "Turning scattered knowledge into trusted intelligence: Stack Internal 2026.3",
-    "link": "https://stackoverflow.blog/2026/04/28/turn-scattered-knowledge-into-trusted-intelligence/",
-    "pubDate": "2026-04-28T13:00:00+00:00"
   }
 ]
