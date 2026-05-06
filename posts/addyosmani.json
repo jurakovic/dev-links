@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cognitive Surrender",
+    "link": "https://addyosmani.com/blog/cognitive-surrender/",
+    "pubDate": "2026-05-05T00:00:00+00:00"
+  },
+  {
     "title": "Agent Skills",
     "link": "https://addyosmani.com/blog/agent-skills/",
     "pubDate": "2026-05-03T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agentic Engine Optimization (AEO)",
     "link": "https://addyosmani.com/blog/agentic-engine-optimization/",
     "pubDate": "2026-04-11T00:00:00+00:00"
-  },
-  {
-    "title": "Your parallel Agent limit",
-    "link": "https://addyosmani.com/blog/cognitive-parallel-agents/",
-    "pubDate": "2026-04-07T00:00:00+00:00"
   }
 ]

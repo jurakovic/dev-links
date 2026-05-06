@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
+<small>[datasette-referrer-policy 0.1](https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
 <small>[Our AI started a cafe in Stockholm](https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-05 swizec</small>  
@@ -46,8 +49,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
 <small>[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-04 simonwillison</small>  
-<small>[Granite 4.1 3B SVG Pelican Gallery](https://simonwillison.net/2026/May/4/granite-41-3b-svg-pelican-gallery/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-05 addyosmani</small>  
+<small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
+<small>[Philanthrocapitalism](https://third-bit.com/2026/05/05/philanthrocapitalism/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
@@ -81,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-03 addyosmani</small>  
 <small>[Agent Skills](https://addyosmani.com/blog/agent-skills/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-02 third-bit</small>  
-<small>[The Invention of Intellectual Property](https://third-bit.com/2026/05/02/intellectual-property/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-01 visualstudiomagazine</small>  
 <small>[WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers](https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-14 techtrenches</small>  
 <small>[Everyone Wants a Better Team. Nobody Wants to Do Anything About It.](https://techtrenches.dev/p/everyone-wants-a-better-team-nobody)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-14 andrewlock</small>  
-<small>[Running AI agents with customized templates using docker sandbox](https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/)</small>
 
