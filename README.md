@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-06 dotnet</small>  
+<small>[Durable Workflows in the Microsoft Agent Framework](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-06 simonwillison</small>  
+<small>[Live blog: Code w/ Claude 2026](https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-06 simonwillison</small>  
+<small>[Vibe coding and agentic engineering are getting closer than I'd like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
 <small>[datasette-referrer-policy 0.1](https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything)</small>
 
@@ -43,14 +52,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
 <small>[datasette-llm 0.1a7](https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
-<small>[llm-echo 0.5a0](https://simonwillison.net/2026/May/5/llm-echo/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-05 simonwillison</small>  
-<small>[Quoting John Gruber](https://simonwillison.net/2026/May/5/john-gruber/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-05 addyosmani</small>  
 <small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
+<small>[Public Subsidy, Private Profit](https://third-bit.com/2026/05/06/public-subsidy-private-profit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
 <small>[Philanthrocapitalism](https://third-bit.com/2026/05/05/philanthrocapitalism/)</small>
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-04 third-bit</small>  
 <small>[Free Speech and Hate Speech](https://third-bit.com/2026/05/04/free-speech-and-hate-speech/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-03 third-bit</small>  
-<small>[Other Kinds of Firms](https://third-bit.com/2026/05/03/other-kinds-of-firms/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-03 seangoedecke</small>  
 <small>[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/)</small>
@@ -156,9 +159,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 visualstudio</small>  
 <small>[Visual Studio April Update – Cloud Agent Integration](https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 dotnet</small>  
-<small>[Welcome to SkiaSharp 4.0 Preview 1](https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-28 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Gives IntelliSense Priority in Longstanding Copilot Completion Clash](https://visualstudiomagazine.com/articles/2026/04/28/visual-studio-2026-gives-intellisense-priority-over-copilot.aspx)</small>

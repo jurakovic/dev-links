@@ -1,5 +1,15 @@
 [
   {
+    "title": "Live blog: Code w/ Claude 2026",
+    "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
+    "pubDate": "2026-05-06T15:58:27+00:00"
+  },
+  {
+    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+    "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "pubDate": "2026-05-06T14:24:08+00:00"
+  },
+  {
     "title": "datasette-referrer-policy 0.1",
     "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
     "pubDate": "2026-05-05T23:44:27+00:00"
@@ -13,15 +23,5 @@
     "title": "datasette-llm 0.1a7",
     "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
     "pubDate": "2026-05-05T01:56:55+00:00"
-  },
-  {
-    "title": "llm-echo 0.5a0",
-    "link": "https://simonwillison.net/2026/May/5/llm-echo/#atom-everything",
-    "pubDate": "2026-05-05T01:31:54+00:00"
-  },
-  {
-    "title": "Quoting John Gruber",
-    "link": "https://simonwillison.net/2026/May/5/john-gruber/#atom-everything",
-    "pubDate": "2026-05-05T00:46:29+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Durable Workflows in the Microsoft Agent Framework",
+    "link": "https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/",
+    "pubDate": "2026-05-06T17:00:00+00:00"
+  },
+  {
     "title": "Microsoft Agent Framework – Building Blocks for AI Part 3",
     "link": "https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/",
     "pubDate": "2026-05-04T17:06:22+00:00"
@@ -18,10 +23,5 @@
     "title": "VSTest is Removing its Newtonsoft.Json Dependency",
     "link": "https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/",
     "pubDate": "2026-04-29T17:05:00+00:00"
-  },
-  {
-    "title": "Welcome to SkiaSharp 4.0 Preview 1",
-    "link": "https://devblogs.microsoft.com/dotnet/welcome-to-skia-sharp-40-preview1/",
-    "pubDate": "2026-04-28T17:06:00+00:00"
   }
 ]
