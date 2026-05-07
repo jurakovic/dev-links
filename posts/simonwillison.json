@@ -1,5 +1,10 @@
 [
   {
+    "title": "Notes on the xAI/Anthropic data center deal",
+    "link": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
+    "pubDate": "2026-05-07T17:09:28+00:00"
+  },
+  {
     "title": "Live blog: Code w/ Claude 2026",
     "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
     "pubDate": "2026-05-06T15:58:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Our AI started a cafe in Stockholm",
     "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
     "pubDate": "2026-05-05T22:14:21+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a7",
-    "link": "https://simonwillison.net/2026/May/5/datasette-llm/#atom-everything",
-    "pubDate": "2026-05-05T01:56:55+00:00"
   }
 ]

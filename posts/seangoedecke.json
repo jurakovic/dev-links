@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why hasn't longer-horizon training slowed AI progress?",
+    "link": "https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/",
+    "pubDate": "2026-05-07T17:45:47+00:00"
+  },
+  {
     "title": "Why I don't like the \"staff engineer archetypes\"",
     "link": "https://seangoedecke.com/staff-engineer-archetypes/",
     "pubDate": "2026-05-03T10:55:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Many anti-AI arguments are conservative arguments",
     "link": "https://seangoedecke.com/many-anti-ai-arguments-are-conservative/",
     "pubDate": "2026-04-18T05:40:39+00:00"
-  },
-  {
-    "title": "Programming (with AI agents) as theory building",
-    "link": "https://seangoedecke.com/programming-with-ai-agents-as-theory-building/",
-    "pubDate": "2026-04-03T10:40:59+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Copilot Studio gets faster with .NET 10 on WebAssembly",
+    "link": "https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/",
+    "pubDate": "2026-05-07T17:00:00+00:00"
+  },
+  {
     "title": "Durable Workflows in the Microsoft Agent Framework",
     "link": "https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/",
     "pubDate": "2026-05-06T17:00:00+00:00"
@@ -17,11 +22,6 @@
   {
     "title": "Governing MCP tool calls in .NET with the Agent Governance Toolkit",
     "link": "https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/",
-    "pubDate": "2026-04-29T17:05:00+00:00"
-  },
-  {
-    "title": "VSTest is Removing its Newtonsoft.Json Dependency",
-    "link": "https://devblogs.microsoft.com/dotnet/vs-test-is-removing-its-newtonsoft-json-dependency/",
     "pubDate": "2026-04-29T17:05:00+00:00"
   }
 ]
