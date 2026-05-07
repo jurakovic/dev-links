@@ -1,6 +1,6 @@
 [
   {
-    "title": "How we replaced NGINX-Ingress at Stack Overflow",
+    "title": "How we replaced Ingress-NGINX at Stack Overflow",
     "link": "https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/",
     "pubDate": "2026-05-06T18:47:46+00:00"
   },

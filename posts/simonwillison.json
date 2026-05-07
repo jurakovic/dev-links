@@ -1,27 +1,27 @@
 [
   {
+    "title": "llm-gemini 0.31",
+    "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+    "pubDate": "2026-05-07T19:57:06+00:00"
+  },
+  {
+    "title": "Big Words",
+    "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
+    "pubDate": "2026-05-07T18:47:09+00:00"
+  },
+  {
+    "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+    "link": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+    "pubDate": "2026-05-07T17:56:25+00:00"
+  },
+  {
     "title": "Notes on the xAI/Anthropic data center deal",
     "link": "https://simonwillison.net/2026/May/7/xai-anthropic/#atom-everything",
     "pubDate": "2026-05-07T17:09:28+00:00"
   },
   {
-    "title": "Live blog: Code w/ Claude 2026",
-    "link": "https://simonwillison.net/2026/May/6/code-w-claude-2026/#atom-everything",
-    "pubDate": "2026-05-06T15:58:27+00:00"
-  },
-  {
-    "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-    "link": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
-    "pubDate": "2026-05-06T14:24:08+00:00"
-  },
-  {
-    "title": "datasette-referrer-policy 0.1",
-    "link": "https://simonwillison.net/2026/May/5/datasette-referrer-policy/#atom-everything",
-    "pubDate": "2026-05-05T23:44:27+00:00"
-  },
-  {
-    "title": "Our AI started a cafe in Stockholm",
-    "link": "https://simonwillison.net/2026/May/5/our-ai-started-a-cafe-in-stockholm/#atom-everything",
-    "pubDate": "2026-05-05T22:14:21+00:00"
+    "title": "GitHub Repo Stats",
+    "link": "https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything",
+    "pubDate": "2026-05-07T07:25:14+00:00"
   }
 ]
