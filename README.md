@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-07 bencane</small>  
+<small>[YOLO Is a Terrible Strategy for Validating Production Changes](https://bencane.com/posts/2026-05-07/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-06 github-ai</small>  
 <small>[Validating agentic behavior when “correct” isn’t deterministic](https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/)</small>
 
@@ -65,10 +68,13 @@
 <small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
-<small>[Public Subsidy, Private Profit](https://third-bit.com/2026/05/06/public-subsidy-private-profit/)</small>
+<small>[International Tax Avoidance](https://third-bit.com/2026/05/06/tax-avoidance/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
-<small>[Philanthrocapitalism](https://third-bit.com/2026/05/05/philanthrocapitalism/)</small>
+<small>[Algorithmic Criminal Justice](https://third-bit.com/2026/05/06/algorithmic-justice/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
+<small>[Public Subsidy, Private Profit](https://third-bit.com/2026/05/06/public-subsidy-private-profit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
@@ -90,9 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-04 bartwullems</small>  
 <small>[How to use GitHub Copilot Agent Skills in Visual Studio](https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-04 third-bit</small>  
-<small>[Free Speech and Hate Speech](https://third-bit.com/2026/05/04/free-speech-and-hate-speech/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-03 seangoedecke</small>  
 <small>[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-04-14 dbreunig</small>  
 <small>[Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-14 techtrenches</small>  
-<small>[Everyone Wants a Better Team. Nobody Wants to Do Anything About It.](https://techtrenches.dev/p/everyone-wants-a-better-team-nobody)</small>
 
