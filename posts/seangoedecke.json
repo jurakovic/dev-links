@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI makes weak engineers less harmful",
+    "link": "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
+    "pubDate": "2026-05-08T22:53:50+00:00"
+  },
+  {
     "title": "Notes on incidents",
     "link": "https://seangoedecke.com/notes-on-incidents/",
     "pubDate": "2026-05-08T11:12:16+00:00"
@@ -18,10 +23,5 @@
     "title": "Software engineering may no longer be a lifetime career",
     "link": "https://seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
     "pubDate": "2026-04-24T11:05:15+00:00"
-  },
-  {
-    "title": "Luddites and burning down AI datacenters",
-    "link": "https://seangoedecke.com/luddites-and-ai-datacenters/",
-    "pubDate": "2026-04-22T11:02:49+00:00"
   }
 ]
