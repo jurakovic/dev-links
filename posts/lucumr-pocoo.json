@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pushing Local Models With Focus And Polish",
+    "link": "https://lucumr.pocoo.org/2026/5/8/local-models/",
+    "pubDate": "2026-05-08T11:12:20+00:00"
+  },
+  {
     "title": "Content for Content’s Sake",
     "link": "https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/",
     "pubDate": "2026-05-04T17:28:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The Center Has a Bias",
     "link": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
     "pubDate": "2026-04-11T22:30:08+00:00"
-  },
-  {
-    "title": "Mario and Earendil",
-    "link": "https://lucumr.pocoo.org/2026/4/8/mario-and-earendil/",
-    "pubDate": "2026-04-08T10:54:19+00:00"
   }
 ]

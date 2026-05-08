@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-08 lucumr-pocoo</small>  
+<small>[Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-08 seangoedecke</small>  
+<small>[Notes on incidents](https://seangoedecke.com/notes-on-incidents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-08 stackoverflow</small>  
 <small>[AI giveth and AI taketh CPU](https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/)</small>
 
@@ -277,9 +283,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-19 addyosmani</small>  
 <small>[Agent Harness Engineering](https://addyosmani.com/blog/agent-harness-engineering/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-04-18 seangoedecke</small>  
-<small>[Many anti-AI arguments are conservative arguments](https://seangoedecke.com/many-anti-ai-arguments-are-conservative/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-17 ardalis</small>  
 <small>[Optimizing AI Agents with Progressive Disclosure](https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-15 visualstudio</small>  
 <small>[Azure MCP tools now ship built into Visual Studio 2022 — no extension required](https://devblogs.microsoft.com/visualstudio/azure-mcp-tools-now-ship-built-into-visual-studio-2022-no-extension-required/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-15 ardalis</small>  
-<small>[How Software Developers Fail](https://ardalis.com/how-software-developers-fail/)</small>
 
