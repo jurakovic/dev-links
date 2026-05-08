@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-08 stackoverflow</small>  
+<small>[AI giveth and AI taketh CPU](https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-07 github-ai</small>  
+<small>[Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-07 visualstudiomagazine</small>  
 <small>[VS Code 1.119 Adds Agent Browser Sharing, OpenTelemetry Tracing](https://visualstudiomagazine.com/articles/2026/05/07/vs-code-1-119-adds-agent-browser-sharing-opentelemetry-tracing.aspx)</small>
 
@@ -37,6 +43,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-07 bencane</small>  
 <small>[YOLO Is a Terrible Strategy for Validating Production Changes](https://bencane.com/posts/2026-05-07/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-07 third-bit</small>  
+<small>[Eight Hours and After](https://third-bit.com/2026/05/07/eight-hours-and-after/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-06 github-ai</small>  
 <small>[Validating agentic behavior when “correct” isn’t deterministic](https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/)</small>
 
@@ -57,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
 <small>[Moral Panics and the Video Game Debate](https://third-bit.com/2026/05/05/moral-panic/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
-<small>[The Psychology of Building Harmful Things](https://third-bit.com/2026/05/05/harmful-things/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
 <small>[Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)</small>
@@ -147,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-30 github-ai</small>  
 <small>[GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-04-30 stackoverflow</small>  
-<small>[The Worst Coder in the World goes agentic: building a leaderboard cracking AI](https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-30 pragmaticengineer</small>  
 <small>[The Pulse: token spend breaks budgets – what next?](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/)</small>
@@ -279,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-17 ardalis</small>  
 <small>[Optimizing AI Agents with Progressive Disclosure](https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-17 github-ai</small>  
-<small>[Building an emoji list generator with the GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-17 netflix</small>  
 <small>[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4)</small>

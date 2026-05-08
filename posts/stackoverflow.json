@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI giveth and AI taketh CPU",
+    "link": "https://stackoverflow.blog/2026/05/08/ai-giveth-and-ai-taketh-cpu/",
+    "pubDate": "2026-05-08T05:55:36+00:00"
+  },
+  {
     "title": "How we replaced Ingress-NGINX at Stack Overflow",
     "link": "https://stackoverflow.blog/2026/05/06/how-we-replaced-nginx-ingress-at-stack-overflow/",
     "pubDate": "2026-05-06T18:47:46+00:00"
@@ -18,10 +23,5 @@
     "title": "Time is a construct but it can still break your software",
     "link": "https://stackoverflow.blog/2026/05/01/time-is-a-construct-but-it-can-break-your-software/",
     "pubDate": "2026-05-01T07:40:00+00:00"
-  },
-  {
-    "title": "The Worst Coder in the World goes agentic: building a leaderboard cracking AI",
-    "link": "https://stackoverflow.blog/2026/04/30/worst-coder-in-the-world-goes-agentic/",
-    "pubDate": "2026-04-30T16:00:00+00:00"
   }
 ]
