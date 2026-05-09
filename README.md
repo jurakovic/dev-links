@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
+<small>[Land to the Landless](https://third-bit.com/2026/05/09/land-reform/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
+<small>[Cleaning up the Rivers](https://third-bit.com/2026/05/09/cleaning-up-the-rivers/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-09 simonwillison</small>  
 <small>[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything)</small>
 
@@ -73,9 +79,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-07 bartwullems</small>  
 <small>[Getting started with the GitHub Copilot SDK in .NET](https://bartwullems.blogspot.com/2026/05/getting-started-with-github-copilot-sdk.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-07 third-bit</small>  
-<small>[Eight Hours and After](https://third-bit.com/2026/05/07/eight-hours-and-after/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-06 github-ai</small>  
 <small>[Validating agentic behavior when “correct” isn’t deterministic](https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/)</small>
 
@@ -117,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-05 addyosmani</small>  
 <small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-05 third-bit</small>  
-<small>[International Tax Avoidance](https://third-bit.com/2026/05/06/tax-avoidance/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
