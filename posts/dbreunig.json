@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Cost of Overfitting the Harness",
+    "link": "https://www.dbreunig.com/2026/05/10/overfitting-the-harness.html",
+    "pubDate": "2026-05-10T16:26:00+00:00"
+  },
+  {
     "title": "10 Lessons for Agentic Coding",
     "link": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
     "pubDate": "2026-05-05T03:55:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The 2nd Phase of Agentic Development",
     "link": "https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html",
     "pubDate": "2026-04-01T23:26:00+00:00"
-  },
-  {
-    "title": "The Cathedral, the Bazaar, and the Winchester Mystery House",
-    "link": "https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html",
-    "pubDate": "2026-03-27T00:13:00+00:00"
   }
 ]

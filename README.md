@@ -4,14 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
+<small>[Big Tech is Like the Yakuza](https://third-bit.com/2026/05/10/big-tech-yakuza/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
+<small>[Big Tech is Like Multi-Level Marketing](https://third-bit.com/2026/05/10/big-tech-as-mlm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
+<small>[Big Tech is Like Scientology](https://third-bit.com/2026/05/10/big-tech-scientology/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-10 dbreunig</small>  
+<small>[The Cost of Overfitting the Harness](https://www.dbreunig.com/2026/05/10/overfitting-the-harness.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-10 simonwillison</small>  
+<small>[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-10 seangoedecke</small>  
 <small>[The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-10 steven-giesel</small>  
 <small>[BackgroundService exceptions now propagate in .NET 11](https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
-<small>[Cooperatives](https://third-bit.com/2026/05/09/cooperatives/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
 <small>[Land to the Landless](https://third-bit.com/2026/05/09/land-reform/)</small>
@@ -22,9 +34,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-09 simonwillison</small>  
 <small>[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
-<small>[Big Tech is Like Pro Wrestling](https://third-bit.com/2026/05/09/big-tech-as-wrestling/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-08 seangoedecke</small>  
 <small>[AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/)</small>
 
@@ -33,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-08 simonwillison</small>  
 <small>[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-08 third-bit</small>  
-<small>[Taming Tobacco](https://third-bit.com/2026/05/08/taming-tobacco/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-08 stackoverflow</small>  
 <small>[No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/)</small>
@@ -66,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-07 simonwillison</small>  
 <small>[Big Words](https://simonwillison.net/2026/May/7/big-words/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-07 simonwillison</small>  
-<small>[Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-07 seangoedecke</small>  
 <small>[Why hasn't longer-horizon training slowed AI progress?](https://seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-04-16 github-eng</small>  
 <small>[How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-16 visualstudio</small>  
-<small>[From AI to .NET: 20 VS Live! Las Vegas Sessions You Can Watch Now](https://devblogs.microsoft.com/visualstudio/from-ai-to-net-20-vs-live-las-vegas-sessions-you-can-watch-now/)</small>
 
