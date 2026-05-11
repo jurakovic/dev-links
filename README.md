@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-11 third-bit</small>  
+<small>[Ransom as a Business Model](https://third-bit.com/2026/05/11/ransom-as-a-business-model/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-11 damienbod</small>  
 <small>[Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph](https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/)</small>
 
@@ -33,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
 <small>[Land to the Landless](https://third-bit.com/2026/05/09/land-reform/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-09 third-bit</small>  
-<small>[Cleaning up the Rivers](https://third-bit.com/2026/05/09/cleaning-up-the-rivers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-09 simonwillison</small>  
 <small>[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything)</small>
