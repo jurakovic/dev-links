@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting New York Times Editors’ Note",
+    "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
+    "pubDate": "2026-05-10T23:58:49+00:00"
+  },
+  {
     "title": "Quoting Andrew Quinn",
     "link": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
     "pubDate": "2026-05-10T14:59:17+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-gemini 0.31",
     "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
     "pubDate": "2026-05-07T19:57:06+00:00"
-  },
-  {
-    "title": "Big Words",
-    "link": "https://simonwillison.net/2026/May/7/big-words/#atom-everything",
-    "pubDate": "2026-05-07T18:47:09+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph",
+    "link": "https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/",
+    "pubDate": "2026-05-11T06:55:11+00:00"
+  },
+  {
     "title": "Remove sign-up from Entra External ID user flows",
     "link": "https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/",
     "pubDate": "2026-04-20T05:15:03+00:00"
@@ -18,10 +23,5 @@
     "title": "Isolate the swiyu Public Beta management APIs using YARP",
     "link": "https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/",
     "pubDate": "2026-02-09T06:45:22+00:00"
-  },
-  {
-    "title": "Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR",
-    "link": "https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/",
-    "pubDate": "2026-02-02T06:31:34+00:00"
   }
 ]
