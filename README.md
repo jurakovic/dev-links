@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
+<small>[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
+<small>[Your AI Use Is Breaking My Brain](https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
+<small>[Using LLM in the shebang line of a script](https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-11 third-bit</small>  
 <small>[A Note on LLMs](https://third-bit.com/2026/05/11/a-note-on-llms/)</small>
 
@@ -43,26 +52,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-10 dbreunig</small>  
 <small>[The Cost of Overfitting the Harness](https://www.dbreunig.com/2026/05/10/overfitting-the-harness.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-10 simonwillison</small>  
-<small>[Quoting Andrew Quinn](https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-10 seangoedecke</small>  
 <small>[The left-wing case for AI](https://seangoedecke.com/the-left-wing-case-for-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-10 steven-giesel</small>  
 <small>[BackgroundService exceptions now propagate in .NET 11](https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-09 simonwillison</small>  
-<small>[Quoting Luke Curley](https://simonwillison.net/2026/May/9/luke-curley/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-08 seangoedecke</small>  
 <small>[AI makes weak engineers less harmful](https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-08 azure-sql</small>  
 <small>[Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-08 simonwillison</small>  
-<small>[Using Claude Code: The Unreasonable Effectiveness of HTML](https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-08 stackoverflow</small>  
 <small>[No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/)</small>

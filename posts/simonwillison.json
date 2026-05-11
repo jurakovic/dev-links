@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting James Shore",
+    "link": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
+    "pubDate": "2026-05-11T19:48:32+00:00"
+  },
+  {
+    "title": "Your AI Use Is Breaking My Brain",
+    "link": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
+    "pubDate": "2026-05-11T19:21:27+00:00"
+  },
+  {
+    "title": "Using LLM in the shebang line of a script",
+    "link": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
+    "pubDate": "2026-05-11T18:48:57+00:00"
+  },
+  {
     "title": "Learning on the Shop floor",
     "link": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
     "pubDate": "2026-05-11T15:46:36+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting New York Times Editors’ Note",
     "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
     "pubDate": "2026-05-10T23:58:49+00:00"
-  },
-  {
-    "title": "Quoting Andrew Quinn",
-    "link": "https://simonwillison.net/2026/May/10/andrew-quinn/#atom-everything",
-    "pubDate": "2026-05-10T14:59:17+00:00"
-  },
-  {
-    "title": "Quoting Luke Curley",
-    "link": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
-    "pubDate": "2026-05-09T01:03:58+00:00"
-  },
-  {
-    "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
-    "link": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
-    "pubDate": "2026-05-08T21:00:11+00:00"
   }
 ]
