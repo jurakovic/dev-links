@@ -1,5 +1,10 @@
 [
   {
+    "title": "Learning on the Shop floor",
+    "link": "https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything",
+    "pubDate": "2026-05-11T15:46:36+00:00"
+  },
+  {
     "title": "Quoting New York Times Editors’ Note",
     "link": "https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything",
     "pubDate": "2026-05-10T23:58:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Using Claude Code: The Unreasonable Effectiveness of HTML",
     "link": "https://simonwillison.net/2026/May/8/unreasonable-effectiveness-of-html/#atom-everything",
     "pubDate": "2026-05-08T21:00:11+00:00"
-  },
-  {
-    "title": "llm-gemini 0.31",
-    "link": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-    "pubDate": "2026-05-07T19:57:06+00:00"
   }
 ]
