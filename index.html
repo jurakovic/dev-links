@@ -178,7 +178,11 @@
       flex-direction: column;
       gap: 0.05rem;
       margin-bottom: 0.65rem;
+      transition: opacity 0.15s;
     }
+
+    .tool-list li.dimmed { opacity: 0.15; }
+    .group-header.dimmed { opacity: 0.15; transition: opacity 0.15s; }
 
     .tool-list li .row {
       display: flex;
@@ -422,8 +426,9 @@
       });
     }
 
-    function makeLi(tool, showMainTag) {
+    function makeLi(tool, showMainTag, dimmed = false) {
       const li = document.createElement('li');
+      if (dimmed) li.classList.add('dimmed');
 
       const row = document.createElement('div');
       row.className = 'row';
@@ -469,33 +474,27 @@
 
     function renderContent() {
       const content = document.getElementById('content');
+      const isFiltering = selectedTags.size > 0 || searchQuery !== '';
 
-      const filtered = tools.filter(t =>
-        (selectedTags.size === 0 || t.tags.some(tag => selectedTags.has(tag))) &&
-        (searchQuery === '' || t.name.toLowerCase().includes(searchQuery))
+      const matchSet = new Set(
+        tools
+          .filter(t =>
+            (selectedTags.size === 0 || t.tags.some(tag => selectedTags.has(tag))) &&
+            (searchQuery === '' || t.name.toLowerCase().includes(searchQuery))
+          )
+          .map(t => t.name)
       );
 
       const countEl = document.getElementById('resultCount');
-      countEl.textContent = filtered.length === tools.length
+      countEl.textContent = !isFiltering
         ? `${tools.length} tools`
-        : `Showing ${filtered.length} of ${tools.length} tools`;
-
-      if (filtered.length === 0) {
-        content.innerHTML = '<p class="no-results">No tools match the selected filters.</p>';
-        return;
-      }
-
-      const groups = {};
-      filtered.forEach(tool => {
-        if (!groups[tool.main]) groups[tool.main] = [];
-        groups[tool.main].push(tool);
-      });
+        : `Showing ${matchSet.size} of ${tools.length} tools`;
 
       content.innerHTML = '';
 
       if (currentView === 'groups') {
         const groups = {};
-        filtered.forEach(tool => {
+        tools.forEach(tool => {
           if (!groups[tool.main]) groups[tool.main] = [];
           groups[tool.main].push(tool);
         });
@@ -507,14 +506,18 @@
           const group = document.createElement('div');
           group.className = 'group';
 
+          const anyMatch = groups[groupName].some(t => matchSet.has(t.name));
+
           const header = document.createElement('div');
-          header.className = 'group-header';
+          header.className = 'group-header' + (isFiltering && !anyMatch ? ' dimmed' : '');
           header.innerHTML = `${groupName} <span class="group-count">${groups[groupName].length}</span>`;
           group.appendChild(header);
 
           const list = document.createElement('ul');
           list.className = 'tool-list';
-          groups[groupName].forEach(tool => list.appendChild(makeLi(tool, false)));
+          groups[groupName].forEach(tool =>
+            list.appendChild(makeLi(tool, false, isFiltering && !matchSet.has(tool.name)))
+          );
           group.appendChild(list);
           container.appendChild(group);
         });
@@ -526,8 +529,10 @@
 
         const list = document.createElement('ul');
         list.className = 'tool-list';
-        [...filtered].sort((a, b) => a.name.localeCompare(b.name))
-          .forEach(tool => list.appendChild(makeLi(tool, true)));
+        [...tools].sort((a, b) => a.name.localeCompare(b.name))
+          .forEach(tool =>
+            list.appendChild(makeLi(tool, true, isFiltering && !matchSet.has(tool.name)))
+          );
 
         container.appendChild(list);
         content.appendChild(container);
