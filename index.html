@@ -108,10 +108,17 @@
       list-style: none;
       display: flex;
       flex-direction: column;
-      gap: 0.2rem;
+      gap: 0;
     }
 
     .tool-list li {
+      display: flex;
+      flex-direction: column;
+      gap: 0.05rem;
+      margin-bottom: 0.35rem;
+    }
+
+    .tool-list li .row {
       display: flex;
       align-items: baseline;
       gap: 0.35rem;
@@ -128,6 +135,12 @@
     }
 
     .tool-list a:hover { color: #60a5fa; }
+
+    .tool-desc {
+      font-size: 0.72rem;
+      color: #334155;
+      line-height: 1.3;
+    }
 
     .secondary-tags {
       display: flex;
@@ -161,39 +174,39 @@
 
   <script>
     const tools = [
-      { name: "IT Tools",                   url: "https://it-tools.tech/",                                       main: "utilities", tags: ["utilities"] },
-      { name: "CyberChef",                  url: "https://gchq.github.io/CyberChef/",                            main: "utilities", tags: ["utilities", "encoding", "security"] },
-      { name: "Text Compare",               url: "https://text-compare.com/",                                    main: "text",      tags: ["text"] },
-      { name: "StackEdit",                  url: "https://stackedit.io/",                                        main: "text",      tags: ["text", "markdown"] },
-      { name: "ASCII Text Art Converter",   url: "https://textfancy.com/text-art/",                              main: "text",      tags: ["text", "generators"] },
-      { name: "GNU sed live editor",        url: "https://sed.js.org/",                                          main: "text",      tags: ["text", "regex", "cli"] },
-      { name: "GNU grep live editor",       url: "https://grep.js.org/",                                         main: "text",      tags: ["text", "regex", "cli"] },
-      { name: "regex101",                   url: "https://regex101.com/",                                        main: "regex",     tags: ["regex", "text"] },
-      { name: "Glob tester",                url: "https://globster.xyz/",                                        main: "regex",     tags: ["regex"] },
-      { name: "Online JSON Viewer",         url: "http://jsonviewer.stack.hu/",                                  main: "json",      tags: ["json"] },
-      { name: "JSON Online Viewer",         url: "https://json.onlineviewer.net/",                               main: "json",      tags: ["json"] },
-      { name: "JSON Minifier",              url: "https://codebeautify.org/jsonminifier",                        main: "json",      tags: ["json"] },
-      { name: "JSON Path Finder",           url: "https://jsonpathfinder.com/",                                  main: "json",      tags: ["json"] },
-      { name: "jsonpath online evaluator",  url: "https://jsonpath.com/",                                        main: "json",      tags: ["json"] },
-      { name: "jq play",                    url: "https://jqplay.org/",                                          main: "json",      tags: ["json", "cli"] },
-      { name: "XML Online Viewer",          url: "https://xml.onlineviewer.net/",                                main: "xml",       tags: ["xml"] },
-      { name: "Best XML Viewer Online",     url: "https://jsonformatter.org/xml-viewer",                         main: "xml",       tags: ["xml"] },
-      { name: "Base64",                     url: "https://www.base64decode.org/",                                main: "encoding",  tags: ["encoding"] },
-      { name: "Base64 Image Encoder",       url: "https://www.base64-image.de/",                                 main: "encoding",  tags: ["encoding", "image"] },
-      { name: "Base64 to Image",            url: "https://base64.guru/converter/decode/image",                  main: "encoding",  tags: ["encoding", "image"] },
-      { name: "GZip Decompress Online",     url: "https://codebeautify.org/gzip-decompress-online",             main: "encoding",  tags: ["encoding"] },
-      { name: "jwt.io",                     url: "https://jwt.io/",                                              main: "security",  tags: ["security", "encoding"] },
-      { name: "Certificate Decoder",        url: "https://www.sslshopper.com/certificate-decoder.html",         main: "security",  tags: ["security"] },
-      { name: "dbdiagram.io",               url: "https://dbdiagram.io/d",                                       main: "diagrams",  tags: ["diagrams", "database"] },
-      { name: "js-sequence-diagrams",       url: "https://bramp.github.io/js-sequence-diagrams/",               main: "diagrams",  tags: ["diagrams"] },
-      { name: "Textik",                     url: "https://textik.com/#84068a67c55ff41c",                         main: "diagrams",  tags: ["diagrams", "text"] },
-      { name: "Online Stopwatch",           url: "https://www.online-stopwatch.com/",                            main: "time",      tags: ["time"] },
-      { name: "Unix Time Stamp",            url: "https://www.unixtimestamp.com/index.php",                     main: "time",      tags: ["time"] },
-      { name: "Crontab.guru",               url: "https://crontab.guru/",                                       main: "reference", tags: ["reference", "time"] },
-      { name: "Bash-Oneliner",              url: "https://onceupon.github.io/Bash-Oneliner/",                   main: "reference", tags: ["reference", "cli"] },
-      { name: "Free Online GUID Generator", url: "https://www.guidgenerator.com/online-guid-generator.aspx",    main: "generators",tags: ["generators"] },
-      { name: "Groovy - OneCompiler",       url: "https://onecompiler.com/groovy/",                             main: "code",      tags: ["code"] },
-      { name: "Online SVG Code Editor",     url: "https://editsvgcode.com/",                                    main: "image",     tags: ["image", "code"] },
+      { name: "IT Tools",                   url: "https://it-tools.tech/",                                       main: "utilities", tags: ["utilities"],                    desc: "Collection of handy online IT tools" },
+      { name: "CyberChef",                  url: "https://gchq.github.io/CyberChef/",                            main: "utilities", tags: ["utilities", "encoding", "security"], desc: "Swiss army knife for encoding, encryption and analysis" },
+      { name: "Text Compare",               url: "https://text-compare.com/",                                    main: "text",      tags: ["text"],                          desc: "Side-by-side diff of two text blocks" },
+      { name: "StackEdit",                  url: "https://stackedit.io/",                                        main: "text",      tags: ["text", "markdown"],              desc: "In-browser Markdown editor with live preview" },
+      { name: "ASCII Text Art Converter",   url: "https://textfancy.com/text-art/",                              main: "text",      tags: ["text", "generators"],            desc: "Convert text to decorative Unicode/ASCII art fonts" },
+      { name: "GNU sed live editor",        url: "https://sed.js.org/",                                          main: "text",      tags: ["text", "regex", "cli"],          desc: "Test sed substitution commands interactively" },
+      { name: "GNU grep live editor",       url: "https://grep.js.org/",                                         main: "text",      tags: ["text", "regex", "cli"],          desc: "Test grep regex patterns interactively" },
+      { name: "regex101",                   url: "https://regex101.com/",                                        main: "regex",     tags: ["regex", "text"],                 desc: "Build, test and debug regular expressions" },
+      { name: "Glob tester",                url: "https://globster.xyz/",                                        main: "regex",     tags: ["regex"],                         desc: "Test glob patterns against sample file paths" },
+      { name: "Online JSON Viewer",         url: "http://jsonviewer.stack.hu/",                                  main: "json",      tags: ["json"],                          desc: "Format and browse JSON in a tree view" },
+      { name: "JSON Online Viewer",         url: "https://json.onlineviewer.net/",                               main: "json",      tags: ["json"],                          desc: "Format and browse JSON in a tree view" },
+      { name: "JSON Minifier",              url: "https://codebeautify.org/jsonminifier",                        main: "json",      tags: ["json"],                          desc: "Strip whitespace from JSON" },
+      { name: "JSON Path Finder",           url: "https://jsonpathfinder.com/",                                  main: "json",      tags: ["json"],                          desc: "Click through JSON to build JSONPath expressions" },
+      { name: "jsonpath online evaluator",  url: "https://jsonpath.com/",                                        main: "json",      tags: ["json"],                          desc: "Run JSONPath queries against a JSON document" },
+      { name: "jq play",                    url: "https://jqplay.org/",                                          main: "json",      tags: ["json", "cli"],                   desc: "Test jq filters against JSON input in the browser" },
+      { name: "XML Online Viewer",          url: "https://xml.onlineviewer.net/",                                main: "xml",       tags: ["xml"],                           desc: "Format and browse XML in a tree view" },
+      { name: "Best XML Viewer Online",     url: "https://jsonformatter.org/xml-viewer",                         main: "xml",       tags: ["xml"],                           desc: "Format and browse XML with syntax highlighting" },
+      { name: "Base64",                     url: "https://www.base64decode.org/",                                main: "encoding",  tags: ["encoding"],                      desc: "Encode and decode Base64 strings" },
+      { name: "Base64 Image Encoder",       url: "https://www.base64-image.de/",                                 main: "encoding",  tags: ["encoding", "image"],             desc: "Convert an image file to a Base64 data URI" },
+      { name: "Base64 to Image",            url: "https://base64.guru/converter/decode/image",                  main: "encoding",  tags: ["encoding", "image"],             desc: "Decode a Base64 string back to an image" },
+      { name: "GZip Decompress Online",     url: "https://codebeautify.org/gzip-decompress-online",             main: "encoding",  tags: ["encoding"],                      desc: "Decompress GZip-encoded data in the browser" },
+      { name: "jwt.io",                     url: "https://jwt.io/",                                              main: "security",  tags: ["security", "encoding"],          desc: "Decode, verify and generate JSON Web Tokens" },
+      { name: "Certificate Decoder",        url: "https://www.sslshopper.com/certificate-decoder.html",         main: "security",  tags: ["security"],                      desc: "Parse and inspect SSL/TLS certificate details" },
+      { name: "dbdiagram.io",               url: "https://dbdiagram.io/d",                                       main: "diagrams",  tags: ["diagrams", "database"],          desc: "Design database schemas with a simple DSL" },
+      { name: "js-sequence-diagrams",       url: "https://bramp.github.io/js-sequence-diagrams/",               main: "diagrams",  tags: ["diagrams"],                      desc: "Draw sequence diagrams from plain text" },
+      { name: "Textik",                     url: "https://textik.com/#84068a67c55ff41c",                         main: "diagrams",  tags: ["diagrams", "text"],              desc: "ASCII diagram editor for boxes and arrows" },
+      { name: "Online Stopwatch",           url: "https://www.online-stopwatch.com/",                            main: "time",      tags: ["time"],                          desc: "Simple browser-based stopwatch and timer" },
+      { name: "Unix Time Stamp",            url: "https://www.unixtimestamp.com/index.php",                     main: "time",      tags: ["time"],                          desc: "Convert between Unix timestamps and readable dates" },
+      { name: "Crontab.guru",               url: "https://crontab.guru/",                                       main: "reference", tags: ["reference", "time"],             desc: "Visual editor and explainer for cron expressions" },
+      { name: "Bash-Oneliner",              url: "https://onceupon.github.io/Bash-Oneliner/",                   main: "reference", tags: ["reference", "cli"],              desc: "Curated collection of useful Bash one-liners" },
+      { name: "Free Online GUID Generator", url: "https://www.guidgenerator.com/online-guid-generator.aspx",    main: "generators",tags: ["generators"],                    desc: "Generate one or more random GUIDs/UUIDs" },
+      { name: "Groovy - OneCompiler",       url: "https://onecompiler.com/groovy/",                             main: "code",      tags: ["code"],                          desc: "Run Groovy scripts in the browser" },
+      { name: "Online SVG Code Editor",     url: "https://editsvgcode.com/",                                    main: "image",     tags: ["image", "code"],                 desc: "Edit SVG markup with live preview" },
     ];
 
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
@@ -263,13 +276,16 @@
         groups[groupName].forEach(tool => {
           const li = document.createElement('li');
 
+          const row = document.createElement('div');
+          row.className = 'row';
+
           const a = document.createElement('a');
           a.href = tool.url;
           a.target = '_blank';
           a.rel = 'noopener noreferrer';
           a.textContent = tool.name;
           a.title = tool.name;
-          li.appendChild(a);
+          row.appendChild(a);
 
           const secondary = tool.tags.filter(t => t !== tool.main);
           if (secondary.length) {
@@ -281,7 +297,16 @@
               s.textContent = tag;
               tagsEl.appendChild(s);
             });
-            li.appendChild(tagsEl);
+            row.appendChild(tagsEl);
+          }
+
+          li.appendChild(row);
+
+          if (tool.desc) {
+            const desc = document.createElement('span');
+            desc.className = 'tool-desc';
+            desc.textContent = tool.desc;
+            li.appendChild(desc);
           }
 
           list.appendChild(li);
