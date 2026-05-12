@@ -18,9 +18,27 @@
     h1 {
       font-size: 1.25rem;
       font-weight: 600;
-      margin-bottom: 1.25rem;
       color: #f8fafc;
+      margin-bottom: 0.75rem;
     }
+
+    .search-input {
+      display: block;
+      width: 100%;
+      max-width: 320px;
+      margin-bottom: 1rem;
+      padding: 0.3rem 0.75rem;
+      background: #1a1f2e;
+      border: 1px solid #1e2a3a;
+      border-radius: 7px;
+      color: #e2e8f0;
+      font-size: 0.85rem;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    .search-input::placeholder { color: #334155; }
+    .search-input:focus { border-color: #2563eb; }
 
     /* Tag filter */
     .tag-filter {
@@ -137,6 +155,7 @@
 </head>
 <body>
   <h1>Dev Tools</h1>
+  <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
   <div class="tag-filter" id="tagFilter"></div>
   <div class="groups-container" id="content"></div>
 
@@ -179,6 +198,12 @@
 
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
     let selectedTags = new Set();
+    let searchQuery = '';
+
+    document.getElementById('searchInput').addEventListener('input', e => {
+      searchQuery = e.target.value.trim().toLowerCase();
+      renderContent();
+    });
 
     function renderTagFilter() {
       const container = document.getElementById('tagFilter');
@@ -206,9 +231,10 @@
     function renderContent() {
       const content = document.getElementById('content');
 
-      const filtered = selectedTags.size === 0
-        ? tools
-        : tools.filter(t => t.tags.some(tag => selectedTags.has(tag)));
+      const filtered = tools.filter(t =>
+        (selectedTags.size === 0 || t.tags.some(tag => selectedTags.has(tag))) &&
+        (searchQuery === '' || t.name.toLowerCase().includes(searchQuery))
+      );
 
       if (filtered.length === 0) {
         content.innerHTML = '<p class="no-results">No tools match the selected filters.</p>';
