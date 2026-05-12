@@ -93,6 +93,11 @@
 
     .search-input::placeholder { color: var(--text-dim); }
     .search-input:focus { border-color: var(--accent); }
+    .search-input::-webkit-search-cancel-button {
+      cursor: pointer;
+      padding: 0.4rem;
+      margin-left: 0.25rem;
+    }
 
     /* Tag filter */
     .tag-filter {
