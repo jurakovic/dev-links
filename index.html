@@ -158,6 +158,12 @@
       line-height: 1.6;
     }
 
+    .result-count {
+      font-size: 0.72rem;
+      color: #334155;
+      margin-bottom: 1rem;
+    }
+
     .no-results {
       color: #475569;
       font-size: 0.875rem;
@@ -170,6 +176,7 @@
   <h1>Dev Tools</h1>
   <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
   <div class="tag-filter" id="tagFilter"></div>
+  <div class="result-count" id="resultCount"></div>
   <div class="groups-container" id="content"></div>
 
   <script>
@@ -248,6 +255,11 @@
         (selectedTags.size === 0 || t.tags.some(tag => selectedTags.has(tag))) &&
         (searchQuery === '' || t.name.toLowerCase().includes(searchQuery))
       );
+
+      const countEl = document.getElementById('resultCount');
+      countEl.textContent = filtered.length === tools.length
+        ? `${tools.length} tools`
+        : `Showing ${filtered.length} of ${tools.length} tools`;
 
       if (filtered.length === 0) {
         content.innerHTML = '<p class="no-results">No tools match the selected filters.</p>';
