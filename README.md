@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-12 seangoedecke</small>  
+<small>[Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-12 stackoverflow</small>  
+<small>[Connecting the dots for accurate AI](https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
+<small>[Thoughts on GitLab's workforce reduction" and "structural and strategic decisions"](https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
 <small>[Quoting James Shore](https://simonwillison.net/2026/May/11/james-shore/#atom-everything)</small>
 
@@ -37,9 +46,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-11 damienbod</small>  
 <small>[Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph](https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-10 simonwillison</small>  
-<small>[Quoting New York Times Editors’ Note](https://simonwillison.net/2026/May/10/new-york-times-editors-note/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
 <small>[Big Tech is Like the Yakuza](https://third-bit.com/2026/05/10/big-tech-yakuza/)</small>
 
@@ -63,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-08 azure-sql</small>  
 <small>[Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-08 stackoverflow</small>  
-<small>[No Dumb Questions: What is an MCP server and why do I care?](https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-08 netflix</small>  
 <small>[Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss----2615bd06b42e---4)</small>
@@ -156,9 +159,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-04 bartwullems</small>  
 <small>[How to use GitHub Copilot Agent Skills in Visual Studio](https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-03 seangoedecke</small>  
-<small>[Why I don't like the "staff engineer archetypes"](https://seangoedecke.com/staff-engineer-archetypes/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-03 addyosmani</small>  
 <small>[Agent Skills](https://addyosmani.com/blog/agent-skills/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Connecting the dots for accurate AI",
+    "link": "https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/",
+    "pubDate": "2026-05-12T06:34:46+00:00"
+  },
+  {
     "title": "When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection",
     "link": "https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/",
     "pubDate": "2026-05-11T16:25:54+00:00"
@@ -18,10 +23,5 @@
     "title": "Compile-Time Map and Compile-Time Mutable Variable with C++26 Reflection",
     "link": "https://stackoverflow.blog/2026/05/11/compile-time-map-and-compile-time-mutable-variable-with-c-26-reflection/",
     "pubDate": "2026-05-11T13:55:00+00:00"
-  },
-  {
-    "title": "No Dumb Questions: What is an MCP server and why do I care?",
-    "link": "https://stackoverflow.blog/2026/05/08/no-dumb-questions-mcp/",
-    "pubDate": "2026-05-08T16:00:00+00:00"
   }
 ]
