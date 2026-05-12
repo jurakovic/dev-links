@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Spec Kit Takes Off as Antidote to Piecemeal 'Vibe Coding'",
+    "link": "https://visualstudiomagazine.com/articles/2026/05/12/github-spec-kit-takes-off-as-antidote-to-piecemeal-vibe-coding.aspx",
+    "pubDate": "2026-05-12T17:23:00+00:00"
+  },
+  {
     "title": "VS Code 1.119 Adds Agent Browser Sharing, OpenTelemetry Tracing",
     "link": "https://visualstudiomagazine.com/articles/2026/05/07/vs-code-1-119-adds-agent-browser-sharing-opentelemetry-tracing.aspx",
     "pubDate": "2026-05-07T22:12:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code Curbs Token Use Ahead of Copilot's Controversial Usage-Based Billing Switch",
     "link": "https://visualstudiomagazine.com/articles/2026/04/30/vs-code-curbs-token-use-ahead-of-copilots-controversial-usage-based-billing-switch.aspx",
     "pubDate": "2026-04-30T17:08:00+00:00"
-  },
-  {
-    "title": "VS 2026 Joins VS Code with Integrated Cloud Agent: Assign a Task, Close the IDE, Get a PR",
-    "link": "https://visualstudiomagazine.com/articles/2026/04/29/vs-2026-joins-vs-code-with-integrated-cloud-agent-assign-a-task-close-the-ide-get-a-pr.aspx",
-    "pubDate": "2026-04-29T22:20:00+00:00"
   }
 ]

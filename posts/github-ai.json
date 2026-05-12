@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+    "link": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+    "pubDate": "2026-05-12T15:00:00+00:00"
+  },
+  {
     "title": "Improving token efficiency in GitHub Agentic Workflows",
     "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
     "pubDate": "2026-05-07T23:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Register now for OpenClaw: After Hours @ GitHub",
     "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
     "pubDate": "2026-05-04T15:00:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
-    "pubDate": "2026-04-30T16:09:02+00:00"
   }
 ]

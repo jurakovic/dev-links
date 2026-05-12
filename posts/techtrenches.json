@@ -1,5 +1,10 @@
 [
   {
+    "title": "Silicon Valley Eats the War",
+    "link": "https://techtrenches.dev/p/silicon-valley-eats-the-war",
+    "pubDate": "2026-05-12T14:02:04+00:00"
+  },
+  {
     "title": "AI Is a Mirror of Our Engineering Culture",
     "link": "https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering",
     "pubDate": "2026-05-05T14:02:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Everyone Wants a Better Team. Nobody Wants to Do Anything About It.",
     "link": "https://techtrenches.dev/p/everyone-wants-a-better-team-nobody",
     "pubDate": "2026-04-14T14:03:05+00:00"
-  },
-  {
-    "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
-    "link": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
-    "pubDate": "2026-04-07T14:04:04+00:00"
   }
 ]
