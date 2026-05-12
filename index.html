@@ -177,7 +177,7 @@
       display: flex;
       flex-direction: column;
       gap: 0.05rem;
-      margin-bottom: 0.35rem;
+      margin-bottom: 0.65rem;
     }
 
     .tool-list li .row {
@@ -220,6 +220,11 @@
       font-size: 0.72rem;
       color: var(--text-dim);
       line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      min-height: calc(0.72rem * 1.3 * 2);
     }
 
     .secondary-tags {
@@ -278,9 +283,8 @@
       column-gap: 2rem;
     }
 
-    .list-container .tool-list {
+    .list-container .tool-list li {
       break-inside: avoid;
-      margin-bottom: 0;
     }
 
     .no-results {
