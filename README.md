@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-12 third-bit</small>  
+<small>[Behavioral Economics](https://third-bit.com/2026/05/12/behavioral-economics/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-12 andrewlock</small>  
+<small>[Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-12 seangoedecke</small>  
 <small>[Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/)</small>
 
@@ -51,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
 <small>[Big Tech is Like Multi-Level Marketing](https://third-bit.com/2026/05/10/big-tech-as-mlm/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-10 third-bit</small>  
-<small>[Big Tech is Like Scientology](https://third-bit.com/2026/05/10/big-tech-scientology/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-10 dbreunig</small>  
 <small>[The Cost of Overfitting the Harness](https://www.dbreunig.com/2026/05/10/overfitting-the-harness.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-17 ardalis</small>  
 <small>[Optimizing AI Agents with Progressive Disclosure](https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-17 netflix</small>  
-<small>[The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale](https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4)</small>
 
