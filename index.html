@@ -198,6 +198,14 @@
       opacity: 0.85;
     }
 
+    .tool-favicon.invert {
+      filter: invert(1);
+    }
+
+    html[data-theme="light"] .tool-favicon.invert {
+      filter: none;
+    }
+
     .tool-list a:hover { color: var(--link-hover); }
 
     .tool-desc {
@@ -253,8 +261,8 @@
       { name: "Text Compare",               url: "https://text-compare.com/",                                    main: "text",      tags: ["text"],                          desc: "Side-by-side diff of two text blocks" },
       { name: "StackEdit",                  url: "https://stackedit.io/",                                        main: "text",      tags: ["text", "markdown"],              desc: "In-browser Markdown editor with live preview" },
       { name: "ASCII Text Art Converter",   url: "https://textfancy.com/text-art/",                              main: "text",      tags: ["text", "generators"],            desc: "Convert text to decorative Unicode/ASCII art fonts" },
-      { name: "GNU sed live editor",        url: "https://sed.js.org/",                                          main: "text",      tags: ["text", "regex", "cli"],          desc: "Test sed substitution commands interactively" },
-      { name: "GNU grep live editor",       url: "https://grep.js.org/",                                         main: "text",      tags: ["text", "regex", "cli"],          desc: "Test grep regex patterns interactively" },
+      { name: "GNU sed live editor",        url: "https://sed.js.org/",                                          main: "text",      tags: ["text", "regex", "cli"],          desc: "Test sed substitution commands interactively",  invertFavicon: true },
+      { name: "GNU grep live editor",       url: "https://grep.js.org/",                                         main: "text",      tags: ["text", "regex", "cli"],          desc: "Test grep regex patterns interactively",        invertFavicon: true },
       { name: "regex101",                   url: "https://regex101.com/",                                        main: "regex",     tags: ["regex", "text"],                 desc: "Build, test and debug regular expressions" },
       { name: "Glob tester",                url: "https://globster.xyz/",                                        main: "regex",     tags: ["regex"],                         desc: "Test glob patterns against sample file paths" },
       { name: "Online JSON Viewer",         url: "http://jsonviewer.stack.hu/",                                  main: "json",      tags: ["json"],                          desc: "Format and browse JSON in a tree view" },
@@ -262,12 +270,12 @@
       { name: "JSON Minifier",              url: "https://codebeautify.org/jsonminifier",                        main: "json",      tags: ["json"],                          desc: "Strip whitespace from JSON" },
       { name: "JSON Path Finder",           url: "https://jsonpathfinder.com/",                                  main: "json",      tags: ["json"],                          desc: "Click through JSON to build JSONPath expressions" },
       { name: "jsonpath online evaluator",  url: "https://jsonpath.com/",                                        main: "json",      tags: ["json"],                          desc: "Run JSONPath queries against a JSON document" },
-      { name: "jq play",                    url: "https://jqplay.org/",                                          main: "json",      tags: ["json", "cli"],                   desc: "Test jq filters against JSON input in the browser" },
+      { name: "jq play",                    url: "https://jqplay.org/",                                          main: "json",      tags: ["json", "cli"],                   desc: "Test jq filters against JSON input in the browser", invertFavicon: true },
       { name: "XML Online Viewer",          url: "https://xml.onlineviewer.net/",                                main: "xml",       tags: ["xml"],                           desc: "Format and browse XML in a tree view" },
-      { name: "Best XML Viewer Online",     url: "https://jsonformatter.org/xml-viewer",                         main: "xml",       tags: ["xml"],                           desc: "Format and browse XML with syntax highlighting" },
+      { name: "Best XML Viewer Online",     url: "https://jsonformatter.org/xml-viewer",                         main: "xml",       tags: ["xml"],                           desc: "Format and browse XML with syntax highlighting",  invertFavicon: true },
       { name: "Base64",                     url: "https://www.base64decode.org/",                                main: "encoding",  tags: ["encoding"],                      desc: "Encode and decode Base64 strings" },
       { name: "Base64 Image Encoder",       url: "https://www.base64-image.de/",                                 main: "encoding",  tags: ["encoding", "image"],             desc: "Convert an image file to a Base64 data URI" },
-      { name: "Base64 to Image",            url: "https://base64.guru/converter/decode/image",                  main: "encoding",  tags: ["encoding", "image"],             desc: "Decode a Base64 string back to an image" },
+      { name: "Base64 to Image",            url: "https://base64.guru/converter/decode/image",                  main: "encoding",  tags: ["encoding", "image"],             desc: "Decode a Base64 string back to an image",       invertFavicon: true },
       { name: "GZip Decompress Online",     url: "https://codebeautify.org/gzip-decompress-online",             main: "encoding",  tags: ["encoding"],                      desc: "Decompress GZip-encoded data in the browser" },
       { name: "jwt.io",                     url: "https://jwt.io/",                                              main: "security",  tags: ["security", "encoding"],          desc: "Decode, verify and generate JSON Web Tokens" },
       { name: "Certificate Decoder",        url: "https://www.sslshopper.com/certificate-decoder.html",         main: "security",  tags: ["security"],                      desc: "Parse and inspect SSL/TLS certificate details" },
@@ -385,7 +393,7 @@
           a.title = tool.name;
 
           const favicon = document.createElement('img');
-          favicon.className = 'tool-favicon';
+          favicon.className = 'tool-favicon' + (tool.invertFavicon ? ' invert' : '');
           favicon.src = `https://www.google.com/s2/favicons?domain=${new URL(tool.url).hostname}&sz=32`;
           favicon.alt = '';
           a.appendChild(favicon);
