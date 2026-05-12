@@ -7,20 +7,73 @@
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+    html {
+      --bg:               #0f1117;
+      --bg-card:          #1a1f2e;
+      --border:           #1e2a3a;
+      --text:             #e2e8f0;
+      --text-heading:     #f8fafc;
+      --text-muted:       #94a3b8;
+      --text-faint:       #475569;
+      --text-dim:         #334155;
+      --tag-border:       #2d3748;
+      --tag-color:        #64748b;
+      --tag-hover-border: #475569;
+      --tag-hover-color:  #cbd5e1;
+      --accent:           #2563eb;
+      --link-hover:       #60a5fa;
+    }
+
+    html[data-theme="light"] {
+      --bg:               #f8fafc;
+      --bg-card:          #f1f5f9;
+      --border:           #e2e8f0;
+      --text:             #1e293b;
+      --text-heading:     #0f172a;
+      --text-muted:       #475569;
+      --text-faint:       #94a3b8;
+      --text-dim:         #94a3b8;
+      --tag-border:       #cbd5e1;
+      --tag-color:        #64748b;
+      --tag-hover-border: #94a3b8;
+      --tag-hover-color:  #1e293b;
+      --accent:           #2563eb;
+      --link-hover:       #1d4ed8;
+    }
+
     body {
       font-family: system-ui, -apple-system, sans-serif;
-      background: #0f1117;
-      color: #e2e8f0;
+      background: var(--bg);
+      color: var(--text);
       padding: 1.5rem 2rem;
       min-height: 100vh;
+      transition: background 0.2s, color 0.2s;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 0.75rem;
     }
 
     h1 {
       font-size: 1.25rem;
       font-weight: 600;
-      color: #f8fafc;
-      margin-bottom: 0.75rem;
+      color: var(--text-heading);
     }
+
+    .theme-toggle {
+      background: none;
+      border: none;
+      color: var(--text-faint);
+      font-size: 0.78rem;
+      cursor: pointer;
+      padding: 0;
+      transition: color 0.15s;
+    }
+
+    .theme-toggle:hover { color: var(--text); }
 
     .search-input {
       display: block;
@@ -28,17 +81,17 @@
       max-width: 320px;
       margin-bottom: 1rem;
       padding: 0.3rem 0.75rem;
-      background: #1a1f2e;
-      border: 1px solid #1e2a3a;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
       border-radius: 7px;
-      color: #e2e8f0;
+      color: var(--text);
       font-size: 0.85rem;
       outline: none;
       transition: border-color 0.15s;
     }
 
-    .search-input::placeholder { color: #334155; }
-    .search-input:focus { border-color: #2563eb; }
+    .search-input::placeholder { color: var(--text-dim); }
+    .search-input:focus { border-color: var(--accent); }
 
     /* Tag filter */
     .tag-filter {
@@ -48,30 +101,30 @@
       gap: 0.35rem;
       margin-bottom: 1.5rem;
       padding: 0.75rem 1rem;
-      background: #1a1f2e;
+      background: var(--bg-card);
       border-radius: 7px;
-      border: 1px solid #1e2a3a;
+      border: 1px solid var(--border);
     }
 
     .filter-label {
       font-size: 0.7rem;
-      color: #64748b;
+      color: var(--tag-color);
       margin-right: 0.25rem;
     }
 
     .tag-btn {
       padding: 0.15rem 0.6rem;
       border-radius: 9999px;
-      border: 1px solid #2d3748;
+      border: 1px solid var(--tag-border);
       background: transparent;
-      color: #64748b;
+      color: var(--tag-color);
       font-size: 0.68rem;
       cursor: pointer;
       transition: all 0.15s;
     }
 
-    .tag-btn:hover { border-color: #475569; color: #cbd5e1; }
-    .tag-btn.active { background: #2563eb; border-color: #2563eb; color: #fff; }
+    .tag-btn:hover { border-color: var(--tag-hover-border); color: var(--tag-hover-color); }
+    .tag-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
     /* Newspaper-style columns layout */
     .groups-container {
@@ -89,10 +142,10 @@
       font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.08em;
-      color: #475569;
+      color: var(--text-faint);
       margin-bottom: 0.5rem;
       padding-bottom: 0.35rem;
-      border-bottom: 1px solid #1a1f2e;
+      border-bottom: 1px solid var(--border);
       display: flex;
       align-items: center;
       gap: 0.4rem;
@@ -100,7 +153,7 @@
 
     .group-count {
       font-weight: 400;
-      color: #334155;
+      color: var(--text-dim);
     }
 
     /* Tool list */
@@ -128,7 +181,7 @@
       display: flex;
       align-items: center;
       gap: 0.4rem;
-      color: #94a3b8;
+      color: var(--text-muted);
       text-decoration: none;
       font-size: 1.2rem;
       transition: color 0.12s;
@@ -144,11 +197,11 @@
       opacity: 0.85;
     }
 
-    .tool-list a:hover { color: #60a5fa; }
+    .tool-list a:hover { color: var(--link-hover); }
 
     .tool-desc {
       font-size: 0.72rem;
-      color: #334155;
+      color: var(--text-dim);
       line-height: 1.3;
     }
 
@@ -160,9 +213,9 @@
 
     .stag {
       font-size: 0.58rem;
-      color: #334155;
-      background: #1a1f2e;
-      border: 1px solid #1e2a3a;
+      color: var(--text-dim);
+      background: var(--bg-card);
+      border: 1px solid var(--border);
       border-radius: 9999px;
       padding: 0 0.35rem;
       line-height: 1.6;
@@ -170,12 +223,12 @@
 
     .result-count {
       font-size: 0.72rem;
-      color: #334155;
+      color: var(--text-dim);
       margin-bottom: 1rem;
     }
 
     .no-results {
-      color: #475569;
+      color: var(--text-faint);
       font-size: 0.875rem;
       padding: 3rem 0;
       text-align: center;
@@ -183,7 +236,10 @@
   </style>
 </head>
 <body>
-  <h1>Dev Tools</h1>
+  <div class="topbar">
+    <h1>Dev Tools</h1>
+    <button class="theme-toggle" id="themeToggle">Light</button>
+  </div>
   <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
   <div class="tag-filter" id="tagFilter"></div>
   <div class="result-count" id="resultCount"></div>
@@ -229,6 +285,26 @@
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
     let selectedTags = new Set();
     let searchQuery = '';
+
+    const themeToggle = document.getElementById('themeToggle');
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    if (savedTheme === 'light') applyTheme('light');
+
+    themeToggle.addEventListener('click', () => {
+      const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+      applyTheme(next);
+      localStorage.setItem('theme', next);
+    });
+
+    function applyTheme(theme) {
+      if (theme === 'light') {
+        document.documentElement.dataset.theme = 'light';
+        themeToggle.textContent = 'Dark';
+      } else {
+        delete document.documentElement.dataset.theme;
+        themeToggle.textContent = 'Light';
+      }
+    }
 
     document.getElementById('searchInput').addEventListener('input', e => {
       searchQuery = e.target.value.trim().toLowerCase();
