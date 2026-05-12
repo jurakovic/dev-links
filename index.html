@@ -238,10 +238,49 @@
       line-height: 1.6;
     }
 
+    .view-controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+    }
+
     .result-count {
       font-size: 0.72rem;
       color: var(--text-dim);
-      margin-bottom: 1rem;
+    }
+
+    .view-toggle {
+      display: flex;
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      overflow: hidden;
+    }
+
+    .view-btn {
+      min-width: 3.5rem;
+      text-align: center;
+      padding: 0.15rem 0.55rem;
+      border: none;
+      background: transparent;
+      color: var(--tag-color);
+      font-size: 0.68rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .view-btn + .view-btn { border-left: 1px solid var(--border); }
+    .view-btn.active { background: var(--bg-card); color: var(--text); }
+    .view-btn:hover:not(.active) { color: var(--tag-hover-color); }
+
+    .list-container {
+      columns: 300px;
+      column-gap: 2rem;
+    }
+
+    .list-container .tool-list {
+      break-inside: avoid;
+      margin-bottom: 0;
     }
 
     .no-results {
@@ -259,8 +298,14 @@
   </div>
   <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
   <div class="tag-filter" id="tagFilter"></div>
-  <div class="result-count" id="resultCount"></div>
-  <div class="groups-container" id="content"></div>
+  <div class="view-controls">
+    <span class="result-count" id="resultCount"></span>
+    <div class="view-toggle">
+      <button class="view-btn active" id="viewGroups">Grouped</button>
+      <button class="view-btn" id="viewList">All</button>
+    </div>
+  </div>
+  <div id="content"></div>
 
   <script>
     const tools = [
@@ -308,6 +353,22 @@
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
     let selectedTags = new Set();
     let searchQuery = '';
+    let currentView = localStorage.getItem('view') || 'groups';
+
+    const viewGroups = document.getElementById('viewGroups');
+    const viewList   = document.getElementById('viewList');
+
+    function setView(v) {
+      currentView = v;
+      localStorage.setItem('view', v);
+      viewGroups.classList.toggle('active', v === 'groups');
+      viewList.classList.toggle('active', v === 'list');
+      renderContent();
+    }
+
+    viewGroups.addEventListener('click', () => setView('groups'));
+    viewList.addEventListener('click',   () => setView('list'));
+    if (currentView === 'list') setView('list');
 
     const themeToggle = document.getElementById('themeToggle');
     const savedTheme = localStorage.getItem('theme') || 'dark';
@@ -357,6 +418,51 @@
       });
     }
 
+    function makeLi(tool, showMainTag) {
+      const li = document.createElement('li');
+
+      const row = document.createElement('div');
+      row.className = 'row';
+
+      const a = document.createElement('a');
+      a.href = tool.url;
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      a.title = tool.name;
+
+      const favicon = document.createElement('img');
+      favicon.className = 'tool-favicon' + (tool.invertFavicon ? ' invert' : '');
+      favicon.src = tool.favicon ?? `https://www.google.com/s2/favicons?domain=${new URL(tool.url).hostname}&sz=32`;
+      favicon.alt = '';
+      a.appendChild(favicon);
+      a.appendChild(document.createTextNode(tool.name));
+      row.appendChild(a);
+
+      const secondaryTags = showMainTag ? tool.tags : tool.tags.filter(t => t !== tool.main);
+      if (secondaryTags.length) {
+        const tagsEl = document.createElement('span');
+        tagsEl.className = 'secondary-tags';
+        secondaryTags.forEach(tag => {
+          const s = document.createElement('span');
+          s.className = 'stag';
+          s.textContent = tag;
+          tagsEl.appendChild(s);
+        });
+        row.appendChild(tagsEl);
+      }
+
+      li.appendChild(row);
+
+      if (tool.desc) {
+        const desc = document.createElement('span');
+        desc.className = 'tool-desc';
+        desc.textContent = tool.desc;
+        li.appendChild(desc);
+      }
+
+      return li;
+    }
+
     function renderContent() {
       const content = document.getElementById('content');
 
@@ -382,67 +488,46 @@
       });
 
       content.innerHTML = '';
-      Object.keys(groups).sort().forEach(groupName => {
-        const group = document.createElement('div');
-        group.className = 'group';
 
-        const header = document.createElement('div');
-        header.className = 'group-header';
-        header.innerHTML = `${groupName} <span class="group-count">${groups[groupName].length}</span>`;
-        group.appendChild(header);
+      if (currentView === 'groups') {
+        const groups = {};
+        filtered.forEach(tool => {
+          if (!groups[tool.main]) groups[tool.main] = [];
+          groups[tool.main].push(tool);
+        });
+
+        const container = document.createElement('div');
+        container.className = 'groups-container';
+
+        Object.keys(groups).sort().forEach(groupName => {
+          const group = document.createElement('div');
+          group.className = 'group';
+
+          const header = document.createElement('div');
+          header.className = 'group-header';
+          header.innerHTML = `${groupName} <span class="group-count">${groups[groupName].length}</span>`;
+          group.appendChild(header);
+
+          const list = document.createElement('ul');
+          list.className = 'tool-list';
+          groups[groupName].forEach(tool => list.appendChild(makeLi(tool, false)));
+          group.appendChild(list);
+          container.appendChild(group);
+        });
+
+        content.appendChild(container);
+      } else {
+        const container = document.createElement('div');
+        container.className = 'list-container';
 
         const list = document.createElement('ul');
         list.className = 'tool-list';
+        [...filtered].sort((a, b) => a.name.localeCompare(b.name))
+          .forEach(tool => list.appendChild(makeLi(tool, true)));
 
-        groups[groupName].forEach(tool => {
-          const li = document.createElement('li');
-
-          const row = document.createElement('div');
-          row.className = 'row';
-
-          const a = document.createElement('a');
-          a.href = tool.url;
-          a.target = '_blank';
-          a.rel = 'noopener noreferrer';
-          a.title = tool.name;
-
-          const favicon = document.createElement('img');
-          favicon.className = 'tool-favicon' + (tool.invertFavicon ? ' invert' : '');
-          favicon.src = tool.favicon ?? `https://www.google.com/s2/favicons?domain=${new URL(tool.url).hostname}&sz=32`;
-          favicon.alt = '';
-          a.appendChild(favicon);
-          a.appendChild(document.createTextNode(tool.name));
-
-          row.appendChild(a);
-
-          const secondary = tool.tags.filter(t => t !== tool.main);
-          if (secondary.length) {
-            const tagsEl = document.createElement('span');
-            tagsEl.className = 'secondary-tags';
-            secondary.forEach(tag => {
-              const s = document.createElement('span');
-              s.className = 'stag';
-              s.textContent = tag;
-              tagsEl.appendChild(s);
-            });
-            row.appendChild(tagsEl);
-          }
-
-          li.appendChild(row);
-
-          if (tool.desc) {
-            const desc = document.createElement('span');
-            desc.className = 'tool-desc';
-            desc.textContent = tool.desc;
-            li.appendChild(desc);
-          }
-
-          list.appendChild(li);
-        });
-
-        group.appendChild(list);
-        content.appendChild(group);
-      });
+        container.appendChild(list);
+        content.appendChild(container);
+      }
     }
 
     function render() {
