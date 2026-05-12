@@ -309,8 +309,8 @@
   <div class="view-controls">
     <span class="result-count" id="resultCount"></span>
     <div class="view-toggle">
-      <button class="view-btn active" id="viewGroups">Grouped</button>
-      <button class="view-btn" id="viewList">All</button>
+      <button class="view-btn active" id="viewList">All</button>
+      <button class="view-btn" id="viewGroups">Grouped</button>
     </div>
   </div>
   <div id="content"></div>
@@ -361,14 +361,21 @@
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
     let selectedTags = new Set();
     let searchQuery = '';
-    let currentView = localStorage.getItem('view') || 'groups';
-
     const viewGroups = document.getElementById('viewGroups');
     const viewList   = document.getElementById('viewList');
 
+    function getViewFromUrl() {
+      return new URLSearchParams(location.search).get('view') === 'grouped' ? 'groups' : 'list';
+    }
+
+    let currentView = getViewFromUrl();
+
     function setView(v) {
       currentView = v;
-      localStorage.setItem('view', v);
+      const params = new URLSearchParams(location.search);
+      if (v === 'groups') params.set('view', 'grouped');
+      else params.delete('view');
+      history.replaceState(null, '', params.size ? '?' + params : location.pathname);
       viewGroups.classList.toggle('active', v === 'groups');
       viewList.classList.toggle('active', v === 'list');
       renderContent();
@@ -376,7 +383,7 @@
 
     viewGroups.addEventListener('click', () => setView('groups'));
     viewList.addEventListener('click',   () => setView('list'));
-    if (currentView === 'list') setView('list');
+    setView(currentView);
 
     const themeToggle = document.getElementById('themeToggle');
     const savedTheme = localStorage.getItem('theme') || 'dark';
