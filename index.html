@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dev Tools</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      background: #0f1117;
+      color: #e2e8f0;
+      padding: 2rem;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin-bottom: 1.5rem;
+      color: #f8fafc;
+    }
+
+    .tag-filter {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.4rem;
+      margin-bottom: 2rem;
+      padding: 0.875rem 1rem;
+      background: #1a1f2e;
+      border-radius: 8px;
+      border: 1px solid #1e2a3a;
+    }
+
+    .filter-label {
+      font-size: 0.75rem;
+      color: #64748b;
+      margin-right: 0.25rem;
+    }
+
+    .tag-btn {
+      padding: 0.2rem 0.65rem;
+      border-radius: 9999px;
+      border: 1px solid #2d3748;
+      background: transparent;
+      color: #64748b;
+      font-size: 0.72rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+
+    .tag-btn:hover { border-color: #475569; color: #cbd5e1; }
+    .tag-btn.active { background: #2563eb; border-color: #2563eb; color: #fff; }
+
+    .group { margin-bottom: 2rem; }
+
+    .group-header {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #475569;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #1a1f2e;
+    }
+
+    .tools-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+      gap: 0.625rem;
+    }
+
+    .tool-card {
+      background: #1a1f2e;
+      border: 1px solid #1e2a3a;
+      border-radius: 7px;
+      padding: 0.75rem 0.875rem;
+      transition: border-color 0.15s;
+    }
+
+    .tool-card:hover { border-color: #2563eb; }
+
+    .tool-card a {
+      color: #cbd5e1;
+      text-decoration: none;
+      font-size: 0.875rem;
+      font-weight: 500;
+      display: block;
+      margin-bottom: 0.5rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .tool-card a:hover { color: #60a5fa; }
+
+    .tool-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+    }
+
+    .tool-tag {
+      padding: 0.1rem 0.45rem;
+      border-radius: 9999px;
+      font-size: 0.62rem;
+      background: #1e2a3a;
+      color: #64748b;
+    }
+
+    .tool-tag.main {
+      background: #1e3a5f;
+      color: #3b82f6;
+    }
+
+    .no-results {
+      color: #475569;
+      font-size: 0.875rem;
+      padding: 3rem 0;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Dev Tools</h1>
+  <div class="tag-filter" id="tagFilter"></div>
+  <div id="content"></div>
+
+  <script>
+    const tools = [
+      { name: "IT Tools",                  url: "https://it-tools.tech/",                                        main: "utilities", tags: ["utilities"] },
+      { name: "CyberChef",                 url: "https://gchq.github.io/CyberChef/",                             main: "utilities", tags: ["utilities", "encoding", "security"] },
+      { name: "Text Compare",              url: "https://text-compare.com/",                                     main: "text",      tags: ["text"] },
+      { name: "StackEdit",                 url: "https://stackedit.io/",                                         main: "text",      tags: ["text", "markdown"] },
+      { name: "ASCII Text Art Converter",  url: "https://textfancy.com/text-art/",                               main: "text",      tags: ["text", "generators"] },
+      { name: "GNU sed live editor",       url: "https://sed.js.org/",                                           main: "text",      tags: ["text", "regex", "cli"] },
+      { name: "GNU grep live editor",      url: "https://grep.js.org/",                                          main: "text",      tags: ["text", "regex", "cli"] },
+      { name: "regex101",                  url: "https://regex101.com/",                                         main: "regex",     tags: ["regex", "text"] },
+      { name: "Glob tester",               url: "https://globster.xyz/",                                         main: "regex",     tags: ["regex"] },
+      { name: "Online JSON Viewer",        url: "http://jsonviewer.stack.hu/",                                   main: "json",      tags: ["json"] },
+      { name: "JSON Online Viewer",        url: "https://json.onlineviewer.net/",                                main: "json",      tags: ["json"] },
+      { name: "JSON Minifier",             url: "https://codebeautify.org/jsonminifier",                         main: "json",      tags: ["json"] },
+      { name: "JSON Path Finder",          url: "https://jsonpathfinder.com/",                                   main: "json",      tags: ["json"] },
+      { name: "jsonpath online evaluator", url: "https://jsonpath.com/",                                         main: "json",      tags: ["json"] },
+      { name: "jq play",                   url: "https://jqplay.org/",                                           main: "json",      tags: ["json", "cli"] },
+      { name: "XML Online Viewer",         url: "https://xml.onlineviewer.net/",                                 main: "xml",       tags: ["xml"] },
+      { name: "Best XML Viewer Online",    url: "https://jsonformatter.org/xml-viewer",                          main: "xml",       tags: ["xml"] },
+      { name: "Base64",                    url: "https://www.base64decode.org/",                                 main: "encoding",  tags: ["encoding"] },
+      { name: "Base64 Image Encoder",      url: "https://www.base64-image.de/",                                  main: "encoding",  tags: ["encoding", "image"] },
+      { name: "Base64 to Image",           url: "https://base64.guru/converter/decode/image",                   main: "encoding",  tags: ["encoding", "image"] },
+      { name: "GZip Decompress Online",    url: "https://codebeautify.org/gzip-decompress-online",              main: "encoding",  tags: ["encoding"] },
+      { name: "jwt.io",                    url: "https://jwt.io/",                                               main: "security",  tags: ["security", "encoding"] },
+      { name: "Certificate Decoder",       url: "https://www.sslshopper.com/certificate-decoder.html",          main: "security",  tags: ["security"] },
+      { name: "dbdiagram.io",              url: "https://dbdiagram.io/d",                                        main: "diagrams",  tags: ["diagrams", "database"] },
+      { name: "js-sequence-diagrams",      url: "https://bramp.github.io/js-sequence-diagrams/",                main: "diagrams",  tags: ["diagrams"] },
+      { name: "Textik",                    url: "https://textik.com/#84068a67c55ff41c",                          main: "diagrams",  tags: ["diagrams", "text"] },
+      { name: "Online Stopwatch",          url: "https://www.online-stopwatch.com/",                             main: "time",      tags: ["time"] },
+      { name: "Unix Time Stamp",           url: "https://www.unixtimestamp.com/index.php",                      main: "time",      tags: ["time"] },
+      { name: "Crontab.guru",              url: "https://crontab.guru/",                                        main: "reference", tags: ["reference", "time"] },
+      { name: "Bash-Oneliner",             url: "https://onceupon.github.io/Bash-Oneliner/",                    main: "reference", tags: ["reference", "cli"] },
+      { name: "Free Online GUID Generator",url: "https://www.guidgenerator.com/online-guid-generator.aspx",     main: "generators",tags: ["generators"] },
+      { name: "Groovy - OneCompiler",      url: "https://onecompiler.com/groovy/",                              main: "code",      tags: ["code"] },
+      { name: "Online SVG Code Editor",    url: "https://editsvgcode.com/",                                     main: "image",     tags: ["image", "code"] },
+    ];
+
+    const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
+    let selectedTags = new Set();
+
+    function renderTagFilter() {
+      const container = document.getElementById('tagFilter');
+      container.innerHTML = '<span class="filter-label">Filter:</span>';
+
+      const allBtn = document.createElement('button');
+      allBtn.className = 'tag-btn' + (selectedTags.size === 0 ? ' active' : '');
+      allBtn.textContent = 'All';
+      allBtn.onclick = () => { selectedTags.clear(); render(); };
+      container.appendChild(allBtn);
+
+      allTags.forEach(tag => {
+        const btn = document.createElement('button');
+        btn.className = 'tag-btn' + (selectedTags.has(tag) ? ' active' : '');
+        btn.textContent = tag;
+        btn.onclick = () => {
+          if (selectedTags.has(tag)) selectedTags.delete(tag);
+          else selectedTags.add(tag);
+          render();
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function renderContent() {
+      const content = document.getElementById('content');
+
+      const filtered = selectedTags.size === 0
+        ? tools
+        : tools.filter(t => t.tags.some(tag => selectedTags.has(tag)));
+
+      if (filtered.length === 0) {
+        content.innerHTML = '<p class="no-results">No tools match the selected filters.</p>';
+        return;
+      }
+
+      const groups = {};
+      filtered.forEach(tool => {
+        if (!groups[tool.main]) groups[tool.main] = [];
+        groups[tool.main].push(tool);
+      });
+
+      content.innerHTML = '';
+      Object.keys(groups).sort().forEach(groupName => {
+        const group = document.createElement('div');
+        group.className = 'group';
+
+        const header = document.createElement('div');
+        header.className = 'group-header';
+        header.textContent = groupName;
+        group.appendChild(header);
+
+        const grid = document.createElement('div');
+        grid.className = 'tools-grid';
+
+        groups[groupName].forEach(tool => {
+          const card = document.createElement('div');
+          card.className = 'tool-card';
+
+          const link = document.createElement('a');
+          link.href = tool.url;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+          link.textContent = tool.name;
+          card.appendChild(link);
+
+          const tagsEl = document.createElement('div');
+          tagsEl.className = 'tool-tags';
+
+          [tool.main, ...tool.tags.filter(t => t !== tool.main)].forEach(tag => {
+            const tagEl = document.createElement('span');
+            tagEl.className = 'tool-tag' + (tag === tool.main ? ' main' : '');
+            tagEl.textContent = tag;
+            tagsEl.appendChild(tagEl);
+          });
+
+          card.appendChild(tagsEl);
+          grid.appendChild(card);
+        });
+
+        group.appendChild(grid);
+        content.appendChild(group);
+      });
+    }
+
+    function render() {
+      renderTagFilter();
+      renderContent();
+    }
+
+    render();
+  </script>
+</body>
+</html>
