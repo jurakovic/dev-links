@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET 11 Preview 4 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/",
+    "pubDate": "2026-05-12T22:25:49+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework May 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/",
+    "pubDate": "2026-05-12T18:36:00+00:00"
+  },
+  {
     "title": "Copilot Studio gets faster with .NET 10 on WebAssembly",
     "link": "https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/",
     "pubDate": "2026-05-07T17:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Microsoft Agent Framework – Building Blocks for AI Part 3",
     "link": "https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/",
     "pubDate": "2026-05-04T17:06:22+00:00"
-  },
-  {
-    "title": "Building an AI-Powered Conference App with .NET’s Composable AI Stack",
-    "link": "https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/",
-    "pubDate": "2026-04-30T17:05:00+00:00"
-  },
-  {
-    "title": "Governing MCP tool calls in .NET with the Agent Governance Toolkit",
-    "link": "https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/",
-    "pubDate": "2026-04-29T17:05:00+00:00"
   }
 ]

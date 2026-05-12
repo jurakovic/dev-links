@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-12 dotnet</small>  
+<small>[.NET 11 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-12 simonwillison</small>  
+<small>[Quoting Mitchell Hashimoto](https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-12 dotnet</small>  
+<small>[.NET and .NET Framework May 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-12 third-bit</small>  
 <small>[Keeping Up With Everybody](https://third-bit.com/2026/05/12/social-standing/)</small>
 
@@ -57,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-11 stackoverflow</small>  
 <small>[OAuth 2.0 – Device flow explained for Engineers, especially for Backend Engineers](https://stackoverflow.blog/2026/05/11/oauth-2-0-device-flow-explained-for-engineers-especially-for-backend-engineers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-11 simonwillison</small>  
-<small>[Learning on the Shop floor](https://simonwillison.net/2026/May/11/learning-on-the-shop-floor/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-11 stackoverflow</small>  
 <small>[Introducing the Heap, the software engineering blog for everyone](https://stackoverflow.blog/2026/05/11/introducing-the-heap-the-software-engineering-blog-for-everyone/)</small>
@@ -196,9 +202,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-04-30 visualstudiomagazine</small>  
 <small>[VS Code Curbs Token Use Ahead of Copilot's Controversial Usage-Based Billing Switch](https://visualstudiomagazine.com/articles/2026/04/30/vs-code-curbs-token-use-ahead-of-copilots-controversial-usage-based-billing-switch.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-30 dotnet</small>  
-<small>[Building an AI-Powered Conference App with .NET’s Composable AI Stack](https://devblogs.microsoft.com/dotnet/building-ai-conference-app-dotnet-composable-stack/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-30 pragmaticengineer</small>  
 <small>[The Pulse: token spend breaks budgets – what next?](https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/)</small>
 
@@ -210,9 +213,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-04-29 developertoarchitect</small>  
 <small>[Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)](http://www.developertoarchitect.com/lessons/lesson219.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 dotnet</small>  
-<small>[Governing MCP tool calls in .NET with the Agent Governance Toolkit](https://devblogs.microsoft.com/dotnet/governing-mcp-tool-calls-in-dotnet-with-the-agent-governance-toolkit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 visualstudio</small>  
 <small>[SDK-Style Support for Extension Projects](https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/)</small>
