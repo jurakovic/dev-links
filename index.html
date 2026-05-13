@@ -458,6 +458,7 @@
 
     function makeLi(tool, showMainTag, dimmed = false) {
       const li = document.createElement('li');
+      li.dataset.tool = tool.name;
       if (dimmed) li.classList.add('dimmed');
 
       const row = document.createElement('div');
@@ -518,6 +519,26 @@
         ? `${tools.length} tools`
         : `Showing ${matchSet.size} of ${tools.length} tools`;
 
+      // Dim mode keeps every <li> in the DOM; only .dimmed flips between filter changes.
+      // Skip the rebuild so favicon <img>s aren't recreated (which causes a visible flicker on each keystroke).
+      if (filterMode === 'dim'
+          && content.dataset.renderedView === currentView
+          && content.dataset.renderedMode === 'dim') {
+        content.querySelectorAll('li[data-tool]').forEach(li => {
+          li.classList.toggle('dimmed', isFiltering && !matchSet.has(li.dataset.tool));
+        });
+        if (currentView === 'groups') {
+          content.querySelectorAll('.group[data-group]').forEach(groupEl => {
+            const anyMatch = [...groupEl.querySelectorAll('li[data-tool]')]
+              .some(li => matchSet.has(li.dataset.tool));
+            groupEl.querySelector('.group-header').classList.toggle('dimmed', isFiltering && !anyMatch);
+          });
+        }
+        return;
+      }
+
+      content.dataset.renderedView = currentView;
+      content.dataset.renderedMode = filterMode;
       content.innerHTML = '';
 
       if (currentView === 'groups') {
@@ -536,6 +557,7 @@
 
           const group = document.createElement('div');
           group.className = 'group';
+          group.dataset.group = groupName;
 
           const header = document.createElement('div');
           header.className = 'group-header' + (filterMode === 'dim' && isFiltering && !anyMatch ? ' dimmed' : '');
