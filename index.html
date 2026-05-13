@@ -8,7 +8,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="https://jurakovic.github.io/img/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="https://jurakovic.github.io/img/favicon-16x16.png">
   <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; transition: background-color 0.2s, color 0.2s, border-color 0.2s; }
     button, input { font-family: inherit; }
 
     html { color-scheme: dark; }
@@ -88,7 +88,7 @@
       color: var(--text);
       font-size: 0.85rem;
       outline: none;
-      transition: border-color 0.15s;
+      transition: border-color 0.15s, background-color 0.2s, color 0.2s;
     }
 
     .search-input::placeholder { color: var(--text-dim); }
@@ -205,6 +205,7 @@
       height: 16px;
       flex-shrink: 0;
       opacity: 0.85;
+      transition: filter 0.2s;
     }
 
     .tool-favicon.invert {
