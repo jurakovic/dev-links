@@ -11,57 +11,28 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     button, input { font-family: inherit; }
 
-    html {
-      --bg:               #0f1117;
-      --bg-card:          #1a1f2e;
-      --border:           #1e2a3a;
-      --text:             #e2e8f0;
-      --text-heading:     #f8fafc;
-      --text-muted:       #94a3b8;
-      --text-faint:       #475569;
-      --text-dim:         #334155;
-      --tag-border:       #2d3748;
-      --tag-color:        #64748b;
-      --tag-hover-border: #475569;
-      --tag-hover-color:  #cbd5e1;
-      --accent:           #2563eb;
-      --link-hover:       #60a5fa;
-    }
-
-    html[data-theme="light"] {
-      --bg:               #f8fafc;
-      --bg-card:          #f1f5f9;
-      --border:           #e2e8f0;
-      --text:             #1e293b;
-      --text-heading:     #0f172a;
-      --text-muted:       #475569;
-      --text-faint:       #94a3b8;
-      --text-dim:         #94a3b8;
-      --tag-border:       #cbd5e1;
-      --tag-color:        #64748b;
-      --tag-hover-border: #94a3b8;
-      --tag-hover-color:  #1e293b;
-      --accent:           #2563eb;
-      --link-hover:       #1d4ed8;
-    }
-
+    html { color-scheme: dark; }
+    html[data-theme="light"] { color-scheme: light; }
     @media (prefers-color-scheme: light) {
-      html:not([data-theme="dark"]) {
-        --bg:               #f8fafc;
-        --bg-card:          #f1f5f9;
-        --border:           #e2e8f0;
-        --text:             #1e293b;
-        --text-heading:     #0f172a;
-        --text-muted:       #475569;
-        --text-faint:       #94a3b8;
-        --text-dim:         #94a3b8;
-        --tag-border:       #cbd5e1;
-        --tag-color:        #64748b;
-        --tag-hover-border: #94a3b8;
-        --tag-hover-color:  #1e293b;
-        --accent:           #2563eb;
-        --link-hover:       #1d4ed8;
-      }
+      html:not([data-theme="dark"]) { color-scheme: light; }
+    }
+
+    /* Each var declared twice: plain dark hex as fallback for browsers without light-dark() (pre-2024), then light-dark() for theming. */
+    html {
+      --bg:               #0f1117;     --bg:               light-dark(#f8fafc, #0f1117);
+      --bg-card:          #1a1f2e;     --bg-card:          light-dark(#f1f5f9, #1a1f2e);
+      --border:           #1e2a3a;     --border:           light-dark(#e2e8f0, #1e2a3a);
+      --text:             #e2e8f0;     --text:             light-dark(#1e293b, #e2e8f0);
+      --text-heading:     #f8fafc;     --text-heading:     light-dark(#0f172a, #f8fafc);
+      --text-muted:       #94a3b8;     --text-muted:       light-dark(#475569, #94a3b8);
+      --text-faint:       #475569;     --text-faint:       light-dark(#94a3b8, #475569);
+      --text-dim:         #334155;     --text-dim:         light-dark(#94a3b8, #334155);
+      --tag-border:       #2d3748;     --tag-border:       light-dark(#cbd5e1, #2d3748);
+      --tag-color:        #64748b;
+      --tag-hover-border: #475569;     --tag-hover-border: light-dark(#94a3b8, #475569);
+      --tag-hover-color:  #cbd5e1;     --tag-hover-color:  light-dark(#1e293b, #cbd5e1);
+      --accent:           #2563eb;
+      --link-hover:       #60a5fa;     --link-hover:       light-dark(#1d4ed8, #60a5fa);
     }
 
     body {
@@ -438,6 +409,10 @@
     viewList.addEventListener('click',   () => setView('list'));
     setView(currentView);
 
+    function applyTheme(theme) {
+      document.documentElement.dataset.theme = theme;
+    }
+
     const themeToggle = document.getElementById('themeToggle');
     const savedTheme = localStorage.getItem('colorTheme');
     if (savedTheme) applyTheme(savedTheme);
@@ -449,10 +424,6 @@
       applyTheme(next);
       localStorage.setItem('colorTheme', next);
     });
-
-    function applyTheme(theme) {
-      document.documentElement.dataset.theme = theme;
-    }
 
     document.getElementById('searchInput').addEventListener('input', e => {
       searchQuery = e.target.value.trim().toLowerCase();
