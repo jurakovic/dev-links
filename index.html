@@ -413,20 +413,26 @@
     viewGroups.classList.toggle('active', currentView === 'groups');
     viewList.classList.toggle('active',   currentView === 'list');
 
-    function applyTheme(theme) {
-      document.documentElement.dataset.theme = theme;
+    const themeToggle = document.getElementById('themeToggle');
+    const urlTheme = new URLSearchParams(location.search).get('theme');
+    if (urlTheme === 'light' || urlTheme === 'dark') {
+      document.documentElement.dataset.theme = urlTheme;
     }
 
-    const themeToggle = document.getElementById('themeToggle');
-    const savedTheme = localStorage.getItem('colorTheme');
-    if (savedTheme) applyTheme(savedTheme);
+    function setTheme(t) {
+      document.documentElement.dataset.theme = t;
+      const params = new URLSearchParams(location.search);
+      const systemIsLight = window.matchMedia('(prefers-color-scheme: light)').matches;
+      if ((t === 'light' && systemIsLight) || (t === 'dark' && !systemIsLight)) params.delete('theme');
+      else params.set('theme', t);
+      const qs = params.toString();
+      try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {}
+    }
 
     themeToggle.addEventListener('click', () => {
       const isLight = document.documentElement.dataset.theme === 'light' ||
         (!document.documentElement.dataset.theme && window.matchMedia('(prefers-color-scheme: light)').matches);
-      const next = isLight ? 'dark' : 'light';
-      applyTheme(next);
-      localStorage.setItem('colorTheme', next);
+      setTheme(isLight ? 'dark' : 'light');
     });
 
     document.getElementById('searchInput').addEventListener('input', e => {
