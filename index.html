@@ -45,6 +45,25 @@
       --link-hover:       #1d4ed8;
     }
 
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) {
+        --bg:               #f8fafc;
+        --bg-card:          #f1f5f9;
+        --border:           #e2e8f0;
+        --text:             #1e293b;
+        --text-heading:     #0f172a;
+        --text-muted:       #475569;
+        --text-faint:       #94a3b8;
+        --text-dim:         #94a3b8;
+        --tag-border:       #cbd5e1;
+        --tag-color:        #64748b;
+        --tag-hover-border: #94a3b8;
+        --tag-hover-color:  #1e293b;
+        --accent:           #2563eb;
+        --link-hover:       #1d4ed8;
+      }
+    }
+
     body {
       font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
       background: var(--bg);
@@ -78,6 +97,13 @@
     }
 
     .theme-toggle:hover { color: var(--text); }
+
+    .theme-toggle::before { content: 'Light'; }
+    html[data-theme="light"]     .theme-toggle::before { content: 'Dark'; }
+    html[data-theme="dark"]      .theme-toggle::before { content: 'Light'; }
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) .theme-toggle::before { content: 'Dark'; }
+    }
 
     .search-input {
       display: block;
@@ -302,7 +328,7 @@
 <body>
   <div class="topbar">
     <h1>dev-tools</h1>
-    <button class="theme-toggle" id="themeToggle">Light</button>
+    <button class="theme-toggle" id="themeToggle"></button>
   </div>
   <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
   <div class="tag-filter" id="tagFilter"></div>
@@ -386,23 +412,19 @@
     setView(currentView);
 
     const themeToggle = document.getElementById('themeToggle');
-    const savedTheme = localStorage.getItem('theme') || 'dark';
-    if (savedTheme === 'light') applyTheme('light');
+    const savedTheme = localStorage.getItem('colorTheme');
+    if (savedTheme) applyTheme(savedTheme);
 
     themeToggle.addEventListener('click', () => {
-      const next = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light';
+      const isLight = document.documentElement.dataset.theme === 'light' ||
+        (!document.documentElement.dataset.theme && window.matchMedia('(prefers-color-scheme: light)').matches);
+      const next = isLight ? 'dark' : 'light';
       applyTheme(next);
-      localStorage.setItem('theme', next);
+      localStorage.setItem('colorTheme', next);
     });
 
     function applyTheme(theme) {
-      if (theme === 'light') {
-        document.documentElement.dataset.theme = 'light';
-        themeToggle.textContent = 'Dark';
-      } else {
-        delete document.documentElement.dataset.theme;
-        themeToggle.textContent = 'Light';
-      }
+      document.documentElement.dataset.theme = theme;
     }
 
     document.getElementById('searchInput').addEventListener('input', e => {
