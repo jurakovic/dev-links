@@ -368,6 +368,9 @@
     const viewList    = document.getElementById('viewList');
     const filterDim   = document.getElementById('filterDim');
     const filterHide  = document.getElementById('filterHide');
+    const content     = document.getElementById('content');
+    const resultCount = document.getElementById('resultCount');
+    const tagFilter   = document.getElementById('tagFilter');
     let filterMode = new URLSearchParams(location.search).get('filter') === 'hide' ? 'hide'
       : (localStorage.getItem('filterMode') || 'dim');
 
@@ -432,14 +435,13 @@
     });
 
     function renderTagFilter() {
-      const container = document.getElementById('tagFilter');
-      container.innerHTML = '<span class="filter-label">Filter:</span>';
+      tagFilter.innerHTML = '<span class="filter-label">Filter:</span>';
 
       const allBtn = document.createElement('button');
       allBtn.className = 'tag-btn' + (selectedTags.size === 0 ? ' active' : '');
       allBtn.textContent = 'All';
       allBtn.onclick = () => { selectedTags.clear(); render(); };
-      container.appendChild(allBtn);
+      tagFilter.appendChild(allBtn);
 
       allTags.forEach(tag => {
         const btn = document.createElement('button');
@@ -450,7 +452,7 @@
           else selectedTags.add(tag);
           render();
         };
-        container.appendChild(btn);
+        tagFilter.appendChild(btn);
       });
     }
 
@@ -501,7 +503,6 @@
     }
 
     function renderContent() {
-      const content = document.getElementById('content');
       const isFiltering = selectedTags.size > 0 || searchQuery !== '';
 
       const matchSet = new Set(
@@ -513,8 +514,7 @@
           .map(t => t.name)
       );
 
-      const countEl = document.getElementById('resultCount');
-      countEl.textContent = !isFiltering
+      resultCount.textContent = !isFiltering
         ? `${tools.length} tools`
         : `Showing ${matchSet.size} of ${tools.length} tools`;
 
