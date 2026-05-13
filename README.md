@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-13 third-bit</small>  
+<small>[The Corporation as Psychopath](https://third-bit.com/2026/05/13/corporate-psychopathy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 azure-sql</small>  
+<small>[Microsoft SQL Security Across the MAESTRO Stack: Building Secure Agentic AI with Defense-in-Depth](https://devblogs.microsoft.com/azure-sql/microsoft-sql-security-across-the-maestro-stack-building-secure-agentic-ai-with-defense-in-depth/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 dotnet</small>  
+<small>[Process API Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-13 swizec</small>  
 <small>[Just fix their PR](https://swizec.com/blog/just-fix-their-pr/)</small>
 
@@ -79,9 +88,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-12 third-bit</small>  
 <small>[We're All Family Here](https://third-bit.com/2026/05/12/workplace-politics/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-11 third-bit</small>  
-<small>[A Note on LLMs](https://third-bit.com/2026/05/11/a-note-on-llms/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-11 stackoverflow</small>  
 <small>[When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection](https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/)</small>
 
@@ -144,9 +150,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-06 visualstudiomagazine</small>  
 <small>[AI Subagents 'Coming Soon' to Visual Studio Copilot](https://visualstudiomagazine.com/articles/2026/05/06/ai-subagents-coming-to-visual-studio-ides-copilot.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-06 dotnet</small>  
-<small>[Durable Workflows in the Microsoft Agent Framework](https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-06 bartwullems</small>  
 <small>[You don't need to build your own agent harness](https://bartwullems.blogspot.com/2026/05/you-dont-need-to-build-your-own-agent.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-04-20 codinghorror</small>  
 <small>[Thank You For Being a Friend](https://blog.codinghorror.com/thank-you-for-being-a-friend/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-20 erikej</small>  
-<small>[Visual Schema Compare for SDK Style SQL Database Projects in Visual Studio and SSMS](https://erikej.github.io/dotnet/dacfx/sqlserver/ssms/visualstudio/2026/04/20/sqlprojects-schemacompare.html)</small>
 

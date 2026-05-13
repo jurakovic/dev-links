@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft SQL Security Across the MAESTRO Stack: Building Secure Agentic AI with Defense-in-Depth",
+    "link": "https://devblogs.microsoft.com/azure-sql/microsoft-sql-security-across-the-maestro-stack-building-secure-agentic-ai-with-defense-in-depth/",
+    "pubDate": "2026-05-13T21:44:08+00:00"
+  },
+  {
     "title": "Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL",
     "link": "https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/",
     "pubDate": "2026-05-08T21:42:36+00:00"
@@ -18,10 +23,5 @@
     "title": "The Polyglot tax – Part 4",
     "link": "https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/",
     "pubDate": "2026-04-21T18:52:07+00:00"
-  },
-  {
-    "title": "Introducing SQL MCP Server",
-    "link": "https://devblogs.microsoft.com/azure-sql/introducing-sql-mcp-server/",
-    "pubDate": "2026-04-08T16:01:37+00:00"
   }
 ]

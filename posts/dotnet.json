@@ -1,5 +1,10 @@
 [
   {
+    "title": "Process API Improvements in .NET 11",
+    "link": "https://devblogs.microsoft.com/dotnet/process-api-improvements-in-dotnet-11/",
+    "pubDate": "2026-05-13T21:00:00+00:00"
+  },
+  {
     "title": ".NET MAUI Moves to CoreCLR in .NET 11",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/",
     "pubDate": "2026-05-13T17:05:04+00:00"
@@ -18,10 +23,5 @@
     "title": "Copilot Studio gets faster with .NET 10 on WebAssembly",
     "link": "https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/",
     "pubDate": "2026-05-07T17:00:00+00:00"
-  },
-  {
-    "title": "Durable Workflows in the Microsoft Agent Framework",
-    "link": "https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/",
-    "pubDate": "2026-05-06T17:00:00+00:00"
   }
 ]
