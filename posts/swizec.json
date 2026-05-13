@@ -1,5 +1,15 @@
 [
   {
+    "title": "Just fix their PR",
+    "link": "https://swizec.com/blog/just-fix-their-pr/",
+    "pubDate": "2026-05-13T18:01:56+00:00"
+  },
+  {
+    "title": "\"But if AI does it all, what's *my* job?\"",
+    "link": "https://swizec.com/blog/but-if-ai-does-it-all-whats-my-job/",
+    "pubDate": "2026-05-09T00:00:00+00:00"
+  },
+  {
     "title": "What you need to make an agent",
     "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
     "pubDate": "2026-05-05T17:21:39+00:00"
@@ -13,15 +23,5 @@
     "title": "AI now writes 97% of my code. Here's what I learned",
     "link": "https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/",
     "pubDate": "2026-04-25T16:39:07+00:00"
-  },
-  {
-    "title": "Just Read the Paper",
-    "link": "https://swizec.com/blog/just-read-the-paper/",
-    "pubDate": "2026-04-20T00:00:00+00:00"
-  },
-  {
-    "title": "Watch people work",
-    "link": "https://swizec.com/blog/watch-people-work/",
-    "pubDate": "2026-04-14T17:03:53+00:00"
   }
 ]

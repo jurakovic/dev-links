@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET MAUI Moves to CoreCLR in .NET 11",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/",
+    "pubDate": "2026-05-13T17:05:04+00:00"
+  },
+  {
     "title": ".NET 11 Preview 4 is now available!",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/",
     "pubDate": "2026-05-12T22:25:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Durable Workflows in the Microsoft Agent Framework",
     "link": "https://devblogs.microsoft.com/dotnet/durable-workflows-in-microsoft-agent-framework/",
     "pubDate": "2026-05-06T17:00:00+00:00"
-  },
-  {
-    "title": "Microsoft Agent Framework – Building Blocks for AI Part 3",
-    "link": "https://devblogs.microsoft.com/dotnet/microsoft-agent-framework-building-blocks-for-ai-part-3/",
-    "pubDate": "2026-05-04T17:06:22+00:00"
   }
 ]

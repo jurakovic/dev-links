@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Boris Mann",
+    "link": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
+    "pubDate": "2026-05-13T16:15:50+00:00"
+  },
+  {
     "title": "CSP Allow-list Experiment",
     "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
     "pubDate": "2026-05-13T04:50:45+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Mitchell Hashimoto",
     "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
     "pubDate": "2026-05-12T22:21:51+00:00"
-  },
-  {
-    "title": "llm 0.32a2",
-    "link": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-    "pubDate": "2026-05-12T17:45:07+00:00"
   }
 ]
