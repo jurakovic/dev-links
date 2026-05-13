@@ -375,7 +375,7 @@
       const params = new URLSearchParams(location.search);
       if (v === 'groups') params.set('view', 'grouped');
       else params.delete('view');
-      history.replaceState(null, '', params.size ? '?' + params : location.pathname);
+      try { history.replaceState(null, '', params.size ? '?' + params : location.pathname); } catch (e) {} // SecurityError in sandboxed iframes (e.g. htmlpreview)
       viewGroups.classList.toggle('active', v === 'groups');
       viewList.classList.toggle('active', v === 'list');
       renderContent();
