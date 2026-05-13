@@ -334,9 +334,15 @@
   <div class="tag-filter" id="tagFilter"></div>
   <div class="view-controls">
     <span class="result-count" id="resultCount"></span>
-    <div class="view-toggle">
-      <button class="view-btn active" id="viewList">All</button>
-      <button class="view-btn" id="viewGroups">Grouped</button>
+    <div style="display:flex;gap:0.5rem;">
+      <div class="view-toggle">
+        <button class="view-btn active" id="viewList">All</button>
+        <button class="view-btn" id="viewGroups">Grouped</button>
+      </div>
+      <div class="view-toggle">
+        <button class="view-btn active" id="filterDim">Dim</button>
+        <button class="view-btn" id="filterHide">Hide</button>
+      </div>
     </div>
   </div>
   <div id="content"></div>
@@ -387,8 +393,29 @@
     const allTags = [...new Set(tools.flatMap(t => t.tags))].sort();
     let selectedTags = new Set();
     let searchQuery = '';
-    const viewGroups = document.getElementById('viewGroups');
-    const viewList   = document.getElementById('viewList');
+    const viewGroups  = document.getElementById('viewGroups');
+    const viewList    = document.getElementById('viewList');
+    const filterDim   = document.getElementById('filterDim');
+    const filterHide  = document.getElementById('filterHide');
+    let filterMode = new URLSearchParams(location.search).get('filter') === 'hide' ? 'hide'
+      : (localStorage.getItem('filterMode') || 'dim');
+
+    function setFilterMode(m) {
+      filterMode = m;
+      localStorage.setItem('filterMode', m);
+      const params = new URLSearchParams(location.search);
+      if (m === 'hide') params.set('filter', 'hide');
+      else params.delete('filter');
+      try { history.replaceState(null, '', params.size ? '?' + params : location.pathname); } catch (e) {}
+      filterDim.classList.toggle('active', m === 'dim');
+      filterHide.classList.toggle('active', m === 'hide');
+      renderContent();
+    }
+
+    filterDim.classList.toggle('active', filterMode === 'dim');
+    filterHide.classList.toggle('active', filterMode === 'hide');
+    filterDim.addEventListener('click',  () => setFilterMode('dim'));
+    filterHide.addEventListener('click', () => setFilterMode('hide'));
 
     function getViewFromUrl() {
       return new URLSearchParams(location.search).get('view') === 'grouped' ? 'groups' : 'list';
@@ -532,21 +559,24 @@
         container.className = 'groups-container';
 
         Object.keys(groups).sort().forEach(groupName => {
+          const anyMatch = groups[groupName].some(t => matchSet.has(t.name));
+          if (filterMode === 'hide' && isFiltering && !anyMatch) return;
+
           const group = document.createElement('div');
           group.className = 'group';
 
-          const anyMatch = groups[groupName].some(t => matchSet.has(t.name));
-
           const header = document.createElement('div');
-          header.className = 'group-header' + (isFiltering && !anyMatch ? ' dimmed' : '');
+          header.className = 'group-header' + (filterMode === 'dim' && isFiltering && !anyMatch ? ' dimmed' : '');
           header.innerHTML = `${groupName} <span class="group-count">${groups[groupName].length}</span>`;
           group.appendChild(header);
 
           const list = document.createElement('ul');
           list.className = 'tool-list';
-          groups[groupName].forEach(tool =>
-            list.appendChild(makeLi(tool, false, isFiltering && !matchSet.has(tool.name)))
-          );
+          groups[groupName]
+            .filter(tool => filterMode !== 'hide' || !isFiltering || matchSet.has(tool.name))
+            .forEach(tool =>
+              list.appendChild(makeLi(tool, false, filterMode === 'dim' && isFiltering && !matchSet.has(tool.name)))
+            );
           group.appendChild(list);
           container.appendChild(group);
         });
@@ -559,8 +589,9 @@
         const list = document.createElement('ul');
         list.className = 'tool-list';
         [...tools].sort((a, b) => a.name.localeCompare(b.name))
+          .filter(tool => filterMode !== 'hide' || !isFiltering || matchSet.has(tool.name))
           .forEach(tool =>
-            list.appendChild(makeLi(tool, true, isFiltering && !matchSet.has(tool.name)))
+            list.appendChild(makeLi(tool, true, filterMode === 'dim' && isFiltering && !matchSet.has(tool.name)))
           );
 
         container.appendChild(list);
