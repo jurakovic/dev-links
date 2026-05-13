@@ -1,27 +1,27 @@
 [
   {
+    "title": "CSP Allow-list Experiment",
+    "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+    "pubDate": "2026-05-13T04:50:45+00:00"
+  },
+  {
+    "title": "datasette 1.0a29",
+    "link": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
+    "pubDate": "2026-05-12T23:41:06+00:00"
+  },
+  {
+    "title": "Quoting Mo Bitar",
+    "link": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
+    "pubDate": "2026-05-12T22:59:58+00:00"
+  },
+  {
     "title": "Quoting Mitchell Hashimoto",
     "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
     "pubDate": "2026-05-12T22:21:51+00:00"
   },
   {
-    "title": "Thoughts on GitLab's workforce reduction\" and \"structural and strategic decisions\"",
-    "link": "https://simonwillison.net/2026/May/11/gitlab-act-2/#atom-everything",
-    "pubDate": "2026-05-11T23:58:55+00:00"
-  },
-  {
-    "title": "Quoting James Shore",
-    "link": "https://simonwillison.net/2026/May/11/james-shore/#atom-everything",
-    "pubDate": "2026-05-11T19:48:32+00:00"
-  },
-  {
-    "title": "Your AI Use Is Breaking My Brain",
-    "link": "https://simonwillison.net/2026/May/11/zombie-internet/#atom-everything",
-    "pubDate": "2026-05-11T19:21:27+00:00"
-  },
-  {
-    "title": "Using LLM in the shebang line of a script",
-    "link": "https://simonwillison.net/2026/May/11/llm-shebang/#atom-everything",
-    "pubDate": "2026-05-11T18:48:57+00:00"
+    "title": "llm 0.32a2",
+    "link": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+    "pubDate": "2026-05-12T17:45:07+00:00"
   }
 ]
