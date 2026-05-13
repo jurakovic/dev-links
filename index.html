@@ -371,43 +371,44 @@
     let filterMode = new URLSearchParams(location.search).get('filter') === 'hide' ? 'hide'
       : (localStorage.getItem('filterMode') || 'dim');
 
+    let currentView = new URLSearchParams(location.search).get('view') === 'grouped' ? 'groups'
+      : (localStorage.getItem('viewMode') || 'list');
+
     function setFilterMode(m) {
       filterMode = m;
       localStorage.setItem('filterMode', m);
       const params = new URLSearchParams(location.search);
       if (m === 'hide') params.set('filter', 'hide');
       else params.delete('filter');
-      try { history.replaceState(null, '', params.size ? '?' + params : location.pathname); } catch (e) {}
+      const qs = params.toString();
+      try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {}
       filterDim.classList.toggle('active', m === 'dim');
       filterHide.classList.toggle('active', m === 'hide');
       renderContent();
     }
 
-    filterDim.classList.toggle('active', filterMode === 'dim');
-    filterHide.classList.toggle('active', filterMode === 'hide');
-    filterDim.addEventListener('click',  () => setFilterMode('dim'));
-    filterHide.addEventListener('click', () => setFilterMode('hide'));
-
-    function getViewFromUrl() {
-      return new URLSearchParams(location.search).get('view') === 'grouped' ? 'groups' : 'list';
-    }
-
-    let currentView = getViewFromUrl();
-
     function setView(v) {
       currentView = v;
+      localStorage.setItem('viewMode', v);
       const params = new URLSearchParams(location.search);
       if (v === 'groups') params.set('view', 'grouped');
       else params.delete('view');
-      try { history.replaceState(null, '', params.size ? '?' + params : location.pathname); } catch (e) {} // SecurityError in sandboxed iframes (e.g. htmlpreview)
+      const qs = params.toString();
+      try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {} // SecurityError in sandboxed iframes (e.g. htmlpreview)
       viewGroups.classList.toggle('active', v === 'groups');
       viewList.classList.toggle('active', v === 'list');
       renderContent();
     }
 
+    filterDim.addEventListener('click',  () => setFilterMode('dim'));
+    filterHide.addEventListener('click', () => setFilterMode('hide'));
     viewGroups.addEventListener('click', () => setView('groups'));
     viewList.addEventListener('click',   () => setView('list'));
-    setView(currentView);
+
+    filterDim.classList.toggle('active',  filterMode  === 'dim');
+    filterHide.classList.toggle('active', filterMode  === 'hide');
+    viewGroups.classList.toggle('active', currentView === 'groups');
+    viewList.classList.toggle('active',   currentView === 'list');
 
     function applyTheme(theme) {
       document.documentElement.dataset.theme = theme;
