@@ -1,5 +1,10 @@
 [
   {
+    "title": "A few words on DS4",
+    "link": "http://antirez.com/news/165",
+    "pubDate": "2026-05-14T22:22:45+00:00"
+  },
+  {
     "title": "Redis array type: short story of a long development",
     "link": "http://antirez.com/news/164",
     "pubDate": "2026-05-04T14:21:45+00:00"
@@ -18,10 +23,5 @@
     "title": "Redis patterns for coding",
     "link": "http://antirez.com/news/161",
     "pubDate": "2026-03-01T09:55:09+00:00"
-  },
-  {
-    "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
-    "link": "http://antirez.com/news/160",
-    "pubDate": "2026-02-24T17:58:02+00:00"
   }
 ]

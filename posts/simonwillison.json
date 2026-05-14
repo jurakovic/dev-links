@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Mitchell Hashimoto",
+    "link": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
+    "pubDate": "2026-05-14T22:31:20+00:00"
+  },
+  {
     "title": "datasette-ip-rate-limit 0.1a0",
     "link": "https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything",
     "pubDate": "2026-05-14T04:10:23+00:00"
@@ -18,10 +23,5 @@
     "title": "CSP Allow-list Experiment",
     "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
     "pubDate": "2026-05-13T04:50:45+00:00"
-  },
-  {
-    "title": "datasette 1.0a29",
-    "link": "https://simonwillison.net/2026/May/12/datasette/#atom-everything",
-    "pubDate": "2026-05-12T23:41:06+00:00"
   }
 ]
