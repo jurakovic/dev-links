@@ -1,5 +1,10 @@
 [
   {
+    "title": "Automatic Connectivity Tests for Azure SQL Managed Instance",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/automatic-connectivity-tests-for-azure-sql-managed-instance/ba-p/4519795",
+    "pubDate": "2026-05-14T15:56:24+00:00"
+  },
+  {
     "title": "Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877",
     "pubDate": "2026-04-20T09:09:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Stream data in near real time from SQL MI to Azure Event Hubs - Public preview",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/stream-data-in-near-real-time-from-sql-mi-to-azure-event-hubs/ba-p/4504212",
     "pubDate": "2026-03-20T20:34:02+00:00"
-  },
-  {
-    "title": "Database DevOps (preview) in SSMS 22.4.1",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-devops-preview-in-ssms-22-4-1/ba-p/4503858",
-    "pubDate": "2026-03-19T15:31:46+00:00"
   }
 ]

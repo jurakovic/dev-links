@@ -1,5 +1,10 @@
 [
   {
+    "title": "VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code",
+    "link": "https://devblogs.microsoft.com/visualstudio/vslive-microsoft-ai-hackathon-2026-send-your-team-home-with-working-code/",
+    "pubDate": "2026-05-14T15:05:55+00:00"
+  },
+  {
     "title": "Agent Skills in Visual Studio: Teach Copilot How Your Team Works",
     "link": "https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/",
     "pubDate": "2026-05-13T16:00:47+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio April Update – Cloud Agent Integration",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/",
     "pubDate": "2026-04-28T19:00:04+00:00"
-  },
-  {
-    "title": "From AI to .NET: 20 VS Live! Las Vegas Sessions You Can Watch Now",
-    "link": "https://devblogs.microsoft.com/visualstudio/from-ai-to-net-20-vs-live-las-vegas-sessions-you-can-watch-now/",
-    "pubDate": "2026-04-16T15:00:04+00:00"
   }
 ]

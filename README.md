@@ -4,8 +4,29 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-14 third-bit</small>  
+<small>[Manufacturing Preferences](https://third-bit.com/2026/05/14/manufacturing-preferences/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-14 pragmaticengineer</small>  
+<small>[The Pulse: Did capacity shortages turn Anthropic hostile to devs?](https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-14 github-eng</small>  
+<small>[From latency to instant: Modernizing GitHub Issues navigation performance](https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 azuresqlblog</small>  
+<small>[Automatic Connectivity Tests for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/automatic-connectivity-tests-for-azure-sql-managed-instance/ba-p/4519795)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 visualstudio</small>  
+<small>[VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code](https://devblogs.microsoft.com/visualstudio/vslive-microsoft-ai-hackathon-2026-send-your-team-home-with-working-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-14 martinfowler</small>  
+<small>[Bliki: Interrogatory LLM](https://martinfowler.com/bliki/InterrogatoryLLM.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 bencane</small>  
 <small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-14 simonwillison</small>  
+<small>[datasette-ip-rate-limit 0.1a0](https://simonwillison.net/2026/May/14/datasette-ip-rate-limit/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-13 simonwillison</small>  
 <small>[Welcome to the Datasette blog](https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything)</small>
@@ -45,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-12 simonwillison</small>  
 <small>[datasette 1.0a29](https://simonwillison.net/2026/May/12/datasette/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-12 simonwillison</small>  
-<small>[Quoting Mo Bitar](https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-12 dotnet</small>  
 <small>[.NET 11 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/)</small>
@@ -96,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-11 stackoverflow</small>  
 <small>[When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection](https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-11 third-bit</small>  
-<small>[Ransom as a Business Model](https://third-bit.com/2026/05/11/ransom-as-a-business-model/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-11 damienbod</small>  
 <small>[Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph](https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/)</small>
@@ -230,7 +245,7 @@
 <small>[Supercharging GitHub Copilot CLI with Ollama: Local Models, Full Control](https://bartwullems.blogspot.com/2026/04/supercharging-github-copilot-cli-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-04-29 developertoarchitect</small>  
-<small>[Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)](http://www.developertoarchitect.com/lessons/lesson219.html)</small>
+<small>[Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)](https://developertoarchitect.com/lessons/lesson219.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-29 visualstudio</small>  
 <small>[SDK-Style Support for Extension Projects](https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/)</small>
@@ -249,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-28 techtrenches</small>  
 <small>[I Was Wrong About Anthropic](https://techtrenches.dev/p/i-was-wrong-about-anthropic)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-04-28 martinfowler</small>  
-<small>[Structured-Prompt-Driven Development (SPDD)](https://martinfowler.com/articles/structured-prompt-driven/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-28 paulhammant</small>  
 <small>[The limits of merging experiment](https://paulhammant.com/2026/04/28/limits-of-merging-experiment/)</small>
@@ -291,16 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-23 bencane</small>  
 <small>[When you think of microservices, you probably think of centralized shared services. But there's another valid pattern that is rarely discussed](https://bencane.com/posts/2026-04-23/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-04-23 lucumr-pocoo</small>  
-<small>[Equity for Europeans](https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-21 azure-sql</small>  
-<small>[The Polyglot tax – Part 4](https://devblogs.microsoft.com/azure-sql/the-polyglot-tax-part-4/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-04-21 ardalis</small>  
-<small>[Setting Up Claude Code Agent Teams With Wsl2 and Tmux on Windows](https://ardalis.com/setting-up-claude-code-agent-teams-with-wsl2-and-tmux-on-windows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-21 techtrenches</small>  
-<small>[The West Forgot How to Make Things. Now It’s Forgetting How to Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bliki: Interrogatory LLM",
+    "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
+    "pubDate": "2026-05-14T15:04:00+00:00"
+  },
+  {
     "title": "What is Code",
     "link": "https://martinfowler.com/articles/what-is-code.html",
     "pubDate": "2026-05-12T13:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fragments: April 29",
     "link": "https://martinfowler.com/fragments/2026-04-29.html",
     "pubDate": "2026-04-29T13:23:00+00:00"
-  },
-  {
-    "title": "Structured-Prompt-Driven Development (SPDD)",
-    "link": "https://martinfowler.com/articles/structured-prompt-driven/",
-    "pubDate": "2026-04-28T13:02:00+00:00"
   }
 ]
