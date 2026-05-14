@@ -1,5 +1,10 @@
 [
   {
+    "title": "Welcome to the Datasette blog",
+    "link": "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog/#atom-everything",
+    "pubDate": "2026-05-13T23:59:39+00:00"
+  },
+  {
     "title": "Quoting Boris Mann",
     "link": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
     "pubDate": "2026-05-13T16:15:50+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Mo Bitar",
     "link": "https://simonwillison.net/2026/May/12/mo-bitar/#atom-everything",
     "pubDate": "2026-05-12T22:59:58+00:00"
-  },
-  {
-    "title": "Quoting Mitchell Hashimoto",
-    "link": "https://simonwillison.net/2026/May/12/mitchell-hashimoto/#atom-everything",
-    "pubDate": "2026-05-12T22:21:51+00:00"
   }
 ]

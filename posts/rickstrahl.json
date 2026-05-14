@@ -1,27 +1,27 @@
 [
   {
+    "title": "Getting the Client IP Address in ASP.NET Core",
+    "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
+    "pubDate": "2026-05-13T10:35:26+00:00"
+  },
+  {
     "title": "Putting the Westwind.Scripting C# Templating Library to work, Part 2",
-    "link": "https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
-    "pubDate": "2026-04-24T02:04:43+00:00"
+    "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2",
+    "pubDate": "2026-04-23T16:04:43+00:00"
   },
   {
     "title": "Revisiting C# Scripting with the Westwind.Scripting Templating Library, Part 1",
-    "link": "https://weblog.west-wind.com/posts/2026/Apr/01/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1",
-    "pubDate": "2026-04-01T20:35:37+00:00"
+    "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Apr/01/Revisiting-C-Scripting-with-the-WestwindScripting-Templating-Library-Part-1",
+    "pubDate": "2026-04-01T10:35:37+00:00"
   },
   {
     "title": "Using .NET Native AOT to build Windows WinAPI Dlls",
-    "link": "https://weblog.west-wind.com/posts/2026/Mar/21/Using-NET-Native-AOT-to-build-Windows-WinAPI-Dlls",
-    "pubDate": "2026-03-21T21:47:13+00:00"
+    "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Mar/21/Using-NET-Native-AOT-to-build-Windows-WinAPI-Dlls",
+    "pubDate": "2026-03-21T11:47:13+00:00"
   },
   {
     "title": "Azure Trusted Signing Revisited with Dotnet Sign",
-    "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
-    "pubDate": "2026-03-02T20:10:23+00:00"
-  },
-  {
-    "title": "Don't use the Microsoft Timestamp Server for Signing",
-    "link": "https://weblog.west-wind.com/posts/2026/Feb/26/Dont-use-the-Microsoft-Timestamp-Server-for-Signing",
-    "pubDate": "2026-02-26T22:41:03+00:00"
+    "link": "https://weblog.west-wind.com/https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
+    "pubDate": "2026-03-02T10:10:23+00:00"
   }
 ]

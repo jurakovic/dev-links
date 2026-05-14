@@ -1,5 +1,10 @@
 [
   {
+    "title": "Weighted load balancing has saved me more times than I can count",
+    "link": "https://bencane.com/posts/2026-05-14/",
+    "pubDate": "2026-05-14T06:44:01+00:00"
+  },
+  {
     "title": "YOLO Is a Terrible Strategy for Validating Production Changes",
     "link": "https://bencane.com/posts/2026-05-07/",
     "pubDate": "2026-05-07T06:33:24+00:00"
@@ -18,10 +23,5 @@
     "title": "Are you using traffic mirroring in production? If not, try it out.",
     "link": "https://bencane.com/posts/2026-04-16/",
     "pubDate": "2026-04-16T06:00:13+00:00"
-  },
-  {
-    "title": "Agent Skills Are Becoming the Best Way to Capture Institutional Knowledge",
-    "link": "https://bencane.com/posts/2026-04-09/",
-    "pubDate": "2026-04-09T05:48:03+00:00"
   }
 ]
