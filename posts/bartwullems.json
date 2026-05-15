@@ -5,6 +5,16 @@
     "pubDate": "2026-05-13T07:26:00+00:00"
   },
   {
+    "title": "GitHub Copilot SDK–Breaking change in permission handling",
+    "link": "https://bartwullems.blogspot.com/2026/05/github-copilot-sdkbreaking-change-in.html",
+    "pubDate": "2026-05-11T14:22:00+00:00"
+  },
+  {
+    "title": "Sessions in the GitHub Copilot SDK: What they are and how to manage them",
+    "link": "https://bartwullems.blogspot.com/2026/05/sessions-in-github-copilot-sdk-what.html",
+    "pubDate": "2026-05-08T13:48:00+00:00"
+  },
+  {
     "title": "Getting started with the GitHub Copilot SDK in .NET",
     "link": "https://bartwullems.blogspot.com/2026/05/getting-started-with-github-copilot-sdk.html",
     "pubDate": "2026-05-07T05:21:00+00:00"
@@ -13,15 +23,5 @@
     "title": "You don't need to build your own agent harness",
     "link": "https://bartwullems.blogspot.com/2026/05/you-dont-need-to-build-your-own-agent.html",
     "pubDate": "2026-05-06T10:59:00+00:00"
-  },
-  {
-    "title": "We are all beginners",
-    "link": "https://bartwullems.blogspot.com/2026/05/we-are-all-beginners.html",
-    "pubDate": "2026-05-05T06:07:00+00:00"
-  },
-  {
-    "title": "How to use GitHub Copilot Agent Skills in Visual Studio",
-    "link": "https://bartwullems.blogspot.com/2026/05/how-to-use-github-copilot-agent-skills.html",
-    "pubDate": "2026-05-04T07:40:00+00:00"
   }
 ]
