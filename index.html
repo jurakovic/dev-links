@@ -321,12 +321,9 @@
     .theme-toggle:hover { color: var(--text); }
 
     /* Show current theme state with emoji, matching dev-links style */
-    .theme-toggle::before                               { content: 'Theme: 🌙'; }
-    html[data-theme="light"]  .theme-toggle::before     { content: 'Theme: ☀️'; }
-    html[data-theme="dark"]   .theme-toggle::before     { content: 'Theme: 🌙'; }
-    @media (prefers-color-scheme: light) {
-      html:not([data-theme="dark"]) .theme-toggle::before { content: 'Theme: ☀️'; }
-    }
+    .theme-toggle::before                              { content: 'Theme: 🌗'; }
+    html[data-theme="light"] .theme-toggle::before     { content: 'Theme: ☀️'; }
+    html[data-theme="dark"]  .theme-toggle::before     { content: 'Theme: 🌙'; }
   </style>
 </head>
 <body>
@@ -464,24 +461,20 @@
 
     const themeToggle = document.getElementById('themeToggle');
     const urlTheme = new URLSearchParams(location.search).get('theme');
-    if (urlTheme === 'light' || urlTheme === 'dark') {
-      document.documentElement.dataset.theme = urlTheme;
-    }
+    document.documentElement.dataset.theme = (urlTheme === 'light' || urlTheme === 'dark') ? urlTheme : 'auto';
 
     function setTheme(t) {
       document.documentElement.dataset.theme = t;
       const params = new URLSearchParams(location.search);
-      const systemIsLight = window.matchMedia('(prefers-color-scheme: light)').matches;
-      if ((t === 'light' && systemIsLight) || (t === 'dark' && !systemIsLight)) params.delete('theme');
+      if (t === 'auto') params.delete('theme');
       else params.set('theme', t);
       const qs = params.toString();
       try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {}
     }
 
     themeToggle.addEventListener('click', () => {
-      const isLight = document.documentElement.dataset.theme === 'light' ||
-        (!document.documentElement.dataset.theme && window.matchMedia('(prefers-color-scheme: light)').matches);
-      setTheme(isLight ? 'dark' : 'light');
+      const t = document.documentElement.dataset.theme;
+      setTheme(t === 'auto' ? 'light' : t === 'light' ? 'dark' : 'auto');
     });
 
     document.getElementById('searchInput').addEventListener('input', e => {
