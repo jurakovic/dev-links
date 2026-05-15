@@ -288,17 +288,32 @@
       text-align: center;
     }
 
+    @media (max-width: 600px) {
+      .page-header  { padding: 1rem; }
+      .main-content { padding: 1rem 1rem 1.5rem; }
+      .site-footer  { padding: 0.75rem 1rem; }
+      .search-input { max-width: 100%; }
+      .view-controls { flex-wrap: wrap; gap: 0.5rem; }
+      .tag-btn  { padding-top: 0.35rem; padding-bottom: 0.35rem; }
+      .view-btn { padding-top: 0.35rem; padding-bottom: 0.35rem; min-width: 4rem; }
+    }
+
     /* Footer — matching dev-links footer */
     .site-footer {
       margin-top: 2rem;
       border-top: 1px solid var(--border);
-      padding: 1rem 2rem;
+      padding: 1rem;
       color: var(--text-faint);
       font-size: 0.875rem;
       display: flex;
       align-items: center;
       gap: 0.75rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
     }
+
+    .site-footer::-webkit-scrollbar { display: none; }
 
     .site-footer a {
       color: var(--text-faint);
@@ -316,6 +331,7 @@
       font-family: inherit;
       cursor: pointer;
       padding: 0;
+      white-space: nowrap;
     }
 
     .theme-toggle:hover { color: var(--text); }
@@ -352,12 +368,13 @@
 
   <footer class="site-footer">
     <button class="theme-toggle" id="themeToggle"></button>
-    ·
-    <a href="https://jurakovic.github.io/dev-links/">dev-links</a>
-    ·
-    <a href="https://jurakovic.github.io/dev-links/news/">dev-news</a>
-    ·
-    <a href="https://jurakovic.github.io">Projects</a>
+    <span style="white-space:nowrap">
+      <a href="https://jurakovic.github.io/dev-links/">dev-links</a>
+      ·
+      <a href="https://jurakovic.github.io/dev-links/news/">dev-news</a>
+      ·
+      <a href="https://jurakovic.github.io">Projects</a>
+    </span>
   </footer>
 
   <script>
