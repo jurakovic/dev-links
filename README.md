@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-15 third-bit</small>  
+<small>[Technofascism](https://third-bit.com/2026/05/15/technofascism/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-15 stackoverflow</small>  
 <small>[Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/)</small>
 
@@ -85,6 +88,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-13 rickstrahl</small>  
 <small>[Getting the Client IP Address in ASP.NET Core](https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-13 bartwullems</small>  
+<small>[Techorama 2026 - Building an agent into any app using the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/05/techorama-2026-building-agent-into-any.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-13 stackoverflow</small>  
 <small>[How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/)</small>
 
@@ -114,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-12 martinfowler</small>  
 <small>[What is Code](https://martinfowler.com/articles/what-is-code.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-12 third-bit</small>  
-<small>[Behavioral Economics](https://third-bit.com/2026/05/12/behavioral-economics/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-12 andrewlock</small>  
 <small>[Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/)</small>
@@ -249,9 +252,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-30 bencane</small>  
 <small>[Deterministic routing is one of the most effective ways distributed systems reduce consistency problems at scale](https://bencane.com/posts/2026-04-30/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-04-30 bartwullems</small>  
-<small>[Supercharging GitHub Copilot CLI with Ollama: Local Models, Full Control](https://bartwullems.blogspot.com/2026/04/supercharging-github-copilot-cli-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-04-29 developertoarchitect</small>  
 <small>[Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)](https://developertoarchitect.com/lessons/lesson219.html)</small>
