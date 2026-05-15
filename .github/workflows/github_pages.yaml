@@ -5,7 +5,6 @@ on:
     branches:
       - master
       - dev-news
-      - dev-tools
   workflow_dispatch:
     inputs:
       dev_news_target_branch:
@@ -46,7 +45,7 @@ jobs:
           git fetch origin dev-tools
           git checkout origin/dev-tools -- .
           git reset # unstage all files
-          mkdir -p tools
+          rm tools/README.md
           mv index.html tools/index.html
 
       - name: Build with Jekyll
