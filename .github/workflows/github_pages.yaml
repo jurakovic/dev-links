@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - dev-news
+      - dev-tools
   workflow_dispatch:
     inputs:
       dev_news_target_branch:
