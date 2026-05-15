@@ -19,61 +19,55 @@
 
     /* Each var declared twice: plain dark hex as fallback for browsers without light-dark() (pre-2024), then light-dark() for theming. */
     html {
-      --bg:               #0f1117;     --bg:               light-dark(#f8fafc, #0f1117);
-      --bg-card:          #1a1f2e;     --bg-card:          light-dark(#f1f5f9, #1a1f2e);
-      --border:           #1e2a3a;     --border:           light-dark(#e2e8f0, #1e2a3a);
-      --text:             #e2e8f0;     --text:             light-dark(#1e293b, #e2e8f0);
-      --text-heading:     #f8fafc;     --text-heading:     light-dark(#0f172a, #f8fafc);
-      --text-muted:       #94a3b8;     --text-muted:       light-dark(#475569, #94a3b8);
-      --text-faint:       #475569;     --text-faint:       light-dark(#94a3b8, #475569);
-      --text-dim:         #334155;     --text-dim:         light-dark(#94a3b8, #334155);
-      --tag-border:       #2d3748;     --tag-border:       light-dark(#cbd5e1, #2d3748);
-      --tag-color:        #64748b;
-      --tag-hover-border: #475569;     --tag-hover-border: light-dark(#94a3b8, #475569);
-      --tag-hover-color:  #cbd5e1;     --tag-hover-color:  light-dark(#1e293b, #cbd5e1);
-      --accent:           #2563eb;
-      --link-hover:       #60a5fa;     --link-hover:       light-dark(#1d4ed8, #60a5fa);
+      --bg:               #0f1117;     --bg:               light-dark(#fff,     #0f1117);
+      --bg-card:          #1a1f2e;     --bg-card:          light-dark(#f3f6fa,  #1a1f2e);
+      --border:           #1e2a3a;     --border:           light-dark(#dce6f0,  #1e2a3a);
+      --text:             #e2e8f0;     --text:             light-dark(#2a2c2e,  #e2e8f0);
+      --text-heading:     #f8fafc;     --text-heading:     light-dark(#2a2c2e,  #f8fafc);
+      --text-muted:       #94a3b8;     --text-muted:       light-dark(#1e6bb8,  #94a3b8);
+      --text-faint:       #475569;     --text-faint:       light-dark(#819198,  #475569);
+      --text-dim:         #334155;     --text-dim:         light-dark(#b0bbbf,  #334155);
+      --tag-border:       #2d3748;     --tag-border:       light-dark(#d8dde0,  #2d3748);
+      --tag-color:        #64748b;     --tag-color:        light-dark(#819198,  #64748b);
+      --tag-hover-border: #475569;     --tag-hover-border: light-dark(#819198,  #475569);
+      --tag-hover-color:  #cbd5e1;     --tag-hover-color:  light-dark(#2a2c2e,  #cbd5e1);
+      --accent:           #18276c;
+      --link-hover:       #60a5fa;     --link-hover:       light-dark(#18276c,  #60a5fa);
     }
 
     body {
       font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
       background: var(--bg);
       color: var(--text);
-      padding: 1.5rem 2rem;
       min-height: 100vh;
-      transition: background 0.2s, color 0.2s;
-    }
-
-    .topbar {
       display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 0.75rem;
+      flex-direction: column;
     }
 
-    h1 {
-      font-size: 1.25rem;
-      font-weight: 600;
-      color: var(--text-heading);
+    .main-content { flex: 1; }
+
+    /* Page header — matching Cayman theme gradient */
+    .page-header {
+      background-image: linear-gradient(120deg, #155799, #18276c);
+      padding: 1.25rem 2rem 1rem;
     }
 
-    .theme-toggle {
-      background: none;
-      border: none;
-      color: var(--text-faint);
-      font-size: 0.78rem;
-      cursor: pointer;
-      padding: 0;
-      transition: color 0.15s;
+    .project-name {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: #fff;
     }
 
-    .theme-toggle:hover { color: var(--text); }
+    .project-tagline {
+      font-size: 0.8rem;
+      font-weight: 400;
+      color: rgba(255, 255, 255, 0.65);
+      margin-top: 0.2rem;
+    }
 
-    .theme-toggle::before { content: 'Light'; }
-    html[data-theme="light"]     .theme-toggle::before { content: 'Dark'; }
-    html[data-theme="dark"]      .theme-toggle::before { content: 'Light'; }
-    @media (prefers-color-scheme: light) {
-      html:not([data-theme="dark"]) .theme-toggle::before { content: 'Dark'; }
+    /* Main content */
+    .main-content {
+      padding: 1.5rem 2rem 2rem;
     }
 
     .search-input {
@@ -208,12 +202,10 @@
       transition: filter 0.2s;
     }
 
-    .tool-favicon.invert {
-      filter: invert(1);
-    }
-
-    html[data-theme="light"] .tool-favicon.invert {
-      filter: none;
+    .tool-favicon.invert { filter: invert(1); }
+    html[data-theme="light"] .tool-favicon.invert { filter: none; }
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) .tool-favicon.invert { filter: none; }
     }
 
     .tool-list a:hover { color: var(--link-hover); }
@@ -295,29 +287,79 @@
       padding: 3rem 0;
       text-align: center;
     }
+
+    /* Footer — matching dev-links footer */
+    .site-footer {
+      margin-top: 2rem;
+      border-top: 1px solid var(--border);
+      padding: 1rem 2rem;
+      color: var(--text-faint);
+      font-size: 0.875rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .site-footer a {
+      color: var(--text-faint);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .site-footer a:hover { color: var(--text); }
+
+    .theme-toggle {
+      background: none;
+      border: none;
+      color: inherit;
+      font-size: inherit;
+      font-family: inherit;
+      cursor: pointer;
+      padding: 0;
+    }
+
+    .theme-toggle:hover { color: var(--text); }
+
+    /* Show current theme state with emoji, matching dev-links style */
+    .theme-toggle::before                               { content: 'Theme: 🌙'; }
+    html[data-theme="light"]  .theme-toggle::before     { content: 'Theme: ☀️'; }
+    html[data-theme="dark"]   .theme-toggle::before     { content: 'Theme: 🌙'; }
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) .theme-toggle::before { content: 'Theme: ☀️'; }
+    }
   </style>
 </head>
 <body>
-  <div class="topbar">
-    <h1>dev-tools</h1>
-    <button class="theme-toggle" id="themeToggle"></button>
-  </div>
-  <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
-  <div class="tag-filter" id="tagFilter"></div>
-  <div class="view-controls">
-    <span class="result-count" id="resultCount"></span>
-    <div style="display:flex;gap:0.5rem;">
-      <div class="view-toggle">
-        <button class="view-btn active" id="viewList">All</button>
-        <button class="view-btn" id="viewGroups">Grouped</button>
-      </div>
-      <div class="view-toggle">
-        <button class="view-btn active" id="filterDim">Dim</button>
-        <button class="view-btn" id="filterHide">Hide</button>
+  <header class="page-header" role="banner">
+    <h1 class="project-name">dev-tools</h1>
+    <p class="project-tagline">developer tools bookmarks</p>
+  </header>
+
+  <main class="main-content">
+    <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
+    <div class="tag-filter" id="tagFilter"></div>
+    <div class="view-controls">
+      <span class="result-count" id="resultCount"></span>
+      <div style="display:flex;gap:0.5rem;">
+        <div class="view-toggle">
+          <button class="view-btn active" id="viewList">All</button>
+          <button class="view-btn" id="viewGroups">Grouped</button>
+        </div>
+        <div class="view-toggle">
+          <button class="view-btn active" id="filterDim">Dim</button>
+          <button class="view-btn" id="filterHide">Hide</button>
+        </div>
       </div>
     </div>
-  </div>
-  <div id="content"></div>
+    <div id="content"></div>
+  </main>
+
+  <footer class="site-footer">
+    <button class="theme-toggle" id="themeToggle"></button>
+    <a href="https://jurakovic.github.io">Projects</a>
+    ·
+    <a href="https://jurakovic.github.io/dev-links/">dev-links</a>
+  </footer>
 
   <script>
     const tools = [
