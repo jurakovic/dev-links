@@ -1,3 +1,3 @@
 
 > [!NOTE]
-> *Content available on <https://jurakovic.github.io/dev-links/tools/>*
+> *Content available at <https://jurakovic.github.io/dev-links/tools/>*
