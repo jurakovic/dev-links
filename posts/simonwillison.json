@@ -1,5 +1,10 @@
 [
   {
+    "title": "Not so locked in any more",
+    "link": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "pubDate": "2026-05-14T22:53:49+00:00"
+  },
+  {
     "title": "Quoting Mitchell Hashimoto",
     "link": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
     "pubDate": "2026-05-14T22:31:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Boris Mann",
     "link": "https://simonwillison.net/2026/May/13/boris-mann/#atom-everything",
     "pubDate": "2026-05-13T16:15:50+00:00"
-  },
-  {
-    "title": "CSP Allow-list Experiment",
-    "link": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
-    "pubDate": "2026-05-13T04:50:45+00:00"
   }
 ]

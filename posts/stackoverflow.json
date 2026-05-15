@@ -1,5 +1,10 @@
 [
   {
+    "title": "Observability and human intuition in an AI world",
+    "link": "https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/",
+    "pubDate": "2026-05-15T06:53:13+00:00"
+  },
+  {
     "title": "How Braze’s CTO is rethinking engineering for the agentic area",
     "link": "https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/",
     "pubDate": "2026-05-13T06:45:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Connecting the dots for accurate AI",
     "link": "https://stackoverflow.blog/2026/05/12/connecting-the-dots-for-accurate-ai/",
     "pubDate": "2026-05-12T06:34:46+00:00"
-  },
-  {
-    "title": "When the Sensor Starts Thinking: SnortML, Agentic AI, and the Evolving Architecture of Intrusion Detection",
-    "link": "https://stackoverflow.blog/2026/05/11/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/",
-    "pubDate": "2026-05-11T16:25:54+00:00"
   }
 ]
