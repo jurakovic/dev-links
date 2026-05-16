@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-16 simonwillison</small>  
+<small>[Quoting Julia Evans](https://simonwillison.net/2026/May/16/julia-evans/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/)</small>
 
@@ -28,6 +31,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-15 stackoverflow</small>  
 <small>[Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-15 bartwullems</small>  
+<small>[GitHub Copilot Is changing how it bills you - Here's how to check the impact](https://bartwullems.blogspot.com/2026/05/github-copilot-is-changing-how-it-bills.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-15 simonwillison</small>  
 <small>[QR code generator](https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything)</small>
 
@@ -36,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-14 third-bit</small>  
 <small>[Manufacturing Obedience](https://third-bit.com/2026/05/14/manufacturing-obedience/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-14 simonwillison</small>  
-<small>[Not so locked in any more](https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 antirez</small>  
 <small>[A few words on DS4](http://antirez.com/news/165)</small>
@@ -195,9 +198,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-06 visualstudiomagazine</small>  
 <small>[AI Subagents 'Coming Soon' to Visual Studio Copilot](https://visualstudiomagazine.com/articles/2026/05/06/ai-subagents-coming-to-visual-studio-ides-copilot.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-06 bartwullems</small>  
-<small>[You don't need to build your own agent harness](https://bartwullems.blogspot.com/2026/05/you-dont-need-to-build-your-own-agent.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-05 swizec</small>  
 <small>[What you need to make an agent](https://swizec.com/blog/what-you-need-to-make-an-agent/)</small>

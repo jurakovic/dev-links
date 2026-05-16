@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot Is changing how it bills you - Here's how to check the impact",
+    "link": "https://bartwullems.blogspot.com/2026/05/github-copilot-is-changing-how-it-bills.html",
+    "pubDate": "2026-05-15T05:11:00+00:00"
+  },
+  {
     "title": "Techorama 2026 - Building an agent into any app using the GitHub Copilot SDK",
     "link": "https://bartwullems.blogspot.com/2026/05/techorama-2026-building-agent-into-any.html",
     "pubDate": "2026-05-13T07:26:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Getting started with the GitHub Copilot SDK in .NET",
     "link": "https://bartwullems.blogspot.com/2026/05/getting-started-with-github-copilot-sdk.html",
     "pubDate": "2026-05-07T05:21:00+00:00"
-  },
-  {
-    "title": "You don't need to build your own agent harness",
-    "link": "https://bartwullems.blogspot.com/2026/05/you-dont-need-to-build-your-own-agent.html",
-    "pubDate": "2026-05-06T10:59:00+00:00"
   }
 ]
