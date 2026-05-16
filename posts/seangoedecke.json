@@ -1,5 +1,10 @@
 [
   {
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "link": "https://seangoedecke.com/steering-vectors/",
+    "pubDate": "2026-05-16T11:01:06+00:00"
+  },
+  {
     "title": "AI datacenters in space do not have a cooling problem",
     "link": "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
     "pubDate": "2026-05-13T12:02:08+00:00"
@@ -18,10 +23,5 @@
     "title": "AI makes weak engineers less harmful",
     "link": "https://seangoedecke.com/ai-makes-weak-engineers-less-harmful/",
     "pubDate": "2026-05-08T22:53:50+00:00"
-  },
-  {
-    "title": "Notes on incidents",
-    "link": "https://seangoedecke.com/notes-on-incidents/",
-    "pubDate": "2026-05-08T11:12:16+00:00"
   }
 ]
