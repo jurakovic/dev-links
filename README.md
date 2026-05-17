@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
+<small>[Bullshit Jobs and Parkinson's Law](https://third-bit.com/2026/05/17/parkinsons-and-bullshit/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
 <small>[The Creation of Money](https://third-bit.com/2026/05/17/creating-money/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-17 simonwillison</small>  
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 bencane</small>  
 <small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-14 third-bit</small>  
-<small>[Regulatory Capture](https://third-bit.com/2026/05/14/regulatory-capture/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 azure-sql</small>  
 <small>[Microsoft SQL Security Across the MAESTRO Stack: Building Secure Agentic AI with Defense-in-Depth](https://devblogs.microsoft.com/azure-sql/microsoft-sql-security-across-the-maestro-stack-building-secure-agentic-ai-with-defense-in-depth/)</small>
