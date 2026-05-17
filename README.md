@@ -19,6 +19,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[DeepSeek-V4-Flash means LLM steering is interesting again](https://seangoedecke.com/steering-vectors/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-16 addyosmani</small>  
+<small>[Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-15 simonwillison</small>  
 <small>[inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-04-23 pragmaticengineer</small>  
 <small>[The Pulse: ‘Tokenmaxxing’ as a weird new trend](https://blog.pragmaticengineer.com/the-pulse-tokenmaxxing-as-a-weird-new-trend/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-04-23 rickstrahl</small>  
-<small>[Putting the Westwind.Scripting C# Templating Library to work, Part 2](https://weblog.west-wind.com/posts/2026/Apr/23/Putting-the-WestwindScripting-Templating-Library-to-work-Part-2)</small>
 
