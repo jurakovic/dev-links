@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
+<small>[The Creation of Money](https://third-bit.com/2026/05/17/creating-money/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-17 simonwillison</small>  
+<small>[GDS weighs in on the NHS's decision to retreat from Open Source](https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)</small>
 
@@ -45,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-15 bartwullems</small>  
 <small>[GitHub Copilot Is changing how it bills you - Here's how to check the impact](https://bartwullems.blogspot.com/2026/05/github-copilot-is-changing-how-it-bills.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-15 simonwillison</small>  
-<small>[QR code generator](https://simonwillison.net/2026/May/15/qr-code-generator/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-14 third-bit</small>  
-<small>[Manufacturing Obedience](https://third-bit.com/2026/05/14/manufacturing-obedience/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 antirez</small>  
 <small>[A few words on DS4](http://antirez.com/news/165)</small>
