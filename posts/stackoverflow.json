@@ -1,5 +1,15 @@
 [
   {
+    "title": "Interviews Aren’t About You (Sorry)",
+    "link": "https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/",
+    "pubDate": "2026-05-18T16:02:44+00:00"
+  },
+  {
+    "title": "“You can't vibe code scale”: What the AI hype gets wrong about software engineering",
+    "link": "https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/",
+    "pubDate": "2026-05-18T07:40:00+00:00"
+  },
+  {
     "title": "No Dumb Questions: What is cloud computing and why is everyone doing it?",
     "link": "https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/",
     "pubDate": "2026-05-15T16:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": "How Braze’s CTO is rethinking engineering for the agentic area",
     "link": "https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/",
     "pubDate": "2026-05-13T06:45:49+00:00"
-  },
-  {
-    "title": "You Shipped It Fast. But Did You Ship It Right?",
-    "link": "https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/",
-    "pubDate": "2026-05-12T16:41:40+00:00"
-  },
-  {
-    "title": "Building a Google Drive Sync Engine that Survives MV3 Service Workers",
-    "link": "https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/",
-    "pubDate": "2026-05-12T16:20:21+00:00"
   }
 ]

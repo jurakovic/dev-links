@@ -4,11 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-18 dotnet</small>  
+<small>[NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-18 github-ai</small>  
+<small>[Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-18 stackoverflow</small>  
+<small>[Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-18 simonwillison</small>  
+<small>[Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose](https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-18 third-bit</small>  
 <small>[The Construction of Race](https://third-bit.com/2026/05/18/constructing-race/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-18 seangoedecke</small>  
 <small>[The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-18 stackoverflow</small>  
+<small>[“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-18 steven-giesel</small>  
 <small>[Zstandard compression in .NET 11](https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16)</small>
@@ -57,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-15 stackoverflow</small>  
 <small>[No Dumb Questions: What is cloud computing and why is everyone doing it?](https://stackoverflow.blog/2026/05/15/no-dumb-questions-cloud-computing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-15 simonwillison</small>  
-<small>[Western Gull, Rock Pigeon](https://simonwillison.net/2026/May/15/sighting-361818285/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-15 stackoverflow</small>  
 <small>[Observability and human intuition in an AI world](https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/)</small>
@@ -133,12 +145,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-12 visualstudiomagazine</small>  
 <small>[GitHub Spec Kit Takes Off as Antidote to Piecemeal 'Vibe Coding'](https://visualstudiomagazine.com/articles/2026/05/12/github-spec-kit-takes-off-as-antidote-to-piecemeal-vibe-coding.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-12 stackoverflow</small>  
-<small>[You Shipped It Fast. But Did You Ship It Right?](https://stackoverflow.blog/2026/05/12/you-shipped-it-fast-but-did-you-ship-it-right/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-12 stackoverflow</small>  
-<small>[Building a Google Drive Sync Engine that Survives MV3 Service Workers](https://stackoverflow.blog/2026/05/12/building-a-google-drive-sync-engine-that-survives-mv3-service-workers/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-12 pragmaticengineer</small>  
 <small>[TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/)</small>
 
@@ -196,14 +202,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-07 pragmaticengineer</small>  
 <small>[The Pulse: AI load breaks GitHub – why not other vendors?](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-07 dotnet</small>  
-<small>[Copilot Studio gets faster with .NET 10 on WebAssembly](https://devblogs.microsoft.com/dotnet/copilot-studio-dotnet-10-migration/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-07 bencane</small>  
 <small>[YOLO Is a Terrible Strategy for Validating Production Changes](https://bencane.com/posts/2026-05-07/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-06 github-ai</small>  
-<small>[Validating agentic behavior when “correct” isn’t deterministic](https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-06 visualstudiomagazine</small>  
 <small>[AI Subagents 'Coming Soon' to Visual Studio Copilot](https://visualstudiomagazine.com/articles/2026/05/06/ai-subagents-coming-to-visual-studio-ides-copilot.aspx)</small>

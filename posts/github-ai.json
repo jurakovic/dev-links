@@ -1,5 +1,10 @@
 [
   {
+    "title": "Take your local GitHub sessions anywhere",
+    "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+    "pubDate": "2026-05-18T16:54:53+00:00"
+  },
+  {
     "title": "Building a general-purpose accessibility agent—and what we learned in the process",
     "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
     "pubDate": "2026-05-15T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agent pull requests are everywhere. Here’s how to review them.",
     "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
     "pubDate": "2026-05-07T19:00:00+00:00"
-  },
-  {
-    "title": "Validating agentic behavior when “correct” isn’t deterministic",
-    "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-    "pubDate": "2026-05-06T21:16:31+00:00"
   }
 ]
