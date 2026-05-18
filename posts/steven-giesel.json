@@ -1,5 +1,10 @@
 [
   {
+    "title": "Zstandard compression in .NET 11",
+    "link": "https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16",
+    "pubDate": "2026-05-18T06:52:00+00:00"
+  },
+  {
     "title": "BackgroundService exceptions now propagate in .NET 11",
     "link": "https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be",
     "pubDate": "2026-05-10T10:43:51+00:00"
@@ -18,10 +23,5 @@
     "title": "records ToString and inheritence",
     "link": "https://steven-giesel.com/blogPost/9be39ff1-b7fc-4814-abd4-5ea41a07f8d7",
     "pubDate": "2026-03-16T03:42:00+00:00"
-  },
-  {
-    "title": "FullJoin in .NET 11 - potentially",
-    "link": "https://steven-giesel.com/blogPost/5a750fbf-cbf1-44dc-b864-70bedd8a29a9",
-    "pubDate": "2026-03-06T10:04:08+00:00"
   }
 ]
