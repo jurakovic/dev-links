@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+    "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+    "pubDate": "2026-05-19T22:40:25+00:00"
+  },
+  {
     "title": "The last six months in LLMs in five minutes",
     "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
     "pubDate": "2026-05-19T01:09:44+00:00"
@@ -18,10 +23,5 @@
     "title": "Warelay -> OpenClaw",
     "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
     "pubDate": "2026-05-16T20:23:30+00:00"
-  },
-  {
-    "title": "Quoting Julia Evans",
-    "link": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
-    "pubDate": "2026-05-16T16:45:37+00:00"
   }
 ]
