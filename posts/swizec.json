@@ -1,5 +1,10 @@
 [
   {
+    "title": "Engineering levels aren't about skill anymore",
+    "link": "https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/",
+    "pubDate": "2026-05-19T18:04:19+00:00"
+  },
+  {
     "title": "Just fix their PR",
     "link": "https://swizec.com/blog/just-fix-their-pr/",
     "pubDate": "2026-05-13T18:01:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Quick note on evals and putting AI in your resume",
     "link": "https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume/",
     "pubDate": "2026-05-01T16:58:10+00:00"
-  },
-  {
-    "title": "AI now writes 97% of my code. Here's what I learned",
-    "link": "https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/",
-    "pubDate": "2026-04-25T16:39:07+00:00"
   }
 ]

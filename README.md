@@ -4,8 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
+<small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-19 third-bit</small>  
+<small>[Who Are You?](https://third-bit.com/2026/05/19/identity/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-19 martinfowler</small>  
+<small>[Maintainability sensors for coding agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-19 visualstudiomagazine</small>  
+<small>[Devs Weigh In on Visual Studio Database Tools](https://visualstudiomagazine.com/articles/2026/05/19/devs-weigh-in-on-visual-studio-database-tools.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-19 techtrenches</small>  
+<small>[The Bias Lives in the Weights](https://techtrenches.dev/p/the-bias-lives-in-the-weights)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-19 andrewlock</small>  
 <small>[.NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 microservices</small>  
+<small>[GenAI-based development platform - part 4: The coding agent sandwich pattern](http://microservices.io//post/architecture/2026/05/19/genai-development-platform-part-4-coding-agent-sandwich-pattern.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-19 stackoverflow</small>  
 <small>[Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/)</small>
@@ -60,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
 <small>[Not So Selfish After All](https://third-bit.com/2026/05/17/not-so-selfish-after-all/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
-<small>[The Expanding Circle](https://third-bit.com/2026/05/17/empathy/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)</small>
@@ -220,9 +235,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
 <small>[Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
-<small>[Bliki: Mythical Man Month](https://martinfowler.com/bliki/MythicalManMonth.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-05 techtrenches</small>  
 <small>[AI Is a Mirror of Our Engineering Culture](https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering)</small>
 
@@ -249,9 +261,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-03 addyosmani</small>  
 <small>[Agent Skills](https://addyosmani.com/blog/agent-skills/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-01 visualstudiomagazine</small>  
-<small>[WinUI 3 Gallery 2.9 Highlights Windows App SDK 2.0 for App Developers](https://visualstudiomagazine.com/articles/2026/05/01/winui-3-gallery-2-9-highlights-windows-app-sdk-2-0-for-app-developers.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-01 netflix</small>  
 <small>[State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741?source=rss----2615bd06b42e---4)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 azuresqlblog</small>  
 <small>[Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-27 azure-sql</small>  
-<small>[Azure Data Studio is retired: Move your Azure SQL workflow to VS Code in 10 minutes](https://devblogs.microsoft.com/azure-sql/azure-data-studio-is-retired-move-your-azure-sql-workflow-to-vs-code-in-10-minutes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-04-27 lethain</small>  
-<small>[Early and late-stage hypergrowth.](https://lethain.com/early-late-stage-hypergrowth/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
-<small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
 
