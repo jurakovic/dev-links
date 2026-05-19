@@ -4,11 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-19 andrewlock</small>  
+<small>[.NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-19 stackoverflow</small>  
 <small>[Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 antirez</small>  
-<small>[A new EDIT tool for LLM agents](http://antirez.com/news/166)</small>
+<small>[Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-19 bartwullems</small>  
 <small>[Deploying and scaling the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-04-26 steven-giesel</small>  
 <small>[ConfigurationIgnoreAttribute in .NET 11](https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
-<small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
 
