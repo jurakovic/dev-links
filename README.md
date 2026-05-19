@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-19 stackoverflow</small>  
+<small>[Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 antirez</small>  
+<small>[A new EDIT tool for LLM agents](http://antirez.com/news/166)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-19 bartwullems</small>  
+<small>[Deploying and scaling the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
+<small>[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-18 third-bit</small>  
 <small>[The Representation Feedback Loop](https://third-bit.com/2026/05/18/representation/)</small>
 
@@ -63,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-16 addyosmani</small>  
 <small>[Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-15 simonwillison</small>  
-<small>[inaturalist-clumper 0.1](https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-15 github-ai</small>  
 <small>[Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/)</small>
@@ -133,9 +142,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-13 bartwullems</small>  
 <small>[Techorama 2026 - Building an agent into any app using the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/05/techorama-2026-building-agent-into-any.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-13 stackoverflow</small>  
-<small>[How Braze’s CTO is rethinking engineering for the agentic area](https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-12 dotnet</small>  
 <small>[.NET 11 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/)</small>
 
@@ -183,9 +189,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-08 netflix</small>  
 <small>[Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-08 bartwullems</small>  
-<small>[Sessions in the GitHub Copilot SDK: What they are and how to manage them](https://bartwullems.blogspot.com/2026/05/sessions-in-github-copilot-sdk-what.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-08 lucumr-pocoo</small>  
 <small>[Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-04-25 swizec</small>  
 <small>[AI now writes 97% of my code. Here's what I learned](https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-04-24 netflix</small>  
-<small>[Scaling Camera File Processing at Netflix](https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4)</small>
 

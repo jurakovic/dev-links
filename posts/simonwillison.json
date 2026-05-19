@@ -1,5 +1,10 @@
 [
   {
+    "title": "The last six months in LLMs in five minutes",
+    "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "pubDate": "2026-05-19T01:09:44+00:00"
+  },
+  {
     "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
     "link": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
     "pubDate": "2026-05-18T14:51:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Julia Evans",
     "link": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
     "pubDate": "2026-05-16T16:45:37+00:00"
-  },
-  {
-    "title": "inaturalist-clumper 0.1",
-    "link": "https://simonwillison.net/2026/May/15/inaturalist-clumper/#atom-everything",
-    "pubDate": "2026-05-15T23:53:11+00:00"
   }
 ]

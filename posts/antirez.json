@@ -1,5 +1,10 @@
 [
   {
+    "title": "A new EDIT tool for LLM agents",
+    "link": "http://antirez.com/news/166",
+    "pubDate": "2026-05-19T07:26:03+00:00"
+  },
+  {
     "title": "A few words on DS4",
     "link": "http://antirez.com/news/165",
     "pubDate": "2026-05-14T22:22:45+00:00"
@@ -18,10 +23,5 @@
     "title": "GNU and the AI reimplementations",
     "link": "http://antirez.com/news/162",
     "pubDate": "2026-03-08T16:08:41+00:00"
-  },
-  {
-    "title": "Redis patterns for coding",
-    "link": "http://antirez.com/news/161",
-    "pubDate": "2026-03-01T09:55:09+00:00"
   }
 ]

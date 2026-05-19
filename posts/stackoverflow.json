@@ -1,5 +1,10 @@
 [
   {
+    "title": "Your fridge could be a threat to national security",
+    "link": "https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/",
+    "pubDate": "2026-05-19T07:40:00+00:00"
+  },
+  {
     "title": "Interviews Aren’t About You (Sorry)",
     "link": "https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/",
     "pubDate": "2026-05-18T16:02:44+00:00"
@@ -18,10 +23,5 @@
     "title": "Observability and human intuition in an AI world",
     "link": "https://stackoverflow.blog/2026/05/15/observability-and-human-intuition-in-an-ai-world/",
     "pubDate": "2026-05-15T06:53:13+00:00"
-  },
-  {
-    "title": "How Braze’s CTO is rethinking engineering for the agentic area",
-    "link": "https://stackoverflow.blog/2026/05/13/rethinking-engineering-for-the-agentic-area/",
-    "pubDate": "2026-05-13T06:45:49+00:00"
   }
 ]
