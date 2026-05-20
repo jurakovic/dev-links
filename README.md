@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
+<small>[Why Don't You Just…](https://third-bit.com/2026/05/20/why-dont-you-just/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
+<small>[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
@@ -46,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
 <small>[Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
-<small>[datasette-llm-accountant 0.1a4](https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
 
@@ -65,7 +68,7 @@
 <small>[The Bias Lives in the Weights](https://techtrenches.dev/p/the-bias-lives-in-the-weights)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-19 andrewlock</small>  
-<small>[.NET finally gets union types🎉: Exploring the .NET 11 preview - Part 2](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)</small>
+<small>[.NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 microservices</small>  
 <small>[GenAI-based development platform - part 4: The coding agent sandwich pattern](http://microservices.io//post/architecture/2026/05/19/genai-development-platform-part-4-coding-agent-sandwich-pattern.html)</small>
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-18 stackoverflow</small>  
 <small>[Interviews Aren’t About You (Sorry)](https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-18 third-bit</small>  
-<small>[The Construction of Race](https://third-bit.com/2026/05/18/constructing-race/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-18 seangoedecke</small>  
 <small>[The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)</small>

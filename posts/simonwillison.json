@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting SpaceX S-1",
+    "link": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
+    "pubDate": "2026-05-20T22:26:36+00:00"
+  },
+  {
     "title": "How fast is 10 tokens per second really?",
     "link": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
     "pubDate": "2026-05-20T17:57:45+00:00"
@@ -18,10 +23,5 @@
     "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
     "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
     "pubDate": "2026-05-19T22:40:25+00:00"
-  },
-  {
-    "title": "datasette-llm-accountant 0.1a4",
-    "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
-    "pubDate": "2026-05-19T20:45:43+00:00"
   }
 ]
