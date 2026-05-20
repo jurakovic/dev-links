@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-20 seangoedecke</small>  
+<small>[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
+<small>[Setting the Standard](https://third-bit.com/2026/05/20/standards/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
+<small>[SDGC Glossary](https://third-bit.com/2026/05/20/glossary/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-20 erikej</small>  
+<small>[Launching the SSMS Extension Gallery](https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-20 pragmaticengineer</small>  
+<small>[Google Cloud deletes Australian trading fund’s infra](https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-20 bartwullems</small>  
 <small>[Get more out of your GitHub Copilot session history with /chronicle](https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html)</small>
 
@@ -84,12 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-18 bartwullems</small>  
 <small>[Deploying and scaling the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot-sdk.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
-<small>[Bullshit Jobs and Parkinson's Law](https://third-bit.com/2026/05/17/parkinsons-and-bullshit/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-17 third-bit</small>  
-<small>[Not So Selfish After All](https://third-bit.com/2026/05/17/not-so-selfish-after-all/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)</small>
@@ -186,9 +195,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-12 andrewlock</small>  
 <small>[Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-12 seangoedecke</small>  
-<small>[Thinking Machines and interaction models](https://seangoedecke.com/interaction-models/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-11 damienbod</small>  
 <small>[Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph](https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-28 paulhammant</small>  
 <small>[The limits of merging experiment](https://paulhammant.com/2026/04/28/limits-of-merging-experiment/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-04-28 andrewlock</small>  
-<small>[New features in Git 2.54: easier rebasing, hooks, and statistics](https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 azuresqlblog</small>  
-<small>[Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933)</small>
 
