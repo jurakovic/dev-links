@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
+<small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
+<small>[How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-20 visualstudiomagazine</small>  
+<small>[VS Code 1.121 Adds Remote Agents, Boosts Claude Code Functionality Again](https://visualstudiomagazine.com/articles/2026/05/20/vs-code-1-121-adds-remote-agents-built-in-html-and-mermaid-previews.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
+<small>[Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-20 martinfowler</small>  
+<small>[Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-20 seangoedecke</small>  
 <small>[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/)</small>
 
@@ -34,12 +49,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
 <small>[datasette-llm-accountant 0.1a4](https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
-<small>[llm-gemini 0.32a0](https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
-<small>[datasette-llm 0.1a8](https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
 
@@ -69,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-19 bartwullems</small>  
 <small>[Deploying and scaling the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-18 third-bit</small>  
-<small>[The Representation Feedback Loop](https://third-bit.com/2026/05/18/representation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-18 dotnet</small>  
 <small>[NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/)</small>
@@ -232,14 +238,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-07 bencane</small>  
 <small>[YOLO Is a Terrible Strategy for Validating Production Changes](https://bencane.com/posts/2026-05-07/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-06 visualstudiomagazine</small>  
-<small>[AI Subagents 'Coming Soon' to Visual Studio Copilot](https://visualstudiomagazine.com/articles/2026/05/06/ai-subagents-coming-to-visual-studio-ides-copilot.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-05 swizec</small>  
 <small>[What you need to make an agent](https://swizec.com/blog/what-you-need-to-make-an-agent/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-05 martinfowler</small>  
-<small>[Fragments: May  5](https://martinfowler.com/fragments/2026-05-05.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-05 techtrenches</small>  
 <small>[AI Is a Mirror of Our Engineering Culture](https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering)</small>

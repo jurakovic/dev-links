@@ -1,5 +1,15 @@
 [
   {
+    "title": "How fast is 10 tokens per second really?",
+    "link": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
+    "pubDate": "2026-05-20T17:57:45+00:00"
+  },
+  {
+    "title": "Google I/O, Gemini Spark, Antigravity",
+    "link": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "pubDate": "2026-05-20T15:32:17+00:00"
+  },
+  {
     "title": "llm-gemini 0.32",
     "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
     "pubDate": "2026-05-19T23:46:27+00:00"
@@ -13,15 +23,5 @@
     "title": "datasette-llm-accountant 0.1a4",
     "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
     "pubDate": "2026-05-19T20:45:43+00:00"
-  },
-  {
-    "title": "llm-gemini 0.32a0",
-    "link": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
-    "pubDate": "2026-05-19T20:36:23+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a8",
-    "link": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
-    "pubDate": "2026-05-19T20:28:16+00:00"
   }
 ]
