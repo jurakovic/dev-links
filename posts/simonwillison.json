@@ -1,27 +1,27 @@
 [
   {
+    "title": "llm-gemini 0.32",
+    "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
+    "pubDate": "2026-05-19T23:46:27+00:00"
+  },
+  {
     "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
     "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
     "pubDate": "2026-05-19T22:40:25+00:00"
   },
   {
-    "title": "The last six months in LLMs in five minutes",
-    "link": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-    "pubDate": "2026-05-19T01:09:44+00:00"
+    "title": "datasette-llm-accountant 0.1a4",
+    "link": "https://simonwillison.net/2026/May/19/datasette-llm-accountant/#atom-everything",
+    "pubDate": "2026-05-19T20:45:43+00:00"
   },
   {
-    "title": "Glaucous-winged Gull, Brown Pelican, Snowy Egret, Canada Goose",
-    "link": "https://simonwillison.net/2026/May/18/sighting-362781627/#atom-everything",
-    "pubDate": "2026-05-18T14:51:00+00:00"
+    "title": "llm-gemini 0.32a0",
+    "link": "https://simonwillison.net/2026/May/19/llm-gemini/#atom-everything",
+    "pubDate": "2026-05-19T20:36:23+00:00"
   },
   {
-    "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
-    "link": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-    "pubDate": "2026-05-17T15:59:41+00:00"
-  },
-  {
-    "title": "Warelay -> OpenClaw",
-    "link": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-    "pubDate": "2026-05-16T20:23:30+00:00"
+    "title": "datasette-llm 0.1a8",
+    "link": "https://simonwillison.net/2026/May/19/datasette-llm/#atom-everything",
+    "pubDate": "2026-05-19T20:28:16+00:00"
   }
 ]
