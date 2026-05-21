@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bliki: Vibe Coding",
+    "link": "https://martinfowler.com/bliki/VibeCoding.html",
+    "pubDate": "2026-05-21T11:49:00+00:00"
+  },
+  {
     "title": "Three more static code analysis sensors",
     "link": "https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules",
     "pubDate": "2026-05-20T14:27:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Bliki: Interrogatory LLM",
     "link": "https://martinfowler.com/bliki/InterrogatoryLLM.html",
     "pubDate": "2026-05-14T15:04:00+00:00"
-  },
-  {
-    "title": "What is Code",
-    "link": "https://martinfowler.com/articles/what-is-code.html",
-    "pubDate": "2026-05-12T13:30:00+00:00"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-21 third-bit</small>  
+<small>[Enshittification](https://third-bit.com/2026/05/21/enshittification/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 erikej</small>  
+<small>[SqlServer.Rules 5.0.0 is out 🎉](https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-21 martinfowler</small>  
+<small>[Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 bencane</small>  
 <small>[Health-check the listener your gRPC traffic actually uses](https://bencane.com/posts/2026-05-21/)</small>
 
@@ -12,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-21 bartwullems</small>  
 <small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
-<small>[Why Don't You Just…](https://third-bit.com/2026/05/20/why-dont-you-just/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
 <small>[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything)</small>
@@ -199,9 +205,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-12 techtrenches</small>  
 <small>[Silicon Valley Eats the War](https://techtrenches.dev/p/silicon-valley-eats-the-war)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-12 martinfowler</small>  
-<small>[What is Code](https://martinfowler.com/articles/what-is-code.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-12 andrewlock</small>  
 <small>[Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 visualstudio</small>  
 <small>[Visual Studio April Update – Cloud Agent Integration](https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-28 techtrenches</small>  
-<small>[I Was Wrong About Anthropic](https://techtrenches.dev/p/i-was-wrong-about-anthropic)</small>
 

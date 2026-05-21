@@ -1,5 +1,10 @@
 [
   {
+    "title": "SqlServer.Rules 5.0.0 is out 🎉",
+    "link": "https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html",
+    "pubDate": "2026-05-21T12:43:21+00:00"
+  },
+  {
     "title": "Launching the SSMS Extension Gallery",
     "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html",
     "pubDate": "2026-05-20T11:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Publish SQL Database Projects as Container Images with MSBuild.Sdk.SqlProj",
     "link": "https://erikej.github.io/sqlclient/dotnet/dacfx/2026/04/09/dacfx-container-publish.html",
     "pubDate": "2026-04-09T10:56:45+00:00"
-  },
-  {
-    "title": "Supercharge Database DevOps in SSMS with SQL Database Project Power Tools",
-    "link": "https://erikej.github.io/sqlserver/ssms/dacfx/2026/03/24/sql-database-project-power-tools-ssms.html",
-    "pubDate": "2026-03-24T11:00:00+00:00"
   }
 ]
