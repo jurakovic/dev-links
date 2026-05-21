@@ -1,5 +1,10 @@
 [
   {
+    "title": "Always know where you stand: Setting up a live status line in GitHub Copilot CLI",
+    "link": "https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up.html",
+    "pubDate": "2026-05-21T05:15:00+00:00"
+  },
+  {
     "title": "Get more out of your GitHub Copilot session history with /chronicle",
     "link": "https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html",
     "pubDate": "2026-05-20T05:21:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot Is changing how it bills you - Here's how to check the impact",
     "link": "https://bartwullems.blogspot.com/2026/05/github-copilot-is-changing-how-it-bills.html",
     "pubDate": "2026-05-15T05:11:00+00:00"
-  },
-  {
-    "title": "Techorama 2026 - Building an agent into any app using the GitHub Copilot SDK",
-    "link": "https://bartwullems.blogspot.com/2026/05/techorama-2026-building-agent-into-any.html",
-    "pubDate": "2026-05-13T07:26:00+00:00"
   }
 ]

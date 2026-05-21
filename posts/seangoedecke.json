@@ -1,5 +1,10 @@
 [
   {
+    "title": "The famous o3 \"GeoGuessr\" prompt did not work",
+    "link": "https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+    "pubDate": "2026-05-21T07:49:00+00:00"
+  },
+  {
     "title": "Prompts are technical debt too",
     "link": "https://seangoedecke.com/prompts-are-technical-debt-too/",
     "pubDate": "2026-05-20T12:22:27+00:00"
@@ -18,10 +23,5 @@
     "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
     "link": "https://seangoedecke.com/steering-vectors/",
     "pubDate": "2026-05-16T11:01:06+00:00"
-  },
-  {
-    "title": "AI datacenters in space do not have a cooling problem",
-    "link": "https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
-    "pubDate": "2026-05-13T12:02:08+00:00"
   }
 ]

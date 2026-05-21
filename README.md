@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 bencane</small>  
+<small>[Health-check the listener your gRPC traffic actually uses](https://bencane.com/posts/2026-05-21/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-21 seangoedecke</small>  
+<small>[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-21 bartwullems</small>  
+<small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Why Don't You Just…](https://third-bit.com/2026/05/20/why-dont-you-just/)</small>
 
@@ -46,6 +55,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-20 stackoverflow</small>  
 <small>[Pack your agentic stack in Slack](https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
+<small>[Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
 <small>[llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything)</small>
 
@@ -54,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-19 third-bit</small>  
-<small>[Who Are You?](https://third-bit.com/2026/05/19/identity/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-19 martinfowler</small>  
 <small>[Maintainability sensors for coding agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)</small>
@@ -169,14 +178,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 visualstudio</small>  
 <small>[Agent Skills in Visual Studio: Teach Copilot How Your Team Works](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-13 seangoedecke</small>  
-<small>[AI datacenters in space do not have a cooling problem](https://seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-13 rickstrahl</small>  
 <small>[Getting the Client IP Address in ASP.NET Core](https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-13 bartwullems</small>  
-<small>[Techorama 2026 - Building an agent into any app using the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/05/techorama-2026-building-agent-into-any.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-12 dotnet</small>  
 <small>[.NET 11 Preview 4 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-04-28 techtrenches</small>  
 <small>[I Was Wrong About Anthropic](https://techtrenches.dev/p/i-was-wrong-about-anthropic)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-28 paulhammant</small>  
-<small>[The limits of merging experiment](https://paulhammant.com/2026/04/28/limits-of-merging-experiment/)</small>
 
