@@ -1,5 +1,15 @@
 [
   {
+    "title": "Announcing Agent Governance Toolkit MCP Extensions for .NET",
+    "link": "https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/",
+    "pubDate": "2026-05-21T17:05:00+00:00"
+  },
+  {
+    "title": "Improving C# Memory Safety",
+    "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
+    "pubDate": "2026-05-21T16:08:00+00:00"
+  },
+  {
     "title": "NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports",
     "link": "https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/",
     "pubDate": "2026-05-18T17:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": ".NET MAUI Moves to CoreCLR in .NET 11",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-maui-moves-to-coreclr-in-dotnet-11/",
     "pubDate": "2026-05-13T17:05:04+00:00"
-  },
-  {
-    "title": ".NET 11 Preview 4 is now available!",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-4/",
-    "pubDate": "2026-05-12T22:25:49+00:00"
-  },
-  {
-    "title": ".NET and .NET Framework May 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-may-2026-servicing-updates/",
-    "pubDate": "2026-05-12T18:36:00+00:00"
   }
 ]
