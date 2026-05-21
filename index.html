@@ -44,12 +44,10 @@
       flex-direction: column;
     }
 
-    .main-content { flex: 1; }
-
     /* Page header — matching Cayman theme gradient */
     .page-header {
       background-image: linear-gradient(120deg, #155799, #18276c);
-      padding: 1.25rem 2rem 1rem;
+      padding: 1rem;
     }
 
     .project-name {
@@ -66,8 +64,9 @@
     }
 
     /* Main content */
-    .main-content {
-      padding: 1.5rem 2rem 2rem;
+    .main-content { 
+      flex: 1;
+      padding: 1rem;
     }
 
     .search-input {
@@ -99,7 +98,7 @@
       flex-wrap: wrap;
       align-items: center;
       gap: 0.35rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
       padding: 0.75rem 1rem;
       background: var(--bg-card);
       border-radius: 7px;
@@ -134,7 +133,7 @@
 
     .group {
       break-inside: avoid;
-      margin-bottom: 2rem;
+      margin-bottom: 1rem;
     }
 
     .group-header {
@@ -272,6 +271,12 @@
     .view-btn.active { background: var(--bg-card); color: var(--text); }
     .view-btn:hover:not(.active) { color: var(--tag-hover-color); }
 
+    .view-toggles {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 0;
+    }
+
     .list-container {
       columns: 300px;
       column-gap: 2rem;
@@ -290,19 +295,21 @@
 
     @media (max-width: 600px) {
       .page-header  { padding: 1rem; }
-      .main-content { padding: 1rem 1rem 1.5rem; }
-      .site-footer  { padding: 0.75rem 1rem; }
+      /*.main-content { padding: 1rem 1rem 1.5rem; }*/
+      .site-footer  { padding: 0.75rem 1rem; margin-top: 0.5rem; }
       .search-input { max-width: 100%; }
       .view-controls { flex-wrap: wrap; gap: 0.5rem; }
       .tag-btn  { padding-top: 0.35rem; padding-bottom: 0.35rem; }
       .view-btn { padding-top: 0.35rem; padding-bottom: 0.35rem; min-width: 4rem; }
+      .group { margin-bottom: 0.5rem; }
+      .view-toggles { margin-bottom: 0.5rem; }
     }
 
     /* Footer — matching dev-links footer */
     .site-footer {
-      margin-top: 2rem;
+      margin-top: 1rem;
       border-top: 1px solid var(--border);
-      padding: 1rem;
+      padding: 0.75rem 1rem;
       color: var(--text-faint);
       font-size: 0.875rem;
       display: flex;
@@ -351,8 +358,7 @@
     <input class="search-input" id="searchInput" type="search" placeholder="Search tools…" autocomplete="off">
     <div class="tag-filter" id="tagFilter"></div>
     <div class="view-controls">
-      <span class="result-count" id="resultCount"></span>
-      <div style="display:flex;gap:0.5rem;">
+      <div class="view-toggles">
         <div class="view-toggle">
           <button class="view-btn active" id="viewList">All</button>
           <button class="view-btn" id="viewGroups">Grouped</button>
@@ -362,6 +368,7 @@
           <button class="view-btn" id="filterHide">Hide</button>
         </div>
       </div>
+      <span class="result-count" id="resultCount"></span>
     </div>
     <div id="content"></div>
   </main>
