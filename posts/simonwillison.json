@@ -1,27 +1,27 @@
 [
   {
+    "title": "Datasette Agent",
+    "link": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+    "pubDate": "2026-05-21T19:52:19+00:00"
+  },
+  {
+    "title": "datasette-agent-sprites 0.1a0",
+    "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
+    "pubDate": "2026-05-21T18:21:07+00:00"
+  },
+  {
+    "title": "datasette-agent-charts 0.1a2",
+    "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
+    "pubDate": "2026-05-21T15:15:58+00:00"
+  },
+  {
+    "title": "datasette-agent 0.1a3",
+    "link": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+    "pubDate": "2026-05-21T15:04:09+00:00"
+  },
+  {
     "title": "Quoting SpaceX S-1",
     "link": "https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything",
     "pubDate": "2026-05-20T22:26:36+00:00"
-  },
-  {
-    "title": "How fast is 10 tokens per second really?",
-    "link": "https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything",
-    "pubDate": "2026-05-20T17:57:45+00:00"
-  },
-  {
-    "title": "Google I/O, Gemini Spark, Antigravity",
-    "link": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-    "pubDate": "2026-05-20T15:32:17+00:00"
-  },
-  {
-    "title": "llm-gemini 0.32",
-    "link": "https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything",
-    "pubDate": "2026-05-19T23:46:27+00:00"
-  },
-  {
-    "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-    "link": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-    "pubDate": "2026-05-19T22:40:25+00:00"
   }
 ]

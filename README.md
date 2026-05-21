@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-21 simonwillison</small>  
+<small>[Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-21 visualstudiomagazine</small>  
+<small>[.NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates](https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-21 simonwillison</small>  
+<small>[datasette-agent-sprites 0.1a0](https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
+<small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-21 visualstudiomagazine</small>  
 <small>[The Rise of OpenTelemetry in Microsoft Dev Tooling](https://visualstudiomagazine.com/articles/2026/05/21/the-rise-of-opentelemetry-in-microsoft-dev-tooling.aspx)</small>
 
@@ -12,6 +24,12 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 dotnet</small>  
 <small>[Improving C# Memory Safety](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-21 simonwillison</small>  
+<small>[datasette-agent-charts 0.1a2](https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-21 simonwillison</small>  
+<small>[datasette-agent 0.1a3](https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-21 stackoverflow</small>  
 <small>[Coding agents are giving everyone decision fatigue](https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/)</small>
@@ -40,14 +58,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
-<small>[How fast is 10 tokens per second really?](https://simonwillison.net/2026/May/20/tokens-per-second/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-20 visualstudiomagazine</small>  
 <small>[VS Code 1.121 Adds Remote Agents, Boosts Claude Code Functionality Again](https://visualstudiomagazine.com/articles/2026/05/20/vs-code-1-121-adds-remote-agents-built-in-html-and-mermaid-previews.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
-<small>[Google I/O, Gemini Spark, Antigravity](https://simonwillison.net/2026/May/20/google-io/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-20 martinfowler</small>  
 <small>[Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)</small>
@@ -75,12 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
-<small>[llm-gemini 0.32](https://simonwillison.net/2026/May/19/llm-gemini-2/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-19 simonwillison</small>  
-<small>[Gemini 3.5 Flash: more expensive, but Google plan to use it for everything](https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
@@ -196,9 +202,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-13 rickstrahl</small>  
 <small>[Getting the Client IP Address in ASP.NET Core](https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-12 visualstudiomagazine</small>  
-<small>[GitHub Spec Kit Takes Off as Antidote to Piecemeal 'Vibe Coding'](https://visualstudiomagazine.com/articles/2026/05/12/github-spec-kit-takes-off-as-antidote-to-piecemeal-vibe-coding.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-12 pragmaticengineer</small>  
 <small>[TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-04-28 addyosmani</small>  
 <small>[Long-running Agents](https://addyosmani.com/blog/long-running-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-28 visualstudio</small>  
-<small>[Visual Studio April Update – Cloud Agent Integration](https://devblogs.microsoft.com/visualstudio/visual-studio-april-update-cloud-agent-integration/)</small>
 

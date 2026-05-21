@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates",
+    "link": "https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx",
+    "pubDate": "2026-05-21T19:31:00+00:00"
+  },
+  {
     "title": "The Rise of OpenTelemetry in Microsoft Dev Tooling",
     "link": "https://visualstudiomagazine.com/articles/2026/05/21/the-rise-of-opentelemetry-in-microsoft-dev-tooling.aspx",
     "pubDate": "2026-05-21T17:06:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft Adds AI Hackathon to VSLive! @ Microsoft HQ",
     "link": "https://visualstudiomagazine.com/articles/2026/05/14/microsoft-adds-ai-hackathon-to-vslive-microsoft-hq.aspx",
     "pubDate": "2026-05-14T20:07:00+00:00"
-  },
-  {
-    "title": "GitHub Spec Kit Takes Off as Antidote to Piecemeal 'Vibe Coding'",
-    "link": "https://visualstudiomagazine.com/articles/2026/05/12/github-spec-kit-takes-off-as-antidote-to-piecemeal-vibe-coding.aspx",
-    "pubDate": "2026-05-12T17:23:00+00:00"
   }
 ]
