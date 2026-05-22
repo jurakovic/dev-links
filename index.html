@@ -277,13 +277,10 @@
       margin-bottom: 0;
     }
 
-    .list-container {
-      columns: 300px;
+    .list-container .tool-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       column-gap: 2rem;
-    }
-
-    .list-container .tool-list li {
-      break-inside: avoid;
     }
 
     .no-results {
