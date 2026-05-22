@@ -1,5 +1,10 @@
 [
   {
+    "title": "Angry Devs Persist on Visual Studio Blue Theme Revival: 'Once More, We Ask...'",
+    "link": "https://visualstudiomagazine.com/articles/2026/05/22/angry-devs-persist-on-visual-studio-blue-theme-revival-once-more-we-ask.aspx",
+    "pubDate": "2026-05-22T17:51:00+00:00"
+  },
+  {
     "title": ".NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates",
     "link": "https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx",
     "pubDate": "2026-05-21T19:31:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Devs Weigh In on Visual Studio Database Tools",
     "link": "https://visualstudiomagazine.com/articles/2026/05/19/devs-weigh-in-on-visual-studio-database-tools.aspx",
     "pubDate": "2026-05-19T16:23:00+00:00"
-  },
-  {
-    "title": "Microsoft Adds AI Hackathon to VSLive! @ Microsoft HQ",
-    "link": "https://visualstudiomagazine.com/articles/2026/05/14/microsoft-adds-ai-hackathon-to-vslive-microsoft-hq.aspx",
-    "pubDate": "2026-05-14T20:07:00+00:00"
   }
 ]

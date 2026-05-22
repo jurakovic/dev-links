@@ -1,5 +1,10 @@
 [
   {
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
+    "pubDate": "2026-05-22T22:01:31+00:00"
+  },
+  {
     "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
     "link": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
     "pubDate": "2026-05-22T04:48:32+00:00"
@@ -18,10 +23,5 @@
     "title": "datasette-agent-charts 0.1a2",
     "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
     "pubDate": "2026-05-21T15:15:58+00:00"
-  },
-  {
-    "title": "datasette-agent 0.1a3",
-    "link": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-    "pubDate": "2026-05-21T15:04:09+00:00"
   }
 ]
