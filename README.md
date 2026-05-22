@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-22 stackoverflow</small>  
+<small>[Breaking your AI storage bottlenecks](https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-22 simonwillison</small>  
+<small>[FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-21 simonwillison</small>  
 <small>[Datasette Agent](https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything)</small>
 
@@ -51,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-21 bartwullems</small>  
 <small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-20 simonwillison</small>  
-<small>[Quoting SpaceX S-1](https://simonwillison.net/2026/May/20/spacex-s1/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-18 seangoedecke</small>  
 <small>[The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-18 stackoverflow</small>  
-<small>[“You can't vibe code scale”: What the AI hype gets wrong about software engineering](https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-18 steven-giesel</small>  
 <small>[Zstandard compression in .NET 11](https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16)</small>

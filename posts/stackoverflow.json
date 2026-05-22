@@ -1,5 +1,10 @@
 [
   {
+    "title": "Breaking your AI storage bottlenecks",
+    "link": "https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks/",
+    "pubDate": "2026-05-22T07:40:00+00:00"
+  },
+  {
     "title": "Coding agents are giving everyone decision fatigue",
     "link": "https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/",
     "pubDate": "2026-05-21T14:19:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Interviews Aren’t About You (Sorry)",
     "link": "https://stackoverflow.blog/2026/05/18/interviews-aren-t-about-you-sorry/",
     "pubDate": "2026-05-18T16:02:44+00:00"
-  },
-  {
-    "title": "“You can't vibe code scale”: What the AI hype gets wrong about software engineering",
-    "link": "https://stackoverflow.blog/2026/05/18/what-the-ai-hype-gets-wrong/",
-    "pubDate": "2026-05-18T07:40:00+00:00"
   }
 ]
