@@ -1,5 +1,10 @@
 [
   {
+    "title": "On the <dl>",
+    "link": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
+    "pubDate": "2026-05-23T20:24:48+00:00"
+  },
+  {
     "title": "The memory shortage is causing a repricing of consumer electronics",
     "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
     "pubDate": "2026-05-22T22:01:31+00:00"
@@ -18,10 +23,5 @@
     "title": "datasette-agent-sprites 0.1a0",
     "link": "https://simonwillison.net/2026/May/21/datasette-agent-sprites/#atom-everything",
     "pubDate": "2026-05-21T18:21:07+00:00"
-  },
-  {
-    "title": "datasette-agent-charts 0.1a2",
-    "link": "https://simonwillison.net/2026/May/21/datasette-agent-charts/#atom-everything",
-    "pubDate": "2026-05-21T15:15:58+00:00"
   }
 ]
