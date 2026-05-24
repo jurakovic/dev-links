@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Forward deployed engineering heats up again",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
+    "pubDate": "2026-05-24T20:35:11+00:00"
+  },
+  {
     "title": "Google Cloud deletes Australian trading fund’s infra",
     "link": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
     "pubDate": "2026-05-20T08:31:08+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
     "pubDate": "2026-05-07T17:33:18+00:00"
-  },
-  {
-    "title": "The Pulse: token spend breaks budgets – what next?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-token-spend-breaks-budgets-what-next/",
-    "pubDate": "2026-04-30T14:52:36+00:00"
   }
 ]
