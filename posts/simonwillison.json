@@ -1,5 +1,20 @@
 [
   {
+    "title": "datasette 1.0a30",
+    "link": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
+    "pubDate": "2026-05-24T23:52:37+00:00"
+  },
+  {
+    "title": "datasette-agent 0.1a4",
+    "link": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
+    "pubDate": "2026-05-24T23:19:34+00:00"
+  },
+  {
+    "title": "datasette-fixtures 0.1a0",
+    "link": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
+    "pubDate": "2026-05-24T21:38:32+00:00"
+  },
+  {
     "title": "Quoting Armin Ronacher",
     "link": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
     "pubDate": "2026-05-24T18:46:53+00:00"
@@ -8,20 +23,5 @@
     "title": "Mad House — Usborne Creepy Computer Games",
     "link": "https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything",
     "pubDate": "2026-05-24T17:14:11+00:00"
-  },
-  {
-    "title": "On the <dl>",
-    "link": "https://simonwillison.net/2026/May/23/on-the-dl/#atom-everything",
-    "pubDate": "2026-05-23T20:24:48+00:00"
-  },
-  {
-    "title": "The memory shortage is causing a repricing of consumer electronics",
-    "link": "https://simonwillison.net/2026/May/22/memory-shortage/#atom-everything",
-    "pubDate": "2026-05-22T22:01:31+00:00"
-  },
-  {
-    "title": "FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
-    "link": "https://simonwillison.net/2026/May/22/ftc-active-listening/#atom-everything",
-    "pubDate": "2026-05-22T04:48:32+00:00"
   }
 ]
