@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
+<small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-24 simonwillison</small>  
 <small>[datasette 1.0a30](https://simonwillison.net/2026/May/24/datasette/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-04-30 visualstudio</small>  
 <small>[TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3](https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-30 bencane</small>  
-<small>[Deterministic routing is one of the most effective ways distributed systems reduce consistency problems at scale](https://bencane.com/posts/2026-04-30/)</small>
 
