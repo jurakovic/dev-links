@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio May Update – Plan, Review, Refine",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/",
+    "pubDate": "2026-05-26T15:00:39+00:00"
+  },
+  {
     "title": "Plan Before You Build: Introducing the Plan agent in Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/",
     "pubDate": "2026-05-21T17:17:59+00:00"
@@ -18,10 +23,5 @@
     "title": "TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3",
     "link": "https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/",
     "pubDate": "2026-04-30T17:08:44+00:00"
-  },
-  {
-    "title": "SDK-Style Support for Extension Projects",
-    "link": "https://devblogs.microsoft.com/visualstudio/sdk-style-support-for-extension-projects/",
-    "pubDate": "2026-04-29T14:00:36+00:00"
   }
 ]

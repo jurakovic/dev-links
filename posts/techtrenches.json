@@ -1,5 +1,10 @@
 [
   {
+    "title": "The $50 Billion Utility",
+    "link": "https://techtrenches.dev/p/the-50-billion-utility",
+    "pubDate": "2026-05-26T14:03:22+00:00"
+  },
+  {
     "title": "The Bias Lives in the Weights",
     "link": "https://techtrenches.dev/p/the-bias-lives-in-the-weights",
     "pubDate": "2026-05-19T14:00:56+00:00"
@@ -18,10 +23,5 @@
     "title": "I Was Wrong About Anthropic",
     "link": "https://techtrenches.dev/p/i-was-wrong-about-anthropic",
     "pubDate": "2026-04-28T14:03:11+00:00"
-  },
-  {
-    "title": "The West Forgot How to Make Things. Now It’s Forgetting How to Code",
-    "link": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-    "pubDate": "2026-04-21T14:04:11+00:00"
   }
 ]

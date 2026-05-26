@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Copilot Cowork Exfiltrates Files",
+    "link": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "pubDate": "2026-05-26T15:36:48+00:00"
+  },
+  {
+    "title": "Quoting Paul Graham",
+    "link": "https://simonwillison.net/2026/May/26/paul-graham/#atom-everything",
+    "pubDate": "2026-05-26T15:02:30+00:00"
+  },
+  {
     "title": "Quoting Corey Quinn",
     "link": "https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything",
     "pubDate": "2026-05-26T02:28:54+00:00"
@@ -10,18 +20,8 @@
     "pubDate": "2026-05-25T23:58:17+00:00"
   },
   {
-    "title": "datasette 1.0a30",
-    "link": "https://simonwillison.net/2026/May/24/datasette/#atom-everything",
-    "pubDate": "2026-05-24T23:52:37+00:00"
-  },
-  {
-    "title": "datasette-agent 0.1a4",
-    "link": "https://simonwillison.net/2026/May/24/datasette-agent/#atom-everything",
-    "pubDate": "2026-05-24T23:19:34+00:00"
-  },
-  {
-    "title": "datasette-fixtures 0.1a0",
-    "link": "https://simonwillison.net/2026/May/24/datasette-fixtures/#atom-everything",
-    "pubDate": "2026-05-24T21:38:32+00:00"
+    "title": "California Brown Pelican, Snowy Egret, California Sea Lion, Harbor Seal",
+    "link": "https://simonwillison.net/2026/May/25/sighting-365297287/#atom-everything",
+    "pubDate": "2026-05-25T23:08:00+00:00"
   }
 ]

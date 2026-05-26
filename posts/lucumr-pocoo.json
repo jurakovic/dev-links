@@ -1,5 +1,10 @@
 [
   {
+    "title": "Clanker: A Word For The Machine",
+    "link": "https://lucumr.pocoo.org/2026/5/26/clankers/",
+    "pubDate": "2026-05-26T18:24:03+00:00"
+  },
+  {
     "title": "Building Pi With Pi",
     "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
     "pubDate": "2026-05-24T16:58:33+00:00"
@@ -18,10 +23,5 @@
     "title": "Before GitHub",
     "link": "https://lucumr.pocoo.org/2026/4/28/before-github/",
     "pubDate": "2026-04-28T22:55:39+00:00"
-  },
-  {
-    "title": "Equity for Europeans",
-    "link": "https://lucumr.pocoo.org/2026/4/23/equity-for-europeans/",
-    "pubDate": "2026-04-23T00:00:00+00:00"
   }
 ]
