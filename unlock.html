@@ -9,7 +9,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; transition: background-color 0.2s, color 0.2s, border-color 0.2s; }
-    button, input, textarea { font-family: inherit; }
+    button, input, textarea, select { font-family: inherit; }
 
     html { color-scheme: dark; }
     html[data-theme="light"] { color-scheme: light; }
@@ -121,6 +121,26 @@
     .field textarea::placeholder,
     .field input::placeholder { color: var(--text-dim); }
 
+    .field select {
+      width: 100%;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.82rem;
+      padding: 0.4rem 2rem 0.4rem 0.65rem;
+      outline: none;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.65rem center;
+      transition: border-color 0.15s, background-color 0.2s, color 0.2s;
+    }
+
+    .field select:focus { border-color: var(--accent); }
+
     .output-wrap { position: relative; }
 
     .copy-btn {
@@ -140,6 +160,28 @@
 
     .copy-btn:hover { color: var(--tag-hover-color); border-color: var(--tag-hover-border); }
     .copy-btn.copied { color: var(--ok); border-color: var(--ok); }
+
+    .cmd-row {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 0.35rem;
+    }
+
+    .cmd-btn {
+      background: none;
+      border: none;
+      color: var(--tag-color);
+      font-family: inherit;
+      font-size: 0.62rem;
+      cursor: pointer;
+      padding: 0;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      transition: color 0.15s;
+    }
+
+    .cmd-btn:hover { color: var(--tag-hover-color); }
+    .cmd-btn.copied { color: var(--ok); }
 
     .action-btn {
       width: 100%;
@@ -230,6 +272,14 @@
           <label for="enc-pass">Password</label>
           <input type="password" id="enc-pass" placeholder="Password" autocomplete="new-password">
         </div>
+        <div class="field">
+          <label for="enc-algo">Algorithm</label>
+          <select id="enc-algo">
+            <option value="AES-256-CBC" selected>AES-256-CBC</option>
+            <option value="AES-192-CBC">AES-192-CBC</option>
+            <option value="AES-128-CBC">AES-128-CBC</option>
+          </select>
+        </div>
         <button class="action-btn" id="enc-btn">Encrypt</button>
         <div class="status" id="enc-status"></div>
         <div class="field">
@@ -237,6 +287,9 @@
           <div class="output-wrap">
             <textarea id="enc-out" rows="4" readonly placeholder="Output…" spellcheck="false"></textarea>
             <button class="copy-btn" id="enc-copy">copy</button>
+          </div>
+          <div class="cmd-row">
+            <button class="cmd-btn" id="enc-copy-cmd">copy as openssl</button>
           </div>
         </div>
       </div>
@@ -251,6 +304,14 @@
           <label for="dec-pass">Password</label>
           <input type="password" id="dec-pass" placeholder="Password" autocomplete="current-password">
         </div>
+        <div class="field">
+          <label for="dec-algo">Algorithm</label>
+          <select id="dec-algo">
+            <option value="AES-256-CBC" selected>AES-256-CBC</option>
+            <option value="AES-192-CBC">AES-192-CBC</option>
+            <option value="AES-128-CBC">AES-128-CBC</option>
+          </select>
+        </div>
         <button class="action-btn" id="dec-btn">Decrypt</button>
         <div class="status" id="dec-status"></div>
         <div class="field">
@@ -258,6 +319,9 @@
           <div class="output-wrap">
             <textarea id="dec-out" rows="4" readonly placeholder="Output…" spellcheck="false"></textarea>
             <button class="copy-btn" id="dec-copy">copy</button>
+          </div>
+          <div class="cmd-row">
+            <button class="cmd-btn" id="dec-copy-cmd">copy as openssl</button>
           </div>
         </div>
       </div>
@@ -294,39 +358,63 @@
       setTheme(t === 'auto' ? 'light' : t === 'light' ? 'dark' : 'auto');
     });
 
-    // OpenSSL-compatible AES-256-CBC + PBKDF2-SHA256, 10000 iterations
-    // Matches: openssl enc -aes-256-cbc -a -A -salt -pbkdf2 -pass pass:"$password"
-    async function deriveKeyIV(password, salt) {
+    // All algorithms are OpenSSL enc compatible (Salted__ format, PBKDF2-SHA256, 10000 iter).
+    // Matches: openssl enc -e|-d -<flag> -a -A -salt -pbkdf2 -pass pass:"$password"
+    const ALGOS = {
+      'AES-256-CBC': { keyLen: 32, flag: 'aes-256-cbc' },
+      'AES-192-CBC': { keyLen: 24, flag: 'aes-192-cbc' },
+      'AES-128-CBC': { keyLen: 16, flag: 'aes-128-cbc' },
+    };
+
+    async function pbkdf2Bytes(password, salt, numBytes) {
       const keyMat = await crypto.subtle.importKey(
         'raw', new TextEncoder().encode(password), 'PBKDF2', false, ['deriveBits']
       );
-      const bits = await crypto.subtle.deriveBits(
+      return new Uint8Array(await crypto.subtle.deriveBits(
         { name: 'PBKDF2', salt, iterations: 10000, hash: 'SHA-256' },
-        keyMat, 384  // 32 bytes key + 16 bytes IV
-      );
-      return { key: new Uint8Array(bits, 0, 32), iv: new Uint8Array(bits, 32, 16) };
+        keyMat, numBytes * 8
+      ));
     }
 
-    async function opensslEncrypt(text, password) {
-      const salt = crypto.getRandomValues(new Uint8Array(8));
-      const { key, iv } = await deriveKeyIV(password, salt);
-      const aesKey = await crypto.subtle.importKey('raw', key, { name: 'AES-CBC' }, false, ['encrypt']);
-      const cipher = await crypto.subtle.encrypt({ name: 'AES-CBC', iv }, aesKey, new TextEncoder().encode(text));
-      const out = new Uint8Array(16 + cipher.byteLength);
-      out.set(new TextEncoder().encode('Salted__'));  // bytes 0–7
-      out.set(salt, 8);                               // bytes 8–15
+    async function doEncrypt(text, password, algoId) {
+      const { keyLen } = ALGOS[algoId];
+      const salt    = crypto.getRandomValues(new Uint8Array(8));
+      const derived = await pbkdf2Bytes(password, salt, keyLen + 16);
+      const key     = await crypto.subtle.importKey('raw', derived.slice(0, keyLen), { name: 'AES-CBC' }, false, ['encrypt']);
+      const iv      = derived.slice(keyLen, keyLen + 16);
+      const cipher  = await crypto.subtle.encrypt({ name: 'AES-CBC', iv }, key, new TextEncoder().encode(text));
+      const out     = new Uint8Array(16 + cipher.byteLength);
+      out.set(new TextEncoder().encode('Salted__'));
+      out.set(salt, 8);
       out.set(new Uint8Array(cipher), 16);
       return btoa(String.fromCharCode(...out));
     }
 
-    async function opensslDecrypt(base64, password) {
+    async function doDecrypt(base64, password, algoId) {
+      const { keyLen } = ALGOS[algoId];
       const raw = Uint8Array.from(atob(base64), c => c.charCodeAt(0));
       if (new TextDecoder().decode(raw.slice(0, 8)) !== 'Salted__')
-        throw new Error('not an OpenSSL-salted blob');
-      const { key, iv } = await deriveKeyIV(password, raw.slice(8, 16));
-      const aesKey = await crypto.subtle.importKey('raw', key, { name: 'AES-CBC' }, false, ['decrypt']);
-      const plain = await crypto.subtle.decrypt({ name: 'AES-CBC', iv }, aesKey, raw.slice(16));
+        throw new Error('missing Salted__ header — not an OpenSSL-encrypted string');
+      const salt    = raw.slice(8, 16);
+      const derived = await pbkdf2Bytes(password, salt, keyLen + 16);
+      const key     = await crypto.subtle.importKey('raw', derived.slice(0, keyLen), { name: 'AES-CBC' }, false, ['decrypt']);
+      const iv      = derived.slice(keyLen, keyLen + 16);
+      const plain   = await crypto.subtle.decrypt({ name: 'AES-CBC', iv }, key, raw.slice(16));
       return new TextDecoder().decode(plain);
+    }
+
+    function opensslEncryptCmd(text, password, algoId) {
+      const { flag } = ALGOS[algoId];
+      const escapedPass = password.replace(/'/g, "'\\''");
+      const escapedText = text.replace(/'/g, "'\\''");
+      return `echo '${escapedText}' | openssl enc -e -${flag} -a -A -salt -pbkdf2 -pass pass:'${escapedPass}'`;
+    }
+
+    function opensslDecryptCmd(base64, password, algoId) {
+      const { flag } = ALGOS[algoId];
+      const escapedPass = password.replace(/'/g, "'\\''");
+      const escapedB64  = base64.replace(/'/g, "'\\''");
+      return `echo '${escapedB64}' | openssl enc -d -${flag} -a -pbkdf2 -pass pass:'${escapedPass}'`;
     }
 
     function setStatus(id, msg, isErr) {
@@ -338,9 +426,10 @@
     document.getElementById('enc-btn').addEventListener('click', async () => {
       const text = document.getElementById('enc-text').value;
       const pass = document.getElementById('enc-pass').value;
+      const algo = document.getElementById('enc-algo').value;
       if (!text || !pass) { setStatus('enc-status', 'Text and password required.', true); return; }
       try {
-        document.getElementById('enc-out').value = await opensslEncrypt(text, pass);
+        document.getElementById('enc-out').value = await doEncrypt(text, pass, algo);
         setStatus('enc-status', 'Encrypted successfully.', false);
       } catch (e) {
         document.getElementById('enc-out').value = '';
@@ -351,9 +440,10 @@
     document.getElementById('dec-btn').addEventListener('click', async () => {
       const input = document.getElementById('dec-in').value.trim();
       const pass  = document.getElementById('dec-pass').value;
+      const algo  = document.getElementById('dec-algo').value;
       if (!input || !pass) { setStatus('dec-status', 'Ciphertext and password required.', true); return; }
       try {
-        document.getElementById('dec-out').value = await opensslDecrypt(input, pass);
+        document.getElementById('dec-out').value = await doDecrypt(input, pass, algo);
         setStatus('dec-status', 'Decrypted successfully.', false);
       } catch (e) {
         document.getElementById('dec-out').value = '';
@@ -368,17 +458,33 @@
       if (e.key === 'Enter') document.getElementById('dec-btn').click();
     });
 
-    async function copyOutput(sourceId, btn) {
-      const val = document.getElementById(sourceId).value;
-      if (!val) return;
-      await navigator.clipboard.writeText(val);
+    async function copyText(text, btn, label) {
+      if (!text) return;
+      await navigator.clipboard.writeText(text);
       btn.textContent = 'copied!';
       btn.classList.add('copied');
-      setTimeout(() => { btn.textContent = 'copy'; btn.classList.remove('copied'); }, 1500);
+      setTimeout(() => { btn.textContent = label; btn.classList.remove('copied'); }, 1500);
     }
 
-    document.getElementById('enc-copy').addEventListener('click', function() { copyOutput('enc-out', this); });
-    document.getElementById('dec-copy').addEventListener('click', function() { copyOutput('dec-out', this); });
+    document.getElementById('enc-copy').addEventListener('click', function() {
+      copyText(document.getElementById('enc-out').value, this, 'copy');
+    });
+    document.getElementById('dec-copy').addEventListener('click', function() {
+      copyText(document.getElementById('dec-out').value, this, 'copy');
+    });
+
+    document.getElementById('enc-copy-cmd').addEventListener('click', function() {
+      const text = document.getElementById('enc-text').value;
+      const pass = document.getElementById('enc-pass').value;
+      const algo = document.getElementById('enc-algo').value;
+      copyText(opensslEncryptCmd(text, pass, algo), this, 'copy as openssl');
+    });
+    document.getElementById('dec-copy-cmd').addEventListener('click', function() {
+      const b64  = document.getElementById('dec-in').value.trim();
+      const pass = document.getElementById('dec-pass').value;
+      const algo = document.getElementById('dec-algo').value;
+      copyText(opensslDecryptCmd(b64, pass, algo), this, 'copy as openssl');
+    });
   </script>
 </body>
 </html>
