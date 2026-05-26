@@ -66,6 +66,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 1.5rem;
+      align-items: start;
     }
 
     .card {
@@ -387,7 +388,8 @@
     });
 
     // All algorithms are OpenSSL enc compatible (Salted__ format, PBKDF2-SHA256, 10000 iter).
-    // Matches: openssl enc -e|-d -<flag> -a -A -salt -pbkdf2 -pass pass:"$password"
+    // Matches: openssl enc -e|-d -<flag> -a -A -salt -pbkdf2 -iter 10000 -pass pass:"$password"
+    // Omitting -iter is fine: 10000 is OpenSSL 3.x's default. A different -iter value breaks compatibility.
     const ALGOS = {
       'AES-256-CBC': { keyLen: 32, flag: 'aes-256-cbc' },
       'AES-192-CBC': { keyLen: 24, flag: 'aes-192-cbc' },
@@ -409,13 +411,13 @@
       const salt    = crypto.getRandomValues(new Uint8Array(8));
       const derived = await pbkdf2Bytes(password, salt, keyLen + 16);
       const key     = await crypto.subtle.importKey('raw', derived.slice(0, keyLen), { name: 'AES-CBC' }, false, ['encrypt']);
-      const iv      = derived.slice(keyLen, keyLen + 16);
+      const iv      = derived.slice(keyLen, keyLen + 16); // OpenSSL lays out PBKDF2 output as key || IV
       const cipher  = await crypto.subtle.encrypt({ name: 'AES-CBC', iv }, key, new TextEncoder().encode(text));
       const out     = new Uint8Array(16 + cipher.byteLength);
       out.set(new TextEncoder().encode('Salted__'));
       out.set(salt, 8);
       out.set(new Uint8Array(cipher), 16);
-      return btoa(String.fromCharCode(...out));
+      return btoa(String.fromCharCode(...out)); // spread hits a stack limit for large arrays; fine for secrets
     }
 
     async function doDecrypt(base64, password, algoId) {
