@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>unlock</title>
+  <title>encrypt / decrypt text</title>
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -141,6 +141,28 @@
 
     .field select:focus { border-color: var(--accent); }
 
+    .pass-wrap { position: relative; }
+    .pass-wrap input { padding-right: 2.2rem; }
+    .pass-wrap input::-ms-reveal { display: none; }
+
+    .eye-btn {
+      position: absolute;
+      right: 0.5rem;
+      top: 50%;
+      transform: translateY(-50%);
+      background: none;
+      border: none;
+      color: var(--tag-color);
+      cursor: pointer;
+      padding: 0.1rem;
+      display: flex;
+      align-items: center;
+      line-height: 0;
+      transition: color 0.15s;
+    }
+
+    .eye-btn:hover { color: var(--tag-hover-color); }
+
     .output-wrap { position: relative; }
 
     .copy-btn {
@@ -270,7 +292,10 @@
         </div>
         <div class="field">
           <label for="enc-pass">Password</label>
-          <input type="password" id="enc-pass" placeholder="Password" autocomplete="new-password">
+          <div class="pass-wrap">
+            <input type="password" id="enc-pass" placeholder="Password" autocomplete="off">
+            <button class="eye-btn" type="button" data-for="enc-pass" aria-label="Show password"></button>
+          </div>
         </div>
         <div class="field">
           <label for="enc-algo">Algorithm</label>
@@ -302,7 +327,10 @@
         </div>
         <div class="field">
           <label for="dec-pass">Password</label>
-          <input type="password" id="dec-pass" placeholder="Password" autocomplete="current-password">
+          <div class="pass-wrap">
+            <input type="password" id="dec-pass" placeholder="Password" autocomplete="off">
+            <button class="eye-btn" type="button" data-for="dec-pass" aria-label="Show password"></button>
+          </div>
         </div>
         <div class="field">
           <label for="dec-algo">Algorithm</label>
@@ -456,6 +484,20 @@
     });
     document.getElementById('dec-pass').addEventListener('keydown', e => {
       if (e.key === 'Enter') document.getElementById('dec-btn').click();
+    });
+
+    const EYE    = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>`;
+    const EYE_OFF = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94"/><path d="M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19"/><line x1="1" y1="1" x2="23" y2="23"/></svg>`;
+
+    document.querySelectorAll('.eye-btn').forEach(btn => {
+      btn.innerHTML = EYE;
+      btn.addEventListener('click', () => {
+        const input = document.getElementById(btn.dataset.for);
+        const show  = input.type === 'password';
+        input.type  = show ? 'text' : 'password';
+        btn.innerHTML   = show ? EYE_OFF : EYE;
+        btn.ariaLabel   = show ? 'Hide password' : 'Show password';
+      });
     });
 
     async function copyText(text, btn, label) {
