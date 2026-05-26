@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
+<small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-26 lucumr-pocoo</small>  
 <small>[Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/)</small>
 
@@ -150,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-19 martinfowler</small>  
 <small>[Maintainability sensors for coding agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-19 visualstudiomagazine</small>  
-<small>[Devs Weigh In on Visual Studio Database Tools](https://visualstudiomagazine.com/articles/2026/05/19/devs-weigh-in-on-visual-studio-database-tools.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-19 techtrenches</small>  
 <small>[The Bias Lives in the Weights](https://techtrenches.dev/p/the-bias-lives-in-the-weights)</small>
