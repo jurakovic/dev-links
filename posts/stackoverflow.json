@@ -1,5 +1,10 @@
 [
   {
+    "title": "Do you have what it takes to run AI in production?",
+    "link": "https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/",
+    "pubDate": "2026-05-26T07:40:00+00:00"
+  },
+  {
     "title": "Dispatches from O'Reilly: The accidental orchestrator",
     "link": "https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/",
     "pubDate": "2026-05-22T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Pack your agentic stack in Slack",
     "link": "https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/",
     "pubDate": "2026-05-20T04:45:00+00:00"
-  },
-  {
-    "title": "Your fridge could be a threat to national security",
-    "link": "https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/",
-    "pubDate": "2026-05-19T07:40:00+00:00"
   }
 ]

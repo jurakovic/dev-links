@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-26 stackoverflow</small>  
+<small>[Do you have what it takes to run AI in production?](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-26 bartwullems</small>  
+<small>[Using ExecutionLog views in SQL Server Reporting Services to monitor performance](https://bartwullems.blogspot.com/2026/05/using-executionlog-views-in-sql-server.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
+<small>[Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-25 simonwillison</small>  
+<small>[Notes on Pope Leo XIV's encyclical on AI](https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
 <small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
 
@@ -21,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-24 pragmaticengineer</small>  
 <small>[The Pulse: Forward deployed engineering heats up again](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-24 simonwillison</small>  
-<small>[Quoting Armin Ronacher](https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-24 simonwillison</small>  
-<small>[Mad House — Usborne Creepy Computer Games](https://simonwillison.net/2026/May/24/usborne-mad-house/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-24 lucumr-pocoo</small>  
 <small>[Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)</small>
@@ -139,9 +145,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 microservices</small>  
 <small>[GenAI-based development platform - part 4: The coding agent sandwich pattern](http://microservices.io//post/architecture/2026/05/19/genai-development-platform-part-4-coding-agent-sandwich-pattern.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-19 stackoverflow</small>  
-<small>[Your fridge could be a threat to national security](https://stackoverflow.blog/2026/05/19/your-fridge-could-be-a-threat-to-national-security/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 antirez</small>  
 <small>[Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166)</small>
 
@@ -162,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-18 damienbod</small>  
 <small>[Aspire Azure SQL deployment bug](https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-18 bartwullems</small>  
-<small>[Deploying and scaling the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot-sdk.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
 <small>[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)</small>
