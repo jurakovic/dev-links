@@ -1,5 +1,10 @@
 [
   {
+    "title": "Agents on a leash: Agentic AI remains mostly single-agent and monitored at work",
+    "link": "https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work/",
+    "pubDate": "2026-05-27T14:00:00+00:00"
+  },
+  {
     "title": "Do you have what it takes to run AI in production?",
     "link": "https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/",
     "pubDate": "2026-05-26T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Coding agents are giving everyone decision fatigue",
     "link": "https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/",
     "pubDate": "2026-05-21T14:19:27+00:00"
-  },
-  {
-    "title": "Pack your agentic stack in Slack",
-    "link": "https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/",
-    "pubDate": "2026-05-20T04:45:00+00:00"
   }
 ]

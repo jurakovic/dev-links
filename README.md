@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-27 visualstudiomagazine</small>  
+<small>[Microsoft Extends Rust-Influenced Memory-Safety Push to C#](https://visualstudiomagazine.com/articles/2026/05/27/microsoft-extends-rust-influenced-memory-safety-push-to-csharp.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
+<small>[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
+<small>[The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
+<small>[The VibeSec Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-27 stackoverflow</small>  
+<small>[Agents on a leash: Agentic AI remains mostly single-agent and monitored at work](https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-05-27 terriblesoftware</small>  
+<small>[Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
 <small>[Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything)</small>
 
@@ -48,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-26 bartwullems</small>  
 <small>[Using ExecutionLog views in SQL Server Reporting Services to monitor performance](https://bartwullems.blogspot.com/2026/05/using-executionlog-views-in-sql-server.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
-<small>[Quoting Corey Quinn](https://simonwillison.net/2026/May/26/corey-quinn/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
 <small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
@@ -124,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-20 visualstudiomagazine</small>  
-<small>[VS Code 1.121 Adds Remote Agents, Boosts Claude Code Functionality Again](https://visualstudiomagazine.com/articles/2026/05/20/vs-code-1-121-adds-remote-agents-built-in-html-and-mermaid-previews.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-20 martinfowler</small>  
 <small>[Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)</small>
 
@@ -144,9 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-20 bartwullems</small>  
 <small>[Get more out of your GitHub Copilot session history with /chronicle](https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-20 stackoverflow</small>  
-<small>[Pack your agentic stack in Slack](https://stackoverflow.blog/2026/05/20/pack-your-agentic-stack-in-slack/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
 <small>[Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)</small>
@@ -202,9 +211,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 antirez</small>  
 <small>[A few words on DS4](http://antirez.com/news/165)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-14 martinfowler</small>  
-<small>[Fragments: May 14](https://martinfowler.com/fragments/2026-05-14.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 azure-sql</small>  
 <small>[Considering NL2SQL? Should your database really be the prompt? How can SQL MCP Server help?](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-nl2sql/)</small>
 
@@ -219,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 visualstudio</small>  
 <small>[VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code](https://devblogs.microsoft.com/visualstudio/vslive-microsoft-ai-hackathon-2026-send-your-team-home-with-working-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-14 martinfowler</small>  
-<small>[Bliki: Interrogatory LLM](https://martinfowler.com/bliki/InterrogatoryLLM.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 bencane</small>  
 <small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-04 azure-sql</small>  
 <small>[SQL MCP Server as an App Service](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-app-service/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-04 netflix</small>  
-<small>[Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph](https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss----2615bd06b42e---4)</small>
 
