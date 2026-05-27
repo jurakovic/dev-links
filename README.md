@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
+<small>[Building a City, Not a Car](https://third-bit.com/2026/05/27/building-a-city-not-a-car/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-27 techtrenches</small>  
+<small>[Honk Is Not Magic. It’s 15 Years of Infrastructure With the Context Stripped Out.](https://techtrenches.dev/p/honk-is-not-magic-its-15-years-of)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
+<small>[Fragments: May 27](https://martinfowler.com/fragments/2026-05-27.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-27 visualstudiomagazine</small>  
 <small>[Microsoft Extends Rust-Influenced Memory-Safety Push to C#](https://visualstudiomagazine.com/articles/2026/05/27/microsoft-extends-rust-influenced-memory-safety-push-to-csharp.aspx)</small>
 
@@ -157,14 +166,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-20 bartwullems</small>  
 <small>[Get more out of your GitHub Copilot session history with /chronicle](https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
-<small>[Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-19 martinfowler</small>  
-<small>[Maintainability sensors for coding agents](https://martinfowler.com/articles/sensors-for-coding-agents.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-19 techtrenches</small>  
 <small>[The Bias Lives in the Weights](https://techtrenches.dev/p/the-bias-lives-in-the-weights)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
 <small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-04 azure-sql</small>  
-<small>[SQL MCP Server as an App Service](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-app-service/)</small>
 
