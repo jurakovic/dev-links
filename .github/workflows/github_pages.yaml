@@ -43,10 +43,10 @@ jobs:
       - name: Fetch dev-tools branch
         run: |
           git fetch origin dev-tools
-          git checkout origin/dev-tools -- .
-          git reset # unstage all files
-          rm tools/README.md
-          mv index.html tools/index.html
+          git worktree add /tmp/dev-tools origin/dev-tools
+          rm -f tools/README.md
+          cp -r /tmp/dev-tools/. tools/
+          git worktree remove /tmp/dev-tools
 
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
