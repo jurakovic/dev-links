@@ -1,5 +1,10 @@
 [
   {
+    "title": "Running ASP.NET Core Applications as a Subfolder Application",
+    "link": "https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application",
+    "pubDate": "2026-05-26T14:16:20+00:00"
+  },
+  {
     "title": "Getting the Client IP Address in ASP.NET Core",
     "link": "https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core",
     "pubDate": "2026-05-13T10:35:26+00:00"
@@ -18,10 +23,5 @@
     "title": "Using .NET Native AOT to build Windows WinAPI Dlls",
     "link": "https://weblog.west-wind.com/posts/2026/Mar/21/Using-NET-Native-AOT-to-build-Windows-WinAPI-Dlls",
     "pubDate": "2026-03-21T11:47:13+00:00"
-  },
-  {
-    "title": "Azure Trusted Signing Revisited with Dotnet Sign",
-    "link": "https://weblog.west-wind.com/posts/2026/Mar/02/Azure-Trusted-Signing-Revisited-with-Dotnet-Sign",
-    "pubDate": "2026-03-02T10:10:23+00:00"
   }
 ]
