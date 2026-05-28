@@ -1,5 +1,10 @@
 [
   {
+    "title": "SQL + AI, hands-on: Join a free workshop near you",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/",
+    "pubDate": "2026-05-28T13:09:15+00:00"
+  },
+  {
     "title": "Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025",
     "link": "https://devblogs.microsoft.com/azure-sql/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql-server-2025/",
     "pubDate": "2026-05-22T20:28:15+00:00"
@@ -18,10 +23,5 @@
     "title": "Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL",
     "link": "https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/",
     "pubDate": "2026-05-08T21:42:36+00:00"
-  },
-  {
-    "title": "SQL MCP Server as an App Service",
-    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-app-service/",
-    "pubDate": "2026-05-04T16:30:34+00:00"
   }
 ]

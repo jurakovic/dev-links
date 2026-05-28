@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-28 azure-sql</small>  
+<small>[SQL + AI, hands-on: Join a free workshop near you](https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-28 bencane</small>  
 <small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-05 dbreunig</small>  
 <small>[10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-05 addyosmani</small>  
-<small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
 
