@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-28 bencane</small>  
+<small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-28 bartwullems</small>  
+<small>[Respect what came before](https://bartwullems.blogspot.com/2026/05/respect-what-came-before.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
+<small>[sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
 <small>[Building a City, Not a Car](https://third-bit.com/2026/05/27/building-a-city-not-a-car/)</small>
 
@@ -58,9 +67,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
 <small>[Microsoft Copilot Cowork Exfiltrates Files](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
-<small>[Quoting Paul Graham](https://simonwillison.net/2026/May/26/paul-graham/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 visualstudio</small>  
 <small>[Visual Studio May Update – Plan, Review, Refine](https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/)</small>
 
@@ -80,7 +86,7 @@
 <small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-24 addyosmani</small>  
-<small>[The Orchestration Tax is You](https://addyosmani.com/blog/orchestration-tax/)</small>
+<small>[The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-24 pragmaticengineer</small>  
 <small>[The Pulse: Forward deployed engineering heats up again](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/)</small>
@@ -180,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 antirez</small>  
 <small>[Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-19 bartwullems</small>  
-<small>[Deploying and scaling the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/05/deploying-and-scaling-github-copilot.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-18 dotnet</small>  
 <small>[NuGet Package Pruning: Cleaner Dependencies and Actionable Vulnerability Reports](https://devblogs.microsoft.com/dotnet/nuget-package-pruning-in-dotnet-10/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-05 addyosmani</small>  
 <small>[Cognitive Surrender](https://addyosmani.com/blog/cognitive-surrender/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-04 lucumr-pocoo</small>  
-<small>[Content for Content’s Sake](https://lucumr.pocoo.org/2026/5/4/content-for-contents-sake/)</small>
 
