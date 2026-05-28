@@ -70,6 +70,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
 <small>[Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
+<small>[Basic Ideas in Queueing Theory](https://third-bit.com/2026/05/28/basic-queueing-theory/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
 <small>[The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything)</small>
 
@@ -180,9 +183,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-20 seangoedecke</small>  
 <small>[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
-<small>[Setting the Standard](https://third-bit.com/2026/05/20/standards/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-20 erikej</small>  
 <small>[Launching the SSMS Extension Gallery](https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html)</small>
