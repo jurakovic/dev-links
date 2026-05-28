@@ -1,5 +1,10 @@
 [
   {
+    "title": "Uno Platform Pitches WPF Modernization for the AI Agent Era",
+    "link": "https://visualstudiomagazine.com/articles/2026/05/28/uno-platform-pitches-wpf-modernization-for-the-ai-agent-era.aspx",
+    "pubDate": "2026-05-28T14:57:00+00:00"
+  },
+  {
     "title": "Microsoft Extends Rust-Influenced Memory-Safety Push to C#",
     "link": "https://visualstudiomagazine.com/articles/2026/05/27/microsoft-extends-rust-influenced-memory-safety-push-to-csharp.aspx",
     "pubDate": "2026-05-27T17:56:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates",
     "link": "https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx",
     "pubDate": "2026-05-21T19:31:00+00:00"
-  },
-  {
-    "title": "The Rise of OpenTelemetry in Microsoft Dev Tooling",
-    "link": "https://visualstudiomagazine.com/articles/2026/05/21/the-rise-of-opentelemetry-in-microsoft-dev-tooling.aspx",
-    "pubDate": "2026-05-21T17:06:00+00:00"
   }
 ]

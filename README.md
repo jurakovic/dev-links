@@ -4,6 +4,30 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
+<small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
+<small>[The High-Performance DBA: Total Recall, Part 1: SQL Server Memory Basics and Best Practices](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-1-sql-server-memory-basics-and-best-practices)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
+<small>[Database Storage Optimization for the High-Performance DBA](https://sqlperformance.com/2026/05/sql-performance/database-storage-optimization-for-the-high-performance-dba)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
+<small>[The High-Performance DBA: Breaking the Burnout Cycle in Modern Database Teams](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-breaking-the-burnout-cycle-in-modern-database-teams)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
+<small>[SQLPerformance 2.0: The Next Chapter](https://sqlperformance.com/2026/05/sql-performance/sqlperformance-2-0-the-next-chapter)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-28 stackoverflow</small>  
+<small>[In an AI world, the most valuable developers will be both artisans and builders](https://stackoverflow.blog/2026/05/28/artisans-and-builders/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-28 visualstudiomagazine</small>  
+<small>[Uno Platform Pitches WPF Modernization for the AI Agent Era](https://visualstudiomagazine.com/articles/2026/05/28/uno-platform-pitches-wpf-modernization-for-the-ai-agent-era.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-05-28 slack</small>  
+<small>[Slack AI: The Path to Multi-Cloud](https://slack.engineering/slack-ai-the-path-to-multi-cloud/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-28 azure-sql</small>  
 <small>[SQL + AI, hands-on: Join a free workshop near you](https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/)</small>
 
@@ -124,17 +148,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
 <small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-21 visualstudiomagazine</small>  
-<small>[The Rise of OpenTelemetry in Microsoft Dev Tooling](https://visualstudiomagazine.com/articles/2026/05/21/the-rise-of-opentelemetry-in-microsoft-dev-tooling.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 dotnet</small>  
 <small>[Announcing Agent Governance Toolkit MCP Extensions for .NET](https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 dotnet</small>  
 <small>[Improving C# Memory Safety](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-21 stackoverflow</small>  
-<small>[Coding agents are giving everyone decision fatigue](https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-21 third-bit</small>  
 <small>[Enshittification](https://third-bit.com/2026/05/21/enshittification/)</small>
@@ -285,22 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-07 github-ai</small>  
 <small>[Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-07 pragmaticengineer</small>  
-<small>[The Pulse: AI load breaks GitHub – why not other vendors?](https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-07 bencane</small>  
-<small>[YOLO Is a Terrible Strategy for Validating Production Changes](https://bencane.com/posts/2026-05-07/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-05 swizec</small>  
-<small>[What you need to make an agent](https://swizec.com/blog/what-you-need-to-make-an-agent/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-05 techtrenches</small>  
-<small>[AI Is a Mirror of Our Engineering Culture](https://techtrenches.dev/p/ai-is-a-mirror-of-our-engineering)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-05-05 slack</small>  
-<small>[From SSH to REST: A Security-Driven Modernization of Slack’s EMR Data Pipelines](https://slack.engineering/from-ssh-to-rest-a-security-driven-modernization-of-slacks-emr-data-pipelines/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-05 dbreunig</small>  
-<small>[10 Lessons for Agentic Coding](https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html)</small>
 
