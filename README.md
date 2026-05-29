@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
+<small>[The find out stage of AI is just supply chain and password protection](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-29 bartwullems</small>  
+<small>[EF Core 10–Smarter parameterized collections](https://bartwullems.blogspot.com/2026/05/ef-core-10smarter-parameterized.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-29 simonwillison</small>  
+<small>[datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-29 simonwillison</small>  
+<small>[Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
+<small>[Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
+<small>[llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
+<small>[markdown-svg-renderer](https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
 
@@ -37,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-28 bartwullems</small>  
 <small>[Respect what came before](https://bartwullems.blogspot.com/2026/05/respect-what-came-before.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
-<small>[sqlite AGENTS.md](https://simonwillison.net/2026/May/27/sqlite-agents/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
 <small>[Building a City, Not a Car](https://third-bit.com/2026/05/27/building-a-city-not-a-car/)</small>
 
@@ -51,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-27 visualstudiomagazine</small>  
 <small>[Microsoft Extends Rust-Influenced Memory-Safety Push to C#](https://visualstudiomagazine.com/articles/2026/05/27/microsoft-extends-rust-influenced-memory-safety-push-to-csharp.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
-<small>[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
 <small>[The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)</small>
@@ -67,14 +82,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-05-27 terriblesoftware</small>  
 <small>[Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-27 simonwillison</small>  
-<small>[Quoting Kyle Ferrana](https://simonwillison.net/2026/May/27/kyle-ferrana/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
 <small>[Basic Ideas in Queueing Theory](https://third-bit.com/2026/05/28/basic-queueing-theory/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
-<small>[The pressure](https://simonwillison.net/2026/May/26/the-pressure/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
 <small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
@@ -93,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 dotnet</small>  
 <small>[Give Your .NET MAUI Android Apps a Material 3 Makeover](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-26 simonwillison</small>  
-<small>[Microsoft Copilot Cowork Exfiltrates Files](https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 visualstudio</small>  
 <small>[Visual Studio May Update – Plan, Review, Refine](https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/)</small>
@@ -142,9 +148,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-22 bartwullems</small>  
 <small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up_01300653944.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-22 stackoverflow</small>  
-<small>[Breaking your AI storage bottlenecks](https://stackoverflow.blog/2026/05/22/breaking-your-ai-storage-bottlenecks/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-21 visualstudiomagazine</small>  
 <small>[.NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates](https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx)</small>
 
@@ -189,9 +192,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-20 pragmaticengineer</small>  
 <small>[Google Cloud deletes Australian trading fund’s infra](https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-20 bartwullems</small>  
-<small>[Get more out of your GitHub Copilot session history with /chronicle](https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
 <small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>

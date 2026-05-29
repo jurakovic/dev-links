@@ -1,5 +1,10 @@
 [
   {
+    "title": "EF Core 10–Smarter parameterized collections",
+    "link": "https://bartwullems.blogspot.com/2026/05/ef-core-10smarter-parameterized.html",
+    "pubDate": "2026-05-29T04:44:00+00:00"
+  },
+  {
     "title": "Respect what came before",
     "link": "https://bartwullems.blogspot.com/2026/05/respect-what-came-before.html",
     "pubDate": "2026-05-28T06:08:46+00:00"
@@ -18,10 +23,5 @@
     "title": "Always know where you stand: Setting up a live status line in GitHub Copilot CLI",
     "link": "https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up.html",
     "pubDate": "2026-05-21T05:15:00+00:00"
-  },
-  {
-    "title": "Get more out of your GitHub Copilot session history with /chronicle",
-    "link": "https://bartwullems.blogspot.com/2026/05/get-more-out-of-your-github-copilot.html",
-    "pubDate": "2026-05-20T05:21:00+00:00"
   }
 ]
