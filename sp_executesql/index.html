@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>sp_executesql Formatter</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Segoe UI', sans-serif; background: #1e1e1e; color: #d4d4d4; padding: 20px 20px 0; height: 100vh; display: flex; flex-direction: column; }
+h1 { font-size: 15px; color: #9cdcfe; margin-bottom: 14px; letter-spacing: 0.3px; }
+.panes { display: flex; flex: 1; min-height: 0; }
+.divider {
+  width: 4px;
+  margin: 0 4px;
+  background: #3c3c3c;
+  border-radius: 2px;
+  cursor: col-resize;
+  flex-shrink: 0;
+  transition: background 0.15s;
+}
+.divider:hover, .divider.dragging { background: #007acc; }
+.pane { display: flex; flex-direction: column; flex: 1; min-height: 0; min-width: 0; overflow: hidden; }
+label { font-size: 11px; color: #6a9955; text-transform: uppercase; letter-spacing: 0.8px; }
+textarea {
+  flex: 1;
+  background: #1e1e1e;
+  color: #d4d4d4;
+  border: 1px solid #3c3c3c;
+  padding: 12px;
+  font-family: 'Consolas', 'Courier New', monospace;
+  font-size: 12.5px;
+  line-height: 1.6;
+  resize: none;
+  outline: none;
+  border-radius: 3px;
+  tab-size: 4;
+}
+textarea:focus { border-color: #007acc; }
+textarea[readonly] { background: #252526; color: #ce9178; }
+.output-wrap {
+  flex: 1 1 0;
+  min-height: 0;
+  min-width: 0;
+  overflow: auto;
+  background: #252526;
+  border: 1px solid #3c3c3c;
+  border-radius: 3px;
+  outline: none;
+}
+.output-wrap:focus { border-color: #007acc; }
+.output-pre {
+  padding: 12px;
+  font-family: 'Consolas', 'Courier New', monospace;
+  font-size: 12.5px;
+  line-height: 1.6;
+  white-space: pre;
+  margin: 0;
+}
+.hl-keyword  { color: #569cd6; }
+.hl-operator { color: #888888; }
+.hl-function { color: #da70d6; }
+.hl-string   { color: #cb4141; }
+.hl-number   { color: #b5ce8c; }
+.hl-comment  { color: #57a64a; }
+.hl-variable { color: #dcdcdc; }
+.hl-bracket  { color: #dcdcdc; }
+.pane-header { display: flex; align-items: center; height: 22px; margin-bottom: 6px; }
+.pane-footer { height: 20px; display: flex; align-items: center; }
+.error { font-size: 11px; color: #f48771; font-family: monospace; }
+.copy-btn {
+  font-size: 11px;
+  background: #0e639c;
+  color: #fff;
+  border: none;
+  padding: 3px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  letter-spacing: 0.3px;
+}
+.copy-btn:hover { background: #1177bb; }
+.copy-btn:active { background: #0a4d7a; }
+.collapse-btn {
+  background: none;
+  border: none;
+  color: #858585;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0 6px;
+  line-height: 1;
+}
+.collapse-btn:hover { color: #d4d4d4; }
+.pane.collapsed { flex: 0 0 22px !important; }
+.pane.collapsed > :not(.pane-header) { display: none; }
+.pane.collapsed .pane-header { margin-bottom: 0; justify-content: center; }
+.pane.collapsed .pane-header > :not(.collapse-btn) { display: none; }
+</style>
+</head>
+<body>
+<h1>sp_executesql Formatter</h1>
+<div class="panes">
+  <div class="pane" id="pane-left">
+    <div class="pane-header">
+      <label>Input</label>
+      <button class="collapse-btn" id="collapse-left" onclick="togglePane('left')" style="margin-left: auto;">‹</button>
+    </div>
+    <textarea id="input" spellcheck="false" placeholder="Paste exec sp_executesql ... here" oninput="transform()"></textarea>
+    <div class="pane-footer">
+      <span class="error" id="error"></span>
+    </div>
+  </div>
+  <div class="divider" id="divider"></div>
+  <div class="pane" id="pane-right">
+    <div class="pane-header">
+      <button class="collapse-btn" id="collapse-right" onclick="togglePane('right')">›</button>
+      <label style="margin-left: 6px;">Output</label>
+      <button class="copy-btn" id="copy-btn" style="margin-left: 8px;" onclick="copyOutput()">Copy</button>
+    </div>
+    <div class="output-wrap" id="output-wrap" tabindex="0"><pre id="output" class="output-pre"></pre></div>
+    <div class="pane-footer"></div>
+  </div>
+</div>
+
+<script>
+let rawOutput = '';
+
+const divider = document.getElementById('divider');
+const paneLeft = document.getElementById('pane-left');
+const savedFlex = {};
+
+function togglePane(side) {
+  const pane = document.getElementById('pane-' + side);
+  const btn  = document.getElementById('collapse-' + side);
+  const collapsing = !pane.classList.contains('collapsed');
+  if (collapsing) savedFlex[side] = pane.style.flex;
+  pane.classList.toggle('collapsed', collapsing);
+  if (!collapsing) pane.style.flex = savedFlex[side] || '';
+  btn.textContent = side === 'left'
+    ? (collapsing ? '›' : '‹')
+    : (collapsing ? '‹' : '›');
+}
+
+divider.addEventListener('mousedown', function(e) {
+  e.preventDefault();
+  divider.classList.add('dragging');
+  const startX = e.clientX;
+  const startWidth = paneLeft.getBoundingClientRect().width;
+  document.body.style.cursor = 'col-resize';
+  document.body.style.userSelect = 'none';
+
+  function onMove(e) {
+    if (paneLeft.classList.contains('collapsed')) return;
+    const newWidth = Math.max(100, startWidth + e.clientX - startX);
+    paneLeft.style.flex = `0 0 ${newWidth}px`;
+  }
+  function onUp() {
+    divider.classList.remove('dragging');
+    document.body.style.cursor = '';
+    document.body.style.userSelect = '';
+    document.removeEventListener('mousemove', onMove);
+    document.removeEventListener('mouseup', onUp);
+  }
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('mouseup', onUp);
+});
+
+document.getElementById('output-wrap').addEventListener('keydown', function(e) {
+  if (e.ctrlKey && e.key === 'a') {
+    e.preventDefault();
+    const range = document.createRange();
+    range.selectNodeContents(document.getElementById('output'));
+    const sel = window.getSelection();
+    sel.removeAllRanges();
+    sel.addRange(range);
+  }
+});
+
+function transform() {
+  const input = document.getElementById('input').value.trim();
+  const errEl = document.getElementById('error');
+  const outEl = document.getElementById('output');
+  if (!input) { outEl.innerHTML = ''; rawOutput = ''; errEl.textContent = ''; return; }
+  try {
+    rawOutput = formatSpExecuteSql(input);
+    outEl.innerHTML = highlight(rawOutput);
+    errEl.textContent = '';
+  } catch (e) {
+    errEl.textContent = e.message;
+    outEl.innerHTML = '';
+    rawOutput = '';
+  }
+}
+
+function copyOutput() {
+  if (!rawOutput) return;
+  navigator.clipboard.writeText(rawOutput).then(() => {
+    const btn = document.getElementById('copy-btn');
+    btn.textContent = 'Copied!';
+    setTimeout(() => btn.textContent = 'Copy', 1500);
+  });
+}
+
+function highlight(sql) {
+  const KEYWORDS = new Set([
+    'ADD','ALL','ALTER','AS','ASC','BY','CASE','COMMIT','CONSTRAINT',
+    'CREATE','CROSS','DATABASE','DECLARE','DEFAULT','DELETE','DESC','DISTINCT','DROP',
+    'ELSE','END','EXEC','EXECUTE','FOREIGN','FROM','FULL','GO','GROUP',
+    'HAVING','IF','INDEX','INSERT','INTO','KEY','OPENJSON','INNER','JOIN',
+    'ON','ORDER','OUTER','OVER','PARTITION','PERCENT','PRIMARY',
+    'PRINT','PROCEDURE','REFERENCES','RETURN','RIGHT','LEFT','ROLLBACK','ROW',
+    'ROWLOCK','SCHEMA','SELECT','SET','TABLE','THEN','TIES','TOP','TRANSACTION',
+    'TRIGGER','UNION','UNIQUE','UPDATE','VALUES','VIEW','WHEN','WHERE','WITH',
+    'NOLOCK','NOEXPAND','TABLOCK','OUTPUT','INSERTED','DELETED','BEGIN','WHILE',
+    'DENSE_RANK','RANK','ROW_NUMBER','NTILE','LAG','LEAD','FIRST_VALUE','LAST_VALUE',
+    'TINYINT','SMALLINT','INT','INTEGER','BIGINT','BIT','DECIMAL','NUMERIC',
+    'FLOAT','REAL','MONEY','SMALLMONEY',
+    'CHAR','NCHAR','VARCHAR','NVARCHAR','TEXT','NTEXT',
+    'BINARY','VARBINARY','IMAGE',
+    'DATE','TIME','DATETIME','DATETIME2','SMALLDATETIME','DATETIMEOFFSET',
+    'UNIQUEIDENTIFIER','XML','SQL_VARIANT','ROWVERSION','TIMESTAMP',
+    'GEOGRAPHY','GEOMETRY','HIERARCHYID',
+  ]);
+  const OPERATORS = new Set([
+    'AND','OR','NOT','IS','NULL','IN','LIKE','BETWEEN','EXISTS','ANY','SOME',
+  ]);
+  const FUNCTIONS = new Set([
+    'ABS','AVG','CAST','CEILING','CHARINDEX','COALESCE','CONVERT','COUNT',
+    'DATALENGTH','DATEADD','DATEDIFF','DATENAME','DATEPART','DB_NAME','FLOOR',
+    'FORMAT','GETDATE','GETUTCDATE','IDENT_CURRENT','IIF','ISNULL','LEN',
+    'LOWER','LTRIM','MAX','MIN','NEWID','NULLIF','OBJECT_ID','PARSE','POWER',
+    'REPLACE','ROUND','RTRIM','SCHEMA_NAME','SCOPE_IDENTITY','SQRT','STRING_AGG',
+    'STRING_SPLIT','SUBSTRING','SUM','TRIM','TRY_CAST','TRY_CONVERT','TRY_PARSE',
+    'UPPER','SP_EXECUTESQL',
+  ]);
+
+  function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+  function span(cls, s) { return `<span class="${cls}">${esc(s)}</span>`; }
+
+  const out = [];
+  let i = 0;
+  while (i < sql.length) {
+    // line comment
+    if (sql[i] === '-' && sql[i+1] === '-') {
+      const s = i;
+      while (i < sql.length && sql[i] !== '\n') i++;
+      out.push(span('hl-comment', sql.slice(s, i)));
+      continue;
+    }
+    // block comment
+    if (sql[i] === '/' && sql[i+1] === '*') {
+      const s = i; i += 2;
+      while (i < sql.length && !(sql[i] === '*' && sql[i+1] === '/')) i++;
+      i += 2;
+      out.push(span('hl-comment', sql.slice(s, i)));
+      continue;
+    }
+    // string
+    if (sql[i] === "'") {
+      const s = i++;
+      while (i < sql.length) {
+        if (sql[i++] === "'" && sql[i] !== "'") break;
+      }
+      out.push(span('hl-string', sql.slice(s, i)));
+      continue;
+    }
+    // bracket identifier
+    if (sql[i] === '[') {
+      const s = i;
+      while (i < sql.length && sql[i] !== ']') i++;
+      if (i < sql.length) i++;
+      out.push(span('hl-bracket', sql.slice(s, i)));
+      continue;
+    }
+    // variable
+    if (sql[i] === '@') {
+      const s = i++;
+      while (i < sql.length && /[\w$]/.test(sql[i])) i++;
+      out.push(span('hl-variable', sql.slice(s, i)));
+      continue;
+    }
+    // number (not inside an identifier)
+    if (/\d/.test(sql[i]) && (i === 0 || !/[\w$@]/.test(sql[i-1]))) {
+      const s = i;
+      while (i < sql.length && /[\d.]/.test(sql[i])) i++;
+      out.push(span('hl-number', sql.slice(s, i)));
+      continue;
+    }
+    // word: keyword, function, or plain identifier
+    if (/[a-zA-Z_#$]/.test(sql[i])) {
+      const s = i;
+      while (i < sql.length && /[\w$#]/.test(sql[i])) i++;
+      const word = sql.slice(s, i);
+      const up = word.toUpperCase();
+      if (KEYWORDS.has(up))        out.push(span('hl-keyword',  word));
+      else if (OPERATORS.has(up)) out.push(span('hl-operator', word));
+      else if (FUNCTIONS.has(up)) out.push(span('hl-function', word));
+      else                        out.push(esc(word));
+      continue;
+    }
+    if (/[=<>!+\-*\/.()]/.test(sql[i])) {
+      out.push(span('hl-operator', esc(sql[i++])));
+      continue;
+    }
+    out.push(esc(sql[i++]));
+  }
+  return out.join('');
+}
+
+// Reads a SQL N-string starting at index i (where input[i] === "'").
+// Returns { content: string, end: number } where end is the index after the closing quote.
+function readNString(s, i) {
+  if (s[i] !== "'") throw new Error("Expected ' at position " + i);
+  i++;
+  let content = '';
+  while (i < s.length) {
+    if (s[i] === "'") {
+      if (i + 1 < s.length && s[i + 1] === "'") { content += "'"; i += 2; }
+      else { return { content, end: i + 1 }; }
+    } else {
+      content += s[i++];
+    }
+  }
+  throw new Error("Unterminated string — missing closing quote");
+}
+
+function formatSpExecuteSql(input) {
+  // Match leading "exec sp_executesql "
+  const m = input.match(/^exec\s+sp_executesql\s+/i);
+  if (!m) throw new Error("Input must start with exec sp_executesql");
+
+  let i = m[0].length;
+
+  // Optional N/n prefix before the SQL string
+  if (i < input.length && (input[i] === 'N' || input[i] === 'n')) i++;
+
+  const sqlQuotePos = i; // position of the opening quote
+  const { content: sqlContent, end: sqlEnd } = readNString(input, i);
+  i = sqlEnd;
+
+  // Collect param assignments: @name=value pairs
+  const params = {}; // lowercase name -> substitution value string
+
+  if (i < input.length && input[i] === ',') {
+    i++;
+    // Skip optional param-declaration string  N'@p1 type, @p2 type'
+    if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") i++;
+    if (i < input.length && input[i] === "'") {
+      const { end } = readNString(input, i);
+      i = end;
+    }
+
+    // Parse ,@name=value pairs
+    while (i < input.length && input[i] === ',') {
+      i++; // skip comma
+      while (i < input.length && input[i] === ' ') i++; // trim
+      if (i >= input.length || input[i] !== '@') break;
+
+      // Param name
+      const nameStart = i;
+      while (i < input.length && input[i] !== '=') i++;
+      const paramName = input.substring(nameStart, i).toLowerCase();
+      i++; // skip '='
+
+      // Param value
+      let value;
+      if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") {
+        i++; // skip N
+        const { content, end } = readNString(input, i);
+        value = "'" + content + "'";
+        i = end;
+      } else if (i < input.length && input[i] === "'") {
+        const { content, end } = readNString(input, i);
+        value = "'" + content + "'";
+        i = end;
+      } else {
+        // NULL, numeric, etc.
+        const valStart = i;
+        while (i < input.length && input[i] !== ',') i++;
+        value = input.substring(valStart, i);
+      }
+
+      params[paramName] = value;
+    }
+  }
+
+  // Substitute params into SQL — longest name first to avoid partial-match collisions
+  let sql = sqlContent;
+  for (const [name, value] of Object.entries(params).sort((a, b) => b[0].length - a[0].length)) {
+    const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    sql = sql.replace(new RegExp(escaped + '(?![\\w$@])', 'gi'), value);
+  }
+
+  const execHeader = input.substring(0, sqlQuotePos + 1); // e.g. "exec sp_executesql N'"
+  const tail = input.substring(sqlEnd);                   // everything after SQL closing quote
+
+  return `--${execHeader}\n${sql.trim()}\n--'${tail}`;
+}
+</script>
+</body>
+</html>
