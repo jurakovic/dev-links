@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 erikej</small>  
+<small>[Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-05-29 steve-yegge</small>  
+<small>[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564?source=rss-c1ec701babb7------2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
+<small>[From Silos to Service Topology: Why Netflix Built a Real-Time Service Map](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
+<small>[Best of the Heap: First post of the past](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
 <small>[The find out stage of AI is just supply chain and password protection](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)</small>
 
@@ -88,6 +100,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
 <small>[Basic Ideas in Queueing Theory](https://third-bit.com/2026/05/28/basic-queueing-theory/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
+<small>[Queue Formation](https://third-bit.com/2026/05/29/queue-formation/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
 <small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
 
@@ -145,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-22 github-ai</small>  
 <small>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-22 stackoverflow</small>  
-<small>[Dispatches from O'Reilly: The accidental orchestrator](https://stackoverflow.blog/2026/05/22/dispatches-from-o-reilly-the-accidental-orchestrator/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-22 bartwullems</small>  
 <small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up_01300653944.html)</small>
 
@@ -177,9 +189,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-21 seangoedecke</small>  
 <small>[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-20 third-bit</small>  
-<small>[Women's Work](https://third-bit.com/2026/05/20/womens-work/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-20 martinfowler</small>  
 <small>[Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-08 azure-sql</small>  
 <small>[Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-08 netflix</small>  
-<small>[Scaling ArchUnit with Nebula ArchRules](https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-08 lucumr-pocoo</small>  
-<small>[Pushing Local Models With Focus And Polish](https://lucumr.pocoo.org/2026/5/8/local-models/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-07 github-ai</small>  
-<small>[Improving token efficiency in GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/)</small>
 

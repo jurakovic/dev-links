@@ -1,5 +1,10 @@
 [
   {
+    "title": "From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
+    "link": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-05-29T14:01:02+00:00"
+  },
+  {
     "title": "Scaling ArchUnit with Nebula ArchRules",
     "link": "https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss----2615bd06b42e---4",
     "pubDate": "2026-05-08T15:55:59+00:00"
@@ -18,10 +23,5 @@
     "title": "Scaling Camera File Processing at Netflix",
     "link": "https://netflixtechblog.com/scaling-camera-file-processing-at-netflix-6dab2b1e80be?source=rss----2615bd06b42e---4",
     "pubDate": "2026-04-24T15:06:01+00:00"
-  },
-  {
-    "title": "The Human Infrastructure: How Netflix Built the Operations Layer Behind Live at Scale",
-    "link": "https://netflixtechblog.com/the-human-infrastructure-how-netflix-built-the-operations-layer-behind-live-at-scale-33e2a311c597?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-04-17T15:01:02+00:00"
   }
 ]
