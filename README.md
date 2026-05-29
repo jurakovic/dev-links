@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
+<small>[High-Throughput Graph Abstraction at Netflix: Part I](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 erikej</small>  
 <small>[Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-05-29 steve-yegge</small>  
 <small>[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564?source=rss-c1ec701babb7------2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-29 visualstudiomagazine</small>  
+<small>[VS Code 1.122 Lets BYOK Work Without GitHub Sign-In](https://visualstudiomagazine.com/articles/2026/05/29/vs-code-1-122-lets-byok-work-without-github-sign-in.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[From Silos to Service Topology: Why Netflix Built a Real-Time Service Map](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4)</small>
@@ -163,9 +169,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-22 bartwullems</small>  
 <small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up_01300653944.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-21 visualstudiomagazine</small>  
-<small>[.NET 11 Preview 4 Roundup: MAUI, Blazor, EF Core, SDK and Runtime Updates](https://visualstudiomagazine.com/articles/2026/05/21/net-11-preview-4-roundup-maui-blazor-ef-core-sdk-and-runtime-updates.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
 <small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-09 swizec</small>  
 <small>["But if AI does it all, what's \*my\* job?"](https://swizec.com/blog/but-if-ai-does-it-all-whats-my-job/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-08 azure-sql</small>  
-<small>[Generate Embeddings Function and External Model Object Support Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/generate-embeddings-function-and-external-model-object-support-are-now-generally-available-in-azure-sql/)</small>
 
