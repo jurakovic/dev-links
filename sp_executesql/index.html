@@ -1,398 +1,577 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>sp_executesql Formatter</title>
-<style>
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body { font-family: 'Segoe UI', sans-serif; background: #1e1e1e; color: #d4d4d4; padding: 20px 20px 0; height: 100vh; display: flex; flex-direction: column; }
-h1 { font-size: 15px; color: #9cdcfe; margin-bottom: 14px; letter-spacing: 0.3px; }
-.panes { display: flex; flex: 1; min-height: 0; }
-.divider {
-  width: 4px;
-  margin: 0 4px;
-  background: #3c3c3c;
-  border-radius: 2px;
-  cursor: col-resize;
-  flex-shrink: 0;
-  transition: background 0.15s;
-}
-.divider:hover, .divider.dragging { background: #007acc; }
-.pane { display: flex; flex-direction: column; flex: 1; min-height: 0; min-width: 0; overflow: hidden; }
-label { font-size: 11px; color: #6a9955; text-transform: uppercase; letter-spacing: 0.8px; }
-textarea {
-  flex: 1;
-  background: #1e1e1e;
-  color: #d4d4d4;
-  border: 1px solid #3c3c3c;
-  padding: 12px;
-  font-family: 'Consolas', 'Courier New', monospace;
-  font-size: 12.5px;
-  line-height: 1.6;
-  resize: none;
-  outline: none;
-  border-radius: 3px;
-  tab-size: 4;
-}
-textarea:focus { border-color: #007acc; }
-textarea[readonly] { background: #252526; color: #ce9178; }
-.output-wrap {
-  flex: 1 1 0;
-  min-height: 0;
-  min-width: 0;
-  overflow: auto;
-  background: #252526;
-  border: 1px solid #3c3c3c;
-  border-radius: 3px;
-  outline: none;
-}
-.output-wrap:focus { border-color: #007acc; }
-.output-pre {
-  padding: 12px;
-  font-family: 'Consolas', 'Courier New', monospace;
-  font-size: 12.5px;
-  line-height: 1.6;
-  white-space: pre;
-  margin: 0;
-}
-.hl-keyword  { color: #569cd6; }
-.hl-operator { color: #888888; }
-.hl-function { color: #da70d6; }
-.hl-string   { color: #cb4141; }
-.hl-number   { color: #b5ce8c; }
-.hl-comment  { color: #57a64a; }
-.hl-variable { color: #dcdcdc; }
-.hl-bracket  { color: #dcdcdc; }
-.pane-header { display: flex; align-items: center; height: 22px; margin-bottom: 6px; }
-.pane-footer { height: 20px; display: flex; align-items: center; }
-.error { font-size: 11px; color: #f48771; font-family: monospace; }
-.copy-btn {
-  font-size: 11px;
-  background: #0e639c;
-  color: #fff;
-  border: none;
-  padding: 3px 10px;
-  border-radius: 3px;
-  cursor: pointer;
-  letter-spacing: 0.3px;
-}
-.copy-btn:hover { background: #1177bb; }
-.copy-btn:active { background: #0a4d7a; }
-.collapse-btn {
-  background: none;
-  border: none;
-  color: #858585;
-  cursor: pointer;
-  font-size: 16px;
-  padding: 0 6px;
-  line-height: 1;
-}
-.collapse-btn:hover { color: #d4d4d4; }
-.pane.collapsed { flex: 0 0 22px !important; }
-.pane.collapsed > :not(.pane-header) { display: none; }
-.pane.collapsed .pane-header { margin-bottom: 0; justify-content: center; }
-.pane.collapsed .pane-header > :not(.collapse-btn) { display: none; }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cleanup sp_executesql</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; transition: background-color 0.2s, color 0.2s, border-color 0.2s; }
+    button, input, textarea, select { font-family: inherit; }
+
+    html { color-scheme: dark; }
+    html[data-theme="light"] { color-scheme: light; }
+    @media (prefers-color-scheme: light) {
+      html:not([data-theme="dark"]) { color-scheme: light; }
+    }
+
+    /* Each var declared twice: plain dark hex as fallback for browsers without light-dark() (pre-2024), then light-dark() for theming. */
+    html {
+      --bg:               #0f1117;     --bg:               light-dark(#fff,     #0f1117);
+      --bg-card:          #1a1f2e;     --bg-card:          light-dark(#f3f6fa,  #1a1f2e);
+      --border:           #1e2a3a;     --border:           light-dark(#dce6f0,  #1e2a3a);
+      --text:             #e2e8f0;     --text:             light-dark(#2a2c2e,  #e2e8f0);
+      --text-heading:     #f8fafc;     --text-heading:     light-dark(#2a2c2e,  #f8fafc);
+      --text-muted:       #94a3b8;     --text-muted:       light-dark(#1e6bb8,  #94a3b8);
+      --text-faint:       #475569;     --text-faint:       light-dark(#819198,  #475569);
+      --text-dim:         #334155;     --text-dim:         light-dark(#b0bbbf,  #334155);
+      --tag-border:       #2d3748;     --tag-border:       light-dark(#d8dde0,  #2d3748);
+      --tag-color:        #64748b;     --tag-color:        light-dark(#819198,  #64748b);
+      --tag-hover-border: #475569;     --tag-hover-border: light-dark(#819198,  #475569);
+      --tag-hover-color:  #cbd5e1;     --tag-hover-color:  light-dark(#2a2c2e,  #cbd5e1);
+      --accent:           #18276c;
+      --link-hover:       #60a5fa;     --link-hover:       light-dark(#18276c,  #60a5fa);
+      --err:              #f87171;     --err:              light-dark(#dc2626,  #f87171);
+
+      /* Syntax highlight palette — dark fallback, then light-dark() per theme */
+      --hl-keyword:  #569cd6;          --hl-keyword:  light-dark(#0000ff, #569cd6);
+      --hl-operator: #888888;          --hl-operator: light-dark(#777777, #888888);
+      --hl-function: #da70d6;          --hl-function: light-dark(#a626a4, #da70d6);
+      --hl-string:   #cb4141;          --hl-string:   light-dark(#a31515, #cb4141);
+      --hl-number:   #b5ce8c;          --hl-number:   light-dark(#098658, #b5ce8c);
+      --hl-comment:  #57a64a;          --hl-comment:  light-dark(#008000, #57a64a);
+      --hl-variable: #dcdcdc;          --hl-variable: light-dark(#2a2c2e, #dcdcdc);
+      --hl-bracket:  #dcdcdc;          --hl-bracket:  light-dark(#2a2c2e, #dcdcdc);
+    }
+
+    body {
+      font-family: ui-monospace, 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+      background: var(--bg);
+      color: var(--text);
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .page-header {
+      background-image: linear-gradient(120deg, #155799, #18276c);
+      padding: 1rem;
+      flex-shrink: 0;
+    }
+
+    .project-name {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #fff;
+    }
+
+    .main-content {
+      flex: 1;
+      min-height: 0;
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .panes { display: flex; flex: 1; min-height: 0; }
+
+    .divider {
+      width: 4px;
+      margin: 0 4px;
+      background: var(--border);
+      border-radius: 2px;
+      cursor: col-resize;
+      flex-shrink: 0;
+      transition: background 0.15s;
+    }
+    .divider:hover, .divider.dragging { background: var(--accent); }
+
+    .pane { display: flex; flex-direction: column; flex: 1; min-height: 0; min-width: 0; overflow: hidden; }
+
+    label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      color: var(--text-faint);
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    textarea {
+      flex: 1;
+      background: var(--bg);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 12px;
+      font-family: inherit;
+      font-size: 12.5px;
+      line-height: 1.6;
+      resize: none;
+      outline: none;
+      border-radius: 5px;
+      tab-size: 4;
+      white-space: pre;
+      overflow: auto;
+      transition: border-color 0.15s, background-color 0.2s, color 0.2s;
+    }
+    textarea:focus { border-color: var(--accent); }
+    textarea::placeholder { color: var(--text-dim); }
+
+    .output-wrap {
+      flex: 1 1 0;
+      min-height: 0;
+      min-width: 0;
+      overflow: auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 5px;
+      outline: none;
+      transition: border-color 0.15s, background-color 0.2s, color 0.2s;
+    }
+    .output-wrap:focus { border-color: var(--accent); }
+
+    .output-pre {
+      padding: 12px;
+      font-family: inherit;
+      font-size: 12.5px;
+      line-height: 1.6;
+      white-space: pre;
+      margin: 0;
+    }
+
+    .hl-keyword  { color: var(--hl-keyword); }
+    .hl-operator { color: var(--hl-operator); }
+    .hl-function { color: var(--hl-function); }
+    .hl-string   { color: var(--hl-string); }
+    .hl-number   { color: var(--hl-number); }
+    .hl-comment  { color: var(--hl-comment); }
+    .hl-variable { color: var(--hl-variable); }
+    .hl-bracket  { color: var(--hl-bracket); }
+
+    .pane-header { display: flex; align-items: center; height: 22px; margin-bottom: 6px; }
+    .pane-footer { height: 20px; display: flex; align-items: center; }
+    .error { font-size: 0.7rem; color: var(--err); }
+
+    .copy-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 4px;
+      color: var(--tag-color);
+      font-family: inherit;
+      font-size: 0.62rem;
+      cursor: pointer;
+      padding: 0.1rem 0.5rem;
+      transition: all 0.15s;
+    }
+    .copy-btn:hover { color: var(--tag-hover-color); border-color: var(--tag-hover-border); }
+
+    .collapse-btn {
+      background: none;
+      border: none;
+      color: var(--tag-color);
+      cursor: pointer;
+      font-size: 16px;
+      padding: 0 6px;
+      line-height: 1;
+      transition: color 0.15s;
+    }
+    .collapse-btn:hover { color: var(--tag-hover-color); }
+
+    .pane.collapsed { flex: 0 0 22px !important; }
+    .pane.collapsed > :not(.pane-header) { display: none; }
+    .pane.collapsed .pane-header { margin-bottom: 0; justify-content: center; }
+    .pane.collapsed .pane-header > :not(.collapse-btn) { display: none; }
+
+    .site-footer {
+      flex-shrink: 0;
+      border-top: 1px solid var(--border);
+      padding: 0.75rem 1rem;
+      color: var(--text-faint);
+      font-size: 0.875rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      overflow-x: auto;
+      scrollbar-width: none;
+      -ms-overflow-style: none;
+    }
+
+    .site-footer::-webkit-scrollbar { display: none; }
+
+    .site-footer a {
+      color: var(--text-faint);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .site-footer a:hover { color: var(--text); }
+
+    .theme-toggle {
+      background: none;
+      border: none;
+      color: inherit;
+      font-size: inherit;
+      font-family: inherit;
+      cursor: pointer;
+      padding: 0;
+      white-space: nowrap;
+    }
+
+    .theme-toggle:hover { color: var(--text); }
+    .theme-toggle::before                              { content: 'Theme: 🌗'; }
+    html[data-theme="light"] .theme-toggle::before     { content: 'Theme: ☀️'; }
+    html[data-theme="dark"]  .theme-toggle::before     { content: 'Theme: 🌙'; }
+  </style>
 </head>
 <body>
-<h1>sp_executesql Formatter</h1>
-<div class="panes">
-  <div class="pane" id="pane-left">
-    <div class="pane-header">
-      <label>Input</label>
-      <button class="collapse-btn" id="collapse-left" onclick="togglePane('left')" style="margin-left: auto;">‹</button>
+  <header class="page-header" role="banner">
+    <h1 class="project-name">Cleanup sp_executesql</h1>
+  </header>
+
+  <main class="main-content">
+    <div class="panes">
+      <div class="pane" id="pane-left">
+        <div class="pane-header">
+          <label>Input</label>
+          <button class="collapse-btn" id="collapse-left" onclick="togglePane('left')" style="margin-left: auto;">‹</button>
+        </div>
+        <textarea id="input" wrap="off" spellcheck="false" placeholder="Paste exec sp_executesql ... here" oninput="transform()"></textarea>
+        <div class="pane-footer">
+          <span class="error" id="error"></span>
+        </div>
+      </div>
+      <div class="divider" id="divider"></div>
+      <div class="pane" id="pane-right">
+        <div class="pane-header">
+          <button class="collapse-btn" id="collapse-right" onclick="togglePane('right')">›</button>
+          <label style="margin-left: 6px;">Output</label>
+          <button class="copy-btn" id="copy-btn" style="margin-left: 8px;" onclick="copyOutput()">copy</button>
+        </div>
+        <div class="output-wrap" id="output-wrap" tabindex="0"><pre id="output" class="output-pre"></pre></div>
+        <div class="pane-footer"></div>
+      </div>
     </div>
-    <textarea id="input" spellcheck="false" placeholder="Paste exec sp_executesql ... here" oninput="transform()"></textarea>
-    <div class="pane-footer">
-      <span class="error" id="error"></span>
-    </div>
-  </div>
-  <div class="divider" id="divider"></div>
-  <div class="pane" id="pane-right">
-    <div class="pane-header">
-      <button class="collapse-btn" id="collapse-right" onclick="togglePane('right')">›</button>
-      <label style="margin-left: 6px;">Output</label>
-      <button class="copy-btn" id="copy-btn" style="margin-left: 8px;" onclick="copyOutput()">Copy</button>
-    </div>
-    <div class="output-wrap" id="output-wrap" tabindex="0"><pre id="output" class="output-pre"></pre></div>
-    <div class="pane-footer"></div>
-  </div>
-</div>
+  </main>
+
+  <footer class="site-footer">
+    <button class="theme-toggle" id="themeToggle"></button>
+    <span style="white-space:nowrap">
+      <a href="https://jurakovic.github.io/dev-links/tools">dev-tools</a>
+      ·
+      <a href="https://jurakovic.github.io/dev-links/">dev-links</a>
+      ·
+      <a href="https://jurakovic.github.io/dev-links/news/">dev-news</a>
+      ·
+      <a href="https://jurakovic.github.io">Projects</a>
+    </span>
+  </footer>
 
 <script>
-let rawOutput = '';
-
-const divider = document.getElementById('divider');
-const paneLeft = document.getElementById('pane-left');
-const savedFlex = {};
-
-function togglePane(side) {
-  const pane = document.getElementById('pane-' + side);
-  const btn  = document.getElementById('collapse-' + side);
-  const collapsing = !pane.classList.contains('collapsed');
-  if (collapsing) savedFlex[side] = pane.style.flex;
-  pane.classList.toggle('collapsed', collapsing);
-  if (!collapsing) pane.style.flex = savedFlex[side] || '';
-  btn.textContent = side === 'left'
-    ? (collapsing ? '›' : '‹')
-    : (collapsing ? '‹' : '›');
-}
-
-divider.addEventListener('mousedown', function(e) {
-  e.preventDefault();
-  divider.classList.add('dragging');
-  const startX = e.clientX;
-  const startWidth = paneLeft.getBoundingClientRect().width;
-  document.body.style.cursor = 'col-resize';
-  document.body.style.userSelect = 'none';
-
-  function onMove(e) {
-    if (paneLeft.classList.contains('collapsed')) return;
-    const newWidth = Math.max(100, startWidth + e.clientX - startX);
-    paneLeft.style.flex = `0 0 ${newWidth}px`;
+  // Theme — same logic as index.html
+  const urlTheme = new URLSearchParams(location.search).get('theme');
+  document.documentElement.dataset.theme = (urlTheme === 'light' || urlTheme === 'dark') ? urlTheme : 'auto';
+  function setTheme(t) {
+    document.documentElement.dataset.theme = t;
+    const params = new URLSearchParams(location.search);
+    if (t === 'auto') params.delete('theme');
+    else params.set('theme', t);
+    const qs = params.toString();
+    try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {}
   }
-  function onUp() {
-    divider.classList.remove('dragging');
-    document.body.style.cursor = '';
-    document.body.style.userSelect = '';
-    document.removeEventListener('mousemove', onMove);
-    document.removeEventListener('mouseup', onUp);
-  }
-  document.addEventListener('mousemove', onMove);
-  document.addEventListener('mouseup', onUp);
-});
-
-document.getElementById('output-wrap').addEventListener('keydown', function(e) {
-  if (e.ctrlKey && e.key === 'a') {
-    e.preventDefault();
-    const range = document.createRange();
-    range.selectNodeContents(document.getElementById('output'));
-    const sel = window.getSelection();
-    sel.removeAllRanges();
-    sel.addRange(range);
-  }
-});
-
-function transform() {
-  const input = document.getElementById('input').value.trim();
-  const errEl = document.getElementById('error');
-  const outEl = document.getElementById('output');
-  if (!input) { outEl.innerHTML = ''; rawOutput = ''; errEl.textContent = ''; return; }
-  try {
-    rawOutput = formatSpExecuteSql(input);
-    outEl.innerHTML = highlight(rawOutput);
-    errEl.textContent = '';
-  } catch (e) {
-    errEl.textContent = e.message;
-    outEl.innerHTML = '';
-    rawOutput = '';
-  }
-}
-
-function copyOutput() {
-  if (!rawOutput) return;
-  navigator.clipboard.writeText(rawOutput).then(() => {
-    const btn = document.getElementById('copy-btn');
-    btn.textContent = 'Copied!';
-    setTimeout(() => btn.textContent = 'Copy', 1500);
+  document.getElementById('themeToggle').addEventListener('click', () => {
+    const t = document.documentElement.dataset.theme;
+    setTheme(t === 'auto' ? 'light' : t === 'light' ? 'dark' : 'auto');
   });
-}
 
-function highlight(sql) {
-  const KEYWORDS = new Set([
-    'ADD','ALL','ALTER','AS','ASC','BY','CASE','COMMIT','CONSTRAINT',
-    'CREATE','CROSS','DATABASE','DECLARE','DEFAULT','DELETE','DESC','DISTINCT','DROP',
-    'ELSE','END','EXEC','EXECUTE','FOREIGN','FROM','FULL','GO','GROUP',
-    'HAVING','IF','INDEX','INSERT','INTO','KEY','OPENJSON','INNER','JOIN',
-    'ON','ORDER','OUTER','OVER','PARTITION','PERCENT','PRIMARY',
-    'PRINT','PROCEDURE','REFERENCES','RETURN','RIGHT','LEFT','ROLLBACK','ROW',
-    'ROWLOCK','SCHEMA','SELECT','SET','TABLE','THEN','TIES','TOP','TRANSACTION',
-    'TRIGGER','UNION','UNIQUE','UPDATE','VALUES','VIEW','WHEN','WHERE','WITH',
-    'NOLOCK','NOEXPAND','TABLOCK','OUTPUT','INSERTED','DELETED','BEGIN','WHILE',
-    'DENSE_RANK','RANK','ROW_NUMBER','NTILE','LAG','LEAD','FIRST_VALUE','LAST_VALUE',
-    'TINYINT','SMALLINT','INT','INTEGER','BIGINT','BIT','DECIMAL','NUMERIC',
-    'FLOAT','REAL','MONEY','SMALLMONEY',
-    'CHAR','NCHAR','VARCHAR','NVARCHAR','TEXT','NTEXT',
-    'BINARY','VARBINARY','IMAGE',
-    'DATE','TIME','DATETIME','DATETIME2','SMALLDATETIME','DATETIMEOFFSET',
-    'UNIQUEIDENTIFIER','XML','SQL_VARIANT','ROWVERSION','TIMESTAMP',
-    'GEOGRAPHY','GEOMETRY','HIERARCHYID',
-  ]);
-  const OPERATORS = new Set([
-    'AND','OR','NOT','IS','NULL','IN','LIKE','BETWEEN','EXISTS','ANY','SOME',
-  ]);
-  const FUNCTIONS = new Set([
-    'ABS','AVG','CAST','CEILING','CHARINDEX','COALESCE','CONVERT','COUNT',
-    'DATALENGTH','DATEADD','DATEDIFF','DATENAME','DATEPART','DB_NAME','FLOOR',
-    'FORMAT','GETDATE','GETUTCDATE','IDENT_CURRENT','IIF','ISNULL','LEN',
-    'LOWER','LTRIM','MAX','MIN','NEWID','NULLIF','OBJECT_ID','PARSE','POWER',
-    'REPLACE','ROUND','RTRIM','SCHEMA_NAME','SCOPE_IDENTITY','SQRT','STRING_AGG',
-    'STRING_SPLIT','SUBSTRING','SUM','TRIM','TRY_CAST','TRY_CONVERT','TRY_PARSE',
-    'UPPER','SP_EXECUTESQL',
-  ]);
+  let rawOutput = '';
 
-  function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
-  function span(cls, s) { return `<span class="${cls}">${esc(s)}</span>`; }
+  const divider = document.getElementById('divider');
+  const paneLeft = document.getElementById('pane-left');
+  const savedFlex = {};
 
-  const out = [];
-  let i = 0;
-  while (i < sql.length) {
-    // line comment
-    if (sql[i] === '-' && sql[i+1] === '-') {
-      const s = i;
-      while (i < sql.length && sql[i] !== '\n') i++;
-      out.push(span('hl-comment', sql.slice(s, i)));
-      continue;
+  function togglePane(side) {
+    const pane = document.getElementById('pane-' + side);
+    const btn  = document.getElementById('collapse-' + side);
+    const collapsing = !pane.classList.contains('collapsed');
+    if (collapsing) savedFlex[side] = pane.style.flex;
+    pane.classList.toggle('collapsed', collapsing);
+    if (!collapsing) pane.style.flex = savedFlex[side] || '';
+    btn.textContent = side === 'left'
+      ? (collapsing ? '›' : '‹')
+      : (collapsing ? '‹' : '›');
+  }
+
+  divider.addEventListener('mousedown', function(e) {
+    e.preventDefault();
+    divider.classList.add('dragging');
+    const startX = e.clientX;
+    const startWidth = paneLeft.getBoundingClientRect().width;
+    document.body.style.cursor = 'col-resize';
+    document.body.style.userSelect = 'none';
+
+    function onMove(e) {
+      if (paneLeft.classList.contains('collapsed')) return;
+      const newWidth = Math.max(100, startWidth + e.clientX - startX);
+      paneLeft.style.flex = `0 0 ${newWidth}px`;
     }
-    // block comment
-    if (sql[i] === '/' && sql[i+1] === '*') {
-      const s = i; i += 2;
-      while (i < sql.length && !(sql[i] === '*' && sql[i+1] === '/')) i++;
-      i += 2;
-      out.push(span('hl-comment', sql.slice(s, i)));
-      continue;
+    function onUp() {
+      divider.classList.remove('dragging');
+      document.body.style.cursor = '';
+      document.body.style.userSelect = '';
+      document.removeEventListener('mousemove', onMove);
+      document.removeEventListener('mouseup', onUp);
     }
-    // string
-    if (sql[i] === "'") {
-      const s = i++;
-      while (i < sql.length) {
-        if (sql[i++] === "'" && sql[i] !== "'") break;
+    document.addEventListener('mousemove', onMove);
+    document.addEventListener('mouseup', onUp);
+  });
+
+  // After pasting, the caret lands at the end of the (likely long) last line, scrolling the input fully right.
+  // Append a trailing newline if missing and park the caret on that empty line — the caret stays at the end,
+  // but since the last line is empty the input scrolls back to the left on its own.
+  document.getElementById('input').addEventListener('paste', function() {
+    const el = this;
+    setTimeout(() => {
+      if (el.value && !el.value.endsWith('\n')) {
+        el.value += '\n';
+        transform();
       }
-      out.push(span('hl-string', sql.slice(s, i)));
-      continue;
-    }
-    // bracket identifier
-    if (sql[i] === '[') {
-      const s = i;
-      while (i < sql.length && sql[i] !== ']') i++;
-      if (i < sql.length) i++;
-      out.push(span('hl-bracket', sql.slice(s, i)));
-      continue;
-    }
-    // variable
-    if (sql[i] === '@') {
-      const s = i++;
-      while (i < sql.length && /[\w$]/.test(sql[i])) i++;
-      out.push(span('hl-variable', sql.slice(s, i)));
-      continue;
-    }
-    // number (not inside an identifier)
-    if (/\d/.test(sql[i]) && (i === 0 || !/[\w$@]/.test(sql[i-1]))) {
-      const s = i;
-      while (i < sql.length && /[\d.]/.test(sql[i])) i++;
-      out.push(span('hl-number', sql.slice(s, i)));
-      continue;
-    }
-    // word: keyword, function, or plain identifier
-    if (/[a-zA-Z_#$]/.test(sql[i])) {
-      const s = i;
-      while (i < sql.length && /[\w$#]/.test(sql[i])) i++;
-      const word = sql.slice(s, i);
-      const up = word.toUpperCase();
-      if (KEYWORDS.has(up))        out.push(span('hl-keyword',  word));
-      else if (OPERATORS.has(up)) out.push(span('hl-operator', word));
-      else if (FUNCTIONS.has(up)) out.push(span('hl-function', word));
-      else                        out.push(esc(word));
-      continue;
-    }
-    if (/[=<>!+\-*\/.()]/.test(sql[i])) {
-      out.push(span('hl-operator', esc(sql[i++])));
-      continue;
-    }
-    out.push(esc(sql[i++]));
-  }
-  return out.join('');
-}
+      el.setSelectionRange(el.value.length, el.value.length);
+      el.scrollLeft = 0;
+    }, 0);
+  });
 
-// Reads a SQL N-string starting at index i (where input[i] === "'").
-// Returns { content: string, end: number } where end is the index after the closing quote.
-function readNString(s, i) {
-  if (s[i] !== "'") throw new Error("Expected ' at position " + i);
-  i++;
-  let content = '';
-  while (i < s.length) {
-    if (s[i] === "'") {
-      if (i + 1 < s.length && s[i + 1] === "'") { content += "'"; i += 2; }
-      else { return { content, end: i + 1 }; }
-    } else {
-      content += s[i++];
+  document.getElementById('output-wrap').addEventListener('keydown', function(e) {
+    if (e.ctrlKey && e.key === 'a') {
+      e.preventDefault();
+      const range = document.createRange();
+      range.selectNodeContents(document.getElementById('output'));
+      const sel = window.getSelection();
+      sel.removeAllRanges();
+      sel.addRange(range);
+    }
+  });
+
+  function transform() {
+    const input = document.getElementById('input').value.trim();
+    const errEl = document.getElementById('error');
+    const outEl = document.getElementById('output');
+    if (!input) { outEl.innerHTML = ''; rawOutput = ''; errEl.textContent = ''; return; }
+    try {
+      rawOutput = formatSpExecuteSql(input);
+      outEl.innerHTML = highlight(rawOutput);
+      errEl.textContent = '';
+    } catch (e) {
+      errEl.textContent = e.message;
+      outEl.innerHTML = '';
+      rawOutput = '';
     }
   }
-  throw new Error("Unterminated string — missing closing quote");
-}
 
-function formatSpExecuteSql(input) {
-  // Match leading "exec sp_executesql "
-  const m = input.match(/^exec\s+sp_executesql\s+/i);
-  if (!m) throw new Error("Input must start with exec sp_executesql");
+  function copyOutput() {
+    if (!rawOutput) return;
+    navigator.clipboard.writeText(rawOutput).then(() => {
+      const btn = document.getElementById('copy-btn');
+      btn.textContent = 'copied!';
+      setTimeout(() => btn.textContent = 'copy', 1500);
+    });
+  }
 
-  let i = m[0].length;
+  function highlight(sql) {
+    const KEYWORDS = new Set([
+      'ADD','ALL','ALTER','AS','ASC','BY','CASE','COMMIT','CONSTRAINT',
+      'CREATE','CROSS','DATABASE','DECLARE','DEFAULT','DELETE','DESC','DISTINCT','DROP',
+      'ELSE','END','EXEC','EXECUTE','FOREIGN','FROM','FULL','GO','GROUP',
+      'HAVING','IF','INDEX','INSERT','INTO','KEY','OPENJSON','INNER','JOIN',
+      'ON','ORDER','OUTER','OVER','PARTITION','PERCENT','PRIMARY',
+      'PRINT','PROCEDURE','REFERENCES','RETURN','RIGHT','LEFT','ROLLBACK','ROW',
+      'ROWLOCK','SCHEMA','SELECT','SET','TABLE','THEN','TIES','TOP','TRANSACTION',
+      'TRIGGER','UNION','UNIQUE','UPDATE','VALUES','VIEW','WHEN','WHERE','WITH',
+      'NOLOCK','NOEXPAND','TABLOCK','OUTPUT','INSERTED','DELETED','BEGIN','WHILE',
+      'DENSE_RANK','RANK','ROW_NUMBER','NTILE','LAG','LEAD','FIRST_VALUE','LAST_VALUE',
+      'TINYINT','SMALLINT','INT','INTEGER','BIGINT','BIT','DECIMAL','NUMERIC',
+      'FLOAT','REAL','MONEY','SMALLMONEY',
+      'CHAR','NCHAR','VARCHAR','NVARCHAR','TEXT','NTEXT',
+      'BINARY','VARBINARY','IMAGE',
+      'DATE','TIME','DATETIME','DATETIME2','SMALLDATETIME','DATETIMEOFFSET',
+      'UNIQUEIDENTIFIER','XML','SQL_VARIANT','ROWVERSION','TIMESTAMP',
+      'GEOGRAPHY','GEOMETRY','HIERARCHYID',
+    ]);
+    const OPERATORS = new Set([
+      'AND','OR','NOT','IS','NULL','IN','LIKE','BETWEEN','EXISTS','ANY','SOME',
+    ]);
+    const FUNCTIONS = new Set([
+      'ABS','AVG','CAST','CEILING','CHARINDEX','COALESCE','CONVERT','COUNT',
+      'DATALENGTH','DATEADD','DATEDIFF','DATENAME','DATEPART','DB_NAME','FLOOR',
+      'FORMAT','GETDATE','GETUTCDATE','IDENT_CURRENT','IIF','ISNULL','LEN',
+      'LOWER','LTRIM','MAX','MIN','NEWID','NULLIF','OBJECT_ID','PARSE','POWER',
+      'REPLACE','ROUND','RTRIM','SCHEMA_NAME','SCOPE_IDENTITY','SQRT','STRING_AGG',
+      'STRING_SPLIT','SUBSTRING','SUM','TRIM','TRY_CAST','TRY_CONVERT','TRY_PARSE',
+      'UPPER','SP_EXECUTESQL',
+    ]);
 
-  // Optional N/n prefix before the SQL string
-  if (i < input.length && (input[i] === 'N' || input[i] === 'n')) i++;
+    function esc(s) { return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
+    function span(cls, s) { return `<span class="${cls}">${esc(s)}</span>`; }
 
-  const sqlQuotePos = i; // position of the opening quote
-  const { content: sqlContent, end: sqlEnd } = readNString(input, i);
-  i = sqlEnd;
+    const out = [];
+    let i = 0;
+    while (i < sql.length) {
+      // line comment
+      if (sql[i] === '-' && sql[i+1] === '-') {
+        const s = i;
+        while (i < sql.length && sql[i] !== '\n') i++;
+        out.push(span('hl-comment', sql.slice(s, i)));
+        continue;
+      }
+      // block comment
+      if (sql[i] === '/' && sql[i+1] === '*') {
+        const s = i; i += 2;
+        while (i < sql.length && !(sql[i] === '*' && sql[i+1] === '/')) i++;
+        i += 2;
+        out.push(span('hl-comment', sql.slice(s, i)));
+        continue;
+      }
+      // string
+      if (sql[i] === "'") {
+        const s = i++;
+        while (i < sql.length) {
+          if (sql[i++] === "'" && sql[i] !== "'") break;
+        }
+        out.push(span('hl-string', sql.slice(s, i)));
+        continue;
+      }
+      // bracket identifier
+      if (sql[i] === '[') {
+        const s = i;
+        while (i < sql.length && sql[i] !== ']') i++;
+        if (i < sql.length) i++;
+        out.push(span('hl-bracket', sql.slice(s, i)));
+        continue;
+      }
+      // variable
+      if (sql[i] === '@') {
+        const s = i++;
+        while (i < sql.length && /[\w$]/.test(sql[i])) i++;
+        out.push(span('hl-variable', sql.slice(s, i)));
+        continue;
+      }
+      // number (not inside an identifier)
+      if (/\d/.test(sql[i]) && (i === 0 || !/[\w$@]/.test(sql[i-1]))) {
+        const s = i;
+        while (i < sql.length && /[\d.]/.test(sql[i])) i++;
+        out.push(span('hl-number', sql.slice(s, i)));
+        continue;
+      }
+      // word: keyword, function, or plain identifier
+      if (/[a-zA-Z_#$]/.test(sql[i])) {
+        const s = i;
+        while (i < sql.length && /[\w$#]/.test(sql[i])) i++;
+        const word = sql.slice(s, i);
+        const up = word.toUpperCase();
+        if (KEYWORDS.has(up))        out.push(span('hl-keyword',  word));
+        else if (OPERATORS.has(up)) out.push(span('hl-operator', word));
+        else if (FUNCTIONS.has(up)) out.push(span('hl-function', word));
+        else                        out.push(esc(word));
+        continue;
+      }
+      if (/[=<>!+\-*\/.()]/.test(sql[i])) {
+        out.push(span('hl-operator', esc(sql[i++])));
+        continue;
+      }
+      out.push(esc(sql[i++]));
+    }
+    return out.join('');
+  }
 
-  // Collect param assignments: @name=value pairs
-  const params = {}; // lowercase name -> substitution value string
-
-  if (i < input.length && input[i] === ',') {
+  // Reads a SQL N-string starting at index i (where input[i] === "'").
+  // Returns { content: string, end: number } where end is the index after the closing quote.
+  function readNString(s, i) {
+    if (s[i] !== "'") throw new Error("Expected ' at position " + i);
     i++;
-    // Skip optional param-declaration string  N'@p1 type, @p2 type'
-    if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") i++;
-    if (i < input.length && input[i] === "'") {
-      const { end } = readNString(input, i);
-      i = end;
-    }
-
-    // Parse ,@name=value pairs
-    while (i < input.length && input[i] === ',') {
-      i++; // skip comma
-      while (i < input.length && input[i] === ' ') i++; // trim
-      if (i >= input.length || input[i] !== '@') break;
-
-      // Param name
-      const nameStart = i;
-      while (i < input.length && input[i] !== '=') i++;
-      const paramName = input.substring(nameStart, i).toLowerCase();
-      i++; // skip '='
-
-      // Param value
-      let value;
-      if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") {
-        i++; // skip N
-        const { content, end } = readNString(input, i);
-        value = "'" + content + "'";
-        i = end;
-      } else if (i < input.length && input[i] === "'") {
-        const { content, end } = readNString(input, i);
-        value = "'" + content + "'";
-        i = end;
+    let content = '';
+    while (i < s.length) {
+      if (s[i] === "'") {
+        if (i + 1 < s.length && s[i + 1] === "'") { content += "'"; i += 2; }
+        else { return { content, end: i + 1 }; }
       } else {
-        // NULL, numeric, etc.
-        const valStart = i;
-        while (i < input.length && input[i] !== ',') i++;
-        value = input.substring(valStart, i);
+        content += s[i++];
+      }
+    }
+    throw new Error("Unterminated string — missing closing quote");
+  }
+
+  function formatSpExecuteSql(input) {
+    // Match leading "exec sp_executesql "
+    const m = input.match(/^exec\s+sp_executesql\s+/i);
+    if (!m) throw new Error("Input must start with exec sp_executesql");
+
+    let i = m[0].length;
+
+    // Optional N/n prefix before the SQL string
+    if (i < input.length && (input[i] === 'N' || input[i] === 'n')) i++;
+
+    const sqlQuotePos = i; // position of the opening quote
+    const { content: sqlContent, end: sqlEnd } = readNString(input, i);
+    i = sqlEnd;
+
+    // Collect param assignments: @name=value pairs
+    const params = {}; // lowercase name -> substitution value string
+
+    if (i < input.length && input[i] === ',') {
+      i++;
+      // Skip optional param-declaration string  N'@p1 type, @p2 type'
+      if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") i++;
+      if (i < input.length && input[i] === "'") {
+        const { end } = readNString(input, i);
+        i = end;
       }
 
-      params[paramName] = value;
+      // Parse ,@name=value pairs
+      while (i < input.length && input[i] === ',') {
+        i++; // skip comma
+        while (i < input.length && input[i] === ' ') i++; // trim
+        if (i >= input.length || input[i] !== '@') break;
+
+        // Param name
+        const nameStart = i;
+        while (i < input.length && input[i] !== '=') i++;
+        const paramName = input.substring(nameStart, i).toLowerCase();
+        i++; // skip '='
+
+        // Param value
+        let value;
+        if (i < input.length && (input[i] === 'N' || input[i] === 'n') && input[i + 1] === "'") {
+          i++; // skip N
+          const { content, end } = readNString(input, i);
+          value = "'" + content + "'";
+          i = end;
+        } else if (i < input.length && input[i] === "'") {
+          const { content, end } = readNString(input, i);
+          value = "'" + content + "'";
+          i = end;
+        } else {
+          // NULL, numeric, etc.
+          const valStart = i;
+          while (i < input.length && input[i] !== ',') i++;
+          value = input.substring(valStart, i);
+        }
+
+        params[paramName] = value;
+      }
     }
+
+    // Substitute params into SQL — longest name first to avoid partial-match collisions
+    let sql = sqlContent;
+    for (const [name, value] of Object.entries(params).sort((a, b) => b[0].length - a[0].length)) {
+      const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      sql = sql.replace(new RegExp(escaped + '(?![\\w$@])', 'gi'), value);
+    }
+
+    const execHeader = input.substring(0, sqlQuotePos + 1); // e.g. "exec sp_executesql N'"
+    const tail = input.substring(sqlEnd);                   // everything after SQL closing quote
+
+    return `--${execHeader}\n${sql.trim()}\n--'${tail}`;
   }
-
-  // Substitute params into SQL — longest name first to avoid partial-match collisions
-  let sql = sqlContent;
-  for (const [name, value] of Object.entries(params).sort((a, b) => b[0].length - a[0].length)) {
-    const escaped = name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    sql = sql.replace(new RegExp(escaped + '(?![\\w$@])', 'gi'), value);
-  }
-
-  const execHeader = input.substring(0, sqlQuotePos + 1); // e.g. "exec sp_executesql N'"
-  const tail = input.substring(sqlEnd);                   // everything after SQL closing quote
-
-  return `--${execHeader}\n${sql.trim()}\n--'${tail}`;
-}
 </script>
 </body>
 </html>
