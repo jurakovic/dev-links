@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
+<small>[Little's Law](https://third-bit.com/2026/05/30/littles-law/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
+<small>[How to Not Be Wrong About AI](https://third-bit.com/2026/05/30/how-to-not-be-wrong-about-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[High-Throughput Graph Abstraction at Netflix: Part I](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4)</small>
 
@@ -104,10 +110,10 @@
 <small>[GitHub Copilot AI Credits switch: Here's what to do before June 1](https://bartwullems.blogspot.com/2026/05/github-copilot-ai-credits-switch-heres.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
-<small>[Basic Ideas in Queueing Theory](https://third-bit.com/2026/05/28/basic-queueing-theory/)</small>
+<small>[Queue Formation](https://third-bit.com/2026/05/29/queue-formation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
-<small>[Queue Formation](https://third-bit.com/2026/05/29/queue-formation/)</small>
+<small>[Basic Ideas in Queueing Theory](https://third-bit.com/2026/05/28/basic-queueing-theory/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
 <small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
@@ -117,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-26 swizec</small>  
 <small>[Relentlessly focus on the outcomes](https://swizec.com/blog/relentlessly-focus-on-the-outcomes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-26 third-bit</small>  
-<small>[Summer Projects](https://third-bit.com/2026/05/26/summer-projects/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 dotnet</small>  
 <small>[Doing More with GitHub Copilot as a .NET Developer](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/)</small>
@@ -177,9 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 dotnet</small>  
 <small>[Improving C# Memory Safety](https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-21 third-bit</small>  
-<small>[Enshittification](https://third-bit.com/2026/05/21/enshittification/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 erikej</small>  
 <small>[SqlServer.Rules 5.0.0 is out 🎉](https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html)</small>
