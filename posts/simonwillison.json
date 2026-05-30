@@ -1,27 +1,27 @@
 [
   {
+    "title": "How we contain Claude across products",
+    "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "pubDate": "2026-05-30T21:36:24+00:00"
+  },
+  {
+    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
+    "link": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
+    "pubDate": "2026-05-30T21:02:16+00:00"
+  },
+  {
+    "title": "I Am Retiring from Tech to Live Offline",
+    "link": "https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything",
+    "pubDate": "2026-05-30T19:39:08+00:00"
+  },
+  {
+    "title": "Quoting Daniel Jalkut",
+    "link": "https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything",
+    "pubDate": "2026-05-30T17:29:55+00:00"
+  },
+  {
     "title": "datasette 1.0a31",
     "link": "https://simonwillison.net/2026/May/29/datasette/#atom-everything",
     "pubDate": "2026-05-29T03:32:02+00:00"
-  },
-  {
-    "title": "Anthropic's run-rate revenue hits $47 billion",
-    "link": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
-    "pubDate": "2026-05-29T01:23:08+00:00"
-  },
-  {
-    "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
-    "link": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
-    "pubDate": "2026-05-28T23:59:50+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.25.1",
-    "link": "https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything",
-    "pubDate": "2026-05-28T23:54:56+00:00"
-  },
-  {
-    "title": "markdown-svg-renderer",
-    "link": "https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything",
-    "pubDate": "2026-05-28T19:45:14+00:00"
   }
 ]

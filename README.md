@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
+<small>[How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
+<small>[Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
+<small>[I Am Retiring from Tech to Live Offline](https://simonwillison.net/2026/May/30/retiring-from-tech-to-live-offline/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
+<small>[Quoting Daniel Jalkut](https://simonwillison.net/2026/May/30/daniel-jalkut/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
+<small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
 <small>[Little's Law](https://third-bit.com/2026/05/30/littles-law/)</small>
 
@@ -36,18 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-29 simonwillison</small>  
 <small>[datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-29 simonwillison</small>  
-<small>[Anthropic's run-rate revenue hits $47 billion](https://simonwillison.net/2026/May/29/anthropic/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
-<small>[Claude Opus 4.8: "a modest but tangible improvement"](https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
-<small>[llm-anthropic 0.25.1](https://simonwillison.net/2026/May/28/llm-anthropic/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-28 simonwillison</small>  
-<small>[markdown-svg-renderer](https://simonwillison.net/2026/May/28/markdown-svg-renderer/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-10 steven-giesel</small>  
 <small>[BackgroundService exceptions now propagate in .NET 11](https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-09 swizec</small>  
-<small>["But if AI does it all, what's \*my\* job?"](https://swizec.com/blog/but-if-ai-does-it-all-whats-my-job/)</small>
 
