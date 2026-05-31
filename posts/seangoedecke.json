@@ -1,5 +1,10 @@
 [
   {
+    "title": "Build agents, not pipelines",
+    "link": "https://seangoedecke.com/build-agents-not-pipelines/",
+    "pubDate": "2026-05-31T10:01:11+00:00"
+  },
+  {
     "title": "The famous o3 \"GeoGuessr\" prompt did not work",
     "link": "https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
     "pubDate": "2026-05-21T07:49:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How I use LLMs as a staff engineer in 2026",
     "link": "https://seangoedecke.com/how-i-use-llms-in-2026/",
     "pubDate": "2026-05-16T22:42:06+00:00"
-  },
-  {
-    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-    "link": "https://seangoedecke.com/steering-vectors/",
-    "pubDate": "2026-05-16T11:01:06+00:00"
   }
 ]
