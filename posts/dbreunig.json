@@ -1,5 +1,10 @@
 [
   {
+    "title": "What Do Humans Need From Docs?",
+    "link": "https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html",
+    "pubDate": "2026-05-31T16:36:00+00:00"
+  },
+  {
     "title": "The Cost of Overfitting the Harness",
     "link": "https://www.dbreunig.com/2026/05/10/overfitting-the-harness.html",
     "pubDate": "2026-05-10T16:26:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How Claude Code Builds a System Prompt",
     "link": "https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html",
     "pubDate": "2026-04-04T22:14:00+00:00"
-  },
-  {
-    "title": "The 2nd Phase of Agentic Development",
-    "link": "https://www.dbreunig.com/2026/04/01/the-2nd-phase-of-agentic-development.html",
-    "pubDate": "2026-04-01T23:26:00+00:00"
   }
 ]
