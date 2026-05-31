@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-31 simonwillison</small>  
+<small>[Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
 <small>[How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything)</small>
 
@@ -48,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-29 bartwullems</small>  
 <small>[EF Core 10–Smarter parameterized collections](https://bartwullems.blogspot.com/2026/05/ef-core-10smarter-parameterized.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-29 simonwillison</small>  
-<small>[datasette 1.0a31](https://simonwillison.net/2026/May/29/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
