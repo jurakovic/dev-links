@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-01 third-bit</small>  
+<small>[Queue Nonlinearity](https://third-bit.com/2026/06/01/nonlinearity/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
 <small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
 
@@ -129,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-27 bartwullems</small>  
 <small>[GitHub Copilot AI Credits switch: Here's what to do before June 1](https://bartwullems.blogspot.com/2026/05/github-copilot-ai-credits-switch-heres.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-27 third-bit</small>  
-<small>[Queue Formation](https://third-bit.com/2026/05/29/queue-formation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
 <small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
