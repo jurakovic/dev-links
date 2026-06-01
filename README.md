@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
+<small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-01 bartwullems</small>  
+<small>[Type-safe tool definitions come to the Copilot .NET SDK](https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-01 simonwillison</small>  
+<small>[May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-31 simonwillison</small>  
 <small>[datasette 1.0a32](https://simonwillison.net/2026/May/31/datasette/#atom-everything)</small>
 
@@ -30,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
 <small>[How we contain Claude across products](https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-30 simonwillison</small>  
-<small>[Running Python ASGI apps in the browser via Pyodide + a service worker](https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
 <small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
@@ -181,9 +187,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-22 github-ai</small>  
 <small>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-22 bartwullems</small>  
-<small>[Always know where you stand: Setting up a live status line in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up_01300653944.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
 <small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
 
@@ -246,9 +249,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-18 damienbod</small>  
 <small>[Aspire Azure SQL deployment bug](https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-16 seangoedecke</small>  
-<small>[How I use LLMs as a staff engineer in 2026](https://seangoedecke.com/how-i-use-llms-in-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-16 addyosmani</small>  
 <small>[Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)</small>

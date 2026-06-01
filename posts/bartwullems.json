@@ -1,5 +1,10 @@
 [
   {
+    "title": "Type-safe tool definitions come to the Copilot .NET SDK",
+    "link": "https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html",
+    "pubDate": "2026-06-01T05:23:00+00:00"
+  },
+  {
     "title": "EF Core 10–Smarter parameterized collections",
     "link": "https://bartwullems.blogspot.com/2026/05/ef-core-10smarter-parameterized.html",
     "pubDate": "2026-05-29T04:44:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Using ExecutionLog views in SQL Server Reporting Services to monitor performance",
     "link": "https://bartwullems.blogspot.com/2026/05/using-executionlog-views-in-sql-server.html",
     "pubDate": "2026-05-26T06:25:22+00:00"
-  },
-  {
-    "title": "Always know where you stand: Setting up a live status line in GitHub Copilot CLI",
-    "link": "https://bartwullems.blogspot.com/2026/05/always-know-where-you-stand-setting-up_01300653944.html",
-    "pubDate": "2026-05-22T09:53:00+00:00"
   }
 ]

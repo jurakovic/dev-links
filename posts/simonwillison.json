@@ -1,5 +1,10 @@
 [
   {
+    "title": "May 2026 newsletter",
+    "link": "https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything",
+    "pubDate": "2026-06-01T04:45:00+00:00"
+  },
+  {
     "title": "datasette 1.0a32",
     "link": "https://simonwillison.net/2026/May/31/datasette/#atom-everything",
     "pubDate": "2026-05-31T23:23:38+00:00"
@@ -18,10 +23,5 @@
     "title": "How we contain Claude across products",
     "link": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
     "pubDate": "2026-05-30T21:36:24+00:00"
-  },
-  {
-    "title": "Running Python ASGI apps in the browser via Pyodide + a service worker",
-    "link": "https://simonwillison.net/2026/May/30/pyodide-asgi-browser/#atom-everything",
-    "pubDate": "2026-05-30T21:02:16+00:00"
   }
 ]
