@@ -143,12 +143,12 @@
     .field select:focus { border-color: var(--accent); }
 
     .pass-wrap { position: relative; }
-    .pass-wrap input { padding-right: 2.2rem; }
+    .pass-wrap input { padding-right: 3.3rem; }
     .pass-wrap input::-ms-reveal { display: none; }
 
     .eye-btn {
       position: absolute;
-      right: 0.5rem;
+      right: 1.9rem;
       top: 50%;
       transform: translateY(-50%);
       background: none;
@@ -169,7 +169,7 @@
     .copy-btn {
       position: absolute;
       top: 0.4rem;
-      right: 0.4rem;
+      right: 2.1rem;
       background: var(--bg-card);
       border: 1px solid var(--border);
       border-radius: 4px;
@@ -183,6 +183,30 @@
 
     .copy-btn:hover { color: var(--tag-hover-color); border-color: var(--tag-hover-border); }
     .copy-btn.copied { color: var(--ok); border-color: var(--ok); }
+
+    .input-wrap { position: relative; }
+
+    /* Per-field clear (×), always the rightmost overlay control. */
+    .clear-btn {
+      position: absolute;
+      background: none;
+      border: none;
+      color: var(--tag-color);
+      cursor: pointer;
+      padding: 0.1rem;
+      display: flex;
+      align-items: center;
+      line-height: 0;
+      transition: color 0.15s;
+    }
+
+    .clear-btn:hover { color: var(--tag-hover-color); }
+
+    .input-wrap .clear-btn  { top: 0.45rem; right: 0.55rem; }
+    .output-wrap .clear-btn { top: 0.4rem;  right: 0.5rem; }
+    .pass-wrap .clear-btn   { top: 50%; right: 0.5rem; transform: translateY(-50%); }
+
+    .input-wrap textarea, .output-wrap textarea { padding-right: 1.7rem; }
 
     .cmd-row {
       display: flex;
@@ -292,12 +316,16 @@
         <div class="card-title">Encrypt</div>
         <div class="field">
           <label for="enc-text">Text to encrypt</label>
-          <textarea id="enc-text" rows="4" placeholder="Secret value…" spellcheck="false"></textarea>
+          <div class="input-wrap">
+            <textarea id="enc-text" rows="4" placeholder="Secret value…" spellcheck="false"></textarea>
+            <button class="clear-btn" type="button" data-clear="enc-text" aria-label="Clear"></button>
+          </div>
         </div>
         <div class="field">
           <label for="enc-pass">Password</label>
           <div class="pass-wrap">
             <input type="password" id="enc-pass" placeholder="Password" autocomplete="off">
+            <button class="clear-btn" type="button" data-clear="enc-pass" aria-label="Clear"></button>
             <button class="eye-btn" type="button" data-for="enc-pass" aria-label="Show password"></button>
           </div>
         </div>
@@ -316,6 +344,7 @@
           <div class="output-wrap">
             <textarea id="enc-out" rows="4" readonly placeholder="Output…" spellcheck="false"></textarea>
             <button class="copy-btn" id="enc-copy">copy</button>
+            <button class="clear-btn" type="button" data-clear="enc-out" aria-label="Clear"></button>
           </div>
           <div class="cmd-row">
             <button class="cmd-btn" id="enc-share-enc">copy as encrypt</button>
@@ -330,12 +359,16 @@
         <div class="card-title">Decrypt</div>
         <div class="field">
           <label for="dec-in">Encrypted (base64)</label>
-          <textarea id="dec-in" rows="4" placeholder="Paste encrypted base64…" spellcheck="false"></textarea>
+          <div class="input-wrap">
+            <textarea id="dec-in" rows="4" placeholder="Paste encrypted base64…" spellcheck="false"></textarea>
+            <button class="clear-btn" type="button" data-clear="dec-in" aria-label="Clear"></button>
+          </div>
         </div>
         <div class="field">
           <label for="dec-pass">Password</label>
           <div class="pass-wrap">
             <input type="password" id="dec-pass" placeholder="Password" autocomplete="off">
+            <button class="clear-btn" type="button" data-clear="dec-pass" aria-label="Clear"></button>
             <button class="eye-btn" type="button" data-for="dec-pass" aria-label="Show password"></button>
           </div>
         </div>
@@ -354,6 +387,7 @@
           <div class="output-wrap">
             <textarea id="dec-out" rows="4" readonly placeholder="Output…" spellcheck="false"></textarea>
             <button class="copy-btn" id="dec-copy">copy</button>
+            <button class="clear-btn" type="button" data-clear="dec-out" aria-label="Clear"></button>
           </div>
           <div class="cmd-row">
             <button class="cmd-btn" id="dec-share-dec">copy as decrypt</button>
@@ -539,6 +573,15 @@
         input.type  = show ? 'text' : 'password';
         btn.innerHTML   = show ? EYE_OFF : EYE;
         btn.ariaLabel   = show ? 'Hide password' : 'Show password';
+      });
+    });
+
+    const CLEAR = `<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>`;
+
+    document.querySelectorAll('.clear-btn').forEach(btn => {
+      btn.innerHTML = CLEAR;
+      btn.addEventListener('click', () => {
+        document.getElementById(btn.dataset.clear).value = '';
       });
     });
 
