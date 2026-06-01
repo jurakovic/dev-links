@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cleanup sp_executesql</title>
+  <title>sp_executesql inline</title>
   <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -123,7 +123,7 @@
       min-height: 0;
       min-width: 0;
       overflow: auto;
-      background: var(--bg-card);
+      background: var(--bg);
       border: 1px solid var(--border);
       border-radius: 5px;
       outline: none;
@@ -226,7 +226,7 @@
 </head>
 <body>
   <header class="page-header" role="banner">
-    <h1 class="project-name">Cleanup sp_executesql</h1>
+    <h1 class="project-name">sp_executesql inline</h1>
   </header>
 
   <main class="main-content">
@@ -358,7 +358,9 @@
     const outEl = document.getElementById('output');
     if (!input) { outEl.innerHTML = ''; rawOutput = ''; errEl.textContent = ''; return; }
     try {
-      rawOutput = formatSpExecuteSql(input);
+      // Trailing newline mirrors the input so the last line clears the horizontal scrollbar,
+      // and is part of rawOutput so the copied text includes it too.
+      rawOutput = formatSpExecuteSql(input) + '\n';
       outEl.innerHTML = highlight(rawOutput);
       errEl.textContent = '';
     } catch (e) {
