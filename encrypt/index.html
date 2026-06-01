@@ -187,6 +187,8 @@
     .cmd-row {
       display: flex;
       justify-content: flex-end;
+      flex-wrap: wrap;
+      gap: 0.75rem;
       margin-top: 0.35rem;
     }
 
@@ -231,6 +233,7 @@
 
     .status.ok  { color: var(--ok); }
     .status.err { color: var(--err); }
+    .status.share { text-align: right; margin-top: 0.35rem; margin-bottom: 0; }
 
     .site-footer {
       margin-top: 1rem;
@@ -315,8 +318,11 @@
             <button class="copy-btn" id="enc-copy">copy</button>
           </div>
           <div class="cmd-row">
+            <button class="cmd-btn" id="enc-share-enc">copy as encrypt</button>
+            <button class="cmd-btn" id="enc-share-dec">copy as decrypt</button>
             <button class="cmd-btn" id="enc-copy-cmd">copy as openssl</button>
           </div>
+          <div class="status share" id="enc-share-status"></div>
         </div>
       </div>
 
@@ -350,8 +356,11 @@
             <button class="copy-btn" id="dec-copy">copy</button>
           </div>
           <div class="cmd-row">
+            <button class="cmd-btn" id="dec-share-dec">copy as decrypt</button>
+            <button class="cmd-btn" id="dec-share-enc">copy as encrypt</button>
             <button class="cmd-btn" id="dec-copy-cmd">copy as openssl</button>
           </div>
+          <div class="status share" id="dec-share-status"></div>
         </div>
       </div>
     </div>
@@ -395,6 +404,31 @@
       'AES-192-CBC': { keyLen: 24, flag: 'aes-192-cbc' },
       'AES-128-CBC': { keyLen: 16, flag: 'aes-128-cbc' },
     };
+
+    // Prefill from a shared link (?mode=encrypt|decrypt&algo=…&text=…), then strip those
+    // params so a refresh/copy of the URL is clean. Password is never carried in the link.
+    (() => {
+      const params = new URLSearchParams(location.search);
+      const mode = params.get('mode');
+      if (mode !== 'encrypt' && mode !== 'decrypt') return;
+      const text = params.get('text') || '';
+      const algo = params.get('algo');
+      const validAlgo = ALGOS[algo] ? algo : null;
+      if (mode === 'encrypt') {
+        document.getElementById('enc-text').value = text;
+        if (validAlgo) document.getElementById('enc-algo').value = validAlgo;
+      } else {
+        document.getElementById('dec-in').value = text;
+        if (validAlgo) document.getElementById('dec-algo').value = validAlgo;
+        // Cards stack on mobile (matches the 640px CSS breakpoint), so the decrypt card is
+        // off-screen below — bring it into view. On desktop both cards are already visible.
+        if (window.matchMedia('(max-width: 640px)').matches)
+          document.getElementById('dec-in').scrollIntoView({ block: 'start' });
+      }
+      params.delete('mode'); params.delete('algo'); params.delete('text');
+      const qs = params.toString();
+      try { history.replaceState(null, '', qs ? '?' + qs : location.pathname); } catch (e) {}
+    })();
 
     async function pbkdf2Bytes(password, salt, numBytes) {
       const keyMat = await crypto.subtle.importKey(
@@ -447,10 +481,16 @@
       return `echo '${escapedB64}' | openssl enc -d -${flag} -a -pbkdf2 -pass pass:'${escapedPass}'`;
     }
 
+    function shareLink(mode, text, algoId) {
+      const p = new URLSearchParams({ mode, algo: algoId, text });
+      return `${location.origin}${location.pathname}?${p}`; // URLSearchParams handles encoding
+    }
+
     function setStatus(id, msg, isErr) {
       const el = document.getElementById(id);
       el.textContent = msg;
-      el.className = 'status ' + (isErr ? 'err' : 'ok');
+      el.classList.remove('ok', 'err');
+      el.classList.add(isErr ? 'err' : 'ok');
     }
 
     document.getElementById('enc-btn').addEventListener('click', async () => {
@@ -471,7 +511,7 @@
       const input = document.getElementById('dec-in').value.trim();
       const pass  = document.getElementById('dec-pass').value;
       const algo  = document.getElementById('dec-algo').value;
-      if (!input || !pass) { setStatus('dec-status', 'Ciphertext and password required.', true); return; }
+      if (!input || !pass) { setStatus('dec-status', 'Text and password required.', true); return; }
       try {
         document.getElementById('dec-out').value = await doDecrypt(input, pass, algo);
         setStatus('dec-status', 'Decrypted successfully.', false);
@@ -521,13 +561,48 @@
       const text = document.getElementById('enc-text').value;
       const pass = document.getElementById('enc-pass').value;
       const algo = document.getElementById('enc-algo').value;
+      if (!text || !pass) { setStatus('enc-share-status', 'Nothing to copy — text and password required.', true); return; }
+      setStatus('enc-share-status', '', false);
       copyText(opensslEncryptCmd(text, pass, algo), this, 'copy as openssl');
     });
     document.getElementById('dec-copy-cmd').addEventListener('click', function() {
       const b64  = document.getElementById('dec-in').value.trim();
       const pass = document.getElementById('dec-pass').value;
       const algo = document.getElementById('dec-algo').value;
+      if (!b64 || !pass) { setStatus('dec-share-status', 'Nothing to copy — text and password required.', true); return; }
+      setStatus('dec-share-status', '', false);
       copyText(opensslDecryptCmd(b64, pass, algo), this, 'copy as openssl');
+    });
+
+    // Shareable prefill links. Label matches the card the link opens; each card draws on
+    // whichever of its fields holds the matching data (plaintext for encrypt, base64 for decrypt).
+    document.getElementById('enc-share-enc').addEventListener('click', function() {
+      const text = document.getElementById('enc-text').value;
+      const algo = document.getElementById('enc-algo').value;
+      if (!text) { setStatus('enc-share-status', 'Nothing to copy — enter some text first.', true); return; }
+      setStatus('enc-share-status', '', false);
+      copyText(shareLink('encrypt', text, algo), this, 'copy as encrypt');
+    });
+    document.getElementById('enc-share-dec').addEventListener('click', function() {
+      const text = document.getElementById('enc-out').value;
+      const algo = document.getElementById('enc-algo').value;
+      if (!text) { setStatus('enc-share-status', 'Nothing to copy — encrypt something first.', true); return; }
+      setStatus('enc-share-status', '', false);
+      copyText(shareLink('decrypt', text, algo), this, 'copy as decrypt');
+    });
+    document.getElementById('dec-share-dec').addEventListener('click', function() {
+      const text = document.getElementById('dec-in').value.trim();
+      const algo = document.getElementById('dec-algo').value;
+      if (!text) { setStatus('dec-share-status', 'Nothing to copy — enter some text first.', true); return; }
+      setStatus('dec-share-status', '', false);
+      copyText(shareLink('decrypt', text, algo), this, 'copy as decrypt');
+    });
+    document.getElementById('dec-share-enc').addEventListener('click', function() {
+      const text = document.getElementById('dec-out').value;
+      const algo = document.getElementById('dec-algo').value;
+      if (!text) { setStatus('dec-share-status', 'Nothing to copy — decrypt something first.', true); return; }
+      setStatus('dec-share-status', '', false);
+      copyText(shareLink('encrypt', text, algo), this, 'copy as encrypt');
     });
   </script>
 </body>
