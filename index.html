@@ -169,6 +169,7 @@
       gap: 0.05rem;
       margin-bottom: 0.65rem;
       transition: opacity 0.15s;
+      break-inside: avoid;
     }
 
     .tool-list li.dimmed { opacity: 0.15; }
@@ -278,8 +279,8 @@
     }
 
     .list-container .tool-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      display: block;
+      columns: 300px;
       column-gap: 2rem;
     }
 
