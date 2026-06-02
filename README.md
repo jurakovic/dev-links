@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-02 martinfowler</small>  
+<small>[Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-02 stackoverflow</small>  
+<small>[What it takes to be a player in the international AI game](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-02 bartwullems</small>  
+<small>[GitHub Copilot SDK issue after upgrading to the 1.0.0-beta.10](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-issue-after.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
+<small>[Pasted File Editor](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-01 simonwillison</small>  
 <small>[Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything)</small>
 
@@ -39,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-31 rickstrahl</small>  
 <small>[Lost ASP.NET Identity Cookies on IIS Application Pool Restarts](https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-31 simonwillison</small>  
-<small>[Quoting Karen Kwok for Reuters Breakingviews](https://simonwillison.net/2026/May/31/anthropic-run-rate/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
 <small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
@@ -157,12 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-26 techtrenches</small>  
 <small>[The $50 Billion Utility](https://techtrenches.dev/p/the-50-billion-utility)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-26 stackoverflow</small>  
-<small>[Do you have what it takes to run AI in production?](https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-26 bartwullems</small>  
-<small>[Using ExecutionLog views in SQL Server Reporting Services to monitor performance](https://bartwullems.blogspot.com/2026/05/using-executionlog-views-in-sql-server.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
 <small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
 
@@ -207,9 +210,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-21 seangoedecke</small>  
 <small>[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-20 martinfowler</small>  
-<small>[Three more static code analysis sensors](https://martinfowler.com/articles/sensors-for-coding-agents.html#StaticCodeAnalysisDependencyRules)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-20 seangoedecke</small>  
 <small>[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot SDK issue after upgrading to the 1.0.0-beta.10",
+    "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-issue-after.html",
+    "pubDate": "2026-06-02T05:04:00+00:00"
+  },
+  {
     "title": "Type-safe tool definitions come to the Copilot .NET SDK",
     "link": "https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html",
     "pubDate": "2026-06-01T05:23:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot AI Credits switch: Here's what to do before June 1",
     "link": "https://bartwullems.blogspot.com/2026/05/github-copilot-ai-credits-switch-heres.html",
     "pubDate": "2026-05-27T08:27:00+00:00"
-  },
-  {
-    "title": "Using ExecutionLog views in SQL Server Reporting Services to monitor performance",
-    "link": "https://bartwullems.blogspot.com/2026/05/using-executionlog-views-in-sql-server.html",
-    "pubDate": "2026-05-26T06:25:22+00:00"
   }
 ]

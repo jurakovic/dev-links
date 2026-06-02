@@ -1,5 +1,10 @@
 [
   {
+    "title": "What it takes to be a player in the international AI game",
+    "link": "https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/",
+    "pubDate": "2026-06-02T07:40:00+00:00"
+  },
+  {
     "title": "Best of the Heap: First post of the past",
     "link": "https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/",
     "pubDate": "2026-05-29T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agents on a leash: Agentic AI remains mostly single-agent and monitored at work",
     "link": "https://stackoverflow.blog/2026/05/27/agents-on-a-leash-agentic-ai-remains-mostly-monitored-at-work/",
     "pubDate": "2026-05-27T14:00:00+00:00"
-  },
-  {
-    "title": "Do you have what it takes to run AI in production?",
-    "link": "https://stackoverflow.blog/2026/05/26/do-you-have-what-it-takes-to-run-ai-in-production/",
-    "pubDate": "2026-05-26T07:40:00+00:00"
   }
 ]
