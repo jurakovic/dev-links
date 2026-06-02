@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements",
+    "link": "https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/",
+    "pubDate": "2026-06-02T17:10:39+00:00"
+  },
+  {
     "title": "Visual Studio May Update – Plan, Review, Refine",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/",
     "pubDate": "2026-05-26T15:00:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Agent Skills in Visual Studio: Teach Copilot How Your Team Works",
     "link": "https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/",
     "pubDate": "2026-05-13T16:00:47+00:00"
-  },
-  {
-    "title": "TypeScript 7 Beta Now Enabled by Default in Visual Studio 2026 18.6 Insiders 3",
-    "link": "https://devblogs.microsoft.com/visualstudio/typescript-7-beta-now-enabled-by-default-in-visual-studio-2026-18-6-insiders-3/",
-    "pubDate": "2026-04-30T17:08:44+00:00"
   }
 ]

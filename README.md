@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-02 visualstudiomagazine</small>  
+<small>[At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 visualstudio</small>  
+<small>[What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements](https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 azure-sql</small>  
+<small>[MSSQL Extension for VS Code: Azure SQL Database Provisioning and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-june-2026/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-02 third-bit</small>  
 <small>[Pooled vs. Separate Queues](https://third-bit.com/2026/06/02/pooled-vs-separate/)</small>
 
@@ -184,9 +193,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-22 azure-sql</small>  
 <small>[Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025](https://devblogs.microsoft.com/azure-sql/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql-server-2025/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-22 visualstudiomagazine</small>  
-<small>[Angry Devs Persist on Visual Studio Blue Theme Revival: 'Once More, We Ask...'](https://visualstudiomagazine.com/articles/2026/05/22/angry-devs-persist-on-visual-studio-blue-theme-revival-once-more-we-ask.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-22 github-ai</small>  
 <small>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-12 techtrenches</small>  
 <small>[Silicon Valley Eats the War](https://techtrenches.dev/p/silicon-valley-eats-the-war)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-05-12 andrewlock</small>  
-<small>[Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1](https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-11 damienbod</small>  
-<small>[Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph](https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/)</small>
 
