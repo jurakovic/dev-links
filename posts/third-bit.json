@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pooled vs. Separate Queues",
+    "link": "https://third-bit.com/2026/06/02/pooled-vs-separate/",
+    "pubDate": "2026-06-02T16:01:14+00:00"
+  },
+  {
     "title": "Queue Nonlinearity",
     "link": "https://third-bit.com/2026/06/01/nonlinearity/",
     "pubDate": "2026-06-01T16:01:18+00:00"
@@ -17,11 +22,6 @@
   {
     "title": "Little's Law",
     "link": "https://third-bit.com/2026/05/30/littles-law/",
-    "pubDate": "2026-05-30T11:18:01+00:00"
-  },
-  {
-    "title": "How to Not Be Wrong About AI",
-    "link": "https://third-bit.com/2026/05/30/how-to-not-be-wrong-about-ai/",
     "pubDate": "2026-05-30T11:18:01+00:00"
   }
 ]

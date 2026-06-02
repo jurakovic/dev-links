@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-02 third-bit</small>  
+<small>[Pooled vs. Separate Queues](https://third-bit.com/2026/06/02/pooled-vs-separate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-02 martinfowler</small>  
 <small>[Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)</small>
 
@@ -57,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
 <small>[Little's Law](https://third-bit.com/2026/05/30/littles-law/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
-<small>[How to Not Be Wrong About AI](https://third-bit.com/2026/05/30/how-to-not-be-wrong-about-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[High-Throughput Graph Abstraction at Netflix: Part I](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4)</small>
