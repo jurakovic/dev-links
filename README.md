@@ -4,8 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-03 netflix</small>  
+<small>[Dynamically Splitting Wide Partitions in Cassandra for Time Series Workloads](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
+<small>[Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
+<small>[datasette-agent-micropython 0.1a0](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
+<small>[micropython-wasm 0.1a1](https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-02 visualstudiomagazine</small>  
 <small>[At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
+<small>[California Brown Pelican](https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 visualstudio</small>  
 <small>[What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements](https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/)</small>
@@ -28,9 +43,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
 <small>[Pasted File Editor](https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-01 simonwillison</small>  
-<small>[Hackers Simply Asked Meta AI to Give Them Access to High-Profile Instagram Accounts. It Worked](https://simonwillison.net/2026/Jun/1/hackers-simply-asked-meta-ai/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-01 third-bit</small>  
 <small>[Queue Nonlinearity](https://third-bit.com/2026/06/01/nonlinearity/)</small>
 
@@ -40,12 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-01 bartwullems</small>  
 <small>[Type-safe tool definitions come to the Copilot .NET SDK](https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-01 simonwillison</small>  
-<small>[May 2026 newsletter](https://simonwillison.net/2026/Jun/1/may-newsletter/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-31 simonwillison</small>  
-<small>[datasette 1.0a32](https://simonwillison.net/2026/May/31/datasette/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-31 third-bit</small>  
 <small>[Sojourn Time](https://third-bit.com/2026/05/31/sojourn-time/)</small>
 
@@ -54,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-31 dbreunig</small>  
 <small>[What Do Humans Need From Docs?](https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-05-31 simonwillison</small>  
-<small>[The solution might be cancelling my AI subscription](https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-31 seangoedecke</small>  
 <small>[Build agents, not pipelines](https://seangoedecke.com/build-agents-not-pipelines/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-12 github-ai</small>  
 <small>[Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-12 techtrenches</small>  
-<small>[Silicon Valley Eats the War](https://techtrenches.dev/p/silicon-valley-eats-the-war)</small>
 
