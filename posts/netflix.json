@@ -1,6 +1,6 @@
 [
   {
-    "title": "Dynamically Splitting Wide Partitions in Cassandra for Time Series Workloads",
+    "title": "Dynamic Repartitioning for Time Series Workloads",
     "link": "https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4",
     "pubDate": "2026-06-03T02:05:05+00:00"
   },
