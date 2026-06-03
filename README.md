@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-03 azuresqlblog</small>  
+<small>[Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-03 bartwullems</small>  
+<small>[Breaking Change: The .On() Method in the Latest Copilot SDK](https://bartwullems.blogspot.com/2026/06/breaking-change-on-method-in-latest.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-03 netflix</small>  
 <small>[Dynamically Splitting Wide Partitions in Cassandra for Time Series Workloads](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4)</small>
 
@@ -151,9 +157,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-05-27 terriblesoftware</small>  
 <small>[Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-27 bartwullems</small>  
-<small>[GitHub Copilot AI Credits switch: Here's what to do before June 1](https://bartwullems.blogspot.com/2026/05/github-copilot-ai-credits-switch-heres.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
 <small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-12 pragmaticengineer</small>  
 <small>[TechPays has been acquired by Levels.fyi](https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-12 github-ai</small>  
-<small>[Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/)</small>
 
