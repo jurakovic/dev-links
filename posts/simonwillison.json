@@ -1,10 +1,5 @@
 [
   {
-    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-    "pubDate": "2026-06-03T12:01:27+00:00"
-  },
-  {
     "title": "Microsoft's new MAI models",
     "link": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
     "pubDate": "2026-06-02T22:21:52+00:00"
@@ -23,5 +18,10 @@
     "title": "California Brown Pelican",
     "link": "https://simonwillison.net/2026/Jun/2/sighting-367841339/#atom-everything",
     "pubDate": "2026-06-02T18:17:03+00:00"
+  },
+  {
+    "title": "Pasted File Editor",
+    "link": "https://simonwillison.net/2026/Jun/2/pasted-file-editor/#atom-everything",
+    "pubDate": "2026-06-02T04:13:36+00:00"
   }
 ]
