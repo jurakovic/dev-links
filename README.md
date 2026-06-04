@@ -10,6 +10,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-03 simonwillison</small>  
 <small>[Uber Caps Usage of AI Tools Like Claude Code to Manage Costs](https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-03 microservices</small>  
+<small>[Microservices Platforms - part 8: Getting started with platforms](http://microservices.io//post/architecture/2026/06/03/qconsf-microservices-platforms-part-8.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-03 azuresqlblog</small>  
 <small>[Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240)</small>
 
@@ -18,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-03 netflix</small>  
 <small>[Dynamic Repartitioning for Time Series Workloads](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-03 third-bit</small>  
+<small>[Late Merge](https://third-bit.com/2026/06/03/late-merge/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
 <small>[Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything)</small>
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
 <small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-30 third-bit</small>  
-<small>[Little's Law](https://third-bit.com/2026/05/30/littles-law/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[High-Throughput Graph Abstraction at Netflix: Part I](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 visualstudio</small>  
 <small>[Agent Skills in Visual Studio: Teach Copilot How Your Team Works](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-13 rickstrahl</small>  
-<small>[Getting the Client IP Address in ASP.NET Core](https://weblog.west-wind.com/posts/2026/May/13/Getting-the-Client-IP-Address-in-ASPNET-Core)</small>
 
