@@ -1,5 +1,10 @@
 [
   {
+    "title": "Most teams put low-level architecture in the wrong place",
+    "link": "https://bencane.com/posts/2026-06-04/",
+    "pubDate": "2026-06-04T10:01:12+00:00"
+  },
+  {
     "title": "Your coding agent is missing one thing: architectural context",
     "link": "https://bencane.com/posts/2026-05-28/",
     "pubDate": "2026-05-28T07:54:57+00:00"
@@ -18,10 +23,5 @@
     "title": "YOLO Is a Terrible Strategy for Validating Production Changes",
     "link": "https://bencane.com/posts/2026-05-07/",
     "pubDate": "2026-05-07T06:33:24+00:00"
-  },
-  {
-    "title": "Deterministic routing is one of the most effective ways distributed systems reduce consistency problems at scale",
-    "link": "https://bencane.com/posts/2026-04-30/",
-    "pubDate": "2026-04-30T06:27:41+00:00"
   }
 ]

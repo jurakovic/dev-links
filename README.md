@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-04 bencane</small>  
+<small>[Most teams put low-level architecture in the wrong place](https://bencane.com/posts/2026-06-04/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
+<small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-04 bartwullems</small>  
+<small>[Visual Studio 2026–From plan mode to plan agent](https://bartwullems.blogspot.com/2026/06/visual-studio-2026from-plan-mode-to.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-03 techtrenches</small>  
 <small>[Nobody Won the Token Race](https://techtrenches.dev/p/nobody-won-the-token-race)</small>
 
@@ -139,9 +148,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-28 bencane</small>  
 <small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-05-28 bartwullems</small>  
-<small>[Respect what came before](https://bartwullems.blogspot.com/2026/05/respect-what-came-before.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-27 techtrenches</small>  
 <small>[Honk Is Not Magic. It’s 15 Years of Infrastructure With the Context Stripped Out.](https://techtrenches.dev/p/honk-is-not-magic-its-15-years-of)</small>
 
@@ -259,9 +265,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-18 github-ai</small>  
 <small>[Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-18 seangoedecke</small>  
-<small>[The just-say-no engineer was a ZIRP phenomenon](https://seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-18 steven-giesel</small>  
 <small>[Zstandard compression in .NET 11](https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-13 swizec</small>  
 <small>[Just fix their PR](https://swizec.com/blog/just-fix-their-pr/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-13 visualstudio</small>  
-<small>[Agent Skills in Visual Studio: Teach Copilot How Your Team Works](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/)</small>
 
