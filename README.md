@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-04 simonwillison</small>  
+<small>[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-04 visualstudiomagazine</small>  
+<small>[VS Code 1.123 Adds Agent Session Sync, 1M Context Windows](https://visualstudiomagazine.com/articles/2026/06/04/vs-code-1-123-adds-agent-session-sync-1m-context-windows.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-04 simonwillison</small>  
 <small>[Quoting Emanuel Maiberg, 404 Media](https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-04 bencane</small>  
@@ -35,6 +41,9 @@
 <small>[Dynamic Repartitioning for Time Series Workloads](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-03 third-bit</small>  
+<small>[The Inspector's Paradox](https://third-bit.com/2026/06/04/inspectors-paradox/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-03 third-bit</small>  
 <small>[Late Merge](https://third-bit.com/2026/06/03/late-merge/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
@@ -42,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
 <small>[datasette-agent-micropython 0.1a0](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
-<small>[micropython-wasm 0.1a1](https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-02 visualstudiomagazine</small>  
 <small>[At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)</small>
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-31 third-bit</small>  
 <small>[Sojourn Time](https://third-bit.com/2026/05/31/sojourn-time/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-31 third-bit</small>  
-<small>[Three Research Questions About AI](https://third-bit.com/2026/05/31/ai-research-questions/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-31 dbreunig</small>  
 <small>[What Do Humans Need From Docs?](https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html)</small>
@@ -168,9 +171,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-05-27 terriblesoftware</small>  
 <small>[Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-26 visualstudiomagazine</small>  
-<small>[Visual Studio May Update Adds Plan Agent, Diff Review Tools](https://visualstudiomagazine.com/articles/2026/05/26/visual-studio-may-update-adds-plan-agent-diff-review-tools.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-26 lucumr-pocoo</small>  
 <small>[Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/)</small>

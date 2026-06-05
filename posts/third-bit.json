@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Inspector's Paradox",
+    "link": "https://third-bit.com/2026/06/04/inspectors-paradox/",
+    "pubDate": "2026-06-03T00:00:00+00:00"
+  },
+  {
     "title": "Late Merge",
     "link": "https://third-bit.com/2026/06/03/late-merge/",
     "pubDate": "2026-06-03T00:00:00+00:00"
@@ -17,11 +22,6 @@
   {
     "title": "Sojourn Time",
     "link": "https://third-bit.com/2026/05/31/sojourn-time/",
-    "pubDate": "2026-05-31T22:01:21+00:00"
-  },
-  {
-    "title": "Three Research Questions About AI",
-    "link": "https://third-bit.com/2026/05/31/ai-research-questions/",
     "pubDate": "2026-05-31T22:01:21+00:00"
   }
 ]
