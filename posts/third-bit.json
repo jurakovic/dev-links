@@ -1,27 +1,27 @@
 [
   {
+    "title": "Priority Starvation",
+    "link": "https://third-bit.com/2026/06/05/priority-starvation/",
+    "pubDate": "2026-06-05T22:01:11+00:00"
+  },
+  {
+    "title": "Braess's Paradox",
+    "link": "https://third-bit.com/2026/06/05/braess-paradox/",
+    "pubDate": "2026-06-05T22:01:11+00:00"
+  },
+  {
+    "title": "Rush Hour Displacement",
+    "link": "https://third-bit.com/2026/06/05/rush-hour/",
+    "pubDate": "2026-06-05T22:01:11+00:00"
+  },
+  {
     "title": "The Convoy Effect",
     "link": "https://third-bit.com/2026/06/05/convoy-effect/",
     "pubDate": "2026-06-05T16:01:10+00:00"
   },
   {
-    "title": "The Inspector's Paradox",
-    "link": "https://third-bit.com/2026/06/04/inspectors-paradox/",
-    "pubDate": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "title": "Late Merge",
-    "link": "https://third-bit.com/2026/06/03/late-merge/",
-    "pubDate": "2026-06-03T00:00:00+00:00"
-  },
-  {
-    "title": "Pooled vs. Separate Queues",
-    "link": "https://third-bit.com/2026/06/02/pooled-vs-separate/",
-    "pubDate": "2026-06-02T16:01:14+00:00"
-  },
-  {
-    "title": "Queue Nonlinearity",
-    "link": "https://third-bit.com/2026/06/01/nonlinearity/",
-    "pubDate": "2026-06-01T16:01:18+00:00"
+    "title": "Tandem Queue Blocking",
+    "link": "https://third-bit.com/2026/06/05/tandem-queue/",
+    "pubDate": "2026-06-05T22:01:11+00:00"
   }
 ]
