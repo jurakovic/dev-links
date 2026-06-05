@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Andreas Kling",
+    "link": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
+    "pubDate": "2026-06-05T11:10:05+00:00"
+  },
+  {
     "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
     "link": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
     "pubDate": "2026-06-04T23:55:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft's new MAI models",
     "link": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
     "pubDate": "2026-06-02T22:21:52+00:00"
-  },
-  {
-    "title": "datasette-agent-micropython 0.1a0",
-    "link": "https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything",
-    "pubDate": "2026-06-02T19:28:36+00:00"
   }
 ]

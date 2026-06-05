@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
+<small>[The Convoy Effect](https://third-bit.com/2026/06/05/convoy-effect/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-05 simonwillison</small>  
+<small>[Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-05 stackoverflow</small>  
 <small>[Making the OWASP top ten in the vibe code era](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)</small>
 
@@ -52,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
 <small>[Microsoft's new MAI models](https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-02 simonwillison</small>  
-<small>[datasette-agent-micropython 0.1a0](https://simonwillison.net/2026/Jun/2/datasette-agent-micropython/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-02 visualstudiomagazine</small>  
 <small>[At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)</small>
 
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-01 bartwullems</small>  
 <small>[Type-safe tool definitions come to the Copilot .NET SDK](https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-05-31 third-bit</small>  
-<small>[Sojourn Time](https://third-bit.com/2026/05/31/sojourn-time/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-31 dbreunig</small>  
 <small>[What Do Humans Need From Docs?](https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html)</small>

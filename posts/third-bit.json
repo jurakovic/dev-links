@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Convoy Effect",
+    "link": "https://third-bit.com/2026/06/05/convoy-effect/",
+    "pubDate": "2026-06-05T16:01:10+00:00"
+  },
+  {
     "title": "The Inspector's Paradox",
     "link": "https://third-bit.com/2026/06/04/inspectors-paradox/",
     "pubDate": "2026-06-03T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Queue Nonlinearity",
     "link": "https://third-bit.com/2026/06/01/nonlinearity/",
     "pubDate": "2026-06-01T16:01:18+00:00"
-  },
-  {
-    "title": "Sojourn Time",
-    "link": "https://third-bit.com/2026/05/31/sojourn-time/",
-    "pubDate": "2026-05-31T22:01:21+00:00"
   }
 ]
