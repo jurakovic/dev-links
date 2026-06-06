@@ -1,5 +1,10 @@
 [
   {
+    "title": "micropython-wasm 0.1a2",
+    "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
+    "pubDate": "2026-06-06T04:26:06+00:00"
+  },
+  {
     "title": "Running Python code in a sandbox with MicroPython and WASM",
     "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
     "pubDate": "2026-06-06T03:53:34+00:00"
@@ -18,10 +23,5 @@
     "title": "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
     "link": "https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything",
     "pubDate": "2026-06-04T23:55:27+00:00"
-  },
-  {
-    "title": "Quoting Emanuel Maiberg, 404 Media",
-    "link": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
-    "pubDate": "2026-06-04T16:38:29+00:00"
   }
 ]

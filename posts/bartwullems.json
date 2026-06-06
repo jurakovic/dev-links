@@ -1,5 +1,10 @@
 [
   {
+    "title": "Rubber Duck in GitHub Copilot CLI",
+    "link": "https://bartwullems.blogspot.com/2026/06/rubber-duck-in-github-copilot-cli.html",
+    "pubDate": "2026-06-05T06:56:00+00:00"
+  },
+  {
     "title": "Visual Studio 2026–From plan mode to plan agent",
     "link": "https://bartwullems.blogspot.com/2026/06/visual-studio-2026from-plan-mode-to.html",
     "pubDate": "2026-06-04T07:52:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Type-safe tool definitions come to the Copilot .NET SDK",
     "link": "https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html",
     "pubDate": "2026-06-01T05:23:00+00:00"
-  },
-  {
-    "title": "EF Core 10–Smarter parameterized collections",
-    "link": "https://bartwullems.blogspot.com/2026/05/ef-core-10smarter-parameterized.html",
-    "pubDate": "2026-05-29T04:44:00+00:00"
   }
 ]
