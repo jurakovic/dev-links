@@ -1,5 +1,15 @@
 [
   {
+    "title": "Running Python code in a sandbox with MicroPython and WASM",
+    "link": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "pubDate": "2026-06-06T03:53:34+00:00"
+  },
+  {
+    "title": "OpenAI Help: Lockdown Mode",
+    "link": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
+    "pubDate": "2026-06-05T23:56:40+00:00"
+  },
+  {
     "title": "Quoting Andreas Kling",
     "link": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
     "pubDate": "2026-06-05T11:10:05+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Emanuel Maiberg, 404 Media",
     "link": "https://simonwillison.net/2026/Jun/4/a-slightly-different-version/#atom-everything",
     "pubDate": "2026-06-04T16:38:29+00:00"
-  },
-  {
-    "title": "Uber Caps Usage of AI Tools Like Claude Code to Manage Costs",
-    "link": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/#atom-everything",
-    "pubDate": "2026-06-03T12:01:27+00:00"
-  },
-  {
-    "title": "Microsoft's new MAI models",
-    "link": "https://simonwillison.net/2026/Jun/2/microsofts-new-models/#atom-everything",
-    "pubDate": "2026-06-02T22:21:52+00:00"
   }
 ]
