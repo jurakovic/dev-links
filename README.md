@@ -16,6 +16,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-06 simonwillison</small>  
 <small>[Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
+<small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-05 simonwillison</small>  
 <small>[OpenAI Help: Lockdown Mode](https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything)</small>
 
@@ -46,14 +49,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-05 addyosmani</small>  
 <small>[The Intent Debt](https://addyosmani.com/blog/intent-debt/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-05 bencane</small>  
+<small>[Most teams put low-level architecture in the wrong place](https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-04 simonwillison</small>  
 <small>[AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://simonwillison.net/2026/Jun/4/ai-enthusiasts-ai-skeptics/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-04 visualstudiomagazine</small>  
 <small>[VS Code 1.123 Adds Agent Session Sync, 1M Context Windows](https://visualstudiomagazine.com/articles/2026/06/04/vs-code-1-123-adds-agent-session-sync-1m-context-windows.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-04 bencane</small>  
-<small>[Most teams put low-level architecture in the wrong place](https://bencane.com/posts/2026-06-04/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
 <small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
@@ -133,6 +136,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
 <small>[The find out stage of AI is just supply chain and password protection](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 bencane</small>  
+<small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
 
@@ -159,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-28 azure-sql</small>  
 <small>[SQL + AI, hands-on: Join a free workshop near you](https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-28 bencane</small>  
-<small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-27 techtrenches</small>  
 <small>[Honk Is Not Magic. It’s 15 Years of Infrastructure With the Context Stripped Out.](https://techtrenches.dev/p/honk-is-not-magic-its-15-years-of)</small>
@@ -223,6 +226,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-22 github-ai</small>  
 <small>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-22 bencane</small>  
+<small>[Health-check the listener your gRPC traffic actually uses](https://bencane.com/posts/2026-05-21-grpc-health-check-listener/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
 <small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
 
@@ -238,14 +244,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-21 martinfowler</small>  
 <small>[Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 bencane</small>  
-<small>[Health-check the listener your gRPC traffic actually uses](https://bencane.com/posts/2026-05-21/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-21 seangoedecke</small>  
 <small>[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-20 seangoedecke</small>  
-<small>[Prompts are technical debt too](https://seangoedecke.com/prompts-are-technical-debt-too/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-20 erikej</small>  
 <small>[Launching the SSMS Extension Gallery](https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html)</small>
@@ -286,6 +286,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-15 github-ai</small>  
 <small>[Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-15 bencane</small>  
+<small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14-weighted-load-balancing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 antirez</small>  
 <small>[A few words on DS4](http://antirez.com/news/165)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 azuresqlblog</small>  
 <small>[Automatic Connectivity Tests for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/automatic-connectivity-tests-for-azure-sql-managed-instance/ba-p/4519795)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 visualstudio</small>  
-<small>[VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code](https://devblogs.microsoft.com/visualstudio/vslive-microsoft-ai-hackathon-2026-send-your-team-home-with-working-code/)</small>
 

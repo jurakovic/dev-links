@@ -1,27 +1,27 @@
 [
   {
     "title": "Most teams put low-level architecture in the wrong place",
-    "link": "https://bencane.com/posts/2026-06-04/",
-    "pubDate": "2026-06-04T10:01:12+00:00"
+    "link": "https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/",
+    "pubDate": "2026-06-05T00:00:00+00:00"
   },
   {
     "title": "Your coding agent is missing one thing: architectural context",
-    "link": "https://bencane.com/posts/2026-05-28/",
-    "pubDate": "2026-05-28T07:54:57+00:00"
+    "link": "https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/",
+    "pubDate": "2026-05-29T00:00:00+00:00"
   },
   {
     "title": "Health-check the listener your gRPC traffic actually uses",
-    "link": "https://bencane.com/posts/2026-05-21/",
-    "pubDate": "2026-05-21T07:49:04+00:00"
+    "link": "https://bencane.com/posts/2026-05-21-grpc-health-check-listener/",
+    "pubDate": "2026-05-22T00:00:00+00:00"
   },
   {
     "title": "Weighted load balancing has saved me more times than I can count",
-    "link": "https://bencane.com/posts/2026-05-14/",
-    "pubDate": "2026-05-14T06:44:01+00:00"
+    "link": "https://bencane.com/posts/2026-05-14-weighted-load-balancing/",
+    "pubDate": "2026-05-15T00:00:00+00:00"
   },
   {
     "title": "YOLO Is a Terrible Strategy for Validating Production Changes",
-    "link": "https://bencane.com/posts/2026-05-07/",
-    "pubDate": "2026-05-07T06:33:24+00:00"
+    "link": "https://bencane.com/posts/2026-05-07-yolo-production-validation/",
+    "pubDate": "2026-05-08T00:00:00+00:00"
   }
 ]
