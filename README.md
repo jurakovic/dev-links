@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-07 antirez</small>  
+<small>[A new era for software testing](http://antirez.com/news/168)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-06 lucumr-pocoo</small>  
 <small>[Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-14 visualstudio</small>  
 <small>[VSLive! Microsoft AI Hackathon 2026: Send Your Team Home With Working Code](https://devblogs.microsoft.com/visualstudio/vslive-microsoft-ai-hackathon-2026-send-your-team-home-with-working-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-14 bencane</small>  
-<small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14/)</small>
 
