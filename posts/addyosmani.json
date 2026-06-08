@@ -1,5 +1,10 @@
 [
   {
+    "title": "Loop Engineering",
+    "link": "https://addyosmani.com/blog/loop-engineering/",
+    "pubDate": "2026-06-07T00:00:00+00:00"
+  },
+  {
     "title": "The Intent Debt",
     "link": "https://addyosmani.com/blog/intent-debt/",
     "pubDate": "2026-06-05T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Cognitive Surrender",
     "link": "https://addyosmani.com/blog/cognitive-surrender/",
     "pubDate": "2026-05-05T00:00:00+00:00"
-  },
-  {
-    "title": "Agent Skills",
-    "link": "https://addyosmani.com/blog/agent-skills/",
-    "pubDate": "2026-05-03T00:00:00+00:00"
   }
 ]
