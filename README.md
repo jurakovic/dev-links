@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-08 seangoedecke</small>  
+<small>[Working with product managers](https://seangoedecke.com/working-with-product-managers/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-08 third-bit</small>  
+<small>[Sex and Drugs and Guns and Code Restart](https://third-bit.com/2026/06/08/sex-and-drugs-and-guns-and-code-restart/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-08 damienbod</small>  
 <small>[ASP.NET Core background tasks with NCronJob and SignalR](https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/)</small>
 
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
 <small>[Rush Hour Displacement](https://third-bit.com/2026/06/05/rush-hour/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
-<small>[Tandem Queue Blocking](https://third-bit.com/2026/06/05/tandem-queue/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
 <small>[The Convoy Effect](https://third-bit.com/2026/06/05/convoy-effect/)</small>
@@ -255,9 +258,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-21 martinfowler</small>  
 <small>[Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-05-21 seangoedecke</small>  
-<small>[The famous o3 "GeoGuessr" prompt did not work](https://seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-20 erikej</small>  
 <small>[Launching the SSMS Extension Gallery](https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html)</small>
