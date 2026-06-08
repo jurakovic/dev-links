@@ -1,5 +1,10 @@
 [
   {
+    "title": "MCP integration in the GitHub Copilot SDK",
+    "link": "https://bartwullems.blogspot.com/2026/06/mcp-integration-in-github-copilot-sdk.html",
+    "pubDate": "2026-06-08T05:00:00+00:00"
+  },
+  {
     "title": "Rubber Duck in GitHub Copilot CLI",
     "link": "https://bartwullems.blogspot.com/2026/06/rubber-duck-in-github-copilot-cli.html",
     "pubDate": "2026-06-05T06:56:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot SDK issue after upgrading to the 1.0.0-beta.10",
     "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-issue-after.html",
     "pubDate": "2026-06-02T05:04:00+00:00"
-  },
-  {
-    "title": "Type-safe tool definitions come to the Copilot .NET SDK",
-    "link": "https://bartwullems.blogspot.com/2026/06/type-safe-tool-definitions-come-to.html",
-    "pubDate": "2026-06-01T05:23:00+00:00"
   }
 ]

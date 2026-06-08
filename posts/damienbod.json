@@ -1,5 +1,10 @@
 [
   {
+    "title": "ASP.NET Core background tasks with NCronJob and SignalR",
+    "link": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
+    "pubDate": "2026-06-08T05:39:20+00:00"
+  },
+  {
     "title": "Aspire Azure SQL deployment bug",
     "link": "https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/",
     "pubDate": "2026-05-18T06:17:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Invite Guest users in a Entra ID Multi-tenant setup",
     "link": "https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/",
     "pubDate": "2026-03-09T09:06:26+00:00"
-  },
-  {
-    "title": "Add application security to the swiyu generic management verifier APIs using OAuth",
-    "link": "https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/",
-    "pubDate": "2026-02-16T07:07:40+00:00"
   }
 ]
