@@ -1,5 +1,10 @@
 [
   {
+    "title": "Siri AI at WWDC 2026",
+    "link": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
+    "pubDate": "2026-06-08T23:58:04+00:00"
+  },
+  {
     "title": "datasette-agent-edit 0.1a0",
     "link": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
     "pubDate": "2026-06-07T23:56:38+00:00"
@@ -18,10 +23,5 @@
     "title": "OpenAI Help: Lockdown Mode",
     "link": "https://simonwillison.net/2026/Jun/5/openai-help-lockdown-mode/#atom-everything",
     "pubDate": "2026-06-05T23:56:40+00:00"
-  },
-  {
-    "title": "Quoting Andreas Kling",
-    "link": "https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything",
-    "pubDate": "2026-06-05T11:10:05+00:00"
   }
 ]

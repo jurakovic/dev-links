@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-08 simonwillison</small>  
+<small>[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-08 third-bit</small>  
 <small>[A Little Psychology](https://third-bit.com/2026/06/08/a-little-psychology/)</small>
 
@@ -60,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
 <small>[Rush Hour Displacement](https://third-bit.com/2026/06/05/rush-hour/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-05 simonwillison</small>  
-<small>[Quoting Andreas Kling](https://simonwillison.net/2026/Jun/5/andreas-kling/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-05 stackoverflow</small>  
 <small>[Making the OWASP top ten in the vibe code era](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)</small>
