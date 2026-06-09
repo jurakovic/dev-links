@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET 11 Preview 5 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/",
+    "pubDate": "2026-06-09T18:30:00+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework June 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/",
+    "pubDate": "2026-06-09T18:08:00+00:00"
+  },
+  {
     "title": ".NET at Microsoft Build 2026: Must watch sessions",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/",
     "pubDate": "2026-06-08T17:15:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Give Your .NET MAUI Android Apps a Material 3 Makeover",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/",
     "pubDate": "2026-05-26T17:00:00+00:00"
-  },
-  {
-    "title": "Announcing Agent Governance Toolkit MCP Extensions for .NET",
-    "link": "https://devblogs.microsoft.com/dotnet/announcing-agent-governance-toolkit-mcp-extensions-for-dotnet/",
-    "pubDate": "2026-05-21T17:05:00+00:00"
-  },
-  {
-    "title": "Improving C# Memory Safety",
-    "link": "https://devblogs.microsoft.com/dotnet/improving-csharp-memory-safety/",
-    "pubDate": "2026-05-21T16:08:00+00:00"
   }
 ]
