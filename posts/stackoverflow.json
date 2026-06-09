@@ -1,5 +1,10 @@
 [
   {
+    "title": "Creating checkpoints by gaslighting a Postgres database",
+    "link": "https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/",
+    "pubDate": "2026-06-09T07:40:00+00:00"
+  },
+  {
     "title": "Making the OWASP top ten in the vibe code era",
     "link": "https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/",
     "pubDate": "2026-06-05T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The find out stage of AI is just supply chain and password protection",
     "link": "https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/",
     "pubDate": "2026-05-29T07:40:00+00:00"
-  },
-  {
-    "title": "In an AI world, the most valuable developers will be both artisans and builders",
-    "link": "https://stackoverflow.blog/2026/05/28/artisans-and-builders/",
-    "pubDate": "2026-05-28T16:00:00+00:00"
   }
 ]

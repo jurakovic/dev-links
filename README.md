@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-09 third-bit</small>  
+<small>[A Little Psychology](https://third-bit.com/2026/06/09/a-little-psychology/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-09 stackoverflow</small>  
+<small>[Creating checkpoints by gaslighting a Postgres database](https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-09 bartwullems</small>  
+<small>[Agent Skills in the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/agent-skills-in-github-copilot-sdk.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-08 simonwillison</small>  
 <small>[Siri AI at WWDC 2026](https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-08 third-bit</small>  
-<small>[A Little Psychology](https://third-bit.com/2026/06/08/a-little-psychology/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-08 idunno</small>  
 <small>[When is a guid not a guid?](https://idunno.org/when-is-a-guid-not-a-guid/)</small>
@@ -118,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-02 stackoverflow</small>  
 <small>[What it takes to be a player in the international AI game](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-02 bartwullems</small>  
-<small>[GitHub Copilot SDK issue after upgrading to the 1.0.0-beta.10](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-issue-after.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
 <small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
 
@@ -174,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[SQLPerformance 2.0: The Next Chapter](https://sqlperformance.com/2026/05/sql-performance/sqlperformance-2-0-the-next-chapter)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-28 stackoverflow</small>  
-<small>[In an AI world, the most valuable developers will be both artisans and builders](https://stackoverflow.blog/2026/05/28/artisans-and-builders/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-28 visualstudiomagazine</small>  
 <small>[Uno Platform Pitches WPF Modernization for the AI Agent Era](https://visualstudiomagazine.com/articles/2026/05/28/uno-platform-pitches-wpf-modernization-for-the-ai-agent-era.aspx)</small>
