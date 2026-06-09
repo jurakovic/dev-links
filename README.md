@@ -5,6 +5,15 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-09 third-bit</small>  
+<small>[How We Got Here](https://third-bit.com/2026/06/09/how-we-got-here/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-09 github-ai</small>  
+<small>[From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI](https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-09 techtrenches</small>  
+<small>[Anthropic Kept Every Promise It Could Afford](https://techtrenches.dev/p/anthropic-kept-every-promise-it-could)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-09 third-bit</small>  
 <small>[A Little Psychology](https://third-bit.com/2026/06/09/a-little-psychology/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-09 stackoverflow</small>  
@@ -66,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
 <small>[Braess's Paradox](https://third-bit.com/2026/06/05/braess-paradox/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
-<small>[Rush Hour Displacement](https://third-bit.com/2026/06/05/rush-hour/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-05 stackoverflow</small>  
 <small>[Making the OWASP top ten in the vibe code era](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-16 addyosmani</small>  
 <small>[Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-15 github-ai</small>  
-<small>[Building a general-purpose accessibility agent—and what we learned in the process](https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-15 bencane</small>  
-<small>[Weighted load balancing has saved me more times than I can count](https://bencane.com/posts/2026-05-14-weighted-load-balancing/)</small>
 
