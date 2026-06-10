@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-10 simonwillison</small>  
+<small>[DiffusionGemma](https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-10 erikej</small>  
+<small>[Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot](https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-10 dotnet</small>  
+<small>[Join us for .NET Day on Agentic Modernization Livestream](https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
 <small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
 
@@ -30,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-09 simonwillison</small>  
 <small>[llm 0.32a3](https://simonwillison.net/2026/Jun/9/llm/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-09 simonwillison</small>  
-<small>[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
 <small>[.NET 11 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/)</small>
@@ -232,9 +238,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 dotnet</small>  
 <small>[Doing More with GitHub Copilot as a .NET Developer](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 dotnet</small>  
-<small>[Give Your .NET MAUI Android Apps a Material 3 Makeover](https://devblogs.microsoft.com/dotnet/dotnet-maui-material-3/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 visualstudio</small>  
 <small>[Visual Studio May Update – Plan, Review, Refine](https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-18 github-ai</small>  
 <small>[Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-18 steven-giesel</small>  
-<small>[Zstandard compression in .NET 11](https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16)</small>
 
