@@ -1,5 +1,10 @@
 [
   {
+    "title": "Announcing Stack Overflow for Agents",
+    "link": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
+    "pubDate": "2026-06-10T14:00:00+00:00"
+  },
+  {
     "title": "Creating checkpoints by gaslighting a Postgres database",
     "link": "https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/",
     "pubDate": "2026-06-09T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Best of the Heap: First post of the past",
     "link": "https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/",
     "pubDate": "2026-05-29T14:00:00+00:00"
-  },
-  {
-    "title": "The find out stage of AI is just supply chain and password protection",
-    "link": "https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/",
-    "pubDate": "2026-05-29T07:40:00+00:00"
   }
 ]

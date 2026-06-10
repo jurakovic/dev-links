@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
+<small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-10 third-bit</small>  
+<small>[More Psychology](https://third-bit.com/2026/06/10/more-psychology/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-10 github-ai</small>  
+<small>[Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-10 simonwillison</small>  
+<small>[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-10 stackoverflow</small>  
+<small>[Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-10 bartwullems</small>  
 <small>[Multi-agent patterns with the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github.html)</small>
 
@@ -18,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-09 simonwillison</small>  
 <small>[Setting a custom price for a model in AgentsView](https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-09 simonwillison</small>  
-<small>[Quoting Andrej Karpathy](https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
 <small>[.NET 11 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/)</small>
@@ -81,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
 <small>[Priority Starvation](https://third-bit.com/2026/06/05/priority-starvation/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-05 third-bit</small>  
-<small>[Braess's Paradox](https://third-bit.com/2026/06/05/braess-paradox/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-05 stackoverflow</small>  
 <small>[Making the OWASP top ten in the vibe code era](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)</small>
@@ -168,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
 <small>[Best of the Heap: First post of the past](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
-<small>[The find out stage of AI is just supply chain and password protection](https://stackoverflow.blog/2026/05/29/find-out-stage-ai-supply-chain-password-protection/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 bencane</small>  
 <small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-05-18 steven-giesel</small>  
 <small>[Zstandard compression in .NET 11](https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-05-18 damienbod</small>  
-<small>[Aspire Azure SQL deployment bug](https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-16 addyosmani</small>  
-<small>[Don't Outsource the Learning](https://addyosmani.com/blog/dont-outsource-learning/)</small>
 
