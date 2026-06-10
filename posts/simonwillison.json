@@ -1,5 +1,20 @@
 [
   {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "link": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
+    "pubDate": "2026-06-10T00:37:25+00:00"
+  },
+  {
+    "title": "Initial impressions of Claude Fable 5",
+    "link": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "pubDate": "2026-06-09T23:59:54+00:00"
+  },
+  {
+    "title": "llm 0.32a3",
+    "link": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
+    "pubDate": "2026-06-09T22:27:03+00:00"
+  },
+  {
     "title": "Setting a custom price for a model in AgentsView",
     "link": "https://simonwillison.net/2026/Jun/9/agentsview-custom-model-price/#atom-everything",
     "pubDate": "2026-06-09T21:35:31+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Andrej Karpathy",
     "link": "https://simonwillison.net/2026/Jun/9/andrej-karpathy/#atom-everything",
     "pubDate": "2026-06-09T19:03:10+00:00"
-  },
-  {
-    "title": "Siri AI at WWDC 2026",
-    "link": "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-    "pubDate": "2026-06-08T23:58:04+00:00"
-  },
-  {
-    "title": "datasette-agent-edit 0.1a0",
-    "link": "https://simonwillison.net/2026/Jun/7/datasette-agent-edit/#atom-everything",
-    "pubDate": "2026-06-07T23:56:38+00:00"
-  },
-  {
-    "title": "micropython-wasm 0.1a2",
-    "link": "https://simonwillison.net/2026/Jun/6/micropython-wasm/#atom-everything",
-    "pubDate": "2026-06-06T04:26:06+00:00"
   }
 ]
