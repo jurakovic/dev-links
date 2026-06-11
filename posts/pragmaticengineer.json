@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
+    "pubDate": "2026-06-11T16:31:42+00:00"
+  },
+  {
+    "title": "The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/",
+    "pubDate": "2026-06-11T16:22:16+00:00"
+  },
+  {
     "title": "The Pulse: Forward deployed engineering heats up again",
     "link": "https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/",
     "pubDate": "2026-05-24T20:35:11+00:00"
@@ -13,15 +23,5 @@
     "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/",
     "pubDate": "2026-05-14T16:10:59+00:00"
-  },
-  {
-    "title": "TechPays has been acquired by Levels.fyi",
-    "link": "https://blog.pragmaticengineer.com/techpays-has-been-acquired-levels-fyi/",
-    "pubDate": "2026-05-12T16:06:08+00:00"
-  },
-  {
-    "title": "The Pulse: AI load breaks GitHub – why not other vendors?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-ai-load-breaks-github/",
-    "pubDate": "2026-05-07T17:33:18+00:00"
   }
 ]

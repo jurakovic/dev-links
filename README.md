@@ -4,11 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-11 visualstudiomagazine</small>  
+<small>[VS Code 1.124 Focuses on Agent Autonomy and Parallel Sessions](https://visualstudiomagazine.com/articles/2026/06/11/vsm-vs-code-1-124.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
+<small>[The Pulse: a trend of trying to cut back on AI spend within eng departments?](https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
+<small>[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE](https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-11 third-bit</small>  
 <small>[When the Model Is the Harm](https://third-bit.com/2026/06/11/harmful-models/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-11 github-ai</small>  
 <small>[Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
+<small>[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-11 visualstudio</small>  
 <small>[Review pull requests without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/review-pull-requests-without-leaving-visual-studio/)</small>
@@ -21,6 +33,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-11 stackoverflow</small>  
 <small>[When the cost of code approaches zero, what does engineering leadership look like?](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
+<small>[asyncinject 0.7](https://simonwillison.net/2026/Jun/11/asyncinject/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-11 bartwullems</small>  
 <small>[Multi-agent patterns with the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github_0114848230.html)</small>
@@ -49,17 +64,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-10 github-ai</small>  
 <small>[Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-10 simonwillison</small>  
-<small>[Quoting Jeremy Howard](https://simonwillison.net/2026/Jun/10/jeremy-howard/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-10 stackoverflow</small>  
 <small>[Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-10 bartwullems</small>  
 <small>[Multi-agent patterns with the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-10 simonwillison</small>  
-<small>[If Claude Fable stops helping you, you'll never know](https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
 <small>[.NET 11 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/)</small>
@@ -96,6 +105,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-08 third-bit</small>  
 <small>[Sex and Drugs and Guns and Code Restart](https://third-bit.com/2026/06/08/sex-and-drugs-and-guns-and-code-restart/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-08 stackoverflow</small>  
+<small>[What can 500 years of journalism teach developers about AI trustworthiness?](https://stackoverflow.blog/2026/06/08/what-can-500-years-of-journalism-teach-developers-about-ai-trustworthiness/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-08 damienbod</small>  
 <small>[ASP.NET Core background tasks with NCronJob and SignalR](https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/)</small>
@@ -163,9 +175,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-02 martinfowler</small>  
 <small>[Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-02 stackoverflow</small>  
-<small>[What it takes to be a player in the international AI game](https://stackoverflow.blog/2026/06/02/be-a-player-in-the-international-ai-game/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
 <small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
 
@@ -228,9 +237,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
 <small>[Fragments: May 27](https://martinfowler.com/fragments/2026-05-27.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-27 visualstudiomagazine</small>  
-<small>[Microsoft Extends Rust-Influenced Memory-Safety Push to C#](https://visualstudiomagazine.com/articles/2026/05/27/microsoft-extends-rust-influenced-memory-safety-push-to-csharp.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
 <small>[The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-20 pragmaticengineer</small>  
 <small>[Google Cloud deletes Australian trading fund’s infra](https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-19 swizec</small>  
-<small>[Engineering levels aren't about skill anymore](https://swizec.com/blog/engineering-levels-arent-about-skill-anymore/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-19 techtrenches</small>  
-<small>[The Bias Lives in the Weights](https://techtrenches.dev/p/the-bias-lives-in-the-weights)</small>
 
