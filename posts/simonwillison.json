@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
+    "link": "https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything",
+    "pubDate": "2026-06-11T03:45:49+00:00"
+  },
+  {
+    "title": "datasette-agent 0.2a0",
+    "link": "https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything",
+    "pubDate": "2026-06-10T23:57:27+00:00"
+  },
+  {
     "title": "DiffusionGemma",
     "link": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
     "pubDate": "2026-06-10T20:00:54+00:00"
@@ -13,15 +23,5 @@
     "title": "If Claude Fable stops helping you, you'll never know",
     "link": "https://simonwillison.net/2026/Jun/10/if-claude-fable-stops-helping-you/#atom-everything",
     "pubDate": "2026-06-10T00:37:25+00:00"
-  },
-  {
-    "title": "Initial impressions of Claude Fable 5",
-    "link": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-    "pubDate": "2026-06-09T23:59:54+00:00"
-  },
-  {
-    "title": "llm 0.32a3",
-    "link": "https://simonwillison.net/2026/Jun/9/llm/#atom-everything",
-    "pubDate": "2026-06-09T22:27:03+00:00"
   }
 ]
