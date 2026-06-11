@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-11 bencane</small>  
+<small>[Coding agents can’t see your architecture diagrams—fix that](https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-11 stackoverflow</small>  
+<small>[When the cost of code approaches zero, what does engineering leadership look like?](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-11 bartwullems</small>  
+<small>[Multi-agent patterns with the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github_0114848230.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
 <small>[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything)</small>
 
@@ -121,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
 <small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-04 bartwullems</small>  
-<small>[Visual Studio 2026–From plan mode to plan agent](https://bartwullems.blogspot.com/2026/06/visual-studio-2026from-plan-mode-to.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-03 techtrenches</small>  
 <small>[Nobody Won the Token Race](https://techtrenches.dev/p/nobody-won-the-token-race)</small>
 
@@ -180,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[From Silos to Service Topology: Why Netflix Built a Real-Time Service Map](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-05-29 stackoverflow</small>  
-<small>[Best of the Heap: First post of the past](https://stackoverflow.blog/2026/05/29/best-of-the-heap-first-post-of-the-past/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 bencane</small>  
 <small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-19 antirez</small>  
 <small>[Alternatives for the EDIT tool of LLM agents](http://antirez.com/news/166)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-18 github-ai</small>  
-<small>[Take your local GitHub sessions anywhere](https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/)</small>
 
