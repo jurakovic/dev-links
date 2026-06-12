@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
+<small>[Developers are emotionally attached to their tools](https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-12 bartwullems</small>  
+<small>[Safely injecting a JSON configuration object into a Razor Page](https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
 <small>[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything)</small>
 
@@ -129,12 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
 <small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-05 stackoverflow</small>  
-<small>[Making the OWASP top ten in the vibe code era](https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-05 bartwullems</small>  
-<small>[Rubber Duck in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/rubber-duck-in-github-copilot-cli.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-05 addyosmani</small>  
 <small>[The Intent Debt](https://addyosmani.com/blog/intent-debt/)</small>

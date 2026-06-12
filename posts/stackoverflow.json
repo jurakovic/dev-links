@@ -1,5 +1,10 @@
 [
   {
+    "title": "Developers are emotionally attached to their tools",
+    "link": "https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/",
+    "pubDate": "2026-06-12T07:40:00+00:00"
+  },
+  {
     "title": "When the cost of code approaches zero, what does engineering leadership look like?",
     "link": "https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/",
     "pubDate": "2026-06-11T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "What can 500 years of journalism teach developers about AI trustworthiness?",
     "link": "https://stackoverflow.blog/2026/06/08/what-can-500-years-of-journalism-teach-developers-about-ai-trustworthiness/",
     "pubDate": "2026-06-08T14:00:00+00:00"
-  },
-  {
-    "title": "Making the OWASP top ten in the vibe code era",
-    "link": "https://stackoverflow.blog/2026/06/05/making-the-owasp-top-ten-in-the-vibe-code-era/",
-    "pubDate": "2026-06-05T07:40:00+00:00"
   }
 ]
