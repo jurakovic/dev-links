@@ -1,5 +1,10 @@
 [
   {
+    "title": "What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?",
+    "link": "https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/",
+    "pubDate": "2026-06-12T14:00:00+00:00"
+  },
+  {
     "title": "Developers are emotionally attached to their tools",
     "link": "https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/",
     "pubDate": "2026-06-12T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Creating checkpoints by gaslighting a Postgres database",
     "link": "https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/",
     "pubDate": "2026-06-09T07:40:00+00:00"
-  },
-  {
-    "title": "What can 500 years of journalism teach developers about AI trustworthiness?",
-    "link": "https://stackoverflow.blog/2026/06/08/what-can-500-years-of-journalism-teach-developers-about-ai-trustworthiness/",
-    "pubDate": "2026-06-08T14:00:00+00:00"
   }
 ]
