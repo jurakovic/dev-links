@@ -1,5 +1,10 @@
 [
   {
+    "title": "Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters",
+    "link": "https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/",
+    "pubDate": "2026-06-12T16:17:10+00:00"
+  },
+  {
     "title": "What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?",
     "link": "https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/",
     "pubDate": "2026-06-12T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Announcing Stack Overflow for Agents",
     "link": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
     "pubDate": "2026-06-10T14:00:00+00:00"
-  },
-  {
-    "title": "Creating checkpoints by gaslighting a Postgres database",
-    "link": "https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/",
-    "pubDate": "2026-06-09T07:40:00+00:00"
   }
 ]

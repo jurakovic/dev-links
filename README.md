@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-12 simonwillison</small>  
+<small>[Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-12 visualstudiomagazine</small>  
+<small>[.NET 11 Preview 5 Focuses on Performance, Productivity and Safer Code](https://visualstudiomagazine.com/articles/2026/06/12/net-11-preview-5-focuses-on-performance-productivity-and-safer-code.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
+<small>[Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-12 third-bit</small>  
 <small>[Privacy, Power, and the Self](https://third-bit.com/2026/06/12/privacy/)</small>
 
@@ -58,9 +67,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
 <small>[Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude](https://simonwillison.net/2026/Jun/11/anthropic-walks-back-policy/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-10 simonwillison</small>  
-<small>[datasette-agent 0.2a0](https://simonwillison.net/2026/Jun/10/datasette-agent/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-10 erikej</small>  
 <small>[Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot](https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html)</small>
 
@@ -99,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-09 third-bit</small>  
 <small>[A Little Psychology](https://third-bit.com/2026/06/09/a-little-psychology/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-09 stackoverflow</small>  
-<small>[Creating checkpoints by gaslighting a Postgres database](https://stackoverflow.blog/2026/06/09/checkpoints-by-gaslighting-postgres-database/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-09 bartwullems</small>  
 <small>[Agent Skills in the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/agent-skills-in-github-copilot-sdk.html)</small>
@@ -222,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[SQLPerformance 2.0: The Next Chapter](https://sqlperformance.com/2026/05/sql-performance/sqlperformance-2-0-the-next-chapter)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-28 visualstudiomagazine</small>  
-<small>[Uno Platform Pitches WPF Modernization for the AI Agent Era](https://visualstudiomagazine.com/articles/2026/05/28/uno-platform-pitches-wpf-modernization-for-the-ai-agent-era.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-05-28 slack</small>  
 <small>[Slack AI: The Path to Multi-Cloud](https://slack.engineering/slack-ai-the-path-to-multi-cloud/)</small>
