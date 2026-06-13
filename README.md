@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
+<small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-13 techtrenches</small>  
+<small>[Europe Regulated Itself Out of the AI Race](https://techtrenches.dev/p/europe-regulated-itself-out-of-the)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
 <small>[Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 erikej</small>  
 <small>[SqlServer.Rules 5.0.0 is out 🎉](https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-21 martinfowler</small>  
-<small>[Bliki: Vibe Coding](https://martinfowler.com/bliki/VibeCoding.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-20 erikej</small>  
-<small>[Launching the SSMS Extension Gallery](https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html)</small>
 
