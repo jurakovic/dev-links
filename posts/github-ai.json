@@ -1,5 +1,10 @@
 [
   {
+    "title": "How we made GitHub Copilot CLI more selective about delegation",
+    "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+    "pubDate": "2026-06-12T22:26:23+00:00"
+  },
+  {
     "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
     "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
     "pubDate": "2026-06-11T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
     "pubDate": "2026-05-22T16:10:21+00:00"
-  },
-  {
-    "title": "Take your local GitHub sessions anywhere",
-    "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-    "pubDate": "2026-05-18T16:54:53+00:00"
   }
 ]
