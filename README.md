@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-13 third-bit</small>  
+<small>[Who Gets What and Why](https://third-bit.com/2026/06/13/who-gets-what-and-why/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
 <small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
 
@@ -111,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-09 techtrenches</small>  
 <small>[Anthropic Kept Every Promise It Could Afford](https://techtrenches.dev/p/anthropic-kept-every-promise-it-could)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-09 third-bit</small>  
-<small>[A Little Psychology](https://third-bit.com/2026/06/09/a-little-psychology/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-09 bartwullems</small>  
 <small>[Agent Skills in the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/agent-skills-in-github-copilot-sdk.html)</small>
