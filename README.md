@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
+<small>[Publishing WASM wheels to PyPI for use with Pyodide](https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
+<small>[luau-wasm 0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
+<small>[Mapping SQLite result columns back to their source \`table.column\`](https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-13 third-bit</small>  
 <small>[Who Gets What and Why](https://third-bit.com/2026/06/13/who-gets-what-and-why/)</small>
 
@@ -13,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-13 techtrenches</small>  
 <small>[Europe Regulated Itself Out of the AI Race](https://techtrenches.dev/p/europe-regulated-itself-out-of-the)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-13 rickstrahl</small>  
+<small>[Creating a Packaged Single File Web Site Viewer Executable](https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
 <small>[Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything)</small>
 
@@ -21,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-12 github-ai</small>  
 <small>[How we made GitHub Copilot CLI more selective about delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-12 simonwillison</small>  
-<small>[Quoting Andrew Singleton](https://simonwillison.net/2026/Jun/12/andrew-singleton/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-12 visualstudiomagazine</small>  
 <small>[.NET 11 Preview 5 Focuses on Performance, Productivity and Safer Code](https://visualstudiomagazine.com/articles/2026/06/12/net-11-preview-5-focuses-on-performance-productivity-and-safer-code.aspx)</small>
@@ -43,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-12 bartwullems</small>  
 <small>[Safely injecting a JSON configuration object into a Razor Page](https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
-<small>[Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-11 visualstudiomagazine</small>  
 <small>[VS Code 1.124 Focuses on Agent Autonomy and Parallel Sessions](https://visualstudiomagazine.com/articles/2026/06/11/vsm-vs-code-1-124.aspx)</small>
 
@@ -60,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-11 github-ai</small>  
 <small>[Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-11 simonwillison</small>  
-<small>[datasette 1.0a33](https://simonwillison.net/2026/Jun/11/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-11 visualstudio</small>  
 <small>[Review pull requests without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/review-pull-requests-without-leaving-visual-studio/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-21 visualstudio</small>  
 <small>[Plan Before You Build: Introducing the Plan agent in Visual Studio](https://devblogs.microsoft.com/visualstudio/plan-before-you-build-introducing-the-plan-agent-in-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-21 erikej</small>  
-<small>[SqlServer.Rules 5.0.0 is out 🎉](https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html)</small>
 
