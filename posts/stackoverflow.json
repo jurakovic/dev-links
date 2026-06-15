@@ -1,11 +1,21 @@
 [
   {
+    "title": "Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework",
+    "link": "https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/",
+    "pubDate": "2026-06-15T15:22:54+00:00"
+  },
+  {
+    "title": "AI agents expose the security checks you never actually wrote",
+    "link": "https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/",
+    "pubDate": "2026-06-15T14:58:54+00:00"
+  },
+  {
     "title": "Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters",
     "link": "https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/",
     "pubDate": "2026-06-12T16:17:10+00:00"
   },
   {
-    "title": "What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?",
+    "title": "Paging Charity? How do I get my leaders to stop running teams Into the ground?",
     "link": "https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/",
     "pubDate": "2026-06-12T14:00:00+00:00"
   },
@@ -13,15 +23,5 @@
     "title": "Developers are emotionally attached to their tools",
     "link": "https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/",
     "pubDate": "2026-06-12T07:40:00+00:00"
-  },
-  {
-    "title": "When the cost of code approaches zero, what does engineering leadership look like?",
-    "link": "https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/",
-    "pubDate": "2026-06-11T07:40:00+00:00"
-  },
-  {
-    "title": "Announcing Stack Overflow for Agents",
-    "link": "https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/",
-    "pubDate": "2026-06-10T14:00:00+00:00"
   }
 ]

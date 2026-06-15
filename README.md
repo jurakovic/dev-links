@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-15 third-bit</small>  
+<small>[What We Owe the Future](https://third-bit.com/2026/06/15/what-we-owe-the-future/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-15 stackoverflow</small>  
+<small>[Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-15 stackoverflow</small>  
+<small>[AI agents expose the security checks you never actually wrote](https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-15 simonwillison</small>  
+<small>["They screwed us": Personality clashes sent Anthropic's models offline](https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-15 visualstudio</small>  
+<small>[Make Visual Studio look the way you want](https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-06-15 lethain</small>  
+<small>[Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-15 bartwullems</small>  
 <small>[Level Up Your Copilot CLI Statusline with Oh My Posh](https://bartwullems.blogspot.com/2026/06/level-up-your-copilot-cli-statusline.html)</small>
 
@@ -34,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
 <small>[luau-wasm 0.1a0](https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-13 simonwillison</small>  
-<small>[Mapping SQLite result columns back to their source \`table.column\`](https://simonwillison.net/2026/Jun/13/sqlite-column-provenance/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-13 third-bit</small>  
 <small>[Who Gets What and Why](https://third-bit.com/2026/06/13/who-gets-what-and-why/)</small>
 
@@ -62,7 +77,7 @@
 <small>[Privacy, Power, and the Self](https://third-bit.com/2026/06/12/privacy/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
-<small>[What's the facts, Charity? How do I get my leaders to stop running teams Into the ground?](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/)</small>
+<small>[Paging Charity? How do I get my leaders to stop running teams Into the ground?](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
 <small>[Developers are emotionally attached to their tools](https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/)</small>
@@ -94,9 +109,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-11 bencane</small>  
 <small>[Coding agents can’t see your architecture diagrams—fix that](https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-11 stackoverflow</small>  
-<small>[When the cost of code approaches zero, what does engineering leadership look like?](https://stackoverflow.blog/2026/06/11/engineering-leadership-zero-cost-code/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-11 bartwullems</small>  
 <small>[Multi-agent patterns with the GitHub Copilot SDK (continued)](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github_0114848230.html)</small>
 
@@ -109,14 +121,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
 <small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-10 third-bit</small>  
-<small>[More Psychology](https://third-bit.com/2026/06/10/more-psychology/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-10 github-ai</small>  
 <small>[Give GitHub Copilot CLI real code intelligence with language servers](https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-10 stackoverflow</small>  
-<small>[Announcing Stack Overflow for Agents](https://stackoverflow.blog/2026/06/10/announcing-stack-overflow-for-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-10 bartwullems</small>  
 <small>[Multi-agent patterns with the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github.html)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-24 lucumr-pocoo</small>  
 <small>[Building Pi With Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-22 azuresqlblog</small>  
-<small>[Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025](https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql/ba-p/4522396)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-22 azure-sql</small>  
-<small>[Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025](https://devblogs.microsoft.com/azure-sql/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql-server-2025/)</small>
 

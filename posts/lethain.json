@@ -1,5 +1,10 @@
 [
   {
+    "title": "Revised rules of engineering leadership.",
+    "link": "https://lethain.com/revised-rules-of-engineering-leadership/",
+    "pubDate": "2026-06-15T13:00:00+00:00"
+  },
+  {
     "title": "Early and late-stage hypergrowth.",
     "link": "https://lethain.com/early-late-stage-hypergrowth/",
     "pubDate": "2026-04-27T13:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Judgment and creativity are all you need.",
     "link": "https://lethain.com/judgment-is-all-you-need/",
     "pubDate": "2026-03-11T14:30:00+00:00"
-  },
-  {
-    "title": "Refactoring internal documentation in Notion",
-    "link": "https://lethain.com/refactoring-internal-docs-notion/",
-    "pubDate": "2026-02-05T14:00:00+00:00"
   }
 ]
