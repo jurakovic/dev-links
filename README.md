@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-15 bartwullems</small>  
+<small>[Level Up Your Copilot CLI Statusline with Oh My Posh](https://bartwullems.blogspot.com/2026/06/level-up-your-copilot-cli-statusline.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-15 damienbod</small>  
+<small>[Software development and AI](https://damienbod.com/2026/06/15/software-development-and-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-15 seangoedecke</small>  
 <small>[AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/)</small>
 
@@ -141,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-08 damienbod</small>  
 <small>[ASP.NET Core background tasks with NCronJob and SignalR](https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-08 bartwullems</small>  
-<small>[MCP integration in the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/mcp-integration-in-github-copilot-sdk.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-06-08 steven-giesel</small>  
 <small>[EF Core 11 makes your split queries faster](https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-22 azure-sql</small>  
 <small>[Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025](https://devblogs.microsoft.com/azure-sql/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql-server-2025/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-05-22 github-ai</small>  
-<small>[GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row](https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/)</small>
 

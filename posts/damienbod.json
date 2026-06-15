@@ -1,5 +1,10 @@
 [
   {
+    "title": "Software development and AI",
+    "link": "https://damienbod.com/2026/06/15/software-development-and-ai/",
+    "pubDate": "2026-06-15T04:59:28+00:00"
+  },
+  {
     "title": "ASP.NET Core background tasks with NCronJob and SignalR",
     "link": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
     "pubDate": "2026-06-08T05:39:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Remove sign-up from Entra External ID user flows",
     "link": "https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/",
     "pubDate": "2026-04-20T05:15:03+00:00"
-  },
-  {
-    "title": "Invite Guest users in a Entra ID Multi-tenant setup",
-    "link": "https://damienbod.com/2026/03/09/invite-guest-users-in-a-entra-id-multi-tenant-setup/",
-    "pubDate": "2026-03-09T09:06:26+00:00"
   }
 ]
