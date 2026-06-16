@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Matteo Wong, The Atlantic",
+    "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
+    "pubDate": "2026-06-16T03:07:54+00:00"
+  },
+  {
+    "title": "Cloudflare CAPTCHA on at least one ampersand",
+    "link": "https://simonwillison.net/2026/Jun/16/captcha-on-at-least-one-ampersand/#atom-everything",
+    "pubDate": "2026-06-16T00:21:36+00:00"
+  },
+  {
+    "title": "datasette-agent 0.3a0",
+    "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
+    "pubDate": "2026-06-15T17:19:27+00:00"
+  },
+  {
     "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
     "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
     "pubDate": "2026-06-15T14:57:33+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting Julia Evans",
     "link": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
     "pubDate": "2026-06-15T02:05:19+00:00"
-  },
-  {
-    "title": "Why AI hasn’t replaced software engineers, and won’t",
-    "link": "https://simonwillison.net/2026/Jun/14/why-ai-hasnt-replaced-software-engineers/#atom-everything",
-    "pubDate": "2026-06-14T23:54:11+00:00"
-  },
-  {
-    "title": "Publishing WASM wheels to PyPI for use with Pyodide",
-    "link": "https://simonwillison.net/2026/Jun/13/publishing-wasm-wheels/#atom-everything",
-    "pubDate": "2026-06-13T23:55:18+00:00"
-  },
-  {
-    "title": "luau-wasm 0.1a0",
-    "link": "https://simonwillison.net/2026/Jun/13/luau-wasm/#atom-everything",
-    "pubDate": "2026-06-13T23:14:30+00:00"
   }
 ]
