@@ -1,5 +1,10 @@
 [
   {
+    "title": "What are git worktrees, and why should I use them?",
+    "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+    "pubDate": "2026-06-16T20:58:54+00:00"
+  },
+  {
     "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
     "pubDate": "2026-06-15T20:15:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
     "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
     "pubDate": "2026-06-11T16:00:00+00:00"
-  },
-  {
-    "title": "Give GitHub Copilot CLI real code intelligence with language servers",
-    "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-    "pubDate": "2026-06-10T16:00:00+00:00"
   }
 ]

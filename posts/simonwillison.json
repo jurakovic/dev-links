@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Georgi Gerganov",
+    "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
+    "pubDate": "2026-06-16T16:04:59+00:00"
+  },
+  {
     "title": "The Fable 5 Export Controls Harm US Cyber Defense",
     "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
     "pubDate": "2026-06-16T05:20:29+00:00"
@@ -18,10 +23,5 @@
     "title": "datasette-agent 0.3a0",
     "link": "https://simonwillison.net/2026/Jun/15/datasette-agent/#atom-everything",
     "pubDate": "2026-06-15T17:19:27+00:00"
-  },
-  {
-    "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
-    "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
-    "pubDate": "2026-06-15T14:57:33+00:00"
   }
 ]
