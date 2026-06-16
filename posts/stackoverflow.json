@@ -1,5 +1,10 @@
 [
   {
+    "title": "If context is king, architecture is the castle",
+    "link": "https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/",
+    "pubDate": "2026-06-16T07:40:00+00:00"
+  },
+  {
     "title": "Selenium vs Cypress vs Playwright: Choosing Your Test Automation Framework",
     "link": "https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/",
     "pubDate": "2026-06-15T15:22:54+00:00"
@@ -18,10 +23,5 @@
     "title": "Paging Charity? How do I get my leaders to stop running teams Into the ground?",
     "link": "https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/",
     "pubDate": "2026-06-12T14:00:00+00:00"
-  },
-  {
-    "title": "Developers are emotionally attached to their tools",
-    "link": "https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/",
-    "pubDate": "2026-06-12T07:40:00+00:00"
   }
 ]

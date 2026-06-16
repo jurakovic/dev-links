@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-16 stackoverflow</small>  
+<small>[If context is king, architecture is the castle](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
+<small>[Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-16 bartwullems</small>  
+<small>[Ship your C# MCP Server as a one-click bundle with MCPB](https://bartwullems.blogspot.com/2026/06/ship-your-c-mcp-server-as-one-click.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
+<small>[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
 <small>[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything)</small>
 
@@ -46,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-15 seangoedecke</small>  
 <small>[AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-15 simonwillison</small>  
-<small>[Quoting Julia Evans](https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-14 third-bit</small>  
 <small>[More Analogies](https://third-bit.com/2026/06/14/more-analogies/)</small>
 
@@ -84,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
 <small>[Paging Charity? How do I get my leaders to stop running teams Into the ground?](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
-<small>[Developers are emotionally attached to their tools](https://stackoverflow.blog/2026/06/12/developers-are-emotionally-attached-to-their-tools/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-12 bartwullems</small>  
 <small>[Safely injecting a JSON configuration object into a Razor Page](https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html)</small>
@@ -141,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-09 techtrenches</small>  
 <small>[Anthropic Kept Every Promise It Could Afford](https://techtrenches.dev/p/anthropic-kept-every-promise-it-could)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-09 bartwullems</small>  
-<small>[Agent Skills in the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/agent-skills-in-github-copilot-sdk.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-08 idunno</small>  
 <small>[When is a guid not a guid?](https://idunno.org/when-is-a-guid-not-a-guid/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-24 addyosmani</small>  
 <small>[The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-05-24 pragmaticengineer</small>  
-<small>[The Pulse: Forward deployed engineering heats up again](https://blog.pragmaticengineer.com/the-pulse-forward-deployed-engineering-heats-up-again/)</small>
 

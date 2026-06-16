@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Fable 5 Export Controls Harm US Cyber Defense",
+    "link": "https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything",
+    "pubDate": "2026-06-16T05:20:29+00:00"
+  },
+  {
     "title": "Quoting Matteo Wong, The Atlantic",
     "link": "https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything",
     "pubDate": "2026-06-16T03:07:54+00:00"
@@ -18,10 +23,5 @@
     "title": "\"They screwed us\": Personality clashes sent Anthropic's models offline",
     "link": "https://simonwillison.net/2026/Jun/15/axios-clashes-anthropics/#atom-everything",
     "pubDate": "2026-06-15T14:57:33+00:00"
-  },
-  {
-    "title": "Quoting Julia Evans",
-    "link": "https://simonwillison.net/2026/Jun/15/julia-evans/#atom-everything",
-    "pubDate": "2026-06-15T02:05:19+00:00"
   }
 ]
