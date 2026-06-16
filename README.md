@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-16 third-bit</small>  
+<small>[Regulation Works](https://third-bit.com/2026/06/16/regulation-works/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-16 techtrenches</small>  
+<small>[When Your Vendor Becomes Your Competitor: AI’s $5.5B Confession](https://techtrenches.dev/p/when-your-vendor-becomes-your-competitor)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
+<small>[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-16 stackoverflow</small>  
 <small>[If context is king, architecture is the castle](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/)</small>
 
@@ -105,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
 <small>[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE](https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-11 third-bit</small>  
-<small>[When the Model Is the Harm](https://third-bit.com/2026/06/11/harmful-models/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-11 github-ai</small>  
 <small>[Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/)</small>
@@ -274,9 +280,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
 <small>[The test suite as a regression sensor](https://martinfowler.com/articles/sensors-for-coding-agents.html#TheTestSuiteAsARegressionSensor)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
-<small>[The VibeSec Reckoning](https://martinfowler.com/articles/vibesec-reckoning.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-05-27 terriblesoftware</small>  
 <small>[Using My Fucking Brain](https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/)</small>
 
@@ -294,9 +297,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-26 rickstrahl</small>  
 <small>[Running ASP.NET Core Applications as a Subfolder Application](https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-26 techtrenches</small>  
-<small>[The $50 Billion Utility](https://techtrenches.dev/p/the-50-billion-utility)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
 <small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
