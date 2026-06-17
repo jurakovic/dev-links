@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI agents are a confused deputy with the keys to your kingdom",
+    "link": "https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/",
+    "pubDate": "2026-06-17T14:00:00+00:00"
+  },
+  {
     "title": "If context is king, architecture is the castle",
     "link": "https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/",
     "pubDate": "2026-06-16T07:40:00+00:00"
@@ -8,11 +13,6 @@
     "title": "Selenium vs. Cypress vs Playwright: Choosing your test automation framework",
     "link": "https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/",
     "pubDate": "2026-06-15T15:22:54+00:00"
-  },
-  {
-    "title": "AI agents expose the security checks you never actually wrote",
-    "link": "https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/",
-    "pubDate": "2026-06-15T14:58:54+00:00"
   },
   {
     "title": "Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters",

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-17 third-bit</small>  
+<small>[How Change Happens](https://third-bit.com/2026/06/17/how-change/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-17 stackoverflow</small>  
+<small>[AI agents are a confused deputy with the keys to your kingdom](https://stackoverflow.blog/2026/06/17/ai-agents-expose-the-security-checks-you-never-actually-wrote/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-17 bartwullems</small>  
 <small>[AgentsView: A practical look at your AI agent sessions](https://bartwullems.blogspot.com/2026/06/agentsview-practical-look-at-your-ai.html)</small>
 
@@ -55,9 +61,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-15 stackoverflow</small>  
 <small>[Selenium vs. Cypress vs Playwright: Choosing your test automation framework](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-15 stackoverflow</small>  
-<small>[AI agents expose the security checks you never actually wrote](https://stackoverflow.blog/2026/06/15/ai-agents-expose-the-security-checks-you-never-actually-wrote/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-15 visualstudio</small>  
 <small>[Make Visual Studio look the way you want](https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/)</small>
 
@@ -102,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
 <small>[Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-12 third-bit</small>  
-<small>[Privacy, Power, and the Self](https://third-bit.com/2026/06/12/privacy/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
 <small>[Paging Charity? How do I get my leaders to stop running teams Into the ground?](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/)</small>
