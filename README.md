@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-17 bartwullems</small>  
+<small>[AgentsView: A practical look at your AI agent sessions](https://bartwullems.blogspot.com/2026/06/agentsview-practical-look-at-your-ai.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-17 simonwillison</small>  
+<small>[&lt;click-to-play&gt; — a still that plays](https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-17 simonwillison</small>  
 <small>[NetNewsWire Status](https://simonwillison.net/2026/Jun/17/netnewswire-status/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
+<small>[datasette 1.0a34](https://simonwillison.net/2026/Jun/16/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
 <small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
@@ -33,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-16 bartwullems</small>  
 <small>[Ship your C# MCP Server as a one-click bundle with MCPB](https://bartwullems.blogspot.com/2026/06/ship-your-c-mcp-server-as-one-click.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
-<small>[The Fable 5 Export Controls Harm US Cyber Defense](https://simonwillison.net/2026/Jun/16/fable-5-export-controls/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
-<small>[Quoting Matteo Wong, The Atlantic](https://simonwillison.net/2026/Jun/16/matteo-wong-the-atlantic/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-15 github-ai</small>  
 <small>[GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/)</small>
@@ -141,9 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
 <small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-10 bartwullems</small>  
-<small>[Multi-agent patterns with the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/multi-agent-patterns-with-github.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
 <small>[.NET 11 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/)</small>
