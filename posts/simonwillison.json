@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Charity Majors",
+    "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
+    "pubDate": "2026-06-17T17:12:41+00:00"
+  },
+  {
     "title": "<click-to-play> — a still that plays",
     "link": "https://simonwillison.net/2026/Jun/17/click-to-play-component/#atom-everything",
     "pubDate": "2026-06-17T03:56:10+00:00"
@@ -18,10 +23,5 @@
     "title": "datasette-tailscale 0.1a0",
     "link": "https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything",
     "pubDate": "2026-06-16T16:18:20+00:00"
-  },
-  {
-    "title": "Quoting Georgi Gerganov",
-    "link": "https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything",
-    "pubDate": "2026-06-16T16:04:59+00:00"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Code is the easy part, or how we refactored half the business to fix a janky script",
+    "link": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
+    "pubDate": "2026-06-17T22:08:27+00:00"
+  },
+  {
+    "title": "Good software gets out of the way",
+    "link": "https://swizec.com/blog/good-software-gets-out-of-the-way/",
+    "pubDate": "2026-06-04T00:00:00+00:00"
+  },
+  {
     "title": "Relentlessly focus on the outcomes",
     "link": "https://swizec.com/blog/relentlessly-focus-on-the-outcomes/",
     "pubDate": "2026-05-26T18:24:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Just fix their PR",
     "link": "https://swizec.com/blog/just-fix-their-pr/",
     "pubDate": "2026-05-13T18:01:56+00:00"
-  },
-  {
-    "title": "\"But if AI does it all, what's *my* job?\"",
-    "link": "https://swizec.com/blog/but-if-ai-does-it-all-whats-my-job/",
-    "pubDate": "2026-05-09T00:00:00+00:00"
-  },
-  {
-    "title": "What you need to make an agent",
-    "link": "https://swizec.com/blog/what-you-need-to-make-an-agent/",
-    "pubDate": "2026-05-05T17:21:39+00:00"
   }
 ]

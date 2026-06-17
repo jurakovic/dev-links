@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-17 swizec</small>  
+<small>[Code is the easy part, or how we refactored half the business to fix a janky script](https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-17 github-ai</small>  
+<small>[Getting more from each token: How Copilot improves context handling and model routing](https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-17 simonwillison</small>  
+<small>[Quoting Charity Majors](https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-17 dotnet</small>  
+<small>[AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-17 third-bit</small>  
 <small>[How Change Happens](https://third-bit.com/2026/06/17/how-change/)</small>
 
@@ -27,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
 <small>[datasette-tailscale 0.1a0](https://simonwillison.net/2026/Jun/16/datasette-tailscale/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-16 simonwillison</small>  
-<small>[Quoting Georgi Gerganov](https://simonwillison.net/2026/Jun/16/georgi-gerganov/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-16 third-bit</small>  
 <small>[Regulation Works](https://third-bit.com/2026/06/16/regulation-works/)</small>
@@ -121,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
 <small>[The Pulse: Antigravity 2.0 takes ‘IDE’ out of its new IDE](https://blog.pragmaticengineer.com/the-pulse-antigravity-2-0-takes-ide-out-of-its-new-ide/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-11 github-ai</small>  
-<small>[Making secret scanning more trustworthy: Reducing false positives at scale](https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-11 visualstudio</small>  
 <small>[Review pull requests without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/review-pull-requests-without-leaving-visual-studio/)</small>
 
@@ -195,6 +201,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
 <small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-04 swizec</small>  
+<small>[Good software gets out of the way](https://swizec.com/blog/good-software-gets-out-of-the-way/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-03 techtrenches</small>  
 <small>[Nobody Won the Token Race](https://techtrenches.dev/p/nobody-won-the-token-race)</small>
@@ -289,18 +298,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-26 swizec</small>  
 <small>[Relentlessly focus on the outcomes](https://swizec.com/blog/relentlessly-focus-on-the-outcomes/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 dotnet</small>  
-<small>[Doing More with GitHub Copilot as a .NET Developer](https://devblogs.microsoft.com/dotnet/doing-more-with-github-copilot/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-26 visualstudio</small>  
 <small>[Visual Studio May Update – Plan, Review, Refine](https://devblogs.microsoft.com/visualstudio/visual-studio-may-update-plan-review-refine/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-26 rickstrahl</small>  
 <small>[Running ASP.NET Core Applications as a Subfolder Application](https://weblog.west-wind.com/posts/2026/May/26/Running-ASPNET-Core-Applications-in-an-IIS-Subfolder-Application)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-25 antirez</small>  
-<small>[Distributing LLM inference in DwarfStar](http://antirez.com/news/167)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-05-24 addyosmani</small>  
-<small>[The Orchestration Tax](https://addyosmani.com/blog/orchestration-tax/)</small>
 
