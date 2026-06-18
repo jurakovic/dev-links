@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
 <small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-18 stackoverflow</small>  
+<small>[The new bottleneck](https://stackoverflow.blog/2026/06/18/the-new-bottleneck/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-18 bartwullems</small>  
 <small>[GitHub Copilot SDK Deep Dive: Surgical system prompt customization](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-surgical.html)</small>
 
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
 <small>[Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
-<small>[Paging Charity? How do I get my leaders to stop running teams Into the ground?](https://stackoverflow.blog/2026/06/12/what-s-the-facts-charity-how-do-i-get-my-leaders-to-stop-running-teams-into-the-ground/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-12 bartwullems</small>  
 <small>[Safely injecting a JSON configuration object into a Razor Page](https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html)</small>
