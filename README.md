@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-18 third-bit</small>  
+<small>[AI Happens](https://third-bit.com/2026/06/18/ai-happens/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-18 visualstudiomagazine</small>  
+<small>[Microsoft Highlights Visual Studio Live! Event Lineup and Longtime Developer Community Role](https://visualstudiomagazine.com/articles/2026/06/18/microsoft-highlights-visual-studio-live-2026-event-lineup-and-longtime-developer-community-role.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-18 azuresqlblog</small>  
+<small>[Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-18 techtrenches</small>  
+<small>[Nobody Answers for the Lie They Sold](https://techtrenches.dev/p/nobody-answers-for-the-lie-they-sold)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
 <small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
 
@@ -105,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-14 addyosmani</small>  
 <small>[Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-13 third-bit</small>  
-<small>[Who Gets What and Why](https://third-bit.com/2026/06/13/who-gets-what-and-why/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
 <small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
@@ -256,9 +265,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-05-29 steve-yegge</small>  
 <small>[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564?source=rss-c1ec701babb7------2)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-05-29 visualstudiomagazine</small>  
-<small>[VS Code 1.122 Lets BYOK Work Without GitHub Sign-In](https://visualstudiomagazine.com/articles/2026/05/29/vs-code-1-122-lets-byok-work-without-github-sign-in.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
 <small>[From Silos to Service Topology: Why Netflix Built a Real-Time Service Map](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4)</small>
 
@@ -286,9 +292,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-28 azure-sql</small>  
 <small>[SQL + AI, hands-on: Join a free workshop near you](https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-05-27 techtrenches</small>  
-<small>[Honk Is Not Magic. It’s 15 Years of Infrastructure With the Context Stripped Out.](https://techtrenches.dev/p/honk-is-not-magic-its-15-years-of)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-05-27 martinfowler</small>  
 <small>[Fragments: May 27](https://martinfowler.com/fragments/2026-05-27.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-05-26 lucumr-pocoo</small>  
 <small>[Clanker: A Word For The Machine](https://lucumr.pocoo.org/2026/5/26/clankers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-05-26 swizec</small>  
-<small>[Relentlessly focus on the outcomes](https://swizec.com/blog/relentlessly-focus-on-the-outcomes/)</small>
 

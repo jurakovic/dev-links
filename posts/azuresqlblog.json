@@ -1,5 +1,10 @@
 [
   {
+    "title": "Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326",
+    "pubDate": "2026-06-18T20:27:39+00:00"
+  },
+  {
     "title": "Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240",
     "pubDate": "2026-06-03T06:21:32+00:00"
@@ -18,10 +23,5 @@
     "title": "Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877",
     "pubDate": "2026-04-20T09:09:39+00:00"
-  },
-  {
-    "title": "Azure SQL is Retiring the “No Minimum TLS” (MinTLS None) Configuration",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-is-retiring-the-no-minimum-tls-mintls-none/ba-p/4508933",
-    "pubDate": "2026-04-28T00:24:47+00:00"
   }
 ]
