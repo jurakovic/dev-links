@@ -1,5 +1,10 @@
 [
   {
+    "title": "You don’t understand DNS like you think you do",
+    "link": "https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/",
+    "pubDate": "2026-06-19T07:40:00+00:00"
+  },
+  {
     "title": "The new bottleneck",
     "link": "https://stackoverflow.blog/2026/06/18/the-new-bottleneck/",
     "pubDate": "2026-06-18T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Selenium vs. Cypress vs Playwright: Choosing your test automation framework",
     "link": "https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/",
     "pubDate": "2026-06-15T15:22:54+00:00"
-  },
-  {
-    "title": "Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters",
-    "link": "https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/",
-    "pubDate": "2026-06-12T16:17:10+00:00"
   }
 ]

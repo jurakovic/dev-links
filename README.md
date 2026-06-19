@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
+<small>[You don’t understand DNS like you think you do](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-19 bartwullems</small>  
+<small>[GitHub Copilot SDK Deep Dive: Controlling built-in tools with toolset](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
 <small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
 
@@ -138,12 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-12 visualstudiomagazine</small>  
 <small>[.NET 11 Preview 5 Focuses on Performance, Productivity and Safer Code](https://visualstudiomagazine.com/articles/2026/06/12/net-11-preview-5-focuses-on-performance-productivity-and-safer-code.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-12 stackoverflow</small>  
-<small>[Designing CherryScript: Optimizing Data-Driven Workflows via Custom Python-Based Interpreters](https://stackoverflow.blog/2026/06/12/designing-cherryscript-optimizing-data-driven-workflows-via-custom-python-based-interpreters/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-12 bartwullems</small>  
-<small>[Safely injecting a JSON configuration object into a Razor Page](https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-11 visualstudiomagazine</small>  
 <small>[VS Code 1.124 Focuses on Agent Autonomy and Parallel Sessions](https://visualstudiomagazine.com/articles/2026/06/11/vsm-vs-code-1-124.aspx)</small>

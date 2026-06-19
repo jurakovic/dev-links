@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot SDK Deep Dive: Controlling built-in tools with toolset",
+    "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive.html",
+    "pubDate": "2026-06-19T05:40:00+00:00"
+  },
+  {
     "title": "GitHub Copilot SDK Deep Dive: Surgical system prompt customization",
     "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-surgical.html",
     "pubDate": "2026-06-18T06:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Level Up Your Copilot CLI Statusline with Oh My Posh",
     "link": "https://bartwullems.blogspot.com/2026/06/level-up-your-copilot-cli-statusline.html",
     "pubDate": "2026-06-15T05:34:00+00:00"
-  },
-  {
-    "title": "Safely injecting a JSON configuration object into a Razor Page",
-    "link": "https://bartwullems.blogspot.com/2026/06/safely-injecting-json-configuration.html",
-    "pubDate": "2026-06-12T05:51:00+00:00"
   }
 ]
