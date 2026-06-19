@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-19 github-ai</small>  
+<small>[How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
+<small>[Dispatches from O'Reilly: From capabilities to responsibilities](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
 <small>[You don’t understand DNS like you think you do](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/)</small>
 
@@ -103,9 +109,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-15 third-bit</small>  
 <small>[What We Owe the Future](https://third-bit.com/2026/06/15/what-we-owe-the-future/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-15 stackoverflow</small>  
-<small>[Selenium vs. Cypress vs Playwright: Choosing your test automation framework](https://stackoverflow.blog/2026/06/15/selenium-vs-cypress-vs-playwright-choosing-your-test-automation-framework/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-15 visualstudio</small>  
 <small>[Make Visual Studio look the way you want](https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/)</small>
 
@@ -138,9 +141,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-13 rickstrahl</small>  
 <small>[Creating a Packaged Windows Single File Web Site Viewer Executable](https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-12 github-ai</small>  
-<small>[How we made GitHub Copilot CLI more selective about delegation](https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-12 visualstudiomagazine</small>  
 <small>[.NET 11 Preview 5 Focuses on Performance, Productivity and Safer Code](https://visualstudiomagazine.com/articles/2026/06/12/net-11-preview-5-focuses-on-performance-productivity-and-safer-code.aspx)</small>
