@@ -1,5 +1,10 @@
 [
   {
+    "title": "Signals in Blazor",
+    "link": "https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7",
+    "pubDate": "2026-06-20T08:30:59+00:00"
+  },
+  {
     "title": "EF Core 11 makes your split queries faster",
     "link": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
     "pubDate": "2026-06-08T05:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "ConfigurationIgnoreAttribute in .NET 11",
     "link": "https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a",
     "pubDate": "2026-04-26T11:57:06+00:00"
-  },
-  {
-    "title": "Source code generated string enums with exhaustion support",
-    "link": "https://steven-giesel.com/blogPost/3acc78ff-5ae2-4be3-af7e-62bfcbf3fb6d",
-    "pubDate": "2026-04-05T22:28:44+00:00"
   }
 ]
