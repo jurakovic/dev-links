@@ -1,5 +1,10 @@
 [
   {
+    "title": "Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio",
+    "link": "https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html",
+    "pubDate": "2026-06-21T16:01:03+00:00"
+  },
+  {
     "title": "Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot",
     "link": "https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html",
     "pubDate": "2026-06-10T17:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Launching the SSMS Extension Gallery",
     "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html",
     "pubDate": "2026-05-20T11:28:49+00:00"
-  },
-  {
-    "title": "Visual Schema Compare for SDK Style SQL Database Projects in Visual Studio and SSMS",
-    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/ssms/visualstudio/2026/04/20/sqlprojects-schemacompare.html",
-    "pubDate": "2026-04-20T17:01:37+00:00"
   }
 ]
