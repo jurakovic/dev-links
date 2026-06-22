@@ -1,5 +1,10 @@
 [
   {
+    "title": "Shining a light on .NET versions across our organisation with OpenTelemetry – The Azure Monitor edition",
+    "link": "https://bartwullems.blogspot.com/2026/06/shining-light-on-net-versions-across.html",
+    "pubDate": "2026-06-22T05:46:00+00:00"
+  },
+  {
     "title": "GitHub Copilot SDK Deep Dive: Controlling built-in tools with toolset",
     "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive.html",
     "pubDate": "2026-06-19T05:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Ship your C# MCP Server as a one-click bundle with MCPB",
     "link": "https://bartwullems.blogspot.com/2026/06/ship-your-c-mcp-server-as-one-click.html",
     "pubDate": "2026-06-16T05:25:00+00:00"
-  },
-  {
-    "title": "Level Up Your Copilot CLI Statusline with Oh My Posh",
-    "link": "https://bartwullems.blogspot.com/2026/06/level-up-your-copilot-cli-statusline.html",
-    "pubDate": "2026-06-15T05:34:00+00:00"
   }
 ]

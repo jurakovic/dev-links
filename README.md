@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-22 bartwullems</small>  
+<small>[Shining a light on .NET versions across our organisation with OpenTelemetry – The Azure Monitor edition](https://bartwullems.blogspot.com/2026/06/shining-light-on-net-versions-across.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-21 simonwillison</small>  
 <small>[sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-06-15 lethain</small>  
 <small>[Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-15 bartwullems</small>  
-<small>[Level Up Your Copilot CLI Statusline with Oh My Posh](https://bartwullems.blogspot.com/2026/06/level-up-your-copilot-cli-statusline.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-15 damienbod</small>  
 <small>[Software development and AI](https://damienbod.com/2026/06/15/software-development-and-ai/)</small>
