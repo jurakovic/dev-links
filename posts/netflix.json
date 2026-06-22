@@ -1,27 +1,27 @@
 [
   {
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "link": "https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss-c3aeaf49d8a4------2",
+    "pubDate": "2026-06-22T21:35:00+00:00"
+  },
+  {
+    "title": "VMAF v1: Good Is Not Good Enough",
+    "link": "https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss-c3aeaf49d8a4------2",
+    "pubDate": "2026-06-19T23:49:12+00:00"
+  },
+  {
+    "title": "A Human-Augmenting Agentic Workflow for Causal Inference",
+    "link": "https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2",
+    "pubDate": "2026-06-08T15:01:03+00:00"
+  },
+  {
+    "title": "Thinking Fast & Slow for a Personalized Notification System",
+    "link": "https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2",
+    "pubDate": "2026-06-05T16:31:01+00:00"
+  },
+  {
     "title": "Dynamic Repartitioning for Time Series Workloads",
-    "link": "https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-06-03T02:05:05+00:00"
-  },
-  {
-    "title": "High-Throughput Graph Abstraction at Netflix: Part I",
-    "link": "https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-05-29T18:49:13+00:00"
-  },
-  {
-    "title": "From Silos to Service Topology: Why Netflix Built a Real-Time Service Map",
-    "link": "https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-05-29T14:01:02+00:00"
-  },
-  {
-    "title": "Scaling ArchUnit with Nebula ArchRules",
-    "link": "https://netflixtechblog.com/scaling-archunit-with-nebula-archrules-b4642c464c5a?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-05-08T15:55:59+00:00"
-  },
-  {
-    "title": "Democratizing Machine Learning at Netflix: Building the Model Lifecycle Graph",
-    "link": "https://netflixtechblog.com/democratizing-machine-learning-at-netflix-building-the-model-lifecycle-graph-5cc6d5828bb1?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-05-04T16:01:02+00:00"
+    "link": "https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2",
+    "pubDate": "2026-06-03T01:40:22+00:00"
   }
 ]

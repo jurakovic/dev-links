@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-22 paulhammant</small>  
+<small>[Cherry-pick Asymmetry](https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-22 netflix</small>  
+<small>[How Netflix Simplified Batch Compute with Kueue](https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss-c3aeaf49d8a4------2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
+<small>[VS Code 1.125 Adds Copilot Spend Meter After Billing Shock](https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
+<small>[TypeScript 7.0 RC Moves Microsoft's Go Rewrite Into the Mainline Compiler](https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-22 bartwullems</small>  
 <small>[Shining a light on .NET versions across our organisation with OpenTelemetry – The Azure Monitor edition](https://bartwullems.blogspot.com/2026/06/shining-light-on-net-versions-across.html)</small>
 
@@ -21,6 +33,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-06-20 steven-giesel</small>  
 <small>[Signals in Blazor](https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-19 netflix</small>  
+<small>[VMAF v1: Good Is Not Good Enough](https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss-c3aeaf49d8a4------2)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-19 simonwillison</small>  
 <small>[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)</small>
@@ -196,6 +211,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-08 seangoedecke</small>  
 <small>[Working with product managers](https://seangoedecke.com/working-with-product-managers/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-08 netflix</small>  
+<small>[A Human-Augmenting Agentic Workflow for Causal Inference](https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-08 damienbod</small>  
 <small>[ASP.NET Core background tasks with NCronJob and SignalR](https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/)</small>
 
@@ -214,6 +232,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
 <small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-05 netflix</small>  
+<small>[Thinking Fast & Slow for a Personalized Notification System](https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-05 addyosmani</small>  
 <small>[The Intent Debt](https://addyosmani.com/blog/intent-debt/)</small>
 
@@ -222,9 +243,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) <small>2026-06-05 effectiveengineer</small>  
 <small>[Relationships Are Systems — What Engineering Taught Me About Partnership](http://www.effectiveengineer.com/blog/engineering-and-partnership)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-04 visualstudiomagazine</small>  
-<small>[VS Code 1.123 Adds Agent Session Sync, 1M Context Windows](https://visualstudiomagazine.com/articles/2026/06/04/vs-code-1-123-adds-agent-session-sync-1m-context-windows.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
 <small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
@@ -242,10 +260,7 @@
 <small>[Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-03 netflix</small>  
-<small>[Dynamic Repartitioning for Time Series Workloads](https://netflixtechblog.com/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-02 visualstudiomagazine</small>  
-<small>[At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents](https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx)</small>
+<small>[Dynamic Repartitioning for Time Series Workloads](https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 visualstudio</small>  
 <small>[What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements](https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/)</small>
@@ -268,17 +283,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
 <small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
-<small>[High-Throughput Graph Abstraction at Netflix: Part I](https://netflixtechblog.com/high-throughput-graph-abstraction-at-netflix-part-i-e88063e6f6d5?source=rss----2615bd06b42e---4)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 erikej</small>  
 <small>[Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-05-29 steve-yegge</small>  
 <small>[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-05-29 netflix</small>  
-<small>[From Silos to Service Topology: Why Netflix Built a Real-Time Service Map](https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 bencane</small>  
 <small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[The High-Performance DBA: Breaking the Burnout Cycle in Modern Database Teams](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-breaking-the-burnout-cycle-in-modern-database-teams)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
-<small>[SQLPerformance 2.0: The Next Chapter](https://sqlperformance.com/2026/05/sql-performance/sqlperformance-2-0-the-next-chapter)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-05-28 slack</small>  
-<small>[Slack AI: The Path to Multi-Cloud](https://slack.engineering/slack-ai-the-path-to-multi-cloud/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-05-28 azure-sql</small>  
-<small>[SQL + AI, hands-on: Join a free workshop near you](https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "VS Code 1.125 Adds Copilot Spend Meter After Billing Shock",
+    "link": "https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx",
+    "pubDate": "2026-06-22T17:43:00+00:00"
+  },
+  {
+    "title": "TypeScript 7.0 RC Moves Microsoft's Go Rewrite Into the Mainline Compiler",
+    "link": "https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx",
+    "pubDate": "2026-06-22T17:14:00+00:00"
+  },
+  {
     "title": "Microsoft Highlights Visual Studio Live! Event Lineup and Longtime Developer Community Role",
     "link": "https://visualstudiomagazine.com/articles/2026/06/18/microsoft-highlights-visual-studio-live-2026-event-lineup-and-longtime-developer-community-role.aspx",
     "pubDate": "2026-06-18T20:41:00+00:00"
@@ -13,15 +23,5 @@
     "title": "VS Code 1.124 Focuses on Agent Autonomy and Parallel Sessions",
     "link": "https://visualstudiomagazine.com/articles/2026/06/11/vsm-vs-code-1-124.aspx",
     "pubDate": "2026-06-11T20:38:00+00:00"
-  },
-  {
-    "title": "VS Code 1.123 Adds Agent Session Sync, 1M Context Windows",
-    "link": "https://visualstudiomagazine.com/articles/2026/06/04/vs-code-1-123-adds-agent-session-sync-1m-context-windows.aspx",
-    "pubDate": "2026-06-04T22:06:00+00:00"
-  },
-  {
-    "title": "At Build 2026, Microsoft Sets Up Windows as an OS for AI Agents",
-    "link": "https://visualstudiomagazine.com/articles/2026/06/02/at-build-2026-microsoft-sets-up-windows-as-an-os-for-ai-agents.aspx",
-    "pubDate": "2026-06-02T18:39:00+00:00"
   }
 ]
