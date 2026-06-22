@@ -1,5 +1,20 @@
 [
   {
+    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+    "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "pubDate": "2026-06-21T23:35:47+00:00"
+  },
+  {
+    "title": "sqlite-utils 4.0rc1",
+    "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything",
+    "pubDate": "2026-06-21T23:30:04+00:00"
+  },
+  {
+    "title": "Temporary Cloudflare Accounts for AI agents",
+    "link": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "pubDate": "2026-06-21T22:01:04+00:00"
+  },
+  {
     "title": "Quoting Sean Lynch",
     "link": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
     "pubDate": "2026-06-19T22:45:49+00:00"
@@ -8,20 +23,5 @@
     "title": "Datasette Apps: Host custom HTML applications inside Datasette",
     "link": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
     "pubDate": "2026-06-18T23:58:38+00:00"
-  },
-  {
-    "title": "datasette-acl 0.6a0",
-    "link": "https://simonwillison.net/2026/Jun/18/datasette-acl/#atom-everything",
-    "pubDate": "2026-06-18T19:03:13+00:00"
-  },
-  {
-    "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
-    "link": "https://simonwillison.net/2026/Jun/17/glm-52/#atom-everything",
-    "pubDate": "2026-06-17T23:58:39+00:00"
-  },
-  {
-    "title": "Quoting Charity Majors",
-    "link": "https://simonwillison.net/2026/Jun/17/charity-majors/#atom-everything",
-    "pubDate": "2026-06-17T17:12:41+00:00"
   }
 ]
