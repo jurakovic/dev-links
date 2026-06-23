@@ -1,27 +1,27 @@
 [
   {
+    "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
+    "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-23T00:31:01+00:00"
+  },
+  {
     "title": "How Netflix Simplified Batch Compute with Kueue",
-    "link": "https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss-c3aeaf49d8a4------2",
-    "pubDate": "2026-06-22T21:35:00+00:00"
+    "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-22T21:35:01+00:00"
   },
   {
-    "title": "VMAF v1: Good Is Not Good Enough",
-    "link": "https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss-c3aeaf49d8a4------2",
-    "pubDate": "2026-06-19T23:49:12+00:00"
+    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
+    "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-19T23:54:17+00:00"
   },
   {
-    "title": "A Human-Augmenting Agentic Workflow for Causal Inference",
-    "link": "https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2",
-    "pubDate": "2026-06-08T15:01:03+00:00"
+    "title": "Data Projects: Managing Data Assets at Netflix Scale",
+    "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-19T23:54:00+00:00"
   },
   {
-    "title": "Thinking Fast & Slow for a Personalized Notification System",
-    "link": "https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2",
-    "pubDate": "2026-06-05T16:31:01+00:00"
-  },
-  {
-    "title": "Dynamic Repartitioning for Time Series Workloads",
-    "link": "https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2",
-    "pubDate": "2026-06-03T01:40:22+00:00"
+    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
+    "link": "https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-19T23:53:47+00:00"
   }
 ]

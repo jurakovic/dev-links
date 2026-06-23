@@ -4,11 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-23 netflix</small>  
+<small>[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-22 simonwillison</small>  
+<small>[Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-22 simonwillison</small>  
+<small>[Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code](https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-06-22 codinghorror</small>  
+<small>[Every Choice Changes Everything: The Show](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-22 paulhammant</small>  
 <small>[Cherry-pick Asymmetry](https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-22 netflix</small>  
-<small>[How Netflix Simplified Batch Compute with Kueue](https://medium.com/netflix-techblog/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss-c3aeaf49d8a4------2)</small>
+<small>[How Netflix Simplified Batch Compute with Kueue](https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
 <small>[VS Code 1.125 Adds Copilot Spend Meter After Billing Shock](https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx)</small>
@@ -35,10 +47,13 @@
 <small>[Signals in Blazor](https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-19 netflix</small>  
-<small>[VMAF v1: Good Is Not Good Enough](https://medium.com/netflix-techblog/vmaf-v1-good-is-not-good-enough-60d7e4244ea8?source=rss-c3aeaf49d8a4------2)</small>
+<small>[The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-19 simonwillison</small>  
-<small>[Quoting Sean Lynch](https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-19 netflix</small>  
+<small>[Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-19 netflix</small>  
+<small>[Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning](https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-19 github-ai</small>  
 <small>[How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/)</small>
@@ -54,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
 <small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-18 simonwillison</small>  
-<small>[Datasette Apps: Host custom HTML applications inside Datasette](https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-18 third-bit</small>  
 <small>[AI Happens](https://third-bit.com/2026/06/18/ai-happens/)</small>
@@ -211,9 +223,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-08 seangoedecke</small>  
 <small>[Working with product managers](https://seangoedecke.com/working-with-product-managers/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-08 netflix</small>  
-<small>[A Human-Augmenting Agentic Workflow for Causal Inference](https://medium.com/netflix-techblog/a-human-augmenting-agentic-workflow-for-causal-inference-4623f0a9c5af?source=rss-c3aeaf49d8a4------2)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-08 damienbod</small>  
 <small>[ASP.NET Core background tasks with NCronJob and SignalR](https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/)</small>
 
@@ -231,9 +240,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
 <small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-05 netflix</small>  
-<small>[Thinking Fast & Slow for a Personalized Notification System](https://medium.com/netflix-techblog/thinking-fast-slow-for-a-personalized-notification-system-4d89b26525cd?source=rss-c3aeaf49d8a4------2)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-05 addyosmani</small>  
 <small>[The Intent Debt](https://addyosmani.com/blog/intent-debt/)</small>
@@ -258,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-03 azuresqlblog</small>  
 <small>[Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-03 netflix</small>  
-<small>[Dynamic Repartitioning for Time Series Workloads](https://medium.com/netflix-techblog/dynamically-splitting-wide-partitions-in-cassandra-for-time-series-workloads-0eded064f456?source=rss-c3aeaf49d8a4------2)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 visualstudio</small>  
 <small>[What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements](https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
 <small>[Database Storage Optimization for the High-Performance DBA](https://sqlperformance.com/2026/05/sql-performance/database-storage-optimization-for-the-high-performance-dba)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
-<small>[The High-Performance DBA: Breaking the Burnout Cycle in Modern Database Teams](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-breaking-the-burnout-cycle-in-modern-database-teams)</small>
 
