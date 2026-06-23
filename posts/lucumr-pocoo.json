@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Coming Loop",
+    "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
+    "pubDate": "2026-06-23T16:01:26+00:00"
+  },
+  {
     "title": "Dangerous Technology For Americans Only",
     "link": "https://lucumr.pocoo.org/2026/6/13/americans-only/",
     "pubDate": "2026-06-13T16:01:18+00:00"
@@ -18,10 +23,5 @@
     "title": "Clanker: A Word For The Machine",
     "link": "https://lucumr.pocoo.org/2026/5/26/clankers/",
     "pubDate": "2026-05-26T18:24:03+00:00"
-  },
-  {
-    "title": "Building Pi With Pi",
-    "link": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-    "pubDate": "2026-05-24T16:58:33+00:00"
   }
 ]

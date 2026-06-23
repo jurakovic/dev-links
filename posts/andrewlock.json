@@ -1,5 +1,10 @@
 [
   {
+    "title": "Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/",
+    "pubDate": "2026-06-23T10:00:00+00:00"
+  },
+  {
     "title": ".NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2",
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
     "pubDate": "2026-05-19T10:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Removing byte[] allocations in .NET Framework using ReadOnlySpan<T>",
     "link": "https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/",
     "pubDate": "2026-04-21T10:00:00+00:00"
-  },
-  {
-    "title": "Running AI agents with customized templates using docker sandbox",
-    "link": "https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/",
-    "pubDate": "2026-04-14T10:00:00+00:00"
   }
 ]
