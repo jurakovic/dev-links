@@ -1,5 +1,10 @@
 [
   {
+    "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
+    "link": "https://blog.pragmaticengineer.com/coinbase-fail/",
+    "pubDate": "2026-06-23T16:30:59+00:00"
+  },
+  {
     "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
     "link": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
     "pubDate": "2026-06-11T16:31:42+00:00"
@@ -18,10 +23,5 @@
     "title": "Google Cloud deletes Australian trading fund’s infra",
     "link": "https://blog.pragmaticengineer.com/google-cloud-deletes-australian-trading-funds-infra/",
     "pubDate": "2026-05-20T08:31:08+00:00"
-  },
-  {
-    "title": "The Pulse: Did capacity shortages turn Anthropic hostile to devs?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-did-capacity-shortages-turn-anthropic-hostile-to-devs/",
-    "pubDate": "2026-05-14T16:10:59+00:00"
   }
 ]

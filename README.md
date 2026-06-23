@@ -4,11 +4,29 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-23 swizec</small>  
+<small>[You get what you hire](https://swizec.com/blog/you-get-what-you-hire/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-23 rickstrahl</small>  
+<small>[Creating Dual Use Windows GUI and Console Applications](https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-23 simonwillison</small>  
+<small>[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-06-23 sqlperformance</small>  
+<small>[Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability](https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-23 pragmaticengineer</small>  
+<small>[Reliability fail: No automated zone failover for Coinbase’s global trading service](https://blog.pragmaticengineer.com/coinbase-fail/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-23 lucumr-pocoo</small>  
 <small>[The Coming Loop](https://lucumr.pocoo.org/2026/6/23/the-coming-loop/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-23 github-ai</small>  
 <small>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-23 stackoverflow</small>  
+<small>[Your AI shipped a backend that boots. That is the whole problem.](https://stackoverflow.blog/2026/06/23/your-ai-shipped-a-backend-that-boots-that-is-the-whole-problem/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-23 techtrenches</small>  
 <small>[The Slot Machine That Codes](https://techtrenches.dev/p/the-slot-machine-that-codes)</small>
@@ -37,6 +55,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-06-22 codinghorror</small>  
 <small>[Every Choice Changes Everything: The Show](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-06-22 dbreunig</small>  
+<small>[The Problem is Prompt Debt](https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-22 paulhammant</small>  
 <small>[Cherry-pick Asymmetry](https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/)</small>
 
@@ -57,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-21 simonwillison</small>  
 <small>[sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-21 simonwillison</small>  
-<small>[Temporary Cloudflare Accounts for AI agents](https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-21 erikej</small>  
 <small>[Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html)</small>
@@ -105,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
 <small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-18 stackoverflow</small>  
-<small>[The new bottleneck](https://stackoverflow.blog/2026/06/18/the-new-bottleneck/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-18 bartwullems</small>  
 <small>[GitHub Copilot SDK Deep Dive: Surgical system prompt customization](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-surgical.html)</small>
@@ -288,19 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-05-31 rickstrahl</small>  
 <small>[Lost ASP.NET Identity Cookies on IIS Application Pool Restarts](https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-05-30 developertoarchitect</small>  
-<small>[Lesson 220 - Collaborating With The Business (June 1, 2026)](http://www.developertoarchitect.com/lessons/lesson220.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 erikej</small>  
-<small>[Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-05-29 steve-yegge</small>  
-<small>[The Last Technical Interview](https://steve-yegge.medium.com/the-last-technical-interview-bc13ddcf4564?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-05-29 bencane</small>  
-<small>[Your coding agent is missing one thing: architectural context](https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-05-28 sqlperformance</small>  
-<small>[The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns](https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns)</small>
 

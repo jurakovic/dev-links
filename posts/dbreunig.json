@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Problem is Prompt Debt",
+    "link": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+    "pubDate": "2026-06-22T22:10:00+00:00"
+  },
+  {
     "title": "What Do Humans Need From Docs?",
     "link": "https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html",
     "pubDate": "2026-05-31T16:36:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Cybersecurity Looks Like Proof of Work Now",
     "link": "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html",
     "pubDate": "2026-04-14T14:42:00+00:00"
-  },
-  {
-    "title": "How Claude Code Builds a System Prompt",
-    "link": "https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html",
-    "pubDate": "2026-04-04T22:14:00+00:00"
   }
 ]
