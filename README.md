@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-23 stackoverflow</small>  
+<small>[Oh the places you’ll go with spatial data](https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-23 bartwullems</small>  
+<small>[GitHub Copilot SDK Deep Dive: CopilotClientMode](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive_01354213848.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-23 netflix</small>  
 <small>[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)</small>
 
@@ -124,14 +130,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
 <small>[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-16 stackoverflow</small>  
-<small>[If context is king, architecture is the castle](https://stackoverflow.blog/2026/06/16/if-context-is-king-architecture-is-the-castle/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
 <small>[Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-16 bartwullems</small>  
-<small>[Ship your C# MCP Server as a one-click bundle with MCPB](https://bartwullems.blogspot.com/2026/06/ship-your-c-mcp-server-as-one-click.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-16 addyosmani</small>  
 <small>[The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/)</small>
