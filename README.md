@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-23 visualstudiomagazine</small>  
+<small>[Infragistics Puts MCP Toolchain at Center of Ultimate 26.1](https://visualstudiomagazine.com/articles/2026/06/23/infragistics-puts-mcp-toolchain-at-center-of-ultimate-261.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-23 swizec</small>  
 <small>[You get what you hire](https://swizec.com/blog/you-get-what-you-hire/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-23 rickstrahl</small>  
 <small>[Creating Dual Use Windows GUI and Console Applications](https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-23 simonwillison</small>  
+<small>[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-23 simonwillison</small>  
 <small>[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything)</small>
@@ -75,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-21 simonwillison</small>  
 <small>[sqlite-utils 4.0rc1 adds migrations and nested transactions](https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-21 simonwillison</small>  
-<small>[sqlite-utils 4.0rc1](https://simonwillison.net/2026/Jun/21/sqlite-utils/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-21 erikej</small>  
 <small>[Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html)</small>
@@ -201,9 +204,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-12 visualstudiomagazine</small>  
 <small>[.NET 11 Preview 5 Focuses on Performance, Productivity and Safer Code](https://visualstudiomagazine.com/articles/2026/06/12/net-11-preview-5-focuses-on-performance-productivity-and-safer-code.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-11 visualstudiomagazine</small>  
-<small>[VS Code 1.124 Focuses on Agent Autonomy and Parallel Sessions](https://visualstudiomagazine.com/articles/2026/06/11/vsm-vs-code-1-124.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
 <small>[The Pulse: a trend of trying to cut back on AI spend within eng departments?](https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/)</small>
