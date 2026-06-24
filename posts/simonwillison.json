@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Tom MacWright",
+    "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
+    "pubDate": "2026-06-24T18:13:51+00:00"
+  },
+  {
     "title": "datasette 1.0a35",
     "link": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
     "pubDate": "2026-06-23T21:34:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
     "link": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
     "pubDate": "2026-06-22T23:43:51+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-    "link": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-    "pubDate": "2026-06-21T23:35:47+00:00"
   }
 ]

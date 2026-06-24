@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dealing With Explosive sysjobhistory Growth",
+    "link": "https://sqlperformance.com/2026/06/t-sql-queries/explosive-sysjobhistory-growth",
+    "pubDate": "2026-06-24T17:21:26+00:00"
+  },
+  {
     "title": "Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability",
     "link": "https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds",
     "pubDate": "2026-06-23T17:08:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Database Storage Optimization for the High-Performance DBA",
     "link": "https://sqlperformance.com/2026/05/sql-performance/database-storage-optimization-for-the-high-performance-dba",
     "pubDate": "2026-05-28T18:06:34+00:00"
-  },
-  {
-    "title": "The High-Performance DBA: Breaking the Burnout Cycle in Modern Database Teams",
-    "link": "https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-breaking-the-burnout-cycle-in-modern-database-teams",
-    "pubDate": "2026-05-28T18:05:08+00:00"
   }
 ]
