@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-24 bartwullems</small>  
+<small>[Why my Azure DevOps scheduled pipeline never ran](https://bartwullems.blogspot.com/2026/06/why-my-azure-devops-scheduled-pipeline.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-23 visualstudiomagazine</small>  
 <small>[Infragistics Puts MCP Toolchain at Center of Ultimate 26.1](https://visualstudiomagazine.com/articles/2026/06/23/infragistics-puts-mcp-toolchain-at-center-of-ultimate-261.aspx)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-17 third-bit</small>  
 <small>[How Change Happens](https://third-bit.com/2026/06/17/how-change/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-17 bartwullems</small>  
-<small>[AgentsView: A practical look at your AI agent sessions](https://bartwullems.blogspot.com/2026/06/agentsview-practical-look-at-your-ai.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
 <small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
