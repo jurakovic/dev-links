@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-25 bencane</small>  
+<small>[Glue Services: Part Two — Data Synchronization](https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-25 bartwullems</small>  
+<small>[Local sandboxing in the GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/local-sandboxing-in-github-copilot-cli.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-24 simonwillison</small>  
 <small>[simonw/browser-compat-db](https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything)</small>
 
@@ -135,9 +141,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
 <small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-18 bartwullems</small>  
-<small>[GitHub Copilot SDK Deep Dive: Surgical system prompt customization](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-surgical.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-17 swizec</small>  
 <small>[Code is the easy part, or how we refactored half the business to fix a janky script](https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
 <small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-05-31 dbreunig</small>  
-<small>[What Do Humans Need From Docs?](https://www.dbreunig.com/2026/05/31/what-do-humans-need-from-docs.html)</small>
 

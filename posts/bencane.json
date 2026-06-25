@@ -1,5 +1,10 @@
 [
   {
+    "title": "Glue Services: Part Two — Data Synchronization",
+    "link": "https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/",
+    "pubDate": "2026-06-25T10:01:20+00:00"
+  },
+  {
     "title": "When modernizing legacy systems, don’t be afraid to build glue services",
     "link": "https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/",
     "pubDate": "2026-06-18T10:06:32+00:00"
@@ -18,10 +23,5 @@
     "title": "Your coding agent is missing one thing: architectural context",
     "link": "https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/",
     "pubDate": "2026-05-29T00:00:00+00:00"
-  },
-  {
-    "title": "Health-check the listener your gRPC traffic actually uses",
-    "link": "https://bencane.com/posts/2026-05-21-grpc-health-check-listener/",
-    "pubDate": "2026-05-22T00:00:00+00:00"
   }
 ]
