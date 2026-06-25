@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-25 techtrenches</small>  
+<small>[The Cost of Reading Everyone Just Hit Zero](https://techtrenches.dev/p/the-cost-of-reading-everyone-just)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-25 bencane</small>  
 <small>[Glue Services: Part Two — Data Synchronization](https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/)</small>
 
@@ -240,9 +243,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
 <small>[.NET and .NET Framework June 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-09 techtrenches</small>  
-<small>[Anthropic Kept Every Promise It Could Afford](https://techtrenches.dev/p/anthropic-kept-every-promise-it-could)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-08 idunno</small>  
 <small>[When is a guid not a guid?](https://idunno.org/when-is-a-guid-not-a-guid/)</small>
