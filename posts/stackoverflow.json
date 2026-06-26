@@ -1,5 +1,10 @@
 [
   {
+    "title": "Paging Charity! How can engineering leaders avoid becoming Bond villains?",
+    "link": "https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/",
+    "pubDate": "2026-06-26T14:00:27+00:00"
+  },
+  {
     "title": "Code isn’t the only thing causing your production failures",
     "link": "https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/",
     "pubDate": "2026-06-25T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Oh the places you’ll go with spatial data",
     "link": "https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/",
     "pubDate": "2026-06-23T07:40:00+00:00"
-  },
-  {
-    "title": "Dispatches from O'Reilly: From capabilities to responsibilities",
-    "link": "https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/",
-    "pubDate": "2026-06-19T14:00:00+00:00"
   }
 ]

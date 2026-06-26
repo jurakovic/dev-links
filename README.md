@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-26 seangoedecke</small>  
+<small>[AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-26 third-bit</small>  
+<small>[Years Too Late](https://third-bit.com/2026/06/26/years-too-late/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-26 stackoverflow</small>  
+<small>[Paging Charity! How can engineering leaders avoid becoming Bond villains?](https://stackoverflow.blog/2026/06/26/paging-charity-how-can-engineering-leaders-avoid-becoming-bond-villains/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-26 bartwullems</small>  
 <small>[Configuring Copilot CLI Isolation via the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/configuring-copilot-cli-isolation-via.html)</small>
 
@@ -130,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-19 github-ai</small>  
 <small>[How we built an internal data analytics agent](https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
-<small>[Dispatches from O'Reilly: From capabilities to responsibilities](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
 <small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
 
@@ -195,9 +201,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-15 seangoedecke</small>  
 <small>[AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-14 third-bit</small>  
-<small>[More Analogies](https://third-bit.com/2026/06/14/more-analogies/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-14 idunno</small>  
 <small>[Is your .NET vulnerability report going to get a CVE?](https://idunno.org/is-your-net-vulnerability-report-going-to-get-a-cve/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-02 martinfowler</small>  
 <small>[Fragments: June  2](https://martinfowler.com/fragments/2026-06-02.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-01 seangoedecke</small>  
-<small>[Weird projects I shipped with AI](https://seangoedecke.com/weird-projects-i-shipped-with-ai/)</small>
 
