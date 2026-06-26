@@ -1,27 +1,27 @@
 [
   {
+    "title": "Quoting Timothy B. Lee",
+    "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
+    "pubDate": "2026-06-26T21:15:09+00:00"
+  },
+  {
+    "title": "What happened after 2,000 people tried to hack my AI assistant",
+    "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+    "pubDate": "2026-06-26T18:33:14+00:00"
+  },
+  {
+    "title": "Incident Report: CVE-2026-LGTM",
+    "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+    "pubDate": "2026-06-26T17:58:54+00:00"
+  },
+  {
+    "title": "Quoting OpenAI",
+    "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+    "pubDate": "2026-06-26T17:10:43+00:00"
+  },
+  {
     "title": "AI and Liability",
     "link": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
     "pubDate": "2026-06-25T22:28:46+00:00"
-  },
-  {
-    "title": "datasette-export-database 0.3a2",
-    "link": "https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything",
-    "pubDate": "2026-06-25T17:21:09+00:00"
-  },
-  {
-    "title": "simonw/browser-compat-db",
-    "link": "https://simonwillison.net/2026/Jun/24/browser-compat-db/#atom-everything",
-    "pubDate": "2026-06-24T23:59:03+00:00"
-  },
-  {
-    "title": "Quoting Tom MacWright",
-    "link": "https://simonwillison.net/2026/Jun/24/tom-macwright/#atom-everything",
-    "pubDate": "2026-06-24T18:13:51+00:00"
-  },
-  {
-    "title": "datasette 1.0a35",
-    "link": "https://simonwillison.net/2026/Jun/23/datasette/#atom-everything",
-    "pubDate": "2026-06-23T21:34:37+00:00"
   }
 ]
