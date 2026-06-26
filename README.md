@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-26 bartwullems</small>  
+<small>[Configuring Copilot CLI Isolation via the GitHub Copilot SDK](https://bartwullems.blogspot.com/2026/06/configuring-copilot-cli-isolation-via.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-25 github-ai</small>  
 <small>[Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/)</small>
 
@@ -18,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-25 bencane</small>  
 <small>[Glue Services: Part Two — Data Synchronization](https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-25 stackoverflow</small>  
+<small>[Code isn’t the only thing causing your production failures](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-25 bartwullems</small>  
 <small>[Local sandboxing in the GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/local-sandboxing-in-github-copilot-cli.html)</small>
@@ -126,12 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
 <small>[Dispatches from O'Reilly: From capabilities to responsibilities](https://stackoverflow.blog/2026/06/19/dispatches-from-o-reilly-from-capabilities-to-responsibilities/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-19 stackoverflow</small>  
-<small>[You don’t understand DNS like you think you do](https://stackoverflow.blog/2026/06/19/you-don-t-understand-dns-like-you-think-you-do/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-19 bartwullems</small>  
-<small>[GitHub Copilot SDK Deep Dive: Controlling built-in tools with toolset](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
 <small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
