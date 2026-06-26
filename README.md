@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-25 github-ai</small>  
+<small>[Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks](https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-25 simonwillison</small>  
+<small>[AI and Liability](https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-25 simonwillison</small>  
+<small>[datasette-export-database 0.3a2](https://simonwillison.net/2026/Jun/25/datasette-export-database/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-25 techtrenches</small>  
 <small>[The Cost of Reading Everyone Just Hit Zero](https://techtrenches.dev/p/the-cost-of-reading-everyone-just)</small>
 
@@ -43,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-23 simonwillison</small>  
 <small>[datasette 1.0a35](https://simonwillison.net/2026/Jun/23/datasette/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-23 simonwillison</small>  
-<small>[OPFS + Pyodide test harness](https://simonwillison.net/2026/Jun/23/opfs-pyodide/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-06-23 sqlperformance</small>  
 <small>[Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability](https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds)</small>
 
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-23 netflix</small>  
 <small>[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-22 simonwillison</small>  
-<small>[Prompt Injection as Role Confusion](https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-06-22 codinghorror</small>  
 <small>[Every Choice Changes Everything: The Show](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)</small>
@@ -177,9 +180,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-16 addyosmani</small>  
 <small>[The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-15 github-ai</small>  
-<small>[GitHub Copilot CLI for Beginners: Overview of common slash commands](https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-15 third-bit</small>  
 <small>[What We Owe the Future](https://third-bit.com/2026/06/15/what-we-owe-the-future/)</small>

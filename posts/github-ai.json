@@ -1,5 +1,10 @@
 [
   {
+    "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+    "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+    "pubDate": "2026-06-25T22:59:45+00:00"
+  },
+  {
     "title": "I automated my job (and it made me a better leader)",
     "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
     "pubDate": "2026-06-23T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "What are git worktrees, and why should I use them?",
     "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
     "pubDate": "2026-06-16T20:58:54+00:00"
-  },
-  {
-    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
-    "pubDate": "2026-06-15T20:15:31+00:00"
   }
 ]
