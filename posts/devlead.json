@@ -1,5 +1,10 @@
 [
   {
+    "title": "Template plus source package: my .NET console stack in 2026",
+    "link": "https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026",
+    "pubDate": "2026-06-27T22:00:57+00:00"
+  },
+  {
     "title": "A quarter of a billion NuGet downloads",
     "link": "https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads",
     "pubDate": "2026-03-22T16:28:14+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing AZDOI",
     "link": "https://www.devlead.se/posts/2025/2025-03-22-introducing-azdoi",
     "pubDate": "2025-03-22T00:00:00+00:00"
-  },
-  {
-    "title": "Static Web App WASM Search",
-    "link": "https://www.devlead.se/posts/2025/2025-03-12-static-web-app-wasm-search",
-    "pubDate": "2025-03-12T00:00:00+00:00"
   }
 ]
