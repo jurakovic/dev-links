@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Dean W. Ball",
+    "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+    "pubDate": "2026-06-26T22:25:46+00:00"
+  },
+  {
     "title": "Quoting Timothy B. Lee",
     "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
     "pubDate": "2026-06-26T21:15:09+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting OpenAI",
     "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
     "pubDate": "2026-06-26T17:10:43+00:00"
-  },
-  {
-    "title": "AI and Liability",
-    "link": "https://simonwillison.net/2026/Jun/25/ai-and-liability/#atom-everything",
-    "pubDate": "2026-06-25T22:28:46+00:00"
   }
 ]
