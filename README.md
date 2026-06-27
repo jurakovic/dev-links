@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-27 seangoedecke</small>  
+<small>[Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
 <small>[Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything)</small>
 
@@ -282,9 +285,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) <small>2026-06-05 effectiveengineer</small>  
 <small>[Relationships Are Systems — What Engineering Taught Me About Partnership](http://www.effectiveengineer.com/blog/engineering-and-partnership)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-04 seangoedecke</small>  
-<small>[Anti-AI nostalgia and the cult of the past](https://seangoedecke.com/anti-ai-nostalgia/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-04 swizec</small>  
 <small>[Good software gets out of the way](https://swizec.com/blog/good-software-gets-out-of-the-way/)</small>
