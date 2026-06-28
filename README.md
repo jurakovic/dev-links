@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-28 pragmaticengineer</small>  
+<small>[Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-27 swizec</small>  
 <small>[Using vibes to rewrite my blog](https://swizec.com/blog/using-vibes-to-rewrite-my-blog/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-03 azuresqlblog</small>  
 <small>[Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-02 visualstudio</small>  
-<small>[What’s Coming Next in Visual Studio: Our Microsoft Build 2026 Announcements](https://devblogs.microsoft.com/visualstudio/whats-coming-next-in-visual-studio-our-microsoft-build-2026-announcements/)</small>
 
