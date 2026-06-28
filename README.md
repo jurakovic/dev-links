@@ -4,8 +4,11 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-28 techtrenches</small>  
+<small>[Europe Runs at Catastrophic Yield](https://techtrenches.dev/p/europe-runs-at-catastrophic-yield)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-28 pragmaticengineer</small>  
-<small>[Pollen tried to remove my article about Callum Negus-Fancey, and Google is assisting to it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)</small>
+<small>[Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-27 swizec</small>  
 <small>[Using vibes to rewrite my blog](https://swizec.com/blog/using-vibes-to-rewrite-my-blog/)</small>
@@ -222,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
 <small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-13 techtrenches</small>  
-<small>[Europe Regulated Itself Out of the AI Race](https://techtrenches.dev/p/europe-regulated-itself-out-of-the)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-13 rickstrahl</small>  
 <small>[Creating a Packaged Windows Single File Web Site Viewer Executable](https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable)</small>
