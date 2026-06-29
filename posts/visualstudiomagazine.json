@@ -1,5 +1,10 @@
 [
   {
+    "title": "Spring AI 2.0 Goes GA, Giving Java Developers a More Mature AI App Stack",
+    "link": "https://visualstudiomagazine.com/articles/2026/06/29/spring-ai-2-0-goes-ga-giving-java-developers-a-more-mature-ai-app-stack.aspx",
+    "pubDate": "2026-06-29T16:43:00+00:00"
+  },
+  {
     "title": "VS Code Keeps Eye on Costs in v1.126 Update",
     "link": "https://visualstudiomagazine.com/articles/2026/06/24/vs-code-keeps-eye-on-costs-in-v1126-update.aspx",
     "pubDate": "2026-06-24T17:52:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code 1.125 Adds Copilot Spend Meter After Billing Shock",
     "link": "https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx",
     "pubDate": "2026-06-22T17:43:00+00:00"
-  },
-  {
-    "title": "TypeScript 7.0 RC Moves Microsoft's Go Rewrite Into the Mainline Compiler",
-    "link": "https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx",
-    "pubDate": "2026-06-22T17:14:00+00:00"
   }
 ]

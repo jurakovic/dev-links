@@ -1,5 +1,15 @@
 [
   {
+    "title": "Count the number of Safari tabs",
+    "link": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
+    "pubDate": "2026-06-29T18:36:18+00:00"
+  },
+  {
+    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
+    "link": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
+    "pubDate": "2026-06-29T16:17:59+00:00"
+  },
+  {
     "title": "Quoting Jon Udell",
     "link": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
     "pubDate": "2026-06-28T21:57:41+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Dean W. Ball",
     "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
     "pubDate": "2026-06-26T22:25:46+00:00"
-  },
-  {
-    "title": "Quoting Timothy B. Lee",
-    "link": "https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything",
-    "pubDate": "2026-06-26T21:15:09+00:00"
-  },
-  {
-    "title": "What happened after 2,000 people tried to hack my AI assistant",
-    "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-    "pubDate": "2026-06-26T18:33:14+00:00"
   }
 ]

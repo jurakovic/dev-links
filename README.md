@@ -4,6 +4,33 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
+<small>[A Modest Proposal](https://third-bit.com/2026/06/29/a-modest-proposal/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
+<small>[Three Outlines](https://third-bit.com/2026/06/29/three-outlines/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
+<small>[.NET 8 and .NET 9 will reach End of Support on November 10, 2026](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
+<small>[SkiaSharp 4.0 is here: announcing the first stable release](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-06-29 ardalis</small>  
+<small>[Why Care About Agent Authored Code Quality](https://ardalis.com/why-care-about-agent-authored-code-quality/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-29 simonwillison</small>  
+<small>[Count the number of Safari tabs](https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
+<small>[Packaging and Package Identity for .NET apps with WinApp CLI on Windows](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-29 visualstudiomagazine</small>  
+<small>[Spring AI 2.0 Goes GA, Giving Java Developers a More Mature AI App Stack](https://visualstudiomagazine.com/articles/2026/06/29/spring-ai-2-0-goes-ga-giving-java-developers-a-more-mature-ai-app-stack.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-29 simonwillison</small>  
+<small>[Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding](https://simonwillison.net/2026/Jun/29/ornith/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 visualstudio</small>  
 <small>[Automating your Visual Studio extension builds with GitHub Actions](https://devblogs.microsoft.com/visualstudio/automating-your-visual-studio-extension-builds-with-github-actions/)</small>
 
@@ -36,12 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
 <small>[Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
-<small>[Quoting Timothy B. Lee](https://simonwillison.net/2026/Jun/26/timothy-b-lee/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
-<small>[What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-26 seangoedecke</small>  
 <small>[AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/)</small>
@@ -139,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
 <small>[VS Code 1.125 Adds Copilot Spend Meter After Billing Shock](https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
-<small>[TypeScript 7.0 RC Moves Microsoft's Go Rewrite Into the Mainline Compiler](https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-21 erikej</small>  
 <small>[Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html)</small>
 
@@ -190,9 +208,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
 <small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-16 third-bit</small>  
-<small>[Regulation Works](https://third-bit.com/2026/06/16/regulation-works/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-16 techtrenches</small>  
 <small>[When Your Vendor Becomes Your Competitor: AI’s $5.5B Confession](https://techtrenches.dev/p/when-your-vendor-becomes-your-competitor)</small>
 
@@ -204,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-16 addyosmani</small>  
 <small>[The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-15 third-bit</small>  
-<small>[What We Owe the Future](https://third-bit.com/2026/06/15/what-we-owe-the-future/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-15 visualstudio</small>  
 <small>[Make Visual Studio look the way you want](https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/)</small>
@@ -256,17 +268,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
 <small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
-<small>[.NET 11 Preview 5 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-09 dotnet</small>  
-<small>[.NET and .NET Framework June 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-08 idunno</small>  
 <small>[When is a guid not a guid?](https://idunno.org/when-is-a-guid-not-a-guid/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-08 dotnet</small>  
-<small>[.NET at Microsoft Build 2026: Must watch sessions](https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-08 seangoedecke</small>  
 <small>[Working with product managers](https://seangoedecke.com/working-with-product-managers/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-04 swizec</small>  
 <small>[Good software gets out of the way](https://swizec.com/blog/good-software-gets-out-of-the-way/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-03 microservices</small>  
-<small>[Microservices Platforms - part 8: Getting started with platforms](http://microservices.io//post/architecture/2026/06/03/qconsf-microservices-platforms-part-8.html)</small>
 

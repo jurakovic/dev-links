@@ -1,5 +1,20 @@
 [
   {
+    "title": ".NET 8 and .NET 9 will reach End of Support on November 10, 2026",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/",
+    "pubDate": "2026-06-29T21:33:20+00:00"
+  },
+  {
+    "title": "SkiaSharp 4.0 is here: announcing the first stable release",
+    "link": "https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/",
+    "pubDate": "2026-06-29T21:00:00+00:00"
+  },
+  {
+    "title": "Packaging and Package Identity for .NET apps with WinApp CLI on Windows",
+    "link": "https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/",
+    "pubDate": "2026-06-29T17:00:00+00:00"
+  },
+  {
     "title": "AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server",
     "link": "https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/",
     "pubDate": "2026-06-17T17:00:00+00:00"
@@ -8,20 +23,5 @@
     "title": "Join us for .NET Day on Agentic Modernization Livestream",
     "link": "https://devblogs.microsoft.com/dotnet/join-us-for-dotnet-day-on-agentic-modernization-livestream/",
     "pubDate": "2026-06-10T17:05:00+00:00"
-  },
-  {
-    "title": ".NET 11 Preview 5 is now available!",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-5/",
-    "pubDate": "2026-06-09T18:30:00+00:00"
-  },
-  {
-    "title": ".NET and .NET Framework June 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-june-2026-servicing-updates/",
-    "pubDate": "2026-06-09T18:08:00+00:00"
-  },
-  {
-    "title": ".NET at Microsoft Build 2026: Must watch sessions",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-at-microsoft-build-2026/",
-    "pubDate": "2026-06-08T17:15:00+00:00"
   }
 ]
