@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-29 bartwullems</small>  
+<small>[Scheduling actions in the GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/scheduling-actions-in-github-copilot-cli.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-28 simonwillison</small>  
 <small>[Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything)</small>
 
@@ -132,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-22 visualstudiomagazine</small>  
 <small>[TypeScript 7.0 RC Moves Microsoft's Go Rewrite Into the Mainline Compiler](https://visualstudiomagazine.com/articles/2026/06/22/typescript-7-0-rc-moves-microsofts-go-rewrite-into-the-mainline-compiler.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-22 bartwullems</small>  
-<small>[Shining a light on .NET versions across our organisation with OpenTelemetry – The Azure Monitor edition](https://bartwullems.blogspot.com/2026/06/shining-light-on-net-versions-across.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-21 erikej</small>  
 <small>[Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio](https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html)</small>
