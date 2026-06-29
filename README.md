@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-28 simonwillison</small>  
+<small>[Quoting Jon Udell](https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-28 simonwillison</small>  
+<small>[Hack Your Summer](https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-28 techtrenches</small>  
 <small>[Europe Runs at Catastrophic Yield](https://techtrenches.dev/p/europe-runs-at-catastrophic-yield)</small>
 
@@ -27,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
 <small>[What happened after 2,000 people tried to hack my AI assistant](https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
-<small>[Incident Report: CVE-2026-LGTM](https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
-<small>[Quoting OpenAI](https://simonwillison.net/2026/Jun/26/openai/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-26 seangoedecke</small>  
 <small>[AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/)</small>

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Jon Udell",
+    "link": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
+    "pubDate": "2026-06-28T21:57:41+00:00"
+  },
+  {
+    "title": "Hack Your Summer",
+    "link": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
+    "pubDate": "2026-06-28T19:26:11+00:00"
+  },
+  {
     "title": "Quoting Dean W. Ball",
     "link": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
     "pubDate": "2026-06-26T22:25:46+00:00"
@@ -13,15 +23,5 @@
     "title": "What happened after 2,000 people tried to hack my AI assistant",
     "link": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
     "pubDate": "2026-06-26T18:33:14+00:00"
-  },
-  {
-    "title": "Incident Report: CVE-2026-LGTM",
-    "link": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-    "pubDate": "2026-06-26T17:58:54+00:00"
-  },
-  {
-    "title": "Quoting OpenAI",
-    "link": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-    "pubDate": "2026-06-26T17:10:43+00:00"
   }
 ]
