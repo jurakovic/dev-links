@@ -1,5 +1,10 @@
 [
   {
+    "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+    "link": "https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-06-29T13:01:02+00:00"
+  },
+  {
     "title": "Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix",
     "link": "https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4",
     "pubDate": "2026-06-23T00:31:01+00:00"
@@ -18,10 +23,5 @@
     "title": "Data Projects: Managing Data Assets at Netflix Scale",
     "link": "https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4",
     "pubDate": "2026-06-19T23:54:00+00:00"
-  },
-  {
-    "title": "Predicting Risk in Content Launches: How Data-Driven Insights can Transform Launch Planning",
-    "link": "https://netflixtechblog.com/predicting-risk-in-content-launches-how-data-driven-insights-can-transform-launch-planning-587b1f2de928?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-06-19T23:53:47+00:00"
   }
 ]
