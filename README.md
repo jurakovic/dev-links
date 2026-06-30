@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-30 stackoverflow</small>  
+<small>[Why intent prediction needs more than an LLM](https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-30 bartwullems</small>  
+<small>[GitHub Copilot SDK Deep Dive: Session Memory](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-session.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-30 rickstrahl</small>  
 <small>[Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core)</small>
 
@@ -138,12 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-23 andrewlock</small>  
 <small>[Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-23 stackoverflow</small>  
-<small>[Oh the places you’ll go with spatial data](https://stackoverflow.blog/2026/06/23/oh-the-places-you-ll-go-with-spatial-data/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-23 bartwullems</small>  
-<small>[GitHub Copilot SDK Deep Dive: CopilotClientMode](https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive_01354213848.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-23 netflix</small>  
 <small>[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)</small>
