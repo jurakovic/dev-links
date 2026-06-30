@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-30 rickstrahl</small>  
+<small>[Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-29 simonwillison</small>  
+<small>[HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[A Modest Proposal](https://third-bit.com/2026/06/29/a-modest-proposal/)</small>
 
@@ -60,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-27 seangoedecke</small>  
 <small>[Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-26 simonwillison</small>  
-<small>[Quoting Dean W. Ball](https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-26 seangoedecke</small>  
 <small>[AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) <small>2026-06-05 effectiveengineer</small>  
 <small>[Relationships Are Systems — What Engineering Taught Me About Partnership](http://www.effectiveengineer.com/blog/engineering-and-partnership)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-04 swizec</small>  
-<small>[Good software gets out of the way](https://swizec.com/blog/good-software-gets-out-of-the-way/)</small>
 
