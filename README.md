@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-30 techtrenches</small>  
+<small>[Green All the Way Down](https://techtrenches.dev/p/the-resilient-catastrophe-machine)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-30 andrewlock</small>  
+<small>[Closed class hierarchies: Exploring the .NET 11 preview - Part 4](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-30 stackoverflow</small>  
 <small>[Why intent prediction needs more than an LLM](https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/)</small>
 
@@ -211,9 +217,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
 <small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-16 techtrenches</small>  
-<small>[When Your Vendor Becomes Your Competitor: AI’s $5.5B Confession](https://techtrenches.dev/p/when-your-vendor-becomes-your-competitor)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
 <small>[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-05 bencane</small>  
 <small>[Most teams put low-level architecture in the wrong place](https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) <small>2026-06-05 effectiveengineer</small>  
-<small>[Relationships Are Systems — What Engineering Taught Me About Partnership](http://www.effectiveengineer.com/blog/engineering-and-partnership)</small>
 
