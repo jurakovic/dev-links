@@ -1,5 +1,15 @@
 [
   {
+    "title": "New GitHub Switch Limits Repo Issue Creation to Collaborators Only",
+    "link": "https://visualstudiomagazine.com/articles/2026/06/30/github-extends-contribution-controls-from-prs-to-issues.aspx",
+    "pubDate": "2026-06-30T20:13:00+00:00"
+  },
+  {
+    "title": "Uno Platform Helps Ship First Stable SkiaSharp 4.0 Release for 2D .NET Graphics",
+    "link": "https://visualstudiomagazine.com/articles/2026/06/30/uno-platform-helps-ship-first-stable-skiasharp-4-0-release-for-2d-net-graphics.aspx",
+    "pubDate": "2026-06-30T17:25:00+00:00"
+  },
+  {
     "title": "Spring AI 2.0 Goes GA, Giving Java Developers a More Mature AI App Stack",
     "link": "https://visualstudiomagazine.com/articles/2026/06/29/spring-ai-2-0-goes-ga-giving-java-developers-a-more-mature-ai-app-stack.aspx",
     "pubDate": "2026-06-29T16:43:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Open VSX 1.0.0 Puts Focus on Open Extension Registry for VS Code Ecosystem",
     "link": "https://visualstudiomagazine.com/articles/2026/06/24/open-vsx-1-0-0-puts-focus-on-open-extension-registry-for-vs-code-ecosystem.aspx",
     "pubDate": "2026-06-24T16:33:00+00:00"
-  },
-  {
-    "title": "Infragistics Puts MCP Toolchain at Center of Ultimate 26.1",
-    "link": "https://visualstudiomagazine.com/articles/2026/06/23/infragistics-puts-mcp-toolchain-at-center-of-ultimate-261.aspx",
-    "pubDate": "2026-06-23T23:04:00+00:00"
-  },
-  {
-    "title": "VS Code 1.125 Adds Copilot Spend Meter After Billing Shock",
-    "link": "https://visualstudiomagazine.com/articles/2026/06/22/vs-code-1125-adds-copilot-spend-meter-after-billing-shock.aspx",
-    "pubDate": "2026-06-22T17:43:00+00:00"
   }
 ]

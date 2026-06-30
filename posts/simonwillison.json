@@ -1,27 +1,27 @@
 [
   {
+    "title": "What's new in Claude Sonnet 5",
+    "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
+    "pubDate": "2026-06-30T21:23:02+00:00"
+  },
+  {
+    "title": "The AI Compass",
+    "link": "https://simonwillison.net/2026/Jun/30/the-ai-compass/#atom-everything",
+    "pubDate": "2026-06-30T17:39:23+00:00"
+  },
+  {
+    "title": "Have your agent record video demos of its work with shot-scraper video",
+    "link": "https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything",
+    "pubDate": "2026-06-30T16:54:26+00:00"
+  },
+  {
+    "title": "shot-scraper 1.10",
+    "link": "https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything",
+    "pubDate": "2026-06-30T15:10:14+00:00"
+  },
+  {
     "title": "HTML table extractor",
     "link": "https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything",
     "pubDate": "2026-06-29T23:38:21+00:00"
-  },
-  {
-    "title": "Count the number of Safari tabs",
-    "link": "https://simonwillison.net/2026/Jun/29/safari-tab-count/#atom-everything",
-    "pubDate": "2026-06-29T18:36:18+00:00"
-  },
-  {
-    "title": "Ornith-1.0: Self-Scaffolding LLMs for Agentic Coding",
-    "link": "https://simonwillison.net/2026/Jun/29/ornith/#atom-everything",
-    "pubDate": "2026-06-29T16:17:59+00:00"
-  },
-  {
-    "title": "Quoting Jon Udell",
-    "link": "https://simonwillison.net/2026/Jun/28/jon-udell/#atom-everything",
-    "pubDate": "2026-06-28T21:57:41+00:00"
-  },
-  {
-    "title": "Hack Your Summer",
-    "link": "https://simonwillison.net/2026/Jun/28/hack-your-summer/#atom-everything",
-    "pubDate": "2026-06-28T19:26:11+00:00"
   }
 ]
