@@ -1,10 +1,5 @@
 [
   {
-    "title": "3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209",
-    "pubDate": "2026-06-30T23:45:00+00:00"
-  },
-  {
     "title": "Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326",
     "pubDate": "2026-06-18T20:27:39+00:00"
@@ -23,5 +18,10 @@
     "title": "Automatic Connectivity Tests for Azure SQL Managed Instance",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/automatic-connectivity-tests-for-azure-sql-managed-instance/ba-p/4519795",
     "pubDate": "2026-05-14T15:56:24+00:00"
+  },
+  {
+    "title": "Dynamic Data Masking – What it is, What it isn’t, and How to use it effectively",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/dynamic-data-masking-what-it-is-what-it-isn-t-and-how-to-use-it/ba-p/4512877",
+    "pubDate": "2026-04-20T09:09:39+00:00"
   }
 ]

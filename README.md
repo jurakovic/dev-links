@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
+<small>[What’s new across Microsoft SQL in 2026 so far (SQL Server, Azure SQL, and SQL database in Fabric)](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-sql-server-azure-sql-and-sql-database-in-fabric/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-01 steven-giesel</small>  
 <small>[LinkedIn - What a dumbster fire](https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523)</small>
 
@@ -12,9 +15,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
-<small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything)</small>
@@ -40,6 +40,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 visualstudio</small>  
+<small>[Visual Studio June Update – Track Your Usage, Trust Your Tools](https://devblogs.microsoft.com/visualstudio/visual-studio-june-update-track-your-usage-trust-your-tools/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-30 techtrenches</small>  
 <small>[Green All the Way Down](https://techtrenches.dev/p/the-resilient-catastrophe-machine)</small>
 
@@ -54,6 +57,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-30 rickstrahl</small>  
 <small>[Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-06-30 minidump</small>  
+<small>[Writing a .NET Garbage Collector in C#  -  Part 10: Finalizers](https://minidump.net/writing-a-net-gc-in-c-part-10/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[A Modest Proposal](https://third-bit.com/2026/06/29/a-modest-proposal/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-07 antirez</small>  
 <small>[A new era for software testing](http://antirez.com/news/168)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-07 addyosmani</small>  
-<small>[Loop Engineering](https://addyosmani.com/blog/loop-engineering/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-06 lucumr-pocoo</small>  
-<small>[Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)</small>
 
