@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-01 steven-giesel</small>  
+<small>[LinkedIn - What a dumbster fire](https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-01 bartwullems</small>  
+<small>[Slowly Changing Dimensions – An introduction](https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-introduction.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything)</small>
 
@@ -129,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-24 visualstudiomagazine</small>  
 <small>[Open VSX 1.0.0 Puts Focus on Open Extension Registry for VS Code Ecosystem](https://visualstudiomagazine.com/articles/2026/06/24/open-vsx-1-0-0-puts-focus-on-open-extension-registry-for-vs-code-ecosystem.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-24 bartwullems</small>  
-<small>[Why my Azure DevOps scheduled pipeline never ran](https://bartwullems.blogspot.com/2026/06/why-my-azure-devops-scheduled-pipeline.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-23 swizec</small>  
 <small>[You get what you hire](https://swizec.com/blog/you-get-what-you-hire/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-06 lucumr-pocoo</small>  
 <small>[Communities of Not](https://lucumr.pocoo.org/2026/6/6/communities-of-not/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
-<small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
 

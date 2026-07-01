@@ -1,5 +1,10 @@
 [
   {
+    "title": "LinkedIn - What a dumbster fire",
+    "link": "https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523",
+    "pubDate": "2026-07-01T07:05:00+00:00"
+  },
+  {
     "title": "Signals in Blazor",
     "link": "https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7",
     "pubDate": "2026-06-20T08:30:59+00:00"
@@ -18,10 +23,5 @@
     "title": "BackgroundService exceptions now propagate in .NET 11",
     "link": "https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be",
     "pubDate": "2026-05-10T10:43:51+00:00"
-  },
-  {
-    "title": "ConfigurationIgnoreAttribute in .NET 11",
-    "link": "https://steven-giesel.com/blogPost/18a61100-6074-43ac-86ae-573ad66a2c8a",
-    "pubDate": "2026-04-26T11:57:06+00:00"
   }
 ]

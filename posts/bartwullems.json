@@ -1,5 +1,10 @@
 [
   {
+    "title": "Slowly Changing Dimensions – An introduction",
+    "link": "https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-introduction.html",
+    "pubDate": "2026-07-01T05:48:00+00:00"
+  },
+  {
     "title": "GitHub Copilot SDK Deep Dive: Session Memory",
     "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-session.html",
     "pubDate": "2026-06-30T07:10:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Local sandboxing in the GitHub Copilot CLI",
     "link": "https://bartwullems.blogspot.com/2026/06/local-sandboxing-in-github-copilot-cli.html",
     "pubDate": "2026-06-25T05:15:00+00:00"
-  },
-  {
-    "title": "Why my Azure DevOps scheduled pipeline never ran",
-    "link": "https://bartwullems.blogspot.com/2026/06/why-my-azure-devops-scheduled-pipeline.html",
-    "pubDate": "2026-06-24T05:14:00+00:00"
   }
 ]
