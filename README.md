@@ -5,6 +5,15 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
+<small>[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
+<small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
+<small>[Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[What's new in Claude Sonnet 5](https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-30 visualstudiomagazine</small>  
@@ -25,9 +34,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
 <small>[Have your agent record video demos of its work with shot-scraper video](https://simonwillison.net/2026/Jun/30/shot-scraper-video/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
-<small>[shot-scraper 1.10](https://simonwillison.net/2026/Jun/30/shot-scraper/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-30 techtrenches</small>  
 <small>[Green All the Way Down](https://techtrenches.dev/p/the-resilient-catastrophe-machine)</small>
 
@@ -42,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-30 rickstrahl</small>  
 <small>[Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-29 simonwillison</small>  
-<small>[HTML table extractor](https://simonwillison.net/2026/Jun/29/html-table-extractor/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[A Modest Proposal](https://third-bit.com/2026/06/29/a-modest-proposal/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-06 seangoedecke</small>  
 <small>[Doing nothing at work](https://seangoedecke.com/doing-nothing-at-work/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-05 addyosmani</small>  
-<small>[The Intent Debt](https://addyosmani.com/blog/intent-debt/)</small>
 
