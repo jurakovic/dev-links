@@ -1,5 +1,10 @@
 [
   {
+    "title": "Audit Frontier AI Agents with SQL MCP Server",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/",
+    "pubDate": "2026-07-01T20:02:11+00:00"
+  },
+  {
     "title": "What’s new across Microsoft SQL in 2026 so far (SQL Server, Azure SQL, and SQL database in Fabric)",
     "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-sql-server-azure-sql-and-sql-database-in-fabric/",
     "pubDate": "2026-07-01T12:52:43+00:00"
@@ -18,10 +23,5 @@
     "title": "SQL + AI, hands-on: Join a free workshop near you",
     "link": "https://devblogs.microsoft.com/azure-sql/sql-ai-hands-on-join-a-free-workshop-near-you/",
     "pubDate": "2026-05-28T13:09:15+00:00"
-  },
-  {
-    "title": "Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025",
-    "link": "https://devblogs.microsoft.com/azure-sql/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql-server-2025/",
-    "pubDate": "2026-05-22T20:28:15+00:00"
   }
 ]
