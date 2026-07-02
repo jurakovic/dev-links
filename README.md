@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-02 techtrenches</small>  
+<small>[AI Finds the Holes. Only Your Engineers Can Tell Which Ones Are Real.](https://techtrenches.dev/p/ai-finds-the-holes-only-your-engineers)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-02 jimmybogard</small>  
+<small>[AutoMapper 16.2.0 and MediatR 14.2.0 Released](https://www.jimmybogard.com/automapper-16-2-0-and-mediatr-14-2-0-released/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-02 azure-sql</small>  
+<small>[Fundamentals of Azure DevOps with SQL projects](https://devblogs.microsoft.com/azure-sql/fundamentals-of-azure-devops-with-sql-projects/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 bencane</small>  
 <small>[Need to migrate from one database to another without downtime?](https://bencane.com/posts/2026-07-02-dual-writes-database-migration/)</small>
 
@@ -226,9 +235,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-18 azuresqlblog</small>  
 <small>[Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-18 techtrenches</small>  
-<small>[Nobody Answers for the Lie They Sold](https://techtrenches.dev/p/nobody-answers-for-the-lie-they-sold)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
 <small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-11 bencane</small>  
 <small>[Coding agents can’t see your architecture diagrams—fix that](https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-10 erikej</small>  
-<small>[Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot](https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
-<small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
 
