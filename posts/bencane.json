@@ -1,5 +1,10 @@
 [
   {
+    "title": "Need to migrate from one database to another without downtime?",
+    "link": "https://bencane.com/posts/2026-07-02-dual-writes-database-migration/",
+    "pubDate": "2026-07-02T10:01:17+00:00"
+  },
+  {
     "title": "Glue Services: Part Two — Data Synchronization",
     "link": "https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/",
     "pubDate": "2026-06-25T10:01:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Most teams put low-level architecture in the wrong place",
     "link": "https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/",
     "pubDate": "2026-06-05T00:00:00+00:00"
-  },
-  {
-    "title": "Your coding agent is missing one thing: architectural context",
-    "link": "https://bencane.com/posts/2026-05-28-coding-agent-architectural-context/",
-    "pubDate": "2026-05-29T00:00:00+00:00"
   }
 ]

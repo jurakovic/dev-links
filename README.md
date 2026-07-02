@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 bencane</small>  
+<small>[Need to migrate from one database to another without downtime?](https://bencane.com/posts/2026-07-02-dual-writes-database-migration/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 paulhammant</small>  
+<small>[Google-style DAG build systems (with Aether Build)](https://paulhammant.com/2026/07/02/google-style-dag-build-systems/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-02 stackoverflow</small>  
+<small>[How do you turn AI coding chaos into a repeatable playbook?](https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-02 bartwullems</small>  
+<small>[Slowly Changing Dimensions in Microsoft Fabric - The no-code way](https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-in-microsoft.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-02 seangoedecke</small>  
 <small>[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/)</small>
 
@@ -142,9 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-25 stackoverflow</small>  
 <small>[Code isn’t the only thing causing your production failures](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-25 bartwullems</small>  
-<small>[Local sandboxing in the GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/local-sandboxing-in-github-copilot-cli.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-24 visualstudiomagazine</small>  
 <small>[VS Code Keeps Eye on Costs in v1.126 Update](https://visualstudiomagazine.com/articles/2026/06/24/vs-code-keeps-eye-on-costs-in-v1126-update.aspx)</small>
 
@@ -174,9 +183,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-23 techtrenches</small>  
 <small>[The Slot Machine That Codes](https://techtrenches.dev/p/the-slot-machine-that-codes)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-23 stackoverflow</small>  
-<small>[The 2026 Developer Survey is now open (for human developers only)!](https://stackoverflow.blog/2026/06/23/the-2026-developer-survey-is-now-open-for-human-developers-only/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-23 andrewlock</small>  
 <small>[Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-10 lucumr-pocoo</small>  
 <small>[Gaslighting Openness](https://lucumr.pocoo.org/2026/6/10/gaslighting/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-08 idunno</small>  
-<small>[When is a guid not a guid?](https://idunno.org/when-is-a-guid-not-a-guid/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-08 seangoedecke</small>  
-<small>[Working with product managers](https://seangoedecke.com/working-with-product-managers/)</small>
 

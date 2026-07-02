@@ -1,5 +1,10 @@
 [
   {
+    "title": "Google-style DAG build systems (with Aether Build)",
+    "link": "https://paulhammant.com/2026/07/02/google-style-dag-build-systems/",
+    "pubDate": "2026-07-02T10:01:11+00:00"
+  },
+  {
     "title": "Cherry-pick Asymmetry",
     "link": "https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/",
     "pubDate": "2026-06-22T22:01:08+00:00"
@@ -18,10 +23,5 @@
     "title": "Did You Send This - for module phone SMS/Voice",
     "link": "https://paulhammant.com/2025/11/30/did-you-send-this-challenge/",
     "pubDate": "2025-11-30T10:12:39+00:00"
-  },
-  {
-    "title": "Modern CV Technology: JSON Resume embedded in HTML",
-    "link": "https://paulhammant.com/2025/10/12/modern-cv-tech-json-resume-schema/",
-    "pubDate": "2025-10-12T16:10:22+00:00"
   }
 ]
