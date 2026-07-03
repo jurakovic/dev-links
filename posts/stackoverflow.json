@@ -1,5 +1,10 @@
 [
   {
+    "title": "The good, the bad, and the AI apps",
+    "link": "https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/",
+    "pubDate": "2026-07-03T07:40:00+00:00"
+  },
+  {
     "title": "How do you turn AI coding chaos into a repeatable playbook?",
     "link": "https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/",
     "pubDate": "2026-07-02T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Code isn’t the only thing causing your production failures",
     "link": "https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/",
     "pubDate": "2026-06-25T07:40:00+00:00"
-  },
-  {
-    "title": "Your AI shipped a backend that boots. That is the whole problem.",
-    "link": "https://stackoverflow.blog/2026/06/23/your-ai-shipped-a-backend-that-boots-that-is-the-whole-problem/",
-    "pubDate": "2026-06-23T14:08:58+00:00"
   }
 ]
