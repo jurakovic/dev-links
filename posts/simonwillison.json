@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Josh W. Comeau",
+    "link": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
+    "pubDate": "2026-07-03T21:25:52+00:00"
+  },
+  {
+    "title": "Fable's judgement",
+    "link": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+    "pubDate": "2026-07-03T18:51:06+00:00"
+  },
+  {
     "title": "June 2026 newsletter",
     "link": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
     "pubDate": "2026-07-03T14:50:50+00:00"
@@ -13,15 +23,5 @@
     "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
     "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
     "pubDate": "2026-07-02T18:25:00+00:00"
-  },
-  {
-    "title": "Understand to participate",
-    "link": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-    "pubDate": "2026-07-02T17:07:14+00:00"
-  },
-  {
-    "title": "Quoting Anthropic",
-    "link": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
-    "pubDate": "2026-06-30T23:58:15+00:00"
   }
 ]

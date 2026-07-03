@@ -5,6 +5,15 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
+<small>[Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
+<small>[Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-03 sqlperformance</small>  
+<small>[SolarWinds Database Performance Analyzer Now Supports SAP HANA](https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
 <small>[June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-03 stackoverflow</small>  
@@ -18,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-02 simonwillison</small>  
 <small>[Using DSPy to evaluate and improve Datasette Agent's SQL system prompts](https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-02 simonwillison</small>  
-<small>[Understand to participate](https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-02 techtrenches</small>  
 <small>[AI Finds the Holes. Only Your Engineers Can Tell Which Ones Are Real.](https://techtrenches.dev/p/ai-finds-the-holes-only-your-engineers)</small>
@@ -60,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-01 bartwullems</small>  
 <small>[Slowly Changing Dimensions – An introduction](https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-introduction.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
-<small>[Quoting Anthropic](https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
 <small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-11 visualstudio</small>  
 <small>[Review pull requests without leaving Visual Studio](https://devblogs.microsoft.com/visualstudio/review-pull-requests-without-leaving-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-06-11 slack</small>  
-<small>[Agentic Testing: Where Agents Fit in the E2E Testing Stack](https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "SolarWinds Database Performance Analyzer Now Supports SAP HANA",
+    "link": "https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana",
+    "pubDate": "2026-07-03T17:33:10+00:00"
+  },
+  {
     "title": "Dealing With Explosive sysjobhistory Growth",
     "link": "https://sqlperformance.com/2026/06/t-sql-queries/explosive-sysjobhistory-growth",
     "pubDate": "2026-06-24T17:21:26+00:00"
@@ -18,10 +23,5 @@
     "title": "The High-Performance DBA: Total Recall, Part 1: SQL Server Memory Basics and Best Practices",
     "link": "https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-1-sql-server-memory-basics-and-best-practices",
     "pubDate": "2026-05-28T18:07:35+00:00"
-  },
-  {
-    "title": "Database Storage Optimization for the High-Performance DBA",
-    "link": "https://sqlperformance.com/2026/05/sql-performance/database-storage-optimization-for-the-high-performance-dba",
-    "pubDate": "2026-05-28T18:06:34+00:00"
   }
 ]
