@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
+<small>[June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-03 stackoverflow</small>  
 <small>[The good, the bad, and the AI apps](https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
 <small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-06-30 simonwillison</small>  
-<small>[Nano Banana 2 Lite](https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-30 visualstudiomagazine</small>  
 <small>[New GitHub Switch Limits Repo Issue Creation to Collaborators Only](https://visualstudiomagazine.com/articles/2026/06/30/github-extends-contribution-controls-from-prs-to-issues.aspx)</small>

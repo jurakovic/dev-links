@@ -1,5 +1,10 @@
 [
   {
+    "title": "June 2026 newsletter",
+    "link": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+    "pubDate": "2026-07-03T14:50:50+00:00"
+  },
+  {
     "title": "llm-coding-agent 0.1a0",
     "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
     "pubDate": "2026-07-02T19:33:12+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Anthropic",
     "link": "https://simonwillison.net/2026/Jun/30/anthropic/#atom-everything",
     "pubDate": "2026-06-30T23:58:15+00:00"
-  },
-  {
-    "title": "Nano Banana 2 Lite",
-    "link": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
-    "pubDate": "2026-06-30T22:15:35+00:00"
   }
 ]
