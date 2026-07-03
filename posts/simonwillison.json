@@ -1,5 +1,10 @@
 [
   {
+    "title": "llm-coding-agent 0.1a0",
+    "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+    "pubDate": "2026-07-02T19:33:12+00:00"
+  },
+  {
     "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
     "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
     "pubDate": "2026-07-02T18:25:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Nano Banana 2 Lite",
     "link": "https://simonwillison.net/2026/Jun/30/nano-banana-2-lite/#atom-everything",
     "pubDate": "2026-06-30T22:15:35+00:00"
-  },
-  {
-    "title": "What's new in Claude Sonnet 5",
-    "link": "https://simonwillison.net/2026/Jun/30/claude-sonnet-5/#atom-everything",
-    "pubDate": "2026-06-30T21:23:02+00:00"
   }
 ]
