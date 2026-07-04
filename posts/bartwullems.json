@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dependency-Track: Error occurred decrypting the OSS Index API Token",
+    "link": "https://bartwullems.blogspot.com/2026/07/dependency-track-error-occurred.html",
+    "pubDate": "2026-07-03T05:28:00+00:00"
+  },
+  {
     "title": "Slowly Changing Dimensions in Microsoft Fabric - The no-code way",
     "link": "https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-in-microsoft.html",
     "pubDate": "2026-07-02T05:01:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Scheduling actions in the GitHub Copilot CLI",
     "link": "https://bartwullems.blogspot.com/2026/06/scheduling-actions-in-github-copilot-cli.html",
     "pubDate": "2026-06-29T07:45:00+00:00"
-  },
-  {
-    "title": "Configuring Copilot CLI Isolation via the GitHub Copilot SDK",
-    "link": "https://bartwullems.blogspot.com/2026/06/configuring-copilot-cli-isolation-via.html",
-    "pubDate": "2026-06-26T05:25:00+00:00"
   }
 ]
