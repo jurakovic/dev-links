@@ -1,5 +1,10 @@
 [
   {
+    "title": "Open Source AI Gap Map",
+    "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
+    "pubDate": "2026-07-03T22:04:31+00:00"
+  },
+  {
     "title": "Quoting Josh W. Comeau",
     "link": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
     "pubDate": "2026-07-03T21:25:52+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-coding-agent 0.1a0",
     "link": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
     "pubDate": "2026-07-02T19:33:12+00:00"
-  },
-  {
-    "title": "Using DSPy to evaluate and improve Datasette Agent's SQL system prompts",
-    "link": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
-    "pubDate": "2026-07-02T18:25:00+00:00"
   }
 ]
