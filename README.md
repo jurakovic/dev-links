@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-05 simonwillison</small>  
+<small>[sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-04 simonwillison</small>  
+<small>[Building a World Map with only 500 bytes](https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-04 simonwillison</small>  
+<small>[Better Models: Worse Tools](https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-04 lucumr-pocoo</small>  
 <small>[Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)</small>
 
@@ -13,26 +22,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
 <small>[Quoting Josh W. Comeau](https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
-<small>[Fable's judgement](https://simonwillison.net/2026/Jul/3/judgement/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-03 sqlperformance</small>  
 <small>[SolarWinds Database Performance Analyzer Now Supports SAP HANA](https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-03 dbreunig</small>  
 <small>[Understanding the Dynamics of the AI Ecosystem with Pace Layers](https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
-<small>[June 2026 newsletter](https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-03 stackoverflow</small>  
 <small>[The good, the bad, and the AI apps](https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-03 bartwullems</small>  
 <small>[Dependency-Track: Error occurred decrypting the OSS Index API Token](https://bartwullems.blogspot.com/2026/07/dependency-track-error-occurred.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-02 simonwillison</small>  
-<small>[llm-coding-agent 0.1a0](https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-02 pragmaticengineer</small>  
 <small>[The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/)</small>
