@@ -5,6 +5,11 @@
     "pubDate": "2026-07-05T01:00:48+00:00"
   },
   {
+    "title": "sqlite-utils 4.0rc2",
+    "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything",
+    "pubDate": "2026-07-05T00:47:38+00:00"
+  },
+  {
     "title": "Building a World Map with only 500 bytes",
     "link": "https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything",
     "pubDate": "2026-07-04T23:09:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Open Source AI Gap Map",
     "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
     "pubDate": "2026-07-03T22:04:31+00:00"
-  },
-  {
-    "title": "Quoting Josh W. Comeau",
-    "link": "https://simonwillison.net/2026/Jul/3/josh-w-comeau/#atom-everything",
-    "pubDate": "2026-07-03T21:25:52+00:00"
   }
 ]
