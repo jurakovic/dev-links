@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
+<small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-06 swizec</small>  
+<small>[Theory of constraints, AI, and code review](https://swizec.com/blog/theory-of-constraints-ai-and-code-review/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-06 techtrenches</small>  
+<small>[Dario Altman](https://techtrenches.dev/p/dario-altman)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-06 stackoverflow</small>  
+<small>[When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection](https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-06 martinfowler</small>  
 <small>[Fragments: July  6](https://martinfowler.com/fragments/2026-07-06.html)</small>
 
@@ -75,6 +87,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-02 seangoedecke</small>  
 <small>[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-02 addyosmani</small>  
+<small>[Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-01 visualstudiomagazine</small>  
 <small>[VS Code 1.127 Further Integrates Advanced Browser-AI Tech](https://visualstudiomagazine.com/articles/2026/07/01/vs-code-1-127-further-integrates-advanced-browser-ai-tech.aspx)</small>
@@ -187,9 +202,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-25 bencane</small>  
 <small>[Glue Services: Part Two — Data Synchronization](https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-06-25 stackoverflow</small>  
-<small>[Code isn’t the only thing causing your production failures](https://stackoverflow.blog/2026/06/25/code-isnt-causing-your-production-failures/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-24 visualstudiomagazine</small>  
 <small>[VS Code Keeps Eye on Costs in v1.126 Update](https://visualstudiomagazine.com/articles/2026/06/24/vs-code-keeps-eye-on-costs-in-v1126-update.aspx)</small>
 
@@ -213,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-23 github-ai</small>  
 <small>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-23 techtrenches</small>  
-<small>[The Slot Machine That Codes](https://techtrenches.dev/p/the-slot-machine-that-codes)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-23 andrewlock</small>  
 <small>[Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-06-15 damienbod</small>  
 <small>[Software development and AI](https://damienbod.com/2026/06/15/software-development-and-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-15 seangoedecke</small>  
-<small>[AI GPUs probably live longer than three years](https://seangoedecke.com/ai-gpus-live-longer-than-three-years/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-06-14 idunno</small>  
-<small>[Is your .NET vulnerability report going to get a CVE?](https://idunno.org/is-your-net-vulnerability-report-going-to-get-a-cve/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-14 addyosmani</small>  
-<small>[Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/)</small>
 

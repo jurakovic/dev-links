@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dario Altman",
+    "link": "https://techtrenches.dev/p/dario-altman",
+    "pubDate": "2026-07-06T18:32:02+00:00"
+  },
+  {
     "title": "AI Finds the Holes. Only Your Engineers Can Tell Which Ones Are Real.",
     "link": "https://techtrenches.dev/p/ai-finds-the-holes-only-your-engineers",
     "pubDate": "2026-07-02T14:31:47+00:00"
@@ -18,10 +23,5 @@
     "title": "The Cost of Reading Everyone Just Hit Zero",
     "link": "https://techtrenches.dev/p/the-cost-of-reading-everyone-just",
     "pubDate": "2026-06-25T16:03:27+00:00"
-  },
-  {
-    "title": "The Slot Machine That Codes",
-    "link": "https://techtrenches.dev/p/the-slot-machine-that-codes",
-    "pubDate": "2026-06-23T14:01:49+00:00"
   }
 ]
