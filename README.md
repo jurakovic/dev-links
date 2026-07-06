@@ -10,6 +10,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-05 simonwillison</small>  
 <small>[sqlite-utils 4.0rc2](https://simonwillison.net/2026/Jul/5/sqlite-utils/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-05 third-bit</small>  
+<small>[Now What? A Workshop on Error Handling](https://third-bit.com/2026/07/05/now-what/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-04 simonwillison</small>  
 <small>[Building a World Map with only 500 bytes](https://simonwillison.net/2026/Jul/4/building-a-world-map-with-only-500-bytes/#atom-everything)</small>
 
@@ -261,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-17 dotnet</small>  
 <small>[AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-17 third-bit</small>  
-<small>[How Change Happens](https://third-bit.com/2026/06/17/how-change/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
 <small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
