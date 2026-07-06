@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-06 martinfowler</small>  
+<small>[Fragments: July  6](https://martinfowler.com/fragments/2026-07-06.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-06 seangoedecke</small>  
 <small>[C2PA only works if everything is signed](https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-14 addyosmani</small>  
 <small>[Agentic Code Review](https://addyosmani.com/blog/agentic-code-review/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
-<small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
 
