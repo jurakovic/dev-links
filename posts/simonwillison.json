@@ -1,5 +1,10 @@
 [
   {
+    "title": "sqlite-utils 4.0rc3",
+    "link": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+    "pubDate": "2026-07-06T05:40:08+00:00"
+  },
+  {
     "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
     "link": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
     "pubDate": "2026-07-05T01:00:48+00:00"
@@ -18,10 +23,5 @@
     "title": "Better Models: Worse Tools",
     "link": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
     "pubDate": "2026-07-04T22:53:52+00:00"
-  },
-  {
-    "title": "Open Source AI Gap Map",
-    "link": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-    "pubDate": "2026-07-03T22:04:31+00:00"
   }
 ]

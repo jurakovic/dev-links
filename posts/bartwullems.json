@@ -1,5 +1,10 @@
 [
   {
+    "title": "Combining Google Stitch with the GitHub Copilot Coding Agent",
+    "link": "https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html",
+    "pubDate": "2026-07-06T05:04:00+00:00"
+  },
+  {
     "title": "Dependency-Track: Error occurred decrypting the OSS Index API Token",
     "link": "https://bartwullems.blogspot.com/2026/07/dependency-track-error-occurred.html",
     "pubDate": "2026-07-03T05:28:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot SDK Deep Dive: Session Memory",
     "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-session.html",
     "pubDate": "2026-06-30T07:10:00+00:00"
-  },
-  {
-    "title": "Scheduling actions in the GitHub Copilot CLI",
-    "link": "https://bartwullems.blogspot.com/2026/06/scheduling-actions-in-github-copilot-cli.html",
-    "pubDate": "2026-06-29T07:45:00+00:00"
   }
 ]

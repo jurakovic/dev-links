@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-06 seangoedecke</small>  
+<small>[C2PA only works if everything is signed](https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-06 simonwillison</small>  
+<small>[sqlite-utils 4.0rc3](https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-07-06 developertoarchitect</small>  
+<small>[Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)](http://www.developertoarchitect.com/lessons/lesson221.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-06 bartwullems</small>  
+<small>[Combining Google Stitch with the GitHub Copilot Coding Agent](https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-05 simonwillison</small>  
 <small>[sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)](https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything)</small>
 
@@ -21,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-04 lucumr-pocoo</small>  
 <small>[Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-03 simonwillison</small>  
-<small>[Open Source AI Gap Map](https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-03 sqlperformance</small>  
 <small>[SolarWinds Database Performance Analyzer Now Supports SAP HANA](https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana)</small>
@@ -141,9 +150,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-29 netflix</small>  
 <small>[GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-06-29 bartwullems</small>  
-<small>[Scheduling actions in the GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/06/scheduling-actions-in-github-copilot-cli.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-28 techtrenches</small>  
 <small>[Europe Runs at Catastrophic Yield](https://techtrenches.dev/p/europe-runs-at-catastrophic-yield)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-06-13 lucumr-pocoo</small>  
 <small>[Dangerous Technology For Americans Only](https://lucumr.pocoo.org/2026/6/13/americans-only/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-13 rickstrahl</small>  
-<small>[Creating a Packaged Windows Single File Web Site Viewer Executable](https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-11 pragmaticengineer</small>  
-<small>[The Pulse: a trend of trying to cut back on AI spend within eng departments?](https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/)</small>
 
