@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-07 martinfowler</small>  
+<small>[Viability of local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-07 seangoedecke</small>  
 <small>[Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-07 andrewlock</small>  
+<small>[Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-07 stackoverflow</small>  
 <small>[Agent orchestration is so two-years ago](https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-16 addyosmani</small>  
 <small>[The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-15 visualstudio</small>  
-<small>[Make Visual Studio look the way you want](https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-06-15 lethain</small>  
-<small>[Revised rules of engineering leadership.](https://lethain.com/revised-rules-of-engineering-leadership/)</small>
 
