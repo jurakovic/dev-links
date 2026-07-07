@@ -1,5 +1,10 @@
 [
   {
+    "title": "Blog about things you don't understand yet",
+    "link": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/",
+    "pubDate": "2026-07-07T10:01:26+00:00"
+  },
+  {
     "title": "C2PA only works if everything is signed",
     "link": "https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/",
     "pubDate": "2026-07-06T10:01:29+00:00"
@@ -18,10 +23,5 @@
     "title": "AI inference is obviously profitable",
     "link": "https://seangoedecke.com/ai-inference-is-obviously-profitable/",
     "pubDate": "2026-06-26T16:01:22+00:00"
-  },
-  {
-    "title": "AI GPUs probably live longer than three years",
-    "link": "https://seangoedecke.com/ai-gpus-live-longer-than-three-years/",
-    "pubDate": "2026-06-15T04:01:17+00:00"
   }
 ]

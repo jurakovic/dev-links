@@ -1,5 +1,10 @@
 [
   {
+    "title": "The role of ActivitySource in OpenTelemetry for .NET",
+    "link": "https://bartwullems.blogspot.com/2026/07/the-role-of-activitysource-in.html",
+    "pubDate": "2026-07-07T05:20:00+00:00"
+  },
+  {
     "title": "Combining Google Stitch with the GitHub Copilot Coding Agent",
     "link": "https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html",
     "pubDate": "2026-07-06T05:04:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Slowly Changing Dimensions – An introduction",
     "link": "https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-introduction.html",
     "pubDate": "2026-07-01T05:48:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot SDK Deep Dive: Session Memory",
-    "link": "https://bartwullems.blogspot.com/2026/06/github-copilot-sdk-deep-dive-session.html",
-    "pubDate": "2026-06-30T07:10:00+00:00"
   }
 ]
