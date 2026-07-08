@@ -1,5 +1,10 @@
 [
   {
+    "title": "Experiences with local models for coding",
+    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
+    "pubDate": "2026-07-08T11:57:00+00:00"
+  },
+  {
     "title": "Viability of local models for coding",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
     "pubDate": "2026-07-07T12:34:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fragments: June 16",
     "link": "https://martinfowler.com/fragments/2026-06-16.html",
     "pubDate": "2026-06-16T06:44:00+00:00"
-  },
-  {
-    "title": "Fragments: June  2",
-    "link": "https://martinfowler.com/fragments/2026-06-02.html",
-    "pubDate": "2026-06-02T09:21:00+00:00"
   }
 ]

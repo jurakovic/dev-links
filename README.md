@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-08 github-ai</small>  
+<small>[How GitHub Copilot enables zero DNS configuration for GitHub Pages](https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-08 martinfowler</small>  
+<small>[Experiences with local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-08 bartwullems</small>  
 <small>[YARP and Aspire: "https+http scheme is not supported"](https://bartwullems.blogspot.com/2026/07/yarp-and-aspire-httpshttp-scheme-is-not.html)</small>
 
@@ -292,15 +298,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-17 dotnet</small>  
 <small>[AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-16 github-ai</small>  
-<small>[What are git worktrees, and why should I use them?](https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
 <small>[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
 <small>[Fragments: June 16](https://martinfowler.com/fragments/2026-06-16.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-06-16 addyosmani</small>  
-<small>[The New Software Lifecycle](https://addyosmani.com/blog/new-sdlc-vibe-coding/)</small>
 
