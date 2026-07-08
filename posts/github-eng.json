@@ -1,5 +1,10 @@
 [
   {
+    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+    "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+    "pubDate": "2026-07-08T21:11:56+00:00"
+  },
+  {
     "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
     "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
     "pubDate": "2026-05-14T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agent-driven development in Copilot Applied Science",
     "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
     "pubDate": "2026-03-31T16:00:00+00:00"
-  },
-  {
-    "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
-    "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
-    "pubDate": "2026-03-12T16:00:00+00:00"
   }
 ]
