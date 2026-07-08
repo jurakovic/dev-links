@@ -1,5 +1,10 @@
 [
   {
+    "title": "What's left for infrastructure-as-code after AI moves in?",
+    "link": "https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/",
+    "pubDate": "2026-07-08T04:40:00+00:00"
+  },
+  {
     "title": "Agent orchestration is so two-years ago",
     "link": "https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/",
     "pubDate": "2026-07-07T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How do you turn AI coding chaos into a repeatable playbook?",
     "link": "https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/",
     "pubDate": "2026-07-02T07:40:00+00:00"
-  },
-  {
-    "title": "Why intent prediction needs more than an LLM",
-    "link": "https://stackoverflow.blog/2026/06/30/why-intent-prediction-needs-more-than-an-llm/",
-    "pubDate": "2026-06-30T07:40:00+00:00"
   }
 ]
