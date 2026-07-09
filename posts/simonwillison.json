@@ -1,5 +1,15 @@
 [
   {
+    "title": "Rewriting Bun in Rust",
+    "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+    "pubDate": "2026-07-08T23:57:21+00:00"
+  },
+  {
+    "title": "Introducing GPT‑Live",
+    "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
+    "pubDate": "2026-07-08T23:20:48+00:00"
+  },
+  {
     "title": "Quoting Kenton Varda",
     "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
     "pubDate": "2026-07-08T20:03:34+00:00"
@@ -13,15 +23,5 @@
     "title": "sqlite-migrate 0.2",
     "link": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
     "pubDate": "2026-07-07T16:33:55+00:00"
-  },
-  {
-    "title": "github-code Web Component",
-    "link": "https://simonwillison.net/2026/Jul/7/github-code-component/#atom-everything",
-    "pubDate": "2026-07-07T16:18:16+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.0",
-    "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything",
-    "pubDate": "2026-07-07T15:42:43+00:00"
   }
 ]
