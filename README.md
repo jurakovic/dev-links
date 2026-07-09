@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-09 bencane</small>  
+<small>[Should retries and timeouts live in your application or your service mesh?](https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-09 bartwullems</small>  
+<small>[Fixing "Filename too long" errors on Windows with Git](https://bartwullems.blogspot.com/2026/07/fixing-filename-too-long-errors-on.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-08 simonwillison</small>  
 <small>[Rewriting Bun in Rust](https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything)</small>
 
@@ -120,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-02 stackoverflow</small>  
 <small>[How do you turn AI coding chaos into a repeatable playbook?](https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-02 bartwullems</small>  
-<small>[Slowly Changing Dimensions in Microsoft Fabric - The no-code way](https://bartwullems.blogspot.com/2026/07/slowly-changing-dimensions-in-microsoft.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-02 seangoedecke</small>  
 <small>[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-17 dotnet</small>  
 <small>[AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server](https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-06-16 martinfowler</small>  
-<small>[Building Reliable Agentic AI Systems](https://martinfowler.com/articles/reliable-llm-bayer.html)</small>
 

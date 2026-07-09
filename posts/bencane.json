@@ -1,5 +1,10 @@
 [
   {
+    "title": "Should retries and timeouts live in your application or your service mesh?",
+    "link": "https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/",
+    "pubDate": "2026-07-09T10:01:44+00:00"
+  },
+  {
     "title": "Need to migrate from one database to another without downtime?",
     "link": "https://bencane.com/posts/2026-07-02-dual-writes-database-migration/",
     "pubDate": "2026-07-02T10:01:17+00:00"
@@ -18,10 +23,5 @@
     "title": "Coding agents can’t see your architecture diagrams—fix that",
     "link": "https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/",
     "pubDate": "2026-06-11T10:01:10+00:00"
-  },
-  {
-    "title": "Most teams put low-level architecture in the wrong place",
-    "link": "https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/",
-    "pubDate": "2026-06-05T00:00:00+00:00"
   }
 ]
