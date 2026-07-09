@@ -1,27 +1,27 @@
 [
   {
+    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+    "link": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "pubDate": "2026-07-09T19:46:38+00:00"
+  },
+  {
+    "title": "Introducing Muse Spark 1.1",
+    "link": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+    "pubDate": "2026-07-09T16:24:09+00:00"
+  },
+  {
+    "title": "llm-meta-ai 0.1",
+    "link": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
+    "pubDate": "2026-07-09T16:12:20+00:00"
+  },
+  {
+    "title": "llm 0.31.1",
+    "link": "https://simonwillison.net/2026/Jul/9/llm/#atom-everything",
+    "pubDate": "2026-07-09T16:06:15+00:00"
+  },
+  {
     "title": "Rewriting Bun in Rust",
     "link": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
     "pubDate": "2026-07-08T23:57:21+00:00"
-  },
-  {
-    "title": "Introducing GPT‑Live",
-    "link": "https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything",
-    "pubDate": "2026-07-08T23:20:48+00:00"
-  },
-  {
-    "title": "Quoting Kenton Varda",
-    "link": "https://simonwillison.net/2026/Jul/8/kenton-varda/#atom-everything",
-    "pubDate": "2026-07-08T20:03:34+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.0, now with database schema migrations",
-    "link": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
-    "pubDate": "2026-07-07T19:32:57+00:00"
-  },
-  {
-    "title": "sqlite-migrate 0.2",
-    "link": "https://simonwillison.net/2026/Jul/7/sqlite-migrate/#atom-everything",
-    "pubDate": "2026-07-07T16:33:55+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Modernize .NET applications in the GitHub Copilot app",
+    "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/",
+    "pubDate": "2026-07-09T17:05:00+00:00"
+  },
+  {
     "title": "MCP Beyond the Chat Window: Build Diagnostics in CI",
     "link": "https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/",
     "pubDate": "2026-06-30T17:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Packaging and Package Identity for .NET apps with WinApp CLI on Windows",
     "link": "https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/",
     "pubDate": "2026-06-29T17:00:00+00:00"
-  },
-  {
-    "title": "AI-Powered MSBuild Investigation with the Microsoft Binlog MCP Server",
-    "link": "https://devblogs.microsoft.com/dotnet/msbuild-binlog-mcp-server/",
-    "pubDate": "2026-06-17T17:00:00+00:00"
   }
 ]
