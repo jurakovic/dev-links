@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-10 stackoverflow</small>  
+<small>[Building more than just an agent harness](https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-10 bartwullems</small>  
+<small>[A complex system designed from scratch never works](https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-10 simonwillison</small>  
 <small>[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything)</small>
 
@@ -112,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-03 stackoverflow</small>  
 <small>[The good, the bad, and the AI apps](https://stackoverflow.blog/2026/07/03/the-good-the-bad-and-the-ai-apps/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-03 bartwullems</small>  
-<small>[Dependency-Track: Error occurred decrypting the OSS Index API Token](https://bartwullems.blogspot.com/2026/07/dependency-track-error-occurred.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-02 pragmaticengineer</small>  
 <small>[The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/)</small>
 
@@ -132,9 +135,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 paulhammant</small>  
 <small>[Google-style DAG build systems (with Aether Build)](https://paulhammant.com/2026/07/02/google-style-dag-build-systems/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-02 stackoverflow</small>  
-<small>[How do you turn AI coding chaos into a repeatable playbook?](https://stackoverflow.blog/2026/07/02/ai-coding-chaos-into-a-repeatable-playbook/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-02 seangoedecke</small>  
 <small>[Text AI watermarks will always be trivial to remove](https://seangoedecke.com/text-ai-watermarks/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "A complex system designed from scratch never works",
+    "link": "https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html",
+    "pubDate": "2026-07-10T04:49:00+00:00"
+  },
+  {
     "title": "Fixing \"Filename too long\" errors on Windows with Git",
     "link": "https://bartwullems.blogspot.com/2026/07/fixing-filename-too-long-errors-on.html",
     "pubDate": "2026-07-09T05:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Combining Google Stitch with the GitHub Copilot Coding Agent",
     "link": "https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html",
     "pubDate": "2026-07-06T05:04:00+00:00"
-  },
-  {
-    "title": "Dependency-Track: Error occurred decrypting the OSS Index API Token",
-    "link": "https://bartwullems.blogspot.com/2026/07/dependency-track-error-occurred.html",
-    "pubDate": "2026-07-03T05:28:00+00:00"
   }
 ]
