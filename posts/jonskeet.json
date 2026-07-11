@@ -1,5 +1,10 @@
 [
   {
+    "title": "Forking an open source project",
+    "link": "https://codeblog.jonskeet.uk/2026/07/11/forking-an-open-source-project/",
+    "pubDate": "2026-07-11T12:54:14+00:00"
+  },
+  {
     "title": "Election 2029: Load Testing",
     "link": "https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/",
     "pubDate": "2026-01-18T18:11:55+00:00"
@@ -18,10 +23,5 @@
     "title": "Records and the ‘with’ operator, redux",
     "link": "https://codeblog.jonskeet.uk/2025/07/29/records-and-the-with-operator-redux/",
     "pubDate": "2025-07-29T20:00:38+00:00"
-  },
-  {
-    "title": "Unexpected inconsistency in records",
-    "link": "https://codeblog.jonskeet.uk/2025/07/19/unexpected-inconsistency-in-records/",
-    "pubDate": "2025-07-19T13:04:48+00:00"
   }
 ]

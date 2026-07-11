@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
+<small>[Make no assumptions.](https://lethain.com/make-no-assumptions/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-07-11 jonskeet</small>  
+<small>[Forking an open source project](https://codeblog.jonskeet.uk/2026/07/11/forking-an-open-source-project/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-11 seangoedecke</small>  
 <small>[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-18 third-bit</small>  
 <small>[AI Happens](https://third-bit.com/2026/06/18/ai-happens/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-18 azuresqlblog</small>  
-<small>[Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-18 bencane</small>  
-<small>[When modernizing legacy systems, don’t be afraid to build glue services](https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/)</small>
 
