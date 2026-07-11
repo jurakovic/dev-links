@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
+<small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
 <small>[Make no assumptions.](https://lethain.com/make-no-assumptions/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
 <small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-18 third-bit</small>  
-<small>[AI Happens](https://third-bit.com/2026/06/18/ai-happens/)</small>
 

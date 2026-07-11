@@ -1,5 +1,10 @@
 [
   {
+    "title": "The one thing every experienced engineer gets wrong",
+    "link": "https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/",
+    "pubDate": "2026-07-11T22:01:46+00:00"
+  },
+  {
     "title": "Theory of constraints, AI, and code review",
     "link": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review/",
     "pubDate": "2026-07-06T22:01:30+00:00"
@@ -18,10 +23,5 @@
     "title": "Code is the easy part, or how we refactored half the business to fix a janky script",
     "link": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
     "pubDate": "2026-06-17T22:08:27+00:00"
-  },
-  {
-    "title": "Good software gets out of the way",
-    "link": "https://swizec.com/blog/good-software-gets-out-of-the-way/",
-    "pubDate": "2026-06-04T00:00:00+00:00"
   }
 ]
