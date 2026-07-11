@@ -1,5 +1,10 @@
 [
   {
+    "title": "In defense of not understanding your codebase",
+    "link": "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
+    "pubDate": "2026-07-11T10:01:33+00:00"
+  },
+  {
     "title": "Blog about things you don't understand yet",
     "link": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/",
     "pubDate": "2026-07-07T10:01:26+00:00"
@@ -18,10 +23,5 @@
     "title": "Saying the obvious thing",
     "link": "https://seangoedecke.com/saying-the-obvious-thing/",
     "pubDate": "2026-06-27T16:03:21+00:00"
-  },
-  {
-    "title": "AI inference is obviously profitable",
-    "link": "https://seangoedecke.com/ai-inference-is-obviously-profitable/",
-    "pubDate": "2026-06-26T16:01:22+00:00"
   }
 ]

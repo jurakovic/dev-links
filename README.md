@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-11 seangoedecke</small>  
+<small>[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-10 simonwillison</small>  
 <small>[Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything)</small>
 
@@ -228,9 +231,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-27 seangoedecke</small>  
 <small>[Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-26 seangoedecke</small>  
-<small>[AI inference is obviously profitable](https://seangoedecke.com/ai-inference-is-obviously-profitable/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-26 third-bit</small>  
 <small>[Years Too Late](https://third-bit.com/2026/06/26/years-too-late/)</small>
