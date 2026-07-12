@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
+<small>[Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-12 steven-giesel</small>  
 <small>[Set LogLevel of Blazor](https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-09 dotnet</small>  
 <small>[Modernize .NET applications in the GitHub Copilot app](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-09 simonwillison</small>  
-<small>[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-09 techtrenches</small>  
 <small>[Salesforce Locked Slack for Privacy, Then Opened It for a Partner](https://techtrenches.dev/p/salesforce-locked-slack-for-privacy)</small>
