@@ -1,5 +1,10 @@
 [
   {
+    "title": "Set LogLevel of Blazor",
+    "link": "https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec",
+    "pubDate": "2026-07-12T14:22:23+00:00"
+  },
+  {
     "title": "LinkedIn - What a dumbster fire",
     "link": "https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523",
     "pubDate": "2026-07-01T07:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Zstandard compression in .NET 11",
     "link": "https://steven-giesel.com/blogPost/6066abb6-640a-4225-ac33-3f4d5a1a1d16",
     "pubDate": "2026-05-18T06:52:00+00:00"
-  },
-  {
-    "title": "BackgroundService exceptions now propagate in .NET 11",
-    "link": "https://steven-giesel.com/blogPost/00fcb870-6bf7-4f97-824f-8eab1b8838be",
-    "pubDate": "2026-05-10T10:43:51+00:00"
   }
 ]
