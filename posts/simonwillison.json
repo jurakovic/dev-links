@@ -1,5 +1,10 @@
 [
   {
+    "title": "sqlite-utils 4.1",
+    "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
+    "pubDate": "2026-07-11T23:50:20+00:00"
+  },
+  {
     "title": "Quoting Nilay Patel",
     "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
     "pubDate": "2026-07-10T17:05:26+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing Muse Spark 1.1",
     "link": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
     "pubDate": "2026-07-09T16:24:09+00:00"
-  },
-  {
-    "title": "llm-meta-ai 0.1",
-    "link": "https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything",
-    "pubDate": "2026-07-09T16:12:20+00:00"
   }
 ]

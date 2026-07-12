@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-11 simonwillison</small>  
+<small>[sqlite-utils 4.1](https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
 <small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
+<small>[Generated and suppressed demand.](https://lethain.com/generated-demand/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
 <small>[Make no assumptions.](https://lethain.com/make-no-assumptions/)</small>
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-09 simonwillison</small>  
 <small>[Introducing Muse Spark 1.1](https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-09 simonwillison</small>  
-<small>[llm-meta-ai 0.1](https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-09 techtrenches</small>  
 <small>[Salesforce Locked Slack for Privacy, Then Opened It for a Partner](https://techtrenches.dev/p/salesforce-locked-slack-for-privacy)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-19 netflix</small>  
 <small>[Data Projects: Managing Data Assets at Netflix Scale](https://netflixtechblog.com/data-projects-managing-data-assets-at-netflix-scale-7ca25888591e?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-06-19 steve-yegge</small>  
-<small>[The Flat Curve Society](https://steve-yegge.medium.com/the-flat-curve-society-36c8b01eb33b?source=rss-c1ec701babb7------2)</small>
 
