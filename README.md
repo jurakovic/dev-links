@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-13 bartwullems</small>  
+<small>[Cache stampede: when our cache turned against us](https://bartwullems.blogspot.com/2026/07/cache-stampede-when-our-cache-turned.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
+<small>[Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
+<small>[shot-scraper 1.11](https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
 <small>[Fable gets another bump](https://simonwillison.net/2026/Jul/12/bump/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
+<small>[sqlite-utils 4.1.1](https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-12 steven-giesel</small>  
 <small>[Set LogLevel of Blazor](https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec)</small>
@@ -28,9 +40,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-11 seangoedecke</small>  
 <small>[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-10 simonwillison</small>  
-<small>[Quoting Nilay Patel](https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-10 github-ai</small>  
 <small>[Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)</small>
 
@@ -42,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-10 bartwullems</small>  
 <small>[A complex system designed from scratch never works](https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-10 simonwillison</small>  
-<small>[Quoting OpenAI](https://simonwillison.net/2026/Jul/10/openai/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-09 simonwillison</small>  
-<small>[The new GPT-5.6 family: Luna, Terra, Sol](https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-09 pragmaticengineer</small>  
 <small>[The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/)</small>
@@ -123,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-07-06 developertoarchitect</small>  
 <small>[Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)](http://www.developertoarchitect.com/lessons/lesson221.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-06 bartwullems</small>  
-<small>[Combining Google Stitch with the GitHub Copilot Coding Agent](https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-05 third-bit</small>  
 <small>[Now What? A Workshop on Error Handling](https://third-bit.com/2026/07/05/now-what/)</small>

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cache stampede: when our cache turned against us",
+    "link": "https://bartwullems.blogspot.com/2026/07/cache-stampede-when-our-cache-turned.html",
+    "pubDate": "2026-07-13T05:42:00+00:00"
+  },
+  {
     "title": "A complex system designed from scratch never works",
     "link": "https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html",
     "pubDate": "2026-07-10T04:49:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The role of ActivitySource in OpenTelemetry for .NET",
     "link": "https://bartwullems.blogspot.com/2026/07/the-role-of-activitysource-in.html",
     "pubDate": "2026-07-07T05:20:00+00:00"
-  },
-  {
-    "title": "Combining Google Stitch with the GitHub Copilot Coding Agent",
-    "link": "https://bartwullems.blogspot.com/2026/07/combining-google-stitch-with-github.html",
-    "pubDate": "2026-07-06T05:04:00+00:00"
   }
 ]

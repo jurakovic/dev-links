@@ -1,27 +1,27 @@
 [
   {
+    "title": "Directly Responsible Individuals (DRI)",
+    "link": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+    "pubDate": "2026-07-12T23:57:14+00:00"
+  },
+  {
+    "title": "shot-scraper 1.11",
+    "link": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
+    "pubDate": "2026-07-12T23:46:52+00:00"
+  },
+  {
     "title": "Fable gets another bump",
     "link": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
     "pubDate": "2026-07-12T21:20:07+00:00"
   },
   {
+    "title": "sqlite-utils 4.1.1",
+    "link": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+    "pubDate": "2026-07-12T20:55:30+00:00"
+  },
+  {
     "title": "sqlite-utils 4.1",
     "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
     "pubDate": "2026-07-11T23:50:20+00:00"
-  },
-  {
-    "title": "Quoting Nilay Patel",
-    "link": "https://simonwillison.net/2026/Jul/10/nilay-patel/#atom-everything",
-    "pubDate": "2026-07-10T17:05:26+00:00"
-  },
-  {
-    "title": "Quoting OpenAI",
-    "link": "https://simonwillison.net/2026/Jul/10/openai/#atom-everything",
-    "pubDate": "2026-07-10T01:05:57+00:00"
-  },
-  {
-    "title": "The new GPT-5.6 family: Luna, Terra, Sol",
-    "link": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
-    "pubDate": "2026-07-09T19:46:38+00:00"
   }
 ]
