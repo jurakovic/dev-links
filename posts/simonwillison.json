@@ -1,5 +1,10 @@
 [
   {
+    "title": "datasette code-frequency chart on GitHub",
+    "link": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+    "pubDate": "2026-07-13T21:45:27+00:00"
+  },
+  {
     "title": "Directly Responsible Individuals (DRI)",
     "link": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
     "pubDate": "2026-07-12T23:57:14+00:00"
@@ -18,10 +23,5 @@
     "title": "sqlite-utils 4.1.1",
     "link": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
     "pubDate": "2026-07-12T20:55:30+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.1",
-    "link": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-    "pubDate": "2026-07-11T23:50:20+00:00"
   }
 ]
