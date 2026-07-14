@@ -1,5 +1,10 @@
 [
   {
+    "title": "Talking to Copilot like a caveman",
+    "link": "https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html",
+    "pubDate": "2026-07-14T05:42:00+00:00"
+  },
+  {
     "title": "Cache stampede: when our cache turned against us",
     "link": "https://bartwullems.blogspot.com/2026/07/cache-stampede-when-our-cache-turned.html",
     "pubDate": "2026-07-13T05:42:00+00:00"
@@ -18,10 +23,5 @@
     "title": "YARP and Aspire: \"https+http scheme is not supported\"",
     "link": "https://bartwullems.blogspot.com/2026/07/yarp-and-aspire-httpshttp-scheme-is-not.html",
     "pubDate": "2026-07-08T05:39:00+00:00"
-  },
-  {
-    "title": "The role of ActivitySource in OpenTelemetry for .NET",
-    "link": "https://bartwullems.blogspot.com/2026/07/the-role-of-activitysource-in.html",
-    "pubDate": "2026-07-07T05:20:00+00:00"
   }
 ]
