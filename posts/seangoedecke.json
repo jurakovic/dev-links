@@ -1,5 +1,10 @@
 [
   {
+    "title": "What does \"playing politics\" mean for software engineers?",
+    "link": "https://seangoedecke.com/playing-politics/",
+    "pubDate": "2026-07-14T16:01:34+00:00"
+  },
+  {
     "title": "In defense of not understanding your codebase",
     "link": "https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/",
     "pubDate": "2026-07-11T10:01:33+00:00"
@@ -18,10 +23,5 @@
     "title": "Text AI watermarks will always be trivial to remove",
     "link": "https://seangoedecke.com/text-ai-watermarks/",
     "pubDate": "2026-07-02T04:01:15+00:00"
-  },
-  {
-    "title": "Saying the obvious thing",
-    "link": "https://seangoedecke.com/saying-the-obvious-thing/",
-    "pubDate": "2026-06-27T16:03:21+00:00"
   }
 ]

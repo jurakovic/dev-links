@@ -1,5 +1,10 @@
 [
   {
+    "title": "DSLs Enable Reliable Use of LLMs",
+    "link": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "pubDate": "2026-07-14T12:51:00+00:00"
+  },
+  {
     "title": "Fragments: July 13",
     "link": "https://martinfowler.com/fragments/2026-07-13.html",
     "pubDate": "2026-07-13T16:06:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fragments: July  6",
     "link": "https://martinfowler.com/fragments/2026-07-06.html",
     "pubDate": "2026-07-06T12:53:00+00:00"
-  },
-  {
-    "title": "Building Reliable Agentic AI Systems",
-    "link": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "pubDate": "2026-06-16T12:11:00+00:00"
   }
 ]

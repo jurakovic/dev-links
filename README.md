@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-14 seangoedecke</small>  
+<small>[What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
+<small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-14 martinfowler</small>  
+<small>[DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-14 stackoverflow</small>  
 <small>[Your AI is only as responsible as you are](https://stackoverflow.blog/2026/07/14/your-ai-is-only-as-responsible-as-you-are/)</small>
 
@@ -244,9 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-29 netflix</small>  
 <small>[GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-28 techtrenches</small>  
-<small>[Europe Runs at Catastrophic Yield](https://techtrenches.dev/p/europe-runs-at-catastrophic-yield)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-28 pragmaticengineer</small>  
 <small>[Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)</small>
 
@@ -255,9 +261,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-06-27 devlead</small>  
 <small>[Template plus source package: my .NET console stack in 2026](https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-06-27 seangoedecke</small>  
-<small>[Saying the obvious thing](https://seangoedecke.com/saying-the-obvious-thing/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-26 third-bit</small>  
 <small>[Years Too Late](https://third-bit.com/2026/06/26/years-too-late/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-06-22 dbreunig</small>  
 <small>[The Problem is Prompt Debt](https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-06-22 paulhammant</small>  
-<small>[Cherry-pick Asymmetry](https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/)</small>
 
