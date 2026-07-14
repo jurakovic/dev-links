@@ -1,5 +1,20 @@
 [
   {
+    "title": ".NET and .NET Framework July 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/",
+    "pubDate": "2026-07-14T18:55:00+00:00"
+  },
+  {
+    "title": "CoreCLR Progress and the Mono Timeline for .NET MAUI",
+    "link": "https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/",
+    "pubDate": "2026-07-14T18:30:00+00:00"
+  },
+  {
+    "title": ".NET 11 Preview 6 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/",
+    "pubDate": "2026-07-14T17:45:00+00:00"
+  },
+  {
     "title": "Modernize .NET applications in the GitHub Copilot app",
     "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/",
     "pubDate": "2026-07-09T17:05:00+00:00"
@@ -8,20 +23,5 @@
     "title": "MCP Beyond the Chat Window: Build Diagnostics in CI",
     "link": "https://devblogs.microsoft.com/dotnet/mcp-build-diagnostics-workflows/",
     "pubDate": "2026-06-30T17:00:00+00:00"
-  },
-  {
-    "title": ".NET 8 and .NET 9 will reach End of Support on November 10, 2026",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/",
-    "pubDate": "2026-06-29T21:33:20+00:00"
-  },
-  {
-    "title": "SkiaSharp 4.0 is here: announcing the first stable release",
-    "link": "https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/",
-    "pubDate": "2026-06-29T21:00:00+00:00"
-  },
-  {
-    "title": "Packaging and Package Identity for .NET apps with WinApp CLI on Windows",
-    "link": "https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/",
-    "pubDate": "2026-06-29T17:00:00+00:00"
   }
 ]

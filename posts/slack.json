@@ -1,5 +1,10 @@
 [
   {
+    "title": "Shipyard: How We Built Slack’s Next-Generation EC2 Platform",
+    "link": "https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/",
+    "pubDate": "2026-07-14T16:10:08+00:00"
+  },
+  {
     "title": "Agentic Testing: Where Agents Fit in the E2E Testing Stack",
     "link": "https://slack.engineering/agentic-testing-where-agents-fit-in-the-e2e-testing-stack/",
     "pubDate": "2026-06-11T14:15:28+00:00"
@@ -18,10 +23,5 @@
     "title": "Managing context in long-run agentic applications",
     "link": "https://slack.engineering/managing-context-in-long-run-agentic-applications/",
     "pubDate": "2026-04-13T17:17:16+00:00"
-  },
-  {
-    "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
-    "link": "https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/",
-    "pubDate": "2026-03-31T17:00:39+00:00"
   }
 ]

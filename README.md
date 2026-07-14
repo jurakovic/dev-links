@@ -4,8 +4,38 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
+<small>[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
+<small>[.NET and .NET Framework July 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
+<small>[CoreCLR Progress and the Mono Timeline for .NET MAUI](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
+<small>[Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
+<small>[.NET 11 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 visualstudio</small>  
+<small>[Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio](https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-14 visualstudiomagazine</small>  
+<small>[Low-Coding in the Age of AI: Dataverse Embraces Copilot, Claude and Cursor](https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
+<small>[datasette 1.0a37](https://simonwillison.net/2026/Jul/14/datasette/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-07-14 slack</small>  
+<small>[Shipyard: How We Built Slack’s Next-Generation EC2 Platform](https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-14 seangoedecke</small>  
 <small>[What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 microsoft-sql-server</small>  
+<small>[SQL Server 2016 end of support is here: Plan your next steps](https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
 <small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
@@ -31,9 +61,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-13 visualstudio</small>  
 <small>[The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure](https://devblogs.microsoft.com/visualstudio/the-visual-studio-dev-test-benefit-freedom-to-build-test-and-experiment-in-azure/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-13 simonwillison</small>  
-<small>[datasette code-frequency chart on GitHub](https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-13 visualstudiomagazine</small>  
 <small>[Visual Studio Takes Aim at Copilot Billing Shock](https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx)</small>
 
@@ -46,11 +73,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-13 bartwullems</small>  
 <small>[Cache stampede: when our cache turned against us](https://bartwullems.blogspot.com/2026/07/cache-stampede-when-our-cache-turned.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
-<small>[Directly Responsible Individuals (DRI)](https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-12 simonwillison</small>  
-<small>[shot-scraper 1.11](https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-13 lucumr-pocoo</small>  
+<small>[The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-12 steven-giesel</small>  
 <small>[Set LogLevel of Blazor](https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec)</small>
@@ -131,7 +155,7 @@
 <small>[Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-07 stackoverflow</small>  
-<small>[Agent orchestration is so two-years ago](https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/)</small>
+<small>[Agent orchestration is so two years ago](https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
 <small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
@@ -205,9 +229,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
 <small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-06-30 visualstudiomagazine</small>  
-<small>[New GitHub Switch Limits Repo Issue Creation to Collaborators Only](https://visualstudiomagazine.com/articles/2026/06/30/github-extends-contribution-controls-from-prs-to-issues.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azure-sql</small>  
 <small>[Compose your API surface with Data API builder custom paths](https://devblogs.microsoft.com/azure-sql/data-api-builder-custom-rest-paths/)</small>
 
@@ -235,17 +256,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[Three Outlines](https://third-bit.com/2026/06/29/three-outlines/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
-<small>[.NET 8 and .NET 9 will reach End of Support on November 10, 2026](https://devblogs.microsoft.com/dotnet/dotnet-8-9-end-of-support/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
-<small>[SkiaSharp 4.0 is here: announcing the first stable release](https://devblogs.microsoft.com/dotnet/skiasharp-4-0-stable/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-06-29 ardalis</small>  
 <small>[Why Care About Agent Authored Code Quality](https://ardalis.com/why-care-about-agent-authored-code-quality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 dotnet</small>  
-<small>[Packaging and Package Identity for .NET apps with WinApp CLI on Windows](https://devblogs.microsoft.com/dotnet/packaging-dotnet-apps-winapp/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-29 visualstudio</small>  
 <small>[Automating your Visual Studio extension builds with GitHub Actions](https://devblogs.microsoft.com/visualstudio/automating-your-visual-studio-extension-builds-with-github-actions/)</small>
@@ -291,16 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-06-23 github-ai</small>  
 <small>[I automated my job (and it made me a better leader)](https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-23 andrewlock</small>  
-<small>[Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3](https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-23 netflix</small>  
-<small>[Toward More Controllable AI Video Editing: An Early Research Exploration at Netflix](https://netflixtechblog.com/toward-more-controllable-ai-video-editing-an-early-research-exploration-at-netflix-eb8160ed60a2?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-06-22 codinghorror</small>  
-<small>[Every Choice Changes Everything: The Show](https://blog.codinghorror.com/every-choice-changes-everything-the-show/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-06-22 dbreunig</small>  
-<small>[The Problem is Prompt Debt](https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html)</small>
 
