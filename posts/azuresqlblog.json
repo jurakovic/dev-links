@@ -1,5 +1,10 @@
 [
   {
+    "title": "Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939",
+    "pubDate": "2026-07-14T15:01:52+00:00"
+  },
+  {
     "title": "3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209",
     "pubDate": "2026-06-30T23:45:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Regex support for LOB types in T-SQL—available in Azure SQL & SQL Server 2025",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-support-for-lob-types-in-t-sql-available-in-azure-sql-sql/ba-p/4522396",
     "pubDate": "2026-05-22T20:28:26+00:00"
-  },
-  {
-    "title": "Automatic Connectivity Tests for Azure SQL Managed Instance",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/automatic-connectivity-tests-for-azure-sql-managed-instance/ba-p/4519795",
-    "pubDate": "2026-05-14T15:56:24+00:00"
   }
 ]

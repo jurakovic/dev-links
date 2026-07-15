@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
+<small>[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
+<small>[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
 <small>[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
@@ -34,8 +40,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-14 seangoedecke</small>  
 <small>[What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 microsoft-sql-server</small>  
-<small>[SQL Server 2016 end of support is here: Plan your next steps](https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 azuresqlblog</small>  
+<small>[Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
 <small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
@@ -49,14 +55,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-14 bartwullems</small>  
 <small>[Talking to Copilot like a caveman](https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
-<small>[Using uvx in GitHub Actions in a cache-friendly way](https://simonwillison.net/2026/Jul/14/uvx-github-actions-cache/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-13 netflix</small>  
 <small>[Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-13 simonwillison</small>  
-<small>[DOOMQL](https://simonwillison.net/2026/Jul/13/doomql/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-13 visualstudio</small>  
 <small>[The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure](https://devblogs.microsoft.com/visualstudio/the-visual-studio-dev-test-benefit-freedom-to-build-test-and-experiment-in-azure/)</small>
