@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 azure-sql</small>  
+<small>[MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-15 techtrenches</small>  
+<small>[We Pay You to Slow Us Down](https://techtrenches.dev/p/we-pay-you-to-slow-us-down)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-15 visualstudiomagazine</small>  
+<small>[.NET 11 Preview 6 Roundup: ASP.NET Core, MAUI, C#, EF Core and SDK Updates](https://visualstudiomagazine.com/articles/2026/07/15/net-11-preview-6-roundup-aspnet-core-maui-c-ef-core-and-sdk-updates.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-15 third-bit</small>  
 <small>[Recent Reading About LLMs](https://third-bit.com/2026/07/15/recent-reading-about-llms/)</small>
 
@@ -220,9 +229,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-02 addyosmani</small>  
 <small>[Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-01 visualstudiomagazine</small>  
-<small>[VS Code 1.127 Further Integrates Advanced Browser-AI Tech](https://visualstudiomagazine.com/articles/2026/07/01/vs-code-1-127-further-integrates-advanced-browser-ai-tech.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
 <small>[Audit Frontier AI Agents with SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/)</small>
 
@@ -243,9 +249,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 visualstudio</small>  
 <small>[Visual Studio June Update – Track Your Usage, Trust Your Tools](https://devblogs.microsoft.com/visualstudio/visual-studio-june-update-track-your-usage-trust-your-tools/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-06-30 techtrenches</small>  
-<small>[Green All the Way Down](https://techtrenches.dev/p/the-resilient-catastrophe-machine)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-30 andrewlock</small>  
 <small>[Closed class hierarchies: Exploring the .NET 11 preview - Part 4](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-06-23 sqlperformance</small>  
 <small>[Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability](https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-23 pragmaticengineer</small>  
-<small>[Reliability fail: No automated zone failover for Coinbase’s global trading service](https://blog.pragmaticengineer.com/coinbase-fail/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More",
+    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/",
+    "pubDate": "2026-07-15T17:42:31+00:00"
+  },
+  {
     "title": "Fundamentals of Azure DevOps with SQL projects",
     "link": "https://devblogs.microsoft.com/azure-sql/fundamentals-of-azure-devops-with-sql-projects/",
     "pubDate": "2026-07-02T13:54:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Compose your API surface with Data API builder custom paths",
     "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-custom-rest-paths/",
     "pubDate": "2026-06-30T19:38:31+00:00"
-  },
-  {
-    "title": "MSSQL Extension for VS Code: Azure SQL Database Provisioning and More",
-    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-june-2026/",
-    "pubDate": "2026-06-02T16:05:31+00:00"
   }
 ]
