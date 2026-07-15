@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pick, manage, and get the most from your models",
+    "link": "https://devblogs.microsoft.com/visualstudio/pick-manage-and-get-the-most-from-your-models/",
+    "pubDate": "2026-07-15T14:28:43+00:00"
+  },
+  {
     "title": "Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/",
     "pubDate": "2026-07-14T17:30:57+00:00"
@@ -18,10 +23,5 @@
     "title": "Automating your Visual Studio extension builds with GitHub Actions",
     "link": "https://devblogs.microsoft.com/visualstudio/automating-your-visual-studio-extension-builds-with-github-actions/",
     "pubDate": "2026-06-29T14:00:25+00:00"
-  },
-  {
-    "title": "Make Visual Studio look the way you want",
-    "link": "https://devblogs.microsoft.com/visualstudio/make-visual-studio-look-the-way-you-want/",
-    "pubDate": "2026-06-15T14:00:40+00:00"
   }
 ]

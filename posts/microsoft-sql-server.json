@@ -1,10 +1,5 @@
 [
   {
-    "title": "SQL Server 2016 end of support is here: Plan your next steps",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/",
-    "pubDate": "2026-07-14T16:00:00+00:00"
-  },
-  {
     "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
     "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
     "pubDate": "2026-03-18T12:45:00+00:00"
@@ -23,5 +18,10 @@
     "title": "One consistent SQL: The launchpad from legacy to innovation",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/11/18/one-consistent-sql-the-launchpad-from-legacy-to-innovation/",
     "pubDate": "2025-11-18T16:00:00+00:00"
+  },
+  {
+    "title": "Innovation spotlight: How 3 customers are driving change with migration to Azure SQL",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/10/20/innovation-spotlight-how-3-customers-are-driving-change-with-migration-to-azure-sql/",
+    "pubDate": "2025-10-20T16:00:00+00:00"
   }
 ]

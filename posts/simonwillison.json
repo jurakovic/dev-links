@@ -1,5 +1,10 @@
 [
   {
+    "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+    "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "pubDate": "2026-07-15T14:21:54+00:00"
+  },
+  {
     "title": "Quoting GitHub Changelog",
     "link": "https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything",
     "pubDate": "2026-07-14T22:43:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Armin Ronacher",
     "link": "https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything",
     "pubDate": "2026-07-14T18:04:23+00:00"
-  },
-  {
-    "title": "datasette 1.0a37",
-    "link": "https://simonwillison.net/2026/Jul/14/datasette/#atom-everything",
-    "pubDate": "2026-07-14T16:31:41+00:00"
   }
 ]
