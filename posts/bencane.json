@@ -1,5 +1,10 @@
 [
   {
+    "title": "Sometimes the most resilient thing a system can do isn’t retry",
+    "link": "https://bencane.com/posts/2026-07-16-compensating-transactions/",
+    "pubDate": "2026-07-16T10:01:47+00:00"
+  },
+  {
     "title": "Should retries and timeouts live in your application or your service mesh?",
     "link": "https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/",
     "pubDate": "2026-07-09T10:01:44+00:00"
@@ -18,10 +23,5 @@
     "title": "When modernizing legacy systems, don’t be afraid to build glue services",
     "link": "https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/",
     "pubDate": "2026-06-18T10:06:32+00:00"
-  },
-  {
-    "title": "Coding agents can’t see your architecture diagrams—fix that",
-    "link": "https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/",
-    "pubDate": "2026-06-11T10:01:10+00:00"
   }
 ]

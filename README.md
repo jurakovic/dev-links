@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-16 bencane</small>  
+<small>[Sometimes the most resilient thing a system can do isn’t retry](https://bencane.com/posts/2026-07-16-compensating-transactions/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-16 simonwillison</small>  
 <small>[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything)</small>
 
@@ -27,6 +30,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-15 simonwillison</small>  
 <small>[How I tricked Claude into leaking your deepest, darkest secrets](https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-15 addyosmani</small>  
+<small>[Own the Outer Loop](https://addyosmani.com/blog/own-the-outer-loop/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
 <small>[Quoting GitHub Changelog](https://simonwillison.net/2026/Jul/14/github-changeling/#atom-everything)</small>
@@ -69,6 +75,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-14 bartwullems</small>  
 <small>[Talking to Copilot like a caveman](https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-14 addyosmani</small>  
+<small>[Earning taste and judgment](https://addyosmani.com/blog/earning-judgment/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-13 netflix</small>  
 <small>[Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-06-24 sqlperformance</small>  
 <small>[Dealing With Explosive sysjobhistory Growth](https://sqlperformance.com/2026/06/t-sql-queries/explosive-sysjobhistory-growth)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-23 swizec</small>  
-<small>[You get what you hire](https://swizec.com/blog/you-get-what-you-hire/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-23 rickstrahl</small>  
-<small>[Creating Dual Use Windows GUI and Console Applications](https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-06-23 sqlperformance</small>  
-<small>[Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability](https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds)</small>
 
