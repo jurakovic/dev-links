@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-16 simonwillison</small>  
+<small>[Mermaid to Unicode box art (grok-mermaid)](https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-15 simonwillison</small>  
+<small>[xai-org/grok-build, now open source](https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/)</small>
 
@@ -28,17 +34,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
 <small>[simonw/pedalican](https://simonwillison.net/2026/Jul/14/pedalican/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
-<small>[lobste.rs is now running on SQLite](https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
 <small>[.NET and .NET Framework July 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
 <small>[CoreCLR Progress and the Mono Timeline for .NET MAUI](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-14 simonwillison</small>  
-<small>[Quoting Armin Ronacher](https://simonwillison.net/2026/Jul/14/armin-ronacher/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
 <small>[.NET 11 Preview 6 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-6/)</small>
