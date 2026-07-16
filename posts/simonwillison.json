@@ -1,5 +1,15 @@
 [
   {
+    "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+    "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+    "pubDate": "2026-07-16T20:19:30+00:00"
+  },
+  {
+    "title": "Quoting Thibault Sottiaux",
+    "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
+    "pubDate": "2026-07-16T17:45:59+00:00"
+  },
+  {
     "title": "Inkling: Our open-weights model",
     "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
     "pubDate": "2026-07-16T15:35:25+00:00"
@@ -13,15 +23,5 @@
     "title": "Mermaid to Unicode box art (grok-mermaid)",
     "link": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
     "pubDate": "2026-07-16T00:33:18+00:00"
-  },
-  {
-    "title": "xai-org/grok-build, now open source",
-    "link": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
-    "pubDate": "2026-07-15T23:59:30+00:00"
-  },
-  {
-    "title": "How I tricked Claude into leaking your deepest, darkest secrets",
-    "link": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-    "pubDate": "2026-07-15T14:21:54+00:00"
   }
 ]

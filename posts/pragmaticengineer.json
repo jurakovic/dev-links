@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/",
+    "pubDate": "2026-07-16T16:50:20+00:00"
+  },
+  {
     "title": "The Pulse: Interesting AI coding stats from Cursor",
     "link": "https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/",
     "pubDate": "2026-07-09T17:20:34+00:00"
@@ -18,10 +23,5 @@
     "title": "Reliability fail: No automated zone failover for Coinbase’s global trading service",
     "link": "https://blog.pragmaticengineer.com/coinbase-fail/",
     "pubDate": "2026-06-23T16:30:59+00:00"
-  },
-  {
-    "title": "The Pulse: a trend of trying to cut back on AI spend within eng departments?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-a-trend-of-trying-to-cut-back-on-ai-spend-within-eng-departments/",
-    "pubDate": "2026-06-11T16:31:42+00:00"
   }
 ]
