@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.129 Introduces Agent Host and Experimental Agents Window Editor",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/16/vs-code-1129-introduces-agent-host-and-experimental-agents-window-editor.aspx",
+    "pubDate": "2026-07-16T14:41:00+00:00"
+  },
+  {
     "title": ".NET 11 Preview 6 Roundup: ASP.NET Core, MAUI, C#, EF Core and SDK Updates",
     "link": "https://visualstudiomagazine.com/articles/2026/07/15/net-11-preview-6-roundup-aspnet-core-maui-c-ef-core-and-sdk-updates.aspx",
     "pubDate": "2026-07-15T16:13:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude AI Gets Yet Another Boost in VS Code 1.128",
     "link": "https://visualstudiomagazine.com/articles/2026/07/08/claude-ai-gets-yet-another-boost-in-vs-code-1-128.aspx",
     "pubDate": "2026-07-08T18:11:00+00:00"
-  },
-  {
-    "title": "TypeScript 7 Arrives to Rock VS Code with Go-Powered Speed",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/08/typescript-7-arrives-to-rock-vs-code-with-go-powered-speed.aspx",
-    "pubDate": "2026-07-08T17:38:00+00:00"
   }
 ]

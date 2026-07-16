@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Administrator? Join our Private Marketplace Preview!",
+    "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-administrator-join-our-private-marketplace-preview/",
+    "pubDate": "2026-07-16T14:00:58+00:00"
+  },
+  {
     "title": "Pick, manage, and get the most from your models",
     "link": "https://devblogs.microsoft.com/visualstudio/pick-manage-and-get-the-most-from-your-models/",
     "pubDate": "2026-07-15T14:28:43+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio June Update – Track Your Usage, Trust Your Tools",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-june-update-track-your-usage-trust-your-tools/",
     "pubDate": "2026-06-30T16:00:45+00:00"
-  },
-  {
-    "title": "Automating your Visual Studio extension builds with GitHub Actions",
-    "link": "https://devblogs.microsoft.com/visualstudio/automating-your-visual-studio-extension-builds-with-github-actions/",
-    "pubDate": "2026-06-29T14:00:25+00:00"
   }
 ]

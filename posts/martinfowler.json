@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Archaeologist’s Copilot",
+    "link": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "pubDate": "2026-07-16T13:25:00+00:00"
+  },
+  {
     "title": "DSLs Enable Reliable Use of LLMs",
     "link": "https://martinfowler.com/articles/llm-and-dsls.html",
     "pubDate": "2026-07-14T12:51:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Viability of local models for coding",
     "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
     "pubDate": "2026-07-07T12:34:00+00:00"
-  },
-  {
-    "title": "Fragments: July  6",
-    "link": "https://martinfowler.com/fragments/2026-07-06.html",
-    "pubDate": "2026-07-06T12:53:00+00:00"
   }
 ]
