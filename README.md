@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-17 simonwillison</small>  
+<small>[Quoting Kimi K3](https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-17 stackoverflow</small>  
 <small>[Developers who move fast still need to do it together](https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/)</small>
 
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-16 pragmaticengineer</small>  
 <small>[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-16 simonwillison</small>  
-<small>[Inkling: Our open-weights model](https://simonwillison.net/2026/Jul/16/inkling/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-16 visualstudiomagazine</small>  
 <small>[VS Code 1.129 Introduces Agent Host and Experimental Agents Window Editor](https://visualstudiomagazine.com/articles/2026/07/16/vs-code-1129-introduces-agent-host-and-experimental-agents-window-editor.aspx)</small>

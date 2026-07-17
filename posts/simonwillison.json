@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Kimi K3",
+    "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+    "pubDate": "2026-07-17T13:43:53+00:00"
+  },
+  {
     "title": "Spot birds not golf",
     "link": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
     "pubDate": "2026-07-17T02:58:07+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Thibault Sottiaux",
     "link": "https://simonwillison.net/2026/Jul/16/bad-codex-bug/#atom-everything",
     "pubDate": "2026-07-16T17:45:59+00:00"
-  },
-  {
-    "title": "Inkling: Our open-weights model",
-    "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-    "pubDate": "2026-07-16T15:35:25+00:00"
   }
 ]
