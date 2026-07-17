@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-17 stackoverflow</small>  
+<small>[Developers who move fast still need to do it together](https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-17 simonwillison</small>  
 <small>[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything)</small>
 
@@ -207,9 +210,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-06 techtrenches</small>  
 <small>[Dario Altman](https://techtrenches.dev/p/dario-altman)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-06 stackoverflow</small>  
-<small>[When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection](https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-06 seangoedecke</small>  
 <small>[C2PA only works if everything is signed](https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/)</small>

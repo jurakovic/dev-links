@@ -1,5 +1,10 @@
 [
   {
+    "title": "Developers who move fast still need to do it together",
+    "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
+    "pubDate": "2026-07-17T07:40:00+00:00"
+  },
+  {
     "title": "Your AI is only as responsible as you are",
     "link": "https://stackoverflow.blog/2026/07/14/your-ai-is-only-as-responsible-as-you-are/",
     "pubDate": "2026-07-14T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agent orchestration is so two years ago",
     "link": "https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/",
     "pubDate": "2026-07-07T07:40:00+00:00"
-  },
-  {
-    "title": "When the sensor starts thinking: SnortML, agentic AI, and the evolving architecture of intrusion detection",
-    "link": "https://stackoverflow.blog/2026/07/06/when-the-sensor-starts-thinking-snortml-agentic-ai-and-the-evolving-architecture-of-intrusion-detection/",
-    "pubDate": "2026-07-06T15:23:34+00:00"
   }
 ]
