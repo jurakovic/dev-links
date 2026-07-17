@@ -1,5 +1,15 @@
 [
   {
+    "title": "Spot birds not golf",
+    "link": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
+    "pubDate": "2026-07-17T02:58:07+00:00"
+  },
+  {
+    "title": "Firefox in WebAssembly",
+    "link": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+    "pubDate": "2026-07-16T23:34:16+00:00"
+  },
+  {
     "title": "Kimi K3, and what we can still learn from the pelican benchmark",
     "link": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
     "pubDate": "2026-07-16T20:19:30+00:00"
@@ -13,15 +23,5 @@
     "title": "Inkling: Our open-weights model",
     "link": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
     "pubDate": "2026-07-16T15:35:25+00:00"
-  },
-  {
-    "title": "Quoting Linus Torvalds",
-    "link": "https://simonwillison.net/2026/Jul/16/linus-torvalds/#atom-everything",
-    "pubDate": "2026-07-16T13:26:10+00:00"
-  },
-  {
-    "title": "Mermaid to Unicode box art (grok-mermaid)",
-    "link": "https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything",
-    "pubDate": "2026-07-16T00:33:18+00:00"
   }
 ]
