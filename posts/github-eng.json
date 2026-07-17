@@ -1,5 +1,10 @@
 [
   {
+    "title": "The cost of saying yes has changed",
+    "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+    "pubDate": "2026-07-17T16:46:47+00:00"
+  },
+  {
     "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
     "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
     "pubDate": "2026-07-10T15:57:47+00:00"
@@ -18,10 +23,5 @@
     "title": "How GitHub uses eBPF to improve deployment safety",
     "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
     "pubDate": "2026-04-16T16:00:00+00:00"
-  },
-  {
-    "title": "The uphill climb of making diff lines performant",
-    "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-    "pubDate": "2026-04-03T16:00:00+00:00"
   }
 ]

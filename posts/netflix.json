@@ -1,5 +1,10 @@
 [
   {
+    "title": "In-House LLM Serving at Netflix",
+    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-07-17T21:32:39+00:00"
+  },
+  {
     "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
     "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
     "pubDate": "2026-07-13T22:44:11+00:00"
@@ -18,10 +23,5 @@
     "title": "How Netflix Simplified Batch Compute with Kueue",
     "link": "https://netflixtechblog.com/how-netflix-simplified-batch-compute-with-kueue-87860682629c?source=rss----2615bd06b42e---4",
     "pubDate": "2026-06-22T21:35:01+00:00"
-  },
-  {
-    "title": "The Data Canary: How Netflix Validates Catalog Metadata",
-    "link": "https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-06-19T23:54:17+00:00"
   }
 ]
