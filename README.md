@@ -97,9 +97,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-14 seangoedecke</small>  
 <small>[What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 microsoft-sql-server</small>  
-<small>[SQL Server 2016 end of support is here: Plan your next steps](https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 azuresqlblog</small>  
 <small>[Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939)</small>
 
@@ -303,4 +300,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-27 swizec</small>  
 <small>[Using vibes to rewrite my blog](https://swizec.com/blog/using-vibes-to-rewrite-my-blog/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-06-27 devlead</small>  
+<small>[Template plus source package: my .NET console stack in 2026](https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026)</small>
 
