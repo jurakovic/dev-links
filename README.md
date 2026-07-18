@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-18 third-bit</small>  
+<small>[Disruptive Behaviors](https://third-bit.com/2026/07/18/disruptive-behaviors/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
+<small>[SQLite Query Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
 <small>[Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)</small>
 
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-17 stackoverflow</small>  
 <small>[Developers who move fast still need to do it together](https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-17 simonwillison</small>  
-<small>[Spot birds not golf](https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-16 visualstudiomagazine</small>  
 <small>[Copilot Usage-Based Billing Gets a Token Dashboard](https://visualstudiomagazine.com/articles/2026/07/16/copilot-usage-based-billing-gets-a-token-dashboard.aspx)</small>
@@ -96,6 +99,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-14 seangoedecke</small>  
 <small>[What does "playing politics" mean for software engineers?](https://seangoedecke.com/playing-politics/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 microsoft-sql-server</small>  
+<small>[SQL Server 2016 end of support is here: Plan your next steps](https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 azuresqlblog</small>  
 <small>[Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-06-28 pragmaticengineer</small>  
 <small>[Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-06-27 swizec</small>  
-<small>[Using vibes to rewrite my blog](https://swizec.com/blog/using-vibes-to-rewrite-my-blog/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-06-27 devlead</small>  
-<small>[Template plus source package: my .NET console stack in 2026](https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026)</small>
 

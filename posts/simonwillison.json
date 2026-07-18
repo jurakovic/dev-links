@@ -1,5 +1,10 @@
 [
   {
+    "title": "SQLite Query Explainer",
+    "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+    "pubDate": "2026-07-18T17:19:10+00:00"
+  },
+  {
     "title": "Claude make Fable 5 permanent",
     "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
     "pubDate": "2026-07-18T06:00:13+00:00"
@@ -18,10 +23,5 @@
     "title": "LLM cliché highlighter",
     "link": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
     "pubDate": "2026-07-17T12:11:11+00:00"
-  },
-  {
-    "title": "Spot birds not golf",
-    "link": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf/#atom-everything",
-    "pubDate": "2026-07-17T02:58:07+00:00"
   }
 ]
