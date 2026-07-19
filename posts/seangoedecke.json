@@ -1,5 +1,10 @@
 [
   {
+    "title": "Impro is a handbook for running a cult",
+    "link": "https://seangoedecke.com/impro/",
+    "pubDate": "2026-07-19T04:01:25+00:00"
+  },
+  {
     "title": "Overtraining as the path to human-like AI",
     "link": "https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
     "pubDate": "2026-07-18T04:01:13+00:00"
@@ -18,10 +23,5 @@
     "title": "Blog about things you don't understand yet",
     "link": "https://seangoedecke.com/blog-about-things-you-dont-understand-yet/",
     "pubDate": "2026-07-07T10:01:26+00:00"
-  },
-  {
-    "title": "C2PA only works if everything is signed",
-    "link": "https://seangoedecke.com/c2pa-only-works-if-everything-is-signed/",
-    "pubDate": "2026-07-06T10:01:29+00:00"
   }
 ]
