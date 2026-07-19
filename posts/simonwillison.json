@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
+    "pubDate": "2026-07-19T05:06:21+00:00"
+  },
+  {
+    "title": "Claude Code uses Bun written in Rust now",
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
+    "pubDate": "2026-07-19T03:54:09+00:00"
+  },
+  {
     "title": "SQLite Query Explainer",
     "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
     "pubDate": "2026-07-18T17:19:10+00:00"
@@ -13,15 +23,5 @@
     "title": "nascheme/quixote",
     "link": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
     "pubDate": "2026-07-18T05:27:49+00:00"
-  },
-  {
-    "title": "Quoting Kimi K3",
-    "link": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
-    "pubDate": "2026-07-17T13:43:53+00:00"
-  },
-  {
-    "title": "LLM cliché highlighter",
-    "link": "https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything",
-    "pubDate": "2026-07-17T12:11:11+00:00"
   }
 ]
