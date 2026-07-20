@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 paulhammant</small>  
+<small>[Build-time AI vs Run-time AI](https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-20 simonwillison</small>  
 <small>[Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything)</small>
 
@@ -151,9 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-12 steven-giesel</small>  
 <small>[Set LogLevel of Blazor](https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
-<small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
 <small>[Generated and suppressed demand.](https://lethain.com/generated-demand/)</small>
 
@@ -165,6 +165,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-11 seangoedecke</small>  
 <small>[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
+<small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-10 github-ai</small>  
 <small>[Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)</small>
@@ -226,14 +229,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
 <small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-06 swizec</small>  
-<small>[Theory of constraints, AI, and code review](https://swizec.com/blog/theory-of-constraints-ai-and-code-review/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-06 techtrenches</small>  
 <small>[Dario Altman](https://techtrenches.dev/p/dario-altman)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-07-06 developertoarchitect</small>  
 <small>[Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)](http://www.developertoarchitect.com/lessons/lesson221.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-06 swizec</small>  
+<small>[Theory of constraints, AI, and code review](https://swizec.com/blog/theory-of-constraints-ai-and-code-review)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-05 third-bit</small>  
 <small>[Now What? A Workshop on Error Handling](https://third-bit.com/2026/07/05/now-what/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-06-29 ardalis</small>  
 <small>[Why Care About Agent Authored Code Quality](https://ardalis.com/why-care-about-agent-authored-code-quality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-06-29 netflix</small>  
-<small>[GenPage: Towards End-to-End Generative Homepage Construction at Netflix](https://netflixtechblog.com/genpage-towards-end-to-end-generative-homepage-construction-at-netflix-77146fba8a08?source=rss----2615bd06b42e---4)</small>
 
