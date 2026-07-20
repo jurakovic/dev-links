@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Sam Altman",
+    "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
+    "pubDate": "2026-07-20T03:47:59+00:00"
+  },
+  {
     "title": "AI Mania Is Eviscerating Global Decision-Making",
     "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
     "pubDate": "2026-07-19T05:06:21+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude make Fable 5 permanent",
     "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
     "pubDate": "2026-07-18T06:00:13+00:00"
-  },
-  {
-    "title": "nascheme/quixote",
-    "link": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
-    "pubDate": "2026-07-18T05:27:49+00:00"
   }
 ]

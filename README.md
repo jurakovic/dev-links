@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-20 simonwillison</small>  
+<small>[Quoting Sam Altman](https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-19 steven-giesel</small>  
 <small>[Adding static getter thanks to extensions](https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56)</small>
 
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
 <small>[Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
-<small>[nascheme/quixote](https://simonwillison.net/2026/Jul/18/quixote/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-18 seangoedecke</small>  
 <small>[Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/)</small>
