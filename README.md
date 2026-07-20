@@ -4,8 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-20 simonwillison</small>  
+<small>[Reverse-engineering is cheap now](https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-20 visualstudiomagazine</small>  
+<small>[Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools](https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-20 techtrenches</small>  
+<small>[Five Little Pigs](https://techtrenches.dev/p/five-little-pigs)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-20 simonwillison</small>  
+<small>[Who’s Afraid of Chinese Models?](https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-20 azure-sql</small>  
+<small>[T-SQL Hygiene: Introducing the Covering Index](https://devblogs.microsoft.com/azure-sql/tsql-covering-index/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-07-20 haacked</small>  
 <small>[Sign Commits from Anywhere Without Your Keys Going Anywhere](https://haacked.com/archive/2026/07/20/remote-commit-signing/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-20 azuresqlblog</small>  
+<small>[Recently released: Updates to SQL projects in SSMS, VS Code, and SqlPackage](https://techcommunity.microsoft.com/t5/azure-sql-blog/recently-released-updates-to-sql-projects-in-ssms-vs-code-and/ba-p/4538341)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 paulhammant</small>  
 <small>[Build-time AI vs Run-time AI](https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/)</small>
@@ -27,12 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-18 third-bit</small>  
 <small>[Disruptive Behaviors](https://third-bit.com/2026/07/18/disruptive-behaviors/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
-<small>[SQLite Query Explainer](https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-18 simonwillison</small>  
-<small>[Claude make Fable 5 permanent](https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-18 seangoedecke</small>  
 <small>[Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/)</small>
@@ -138,9 +150,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-13 visualstudio</small>  
 <small>[The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure](https://devblogs.microsoft.com/visualstudio/the-visual-studio-dev-test-benefit-freedom-to-build-test-and-experiment-in-azure/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-13 visualstudiomagazine</small>  
-<small>[Visual Studio Takes Aim at Copilot Billing Shock](https://visualstudiomagazine.com/articles/2026/07/13/visual-studio-takes-aim-at-copilot-billing-shock.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-13 martinfowler</small>  
 <small>[Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html)</small>
@@ -256,9 +265,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-02 pragmaticengineer</small>  
 <small>[The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-02 techtrenches</small>  
-<small>[AI Finds the Holes. Only Your Engineers Can Tell Which Ones Are Real.](https://techtrenches.dev/p/ai-finds-the-holes-only-your-engineers)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-02 jimmybogard</small>  
 <small>[AutoMapper 16.2.0 and MediatR 14.2.0 Released](https://www.jimmybogard.com/automapper-16-2-0-and-mediatr-14-2-0-released/)</small>
 
@@ -276,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
 <small>[Audit Frontier AI Agents with SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
-<small>[What’s new across Microsoft SQL in 2026 so far (SQL Server, Azure SQL, and SQL database in Fabric)](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-sql-server-azure-sql-and-sql-database-in-fabric/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-01 steven-giesel</small>  
 <small>[LinkedIn - What a dumbster fire](https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[A Modest Proposal](https://third-bit.com/2026/06/29/a-modest-proposal/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
-<small>[Three Outlines](https://third-bit.com/2026/06/29/three-outlines/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Reverse-engineering is cheap now",
+    "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
+    "pubDate": "2026-07-20T19:24:05+00:00"
+  },
+  {
+    "title": "Who’s Afraid of Chinese Models?",
+    "link": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything",
+    "pubDate": "2026-07-20T17:09:19+00:00"
+  },
+  {
     "title": "Quoting Sam Altman",
     "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
     "pubDate": "2026-07-20T03:47:59+00:00"
@@ -13,15 +23,5 @@
     "title": "Claude Code uses Bun written in Rust now",
     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
     "pubDate": "2026-07-19T03:54:09+00:00"
-  },
-  {
-    "title": "SQLite Query Explainer",
-    "link": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-    "pubDate": "2026-07-18T17:19:10+00:00"
-  },
-  {
-    "title": "Claude make Fable 5 permanent",
-    "link": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-    "pubDate": "2026-07-18T06:00:13+00:00"
   }
 ]
