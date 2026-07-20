@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-07-20 haacked</small>  
+<small>[Sign Commits from Anywhere Without Your Keys Going Anywhere](https://haacked.com/archive/2026/07/20/remote-commit-signing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 paulhammant</small>  
 <small>[Build-time AI vs Run-time AI](https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-06-29 third-bit</small>  
 <small>[Three Outlines](https://third-bit.com/2026/06/29/three-outlines/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-06-29 ardalis</small>  
-<small>[Why Care About Agent Authored Code Quality](https://ardalis.com/why-care-about-agent-authored-code-quality/)</small>
 
