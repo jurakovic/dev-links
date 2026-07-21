@@ -1,5 +1,10 @@
 [
   {
+    "title": "The future of development is full-stack",
+    "link": "https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/",
+    "pubDate": "2026-07-21T04:01:11+00:00"
+  },
+  {
     "title": "Developers who move fast still need to do it together",
     "link": "https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/",
     "pubDate": "2026-07-17T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "What's left for infrastructure-as-code after AI moves in?",
     "link": "https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/",
     "pubDate": "2026-07-08T04:40:00+00:00"
-  },
-  {
-    "title": "Agent orchestration is so two years ago",
-    "link": "https://stackoverflow.blog/2026/07/07/agent-orchestration-is-so-two-years-ago/",
-    "pubDate": "2026-07-07T07:40:00+00:00"
   }
 ]

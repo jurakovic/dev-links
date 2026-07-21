@@ -1,5 +1,10 @@
 [
   {
+    "title": "Software Factories, Light and Dark",
+    "link": "https://addyosmani.com/blog/software-factories/",
+    "pubDate": "2026-07-20T00:00:00+00:00"
+  },
+  {
     "title": "Own the Outer Loop",
     "link": "https://addyosmani.com/blog/own-the-outer-loop/",
     "pubDate": "2026-07-15T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Agentic Autonomy Levels",
     "link": "https://addyosmani.com/blog/agentic-autonomy-levels/",
     "pubDate": "2026-07-02T00:00:00+00:00"
-  },
-  {
-    "title": "The New Software Lifecycle",
-    "link": "https://addyosmani.com/blog/new-sdlc-vibe-coding/",
-    "pubDate": "2026-06-16T00:00:00+00:00"
   }
 ]
