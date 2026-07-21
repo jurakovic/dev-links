@@ -1,5 +1,15 @@
 [
   {
+    "title": "Nativ: Run AI models locally on your Mac",
+    "link": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+    "pubDate": "2026-07-21T14:22:27+00:00"
+  },
+  {
+    "title": "A Fireside Chat with Cat and Thariq from the Claude Code team",
+    "link": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
+    "pubDate": "2026-07-21T12:54:02+00:00"
+  },
+  {
     "title": "Reverse-engineering is cheap now",
     "link": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
     "pubDate": "2026-07-20T19:24:05+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Sam Altman",
     "link": "https://simonwillison.net/2026/Jul/20/sam-altman/#atom-everything",
     "pubDate": "2026-07-20T03:47:59+00:00"
-  },
-  {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "link": "https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything",
-    "pubDate": "2026-07-19T05:06:21+00:00"
-  },
-  {
-    "title": "Claude Code uses Bun written in Rust now",
-    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything",
-    "pubDate": "2026-07-19T03:54:09+00:00"
   }
 ]

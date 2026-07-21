@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-21 swizec</small>  
+<small>[swizec.com is now on TimberJS, a new React framework](https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
+<small>[Respect](https://third-bit.com/2026/07/21/respect/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-21 github-ai</small>  
+<small>[How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-21 simonwillison</small>  
+<small>[Nativ: Run AI models locally on your Mac](https://simonwillison.net/2026/Jul/21/nativ/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-21 martinfowler</small>  
+<small>[Fragments: July 21](https://martinfowler.com/fragments/2026-07-21.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-21 simonwillison</small>  
+<small>[A Fireside Chat with Cat and Thariq from the Claude Code team](https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-21 stackoverflow</small>  
 <small>[The future of development is full-stack](https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/)</small>
 
@@ -43,14 +61,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-19 steven-giesel</small>  
 <small>[Adding static getter thanks to extensions](https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-19 simonwillison</small>  
-<small>[AI Mania Is Eviscerating Global Decision-Making](https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-19 seangoedecke</small>  
 <small>[Impro is a handbook for running a cult](https://seangoedecke.com/impro/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-19 simonwillison</small>  
-<small>[Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-18 third-bit</small>  
 <small>[Disruptive Behaviors](https://third-bit.com/2026/07/18/disruptive-behaviors/)</small>
@@ -235,9 +247,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-08 stackoverflow</small>  
 <small>[What's left for infrastructure-as-code after AI moves in?](https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-07 martinfowler</small>  
-<small>[Viability of local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-07 seangoedecke</small>  
 <small>[Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/)</small>
 
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
 <small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 visualstudio</small>  
-<small>[Visual Studio June Update – Track Your Usage, Trust Your Tools](https://devblogs.microsoft.com/visualstudio/visual-studio-june-update-track-your-usage-trust-your-tools/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-06-30 andrewlock</small>  
-<small>[Closed class hierarchies: Exploring the .NET 11 preview - Part 4](https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-06-30 rickstrahl</small>  
-<small>[Getting Inherited Controller Routes to work in ASP.NET Core](https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "swizec.com is now on TimberJS, a new React framework",
+    "link": "https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework",
+    "pubDate": "2026-07-21T16:01:23+00:00"
+  },
+  {
     "title": "The one thing every experienced engineer gets wrong",
     "link": "https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong",
     "pubDate": "2026-07-11T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "You get what you hire",
     "link": "https://swizec.com/blog/you-get-what-you-hire",
     "pubDate": "2026-06-23T00:00:00+00:00"
-  },
-  {
-    "title": "Code is the easy part, or how we refactored half the business to fix a janky script",
-    "link": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script",
-    "pubDate": "2026-06-17T00:00:00+00:00"
   }
 ]
