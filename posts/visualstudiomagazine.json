@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx",
+    "pubDate": "2026-07-21T17:50:00+00:00"
+  },
+  {
     "title": "Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools",
     "link": "https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx",
     "pubDate": "2026-07-20T18:01:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 6 Roundup: ASP.NET Core, MAUI, C#, EF Core and SDK Updates",
     "link": "https://visualstudiomagazine.com/articles/2026/07/15/net-11-preview-6-roundup-aspnet-core-maui-c-ef-core-and-sdk-updates.aspx",
     "pubDate": "2026-07-15T16:13:00+00:00"
-  },
-  {
-    "title": "Low-Coding in the Age of AI: Dataverse Embraces Copilot, Claude and Cursor",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/14/low-coding-in-the-age-of-ai-dataverse-embraces-copilot-claude-and-cursor.aspx",
-    "pubDate": "2026-07-14T17:25:00+00:00"
   }
 ]
