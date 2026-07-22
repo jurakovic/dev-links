@@ -1,5 +1,10 @@
 [
   {
+    "title": "Not just development, distribution of software may change as well",
+    "link": "http://antirez.com/news/170",
+    "pubDate": "2026-07-22T14:52:39+00:00"
+  },
+  {
     "title": "Control the ideas, not the code",
     "link": "http://antirez.com/news/169",
     "pubDate": "2026-07-13T11:39:52+00:00"
@@ -18,10 +23,5 @@
     "title": "Alternatives for the EDIT tool of LLM agents",
     "link": "http://antirez.com/news/166",
     "pubDate": "2026-05-19T07:26:03+00:00"
-  },
-  {
-    "title": "A few words on DS4",
-    "link": "http://antirez.com/news/165",
-    "pubDate": "2026-05-14T22:22:45+00:00"
   }
 ]

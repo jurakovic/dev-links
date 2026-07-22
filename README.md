@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-22 antirez</small>  
+<small>[Not just development, distribution of software may change as well](http://antirez.com/news/170)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-21 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth](https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-01 steven-giesel</small>  
 <small>[LinkedIn - What a dumbster fire](https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-06-30 azuresqlblog</small>  
-<small>[3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them](https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209)</small>
 
