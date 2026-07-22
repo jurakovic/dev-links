@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-22 github-ai</small>  
+<small>[Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-22 visualstudiomagazine</small>  
+<small>[Microsoft Agent Framework Makeover: Claws, Loops and Harnesses](https://visualstudiomagazine.com/articles/2026/07/22/microsoft-agent-framework-makeover-claws-loops-and-harnesses.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-22 antirez</small>  
 <small>[Not just development, distribution of software may change as well](http://antirez.com/news/170)</small>
 
@@ -117,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-15 techtrenches</small>  
 <small>[We Pay You to Slow Us Down](https://techtrenches.dev/p/we-pay-you-to-slow-us-down)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-15 visualstudiomagazine</small>  
-<small>[.NET 11 Preview 6 Roundup: ASP.NET Core, MAUI, C#, EF Core and SDK Updates](https://visualstudiomagazine.com/articles/2026/07/15/net-11-preview-6-roundup-aspnet-core-maui-c-ef-core-and-sdk-updates.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-15 third-bit</small>  
 <small>[Recent Reading About LLMs](https://third-bit.com/2026/07/15/recent-reading-about-llms/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
 <small>[Audit Frontier AI Agents with SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-01 steven-giesel</small>  
-<small>[LinkedIn - What a dumbster fire](https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523)</small>
 

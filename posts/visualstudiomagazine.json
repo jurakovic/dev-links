@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Agent Framework Makeover: Claws, Loops and Harnesses",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/22/microsoft-agent-framework-makeover-claws-loops-and-harnesses.aspx",
+    "pubDate": "2026-07-22T17:46:00+00:00"
+  },
+  {
     "title": "Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth",
     "link": "https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx",
     "pubDate": "2026-07-21T17:50:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code 1.129 Introduces Agent Host and Experimental Agents Window Editor",
     "link": "https://visualstudiomagazine.com/articles/2026/07/16/vs-code-1129-introduces-agent-host-and-experimental-agents-window-editor.aspx",
     "pubDate": "2026-07-16T14:41:00+00:00"
-  },
-  {
-    "title": ".NET 11 Preview 6 Roundup: ASP.NET Core, MAUI, C#, EF Core and SDK Updates",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/15/net-11-preview-6-roundup-aspnet-core-maui-c-ef-core-and-sdk-updates.aspx",
-    "pubDate": "2026-07-15T16:13:00+00:00"
   }
 ]
