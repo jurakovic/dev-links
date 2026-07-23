@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
+<small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-23 simonwillison</small>  
+<small>[Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-22 simonwillison</small>  
 <small>[Quoting Thomas Ptacek](https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything)</small>
 
@@ -24,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-22 simonwillison</small>  
 <small>[Orchestrions](https://simonwillison.net/2026/Jul/22/all-the-orchestrions/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-21 simonwillison</small>  
-<small>[California Sea Lion](https://simonwillison.net/2026/Jul/21/sighting-383713864/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-21 visualstudiomagazine</small>  
 <small>[Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth](https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-02 addyosmani</small>  
 <small>[Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-01 azure-sql</small>  
-<small>[Audit Frontier AI Agents with SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/)</small>
 
