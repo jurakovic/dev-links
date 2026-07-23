@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-23 visualstudiomagazine</small>  
+<small>[VS Code 1.130 Expands Agent Host and Review Tools](https://visualstudiomagazine.com/articles/2026/07/23/vs-code-1-130-expands-agent-host-and-review-tools.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-23 jimmybogard</small>  
+<small>[Vertical Slice Architecture Webinar](https://www.jimmybogard.com/vertical-slice-architecture-webinar/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-23 pragmaticengineer</small>  
+<small>[The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-23 seangoedecke</small>  
 <small>[Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)</small>
 
@@ -114,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-16 pragmaticengineer</small>  
 <small>[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-16 visualstudiomagazine</small>  
-<small>[VS Code 1.129 Introduces Agent Host and Experimental Agents Window Editor](https://visualstudiomagazine.com/articles/2026/07/16/vs-code-1129-introduces-agent-host-and-experimental-agents-window-editor.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 visualstudio</small>  
 <small>[Visual Studio Administrator? Join our Private Marketplace Preview!](https://devblogs.microsoft.com/visualstudio/visual-studio-administrator-join-our-private-marketplace-preview/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-02 azure-sql</small>  
 <small>[Fundamentals of Azure DevOps with SQL projects](https://devblogs.microsoft.com/azure-sql/fundamentals-of-azure-devops-with-sql-projects/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 bencane</small>  
-<small>[Need to migrate from one database to another without downtime?](https://bencane.com/posts/2026-07-02-dual-writes-database-migration/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 paulhammant</small>  
-<small>[Google-style DAG build systems (with Aether Build)](https://paulhammant.com/2026/07/02/google-style-dag-build-systems/)</small>
 
