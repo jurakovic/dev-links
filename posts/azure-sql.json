@@ -1,5 +1,10 @@
 [
   {
+    "title": "Build locally, ship to Azure: meet Azure SQL Developer",
+    "link": "https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/",
+    "pubDate": "2026-07-23T15:00:27+00:00"
+  },
+  {
     "title": "T-SQL Hygiene: Introducing the Covering Index",
     "link": "https://devblogs.microsoft.com/azure-sql/tsql-covering-index/",
     "pubDate": "2026-07-20T17:00:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Fundamentals of Azure DevOps with SQL projects",
     "link": "https://devblogs.microsoft.com/azure-sql/fundamentals-of-azure-devops-with-sql-projects/",
     "pubDate": "2026-07-02T13:54:53+00:00"
-  },
-  {
-    "title": "Audit Frontier AI Agents with SQL MCP Server",
-    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-obo-auth/",
-    "pubDate": "2026-07-01T20:02:11+00:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-23 seangoedecke</small>  
+<small>[Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
+<small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
 <small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
 
@@ -256,9 +262,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-08 stackoverflow</small>  
 <small>[What's left for infrastructure-as-code after AI moves in?](https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-07 seangoedecke</small>  
-<small>[Blog about things you don't understand yet](https://seangoedecke.com/blog-about-things-you-dont-understand-yet/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-07 andrewlock</small>  
 <small>[Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-02 paulhammant</small>  
 <small>[Google-style DAG build systems (with Aether Build)](https://paulhammant.com/2026/07/02/google-style-dag-build-systems/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-02 addyosmani</small>  
-<small>[Agentic Autonomy Levels](https://addyosmani.com/blog/agentic-autonomy-levels/)</small>
 
