@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-24 lucumr-pocoo</small>  
+<small>[Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-24 seangoedecke</small>  
+<small>[LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
+<small>[No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
 <small>[Partnerships can keep open source sustainable](https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/)</small>
 
@@ -27,6 +36,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
 <small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azuresqlblog</small>  
+<small>[Regex-based dynamic data masking in Azure SQL Database (preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-23 simonwillison</small>  
 <small>[Quoting Seth Larson](https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything)</small>
@@ -220,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-07-11 jonskeet</small>  
 <small>[Forking an open source project](https://codeblog.jonskeet.uk/2026/07/11/forking-an-open-source-project/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-11 seangoedecke</small>  
-<small>[In defense of not understanding your codebase](https://seangoedecke.com/in-defense-of-not-understanding-your-codebase/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
 <small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong)</small>
 
@@ -231,9 +240,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-10 github-eng</small>  
 <small>[Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-10 stackoverflow</small>  
-<small>[Building more than just an agent harness](https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-10 bartwullems</small>  
 <small>[A complex system designed from scratch never works](https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-02 pragmaticengineer</small>  
 <small>[The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-02 jimmybogard</small>  
-<small>[AutoMapper 16.2.0 and MediatR 14.2.0 Released](https://www.jimmybogard.com/automapper-16-2-0-and-mediatr-14-2-0-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-02 azure-sql</small>  
-<small>[Fundamentals of Azure DevOps with SQL projects](https://devblogs.microsoft.com/azure-sql/fundamentals-of-azure-devops-with-sql-projects/)</small>
 
