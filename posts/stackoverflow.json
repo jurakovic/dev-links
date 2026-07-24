@@ -1,5 +1,10 @@
 [
   {
+    "title": "Partnerships can keep open source sustainable",
+    "link": "https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/",
+    "pubDate": "2026-07-24T07:40:00+00:00"
+  },
+  {
     "title": "The future of development is full-stack",
     "link": "https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/",
     "pubDate": "2026-07-21T04:01:11+00:00"
@@ -18,10 +23,5 @@
     "title": "Building more than just an agent harness",
     "link": "https://stackoverflow.blog/2026/07/10/building-more-than-just-an-agent-harness/",
     "pubDate": "2026-07-10T07:40:00+00:00"
-  },
-  {
-    "title": "What's left for infrastructure-as-code after AI moves in?",
-    "link": "https://stackoverflow.blog/2026/07/08/what-s-left-for-infrastructure-as-code-after-ai-moves-in/",
-    "pubDate": "2026-07-08T04:40:00+00:00"
   }
 ]

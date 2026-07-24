@@ -1,10 +1,5 @@
 [
   {
-    "title": "Regex-based dynamic data masking in Azure SQL Database (preview)",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938",
-    "pubDate": "2026-07-23T06:48:35+00:00"
-  },
-  {
     "title": "Recently released: Updates to SQL projects in SSMS, VS Code, and SqlPackage",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/recently-released-updates-to-sql-projects-in-ssms-vs-code-and/ba-p/4538341",
     "pubDate": "2026-07-20T12:45:00+00:00"
@@ -23,5 +18,10 @@
     "title": "Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326",
     "pubDate": "2026-06-18T20:27:39+00:00"
+  },
+  {
+    "title": "Transparent data encryption in Azure SQL Database now supports AES keys (Public Preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/transparent-data-encryption-in-azure-sql-database-now-supports/ba-p/4523240",
+    "pubDate": "2026-06-03T06:21:32+00:00"
   }
 ]
