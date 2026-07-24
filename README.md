@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-24 visualstudiomagazine</small>  
+<small>[Visual Studio Insiders Further Refines Copilot Usage Tracking](https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-24 lucumr-pocoo</small>  
 <small>[Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)</small>
 
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-17 stackoverflow</small>  
 <small>[Developers who move fast still need to do it together](https://stackoverflow.blog/2026/07/17/devs-who-move-fast-still-need-to-do-it-together/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-16 visualstudiomagazine</small>  
-<small>[Copilot Usage-Based Billing Gets a Token Dashboard](https://visualstudiomagazine.com/articles/2026/07/16/copilot-usage-based-billing-gets-a-token-dashboard.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 azure-sql</small>  
 <small>[T-SQL Hygiene: What’s the Big Deal with SET NOCOUNT ON?](https://devblogs.microsoft.com/azure-sql/tsql-nocount/)</small>

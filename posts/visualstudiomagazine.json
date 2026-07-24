@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Insiders Further Refines Copilot Usage Tracking",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx",
+    "pubDate": "2026-07-24T17:24:00+00:00"
+  },
+  {
     "title": "VS Code 1.130 Expands Agent Host and Review Tools",
     "link": "https://visualstudiomagazine.com/articles/2026/07/23/vs-code-1-130-expands-agent-host-and-review-tools.aspx",
     "pubDate": "2026-07-23T19:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools",
     "link": "https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx",
     "pubDate": "2026-07-20T18:01:00+00:00"
-  },
-  {
-    "title": "Copilot Usage-Based Billing Gets a Token Dashboard",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/16/copilot-usage-based-billing-gets-a-token-dashboard.aspx",
-    "pubDate": "2026-07-16T20:05:00+00:00"
   }
 ]
