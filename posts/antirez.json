@@ -1,5 +1,10 @@
 [
   {
+    "title": "Being Linux Torvalds",
+    "link": "http://antirez.com/news/171",
+    "pubDate": "2026-07-25T11:20:55+00:00"
+  },
+  {
     "title": "Not just development, distribution of software may change as well",
     "link": "http://antirez.com/news/170",
     "pubDate": "2026-07-22T14:52:39+00:00"
@@ -18,10 +23,5 @@
     "title": "Distributing LLM inference in DwarfStar",
     "link": "http://antirez.com/news/167",
     "pubDate": "2026-05-25T14:54:59+00:00"
-  },
-  {
-    "title": "Alternatives for the EDIT tool of LLM agents",
-    "link": "http://antirez.com/news/166",
-    "pubDate": "2026-05-19T07:26:03+00:00"
   }
 ]

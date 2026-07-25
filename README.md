@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-25 swizec</small>  
+<small>[How to be useful as a software architect](https://swizec.com/blog/how-to-be-useful-as-a-software-architect)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-25 antirez</small>  
+<small>[Being Linux Torvalds](http://antirez.com/news/171)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-25 simonwillison</small>  
 <small>[Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything)</small>
 
@@ -81,6 +87,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-21 stackoverflow</small>  
 <small>[The future of development is full-stack](https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
+<small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-20 visualstudiomagazine</small>  
 <small>[Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools](https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-04 lucumr-pocoo</small>  
 <small>[Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-03 sqlperformance</small>  
-<small>[SolarWinds Database Performance Analyzer Now Supports SAP HANA](https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-03 dbreunig</small>  
-<small>[Understanding the Dynamics of the AI Ecosystem with Pace Layers](https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-02 pragmaticengineer</small>  
-<small>[The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/)</small>
 
