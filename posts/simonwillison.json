@@ -1,5 +1,10 @@
 [
   {
+    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+    "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+    "pubDate": "2026-07-26T19:30:54+00:00"
+  },
+  {
     "title": "Ruff v0.16.0",
     "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
     "pubDate": "2026-07-25T22:44:05+00:00"
@@ -18,10 +23,5 @@
     "title": "The first known runaway AI agent - or a very bad marketing stunt?",
     "link": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
     "pubDate": "2026-07-23T22:53:08+00:00"
-  },
-  {
-    "title": "Quoting Seth Larson",
-    "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
-    "pubDate": "2026-07-23T04:50:36+00:00"
   }
 ]
