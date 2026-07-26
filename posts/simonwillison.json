@@ -1,5 +1,10 @@
 [
   {
+    "title": "Ruff v0.16.0",
+    "link": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+    "pubDate": "2026-07-25T22:44:05+00:00"
+  },
+  {
     "title": "Quoting Boris Cherny",
     "link": "https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything",
     "pubDate": "2026-07-25T00:42:59+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Seth Larson",
     "link": "https://simonwillison.net/2026/Jul/23/seth-larson/#atom-everything",
     "pubDate": "2026-07-23T04:50:36+00:00"
-  },
-  {
-    "title": "Quoting Thomas Ptacek",
-    "link": "https://simonwillison.net/2026/Jul/22/thomas-ptacek/#atom-everything",
-    "pubDate": "2026-07-22T23:59:01+00:00"
   }
 ]
