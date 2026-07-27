@@ -1,5 +1,10 @@
 [
   {
+    "title": "Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server",
+    "link": "https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/",
+    "pubDate": "2026-07-27T06:22:55+00:00"
+  },
+  {
     "title": "Software development and AI",
     "link": "https://damienbod.com/2026/06/15/software-development-and-ai/",
     "pubDate": "2026-06-15T04:59:28+00:00"
@@ -18,10 +23,5 @@
     "title": "Using configurable token lifetimes in Microsoft Entra ID, .NET and Microsoft Graph",
     "link": "https://damienbod.com/2026/05/11/using-configurable-token-lifetimes-in-microsoft-entra-id-net-and-microsoft-graph/",
     "pubDate": "2026-05-11T06:55:11+00:00"
-  },
-  {
-    "title": "Remove sign-up from Entra External ID user flows",
-    "link": "https://damienbod.com/2026/04/20/remove-sign-up-from-entra-external-id-user-flows/",
-    "pubDate": "2026-04-20T05:15:03+00:00"
   }
 ]

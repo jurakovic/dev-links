@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-07-27 damienbod</small>  
+<small>[Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server](https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-26 simonwillison</small>  
 <small>[An Inside Look at the Relay Market Powering Token Resellers and Fraud](https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-06 swizec</small>  
 <small>[Theory of constraints, AI, and code review](https://swizec.com/blog/theory-of-constraints-ai-and-code-review)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-05 third-bit</small>  
-<small>[Now What? A Workshop on Error Handling](https://third-bit.com/2026/07/05/now-what/)</small>
 
