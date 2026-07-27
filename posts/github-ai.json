@@ -1,5 +1,10 @@
 [
   {
+    "title": "The harness is all you need (mostly)",
+    "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
+    "pubDate": "2026-07-27T18:00:00+00:00"
+  },
+  {
     "title": "GitHub Copilot app for Beginners: Getting started",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
     "pubDate": "2026-07-27T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
     "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
     "pubDate": "2026-07-10T15:57:47+00:00"
-  },
-  {
-    "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
-    "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
-    "pubDate": "2026-07-08T21:11:56+00:00"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Oracle Leans on VS Code for New AI Dev Tooling",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx",
+    "pubDate": "2026-07-27T19:38:00+00:00"
+  },
+  {
+    "title": "Speak Your Vibe: VS Code Insiders Talks Up Voice-Driven Development",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/27/speak-your-vibe-vs-code-insiders-talks-up-voice-driven-development.aspx",
+    "pubDate": "2026-07-27T17:58:00+00:00"
+  },
+  {
     "title": "Visual Studio Insiders Further Refines Copilot Usage Tracking",
     "link": "https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx",
     "pubDate": "2026-07-24T17:24:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Microsoft Agent Framework Makeover: Claws, Loops and Harnesses",
     "link": "https://visualstudiomagazine.com/articles/2026/07/22/microsoft-agent-framework-makeover-claws-loops-and-harnesses.aspx",
     "pubDate": "2026-07-22T17:46:00+00:00"
-  },
-  {
-    "title": "Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx",
-    "pubDate": "2026-07-21T17:50:00+00:00"
-  },
-  {
-    "title": "Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx",
-    "pubDate": "2026-07-20T18:01:00+00:00"
   }
 ]

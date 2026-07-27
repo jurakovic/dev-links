@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-27 visualstudiomagazine</small>  
+<small>[Oracle Leans on VS Code for New AI Dev Tooling](https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
+<small>[The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-27 visualstudiomagazine</small>  
+<small>[Speak Your Vibe: VS Code Insiders Talks Up Voice-Driven Development](https://visualstudiomagazine.com/articles/2026/07/27/speak-your-vibe-vs-code-insiders-talks-up-voice-driven-development.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
+<small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-27 dotnet</small>  
+<small>[Analyze MSBuild Binary Logs with Copilot in VS Code](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/)</small>
 
@@ -85,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-22 antirez</small>  
 <small>[Not just development, distribution of software may change as well](http://antirez.com/news/170)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-21 visualstudiomagazine</small>  
-<small>[Visual Studio 2026 Gives Copilot Built-In Skills -- and Makes Them Prove Their Worth](https://visualstudiomagazine.com/articles/2026/07/21/visual-studio-2026-gives-copilot-built-in-skills--and-makes-them-prove-their-worth.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-21 swizec</small>  
 <small>[swizec.com is now on TimberJS, a new React framework](https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework)</small>
 
@@ -105,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
 <small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-20 visualstudiomagazine</small>  
-<small>[Copilot AI Billing Shock Met with Meters, Caps and Token-Saving Tools](https://visualstudiomagazine.com/articles/2026/07/20/copilot-billing-shock-met-with-meters-caps-and-token-saving-tools.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-20 techtrenches</small>  
 <small>[Five Little Pigs](https://techtrenches.dev/p/five-little-pigs)</small>
@@ -271,9 +280,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-09 pragmaticengineer</small>  
 <small>[The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-09 dotnet</small>  
-<small>[Modernize .NET applications in the GitHub Copilot app](https://devblogs.microsoft.com/dotnet/modernize-dotnet-in-github-copilot-app/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-09 techtrenches</small>  
 <small>[Salesforce Locked Slack for Privacy, Then Opened It for a Partner](https://techtrenches.dev/p/salesforce-locked-slack-for-privacy)</small>
 
@@ -282,9 +288,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-09 bartwullems</small>  
 <small>[Fixing "Filename too long" errors on Windows with Git](https://bartwullems.blogspot.com/2026/07/fixing-filename-too-long-errors-on.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-08 github-ai</small>  
-<small>[Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-08 github-eng</small>  
 <small>[Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)</small>
@@ -297,9 +300,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
 <small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-06 techtrenches</small>  
-<small>[Dario Altman](https://techtrenches.dev/p/dario-altman)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-07-06 developertoarchitect</small>  
 <small>[Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)](http://www.developertoarchitect.com/lessons/lesson221.html)</small>
