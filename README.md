@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-27 simonwillison</small>  
+<small>[moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-27 simonwillison</small>  
+<small>[An opinionated guide to which AI to use to do stuff](https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-27 visualstudiomagazine</small>  
 <small>[Oracle Leans on VS Code for New AI Dev Tooling](https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx)</small>
 
@@ -49,9 +55,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-25 simonwillison</small>  
 <small>[Quoting Boris Cherny](https://simonwillison.net/2026/Jul/25/boris-cherny/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-24 simonwillison</small>  
-<small>[Introducing Claude Opus 5](https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-24 visualstudiomagazine</small>  
 <small>[Visual Studio Insiders Further Refines Copilot Usage Tracking](https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx)</small>
 
@@ -64,11 +67,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
 <small>[No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-24 dbreunig</small>  
+<small>[Manage Your Agent’s Loadout with Dr. Skill](https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
 <small>[Partnerships can keep open source sustainable](https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-23 simonwillison</small>  
-<small>[The first known runaway AI agent - or a very bad marketing stunt?](https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-23 visualstudiomagazine</small>  
 <small>[VS Code 1.130 Expands Agent Host and Review Tools](https://visualstudiomagazine.com/articles/2026/07/23/vs-code-1-130-expands-agent-host-and-review-tools.aspx)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
 <small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-07-06 developertoarchitect</small>  
-<small>[Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)](http://www.developertoarchitect.com/lessons/lesson221.html)</small>
 
