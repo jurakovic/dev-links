@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dev Revisits Visual Studio After Nearly a Decade, Gets Lost in AI-Era Completion Maze",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/28/dev-revisits-visual-studio-after-nearly-a-decade-gets-lost-in-ai-era-completion-maze.aspx",
+    "pubDate": "2026-07-28T18:04:00+00:00"
+  },
+  {
     "title": "Oracle Leans on VS Code for New AI Dev Tooling",
     "link": "https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx",
     "pubDate": "2026-07-27T19:38:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code 1.130 Expands Agent Host and Review Tools",
     "link": "https://visualstudiomagazine.com/articles/2026/07/23/vs-code-1-130-expands-agent-host-and-review-tools.aspx",
     "pubDate": "2026-07-23T19:03:00+00:00"
-  },
-  {
-    "title": "Microsoft Agent Framework Makeover: Claws, Loops and Harnesses",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/22/microsoft-agent-framework-makeover-claws-loops-and-harnesses.aspx",
-    "pubDate": "2026-07-22T17:46:00+00:00"
   }
 ]
