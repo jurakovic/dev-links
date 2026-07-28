@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Orchestrator's Tax",
+    "link": "https://martinfowler.com/articles/orchestrator-tax.html",
+    "pubDate": "2026-07-28T13:10:00+00:00"
+  },
+  {
+    "title": "Why I’m Writing Rachel’s Ramblings",
+    "link": "https://martinfowler.com/rachels-ramblings/intro.html",
+    "pubDate": "2026-07-28T12:32:00+00:00"
+  },
+  {
     "title": "Fragments: July 21",
     "link": "https://martinfowler.com/fragments/2026-07-21.html",
     "pubDate": "2026-07-21T13:13:00+00:00"
@@ -13,15 +23,5 @@
     "title": "DSLs Enable Reliable Use of LLMs",
     "link": "https://martinfowler.com/articles/llm-and-dsls.html",
     "pubDate": "2026-07-14T12:51:00+00:00"
-  },
-  {
-    "title": "Fragments: July 13",
-    "link": "https://martinfowler.com/fragments/2026-07-13.html",
-    "pubDate": "2026-07-13T16:06:00+00:00"
-  },
-  {
-    "title": "Experiences with local models for coding",
-    "link": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html",
-    "pubDate": "2026-07-08T11:57:00+00:00"
   }
 ]

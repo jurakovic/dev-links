@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-28 martinfowler</small>  
+<small>[The Orchestrator's Tax](https://martinfowler.com/articles/orchestrator-tax.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 azure-sql</small>  
+<small>[Refactor your database with SQL projects in VS Code](https://devblogs.microsoft.com/azure-sql/refactor-your-database-with-sql-projects-in-vs-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-28 martinfowler</small>  
+<small>[Why I’m Writing Rachel’s Ramblings](https://martinfowler.com/rachels-ramblings/intro.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
 <small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
 
@@ -250,9 +259,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-13 visualstudio</small>  
 <small>[The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure](https://devblogs.microsoft.com/visualstudio/the-visual-studio-dev-test-benefit-freedom-to-build-test-and-experiment-in-azure/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-13 martinfowler</small>  
-<small>[Fragments: July 13](https://martinfowler.com/fragments/2026-07-13.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-13 antirez</small>  
 <small>[Control the ideas, not the code](http://antirez.com/news/169)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-08 github-eng</small>  
 <small>[Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-08 martinfowler</small>  
-<small>[Experiences with local models for coding](https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-experiences.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-07 andrewlock</small>  
-<small>[Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/)</small>
 
