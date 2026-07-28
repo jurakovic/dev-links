@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
+<small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-28 stackoverflow</small>  
+<small>[You need reliable AI context for your site reliability](https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-28 bartwullems</small>  
+<small>[.NET Aspire: The price of forgetting WithReference](https://bartwullems.blogspot.com/2026/07/net-aspire-price-of-forgetting.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-27 simonwillison</small>  
 <small>[moonshotai/Kimi-K3](https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything)</small>
 
@@ -229,9 +238,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-14 martinfowler</small>  
 <small>[DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-14 stackoverflow</small>  
-<small>[Your AI is only as responsible as you are](https://stackoverflow.blog/2026/07/14/your-ai-is-only-as-responsible-as-you-are/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-14 bartwullems</small>  
 <small>[Talking to Copilot like a caveman](https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html)</small>
 
@@ -289,9 +295,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-09 bencane</small>  
 <small>[Should retries and timeouts live in your application or your service mesh?](https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-09 bartwullems</small>  
-<small>[Fixing "Filename too long" errors on Windows with Git](https://bartwullems.blogspot.com/2026/07/fixing-filename-too-long-errors-on.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-08 github-eng</small>  
 <small>[Automating cross-repo documentation with GitHub Agentic Workflows](https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-07 andrewlock</small>  
 <small>[Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5](https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-06 addyosmani</small>  
-<small>[The Agent-Era Career](https://addyosmani.com/blog/career-advice-age-of-agents/)</small>
 
