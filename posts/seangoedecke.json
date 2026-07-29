@@ -1,5 +1,10 @@
 [
   {
+    "title": "You don't have to be smart if you can think clearly",
+    "link": "https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+    "pubDate": "2026-07-29T04:01:29+00:00"
+  },
+  {
     "title": "LLMs reward expertise",
     "link": "https://seangoedecke.com/llms-reward-expertise/",
     "pubDate": "2026-07-24T17:04:52+00:00"
@@ -18,10 +23,5 @@
     "title": "Overtraining as the path to human-like AI",
     "link": "https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/",
     "pubDate": "2026-07-18T04:01:13+00:00"
-  },
-  {
-    "title": "What does \"playing politics\" mean for software engineers?",
-    "link": "https://seangoedecke.com/playing-politics/",
-    "pubDate": "2026-07-14T16:01:34+00:00"
   }
 ]

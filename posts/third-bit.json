@@ -1,5 +1,10 @@
 [
   {
+    "title": "Orwell, Dali, and AI",
+    "link": "https://third-bit.com/2026/07/28/orwell-dali-ai/",
+    "pubDate": "2026-07-28T00:00:00+00:00"
+  },
+  {
     "title": "Disasters for Small Teams",
     "link": "https://third-bit.com/2026/07/25/disaster/",
     "pubDate": "2026-07-21T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Recent Reading About LLMs",
     "link": "https://third-bit.com/2026/07/15/recent-reading-about-llms/",
     "pubDate": "2026-07-15T16:01:48+00:00"
-  },
-  {
-    "title": "Now What? A Workshop on Error Handling",
-    "link": "https://third-bit.com/2026/07/05/now-what/",
-    "pubDate": "2026-07-05T00:00:00+00:00"
   }
 ]

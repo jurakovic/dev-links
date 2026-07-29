@@ -1,5 +1,15 @@
 [
   {
+    "title": "Discovering cryptographic weaknesses with Claude",
+    "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+    "pubDate": "2026-07-28T22:45:37+00:00"
+  },
+  {
+    "title": "Quoting Akshat Bubna",
+    "link": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
+    "pubDate": "2026-07-28T22:05:55+00:00"
+  },
+  {
     "title": "uv 0.12.0",
     "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
     "pubDate": "2026-07-28T21:51:38+00:00"
@@ -13,15 +23,5 @@
     "title": "moonshotai/Kimi-K3",
     "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
     "pubDate": "2026-07-27T23:39:04+00:00"
-  },
-  {
-    "title": "An opinionated guide to which AI to use to do stuff",
-    "link": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
-    "pubDate": "2026-07-27T21:55:53+00:00"
-  },
-  {
-    "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-    "link": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
-    "pubDate": "2026-07-26T19:30:54+00:00"
   }
 ]
