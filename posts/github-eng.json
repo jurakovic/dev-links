@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+    "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+    "pubDate": "2026-07-29T16:00:00+00:00"
+  },
+  {
     "title": "The cost of saying yes has changed",
     "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
     "pubDate": "2026-07-17T16:46:47+00:00"
@@ -18,10 +23,5 @@
     "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
     "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
     "pubDate": "2026-05-14T16:00:00+00:00"
-  },
-  {
-    "title": "How GitHub uses eBPF to improve deployment safety",
-    "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-    "pubDate": "2026-04-16T16:00:00+00:00"
   }
 ]

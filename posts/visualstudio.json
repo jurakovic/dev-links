@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tell your model when to think harder",
+    "link": "https://devblogs.microsoft.com/visualstudio/tell-your-model-when-to-think-harder/",
+    "pubDate": "2026-07-29T15:02:36+00:00"
+  },
+  {
     "title": "Visual Studio July Update — Meet the New Agent, Powered by the GitHub Copilot SDK",
     "link": "https://devblogs.microsoft.com/visualstudio/visual-studio-july-update-meet-the-new-agent-powered-by-copilot-sdk/",
     "pubDate": "2026-07-28T16:00:14+00:00"
@@ -18,10 +23,5 @@
     "title": "Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio",
     "link": "https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/",
     "pubDate": "2026-07-14T17:30:57+00:00"
-  },
-  {
-    "title": "The Visual Studio Dev/Test Benefit: Freedom to Build, Test, and Experiment in Azure",
-    "link": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-dev-test-benefit-freedom-to-build-test-and-experiment-in-azure/",
-    "pubDate": "2026-07-13T22:21:36+00:00"
   }
 ]

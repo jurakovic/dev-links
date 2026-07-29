@@ -1,5 +1,10 @@
 [
   {
+    "title": "Logic for Programmers is Now Available",
+    "link": "https://www.hillelwayne.com/post/lfp/",
+    "pubDate": "2026-07-29T16:01:36+00:00"
+  },
+  {
     "title": "Chicago vs New York Pizza is the Wrong Argument",
     "link": "https://www.hillelwayne.com/post/pizza/",
     "pubDate": "2026-04-01T16:52:24+00:00"
@@ -18,10 +23,5 @@
     "title": "Gamer Games for Non-Gamers",
     "link": "https://www.hillelwayne.com/post/vidja-games/",
     "pubDate": "2025-04-01T00:00:00+00:00"
-  },
-  {
-    "title": "A Perplexing Javascript Parsing Puzzle",
-    "link": "https://www.hillelwayne.com/post/javascript-puzzle/",
-    "pubDate": "2025-03-12T00:00:00+00:00"
   }
 ]
