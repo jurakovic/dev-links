@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-29 andrewlock</small>  
+<small>[Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-29 bartwullems</small>  
+<small>[Our P95 spiked, now what?](https://bartwullems.blogspot.com/2026/07/our-p95-spiked-now-what.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-29 seangoedecke</small>  
 <small>[You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/)</small>
 
@@ -295,12 +301,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-10 github-eng</small>  
 <small>[Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-10 bartwullems</small>  
-<small>[A complex system designed from scratch never works](https://bartwullems.blogspot.com/2026/07/a-complex-system-designed-from-scratch.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-09 pragmaticengineer</small>  
 <small>[The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-09 techtrenches</small>  
-<small>[Salesforce Locked Slack for Privacy, Then Opened It for a Partner](https://techtrenches.dev/p/salesforce-locked-slack-for-privacy)</small>
 

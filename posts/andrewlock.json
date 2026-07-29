@@ -1,5 +1,10 @@
 [
   {
+    "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends",
+    "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
+    "pubDate": "2026-07-29T09:50:00+00:00"
+  },
+  {
     "title": "Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5",
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/",
     "pubDate": "2026-07-07T10:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2",
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
     "pubDate": "2026-05-19T10:00:00+00:00"
-  },
-  {
-    "title": "Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1",
-    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/",
-    "pubDate": "2026-05-12T10:00:00+00:00"
   }
 ]
