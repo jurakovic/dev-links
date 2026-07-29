@@ -1,27 +1,27 @@
 [
   {
+    "title": "Quoting D. Richard Hipp",
+    "link": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+    "pubDate": "2026-07-29T21:15:21+00:00"
+  },
+  {
+    "title": "AI Worming through Word",
+    "link": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
+    "pubDate": "2026-07-29T18:43:03+00:00"
+  },
+  {
+    "title": "Quoting Matthew Green",
+    "link": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+    "pubDate": "2026-07-29T18:18:15+00:00"
+  },
+  {
+    "title": "Adding a custom MCP server to Claude and ChatGPT",
+    "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
+    "pubDate": "2026-07-29T00:13:18+00:00"
+  },
+  {
     "title": "Discovering cryptographic weaknesses with Claude",
     "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
     "pubDate": "2026-07-28T22:45:37+00:00"
-  },
-  {
-    "title": "Quoting Akshat Bubna",
-    "link": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
-    "pubDate": "2026-07-28T22:05:55+00:00"
-  },
-  {
-    "title": "uv 0.12.0",
-    "link": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
-    "pubDate": "2026-07-28T21:51:38+00:00"
-  },
-  {
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "link": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-    "pubDate": "2026-07-28T21:28:54+00:00"
-  },
-  {
-    "title": "moonshotai/Kimi-K3",
-    "link": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-    "pubDate": "2026-07-27T23:39:04+00:00"
   }
 ]

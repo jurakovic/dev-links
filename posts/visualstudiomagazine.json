@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.131 Adds Built-In Dictation, Hybrid Markdown Editing and Subagent Status",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/29/vs-code-1-131-adds-built-in-dictation-hybrid-markdown-editing-and-subagent-status.aspx",
+    "pubDate": "2026-07-29T20:38:00+00:00"
+  },
+  {
     "title": "Dev Revisits Visual Studio After Nearly a Decade, Gets Lost in AI-Era Completion Maze",
     "link": "https://visualstudiomagazine.com/articles/2026/07/28/dev-revisits-visual-studio-after-nearly-a-decade-gets-lost-in-ai-era-completion-maze.aspx",
     "pubDate": "2026-07-28T18:04:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio Insiders Further Refines Copilot Usage Tracking",
     "link": "https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx",
     "pubDate": "2026-07-24T17:24:00+00:00"
-  },
-  {
-    "title": "VS Code 1.130 Expands Agent Host and Review Tools",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/23/vs-code-1-130-expands-agent-host-and-review-tools.aspx",
-    "pubDate": "2026-07-23T19:03:00+00:00"
   }
 ]
