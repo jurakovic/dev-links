@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Bruce Schneier",
+    "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
+    "pubDate": "2026-07-30T18:25:26+00:00"
+  },
+  {
     "title": "Quoting D. Richard Hipp",
     "link": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
     "pubDate": "2026-07-29T21:15:21+00:00"
@@ -18,10 +23,5 @@
     "title": "Adding a custom MCP server to Claude and ChatGPT",
     "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
     "pubDate": "2026-07-29T00:13:18+00:00"
-  },
-  {
-    "title": "Discovering cryptographic weaknesses with Claude",
-    "link": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-    "pubDate": "2026-07-28T22:45:37+00:00"
   }
 ]

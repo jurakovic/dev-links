@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio July Update Brings Copilot Agent and Built-In Skills",
+    "link": "https://visualstudiomagazine.com/articles/2026/07/30/visual-studio-july-update-brings-copilot-agent-and-built-in-skills.aspx",
+    "pubDate": "2026-07-30T17:09:00+00:00"
+  },
+  {
     "title": "VS Code 1.131 Adds Built-In Dictation, Hybrid Markdown Editing and Subagent Status",
     "link": "https://visualstudiomagazine.com/articles/2026/07/29/vs-code-1-131-adds-built-in-dictation-hybrid-markdown-editing-and-subagent-status.aspx",
     "pubDate": "2026-07-29T20:38:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Speak Your Vibe: VS Code Insiders Talks Up Voice-Driven Development",
     "link": "https://visualstudiomagazine.com/articles/2026/07/27/speak-your-vibe-vs-code-insiders-talks-up-voice-driven-development.aspx",
     "pubDate": "2026-07-27T17:58:00+00:00"
-  },
-  {
-    "title": "Visual Studio Insiders Further Refines Copilot Usage Tracking",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/24/visual-studio-insiders-further-refines-copilot-usage-tracking.aspx",
-    "pubDate": "2026-07-24T17:24:00+00:00"
   }
 ]
