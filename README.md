@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-30 bencane</small>  
+<small>[Caching isn’t hard. Some data is hard to cache](https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-30 bartwullems</small>  
+<small>[Enabling the Application Insights Profiler](https://bartwullems.blogspot.com/2026/07/enabling-application-insights-profiler.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-29 simonwillison</small>  
 <small>[Quoting D. Richard Hipp](https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything)</small>
 
@@ -280,9 +286,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-13 antirez</small>  
 <small>[Control the ideas, not the code](http://antirez.com/news/169)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-13 bartwullems</small>  
-<small>[Cache stampede: when our cache turned against us](https://bartwullems.blogspot.com/2026/07/cache-stampede-when-our-cache-turned.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-13 lucumr-pocoo</small>  
 <small>[The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-11 swizec</small>  
 <small>[The one thing every experienced engineer gets wrong](https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-10 github-ai</small>  
-<small>[Better tools made Copilot code review worse. Here’s how we actually improved it.](https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/)</small>
 
