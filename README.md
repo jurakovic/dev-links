@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-30 stackoverflow</small>  
+<small>[Your trusted knowledge layer: Introducing Stack Internal's new platform experience](https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-30 martinfowler</small>  
+<small>[The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-30 bencane</small>  
 <small>[Caching isn’t hard. Some data is hard to cache](https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/)</small>
 
@@ -169,9 +175,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-21 martinfowler</small>  
 <small>[Fragments: July 21](https://martinfowler.com/fragments/2026-07-21.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-21 stackoverflow</small>  
-<small>[The future of development is full-stack](https://stackoverflow.blog/2026/07/21/the-future-of-development-is-full-stack/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
 <small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
 
@@ -270,9 +273,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
 <small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-14 martinfowler</small>  
-<small>[DSLs Enable Reliable Use of LLMs](https://martinfowler.com/articles/llm-and-dsls.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-14 bartwullems</small>  
 <small>[Talking to Copilot like a caveman](https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html)</small>
