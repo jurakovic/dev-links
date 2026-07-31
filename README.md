@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-31 bartwullems</small>  
+<small>[Reading a Profiler trace without guessing](https://bartwullems.blogspot.com/2026/07/reading-profiler-trace-without-guessing.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-31 stackoverflow</small>  
+<small>[What happens to the internet when robots act like humans?](https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-30 simonwillison</small>  
 <small>[Advancing the price-performance frontier with GPT‑5.6](https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything)</small>
 
@@ -145,9 +151,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-24 dbreunig</small>  
 <small>[Manage Your Agent’s Loadout with Dr. Skill](https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
-<small>[Partnerships can keep open source sustainable](https://stackoverflow.blog/2026/07/24/partnerships-can-keep-open-source-sustainable/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-23 jimmybogard</small>  
 <small>[Vertical Slice Architecture Webinar](https://www.jimmybogard.com/vertical-slice-architecture-webinar/)</small>
 
@@ -282,9 +285,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
 <small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-14 bartwullems</small>  
-<small>[Talking to Copilot like a caveman](https://bartwullems.blogspot.com/2026/07/talking-to-copilot-like-caveman.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-14 addyosmani</small>  
 <small>[Earning taste and judgment](https://addyosmani.com/blog/earning-judgment/)</small>
