@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-31 seangoedecke</small>  
+<small>[AI models need moral support to make discoveries](https://seangoedecke.com/ai-models-need-moral-support/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-31 github-eng</small>  
+<small>[Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-31 dotnet</small>  
+<small>[From generated code to trusted code with a unit-test agent](https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-31 stackoverflow</small>  
+<small>[Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth](https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-31 martinfowler</small>  
+<small>[The Conductor Developer](https://martinfowler.com/rachels-ramblings/conductor-developer.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-31 bartwullems</small>  
 <small>[Reading a Profiler trace without guessing](https://bartwullems.blogspot.com/2026/07/reading-profiler-trace-without-guessing.html)</small>
 
@@ -145,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-24 seangoedecke</small>  
 <small>[LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-24 stackoverflow</small>  
-<small>[No Dumb Questions: What is the AI bottleneck? How does context engineering fix it?](https://stackoverflow.blog/2026/07/24/no-dumb-questions-ai-bottleneck/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-24 dbreunig</small>  
 <small>[Manage Your Agent’s Loadout with Dr. Skill](https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html)</small>
 
@@ -220,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-18 third-bit</small>  
 <small>[Disruptive Behaviors](https://third-bit.com/2026/07/18/disruptive-behaviors/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-18 seangoedecke</small>  
-<small>[Overtraining as the path to human-like AI](https://seangoedecke.com/overtraining-as-the-path-to-human-like-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-17 netflix</small>  
 <small>[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)</small>
 
@@ -244,9 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 visualstudio</small>  
 <small>[Visual Studio Administrator? Join our Private Marketplace Preview!](https://devblogs.microsoft.com/visualstudio/visual-studio-administrator-join-our-private-marketplace-preview/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-16 martinfowler</small>  
-<small>[The Archaeologist’s Copilot](https://martinfowler.com/articles/archaeologist-copilot.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-16 bencane</small>  
 <small>[Sometimes the most resilient thing a system can do isn’t retry](https://bencane.com/posts/2026-07-16-compensating-transactions/)</small>
 
@@ -267,9 +273,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
 <small>[.NET and .NET Framework July 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
-<small>[CoreCLR Progress and the Mono Timeline for .NET MAUI](https://devblogs.microsoft.com/dotnet/coreclr-progress-and-mono-timeline-dotnet-maui/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 visualstudio</small>  
 <small>[Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio](https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-12 steven-giesel</small>  
 <small>[Set LogLevel of Blazor](https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-07-11 lethain</small>  
-<small>[Generated and suppressed demand.](https://lethain.com/generated-demand/)</small>
 
