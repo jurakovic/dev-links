@@ -1,5 +1,15 @@
 [
   {
+    "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+    "link": "https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything",
+    "pubDate": "2026-07-31T21:33:13+00:00"
+  },
+  {
+    "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+    "link": "https://simonwillison.net/2026/Jul/31/smevals/#atom-everything",
+    "pubDate": "2026-07-31T21:15:23+00:00"
+  },
+  {
     "title": "Advancing the price-performance frontier with GPT‑5.6",
     "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
     "pubDate": "2026-07-30T23:58:42+00:00"
@@ -13,15 +23,5 @@
     "title": "llm 0.32rc2",
     "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
     "pubDate": "2026-07-30T22:52:06+00:00"
-  },
-  {
-    "title": "Quoting Bruce Schneier",
-    "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
-    "pubDate": "2026-07-30T18:25:26+00:00"
-  },
-  {
-    "title": "llm-chat-completions-server 0.1a0",
-    "link": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
-    "pubDate": "2026-07-30T15:43:16+00:00"
   }
 ]
