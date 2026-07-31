@@ -1,27 +1,27 @@
 [
   {
+    "title": "Advancing the price-performance frontier with GPT‑5.6",
+    "link": "https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything",
+    "pubDate": "2026-07-30T23:58:42+00:00"
+  },
+  {
+    "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+    "link": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents/#atom-everything",
+    "pubDate": "2026-07-30T23:41:29+00:00"
+  },
+  {
+    "title": "llm 0.32rc2",
+    "link": "https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything",
+    "pubDate": "2026-07-30T22:52:06+00:00"
+  },
+  {
     "title": "Quoting Bruce Schneier",
     "link": "https://simonwillison.net/2026/Jul/30/bruce-schneier/#atom-everything",
     "pubDate": "2026-07-30T18:25:26+00:00"
   },
   {
-    "title": "Quoting D. Richard Hipp",
-    "link": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
-    "pubDate": "2026-07-29T21:15:21+00:00"
-  },
-  {
-    "title": "AI Worming through Word",
-    "link": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-    "pubDate": "2026-07-29T18:43:03+00:00"
-  },
-  {
-    "title": "Quoting Matthew Green",
-    "link": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-    "pubDate": "2026-07-29T18:18:15+00:00"
-  },
-  {
-    "title": "Adding a custom MCP server to Claude and ChatGPT",
-    "link": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
-    "pubDate": "2026-07-29T00:13:18+00:00"
+    "title": "llm-chat-completions-server 0.1a0",
+    "link": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server/#atom-everything",
+    "pubDate": "2026-07-30T15:43:16+00:00"
   }
 ]
