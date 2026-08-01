@@ -1,5 +1,10 @@
 [
   {
+    "title": "Agents change the math on big bang migrations",
+    "link": "https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations",
+    "pubDate": "2026-08-01T22:01:28+00:00"
+  },
+  {
     "title": "How to be useful as a software architect",
     "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
     "pubDate": "2026-07-25T16:01:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Theory of constraints, AI, and code review",
     "link": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review",
     "pubDate": "2026-07-06T00:00:00+00:00"
-  },
-  {
-    "title": "Using vibes to rewrite my blog",
-    "link": "https://swizec.com/blog/using-vibes-to-rewrite-my-blog",
-    "pubDate": "2026-06-27T00:00:00+00:00"
   }
 ]
