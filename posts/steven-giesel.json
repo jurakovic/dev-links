@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET 11 Performance Edition",
+    "link": "https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae",
+    "pubDate": "2026-08-01T11:45:01+00:00"
+  },
+  {
     "title": "Adding static getter thanks to extensions",
     "link": "https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56",
     "pubDate": "2026-07-19T16:05:43+00:00"
@@ -18,10 +23,5 @@
     "title": "Signals in Blazor",
     "link": "https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7",
     "pubDate": "2026-06-20T08:30:59+00:00"
-  },
-  {
-    "title": "EF Core 11 makes your split queries faster",
-    "link": "https://steven-giesel.com/blogPost/d4401fd0-805a-4703-9d9e-5fe3b57c25ea",
-    "pubDate": "2026-06-08T05:00:00+00:00"
   }
 ]
