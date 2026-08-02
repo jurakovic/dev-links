@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Greg Brockman",
+    "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+    "pubDate": "2026-08-01T22:29:44+00:00"
+  },
+  {
     "title": "datasette-apps 0.2a0",
     "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
     "pubDate": "2026-08-01T21:23:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
     "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
     "pubDate": "2026-07-31T23:13:22+00:00"
-  },
-  {
-    "title": "llm-mcp-client 0.1a0",
-    "link": "https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything",
-    "pubDate": "2026-07-31T23:03:47+00:00"
   }
 ]
