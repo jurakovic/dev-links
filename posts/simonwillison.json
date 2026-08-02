@@ -1,5 +1,15 @@
 [
   {
+    "title": "Open letters about AI development",
+    "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+    "pubDate": "2026-08-02T04:16:52+00:00"
+  },
+  {
+    "title": "July 2026 newsletter",
+    "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
+    "pubDate": "2026-08-02T04:12:41+00:00"
+  },
+  {
     "title": "Quoting Greg Brockman",
     "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
     "pubDate": "2026-08-01T22:29:44+00:00"
@@ -13,15 +23,5 @@
     "title": "Ten advances in mathematics and theoretical computer science",
     "link": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
     "pubDate": "2026-08-01T20:34:49+00:00"
-  },
-  {
-    "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-    "link": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything",
-    "pubDate": "2026-07-31T23:59:44+00:00"
-  },
-  {
-    "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-    "link": "https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything",
-    "pubDate": "2026-07-31T23:13:22+00:00"
   }
 ]

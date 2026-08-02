@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
+<small>[Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
+<small>[July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-01 simonwillison</small>  
 <small>[Quoting Greg Brockman](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything)</small>
 
@@ -18,12 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-01 steven-giesel</small>  
 <small>[.NET 11 Performance Edition](https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-31 simonwillison</small>  
-<small>[deepseek-ai/DeepSeek-V4-Flash-0731](https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-07-31 simonwillison</small>  
-<small>[Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)](https://simonwillison.net/2026/Jul/31/stateless-mcp/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-31 seangoedecke</small>  
 <small>[AI models need moral support to make discoveries](https://seangoedecke.com/ai-models-need-moral-support/)</small>
