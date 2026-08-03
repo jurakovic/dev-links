@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-03 bartwullems</small>  
+<small>[Why "AI is just the next compiler" doesn't hold up](https://bartwullems.blogspot.com/2026/08/why-ai-is-just-next-compiler-doesnt.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-08-02 developertoarchitect</small>  
+<small>[Lesson 222 - Transactional Sagas and Atomicity (August 3, 2026)](http://www.developertoarchitect.com/lessons/lesson222.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
 <small>[condense-json 1.0](https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything)</small>
 
@@ -147,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-27 bartwullems</small>  
-<small>[The mysterious .dev.localhost checkbox](https://bartwullems.blogspot.com/2026/07/the-mysterious-devlocalhost-checkbox.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-27 sqlperformance</small>  
 <small>[It's Time to Break Up with Archive Tables](https://sqlperformance.com/2026/07/partitioning/its-time-to-break-up-with-archive-tables)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-14 addyosmani</small>  
 <small>[Earning taste and judgment](https://addyosmani.com/blog/earning-judgment/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-13 netflix</small>  
-<small>[Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned](https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4)</small>
 
