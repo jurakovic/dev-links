@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-03 dotnet</small>  
+<small>[Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-08-03 idunno</small>  
+<small>[Group your Dependabot Updates](https://idunno.org/group-your-dependabot-updates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-03 simonwillison</small>  
+<small>[Quoting David Crawshaw's prompt](https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-03 simonwillison</small>  
+<small>[Devtools must be open source (exe.dev)](https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-03 bartwullems</small>  
 <small>[Why "AI is just the next compiler" doesn't hold up](https://bartwullems.blogspot.com/2026/08/why-ai-is-just-next-compiler-doesnt.html)</small>
 
@@ -22,14 +34,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
 <small>[July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-01 simonwillison</small>  
-<small>[Quoting Greg Brockman](https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-01 swizec</small>  
 <small>[Agents change the math on big bang migrations](https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-01 simonwillison</small>  
-<small>[datasette-apps 0.2a0](https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-01 steven-giesel</small>  
 <small>[.NET 11 Performance Edition](https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae)</small>
@@ -283,9 +289,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-15 addyosmani</small>  
 <small>[Own the Outer Loop](https://addyosmani.com/blog/own-the-outer-loop/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 dotnet</small>  
-<small>[.NET and .NET Framework July 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 visualstudio</small>  
 <small>[Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio](https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
 <small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-14 addyosmani</small>  
-<small>[Earning taste and judgment](https://addyosmani.com/blog/earning-judgment/)</small>
 

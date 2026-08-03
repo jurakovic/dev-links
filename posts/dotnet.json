@@ -1,5 +1,10 @@
 [
   {
+    "title": "Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime",
+    "link": "https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/",
+    "pubDate": "2026-08-03T18:10:00+00:00"
+  },
+  {
     "title": "From generated code to trusted code with a unit-test agent",
     "link": "https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/",
     "pubDate": "2026-07-31T15:00:15+00:00"
@@ -18,10 +23,5 @@
     "title": "Announcing .NET Modernization for Beginners",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-modernization-for-beginners/",
     "pubDate": "2026-07-16T17:07:06+00:00"
-  },
-  {
-    "title": ".NET and .NET Framework July 2026 servicing releases updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-july-2026-servicing-updates/",
-    "pubDate": "2026-07-14T18:55:00+00:00"
   }
 ]

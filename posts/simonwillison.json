@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting David Crawshaw's prompt",
+    "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
+    "pubDate": "2026-08-03T16:15:27+00:00"
+  },
+  {
+    "title": "Devtools must be open source (exe.dev)",
+    "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+    "pubDate": "2026-08-03T15:30:38+00:00"
+  },
+  {
     "title": "condense-json 1.0",
     "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
     "pubDate": "2026-08-02T22:19:59+00:00"
@@ -13,15 +23,5 @@
     "title": "July 2026 newsletter",
     "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
     "pubDate": "2026-08-02T04:12:41+00:00"
-  },
-  {
-    "title": "Quoting Greg Brockman",
-    "link": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-    "pubDate": "2026-08-01T22:29:44+00:00"
-  },
-  {
-    "title": "datasette-apps 0.2a0",
-    "link": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-    "pubDate": "2026-08-01T21:23:56+00:00"
   }
 ]
