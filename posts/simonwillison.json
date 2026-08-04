@@ -1,5 +1,10 @@
 [
   {
+    "title": "PipeNetwork/minimax-h3-mlx",
+    "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+    "pubDate": "2026-08-04T19:10:09+00:00"
+  },
+  {
     "title": "Quoting Steve Yegge",
     "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
     "pubDate": "2026-08-04T00:42:45+00:00"
@@ -18,10 +23,5 @@
     "title": "Devtools must be open source (exe.dev)",
     "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
     "pubDate": "2026-08-03T15:30:38+00:00"
-  },
-  {
-    "title": "condense-json 1.0",
-    "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
-    "pubDate": "2026-08-02T22:19:59+00:00"
   }
 ]
