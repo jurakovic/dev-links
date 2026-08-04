@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-04 simonwillison</small>  
+<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-03 simonwillison</small>  
+<small>[Don't be a meat proxy](https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-03 dotnet</small>  
 <small>[Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/)</small>
 
@@ -27,12 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-02 seangoedecke</small>  
 <small>[Giving and taking credit in big tech companies](https://seangoedecke.com/giving-and-taking-credit/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
-<small>[Open letters about AI development](https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-02 simonwillison</small>  
-<small>[July 2026 newsletter](https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-01 swizec</small>  
 <small>[Agents change the math on big bang migrations](https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations)</small>

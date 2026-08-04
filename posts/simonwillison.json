@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Steve Yegge",
+    "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
+    "pubDate": "2026-08-04T00:42:45+00:00"
+  },
+  {
+    "title": "Don't be a meat proxy",
+    "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
+    "pubDate": "2026-08-03T23:45:04+00:00"
+  },
+  {
     "title": "Quoting David Crawshaw's prompt",
     "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
     "pubDate": "2026-08-03T16:15:27+00:00"
@@ -13,15 +23,5 @@
     "title": "condense-json 1.0",
     "link": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
     "pubDate": "2026-08-02T22:19:59+00:00"
-  },
-  {
-    "title": "Open letters about AI development",
-    "link": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-    "pubDate": "2026-08-02T04:16:52+00:00"
-  },
-  {
-    "title": "July 2026 newsletter",
-    "link": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
-    "pubDate": "2026-08-02T04:12:41+00:00"
   }
 ]
