@@ -1,5 +1,10 @@
 [
   {
+    "title": "Your MVP doesn’t need a Kubernetes cluster",
+    "link": "https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/",
+    "pubDate": "2026-08-04T07:40:00+00:00"
+  },
+  {
     "title": "Dispatches from O'Reilly: The best risk mitigation strategy in data? A single source of truth",
     "link": "https://stackoverflow.blog/2026/07/31/dispatches-from-o-reilly-the-best-risk-mitigation-strategy-in-data-a-single-source-of-truth/",
     "pubDate": "2026-07-31T14:08:31+00:00"
@@ -18,10 +23,5 @@
     "title": "Developers are attached to tools because tools encode trust",
     "link": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
     "pubDate": "2026-07-29T14:06:38+00:00"
-  },
-  {
-    "title": "You need reliable AI context for your site reliability",
-    "link": "https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/",
-    "pubDate": "2026-07-28T07:40:00+00:00"
   }
 ]

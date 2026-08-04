@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-04 stackoverflow</small>  
+<small>[Your MVP doesn’t need a Kubernetes cluster](https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-04 bartwullems</small>  
+<small>[Passthrough authentication with OpenIddict](https://bartwullems.blogspot.com/2026/08/passthrough-authentication-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-04 simonwillison</small>  
 <small>[Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything)</small>
 
@@ -132,12 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
 <small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-28 stackoverflow</small>  
-<small>[You need reliable AI context for your site reliability](https://stackoverflow.blog/2026/07/28/you-need-reliable-ai-context-for-your-site-reliability/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-28 bartwullems</small>  
-<small>[.NET Aspire: The price of forgetting WithReference](https://bartwullems.blogspot.com/2026/07/net-aspire-price-of-forgetting.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-28 third-bit</small>  
 <small>[Orwell, Dali, and AI](https://third-bit.com/2026/07/28/orwell-dali-ai/)</small>
