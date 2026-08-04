@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Guardrail Is Now Part of the Attack",
+    "link": "https://techtrenches.dev/p/ai-guardrails-attack-surface",
+    "pubDate": "2026-08-04T14:32:34+00:00"
+  },
+  {
     "title": "Substack Asked for Volume, Then Shipped a Scanner",
     "link": "https://techtrenches.dev/p/substack-ai-detector-who-pays",
     "pubDate": "2026-07-27T17:54:02+00:00"
@@ -18,10 +23,5 @@
     "title": "China Built the Grid Under the AI War",
     "link": "https://techtrenches.dev/p/china-built-the-grid-under-the-ai",
     "pubDate": "2026-07-14T14:30:32+00:00"
-  },
-  {
-    "title": "Salesforce Locked Slack for Privacy, Then Opened It for a Partner",
-    "link": "https://techtrenches.dev/p/salesforce-locked-slack-for-privacy",
-    "pubDate": "2026-07-09T14:31:07+00:00"
   }
 ]

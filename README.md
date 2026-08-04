@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-04 techtrenches</small>  
+<small>[The Guardrail Is Now Part of the Attack](https://techtrenches.dev/p/ai-guardrails-attack-surface)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 visualstudio</small>  
+<small>[Build Azure Skills Faster with Cloud Academy, a Visual Studio Subscriber Benefit](https://devblogs.microsoft.com/visualstudio/build-azure-skills-faster-with-cloud-academy-a-visual-studio-subscriber-benefit/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-04 martinfowler</small>  
+<small>[Fragments: August  4](https://martinfowler.com/fragments/2026-08-04.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-08-04 andrewlock</small>  
+<small>[Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-04 stackoverflow</small>  
 <small>[Your MVP doesn’t need a Kubernetes cluster](https://stackoverflow.blog/2026/08/04/your-mvp-doesn-t-need-a-kubernetes-cluster/)</small>
 
@@ -217,9 +229,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-21 github-ai</small>  
 <small>[How to build interactive experiences with canvases](https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-21 martinfowler</small>  
-<small>[Fragments: July 21](https://martinfowler.com/fragments/2026-07-21.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
 <small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
 
@@ -289,18 +298,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-15 addyosmani</small>  
 <small>[Own the Outer Loop](https://addyosmani.com/blog/own-the-outer-loop/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 visualstudio</small>  
-<small>[Built-in Agent Skills Bring .NET and Azure Expertise into Visual Studio](https://devblogs.microsoft.com/visualstudio/built-in-agent-skills-in-visual-studio/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/slack.png) <small>2026-07-14 slack</small>  
 <small>[Shipyard: How We Built Slack’s Next-Generation EC2 Platform](https://slack.engineering/shipyard-how-we-built-slacks-next-generation-ec2-platform/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 microsoft-sql-server</small>  
 <small>[SQL Server 2016 end of support is here: Plan your next steps](https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-14 azuresqlblog</small>  
-<small>[Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture](https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-14 techtrenches</small>  
-<small>[China Built the Grid Under the AI War](https://techtrenches.dev/p/china-built-the-grid-under-the-ai)</small>
 
