@@ -1,27 +1,27 @@
 [
   {
+    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+    "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "pubDate": "2026-08-04T23:58:24+00:00"
+  },
+  {
+    "title": "llm-anthropic 0.26",
+    "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+    "pubDate": "2026-08-04T22:00:58+00:00"
+  },
+  {
     "title": "PipeNetwork/minimax-h3-mlx",
     "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
     "pubDate": "2026-08-04T19:10:09+00:00"
   },
   {
+    "title": "llm 0.32",
+    "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+    "pubDate": "2026-08-04T17:15:33+00:00"
+  },
+  {
     "title": "Quoting Steve Yegge",
     "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
     "pubDate": "2026-08-04T00:42:45+00:00"
-  },
-  {
-    "title": "Don't be a meat proxy",
-    "link": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-    "pubDate": "2026-08-03T23:45:04+00:00"
-  },
-  {
-    "title": "Quoting David Crawshaw's prompt",
-    "link": "https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything",
-    "pubDate": "2026-08-03T16:15:27+00:00"
-  },
-  {
-    "title": "Devtools must be open source (exe.dev)",
-    "link": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-    "pubDate": "2026-08-03T15:30:38+00:00"
   }
 ]
