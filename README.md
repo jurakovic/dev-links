@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-05 third-bit</small>  
+<small>[A Survey of Programmers' Beliefs](https://third-bit.com/2026/08/05/programmer-beliefs-survey/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-05 pragmaticengineer</small>  
+<small>[The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-05 stackoverflow</small>  
+<small>[Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-05 bartwullems</small>  
 <small>[Passing custom parameters through OpenIddict's client authorization request](https://bartwullems.blogspot.com/2026/08/passing-custom-parameters-through.html)</small>
 
@@ -139,9 +148,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-29 visualstudio</small>  
 <small>[Tell your model when to think harder](https://devblogs.microsoft.com/visualstudio/tell-your-model-when-to-think-harder/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-29 stackoverflow</small>  
-<small>[Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-29 andrewlock</small>  
 <small>[Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/)</small>
 
@@ -271,9 +277,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-19 steven-giesel</small>  
 <small>[Adding static getter thanks to extensions](https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-18 third-bit</small>  
-<small>[Disruptive Behaviors](https://third-bit.com/2026/07/18/disruptive-behaviors/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-17 netflix</small>  
 <small>[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-15 techtrenches</small>  
 <small>[We Pay You to Slow Us Down](https://techtrenches.dev/p/we-pay-you-to-slow-us-down)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 visualstudio</small>  
-<small>[Pick, manage, and get the most from your models](https://devblogs.microsoft.com/visualstudio/pick-manage-and-get-the-most-from-your-models/)</small>
 
