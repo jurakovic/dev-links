@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-05 bartwullems</small>  
+<small>[Passing custom parameters through OpenIddict's client authorization request](https://bartwullems.blogspot.com/2026/08/passing-custom-parameters-through.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-04 simonwillison</small>  
 <small>[New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging](https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything)</small>
 
@@ -21,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-04 github-ai</small>  
 <small>[How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 azuresqlblog</small>  
+<small>[Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-04 simonwillison</small>  
 <small>[llm 0.32](https://simonwillison.net/2026/Aug/4/llm/#atom-everything)</small>
@@ -138,9 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-29 andrewlock</small>  
 <small>[Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-29 bartwullems</small>  
-<small>[Our P95 spiked, now what?](https://bartwullems.blogspot.com/2026/07/our-p95-spiked-now-what.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-29 seangoedecke</small>  
 <small>[You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 visualstudio</small>  
 <small>[Pick, manage, and get the most from your models](https://devblogs.microsoft.com/visualstudio/pick-manage-and-get-the-most-from-your-models/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-15 addyosmani</small>  
-<small>[Own the Outer Loop](https://addyosmani.com/blog/own-the-outer-loop/)</small>
 

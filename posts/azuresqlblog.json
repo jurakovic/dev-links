@@ -1,5 +1,10 @@
 [
   {
+    "title": "Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975",
+    "pubDate": "2026-08-04T18:42:26+00:00"
+  },
+  {
     "title": "Regex-based dynamic data masking in Azure SQL Database (preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938",
     "pubDate": "2026-07-23T06:48:35+00:00"
@@ -18,10 +23,5 @@
     "title": "3 Reasons Enterprise SQL Server Migrations Slow Down - and How to Avoid Them",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/3-reasons-enterprise-sql-server-migrations-slow-down-and-how-to/ba-p/4532209",
     "pubDate": "2026-06-30T23:45:00+00:00"
-  },
-  {
-    "title": "Generally Available: Microsoft Entra Server Principals and Server Roles for Azure SQL Database",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-microsoft-entra-server-principals-and-server/ba-p/4529326",
-    "pubDate": "2026-06-18T20:27:39+00:00"
   }
 ]
