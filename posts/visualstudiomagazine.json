@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.132 Sharpens Agent Workflows with Side Chats, Browser Comments",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/05/vs-code-1-132-sharpens-agent-workflows-with-side-chats-browser-comments.aspx",
+    "pubDate": "2026-08-05T16:13:00+00:00"
+  },
+  {
     "title": "Visual Studio July Update Brings Copilot Agent and Built-In Skills",
     "link": "https://visualstudiomagazine.com/articles/2026/07/30/visual-studio-july-update-brings-copilot-agent-and-built-in-skills.aspx",
     "pubDate": "2026-07-30T17:09:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Oracle Leans on VS Code for New AI Dev Tooling",
     "link": "https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx",
     "pubDate": "2026-07-27T19:38:00+00:00"
-  },
-  {
-    "title": "Speak Your Vibe: VS Code Insiders Talks Up Voice-Driven Development",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/27/speak-your-vibe-vs-code-insiders-talks-up-voice-driven-development.aspx",
-    "pubDate": "2026-07-27T17:58:00+00:00"
   }
 ]

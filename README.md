@@ -4,11 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
+<small>[One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-05 visualstudiomagazine</small>  
+<small>[VS Code 1.132 Sharpens Agent Workflows with Side Chats, Browser Comments](https://visualstudiomagazine.com/articles/2026/08/05/vs-code-1-132-sharpens-agent-workflows-with-side-chats-browser-comments.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-05 third-bit</small>  
 <small>[A Survey of Programmers' Beliefs](https://third-bit.com/2026/08/05/programmer-beliefs-survey/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-05 pragmaticengineer</small>  
 <small>[The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-05 azuresqlblog</small>  
+<small>[HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity](https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-05 stackoverflow</small>  
 <small>[Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/)</small>
@@ -63,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-04 bartwullems</small>  
 <small>[Passthrough authentication with OpenIddict](https://bartwullems.blogspot.com/2026/08/passthrough-authentication-with.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-04 simonwillison</small>  
-<small>[Quoting Steve Yegge](https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-03 dotnet</small>  
 <small>[Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime](https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/)</small>
@@ -184,9 +190,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
 <small>[The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-27 visualstudiomagazine</small>  
-<small>[Speak Your Vibe: VS Code Insiders Talks Up Voice-Driven Development](https://visualstudiomagazine.com/articles/2026/07/27/speak-your-vibe-vs-code-insiders-talks-up-voice-driven-development.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
 <small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-15 techtrenches</small>  
-<small>[We Pay You to Slow Us Down](https://techtrenches.dev/p/we-pay-you-to-slow-us-down)</small>
 

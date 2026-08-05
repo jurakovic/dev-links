@@ -1,5 +1,10 @@
 [
   {
+    "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+    "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "pubDate": "2026-08-05T19:42:38+00:00"
+  },
+  {
     "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
     "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
     "pubDate": "2026-08-04T23:58:24+00:00"
@@ -18,10 +23,5 @@
     "title": "llm 0.32",
     "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
     "pubDate": "2026-08-04T17:15:33+00:00"
-  },
-  {
-    "title": "Quoting Steve Yegge",
-    "link": "https://simonwillison.net/2026/Aug/4/steve-yegge/#atom-everything",
-    "pubDate": "2026-08-04T00:42:45+00:00"
   }
 ]
