@@ -1,5 +1,10 @@
 [
   {
+    "title": "GPT-5.6 Sol Ascends for Token Efficiency; How Does It Stack Up Against Other Models?",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/06/gpt-5-6-sol-ascends-for-token-efficiency-how-does-it-stack-up-against-other-models.aspx",
+    "pubDate": "2026-08-06T19:11:00+00:00"
+  },
+  {
     "title": "VS Code 1.132 Sharpens Agent Workflows with Side Chats, Browser Comments",
     "link": "https://visualstudiomagazine.com/articles/2026/08/05/vs-code-1-132-sharpens-agent-workflows-with-side-chats-browser-comments.aspx",
     "pubDate": "2026-08-05T16:13:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Dev Revisits Visual Studio After Nearly a Decade, Gets Lost in AI-Era Completion Maze",
     "link": "https://visualstudiomagazine.com/articles/2026/07/28/dev-revisits-visual-studio-after-nearly-a-decade-gets-lost-in-ai-era-completion-maze.aspx",
     "pubDate": "2026-07-28T18:04:00+00:00"
-  },
-  {
-    "title": "Oracle Leans on VS Code for New AI Dev Tooling",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx",
-    "pubDate": "2026-07-27T19:38:00+00:00"
   }
 ]

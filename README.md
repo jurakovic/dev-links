@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-06 github-ai</small>  
+<small>[A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-06 visualstudiomagazine</small>  
+<small>[GPT-5.6 Sol Ascends for Token Efficiency; How Does It Stack Up Against Other Models?](https://visualstudiomagazine.com/articles/2026/08/06/gpt-5-6-sol-ascends-for-token-efficiency-how-does-it-stack-up-against-other-models.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-06 simonwillison</small>  
+<small>[datasette 1.0a38](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-06 simonwillison</small>  
+<small>[datasette 0.65.3](https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-06 simonwillison</small>  
+<small>[Simon Willison on Technical Blogging](https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 erikej</small>  
+<small>[From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-06 dotnet</small>  
+<small>[Test reporting in Microsoft.Testing.Platform: from red build to root cause](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 bencane</small>  
 <small>[To make a service more stable, eliminate dependencies](https://bencane.com/posts/2026-08-06-eliminate-dependencies/)</small>
 
@@ -15,15 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
 <small>[Introducing Muse Code and Muse Spark 1.2](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
-<small>[Third-party cyber evaluations involving OpenAI models](https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
-<small>[Incident Report: unsanctioned agent behaviour during cyber testing](https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
-<small>[One-shotting a Raccoon Heist game using Claude Fable 5](https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-05 visualstudiomagazine</small>  
 <small>[VS Code 1.132 Sharpens Agent Workflows with Side Chats, Browser Comments](https://visualstudiomagazine.com/articles/2026/08/05/vs-code-1-132-sharpens-agent-workflows-with-side-chats-browser-comments.aspx)</small>
@@ -193,17 +205,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-28 third-bit</small>  
 <small>[Orwell, Dali, and AI](https://third-bit.com/2026/07/28/orwell-dali-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-27 visualstudiomagazine</small>  
-<small>[Oracle Leans on VS Code for New AI Dev Tooling](https://visualstudiomagazine.com/articles/2026/07/27/oracle-leans-on-vs-code-for-new-ai-dev-tooling.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
 <small>[The harness is all you need (mostly)](https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
 <small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-27 dotnet</small>  
-<small>[Analyze MSBuild Binary Logs with Copilot in VS Code](https://devblogs.microsoft.com/dotnet/msbuild-binlog-analyzer-vscode/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/)</small>
@@ -249,9 +255,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azuresqlblog</small>  
 <small>[Regex-based dynamic data masking in Azure SQL Database (preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-22 github-ai</small>  
-<small>[Copilot vs. raw API access: What are you actually paying for?](https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-22 antirez</small>  
 <small>[Not just development, distribution of software may change as well](http://antirez.com/news/170)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 azure-sql</small>  
 <small>[T-SQL Hygiene: What’s the Big Deal with SET NOCOUNT ON?](https://devblogs.microsoft.com/azure-sql/tsql-nocount/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-16 pragmaticengineer</small>  
-<small>[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html",
+    "pubDate": "2026-08-06T18:00:00+00:00"
+  },
+  {
     "title": "Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio",
     "link": "https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html",
     "pubDate": "2026-06-21T16:01:03+00:00"
@@ -18,10 +23,5 @@
     "title": "SqlServer.Rules 5.0.0 is out 🎉",
     "link": "https://erikej.github.io/sqlserver/dacfx/2026/05/21/sql-dacfx-rules.html",
     "pubDate": "2026-05-21T12:43:21+00:00"
-  },
-  {
-    "title": "Launching the SSMS Extension Gallery",
-    "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/05/20/ssms-extensions-sql.html",
-    "pubDate": "2026-05-20T11:28:49+00:00"
   }
 ]
