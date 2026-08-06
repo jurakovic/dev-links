@@ -1,27 +1,27 @@
 [
   {
+    "title": "An AI model from Meta also hacked another company during testing",
+    "link": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+    "pubDate": "2026-08-06T00:25:27+00:00"
+  },
+  {
+    "title": "Introducing Muse Code and Muse Spark 1.2",
+    "link": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+    "pubDate": "2026-08-05T23:58:35+00:00"
+  },
+  {
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "link": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything",
+    "pubDate": "2026-08-05T23:45:32+00:00"
+  },
+  {
+    "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+    "link": "https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything",
+    "pubDate": "2026-08-05T23:32:06+00:00"
+  },
+  {
     "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
     "link": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
     "pubDate": "2026-08-05T19:42:38+00:00"
-  },
-  {
-    "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-    "link": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-    "pubDate": "2026-08-04T23:58:24+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.26",
-    "link": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-    "pubDate": "2026-08-04T22:00:58+00:00"
-  },
-  {
-    "title": "PipeNetwork/minimax-h3-mlx",
-    "link": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-    "pubDate": "2026-08-04T19:10:09+00:00"
-  },
-  {
-    "title": "llm 0.32",
-    "link": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-    "pubDate": "2026-08-04T17:15:33+00:00"
   }
 ]
