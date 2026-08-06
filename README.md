@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 bencane</small>  
+<small>[To make a service more stable, eliminate dependencies](https://bencane.com/posts/2026-08-06-eliminate-dependencies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-08-06 db-berater</small>  
+<small>[Partition a big table with zero downtime](https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-06 simonwillison</small>  
 <small>[An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything)</small>
 
@@ -27,6 +33,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-05 pragmaticengineer</small>  
 <small>[The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-05 azuresqlblog</small>  
+<small>[HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity](https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-05 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video](http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-16 pragmaticengineer</small>  
 <small>[The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 visualstudio</small>  
-<small>[Visual Studio Administrator? Join our Private Marketplace Preview!](https://devblogs.microsoft.com/visualstudio/visual-studio-administrator-join-our-private-marketplace-preview/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-16 bencane</small>  
-<small>[Sometimes the most resilient thing a system can do isn’t retry](https://bencane.com/posts/2026-07-16-compensating-transactions/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-15 azure-sql</small>  
-<small>[MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/)</small>
 

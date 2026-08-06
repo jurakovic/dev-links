@@ -1,5 +1,10 @@
 [
   {
+    "title": "Partition a big table with zero downtime",
+    "link": "https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/",
+    "pubDate": "2026-08-06T08:49:02+00:00"
+  },
+  {
     "title": "WHERE 1 = 1 – good practice?",
     "link": "https://www.db-berater.de/2025/11/where-1-1-good-practice/",
     "pubDate": "2025-11-04T12:28:49+00:00"
@@ -18,10 +23,5 @@
     "title": "When „Auto Update Statistics“ will not update your statistics",
     "link": "https://www.db-berater.de/2025/01/when-auto-update-statistics-will-not-update-your-statistics/",
     "pubDate": "2025-01-08T14:05:03+00:00"
-  },
-  {
-    "title": "Is SWITCH PARTITION a bad idea?",
-    "link": "https://www.db-berater.de/2025/01/is-switch-partition-a-bad-idea/",
-    "pubDate": "2025-01-06T05:04:40+00:00"
   }
 ]
