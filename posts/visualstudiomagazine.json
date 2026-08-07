@@ -1,5 +1,10 @@
 [
   {
+    "title": "Copilot Credit Complaints Keep Coming: 'Too Expensive to Use'",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/07/copilot-credit-complaints-keep-coming-too-expensive-to-use.aspx",
+    "pubDate": "2026-08-07T16:19:00+00:00"
+  },
+  {
     "title": "VS Code Agent Plugins Go Cross-Client with New Open Standard",
     "link": "https://visualstudiomagazine.com/articles/2026/08/06/vs-code-agent-plugins-go-cross-client-with-new-open-standard.aspx",
     "pubDate": "2026-08-06T23:49:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio July Update Brings Copilot Agent and Built-In Skills",
     "link": "https://visualstudiomagazine.com/articles/2026/07/30/visual-studio-july-update-brings-copilot-agent-and-built-in-skills.aspx",
     "pubDate": "2026-07-30T17:09:00+00:00"
-  },
-  {
-    "title": "VS Code 1.131 Adds Built-In Dictation, Hybrid Markdown Editing and Subagent Status",
-    "link": "https://visualstudiomagazine.com/articles/2026/07/29/vs-code-1-131-adds-built-in-dictation-hybrid-markdown-editing-and-subagent-status.aspx",
-    "pubDate": "2026-07-29T20:38:00+00:00"
   }
 ]

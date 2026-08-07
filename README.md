@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-07 simonwillison</small>  
+<small>[Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)](https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-07 visualstudiomagazine</small>  
+<small>[Copilot Credit Complaints Keep Coming: 'Too Expensive to Use'](https://visualstudiomagazine.com/articles/2026/08/07/copilot-credit-complaints-keep-coming-too-expensive-to-use.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-07 simonwillison</small>  
+<small>[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-07 netflix</small>  
+<small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-07 seangoedecke</small>  
 <small>[How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/)</small>
 
@@ -45,12 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-08-06 db-berater</small>  
 <small>[Partition a big table with zero downtime](https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-06 simonwillison</small>  
-<small>[An AI model from Meta also hacked another company during testing](https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-05 simonwillison</small>  
-<small>[Introducing Muse Code and Muse Spark 1.2](https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-05 visualstudiomagazine</small>  
 <small>[VS Code 1.132 Sharpens Agent Workflows with Side Chats, Browser Comments](https://visualstudiomagazine.com/articles/2026/08/05/vs-code-1-132-sharpens-agent-workflows-with-side-chats-browser-comments.aspx)</small>
@@ -168,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-30 bencane</small>  
 <small>[Caching isn’t hard. Some data is hard to cache](https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-29 visualstudiomagazine</small>  
-<small>[VS Code 1.131 Adds Built-In Dictation, Hybrid Markdown Editing and Subagent Status](https://visualstudiomagazine.com/articles/2026/07/29/vs-code-1-131-adds-built-in-dictation-hybrid-markdown-editing-and-subagent-status.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-07-29 hillelwayne</small>  
 <small>[Logic for Programmers is Now Available](https://www.hillelwayne.com/post/lfp/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-17 microservices</small>  
 <small>[Migrating a Claude Code skill from WebFetch to the new CircleCI CLI: lessons learned about tool and API design](http://microservices.io//post/deployment-pipeline/2026/07/17/from-webfetch-to-circleci-cli-lessons-learned.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-16 azure-sql</small>  
-<small>[T-SQL Hygiene: What’s the Big Deal with SET NOCOUNT ON?](https://devblogs.microsoft.com/azure-sql/tsql-nocount/)</small>
 
