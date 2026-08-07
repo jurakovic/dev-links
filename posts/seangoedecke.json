@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to keep thinking",
+    "link": "https://seangoedecke.com/how-to-keep-thinking/",
+    "pubDate": "2026-08-07T10:01:36+00:00"
+  },
+  {
     "title": "Giving and taking credit in big tech companies",
     "link": "https://seangoedecke.com/giving-and-taking-credit/",
     "pubDate": "2026-08-02T16:01:27+00:00"
@@ -18,10 +23,5 @@
     "title": "LLMs reward expertise",
     "link": "https://seangoedecke.com/llms-reward-expertise/",
     "pubDate": "2026-07-24T17:04:52+00:00"
-  },
-  {
-    "title": "Powerful AIs might escape containment by releasing themselves as open-weight models",
-    "link": "https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/",
-    "pubDate": "2026-07-23T16:01:28+00:00"
   }
 ]

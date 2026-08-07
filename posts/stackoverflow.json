@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to be fearlessly AI native",
+    "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
+    "pubDate": "2026-08-07T07:40:00+00:00"
+  },
+  {
     "title": "Explorers, exploiters, and the myth of the 100x engineer",
     "link": "https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/",
     "pubDate": "2026-08-05T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "What happens to the internet when robots act like humans?",
     "link": "https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/",
     "pubDate": "2026-07-31T07:40:00+00:00"
-  },
-  {
-    "title": "Your trusted knowledge layer: Introducing Stack Internal's new platform experience",
-    "link": "https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/",
-    "pubDate": "2026-07-30T15:10:00+00:00"
   }
 ]

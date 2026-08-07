@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-07 seangoedecke</small>  
+<small>[How to keep thinking](https://seangoedecke.com/how-to-keep-thinking/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-07 stackoverflow</small>  
+<small>[How to be fearlessly AI native](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-07 bartwullems</small>  
+<small>[Enabling diagnostics in a YAML pipeline in Azure DevOps](https://bartwullems.blogspot.com/2026/08/enabling-diagnostics-in-yaml-pipeline.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-06 visualstudiomagazine</small>  
 <small>[VS Code Agent Plugins Go Cross-Client with New Open Standard](https://visualstudiomagazine.com/articles/2026/08/06/vs-code-agent-plugins-go-cross-client-with-new-open-standard.aspx)</small>
 
@@ -154,17 +163,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-30 pragmaticengineer</small>  
 <small>[The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-30 stackoverflow</small>  
-<small>[Your trusted knowledge layer: Introducing Stack Internal's new platform experience](https://stackoverflow.blog/2026/07/30/introducing-stack-internal-new-platform-experience/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-30 martinfowler</small>  
 <small>[The Economic Benefit of Refactoring](https://martinfowler.com/articles/exploring-gen-ai/refactoring-economic-benefit.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-30 bencane</small>  
 <small>[Caching isn’t hard. Some data is hard to cache](https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-30 bartwullems</small>  
-<small>[Enabling the Application Insights Profiler](https://bartwullems.blogspot.com/2026/07/enabling-application-insights-profiler.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-29 visualstudiomagazine</small>  
 <small>[VS Code 1.131 Adds Built-In Dictation, Hybrid Markdown Editing and Subagent Status](https://visualstudiomagazine.com/articles/2026/07/29/vs-code-1-131-adds-built-in-dictation-hybrid-markdown-editing-and-subagent-status.aspx)</small>
@@ -243,9 +246,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-23 pragmaticengineer</small>  
 <small>[The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-23 seangoedecke</small>  
-<small>[Powerful AIs might escape containment by releasing themselves as open-weight models](https://seangoedecke.com/powerful-ais-might-escape-by-releasing-open-weight-models/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
 <small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
