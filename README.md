@@ -37,6 +37,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-06 dotnet</small>  
 <small>[Test reporting in Microsoft.Testing.Platform: from red build to root cause](https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-06 bartwullems</small>  
+<small>[EF Core savepoints: rolling back part of a transaction](https://bartwullems.blogspot.com/2026/08/ef-core-savepoints-rolling-back-part-of.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 bencane</small>  
 <small>[To make a service more stable, eliminate dependencies](https://bencane.com/posts/2026-08-06-eliminate-dependencies/)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-31 martinfowler</small>  
 <small>[The Conductor Developer](https://martinfowler.com/rachels-ramblings/conductor-developer.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-07-31 bartwullems</small>  
-<small>[Reading a Profiler trace without guessing](https://bartwullems.blogspot.com/2026/07/reading-profiler-trace-without-guessing.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-07-31 stackoverflow</small>  
 <small>[What happens to the internet when robots act like humans?](https://stackoverflow.blog/2026/07/31/what-happens-internet-when-robots-act-like-humans/)</small>

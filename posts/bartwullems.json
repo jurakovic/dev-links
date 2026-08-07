@@ -5,6 +5,11 @@
     "pubDate": "2026-08-07T07:00:00+00:00"
   },
   {
+    "title": "EF Core savepoints: rolling back part of a transaction",
+    "link": "https://bartwullems.blogspot.com/2026/08/ef-core-savepoints-rolling-back-part-of.html",
+    "pubDate": "2026-08-06T15:20:00+00:00"
+  },
+  {
     "title": "Passing custom parameters through OpenIddict's client authorization request",
     "link": "https://bartwullems.blogspot.com/2026/08/passing-custom-parameters-through.html",
     "pubDate": "2026-08-05T07:02:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Why \"AI is just the next compiler\" doesn't hold up",
     "link": "https://bartwullems.blogspot.com/2026/08/why-ai-is-just-next-compiler-doesnt.html",
     "pubDate": "2026-08-03T05:46:00+00:00"
-  },
-  {
-    "title": "Reading a Profiler trace without guessing",
-    "link": "https://bartwullems.blogspot.com/2026/07/reading-profiler-trace-without-guessing.html",
-    "pubDate": "2026-07-31T08:49:00+00:00"
   }
 ]
