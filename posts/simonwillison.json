@@ -1,5 +1,10 @@
 [
   {
+    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+    "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+    "pubDate": "2026-08-08T14:06:41+00:00"
+  },
+  {
     "title": "Quoting John Gruber",
     "link": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
     "pubDate": "2026-08-08T00:10:40+00:00"
@@ -18,10 +23,5 @@
     "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
     "link": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
     "pubDate": "2026-08-07T16:18:51+00:00"
-  },
-  {
-    "title": "datasette 1.0a38",
-    "link": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
-    "pubDate": "2026-08-06T18:24:34+00:00"
   }
 ]
