@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
 <small>[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 lethain</small>  
+<small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
 <small>[Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-17 github-eng</small>  
 <small>[The cost of saying yes has changed](https://github.blog/engineering/the-cost-of-saying-yes-has-changed/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-17 microservices</small>  
-<small>[Migrating a Claude Code skill from WebFetch to the new CircleCI CLI: lessons learned about tool and API design](http://microservices.io//post/deployment-pipeline/2026/07/17/from-webfetch-to-circleci-cli-lessons-learned.html)</small>
 
