@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
+<small>[I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
+<small>[Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
 <small>[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything)</small>
 
@@ -13,6 +19,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
 <small>[Quoting John Gruber](https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-08 swizec</small>  
+<small>[Beware the spaceships](https://swizec.com/blog/beware-the-spaceships)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-07 simonwillison</small>  
 <small>[Now we have a timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything)</small>
 
@@ -21,9 +30,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-07 visualstudiomagazine</small>  
 <small>[Copilot Credit Complaints Keep Coming: 'Too Expensive to Use'](https://visualstudiomagazine.com/articles/2026/08/07/copilot-credit-complaints-keep-coming-too-expensive-to-use.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-07 simonwillison</small>  
-<small>[The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI](https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-07 netflix</small>  
 <small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)</small>
@@ -241,9 +247,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-24 lucumr-pocoo</small>  
 <small>[Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-24 seangoedecke</small>  
-<small>[LLMs reward expertise](https://seangoedecke.com/llms-reward-expertise/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-24 dbreunig</small>  
 <small>[Manage Your Agent’s Loadout with Dr. Skill](https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-17 netflix</small>  
 <small>[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-17 github-eng</small>  
-<small>[The cost of saying yes has changed](https://github.blog/engineering/the-cost-of-saying-yes-has-changed/)</small>
 
