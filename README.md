@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
+<small>[Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
 <small>[I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
@@ -195,9 +198,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-07-29 andrewlock</small>  
 <small>[Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends](https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-29 seangoedecke</small>  
-<small>[You don't have to be smart if you can think clearly](https://seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 dotnet</small>  
 <small>[Announcing v2.0 of the official MCP C# SDK](https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/)</small>
