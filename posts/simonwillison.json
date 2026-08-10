@@ -1,27 +1,27 @@
 [
   {
+    "title": "Quoting OpenClaw",
+    "link": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+    "pubDate": "2026-08-10T02:05:16+00:00"
+  },
+  {
+    "title": "Quoting Claude Opus 5 system prompt",
+    "link": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+    "pubDate": "2026-08-09T23:31:39+00:00"
+  },
+  {
+    "title": "GitHub Models is now retired",
+    "link": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "pubDate": "2026-08-09T22:48:05+00:00"
+  },
+  {
+    "title": "SQLite compressed text-history prototypes",
+    "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+    "pubDate": "2026-08-09T22:05:00+00:00"
+  },
+  {
     "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
     "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
     "pubDate": "2026-08-08T22:36:03+00:00"
-  },
-  {
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "link": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-    "pubDate": "2026-08-08T14:06:41+00:00"
-  },
-  {
-    "title": "Quoting John Gruber",
-    "link": "https://simonwillison.net/2026/Aug/8/john-gruber/#atom-everything",
-    "pubDate": "2026-08-08T00:10:40+00:00"
-  },
-  {
-    "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-    "link": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
-    "pubDate": "2026-08-07T23:55:58+00:00"
-  },
-  {
-    "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-    "link": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
-    "pubDate": "2026-08-07T19:18:09+00:00"
   }
 ]
