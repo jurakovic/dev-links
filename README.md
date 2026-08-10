@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-10 damienbod</small>  
+<small>[Implement BFF using Auth0, Angular and ASP.NET Core](https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-10 bartwullems</small>  
+<small>[Remote control: steering your AI coding session from your phone](https://bartwullems.blogspot.com/2026/08/remote-control-steering-your-ai-coding.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-10 simonwillison</small>  
 <small>[Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything)</small>
 
@@ -132,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-08-03 idunno</small>  
 <small>[Group your Dependabot Updates](https://idunno.org/group-your-dependabot-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-03 bartwullems</small>  
-<small>[Why "AI is just the next compiler" doesn't hold up](https://bartwullems.blogspot.com/2026/08/why-ai-is-just-next-compiler-doesnt.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-08-02 developertoarchitect</small>  
 <small>[Lesson 222 - Transactional Sagas and Atomicity (August 3, 2026)](http://www.developertoarchitect.com/lessons/lesson222.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-07-19 steven-giesel</small>  
 <small>[Adding static getter thanks to extensions](https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-17 netflix</small>  
-<small>[In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4)</small>
 
