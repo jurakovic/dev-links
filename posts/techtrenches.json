@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Year Behind Tech Trenches",
+    "link": "https://techtrenches.dev/p/tech-trenches-year-one-audit",
+    "pubDate": "2026-08-10T14:30:50+00:00"
+  },
+  {
     "title": "The Guardrail Is Now Part of the Attack",
     "link": "https://techtrenches.dev/p/ai-guardrails-attack-surface",
     "pubDate": "2026-08-04T14:32:34+00:00"
@@ -18,10 +23,5 @@
     "title": "We Pay You to Slow Us Down",
     "link": "https://techtrenches.dev/p/we-pay-you-to-slow-us-down",
     "pubDate": "2026-07-15T16:21:50+00:00"
-  },
-  {
-    "title": "China Built the Grid Under the AI War",
-    "link": "https://techtrenches.dev/p/china-built-the-grid-under-the-ai",
-    "pubDate": "2026-07-14T14:30:32+00:00"
   }
 ]
