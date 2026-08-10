@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-10 azure-sql</small>  
+<small>[Build Locally, Ship to Cloud for $0: Azure SQL for Modern App Developers](https://devblogs.microsoft.com/azure-sql/build-locally-ship-to-cloud-for-0-azure-sql-for-modern-app-developers/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-10 visualstudiomagazine</small>  
+<small>[Microsoft Study Shows Just How 'Agentic' GitHub Copilot Has Become](https://visualstudiomagazine.com/articles/2026/08/10/microsoft-study-shows-just-how-agentic-github-copilot-has-become.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-ai</small>  
+<small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-eng</small>  
+<small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-10 techtrenches</small>  
 <small>[The Year Behind Tech Trenches](https://techtrenches.dev/p/tech-trenches-year-one-audit)</small>
 
@@ -181,9 +193,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-30 github-ai</small>  
 <small>[Stacked sessions and pull requests in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-07-30 visualstudiomagazine</small>  
-<small>[Visual Studio July Update Brings Copilot Agent and Built-In Skills](https://visualstudiomagazine.com/articles/2026/07/30/visual-studio-july-update-brings-copilot-agent-and-built-in-skills.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-30 pragmaticengineer</small>  
 <small>[The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/)</small>
 
@@ -231,9 +240,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
 <small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-27 github-ai</small>  
-<small>[GitHub Copilot app for Beginners: Getting started](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-27 sqlperformance</small>  
 <small>[It's Time to Break Up with Archive Tables](https://sqlperformance.com/2026/07/partitioning/its-time-to-break-up-with-archive-tables)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 paulhammant</small>  
 <small>[Build-time AI vs Run-time AI](https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 microservices</small>  
-<small>[Q&A about my Explore DDD designing microservices workshop](http://microservices.io//post/architecture/2026/07/20/qa-explore-ddd-microservices-workshop.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-07-20 addyosmani</small>  
-<small>[Software Factories, Light and Dark](https://addyosmani.com/blog/software-factories/)</small>
 

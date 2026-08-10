@@ -1,5 +1,10 @@
 [
   {
+    "title": "Build Locally, Ship to Cloud for $0: Azure SQL for Modern App Developers",
+    "link": "https://devblogs.microsoft.com/azure-sql/build-locally-ship-to-cloud-for-0-azure-sql-for-modern-app-developers/",
+    "pubDate": "2026-08-10T21:35:53+00:00"
+  },
+  {
     "title": "Refactor your database with SQL projects in VS Code",
     "link": "https://devblogs.microsoft.com/azure-sql/refactor-your-database-with-sql-projects-in-vs-code/",
     "pubDate": "2026-07-28T13:08:29+00:00"
@@ -18,10 +23,5 @@
     "title": "T-SQL Hygiene: What’s the Big Deal with SET NOCOUNT ON?",
     "link": "https://devblogs.microsoft.com/azure-sql/tsql-nocount/",
     "pubDate": "2026-07-16T17:47:28+00:00"
-  },
-  {
-    "title": "MSSQL Extension for VS Code: Shortcuts Configuration, Enhanced Results Grid Experience, and More",
-    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-july2026/",
-    "pubDate": "2026-07-15T17:42:31+00:00"
   }
 ]
