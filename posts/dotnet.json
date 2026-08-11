@@ -1,5 +1,15 @@
 [
   {
+    "title": ".NET 11 Preview 7 is now available!",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/",
+    "pubDate": "2026-08-11T18:30:00+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework August 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/",
+    "pubDate": "2026-08-11T18:28:00+00:00"
+  },
+  {
     "title": "Test reporting in Microsoft.Testing.Platform: from red build to root cause",
     "link": "https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/",
     "pubDate": "2026-08-06T17:05:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Strengthening NuGet Supply Chain Security: Reducing API Key Lifetime",
     "link": "https://devblogs.microsoft.com/dotnet/strengthening-nuget-supply-chain-security-reducing-api-key-lifetime/",
     "pubDate": "2026-08-03T18:10:00+00:00"
-  },
-  {
-    "title": "From generated code to trusted code with a unit-test agent",
-    "link": "https://devblogs.microsoft.com/dotnet/polyglot-unit-testing-agent/",
-    "pubDate": "2026-07-31T15:00:15+00:00"
-  },
-  {
-    "title": "Announcing v2.0 of the official MCP C# SDK",
-    "link": "https://devblogs.microsoft.com/dotnet/announcing-v20-of-the-official-mcp-csharp-sdk/",
-    "pubDate": "2026-07-28T22:00:00+00:00"
   }
 ]
