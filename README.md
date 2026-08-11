@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
+<small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-11 martinfowler</small>  
+<small>[TDD inside the agent loop - theater or actual value?](https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-11 stackoverflow</small>  
 <small>[Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/)</small>
 
@@ -38,7 +44,7 @@
 <small>[Remote control: steering your AI coding session from your phone](https://bartwullems.blogspot.com/2026/08/remote-control-steering-your-ai-coding.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-10 simonwillison</small>  
-<small>[Quoting OpenClaw](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything)</small>
+<small>[Quoting OpenClaw (running Opus 4.6)](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-09 simonwillison</small>  
 <small>[Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything)</small>
@@ -226,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 azure-sql</small>  
 <small>[Refactor your database with SQL projects in VS Code](https://devblogs.microsoft.com/azure-sql/refactor-your-database-with-sql-projects-in-vs-code/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-28 martinfowler</small>  
-<small>[Why I’m Writing Rachel’s Ramblings](https://martinfowler.com/rachels-ramblings/intro.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
 <small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-20 azuresqlblog</small>  
 <small>[Recently released: Updates to SQL projects in SSMS, VS Code, and SqlPackage](https://techcommunity.microsoft.com/t5/azure-sql-blog/recently-released-updates-to-sql-projects-in-ssms-vs-code-and/ba-p/4538341)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-20 paulhammant</small>  
-<small>[Build-time AI vs Run-time AI](https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/)</small>
 
