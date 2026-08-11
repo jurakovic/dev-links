@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-11 seangoedecke</small>  
+<small>[No, local models will not win](https://seangoedecke.com/local-models-will-not-win/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-10 simonwillison</small>  
+<small>[Introducing Muse Glimmer](https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-10 azure-sql</small>  
 <small>[Build Locally, Ship to Cloud for $0: Azure SQL for Modern App Developers](https://devblogs.microsoft.com/azure-sql/build-locally-ship-to-cloud-for-0-azure-sql-for-modern-app-developers/)</small>
 
@@ -42,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
 <small>[I got an email about resistance](https://seangoedecke.com/i-got-an-email-about-resistance/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-08 simonwillison</small>  
-<small>[Auto mode is now the default in Claude Code for Pro, Max, and Team plans](https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 lethain</small>  
 <small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
@@ -165,9 +168,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-01 steven-giesel</small>  
 <small>[.NET 11 Performance Edition](https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-07-31 seangoedecke</small>  
-<small>[AI models need moral support to make discoveries](https://seangoedecke.com/ai-models-need-moral-support/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-31 netflix</small>  
 <small>[Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4)</small>

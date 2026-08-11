@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Muse Glimmer",
+    "link": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
+    "pubDate": "2026-08-10T23:56:03+00:00"
+  },
+  {
     "title": "Quoting OpenClaw",
     "link": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
     "pubDate": "2026-08-10T02:05:16+00:00"
@@ -18,10 +23,5 @@
     "title": "SQLite compressed text-history prototypes",
     "link": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
     "pubDate": "2026-08-09T22:05:00+00:00"
-  },
-  {
-    "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-    "link": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
-    "pubDate": "2026-08-08T22:36:03+00:00"
   }
 ]
