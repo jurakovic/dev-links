@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
+<small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-12 simonwillison</small>  
+<small>[Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/#atom-everything)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-12 bartwullems</small>  
 <small>[Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'](https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html)</small>
 
@@ -27,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 visualstudio</small>  
 <small>[Today I will… manage Git Submodules without leaving the IDE](https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leaving-the-ide/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 azuresqlblog</small>  
-<small>[SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference](https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-10 bartwullems</small>  
 <small>[Remote control: steering your AI coding session from your phone](https://bartwullems.blogspot.com/2026/08/remote-control-steering-your-ai-coding.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-10 simonwillison</small>  
-<small>[Quoting OpenClaw (running Opus 4.6)](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
 <small>[Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)</small>

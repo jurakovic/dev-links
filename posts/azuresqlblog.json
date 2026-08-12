@@ -1,10 +1,5 @@
 [
   {
-    "title": "SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962",
-    "pubDate": "2026-08-11T14:10:55+00:00"
-  },
-  {
     "title": "HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254",
     "pubDate": "2026-08-05T11:18:19+00:00"
@@ -23,5 +18,10 @@
     "title": "Recently released: Updates to SQL projects in SSMS, VS Code, and SqlPackage",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/recently-released-updates-to-sql-projects-in-ssms-vs-code-and/ba-p/4538341",
     "pubDate": "2026-07-20T12:45:00+00:00"
+  },
+  {
+    "title": "Generally Available: SQL Migration to SQL Server on Azure Virtual Machines in Azure Architecture",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/generally-available-sql-migration-to-sql-server-on-azure-virtual/ba-p/4536939",
+    "pubDate": "2026-07-14T15:01:52+00:00"
   }
 ]
