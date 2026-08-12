@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-12 bartwullems</small>  
+<small>[Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'](https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-11 simonwillison</small>  
 <small>[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-11 simonwillison</small>  
 <small>[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-11 simonwillison</small>  
+<small>[datasette-upload-dbs 0.5a0](https://simonwillison.net/2026/Aug/11/datasette-upload-dbs/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 dotnet</small>  
 <small>[.NET 11 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/)</small>
@@ -21,6 +27,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 visualstudio</small>  
 <small>[Today I will… manage Git Submodules without leaving the IDE](https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leaving-the-ide/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 azuresqlblog</small>  
+<small>[SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference](https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
@@ -63,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-10 simonwillison</small>  
 <small>[Quoting OpenClaw (running Opus 4.6)](https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-09 simonwillison</small>  
-<small>[Quoting Claude Opus 5 system prompt](https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
 <small>[Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)</small>
@@ -132,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-05 stackoverflow</small>  
 <small>[Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-05 bartwullems</small>  
-<small>[Passing custom parameters through OpenIddict's client authorization request](https://bartwullems.blogspot.com/2026/08/passing-custom-parameters-through.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-04 third-bit</small>  
 <small>[Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-20 azure-sql</small>  
 <small>[T-SQL Hygiene: Introducing the Covering Index](https://devblogs.microsoft.com/azure-sql/tsql-covering-index/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2026-07-20 haacked</small>  
-<small>[Sign Commits from Anywhere Without Your Keys Going Anywhere](https://haacked.com/archive/2026/07/20/remote-commit-signing/)</small>
 
