@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
+<small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-12 simonwillison</small>  
 <small>[DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
 <small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-20 techtrenches</small>  
-<small>[Five Little Pigs](https://techtrenches.dev/p/five-little-pigs)</small>
 
