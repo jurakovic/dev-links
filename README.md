@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-13 third-bit</small>  
+<small>[First Closure Workshop](https://third-bit.com/2026/08/13/first-closure-workshop/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
 <small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-21 swizec</small>  
 <small>[swizec.com is now on TimberJS, a new React framework](https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-21 third-bit</small>  
-<small>[Disasters for Small Teams](https://third-bit.com/2026/07/25/disaster/)</small>
 

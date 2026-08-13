@@ -1,5 +1,10 @@
 [
   {
+    "title": "First Closure Workshop",
+    "link": "https://third-bit.com/2026/08/13/first-closure-workshop/",
+    "pubDate": "2026-08-13T16:01:36+00:00"
+  },
+  {
     "title": "LLM Programming Exercises",
     "link": "https://third-bit.com/2026/08/12/llm-programming-exercises/",
     "pubDate": "2026-08-12T22:01:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Orwell, Dali, and AI",
     "link": "https://third-bit.com/2026/07/28/orwell-dali-ai/",
     "pubDate": "2026-07-28T00:00:00+00:00"
-  },
-  {
-    "title": "Disasters for Small Teams",
-    "link": "https://third-bit.com/2026/07/25/disaster/",
-    "pubDate": "2026-07-21T00:00:00+00:00"
   }
 ]
