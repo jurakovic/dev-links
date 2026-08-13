@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
+<small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 azure-sql</small>  
+<small>[Your best friend: BlockOnPossibleDataLoss=True](https://devblogs.microsoft.com/azure-sql/blockonpossibledataloss/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-13 third-bit</small>  
 <small>[First Closure Workshop](https://third-bit.com/2026/08/13/first-closure-workshop/)</small>
 
@@ -160,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-04 third-bit</small>  
 <small>[Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 dotnet</small>  
-<small>[Beyond Chat: live Speech-to-Text with Foundry Local and C#](https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-04 github-ai</small>  
 <small>[How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-22 antirez</small>  
 <small>[Not just development, distribution of software may change as well](http://antirez.com/news/170)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-21 swizec</small>  
-<small>[swizec.com is now on TimberJS, a new React framework](https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework)</small>
 

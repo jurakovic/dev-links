@@ -1,5 +1,10 @@
 [
   {
+    "title": "Routing and Failover for Microsoft.Extensions.AI",
+    "link": "https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/",
+    "pubDate": "2026-08-13T19:30:00+00:00"
+  },
+  {
     "title": "Instructions Hygiene – What Frontier Models Still Need You to Say",
     "link": "https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/",
     "pubDate": "2026-08-12T17:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Test reporting in Microsoft.Testing.Platform: from red build to root cause",
     "link": "https://devblogs.microsoft.com/dotnet/microsoft-testing-platform-reporting/",
     "pubDate": "2026-08-06T17:05:00+00:00"
-  },
-  {
-    "title": "Beyond Chat: live Speech-to-Text with Foundry Local and C#",
-    "link": "https://devblogs.microsoft.com/dotnet/foundry-local-live-speech-to-text-csharp/",
-    "pubDate": "2026-08-04T21:00:00+00:00"
   }
 ]
