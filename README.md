@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
+<small>[sqlite-utils 4.2.1](https://simonwillison.net/2026/Aug/13/sqlite-utils-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
+<small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
+<small>[sqlite-utils 4.2](https://simonwillison.net/2026/Aug/13/sqlite-utils/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
+<small>[llm-gemini 0.33](https://simonwillison.net/2026/Aug/13/llm-gemini/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
 
@@ -16,14 +28,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
 <small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
+<small>[alchemy-utils 0.1a1](https://simonwillison.net/2026/Aug/13/alchemy-utils/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-12 simonwillison</small>  
 <small>[DeepSeek V4 Pro 0813 (on OpenRouter)](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-12 third-bit</small>  
 <small>[LLM Programming Exercises](https://third-bit.com/2026/08/12/llm-programming-exercises/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-12 simonwillison</small>  
-<small>[alchemy-utils 0.1a0](https://simonwillison.net/2026/Aug/12/alchemy-utils/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-12 github-ai</small>  
 <small>[Write your first prompt with the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/)</small>
@@ -37,17 +49,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
 <small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-12 simonwillison</small>  
-<small>[Quoting Florian Herrengt](https://simonwillison.net/2026/Aug/12/florian-herrengt/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-12 bartwullems</small>  
 <small>[Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'](https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-11 simonwillison</small>  
-<small>[There are no lossless transformations of natural-language text](https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-11 simonwillison</small>  
-<small>[Stealing Reasoning Traces from Proprietary LLM APIs](https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 dotnet</small>  
 <small>[.NET 11 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/)</small>
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-07 bartwullems</small>  
 <small>[Enabling diagnostics in a YAML pipeline in Azure DevOps](https://bartwullems.blogspot.com/2026/08/enabling-diagnostics-in-yaml-pipeline.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-06 visualstudiomagazine</small>  
-<small>[VS Code Agent Plugins Go Cross-Client with New Open Standard](https://visualstudiomagazine.com/articles/2026/08/06/vs-code-agent-plugins-go-cross-client-with-new-open-standard.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-06 github-ai</small>  
 <small>[A guide to slash commands in the GitHub Copilot app](https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/)</small>
