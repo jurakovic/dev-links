@@ -1,5 +1,15 @@
 [
   {
+    "title": "Renovate on Azure DevOps: picking the right work item type",
+    "link": "https://bartwullems.blogspot.com/2026/08/renovate-on-azure-devops-picking-right.html",
+    "pubDate": "2026-08-14T07:39:00+00:00"
+  },
+  {
+    "title": "Fixing \"UNABLE_TO_VERIFY_LEAF_SIGNATURE\" when running Renovate against an internal Azure DevOps server",
+    "link": "https://bartwullems.blogspot.com/2026/08/fixing-unabletoverifyleafsignature-when.html",
+    "pubDate": "2026-08-13T06:35:00+00:00"
+  },
+  {
     "title": "Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'",
     "link": "https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html",
     "pubDate": "2026-08-12T05:19:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Remote control: steering your AI coding session from your phone",
     "link": "https://bartwullems.blogspot.com/2026/08/remote-control-steering-your-ai-coding.html",
     "pubDate": "2026-08-10T05:03:00+00:00"
-  },
-  {
-    "title": "Enabling diagnostics in a YAML pipeline in Azure DevOps",
-    "link": "https://bartwullems.blogspot.com/2026/08/enabling-diagnostics-in-yaml-pipeline.html",
-    "pubDate": "2026-08-07T07:00:00+00:00"
-  },
-  {
-    "title": "EF Core savepoints: rolling back part of a transaction",
-    "link": "https://bartwullems.blogspot.com/2026/08/ef-core-savepoints-rolling-back-part-of.html",
-    "pubDate": "2026-08-06T15:20:00+00:00"
   }
 ]
