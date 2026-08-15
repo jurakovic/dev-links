@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-15 swizec</small>  
+<small>[Stop burning tokens on code review](https://swizec.com/blog/stop-burning-tokens-on-code-review)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-15 third-bit</small>  
 <small>[A Quarto Question (or Six)](https://third-bit.com/2026/08/15/quarto-question/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
 <small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
-<small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
 
