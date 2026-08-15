@@ -1,5 +1,10 @@
 [
   {
+    "title": "Northern Gannet",
+    "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+    "pubDate": "2026-08-15T03:22:00+00:00"
+  },
+  {
     "title": "Don't classify. Hallucinate!",
     "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
     "pubDate": "2026-08-14T21:54:35+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-gemini 0.33",
     "link": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
     "pubDate": "2026-08-13T19:37:34+00:00"
-  },
-  {
-    "title": "alchemy-utils 0.1a1",
-    "link": "https://simonwillison.net/2026/Aug/13/alchemy-utils/",
-    "pubDate": "2026-08-13T03:03:17+00:00"
   }
 ]
