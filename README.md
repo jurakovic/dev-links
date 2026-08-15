@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-15 third-bit</small>  
+<small>[A Quarto Question (or Six)](https://third-bit.com/2026/08/15/quarto-question/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-15 simonwillison</small>  
 <small>[Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/)</small>
 
@@ -33,6 +36,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
 <small>[sqlite-utils 4.2](https://simonwillison.net/2026/Aug/13/sqlite-utils/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
+<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
 <small>[llm-gemini 0.33](https://simonwillison.net/2026/Aug/13/llm-gemini/)</small>
@@ -262,9 +268,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
 <small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-07-28 third-bit</small>  
-<small>[Orwell, Dali, and AI](https://third-bit.com/2026/07/28/orwell-dali-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
 <small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
 <small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azuresqlblog</small>  
-<small>[Regex-based dynamic data masking in Azure SQL Database (preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938)</small>
 

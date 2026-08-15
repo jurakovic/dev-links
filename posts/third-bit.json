@@ -1,5 +1,10 @@
 [
   {
+    "title": "A Quarto Question (or Six)",
+    "link": "https://third-bit.com/2026/08/15/quarto-question/",
+    "pubDate": "2026-08-15T16:01:20+00:00"
+  },
+  {
     "title": "First Closure Workshop",
     "link": "https://third-bit.com/2026/08/13/first-closure-workshop/",
     "pubDate": "2026-08-13T16:01:36+00:00"
@@ -18,10 +23,5 @@
     "title": "Rainy Day Thoughts on AI",
     "link": "https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/",
     "pubDate": "2026-08-04T22:01:31+00:00"
-  },
-  {
-    "title": "Orwell, Dali, and AI",
-    "link": "https://third-bit.com/2026/07/28/orwell-dali-ai/",
-    "pubDate": "2026-07-28T00:00:00+00:00"
   }
 ]

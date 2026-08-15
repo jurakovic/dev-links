@@ -1,5 +1,10 @@
 [
   {
+    "title": "What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/",
+    "pubDate": "2026-08-13T20:00:00+00:00"
+  },
+  {
     "title": "SQL Server 2016 end of support is here: Plan your next steps",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/",
     "pubDate": "2026-07-14T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How the Microsoft SQL team is investing in SQL tools and experiences",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/12/05/how-the-microsoft-sql-team-is-investing-in-sql-tools-and-experiences/",
     "pubDate": "2025-12-05T17:00:00+00:00"
-  },
-  {
-    "title": "One consistent SQL: The launchpad from legacy to innovation",
-    "link": "https://www.microsoft.com/en-us/sql-server/blog/2025/11/18/one-consistent-sql-the-launchpad-from-legacy-to-innovation/",
-    "pubDate": "2025-11-18T16:00:00+00:00"
   }
 ]
