@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-16 steven-giesel</small>  
+<small>[.NET Toolbox August Update](https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-16 simonwillison</small>  
 <small>[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-23 pragmaticengineer</small>  
 <small>[The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
-<small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
 

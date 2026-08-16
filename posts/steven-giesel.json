@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET Toolbox August Update",
+    "link": "https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2",
+    "pubDate": "2026-08-16T19:16:32+00:00"
+  },
+  {
     "title": ".NET 11 Performance Edition",
     "link": "https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae",
     "pubDate": "2026-08-01T11:45:01+00:00"
@@ -18,10 +23,5 @@
     "title": "LinkedIn - What a dumbster fire",
     "link": "https://steven-giesel.com/blogPost/bf118bb2-0ea4-45ef-babb-26f67bfb0523",
     "pubDate": "2026-07-01T07:05:00+00:00"
-  },
-  {
-    "title": "Signals in Blazor",
-    "link": "https://steven-giesel.com/blogPost/495d87ca-61df-4c52-a253-8ba4abc186b7",
-    "pubDate": "2026-06-20T08:30:59+00:00"
   }
 ]
