@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Dario Amodei",
+    "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+    "pubDate": "2026-08-16T15:05:36+00:00"
+  },
+  {
     "title": "CORS Chat",
     "link": "https://simonwillison.net/2026/Aug/15/cors-chat/",
     "pubDate": "2026-08-15T14:49:54+00:00"
@@ -18,10 +23,5 @@
     "title": "sqlite-utils 4.2.1",
     "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
     "pubDate": "2026-08-13T23:53:47+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.2",
-    "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-    "pubDate": "2026-08-13T20:11:29+00:00"
   }
 ]

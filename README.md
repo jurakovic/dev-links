@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-16 simonwillison</small>  
+<small>[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-16 seangoedecke</small>  
 <small>[AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/)</small>
 
@@ -43,8 +46,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
-<small>[sqlite-utils 4.2](https://simonwillison.net/2026/Aug/13/sqlite-utils/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
+<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
 <small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
-<small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
 
