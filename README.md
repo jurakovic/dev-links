@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-16 seangoedecke</small>  
+<small>[AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-15 swizec</small>  
 <small>[Stop burning tokens on code review](https://swizec.com/blog/stop-burning-tokens-on-code-review)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-13 simonwillison</small>  
 <small>[sqlite-utils 4.2](https://simonwillison.net/2026/Aug/13/sqlite-utils/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
-<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
@@ -217,9 +217,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-08-02 developertoarchitect</small>  
 <small>[Lesson 222 - Transactional Sagas and Atomicity (August 3, 2026)](http://www.developertoarchitect.com/lessons/lesson222.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-02 seangoedecke</small>  
-<small>[Giving and taking credit in big tech companies](https://seangoedecke.com/giving-and-taking-credit/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-01 swizec</small>  
 <small>[Agents change the math on big bang migrations](https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations)</small>
 
@@ -303,4 +300,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
 <small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-23 bencane</small>  
+<small>[The closer to the edge, the more stable a platform must be](https://bencane.com/posts/2026-07-23-edge-platform-stability/)</small>
 
