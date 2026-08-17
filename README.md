@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-17 github-ai</small>  
+<small>[How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-17 simonwillison</small>  
+<small>[We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility](https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-17 steven-giesel</small>  
+<small>[xUnit.v3 4.0.0 released](https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-17 bartwullems</small>  
 <small>[Visual Studio finally gets proper Git submodule support](https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html)</small>
 
@@ -34,9 +43,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-15 simonwillison</small>  
 <small>[CORS Chat](https://simonwillison.net/2026/Aug/15/cors-chat/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-15 simonwillison</small>  
-<small>[Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-14 dbreunig</small>  
 <small>[Harnesses are Situated Agents](https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html)</small>
 
@@ -57,6 +63,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
+<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
@@ -196,9 +205,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-04 third-bit</small>  
 <small>[Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-04 github-ai</small>  
-<small>[How the GitHub legal team used Copilot CLI to streamline their workflows](https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 azuresqlblog</small>  
 <small>[Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-07-24 lucumr-pocoo</small>  
 <small>[Codeberg Divides](https://lucumr.pocoo.org/2026/7/24/codeberg-divides/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-07-24 dbreunig</small>  
-<small>[Manage Your Agent’s Loadout with Dr. Skill](https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-23 jimmybogard</small>  
-<small>[Vertical Slice Architecture Webinar](https://www.jimmybogard.com/vertical-slice-architecture-webinar/)</small>
 

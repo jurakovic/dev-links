@@ -1,5 +1,10 @@
 [
   {
+    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+    "pubDate": "2026-08-17T16:00:00+00:00"
+  },
+  {
     "title": "How to bring your software delivery workflow into GitHub with agent apps",
     "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
     "pubDate": "2026-08-14T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "A guide to slash commands in the GitHub Copilot app",
     "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
     "pubDate": "2026-08-06T19:49:34+00:00"
-  },
-  {
-    "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-    "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-    "pubDate": "2026-08-04T19:02:34+00:00"
   }
 ]
