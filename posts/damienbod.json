@@ -1,5 +1,10 @@
 [
   {
+    "title": "Use Aspire to implement and deploy the BFF security architecture",
+    "link": "https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/",
+    "pubDate": "2026-08-17T05:29:56+00:00"
+  },
+  {
     "title": "Implement BFF using Auth0, Angular and ASP.NET Core",
     "link": "https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/",
     "pubDate": "2026-08-10T05:33:55+00:00"
@@ -18,10 +23,5 @@
     "title": "ASP.NET Core background tasks with NCronJob and SignalR",
     "link": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
     "pubDate": "2026-06-08T05:39:20+00:00"
-  },
-  {
-    "title": "Aspire Azure SQL deployment bug",
-    "link": "https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/",
-    "pubDate": "2026-05-18T06:17:31+00:00"
   }
 ]

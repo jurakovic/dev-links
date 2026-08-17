@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-17 bartwullems</small>  
+<small>[Visual Studio finally gets proper Git submodule support](https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-17 damienbod</small>  
+<small>[Use Aspire to implement and deploy the BFF security architecture](https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-16 simonwillison</small>  
 <small>[Markdown SVG upgrades](https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/)</small>
 
@@ -30,6 +36,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-15 simonwillison</small>  
 <small>[Northern Gannet](https://simonwillison.net/2026/Aug/15/sighting-391300422/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-14 dbreunig</small>  
+<small>[Harnesses are Situated Agents](https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-14 stackoverflow</small>  
 <small>[No Dumb Questions: What is AI context architecture? Why not just build your own?](https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/)</small>
@@ -129,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-10 damienbod</small>  
 <small>[Implement BFF using Auth0, Angular and ASP.NET Core](https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-10 bartwullems</small>  
-<small>[Remote control: steering your AI coding session from your phone](https://bartwullems.blogspot.com/2026/08/remote-control-steering-your-ai-coding.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-09 seangoedecke</small>  
 <small>[Advanced AI sycophancy](https://seangoedecke.com/advanced-ai-sycophancy/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-07-23 jimmybogard</small>  
 <small>[Vertical Slice Architecture Webinar](https://www.jimmybogard.com/vertical-slice-architecture-webinar/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-23 pragmaticengineer</small>  
-<small>[The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-23 azure-sql</small>  
-<small>[Build locally, ship to Azure: meet Azure SQL Developer](https://devblogs.microsoft.com/azure-sql/azure-sql-developer-prpr/)</small>
 
