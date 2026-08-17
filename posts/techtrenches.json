@@ -1,5 +1,10 @@
 [
   {
+    "title": "Anthropic Watermarked the Work It Told You to Delegate",
+    "link": "https://techtrenches.dev/p/anthropic-claude-watermark",
+    "pubDate": "2026-08-17T17:39:34+00:00"
+  },
+  {
     "title": "The Year Behind Tech Trenches",
     "link": "https://techtrenches.dev/p/tech-trenches-year-one-audit",
     "pubDate": "2026-08-10T14:30:50+00:00"
@@ -18,10 +23,5 @@
     "title": "Five Little Pigs",
     "link": "https://techtrenches.dev/p/five-little-pigs",
     "pubDate": "2026-07-20T17:50:25+00:00"
-  },
-  {
-    "title": "We Pay You to Slow Us Down",
-    "link": "https://techtrenches.dev/p/we-pay-you-to-slow-us-down",
-    "pubDate": "2026-07-15T16:21:50+00:00"
   }
 ]

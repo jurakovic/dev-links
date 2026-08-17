@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-17 techtrenches</small>  
+<small>[Anthropic Watermarked the Work It Told You to Delegate](https://techtrenches.dev/p/anthropic-claude-watermark)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-17 github-ai</small>  
 <small>[How canvases make agentic workflows visible, steerable, and cost-efficient](https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
-<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
