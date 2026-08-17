@@ -1,5 +1,15 @@
 [
   {
+    "title": "Markdown SVG upgrades",
+    "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+    "pubDate": "2026-08-16T23:59:37+00:00"
+  },
+  {
+    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "pubDate": "2026-08-16T22:00:39+00:00"
+  },
+  {
     "title": "Quoting Dario Amodei",
     "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
     "pubDate": "2026-08-16T15:05:36+00:00"
@@ -13,15 +23,5 @@
     "title": "Northern Gannet",
     "link": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
     "pubDate": "2026-08-15T03:22:00+00:00"
-  },
-  {
-    "title": "Don't classify. Hallucinate!",
-    "link": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-    "pubDate": "2026-08-14T21:54:35+00:00"
-  },
-  {
-    "title": "sqlite-utils 4.2.1",
-    "link": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
-    "pubDate": "2026-08-13T23:53:47+00:00"
   }
 ]
