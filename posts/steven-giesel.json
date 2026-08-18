@@ -1,5 +1,10 @@
 [
   {
+    "title": "Claude Memory Admin",
+    "link": "https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf",
+    "pubDate": "2026-08-18T20:01:15+00:00"
+  },
+  {
     "title": "xUnit.v3 4.0.0 released",
     "link": "https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068",
     "pubDate": "2026-08-17T12:55:20+00:00"
@@ -18,10 +23,5 @@
     "title": "Adding static getter thanks to extensions",
     "link": "https://steven-giesel.com/blogPost/605274d2-719b-4b1f-b0d5-3ad9001d9b56",
     "pubDate": "2026-07-19T16:05:43+00:00"
-  },
-  {
-    "title": "Set LogLevel of Blazor",
-    "link": "https://steven-giesel.com/blogPost/1cfa82eb-1108-4355-8815-615b094bf9ec",
-    "pubDate": "2026-07-12T14:22:23+00:00"
   }
 ]

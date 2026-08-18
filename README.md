@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-18 simonwillison</small>  
+<small>[Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-18 steven-giesel</small>  
+<small>[Claude Memory Admin](https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-18 azure-sql</small>  
+<small>[The Two Hybrid Searches in Microsoft SQL](https://devblogs.microsoft.com/azure-sql/two-hybrid-search/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-18 martinfowler</small>  
 <small>[Fragments: August 18](https://martinfowler.com/fragments/2026-08-18.html)</small>
 
@@ -17,7 +26,7 @@
 <small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-18 stackoverflow</small>  
-<small>[What does an agentic SDLC actually look like?](https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/)</small>
+<small>[Building an agentic SDLC with a QA engineering mindset](https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-18 bartwullems</small>  
 <small>[Azure DevOps Server – Git submodule support](https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html)</small>
@@ -54,9 +63,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-16 steven-giesel</small>  
 <small>[.NET Toolbox August Update](https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-16 simonwillison</small>  
-<small>[Quoting Dario Amodei](https://simonwillison.net/2026/Aug/16/dario-amodei/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-16 seangoedecke</small>  
 <small>[AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-07-27 sqlperformance</small>  
 <small>[It's Time to Break Up with Archive Tables](https://sqlperformance.com/2026/07/partitioning/its-time-to-break-up-with-archive-tables)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-07-27 damienbod</small>  
-<small>[Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server](https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-26 paulhammant</small>  
-<small>[Charting AI Today: What It Leaves Behind](https://paulhammant.com/2026/07/26/charting-ai-today/)</small>
 
