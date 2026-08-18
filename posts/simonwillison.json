@@ -1,5 +1,10 @@
 [
   {
+    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+    "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
+    "pubDate": "2026-08-17T23:58:14+00:00"
+  },
+  {
     "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
     "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
     "pubDate": "2026-08-17T15:21:29+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Dario Amodei",
     "link": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
     "pubDate": "2026-08-16T15:05:36+00:00"
-  },
-  {
-    "title": "CORS Chat",
-    "link": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-    "pubDate": "2026-08-15T14:49:54+00:00"
   }
 ]
