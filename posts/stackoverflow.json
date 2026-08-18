@@ -1,5 +1,10 @@
 [
   {
+    "title": "What does an agentic SDLC actually look like?",
+    "link": "https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/",
+    "pubDate": "2026-08-18T07:40:00+00:00"
+  },
+  {
     "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
     "link": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/",
     "pubDate": "2026-08-14T18:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How to be fearlessly AI native",
     "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
     "pubDate": "2026-08-07T07:40:00+00:00"
-  },
-  {
-    "title": "Explorers, exploiters, and the myth of the 100x engineer",
-    "link": "https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/",
-    "pubDate": "2026-08-05T07:40:00+00:00"
   }
 ]

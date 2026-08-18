@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-18 sqlperformance</small>  
+<small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-18 stackoverflow</small>  
+<small>[What does an agentic SDLC actually look like?](https://stackoverflow.blog/2026/08/18/what-does-an-agentic-sdlc-actually-look-like/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-18 bartwullems</small>  
+<small>[Azure DevOps Server – Git submodule support](https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-18 seangoedecke</small>  
 <small>[Help peer](https://seangoedecke.com/help-peer/)</small>
 
@@ -130,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-11 stackoverflow</small>  
 <small>[Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-11 bartwullems</small>  
-<small>[Docker snapshot tags aren't as static as I thought](https://bartwullems.blogspot.com/2026/08/docker-snapshot-tags-arent-as-static-as.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-11 seangoedecke</small>  
 <small>[No, local models will not win](https://seangoedecke.com/local-models-will-not-win/)</small>
 
@@ -201,9 +207,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-05 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video](http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-05 stackoverflow</small>  
-<small>[Explorers, exploiters, and the myth of the 100x engineer](https://stackoverflow.blog/2026/08/05/the-myth-of-the-100x-engineer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-04 third-bit</small>  
 <small>[Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-25 swizec</small>  
 <small>[How to be useful as a software architect](https://swizec.com/blog/how-to-be-useful-as-a-software-architect)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-25 antirez</small>  
-<small>[Being Linux Torvalds](http://antirez.com/news/171)</small>
 
