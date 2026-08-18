@@ -1,5 +1,10 @@
 [
   {
+    "title": "Top 10 Ways to Reduce .NET Memory Usage in Kubernetes",
+    "link": "https://ardalis.com/top-10-ways-to-reduce-net-memory-usage-in-kubernetes/",
+    "pubDate": "2026-08-18T12:57:55+00:00"
+  },
+  {
     "title": "Why Care About Agent Authored Code Quality",
     "link": "https://ardalis.com/why-care-about-agent-authored-code-quality/",
     "pubDate": "2026-06-29T19:57:34+00:00"
@@ -18,10 +23,5 @@
     "title": "How Software Developers Fail",
     "link": "https://ardalis.com/how-software-developers-fail/",
     "pubDate": "2026-04-15T17:01:09+00:00"
-  },
-  {
-    "title": "Claude Throttling and the Cloud",
-    "link": "https://ardalis.com/claude-throttling-and-the-cloud/",
-    "pubDate": "2026-04-07T22:35:48+00:00"
   }
 ]

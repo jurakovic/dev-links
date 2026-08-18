@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-18 martinfowler</small>  
+<small>[Fragments: August 18](https://martinfowler.com/fragments/2026-08-18.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-18 azuresqlblog</small>  
+<small>[Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-18 ardalis</small>  
+<small>[Top 10 Ways to Reduce .NET Memory Usage in Kubernetes](https://ardalis.com/top-10-ways-to-reduce-net-memory-usage-in-kubernetes/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-18 sqlperformance</small>  
 <small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
 
@@ -78,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
-<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
@@ -280,9 +286,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 visualstudio</small>  
 <small>[Visual Studio July Update — Meet the New Agent, Powered by the GitHub Copilot SDK](https://devblogs.microsoft.com/visualstudio/visual-studio-july-update-meet-the-new-agent-powered-by-copilot-sdk/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-07-28 martinfowler</small>  
-<small>[The Orchestrator's Tax](https://martinfowler.com/articles/orchestrator-tax.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 azure-sql</small>  
 <small>[Refactor your database with SQL projects in VS Code](https://devblogs.microsoft.com/azure-sql/refactor-your-database-with-sql-projects-in-vs-code/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-26 paulhammant</small>  
 <small>[Charting AI Today: What It Leaves Behind](https://paulhammant.com/2026/07/26/charting-ai-today/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-07-25 swizec</small>  
-<small>[How to be useful as a software architect](https://swizec.com/blog/how-to-be-useful-as-a-software-architect)</small>
 

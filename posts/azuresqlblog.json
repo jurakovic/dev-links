@@ -1,5 +1,10 @@
 [
   {
+    "title": "Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525",
+    "pubDate": "2026-08-18T13:30:23+00:00"
+  },
+  {
     "title": "SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962",
     "pubDate": "2026-08-11T14:10:55+00:00"
@@ -18,10 +23,5 @@
     "title": "Regex-based dynamic data masking in Azure SQL Database (preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/regex-based-dynamic-data-masking-in-azure-sql-database-preview/ba-p/4539938",
     "pubDate": "2026-07-23T06:48:35+00:00"
-  },
-  {
-    "title": "Recently released: Updates to SQL projects in SSMS, VS Code, and SqlPackage",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/recently-released-updates-to-sql-projects-in-ssms-vs-code-and/ba-p/4538341",
-    "pubDate": "2026-07-20T12:45:00+00:00"
   }
 ]
