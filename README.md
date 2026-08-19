@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-19 ardalis</small>  
+<small>[How to Set Up T3 Code and Tailscale on Windows and Phone](https://ardalis.com/how-to-set-up-t3-code-and-tailscale-on-windows-and-phone/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-19 pragmaticengineer</small>  
+<small>[The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-19 bencane</small>  
 <small>[AI makes code cheap to create, not cheap to own](https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 visualstudio</small>  
 <small>[Visual Studio July Update — Meet the New Agent, Powered by the GitHub Copilot SDK](https://devblogs.microsoft.com/visualstudio/visual-studio-july-update-meet-the-new-agent-powered-by-copilot-sdk/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-07-28 azure-sql</small>  
-<small>[Refactor your database with SQL projects in VS Code](https://devblogs.microsoft.com/azure-sql/refactor-your-database-with-sql-projects-in-vs-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
-<small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
 
