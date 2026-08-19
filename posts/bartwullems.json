@@ -1,5 +1,10 @@
 [
   {
+    "title": "Packaging skills into a plugin",
+    "link": "https://bartwullems.blogspot.com/2026/08/packaging-skills-into-plugin.html",
+    "pubDate": "2026-08-19T05:40:00+00:00"
+  },
+  {
     "title": "Azure DevOps Server – Git submodule support",
     "link": "https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html",
     "pubDate": "2026-08-18T05:09:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fixing \"UNABLE_TO_VERIFY_LEAF_SIGNATURE\" when running Renovate against an internal Azure DevOps server",
     "link": "https://bartwullems.blogspot.com/2026/08/fixing-unabletoverifyleafsignature-when.html",
     "pubDate": "2026-08-13T06:35:00+00:00"
-  },
-  {
-    "title": "Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'",
-    "link": "https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html",
-    "pubDate": "2026-08-12T05:19:00+00:00"
   }
 ]

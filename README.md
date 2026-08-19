@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-19 bencane</small>  
+<small>[AI makes code cheap to create, not cheap to own](https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-19 bartwullems</small>  
+<small>[Packaging skills into a plugin](https://bartwullems.blogspot.com/2026/08/packaging-skills-into-plugin.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-18 simonwillison</small>  
 <small>[Mojo🔥 is now open source](https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/)</small>
 
@@ -126,9 +132,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
 <small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-12 bartwullems</small>  
-<small>[Mixing AddDbContext and AddDbContextFactory: 'Cannot consume scoped service'](https://bartwullems.blogspot.com/2026/08/mixing-adddbcontext-and.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 dotnet</small>  
 <small>[.NET 11 Preview 7 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-7/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-28 antirez</small>  
 <small>[The real AI risk is inside the labs](http://antirez.com/news/172)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-07-27 techtrenches</small>  
-<small>[Substack Asked for Volume, Then Shipped a Scanner](https://techtrenches.dev/p/substack-ai-detector-who-pays)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI makes code cheap to create, not cheap to own",
+    "link": "https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/",
+    "pubDate": "2026-08-19T10:01:35+00:00"
+  },
+  {
     "title": "“We can’t run locally” is usually a design smell",
     "link": "https://bencane.com/posts/2026-08-13-run-locally-design-smell/",
     "pubDate": "2026-08-13T10:01:33+00:00"
@@ -18,10 +23,5 @@
     "title": "The closer to the edge, the more stable a platform must be",
     "link": "https://bencane.com/posts/2026-07-23-edge-platform-stability/",
     "pubDate": "2026-07-23T10:03:46+00:00"
-  },
-  {
-    "title": "Sometimes the most resilient thing a system can do isn’t retry",
-    "link": "https://bencane.com/posts/2026-07-16-compensating-transactions/",
-    "pubDate": "2026-07-16T10:01:47+00:00"
   }
 ]
