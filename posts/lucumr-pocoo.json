@@ -1,5 +1,10 @@
 [
   {
+    "title": "What Is Reasoning",
+    "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
+    "pubDate": "2026-08-19T22:01:48+00:00"
+  },
+  {
     "title": "Codeberg Divides",
     "link": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
     "pubDate": "2026-07-24T17:04:55+00:00"
@@ -18,10 +23,5 @@
     "title": "The Coming Loop",
     "link": "https://lucumr.pocoo.org/2026/6/23/the-coming-loop/",
     "pubDate": "2026-06-23T16:01:26+00:00"
-  },
-  {
-    "title": "Dangerous Technology For Americans Only",
-    "link": "https://lucumr.pocoo.org/2026/6/13/americans-only/",
-    "pubDate": "2026-06-13T16:01:18+00:00"
   }
 ]
