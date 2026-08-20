@@ -1,5 +1,20 @@
 [
   {
+    "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+    "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+    "pubDate": "2026-08-19T23:16:00+00:00"
+  },
+  {
+    "title": "Quoting Jeremy Morrell",
+    "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+    "pubDate": "2026-08-19T22:56:31+00:00"
+  },
+  {
+    "title": "Conceptual integrity and counting lines of code",
+    "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+    "pubDate": "2026-08-19T22:46:07+00:00"
+  },
+  {
     "title": "Mojo🔥 is now open source",
     "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
     "pubDate": "2026-08-18T21:39:20+00:00"
@@ -8,20 +23,5 @@
     "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
     "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
     "pubDate": "2026-08-17T23:58:14+00:00"
-  },
-  {
-    "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-    "link": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-    "pubDate": "2026-08-17T15:21:29+00:00"
-  },
-  {
-    "title": "Markdown SVG upgrades",
-    "link": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-    "pubDate": "2026-08-16T23:59:37+00:00"
-  },
-  {
-    "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-    "link": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "pubDate": "2026-08-16T22:00:39+00:00"
   }
 ]
