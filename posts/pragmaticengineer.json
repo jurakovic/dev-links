@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Meta’s self-inflicted resignation-wave",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/",
+    "pubDate": "2026-08-20T18:08:45+00:00"
+  },
+  {
     "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
     "link": "https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/",
     "pubDate": "2026-08-19T14:21:33+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: New trend - concern about massive increase in code review load",
     "link": "https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/",
     "pubDate": "2026-07-23T16:55:29+00:00"
-  },
-  {
-    "title": "The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?",
-    "link": "https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/",
-    "pubDate": "2026-07-16T16:50:20+00:00"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
+    "link": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
+    "pubDate": "2026-08-20T19:05:40+00:00"
+  },
+  {
+    "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
+    "link": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
+    "pubDate": "2026-08-20T18:43:39+00:00"
+  },
+  {
     "title": "Building an agentic SDLC with a QA engineering mindset",
     "link": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/",
     "pubDate": "2026-08-18T07:40:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Solving integration woes with a hackathon",
     "link": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
     "pubDate": "2026-08-14T07:40:00+00:00"
-  },
-  {
-    "title": "Your tokenmaxxing is not valuemaxxing",
-    "link": "https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/",
-    "pubDate": "2026-08-11T07:40:00+00:00"
-  },
-  {
-    "title": "How to be fearlessly AI native",
-    "link": "https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/",
-    "pubDate": "2026-08-07T07:40:00+00:00"
   }
 ]

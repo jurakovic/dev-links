@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
+<small>[AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
+<small>[Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks](https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-20 pragmaticengineer</small>  
+<small>[The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-20 visualstudiomagazine</small>  
+<small>[SQL Formatter Previews in Microsoft's MSSQL VS Code Tool](https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-20 bartwullems</small>  
 <small>[Packaging skills in a plugin, this time for GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html)</small>
 
@@ -172,9 +184,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 dotnet</small>  
 <small>[.NET and .NET Framework August 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-august-2026-servicing-updates/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-11 visualstudiomagazine</small>  
-<small>[Tunability: Microsoft, GitHub Put More Dials on AI Dev Tools](https://visualstudiomagazine.com/articles/2026/08/11/tunability-microsoft-github-put-more-dials-on-dev-tools-ai-effort.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 visualstudio</small>  
 <small>[Today I will… manage Git Submodules without leaving the IDE](https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leaving-the-ide/)</small>
 
@@ -186,9 +195,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-11 martinfowler</small>  
 <small>[TDD inside the agent loop - theater or actual value?](https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-11 stackoverflow</small>  
-<small>[Your tokenmaxxing is not valuemaxxing](https://stackoverflow.blog/2026/08/11/your-tokenmaxxing-is-not-valuemaxxing/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-11 seangoedecke</small>  
 <small>[No, local models will not win](https://seangoedecke.com/local-models-will-not-win/)</small>
@@ -219,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-07 netflix</small>  
 <small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-07 stackoverflow</small>  
-<small>[How to be fearlessly AI native](https://stackoverflow.blog/2026/08/07/how-to-be-fearlessly-ai-native/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 erikej</small>  
 <small>[From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-07-29 hillelwayne</small>  
 <small>[Logic for Programmers is Now Available](https://www.hillelwayne.com/post/lfp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-29 github-eng</small>  
-<small>[Tame Dependabot: Group your updates, slow the cadence, keep security fast](https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/)</small>
 
