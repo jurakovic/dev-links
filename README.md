@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-20 bartwullems</small>  
+<small>[Packaging skills in a plugin, this time for GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-19 simonwillison</small>  
 <small>[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
 <small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-13 bartwullems</small>  
-<small>[Fixing "UNABLE\_TO\_VERIFY\_LEAF\_SIGNATURE" when running Renovate against an internal Azure DevOps server](https://bartwullems.blogspot.com/2026/08/fixing-unabletoverifyleafsignature-when.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-12 third-bit</small>  
 <small>[LLM Programming Exercises](https://third-bit.com/2026/08/12/llm-programming-exercises/)</small>
