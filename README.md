@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
+<small>[Quoting Matt Webb](https://simonwillison.net/2026/Aug/21/matt-webb/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-21 stackoverflow</small>  
+<small>[Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-21 seangoedecke</small>  
 <small>[Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-19 simonwillison</small>  
 <small>[Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-19 simonwillison</small>  
-<small>[Conceptual integrity and counting lines of code](https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-19 lucumr-pocoo</small>  
 <small>[What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)</small>
@@ -99,9 +102,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-18 sqlperformance</small>  
 <small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-18 stackoverflow</small>  
-<small>[Building an agentic SDLC with a QA engineering mindset](https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-18 bartwullems</small>  
 <small>[Azure DevOps Server – Git submodule support](https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html)</small>
