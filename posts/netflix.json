@@ -1,5 +1,10 @@
 [
   {
+    "title": "A Tale of Two Flink Autoscalers",
+    "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-08-21T16:01:01+00:00"
+  },
+  {
     "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
     "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
     "pubDate": "2026-08-07T16:01:02+00:00"
@@ -18,10 +23,5 @@
     "title": "In-House LLM Serving at Netflix",
     "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
     "pubDate": "2026-07-17T21:32:39+00:00"
-  },
-  {
-    "title": "Building Service Topology at Scale: Architecture, Challenges, and Lessons Learned",
-    "link": "https://netflixtechblog.com/building-service-topology-at-scale-architecture-challenges-and-lessons-learned-f4b792f3f0d8?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-07-13T22:44:11+00:00"
   }
 ]

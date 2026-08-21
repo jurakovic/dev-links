@@ -1,5 +1,20 @@
 [
   {
+    "title": "llm 0.32.1",
+    "link": "https://simonwillison.net/2026/Aug/21/llm/",
+    "pubDate": "2026-08-21T17:16:13+00:00"
+  },
+  {
+    "title": "llm-openrouter 0.7",
+    "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "pubDate": "2026-08-21T16:58:19+00:00"
+  },
+  {
+    "title": "Stop Making TUIs",
+    "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "pubDate": "2026-08-21T16:07:32+00:00"
+  },
+  {
     "title": "Quoting Matt Webb",
     "link": "https://simonwillison.net/2026/Aug/21/matt-webb/",
     "pubDate": "2026-08-21T15:06:26+00:00"
@@ -8,20 +23,5 @@
     "title": "ChatGPT search now uses the site:operator at scale",
     "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
     "pubDate": "2026-08-20T23:57:32+00:00"
-  },
-  {
-    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
-    "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-    "pubDate": "2026-08-20T15:37:00+00:00"
-  },
-  {
-    "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
-    "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-    "pubDate": "2026-08-19T23:16:00+00:00"
-  },
-  {
-    "title": "Quoting Jeremy Morrell",
-    "link": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
-    "pubDate": "2026-08-19T22:56:31+00:00"
   }
 ]

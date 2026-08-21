@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-21 third-bit</small>  
+<small>[What Else Should I Read?](https://third-bit.com/2026/08/21/what-else-should-i-read/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-21 bartwullems</small>  
+<small>[Turning a single work session into a reusable Skill with Microsoft's Skill Recorder](https://bartwullems.blogspot.com/2026/08/turning-single-work-session-into.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
+<small>[llm 0.32.1](https://simonwillison.net/2026/Aug/21/llm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-21 visualstudio</small>  
+<small>[Today I will… Modernize a .NET application](https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
+<small>[llm-openrouter 0.7](https://simonwillison.net/2026/Aug/21/llm-openrouter/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
+<small>[Stop Making TUIs](https://simonwillison.net/2026/Aug/21/stop-making-tuis/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
+<small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
 <small>[Quoting Matt Webb](https://simonwillison.net/2026/Aug/21/matt-webb/)</small>
 
@@ -31,20 +52,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-20 visualstudiomagazine</small>  
 <small>[SQL Formatter Previews in Microsoft's MSSQL VS Code Tool](https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-20 simonwillison</small>  
-<small>[A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView](https://simonwillison.net/2026/Aug/20/bun-webview-json-api/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
 <small>[From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)](https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-20 bartwullems</small>  
 <small>[Packaging skills in a plugin, this time for GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-19 simonwillison</small>  
-<small>[smolmachines / smolvm as a sandbox for untrusted Python & JavaScript](https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-19 simonwillison</small>  
-<small>[Quoting Jeremy Morrell](https://simonwillison.net/2026/Aug/19/jeremy-morrell/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-19 lucumr-pocoo</small>  
 <small>[What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)</small>
@@ -144,9 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-08-14 jonskeet</small>  
 <small>[Scratch a simple data model, find a complex one](https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-14 bartwullems</small>  
-<small>[Renovate on Azure DevOps: picking the right work item type](https://bartwullems.blogspot.com/2026/08/renovate-on-azure-devops-picking-right.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
@@ -250,9 +259,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-05 microservices</small>  
 <small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video](http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-04 third-bit</small>  
-<small>[Rainy Day Thoughts on AI](https://third-bit.com/2026/08/04/rainy-day-thoughts-on-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 azuresqlblog</small>  
 <small>[Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-07-30 pragmaticengineer</small>  
 <small>[The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-07-30 bencane</small>  
-<small>[Caching isn’t hard. Some data is hard to cache](https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-07-29 hillelwayne</small>  
-<small>[Logic for Programmers is Now Available](https://www.hillelwayne.com/post/lfp/)</small>
 
