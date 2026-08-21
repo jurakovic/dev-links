@@ -1,5 +1,10 @@
 [
   {
+    "title": "Get rid of your CAPTCHA, the future of the web is bots",
+    "link": "https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/",
+    "pubDate": "2026-08-21T07:40:00+00:00"
+  },
+  {
     "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
     "link": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
     "pubDate": "2026-08-20T19:05:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Building an agentic SDLC with a QA engineering mindset",
     "link": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/",
     "pubDate": "2026-08-18T07:40:00+00:00"
-  },
-  {
-    "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
-    "link": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/",
-    "pubDate": "2026-08-14T18:00:00+00:00"
   }
 ]
