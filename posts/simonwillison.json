@@ -1,5 +1,15 @@
 [
   {
+    "title": "ChatGPT search now uses the site:operator at scale",
+    "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+    "pubDate": "2026-08-20T23:57:32+00:00"
+  },
+  {
+    "title": "A shot-scraper-style JSON API on Bun 1.4's new Bun.WebView",
+    "link": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+    "pubDate": "2026-08-20T15:37:00+00:00"
+  },
+  {
     "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
     "link": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
     "pubDate": "2026-08-19T23:16:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Conceptual integrity and counting lines of code",
     "link": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
     "pubDate": "2026-08-19T22:46:07+00:00"
-  },
-  {
-    "title": "Mojo🔥 is now open source",
-    "link": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
-    "pubDate": "2026-08-18T21:39:20+00:00"
-  },
-  {
-    "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
-    "link": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/",
-    "pubDate": "2026-08-17T23:58:14+00:00"
   }
 ]

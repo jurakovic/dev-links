@@ -10,6 +10,11 @@
     "pubDate": "2026-08-20T18:43:39+00:00"
   },
   {
+    "title": "From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)",
+    "link": "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/",
+    "pubDate": "2026-08-20T07:40:00+00:00"
+  },
+  {
     "title": "Building an agentic SDLC with a QA engineering mindset",
     "link": "https://stackoverflow.blog/2026/08/18/building-an-agentic-sdlc-with-a-qa-engineering-mindset/",
     "pubDate": "2026-08-18T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "No Dumb Questions: What is AI context architecture? Why not just build your own?",
     "link": "https://stackoverflow.blog/2026/08/14/ndq-ai-context-architecture-build-buy/",
     "pubDate": "2026-08-14T18:00:00+00:00"
-  },
-  {
-    "title": "Solving integration woes with a hackathon",
-    "link": "https://stackoverflow.blog/2026/08/14/solving-integration-woes-with-a-hackathon/",
-    "pubDate": "2026-08-14T07:40:00+00:00"
   }
 ]
