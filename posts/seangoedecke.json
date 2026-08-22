@@ -1,5 +1,10 @@
 [
   {
+    "title": "You should never be angry at work",
+    "link": "https://seangoedecke.com/you-should-never-be-angry-at-work/",
+    "pubDate": "2026-08-22T04:01:37+00:00"
+  },
+  {
     "title": "Readers can't identify watermarked AI text",
     "link": "https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/",
     "pubDate": "2026-08-21T10:01:31+00:00"
@@ -18,10 +23,5 @@
     "title": "AI text watermarking is not a big deal",
     "link": "https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/",
     "pubDate": "2026-08-16T10:01:27+00:00"
-  },
-  {
-    "title": "No, local models will not win",
-    "link": "https://seangoedecke.com/local-models-will-not-win/",
-    "pubDate": "2026-08-11T04:01:22+00:00"
   }
 ]
