@@ -1,5 +1,10 @@
 [
   {
+    "title": "Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed",
+    "link": "http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html",
+    "pubDate": "2026-08-22T08:03:00+00:00"
+  },
+  {
     "title": "Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video",
     "link": "http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html",
     "pubDate": "2026-08-05T08:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Migrating a Claude Code skill from WebFetch to the new CircleCI CLI: lessons learned about tool and API design",
     "link": "http://microservices.io//post/deployment-pipeline/2026/07/17/from-webfetch-to-circleci-cli-lessons-learned.html",
     "pubDate": "2026-07-17T08:03:00+00:00"
-  },
-  {
-    "title": "Microservices Platforms - part 8: Getting started with platforms",
-    "link": "http://microservices.io//post/architecture/2026/06/03/qconsf-microservices-platforms-part-8.html",
-    "pubDate": "2026-06-03T08:03:00+00:00"
   }
 ]
