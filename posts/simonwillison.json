@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Linus Torvalds",
+    "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+    "pubDate": "2026-08-22T21:04:26+00:00"
+  },
+  {
+    "title": "llm 0.33",
+    "link": "https://simonwillison.net/2026/Aug/22/llm/",
+    "pubDate": "2026-08-22T17:01:16+00:00"
+  },
+  {
+    "title": "More than just code review",
+    "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+    "pubDate": "2026-08-22T15:56:54+00:00"
+  },
+  {
     "title": "llm 0.32.1",
     "link": "https://simonwillison.net/2026/Aug/21/llm/",
     "pubDate": "2026-08-21T17:16:13+00:00"
@@ -8,20 +23,5 @@
     "title": "llm-openrouter 0.7",
     "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
     "pubDate": "2026-08-21T16:58:19+00:00"
-  },
-  {
-    "title": "Stop Making TUIs",
-    "link": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-    "pubDate": "2026-08-21T16:07:32+00:00"
-  },
-  {
-    "title": "Quoting Matt Webb",
-    "link": "https://simonwillison.net/2026/Aug/21/matt-webb/",
-    "pubDate": "2026-08-21T15:06:26+00:00"
-  },
-  {
-    "title": "ChatGPT search now uses the site:operator at scale",
-    "link": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-    "pubDate": "2026-08-20T23:57:32+00:00"
   }
 ]

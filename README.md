@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-22 lucumr-pocoo</small>  
+<small>[Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
+<small>[Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
+<small>[llm 0.33](https://simonwillison.net/2026/Aug/22/llm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
+<small>[More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-22 microservices</small>  
 <small>[Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed](http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html)</small>
 
@@ -25,14 +37,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
 <small>[llm-openrouter 0.7](https://simonwillison.net/2026/Aug/21/llm-openrouter/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
-<small>[Stop Making TUIs](https://simonwillison.net/2026/Aug/21/stop-making-tuis/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
 <small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
-<small>[Quoting Matt Webb](https://simonwillison.net/2026/Aug/21/matt-webb/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-21 stackoverflow</small>  
 <small>[Dispatches from O'Reilly: The right amount of spec for agentic development](https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/)</small>
@@ -42,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-21 stackoverflow</small>  
 <small>[Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-20 simonwillison</small>  
-<small>[ChatGPT search now uses the site:operator at scale](https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
 <small>[AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-31 github-eng</small>  
 <small>[Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-30 netflix</small>  
-<small>[GenRec: Towards LLM-Native Recommendation at Netflix](https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4)</small>
 
