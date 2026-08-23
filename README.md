@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-23 simonwillison</small>  
+<small>[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-23 simonwillison</small>  
+<small>[Quoting Drew Breunig](https://simonwillison.net/2026/Aug/23/drew-breunig/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-23 hanselman</small>  
+<small>[Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-23 dbreunig</small>  
+<small>[Fable &amp; The End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-22 lucumr-pocoo</small>  
 <small>[Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)</small>
 
@@ -28,14 +40,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-21 bartwullems</small>  
 <small>[Turning a single work session into a reusable Skill with Microsoft's Skill Recorder](https://bartwullems.blogspot.com/2026/08/turning-single-work-session-into.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
-<small>[llm 0.32.1](https://simonwillison.net/2026/Aug/21/llm/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-21 visualstudio</small>  
 <small>[Today I will… Modernize a .NET application](https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-21 simonwillison</small>  
-<small>[llm-openrouter 0.7](https://simonwillison.net/2026/Aug/21/llm-openrouter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
 <small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
@@ -48,6 +54,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-21 stackoverflow</small>  
 <small>[Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-21 addyosmani</small>  
+<small>[Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
 <small>[AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/)</small>
@@ -166,6 +175,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-08-14 jonskeet</small>  
 <small>[Scratch a simple data model, find a complex one](https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-14 addyosmani</small>  
+<small>[Practical Loop Engineering](https://addyosmani.com/blog/practical-loop-engineering/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-13 visualstudiomagazine</small>  
 <small>[Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage](https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx)</small>
 
@@ -235,6 +247,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 lethain</small>  
 <small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-08 addyosmani</small>  
+<small>[Agentic Code Quality](https://addyosmani.com/blog/agentic-code-quality/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-08 swizec</small>  
 <small>[Beware the spaceships](https://swizec.com/blog/beware-the-spaceships)</small>
 
@@ -288,19 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-08-03 idunno</small>  
 <small>[Group your Dependabot Updates](https://idunno.org/group-your-dependabot-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-08-02 developertoarchitect</small>  
-<small>[Lesson 222 - Transactional Sagas and Atomicity (August 3, 2026)](http://www.developertoarchitect.com/lessons/lesson222.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-01 swizec</small>  
-<small>[Agents change the math on big bang migrations](https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-01 steven-giesel</small>  
-<small>[.NET 11 Performance Edition](https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-07-31 netflix</small>  
-<small>[Modeling Device Capabilities for Analytics](https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-07-31 github-eng</small>  
-<small>[Don’t stop early: Case-folding source code at memory speed](https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/)</small>
 

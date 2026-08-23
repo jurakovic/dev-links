@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+    "link": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "pubDate": "2026-08-23T20:24:52+00:00"
+  },
+  {
+    "title": "Quoting Drew Breunig",
+    "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "pubDate": "2026-08-23T19:55:30+00:00"
+  },
+  {
     "title": "Quoting Linus Torvalds",
     "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
     "pubDate": "2026-08-22T21:04:26+00:00"
@@ -13,15 +23,5 @@
     "title": "More than just code review",
     "link": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
     "pubDate": "2026-08-22T15:56:54+00:00"
-  },
-  {
-    "title": "llm 0.32.1",
-    "link": "https://simonwillison.net/2026/Aug/21/llm/",
-    "pubDate": "2026-08-21T17:16:13+00:00"
-  },
-  {
-    "title": "llm-openrouter 0.7",
-    "link": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-    "pubDate": "2026-08-21T16:58:19+00:00"
   }
 ]

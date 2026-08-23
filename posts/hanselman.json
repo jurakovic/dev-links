@@ -1,5 +1,10 @@
 [
   {
+    "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps",
+    "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+    "pubDate": "2026-08-23T19:23:42+00:00"
+  },
+  {
     "title": "Is the craft dead?",
     "link": "https://www.hanselman.com/blog/is-the-craft-dead",
     "pubDate": "2026-02-09T05:50:59+00:00"
@@ -18,10 +23,5 @@
     "title": "Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio",
     "link": "https://www.hanselman.com/blog/webcam-randomly-pausing-in-obs-discord-and-websites-lsvcam-and-tiktok-studio",
     "pubDate": "2024-10-09T19:32:28+00:00"
-  },
-  {
-    "title": "Open Sourcing DOS 4",
-    "link": "https://www.hanselman.com/blog/open-sourcing-dos-4",
-    "pubDate": "2024-04-25T16:46:13+00:00"
   }
 ]
