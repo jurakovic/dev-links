@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-24 lucumr-pocoo</small>  
+<small>[Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-23 simonwillison</small>  
 <small>[Anthropic’s best AI model struggles to attract users as cheaper tools thrive](https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-04 microservices</small>  
 <small>[Speed limits, GenAI coding agents and Autobahns - part 1: how fast should you go?](http://microservices.io//post/architecture/2026/08/04/speed-limits-genai-coding-agents-autobahns-part-1.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) <small>2026-08-03 idunno</small>  
-<small>[Group your Dependabot Updates](https://idunno.org/group-your-dependabot-updates/)</small>
 
