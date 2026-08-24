@@ -1,5 +1,10 @@
 [
   {
+    "title": "llm-anthropic 0.27",
+    "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "pubDate": "2026-08-24T16:27:04+00:00"
+  },
+  {
     "title": "Your executable is a SQLite database",
     "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
     "pubDate": "2026-08-24T11:38:15+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Linus Torvalds",
     "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
     "pubDate": "2026-08-22T21:04:26+00:00"
-  },
-  {
-    "title": "llm 0.33",
-    "link": "https://simonwillison.net/2026/Aug/22/llm/",
-    "pubDate": "2026-08-22T17:01:16+00:00"
   }
 ]

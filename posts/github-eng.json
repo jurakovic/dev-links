@@ -1,5 +1,10 @@
 [
   {
+    "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
+    "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
+    "pubDate": "2026-08-24T20:56:32+00:00"
+  },
+  {
     "title": "Using the GitHub Copilot SDK for Java",
     "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
     "pubDate": "2026-08-10T19:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
     "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
     "pubDate": "2026-07-29T16:00:00+00:00"
-  },
-  {
-    "title": "The cost of saying yes has changed",
-    "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-    "pubDate": "2026-07-17T16:46:47+00:00"
   }
 ]
