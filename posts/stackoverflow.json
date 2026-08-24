@@ -1,5 +1,10 @@
 [
   {
+    "title": "Responsible AI adoption needs developer workflow design",
+    "link": "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/",
+    "pubDate": "2026-08-24T14:00:00+00:00"
+  },
+  {
     "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
     "link": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
     "pubDate": "2026-08-21T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
     "link": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
     "pubDate": "2026-08-20T18:43:39+00:00"
-  },
-  {
-    "title": "From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)",
-    "link": "https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/",
-    "pubDate": "2026-08-20T07:40:00+00:00"
   }
 ]

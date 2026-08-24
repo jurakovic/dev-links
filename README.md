@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 sqlperformance</small>  
+<small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-24 martinfowler</small>  
+<small>[Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-24 azuresqlblog</small>  
+<small>[Introducing Simplified Regional Limits for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-24 stackoverflow</small>  
+<small>[Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-24 simonwillison</small>  
+<small>[Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-24 lucumr-pocoo</small>  
 <small>[Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)</small>
 
@@ -27,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
 <small>[llm 0.33](https://simonwillison.net/2026/Aug/22/llm/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
-<small>[More than just code review](https://simonwillison.net/2026/Aug/22/more-than-just-code-review/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-22 microservices</small>  
 <small>[Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed](http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html)</small>
@@ -72,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-20 visualstudiomagazine</small>  
 <small>[SQL Formatter Previews in Microsoft's MSSQL VS Code Tool](https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
-<small>[From PHP to team lead of agents: rethinking judgment, review, and data with Google's Andi Gutmans (Part 1)](https://stackoverflow.blog/2026/08/20/rethinking-judgment-review-andi-gutmans/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-20 bartwullems</small>  
 <small>[Packaging skills in a plugin, this time for GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 visualstudio</small>  
 <small>[Build Azure Skills Faster with Cloud Academy, a Visual Studio Subscriber Benefit](https://devblogs.microsoft.com/visualstudio/build-azure-skills-faster-with-cloud-academy-a-visual-studio-subscriber-benefit/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-04 martinfowler</small>  
-<small>[Fragments: August  4](https://martinfowler.com/fragments/2026-08-04.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-08-04 andrewlock</small>  
-<small>[Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6](https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-04 microservices</small>  
-<small>[Speed limits, GenAI coding agents and Autobahns - part 1: how fast should you go?](http://microservices.io//post/architecture/2026/08/04/speed-limits-genai-coding-agents-autobahns-part-1.html)</small>
 
