@@ -1,5 +1,10 @@
 [
   {
+    "title": "Aspire 13.5 Adds Interactive AppHost Workflows",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/24/aspire-13-5-adds-interactive-apphost-workflows.aspx",
+    "pubDate": "2026-08-24T22:40:00+00:00"
+  },
+  {
     "title": "32nd Annual Visual Studio Magazine Reader's Choice Awards Announced",
     "link": "https://visualstudiomagazine.com/articles/2026/08/24/32nd-annual-visual-studio-magazine-readers-choice-awards-announced.aspx",
     "pubDate": "2026-08-24T13:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 Preview 7 Turns On NativeAOT CLI and MSBuild Server by Default",
     "link": "https://visualstudiomagazine.com/articles/2026/08/19/net-11-preview-7-turns-on-nativeaot-cli-and-msbuild-server-by-default.aspx",
     "pubDate": "2026-08-19T19:39:00+00:00"
-  },
-  {
-    "title": "Bigger Copilot Bills? GitHub Now Lets You Peek into Per-Model Token Usage",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/13/big-copilot-bills-github-now-lets-you-peek-into-per-model-token-usage.aspx",
-    "pubDate": "2026-08-13T22:55:00+00:00"
   }
 ]

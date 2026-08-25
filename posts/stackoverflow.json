@@ -1,5 +1,10 @@
 [
   {
+    "title": "Inside LinkedIn's cognitive memory agent for agentic personalization",
+    "link": "https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/",
+    "pubDate": "2026-08-25T04:01:26+00:00"
+  },
+  {
     "title": "Responsible AI adoption needs developer workflow design",
     "link": "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/",
     "pubDate": "2026-08-24T14:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done",
     "link": "https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/",
     "pubDate": "2026-08-20T19:05:40+00:00"
-  },
-  {
-    "title": "Quantum-Augmented Applications: Integrating Quantum Subroutines into Classical Software Stacks",
-    "link": "https://stackoverflow.blog/2026/08/20/quantum-augmented-applications-integrating-quantum-subroutines-into-classical-software-stacks/",
-    "pubDate": "2026-08-20T18:43:39+00:00"
   }
 ]
