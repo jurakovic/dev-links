@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-25 visualstudio</small>  
+<small>[Visual Studio August Update — Work Smarter Across Models and Branches](https://devblogs.microsoft.com/visualstudio/visual-studio-august-update-work-smarter-across-models-and-branches/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-08-25 andrewlock</small>  
+<small>[Finding the total number of processors on a machine with .NET](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-25 stackoverflow</small>  
 <small>[Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-05 azuresqlblog</small>  
 <small>[HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity](https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-05 microservices</small>  
-<small>[Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video](http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-04 azuresqlblog</small>  
-<small>[Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975)</small>
 
