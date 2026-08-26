@@ -1,5 +1,10 @@
 [
   {
+    "title": "EVE Online: The Move to Python 3 Begins!",
+    "link": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/",
+    "pubDate": "2026-08-25T22:59:30+00:00"
+  },
+  {
     "title": "llm-anthropic 0.27",
     "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
     "pubDate": "2026-08-24T16:27:04+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Drew Breunig",
     "link": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
     "pubDate": "2026-08-23T19:55:30+00:00"
-  },
-  {
-    "title": "Quoting Linus Torvalds",
-    "link": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
-    "pubDate": "2026-08-22T21:04:26+00:00"
   }
 ]

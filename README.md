@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-25 simonwillison</small>  
+<small>[EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-25 github-ai</small>  
 <small>[How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)</small>
 
@@ -15,6 +18,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-08-25 andrewlock</small>  
 <small>[Finding the total number of processors on a machine with .NET](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-25 microservices</small>  
+<small>[Architecting for uncertainty - part 1: thriving in a VUCA world requires frequent deployment](http://microservices.io//post/architecture/2026/08/25/architecting-for-uncertainty-part-1.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-25 stackoverflow</small>  
 <small>[Inside LinkedIn's cognitive memory agent for agentic personalization](https://stackoverflow.blog/2026/08/25/inside-linkedin-s-cognitive-memory-agent/)</small>
@@ -75,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-22 lucumr-pocoo</small>  
 <small>[Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-22 simonwillison</small>  
-<small>[Quoting Linus Torvalds](https://simonwillison.net/2026/Aug/22/linus-torvalds/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-22 microservices</small>  
 <small>[Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed](http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-05 pragmaticengineer</small>  
 <small>[The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-05 azuresqlblog</small>  
-<small>[HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity](https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254)</small>
 

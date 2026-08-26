@@ -1,5 +1,10 @@
 [
   {
+    "title": "Architecting for uncertainty - part 1: thriving in a VUCA world requires frequent deployment",
+    "link": "http://microservices.io//post/architecture/2026/08/25/architecting-for-uncertainty-part-1.html",
+    "pubDate": "2026-08-25T08:03:00+00:00"
+  },
+  {
     "title": "Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed",
     "link": "http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html",
     "pubDate": "2026-08-22T08:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Q&A about my Explore DDD designing microservices workshop",
     "link": "http://microservices.io//post/architecture/2026/07/20/qa-explore-ddd-microservices-workshop.html",
     "pubDate": "2026-07-20T08:03:00+00:00"
-  },
-  {
-    "title": "Migrating a Claude Code skill from WebFetch to the new CircleCI CLI: lessons learned about tool and API design",
-    "link": "http://microservices.io//post/deployment-pipeline/2026/07/17/from-webfetch-to-circleci-cli-lessons-learned.html",
-    "pubDate": "2026-07-17T08:03:00+00:00"
   }
 ]
