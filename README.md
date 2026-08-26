@@ -4,8 +4,17 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azuresqlblog</small>  
-<small>[ICYMI: New Azure SQL Foundations video series with GitHub samples](https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-26 github-ai</small>  
+<small>[GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-26 visualstudiomagazine</small>  
+<small>[Microsoft Formalizes VS Code Agent Host as Open Architecture for Persistent AI Sessions](https://visualstudiomagazine.com/articles/2026/08/26/microsoft-formalizes-vs-code-agent-host-as-open-architecture-for-persistent-ai-sessions.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-26 visualstudiomagazine</small>  
+<small>[Visual Studio August Update Adds More Copilot Controls, Git Worktrees](https://visualstudiomagazine.com/articles/2026/08/26/visual-studio-august-update-adds-more-copilot-controls-git-worktrees.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 visualstudio</small>  
+<small>[The Visual Studio Debugger Agentic Workflow Gets a Test-Driven Upgrade](https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-workflow-gets-a-test-driven-upgrade/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azure-sql</small>  
 <small>[New Azure SQL Foundations video series with GitHub samples](https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/)</small>
@@ -23,7 +32,7 @@
 <small>[How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-25 dotnet</small>  
-<small>[.NET Conf 2026](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/)</small>
+<small>[.NET Conf 2026 – Save the Date](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-25 visualstudio</small>  
 <small>[Visual Studio August Update — Work Smarter Across Models and Branches](https://devblogs.microsoft.com/visualstudio/visual-studio-august-update-work-smarter-across-models-and-branches/)</small>
@@ -139,12 +148,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-19 azure-sql</small>  
 <small>[Outgrowing SQL Server Express? Upgrade to Azure SQL Database Free Tier in 3 Steps](https://devblogs.microsoft.com/azure-sql/upgrade-from-sql-server-express-to-azure-sql-database/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-19 visualstudiomagazine</small>  
-<small>[Visual Studio Code 1.134 Puts Agent Sessions Front and Center](https://visualstudiomagazine.com/articles/2026/08/19/visual-studio-code-1-134-puts-agent-sessions-front-and-center.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-19 visualstudiomagazine</small>  
-<small>[.NET 11 Preview 7 Turns On NativeAOT CLI and MSBuild Server by Default](https://visualstudiomagazine.com/articles/2026/08/19/net-11-preview-7-turns-on-nativeaot-cli-and-msbuild-server-by-default.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-19 martinfowler</small>  
 <small>[Citizens Build, Agents Execute, Experts Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)</small>
 
@@ -252,9 +255,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-12 third-bit</small>  
 <small>[LLM Programming Exercises](https://third-bit.com/2026/08/12/llm-programming-exercises/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-12 github-ai</small>  
-<small>[GitHub Copilot app for Beginners: Write your first prompt](https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-12 dotnet</small>  
 <small>[Instructions Hygiene – What Frontier Models Still Need You to Say](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/)</small>

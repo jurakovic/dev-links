@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Formalizes VS Code Agent Host as Open Architecture for Persistent AI Sessions",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/26/microsoft-formalizes-vs-code-agent-host-as-open-architecture-for-persistent-ai-sessions.aspx",
+    "pubDate": "2026-08-26T18:30:00+00:00"
+  },
+  {
+    "title": "Visual Studio August Update Adds More Copilot Controls, Git Worktrees",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/26/visual-studio-august-update-adds-more-copilot-controls-git-worktrees.aspx",
+    "pubDate": "2026-08-26T17:06:00+00:00"
+  },
+  {
     "title": "Aspire 13.5 Adds Interactive AppHost Workflows",
     "link": "https://visualstudiomagazine.com/articles/2026/08/24/aspire-13-5-adds-interactive-apphost-workflows.aspx",
     "pubDate": "2026-08-24T22:40:00+00:00"
@@ -13,15 +23,5 @@
     "title": "SQL Formatter Previews in Microsoft's MSSQL VS Code Tool",
     "link": "https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx",
     "pubDate": "2026-08-20T16:43:00+00:00"
-  },
-  {
-    "title": "Visual Studio Code 1.134 Puts Agent Sessions Front and Center",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/19/visual-studio-code-1-134-puts-agent-sessions-front-and-center.aspx",
-    "pubDate": "2026-08-19T20:36:00+00:00"
-  },
-  {
-    "title": ".NET 11 Preview 7 Turns On NativeAOT CLI and MSBuild Server by Default",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/19/net-11-preview-7-turns-on-nativeaot-cli-and-msbuild-server-by-default.aspx",
-    "pubDate": "2026-08-19T19:39:00+00:00"
   }
 ]
