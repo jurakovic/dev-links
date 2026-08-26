@@ -1,5 +1,10 @@
 [
   {
+    "title": "New Azure SQL Foundations video series with GitHub samples",
+    "link": "https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/",
+    "pubDate": "2026-08-26T12:37:45+00:00"
+  },
+  {
     "title": "Outgrowing SQL Server Express? Upgrade to Azure SQL Database Free Tier in 3 Steps",
     "link": "https://devblogs.microsoft.com/azure-sql/upgrade-from-sql-server-express-to-azure-sql-database/",
     "pubDate": "2026-08-19T21:01:30+00:00"
@@ -18,10 +23,5 @@
     "title": "Your best friend: BlockOnPossibleDataLoss=True",
     "link": "https://devblogs.microsoft.com/azure-sql/blockonpossibledataloss/",
     "pubDate": "2026-08-13T19:25:40+00:00"
-  },
-  {
-    "title": "Build Locally, Ship to Cloud for $0: Azure SQL for Modern App Developers",
-    "link": "https://devblogs.microsoft.com/azure-sql/build-locally-ship-to-cloud-for-0-azure-sql-for-modern-app-developers/",
-    "pubDate": "2026-08-10T21:35:53+00:00"
   }
 ]

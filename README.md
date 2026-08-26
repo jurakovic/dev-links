@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azuresqlblog</small>  
+<small>[ICYMI: New Azure SQL Foundations video series with GitHub samples](https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azure-sql</small>  
+<small>[New Azure SQL Foundations video series with GitHub samples](https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-26 bencane</small>  
 <small>[Sometimes good engineering looks like over-engineering](https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/)</small>
 
@@ -268,9 +274,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-11 martinfowler</small>  
 <small>[TDD inside the agent loop - theater or actual value?](https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-10 azure-sql</small>  
-<small>[Build Locally, Ship to Cloud for $0: Azure SQL for Modern App Developers](https://devblogs.microsoft.com/azure-sql/build-locally-ship-to-cloud-for-0-azure-sql-for-modern-app-developers/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-eng</small>  
 <small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-08-06 db-berater</small>  
 <small>[Partition a big table with zero downtime](https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-05 third-bit</small>  
-<small>[A Survey of Programmers' Beliefs](https://third-bit.com/2026/08/05/programmer-beliefs-survey/)</small>
 
