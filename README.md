@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
+<small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
+<small>[The Pulse: We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-27 dotnet</small>  
+<small>[How Uno Platform uses .NET, MCP, and AI to build high quality apps](https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-27 swizec</small>  
 <small>[Focus and followthrough are the moat](https://swizec.com/blog/focus-and-followthrough-are-the-moat)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-27 visualstudiomagazine</small>  
+<small>[VS Code Tries Rubber Duck for AI Second Opinions](https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-27 visualstudio</small>  
 <small>[VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions](https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/)</small>
@@ -151,9 +163,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-20 pragmaticengineer</small>  
 <small>[The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-20 visualstudiomagazine</small>  
-<small>[SQL Formatter Previews in Microsoft's MSSQL VS Code Tool](https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-20 bartwullems</small>  
 <small>[Packaging skills in a plugin, this time for GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html)</small>
 
@@ -271,9 +280,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-12 third-bit</small>  
 <small>[LLM Programming Exercises](https://third-bit.com/2026/08/12/llm-programming-exercises/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-12 dotnet</small>  
-<small>[Instructions Hygiene – What Frontier Models Still Need You to Say](https://devblogs.microsoft.com/dotnet/instructions-hygiene-what-frontier-models-still-need-you-to-say/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
 <small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-08 addyosmani</small>  
 <small>[Agentic Code Quality](https://addyosmani.com/blog/agentic-code-quality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-08 swizec</small>  
-<small>[Beware the spaceships](https://swizec.com/blog/beware-the-spaceships)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-07 netflix</small>  
-<small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)</small>
 

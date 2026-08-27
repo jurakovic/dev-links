@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code Tries Rubber Duck for AI Second Opinions",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx",
+    "pubDate": "2026-08-27T15:55:00+00:00"
+  },
+  {
     "title": "Microsoft Formalizes VS Code Agent Host as Open Architecture for Persistent AI Sessions",
     "link": "https://visualstudiomagazine.com/articles/2026/08/26/microsoft-formalizes-vs-code-agent-host-as-open-architecture-for-persistent-ai-sessions.aspx",
     "pubDate": "2026-08-26T18:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "32nd Annual Visual Studio Magazine Reader's Choice Awards Announced",
     "link": "https://visualstudiomagazine.com/articles/2026/08/24/32nd-annual-visual-studio-magazine-readers-choice-awards-announced.aspx",
     "pubDate": "2026-08-24T13:30:00+00:00"
-  },
-  {
-    "title": "SQL Formatter Previews in Microsoft's MSSQL VS Code Tool",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/20/sql-formatter-previews-in-microsofts-mssql-vs-code-tool.aspx",
-    "pubDate": "2026-08-20T16:43:00+00:00"
   }
 ]
