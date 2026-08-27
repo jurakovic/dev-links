@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-27 swizec</small>  
+<small>[Focus and followthrough are the moat](https://swizec.com/blog/focus-and-followthrough-are-the-moat)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-27 visualstudio</small>  
+<small>[VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions](https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-27 martinfowler</small>  
+<small>[Making Your Data Ready for Agentic AI](https://martinfowler.com/articles/making-data-ready-for-agentic-ai.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
+<small>[Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-26 simonwillison</small>  
 <small>[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/)</small>
 
@@ -18,6 +30,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 visualstudio</small>  
 <small>[The Visual Studio Debugger Agentic Workflow Gets a Test-Driven Upgrade](https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-workflow-gets-a-test-driven-upgrade/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azuresqlblog</small>  
+<small>[ICYMI: New Azure SQL Foundations video series with GitHub samples](https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azure-sql</small>  
 <small>[New Azure SQL Foundations video series with GitHub samples](https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/)</small>
@@ -262,17 +277,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
 <small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 visualstudio</small>  
-<small>[Today I will… manage Git Submodules without leaving the IDE](https://devblogs.microsoft.com/visualstudio/managing-git-submodules-without-leaving-the-ide/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 azuresqlblog</small>  
 <small>[SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference](https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-11 martinfowler</small>  
-<small>[TDD inside the agent loop - theater or actual value?](https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-eng</small>  
 <small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-07 netflix</small>  
 <small>[How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…](https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 erikej</small>  
-<small>[From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-06 bencane</small>  
-<small>[To make a service more stable, eliminate dependencies](https://bencane.com/posts/2026-08-06-eliminate-dependencies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-08-06 db-berater</small>  
-<small>[Partition a big table with zero downtime](https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/)</small>
 

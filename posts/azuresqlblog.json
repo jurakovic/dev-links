@@ -1,5 +1,10 @@
 [
   {
+    "title": "ICYMI: New Azure SQL Foundations video series with GitHub samples",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489",
+    "pubDate": "2026-08-26T12:41:16+00:00"
+  },
+  {
     "title": "Introducing Simplified Regional Limits for Azure SQL Managed Instance",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886",
     "pubDate": "2026-08-24T15:25:38+00:00"
@@ -18,10 +23,5 @@
     "title": "HostNameInCertificate changes in Azure SQL Managed Instance affecting client connectivity",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/hostnameincertificate-changes-in-azure-sql-managed-instance/ba-p/4544254",
     "pubDate": "2026-08-05T11:18:19+00:00"
-  },
-  {
-    "title": "Announcing Automatic Backup Immutability for Azure SQL Database and Azure SQL Managed Instance",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-automatic-backup-immutability-for-azure-sql-database/ba-p/4543975",
-    "pubDate": "2026-08-04T18:42:26+00:00"
   }
 ]
