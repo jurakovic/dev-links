@@ -238,6 +238,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-17 steven-giesel</small>  
 <small>[xUnit.v3 4.0.0 released](https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-17 azure-sql</small>  
+<small>[Beyond Vector Indexes: Azure SQL Brings Optimizer Intelligence to Vector Search](https://devblogs.microsoft.com/azure-sql/beyond-vector-indexes-azure-sql-brings-optimizer-intelligence-to-vector-search/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-17 bartwullems</small>  
 <small>[Visual Studio finally gets proper Git submodule support](https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html)</small>
 
@@ -270,9 +273,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 azure-sql</small>  
-<small>[Your best friend: BlockOnPossibleDataLoss=True](https://devblogs.microsoft.com/azure-sql/blockonpossibledataloss/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-13 third-bit</small>  
 <small>[First Closure Workshop](https://third-bit.com/2026/08/13/first-closure-workshop/)</small>
