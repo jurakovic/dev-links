@@ -1,5 +1,10 @@
 [
   {
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "pubDate": "2026-08-27T22:50:25+00:00"
+  },
+  {
     "title": "Qwen3.8-Flash-Next",
     "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "pubDate": "2026-08-26T23:52:58+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-anthropic 0.27",
     "link": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
     "pubDate": "2026-08-24T16:27:04+00:00"
-  },
-  {
-    "title": "Your executable is a SQLite database",
-    "link": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-    "pubDate": "2026-08-24T11:38:15+00:00"
   }
 ]

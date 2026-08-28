@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-28 seangoedecke</small>  
+<small>[Selling out](https://seangoedecke.com/selling-out/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-28 stackoverflow</small>  
+<small>[When you keep AI Lean, you keep AI correct](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-27 simonwillison</small>  
+<small>[Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
 <small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
 
@@ -18,6 +27,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-27 visualstudiomagazine</small>  
 <small>[VS Code Tries Rubber Duck for AI Second Opinions](https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-27 hanselman</small>  
+<small>[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits](https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-27 visualstudio</small>  
 <small>[VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions](https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/)</small>
@@ -112,9 +124,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-24 visualstudiomagazine</small>  
 <small>[32nd Annual Visual Studio Magazine Reader's Choice Awards Announced](https://visualstudiomagazine.com/articles/2026/08/24/32nd-annual-visual-studio-magazine-readers-choice-awards-announced.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-24 simonwillison</small>  
-<small>[Your executable is a SQLite database](https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-24 lucumr-pocoo</small>  
 <small>[Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)</small>
 
@@ -156,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-21 addyosmani</small>  
 <small>[Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-20 stackoverflow</small>  
-<small>[AI Won't Replace Project Managers, But It is Reshaping How Work Gets Done](https://stackoverflow.blog/2026/08/20/ai-won-t-replace-project-managers-but-it-is-reshaping-how-work-gets-done/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-20 pragmaticengineer</small>  
 <small>[The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/)</small>
@@ -241,9 +247,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-16 steven-giesel</small>  
 <small>[.NET Toolbox August Update](https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-16 seangoedecke</small>  
-<small>[AI text watermarking is not a big deal](https://seangoedecke.com/ai-text-watermarking-is-not-a-big-deal/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-15 swizec</small>  
 <small>[Stop burning tokens on code review](https://swizec.com/blog/stop-burning-tokens-on-code-review)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 lethain</small>  
 <small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-08 addyosmani</small>  
-<small>[Agentic Code Quality](https://addyosmani.com/blog/agentic-code-quality/)</small>
 
