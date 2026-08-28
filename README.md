@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-28 visualstudiomagazine</small>  
+<small>[Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events](https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-28 netflix</small>  
+<small>[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-28 seangoedecke</small>  
 <small>[Selling out](https://seangoedecke.com/selling-out/)</small>
 
@@ -120,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-24 stackoverflow</small>  
 <small>[Responsible AI adoption needs developer workflow design](https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-24 visualstudiomagazine</small>  
-<small>[32nd Annual Visual Studio Magazine Reader's Choice Awards Announced](https://visualstudiomagazine.com/articles/2026/08/24/32nd-annual-visual-studio-magazine-readers-choice-awards-announced.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-24 lucumr-pocoo</small>  
 <small>[Anger, Anxiety and Agency](https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-10 damienbod</small>  
 <small>[Implement BFF using Auth0, Angular and ASP.NET Core](https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 lethain</small>  
-<small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "MAPS: Netflix’s Multimodal Asset Personalization at Scale",
+    "link": "https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-08-28T16:01:02+00:00"
+  },
+  {
     "title": "A Tale of Two Flink Autoscalers",
     "link": "https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4",
     "pubDate": "2026-08-21T16:01:01+00:00"
@@ -18,10 +23,5 @@
     "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
     "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3?source=rss----2615bd06b42e---4",
     "pubDate": "2026-07-30T20:10:15+00:00"
-  },
-  {
-    "title": "In-House LLM Serving at Netflix",
-    "link": "https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-07-17T21:32:39+00:00"
   }
 ]

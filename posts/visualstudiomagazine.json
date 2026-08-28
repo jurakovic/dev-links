@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events",
+    "link": "https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx",
+    "pubDate": "2026-08-28T16:40:00+00:00"
+  },
+  {
     "title": "VS Code Tries Rubber Duck for AI Second Opinions",
     "link": "https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx",
     "pubDate": "2026-08-27T15:55:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Aspire 13.5 Adds Interactive AppHost Workflows",
     "link": "https://visualstudiomagazine.com/articles/2026/08/24/aspire-13-5-adds-interactive-apphost-workflows.aspx",
     "pubDate": "2026-08-24T22:40:00+00:00"
-  },
-  {
-    "title": "32nd Annual Visual Studio Magazine Reader's Choice Awards Announced",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/24/32nd-annual-visual-studio-magazine-readers-choice-awards-announced.aspx",
-    "pubDate": "2026-08-24T13:30:00+00:00"
   }
 ]
