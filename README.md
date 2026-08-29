@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-29 azure-sql</small>  
+<small>[Try the new SqlClient and Retry connections natively](https://devblogs.microsoft.com/azure-sql/sqlclient-retry/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-28 simonwillison</small>  
 <small>[Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/)</small>
 
@@ -240,9 +243,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-17 steven-giesel</small>  
 <small>[xUnit.v3 4.0.0 released](https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-17 azure-sql</small>  
-<small>[Beyond Vector Indexes: Azure SQL Brings Optimizer Intelligence to Vector Search](https://devblogs.microsoft.com/azure-sql/beyond-vector-indexes-azure-sql-brings-optimizer-intelligence-to-vector-search/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-17 bartwullems</small>  
 <small>[Visual Studio finally gets proper Git submodule support](https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html)</small>

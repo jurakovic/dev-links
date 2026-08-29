@@ -1,5 +1,10 @@
 [
   {
+    "title": "Try the new SqlClient and Retry connections natively",
+    "link": "https://devblogs.microsoft.com/azure-sql/sqlclient-retry/",
+    "pubDate": "2026-08-29T05:47:40+00:00"
+  },
+  {
     "title": "New Azure SQL Foundations video series with GitHub samples",
     "link": "https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/",
     "pubDate": "2026-08-26T12:37:45+00:00"
@@ -18,10 +23,5 @@
     "title": "The Two Hybrid Searches in Microsoft SQL",
     "link": "https://devblogs.microsoft.com/azure-sql/two-hybrid-search/",
     "pubDate": "2026-08-18T18:40:38+00:00"
-  },
-  {
-    "title": "Beyond Vector Indexes: Azure SQL Brings Optimizer Intelligence to Vector Search",
-    "link": "https://devblogs.microsoft.com/azure-sql/beyond-vector-indexes-azure-sql-brings-optimizer-intelligence-to-vector-search/",
-    "pubDate": "2026-08-17T11:22:09+00:00"
   }
 ]
