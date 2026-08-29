@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-28 simonwillison</small>  
+<small>[Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-28 visualstudiomagazine</small>  
 <small>[Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events](https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx)</small>
 
@@ -111,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-08-24 steve-yegge</small>  
 <small>[Fences, not Sandboxes](https://steve-yegge.medium.com/fences-not-sandboxes-5719cd9b04bd?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-24 simonwillison</small>  
-<small>[llm-anthropic 0.27](https://simonwillison.net/2026/Aug/24/llm-anthropic/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 sqlperformance</small>  
 <small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>
