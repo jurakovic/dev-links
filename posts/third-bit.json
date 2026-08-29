@@ -1,5 +1,10 @@
 [
   {
+    "title": "Summer Projects Revisited",
+    "link": "https://third-bit.com/2026/08/29/summer-project-revisited/",
+    "pubDate": "2026-08-29T22:03:46+00:00"
+  },
+  {
     "title": "Outline for an SDGC Workshop",
     "link": "https://third-bit.com/2026/08/27/sdgc-workshop/",
     "pubDate": "2026-08-27T22:03:52+00:00"
@@ -18,10 +23,5 @@
     "title": "First Closure Workshop",
     "link": "https://third-bit.com/2026/08/13/first-closure-workshop/",
     "pubDate": "2026-08-13T16:01:36+00:00"
-  },
-  {
-    "title": "LLM Programming Exercises",
-    "link": "https://third-bit.com/2026/08/12/llm-programming-exercises/",
-    "pubDate": "2026-08-12T22:01:35+00:00"
   }
 ]
