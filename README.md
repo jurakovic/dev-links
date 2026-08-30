@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-30 seangoedecke</small>  
+<small>[You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-29 simonwillison</small>  
+<small>[Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-29 third-bit</small>  
 <small>[Summer Projects Revisited](https://third-bit.com/2026/08/29/summer-project-revisited/)</small>
 
@@ -81,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-26 simonwillison</small>  
 <small>[Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-25 simonwillison</small>  
-<small>[EVE Online: The Move to Python 3 Begins!](https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-25 github-ai</small>  
 <small>[How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)</small>
@@ -234,9 +237,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-18 bartwullems</small>  
 <small>[Azure DevOps Server – Git submodule support](https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-18 seangoedecke</small>  
-<small>[Help peer](https://seangoedecke.com/help-peer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-17 techtrenches</small>  
 <small>[Anthropic Watermarked the Work It Told You to Delegate](https://techtrenches.dev/p/anthropic-claude-watermark)</small>
