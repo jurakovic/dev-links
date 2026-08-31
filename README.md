@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-30 simonwillison</small>  
+<small>[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-30 seangoedecke</small>  
 <small>[You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/)</small>
 
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-26 bencane</small>  
 <small>[Sometimes good engineering looks like over-engineering](https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-26 simonwillison</small>  
-<small>[Quoting Paul Dix](https://simonwillison.net/2026/Aug/26/paul-dix/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-25 github-ai</small>  
 <small>[How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)</small>

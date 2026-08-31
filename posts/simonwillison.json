@@ -1,5 +1,10 @@
 [
   {
+    "title": "Understanding ChatGPT Work",
+    "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "pubDate": "2026-08-30T23:59:47+00:00"
+  },
+  {
     "title": "Introducing Hy4 Preview",
     "link": "https://simonwillison.net/2026/Aug/29/hy4/",
     "pubDate": "2026-08-29T23:53:13+00:00"
@@ -18,10 +23,5 @@
     "title": "Qwen3.8-Flash-Next",
     "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
     "pubDate": "2026-08-26T23:52:58+00:00"
-  },
-  {
-    "title": "Quoting Paul Dix",
-    "link": "https://simonwillison.net/2026/Aug/26/paul-dix/",
-    "pubDate": "2026-08-26T08:07:55+00:00"
   }
 ]
