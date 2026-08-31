@@ -7,6 +7,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azure-sql</small>  
 <small>[Bacpac and Dacpac, the similarities and differences](https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azuresqlblog</small>  
+<small>[Understanding DevOps Auditing API Migration Behavior in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-31 bartwullems</small>  
 <small>[Renovate hostRules silently ignored? Check your config level](https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-eng</small>  
-<small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
 
