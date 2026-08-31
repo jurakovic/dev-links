@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azuresqlblog</small>  
+<small>[Understanding DevOps Auditing API Migration Behavior in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-31 bartwullems</small>  
+<small>[Renovate hostRules silently ignored? Check your config level](https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-08-31 codinghorror</small>  
+<small>[You Can't "Vibe Code" Love](https://blog.codinghorror.com/you-cant-vibe-code-love/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-31 dbreunig</small>  
+<small>[Who Taught the Models to Do That?](https://www.dbreunig.com/2026/08/30/who-taught-the-models-to-do-that.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-30 simonwillison</small>  
 <small>[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)</small>
 
@@ -247,9 +259,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-17 steven-giesel</small>  
 <small>[xUnit.v3 4.0.0 released](https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-17 bartwullems</small>  
-<small>[Visual Studio finally gets proper Git submodule support](https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-17 damienbod</small>  
 <small>[Use Aspire to implement and deploy the BFF security architecture](https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/)</small>
 
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-10 github-eng</small>  
-<small>[Using the GitHub Copilot SDK for Java](https://github.blog/engineering/using-the-github-copilot-sdk-for-java/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-10 techtrenches</small>  
-<small>[The Year Behind Tech Trenches](https://techtrenches.dev/p/tech-trenches-year-one-audit)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-10 damienbod</small>  
-<small>[Implement BFF using Auth0, Angular and ASP.NET Core](https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/)</small>
 

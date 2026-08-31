@@ -1,5 +1,10 @@
 [
   {
+    "title": "Who Taught the Models to Do That?",
+    "link": "https://www.dbreunig.com/2026/08/30/who-taught-the-models-to-do-that.html",
+    "pubDate": "2026-08-31T01:21:00+00:00"
+  },
+  {
     "title": "Fable &amp; The End of the Free Lunch",
     "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
     "pubDate": "2026-08-23T18:35:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Understanding the Dynamics of the AI Ecosystem with Pace Layers",
     "link": "https://www.dbreunig.com/2026/07/03/ai-ecosytem-pace-layers.html",
     "pubDate": "2026-07-03T16:20:00+00:00"
-  },
-  {
-    "title": "The Problem is Prompt Debt",
-    "link": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
-    "pubDate": "2026-06-22T22:10:00+00:00"
   }
 ]

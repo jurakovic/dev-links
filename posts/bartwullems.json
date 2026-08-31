@@ -1,5 +1,10 @@
 [
   {
+    "title": "Renovate hostRules silently ignored? Check your config level",
+    "link": "https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html",
+    "pubDate": "2026-08-31T05:14:00+00:00"
+  },
+  {
     "title": "Turning a single work session into a reusable Skill with Microsoft's Skill Recorder",
     "link": "https://bartwullems.blogspot.com/2026/08/turning-single-work-session-into.html",
     "pubDate": "2026-08-21T18:25:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Azure DevOps Server – Git submodule support",
     "link": "https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html",
     "pubDate": "2026-08-18T05:09:00+00:00"
-  },
-  {
-    "title": "Visual Studio finally gets proper Git submodule support",
-    "link": "https://bartwullems.blogspot.com/2026/08/visual-studio-finally-gets-proper-git.html",
-    "pubDate": "2026-08-17T05:48:00+00:00"
   }
 ]
