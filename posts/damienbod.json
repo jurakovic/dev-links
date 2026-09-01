@@ -1,5 +1,10 @@
 [
   {
+    "title": "Using multiline Parameters for Aspire and ASP.NET Core with user secrets and Azure default deployments",
+    "link": "https://damienbod.com/2026/09/01/using-multiline-parameters-for-aspire-and-asp-net-core-with-user-secrets-and-azure-default-deployments/",
+    "pubDate": "2026-09-01T06:02:53+00:00"
+  },
+  {
     "title": "Use Aspire to implement and deploy the BFF security architecture",
     "link": "https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/",
     "pubDate": "2026-08-17T05:29:56+00:00"
@@ -18,10 +23,5 @@
     "title": "Software development and AI",
     "link": "https://damienbod.com/2026/06/15/software-development-and-ai/",
     "pubDate": "2026-06-15T04:59:28+00:00"
-  },
-  {
-    "title": "ASP.NET Core background tasks with NCronJob and SignalR",
-    "link": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
-    "pubDate": "2026-06-08T05:39:20+00:00"
   }
 ]

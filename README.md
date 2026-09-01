@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-01 stackoverflow</small>  
+<small>[The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-09-01 damienbod</small>  
+<small>[Using multiline Parameters for Aspire and ASP.NET Core with user secrets and Azure default deployments](https://damienbod.com/2026/09/01/using-multiline-parameters-for-aspire-and-asp-net-core-with-user-secrets-and-azure-default-deployments/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-01 bartwullems</small>  
+<small>[Setting up GitHub Copilot budget policies without GitHub Enterprise Cloud](https://bartwullems.blogspot.com/2026/09/setting-up-github-copilot-budget.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-31 simonwillison</small>  
 <small>[Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/)</small>
 
@@ -12,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azure-sql</small>  
 <small>[Bacpac and Dacpac, the similarities and differences](https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azuresqlblog</small>  
-<small>[Understanding DevOps Auditing API Migration Behavior in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-31 bartwullems</small>  
 <small>[Renovate hostRules silently ignored? Check your config level](https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html)</small>
@@ -190,9 +196,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-21 seangoedecke</small>  
 <small>[Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-21 stackoverflow</small>  
-<small>[Get rid of your CAPTCHA, the future of the web is bots](https://stackoverflow.blog/2026/08/21/get-rid-of-your-captcha-the-future-of-the-web-is-bots/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-21 addyosmani</small>  
 <small>[Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/)</small>
 
@@ -249,9 +252,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-18 sqlperformance</small>  
 <small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-18 bartwullems</small>  
-<small>[Azure DevOps Server – Git submodule support](https://bartwullems.blogspot.com/2026/08/azure-devops-server-git-submodule.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-08-17 techtrenches</small>  
 <small>[Anthropic Watermarked the Work It Told You to Delegate](https://techtrenches.dev/p/anthropic-claude-watermark)</small>
