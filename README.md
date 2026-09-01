@@ -4,8 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-01 martinfowler</small>  
+<small>[Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
+<small>[Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
+<small>[Quoting Tarn Adams](https://simonwillison.net/2026/Sep/1/tarn-adams/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-01 pragmaticengineer</small>  
+<small>[How software engineering is changing: an essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-09-01 hillelwayne</small>  
 <small>[A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-01 visualstudio</small>  
+<small>[Today I will… review GitHub PRs](https://devblogs.microsoft.com/visualstudio/today-i-will-review-github-prs/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-01 techtrenches</small>  
 <small>[I Shipped 17 PRs Without Writing Code](https://techtrenches.dev/p/shipping-ai-written-code)</small>
@@ -52,14 +67,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
 <small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-30 simonwillison</small>  
-<small>[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-30 seangoedecke</small>  
 <small>[You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-29 simonwillison</small>  
-<small>[Introducing Hy4 Preview](https://simonwillison.net/2026/Aug/29/hy4/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-29 third-bit</small>  
 <small>[Summer Projects Revisited](https://third-bit.com/2026/08/29/summer-project-revisited/)</small>
@@ -199,9 +208,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-21 bartwullems</small>  
 <small>[Turning a single work session into a reusable Skill with Microsoft's Skill Recorder](https://bartwullems.blogspot.com/2026/08/turning-single-work-session-into.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-21 visualstudio</small>  
-<small>[Today I will… Modernize a .NET application](https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
 <small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
 
@@ -256,9 +262,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-18 steven-giesel</small>  
 <small>[Claude Memory Admin](https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-18 martinfowler</small>  
-<small>[Fragments: August 18](https://martinfowler.com/fragments/2026-08-18.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-18 azuresqlblog</small>  
 <small>[Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-14 addyosmani</small>  
 <small>[Practical Loop Engineering](https://addyosmani.com/blog/practical-loop-engineering/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
-<small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
 

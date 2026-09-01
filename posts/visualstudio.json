@@ -1,5 +1,10 @@
 [
   {
+    "title": "Today I will… review GitHub PRs",
+    "link": "https://devblogs.microsoft.com/visualstudio/today-i-will-review-github-prs/",
+    "pubDate": "2026-09-01T16:00:27+00:00"
+  },
+  {
     "title": "VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions",
     "link": "https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/",
     "pubDate": "2026-08-27T14:00:09+00:00"
@@ -18,10 +23,5 @@
     "title": "Unlocking the Power of AI for Every Developer in Visual Studio with Bring your Own Model",
     "link": "https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/",
     "pubDate": "2026-08-24T22:39:41+00:00"
-  },
-  {
-    "title": "Today I will… Modernize a .NET application",
-    "link": "https://devblogs.microsoft.com/visualstudio/today-i-will-modernize-a-net-application/",
-    "pubDate": "2026-08-21T17:00:45+00:00"
   }
 ]
