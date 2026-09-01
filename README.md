@@ -4,8 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-09-01 hillelwayne</small>  
+<small>[A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-01 techtrenches</small>  
+<small>[I Shipped 17 PRs Without Writing Code](https://techtrenches.dev/p/shipping-ai-written-code)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
+<small>[Python 3.15.0 candidate 2 is here!](https://simonwillison.net/2026/Sep/1/python-315-rc-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-09-01 jimmybogard</small>  
+<small>[Vertical Slice Architecture Webinar Recording, and What's Next](https://www.jimmybogard.com/vertical-slice-architecture-webinar-recording-and-whats-next/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-01 andrewlock</small>  
+<small>[The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7](https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-01 stackoverflow</small>  
 <small>[The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-01 azuresqlblog</small>  
+<small>[Understanding DevOps Auditing API Migration Behavior in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-09-01 damienbod</small>  
 <small>[Using multiline Parameters for Aspire and ASP.NET Core with user secrets and Azure default deployments](https://damienbod.com/2026/09/01/using-multiline-parameters-for-aspire-and-asp-net-core-with-user-secrets-and-azure-default-deployments/)</small>
@@ -48,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-29 azure-sql</small>  
 <small>[Try the new SqlClient and Retry connections natively](https://devblogs.microsoft.com/azure-sql/sqlclient-retry/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-28 simonwillison</small>  
-<small>[Just a rumour of a bug is enough to find a security exploit these days](https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-28 visualstudiomagazine</small>  
 <small>[Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events](https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx)</small>
@@ -288,19 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 microsoft-sql-server</small>  
 <small>[What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference](https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
-<small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
-<small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-12 erikej</small>  
-<small>[Launch: T-SQL Analyzer live analysis now in VS Code](https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-11 azuresqlblog</small>  
-<small>[SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference](https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 lethain</small>  
-<small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
 

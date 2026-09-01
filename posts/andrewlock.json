@@ -1,5 +1,10 @@
 [
   {
+    "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
+    "pubDate": "2026-09-01T10:00:00+00:00"
+  },
+  {
     "title": "Finding the total number of processors on a machine with .NET",
     "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
     "pubDate": "2026-08-25T10:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5",
     "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/",
     "pubDate": "2026-07-07T10:00:00+00:00"
-  },
-  {
-    "title": "Closed class hierarchies: Exploring the .NET 11 preview - Part 4",
-    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/",
-    "pubDate": "2026-06-30T10:00:00+00:00"
   }
 ]
