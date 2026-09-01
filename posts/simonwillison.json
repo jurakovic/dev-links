@@ -1,5 +1,15 @@
 [
   {
+    "title": "Introducing wrapture",
+    "link": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/",
+    "pubDate": "2026-08-31T23:59:36+00:00"
+  },
+  {
+    "title": "Quoting Andrew Digby",
+    "link": "https://simonwillison.net/2026/Aug/31/andrew-digby/",
+    "pubDate": "2026-08-31T22:25:02+00:00"
+  },
+  {
     "title": "Understanding ChatGPT Work",
     "link": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
     "pubDate": "2026-08-30T23:59:47+00:00"
@@ -13,15 +23,5 @@
     "title": "Just a rumour of a bug is enough to find a security exploit these days",
     "link": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
     "pubDate": "2026-08-28T22:12:02+00:00"
-  },
-  {
-    "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "link": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
-    "pubDate": "2026-08-27T22:50:25+00:00"
-  },
-  {
-    "title": "Qwen3.8-Flash-Next",
-    "link": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
-    "pubDate": "2026-08-26T23:52:58+00:00"
   }
 ]

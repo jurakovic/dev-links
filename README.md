@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-31 simonwillison</small>  
+<small>[Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-31 simonwillison</small>  
+<small>[Quoting Andrew Digby](https://simonwillison.net/2026/Aug/31/andrew-digby/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azure-sql</small>  
 <small>[Bacpac and Dacpac, the similarities and differences](https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/)</small>
 
@@ -18,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-31 dbreunig</small>  
 <small>[Who Taught the Models to Do That?](https://www.dbreunig.com/2026/08/30/who-taught-the-models-to-do-that.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
+<small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-30 simonwillison</small>  
 <small>[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)</small>
@@ -49,9 +58,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-28 stackoverflow</small>  
 <small>[When you keep AI Lean, you keep AI correct](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-27 simonwillison</small>  
-<small>[Breaking Claude Code Opus 5 Auto Mode](https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
 <small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
 
@@ -78,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
 <small>[Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-26 simonwillison</small>  
-<small>[Qwen3.8-Flash-Next](https://simonwillison.net/2026/Aug/26/qwen38-flash-next/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-26 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Automate Dependabot pull request triage](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/)</small>
@@ -288,9 +291,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-13 dotnet</small>  
 <small>[Routing and Failover for Microsoft.Extensions.AI](https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-13 third-bit</small>  
-<small>[First Closure Workshop](https://third-bit.com/2026/08/13/first-closure-workshop/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-13 bencane</small>  
 <small>[“We can’t run locally” is usually a design smell](https://bencane.com/posts/2026-08-13-run-locally-design-smell/)</small>
