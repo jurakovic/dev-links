@@ -4,11 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
+<small>[An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-02 simonwillison</small>  
+<small>[Claude's new system prompt really doesn't want to reproduce song lyrics](https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-02 visualstudio</small>  
+<small>[Stop alt-tabbing into the wrong Visual Studio](https://devblogs.microsoft.com/visualstudio/stop-alt-tabbing-into-the-wrong-visual-studio/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
+<small>[Maybe We Shouldn't Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 bencane</small>  
 <small>[At what point does better performance stop being worth it?](https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-02 seangoedecke</small>  
 <small>[How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 microservices</small>  
+<small>[Microservices and GenAI in 2026: my Dear Architects conversation](http://microservices.io//post/architecture/2026/09/02/dear-architects-microservices-and-ai.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-02 simonwillison</small>  
 <small>[Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/)</small>
@@ -30,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[GeoJSON Map Viewer](https://simonwillison.net/2026/Sep/1/geojson/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
-<small>[Quoting Tarn Adams](https://simonwillison.net/2026/Sep/1/tarn-adams/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-01 pragmaticengineer</small>  
 <small>[How software engineering is changing: an essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/)</small>
@@ -169,9 +181,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-24 visualstudiomagazine</small>  
 <small>[Aspire 13.5 Adds Interactive AppHost Workflows](https://visualstudiomagazine.com/articles/2026/08/24/aspire-13-5-adds-interactive-apphost-workflows.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-24 visualstudio</small>  
-<small>[Unlocking the Power of AI for Every Developer in Visual Studio with Bring your Own Model](https://devblogs.microsoft.com/visualstudio/unlocking-the-power-of-ai-for-every-developer-in-visual-studio-with-bring-your-own-model/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-24 github-eng</small>  
 <small>[Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/)</small>
 
@@ -244,12 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-19 azure-sql</small>  
 <small>[Outgrowing SQL Server Express? Upgrade to Azure SQL Database Free Tier in 3 Steps](https://devblogs.microsoft.com/azure-sql/upgrade-from-sql-server-express-to-azure-sql-database/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-19 martinfowler</small>  
-<small>[Citizens Build, Agents Execute, Experts Govern](https://martinfowler.com/rachels-ramblings/citizens-agents-experts.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-19 martinfowler</small>  
-<small>[Practitioner Voice: The Writing Category Nobody has Named Yet](https://martinfowler.com/articles/practitioner-voice.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-19 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Managing your work](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-14 dbreunig</small>  
 <small>[Harnesses are Situated Agents](https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-14 github-ai</small>  
-<small>[How to bring your software delivery workflow into GitHub with agent apps](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/)</small>
 
