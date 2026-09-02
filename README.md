@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 bencane</small>  
+<small>[At what point does better performance stop being worth it?](https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-02 seangoedecke</small>  
+<small>[How to protect yourself from workslop](https://seangoedecke.com/how-to-protect-yourself-from-workslop/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-02 simonwillison</small>  
+<small>[Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-02 bartwullems</small>  
+<small>[Monitoring GitHub Copilot usage with the Aspire Dashboard](https://bartwullems.blogspot.com/2026/09/monitoring-github-copilot-usage-with.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)</small>
 
@@ -12,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-01 rickstrahl</small>  
+<small>[Back to Basics: JavaScript and Timezones](https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[GeoJSON Map Viewer](https://simonwillison.net/2026/Sep/1/geojson/)</small>
@@ -30,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-01 techtrenches</small>  
 <small>[I Shipped 17 PRs Without Writing Code](https://techtrenches.dev/p/shipping-ai-written-code)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
-<small>[Python 3.15.0 candidate 2 is here!](https://simonwillison.net/2026/Sep/1/python-315-rc-2/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-09-01 jimmybogard</small>  
 <small>[Vertical Slice Architecture Webinar Recording, and What's Next](https://www.jimmybogard.com/vertical-slice-architecture-webinar-recording-and-whats-next/)</small>
@@ -253,12 +265,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-19 bencane</small>  
 <small>[AI makes code cheap to create, not cheap to own](https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-08-19 bartwullems</small>  
-<small>[Packaging skills into a plugin](https://bartwullems.blogspot.com/2026/08/packaging-skills-into-plugin.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-19 seangoedecke</small>  
-<small>[Good writing is obvious, not original](https://seangoedecke.com/good-writing-is-obvious-not-original/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-18 steven-giesel</small>  
 <small>[Claude Memory Admin](https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-14 github-ai</small>  
 <small>[How to bring your software delivery workflow into GitHub with agent apps](https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2026-08-14 jonskeet</small>  
-<small>[Scratch a simple data model, find a complex one](https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-14 addyosmani</small>  
-<small>[Practical Loop Engineering](https://addyosmani.com/blog/practical-loop-engineering/)</small>
 

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Monitoring GitHub Copilot usage with the Aspire Dashboard",
+    "link": "https://bartwullems.blogspot.com/2026/09/monitoring-github-copilot-usage-with.html",
+    "pubDate": "2026-09-02T04:54:00+00:00"
+  },
+  {
     "title": "Setting up GitHub Copilot budget policies without GitHub Enterprise Cloud",
     "link": "https://bartwullems.blogspot.com/2026/09/setting-up-github-copilot-budget.html",
     "pubDate": "2026-09-01T05:54:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Packaging skills in a plugin, this time for GitHub Copilot CLI",
     "link": "https://bartwullems.blogspot.com/2026/08/packaging-skills-in-plugin-this-time.html",
     "pubDate": "2026-08-20T05:53:00+00:00"
-  },
-  {
-    "title": "Packaging skills into a plugin",
-    "link": "https://bartwullems.blogspot.com/2026/08/packaging-skills-into-plugin.html",
-    "pubDate": "2026-08-19T05:40:00+00:00"
   }
 ]

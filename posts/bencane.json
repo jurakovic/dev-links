@@ -1,5 +1,10 @@
 [
   {
+    "title": "At what point does better performance stop being worth it?",
+    "link": "https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/",
+    "pubDate": "2026-09-02T10:04:05+00:00"
+  },
+  {
     "title": "Sometimes good engineering looks like over-engineering",
     "link": "https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/",
     "pubDate": "2026-08-26T10:04:11+00:00"
@@ -18,10 +23,5 @@
     "title": "To make a service more stable, eliminate dependencies",
     "link": "https://bencane.com/posts/2026-08-06-eliminate-dependencies/",
     "pubDate": "2026-08-06T10:01:39+00:00"
-  },
-  {
-    "title": "Caching isn’t hard. Some data is hard to cache",
-    "link": "https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/",
-    "pubDate": "2026-07-30T10:01:30+00:00"
   }
 ]
