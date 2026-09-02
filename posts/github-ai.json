@@ -1,5 +1,15 @@
 [
   {
+    "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+    "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+    "pubDate": "2026-09-02T21:00:00+00:00"
+  },
+  {
+    "title": "How we make AI coding more cost efficient without sacrificing task quality",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+    "pubDate": "2026-09-02T18:00:00+00:00"
+  },
+  {
     "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
     "pubDate": "2026-08-26T20:12:53+00:00"
@@ -13,15 +23,5 @@
     "title": "GitHub Copilot app for Beginners: Managing your work",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
     "pubDate": "2026-08-19T17:50:23+00:00"
-  },
-  {
-    "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-    "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-    "pubDate": "2026-08-17T16:00:00+00:00"
-  },
-  {
-    "title": "How to bring your software delivery workflow into GitHub with agent apps",
-    "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-    "pubDate": "2026-08-14T16:00:00+00:00"
   }
 ]

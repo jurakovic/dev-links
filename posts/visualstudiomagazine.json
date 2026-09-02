@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.136 Pushes Agents Deeper Into the Development Workflow",
+    "link": "https://visualstudiomagazine.com/articles/2026/09/02/vs-code-1-136-pushes-agents-deeper-into-the-development-workflow.aspx",
+    "pubDate": "2026-09-02T19:17:00+00:00"
+  },
+  {
     "title": "Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events",
     "link": "https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx",
     "pubDate": "2026-08-28T16:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Visual Studio August Update Adds More Copilot Controls, Git Worktrees",
     "link": "https://visualstudiomagazine.com/articles/2026/08/26/visual-studio-august-update-adds-more-copilot-controls-git-worktrees.aspx",
     "pubDate": "2026-08-26T17:06:00+00:00"
-  },
-  {
-    "title": "Aspire 13.5 Adds Interactive AppHost Workflows",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/24/aspire-13-5-adds-interactive-apphost-workflows.aspx",
-    "pubDate": "2026-08-24T22:40:00+00:00"
   }
 ]
