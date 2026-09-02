@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
+<small>[Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-01 martinfowler</small>  
 <small>[Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
+<small>[GeoJSON Map Viewer](https://simonwillison.net/2026/Sep/1/geojson/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
 <small>[Quoting Tarn Adams](https://simonwillison.net/2026/Sep/1/tarn-adams/)</small>
@@ -45,12 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-01 bartwullems</small>  
 <small>[Setting up GitHub Copilot budget policies without GitHub Enterprise Cloud](https://bartwullems.blogspot.com/2026/09/setting-up-github-copilot-budget.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-31 simonwillison</small>  
-<small>[Introducing wrapture](https://simonwillison.net/2026/Aug/31/introducing-wrapture/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-08-31 simonwillison</small>  
-<small>[Quoting Andrew Digby](https://simonwillison.net/2026/Aug/31/andrew-digby/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-31 azure-sql</small>  
 <small>[Bacpac and Dacpac, the similarities and differences](https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/)</small>
