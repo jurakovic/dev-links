@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot app for Beginners: Run several agents at once",
+    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+    "pubDate": "2026-09-03T16:00:00+00:00"
+  },
+  {
     "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
     "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
     "pubDate": "2026-09-02T21:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "How to evaluate LLMs before production",
     "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
     "pubDate": "2026-08-25T21:35:11+00:00"
-  },
-  {
-    "title": "GitHub Copilot app for Beginners: Managing your work",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-    "pubDate": "2026-08-19T17:50:23+00:00"
   }
 ]
