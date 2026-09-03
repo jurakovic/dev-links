@@ -1,5 +1,10 @@
 [
   {
+    "title": "The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)",
+    "link": "https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/",
+    "pubDate": "2026-09-03T07:40:00+00:00"
+  },
+  {
     "title": "The good ol’ days of building Java",
     "link": "https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/",
     "pubDate": "2026-09-01T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Responsible AI adoption needs developer workflow design",
     "link": "https://stackoverflow.blog/2026/08/24/responsible-ai-adoption-needs-developer-workflow-design/",
     "pubDate": "2026-08-24T14:00:00+00:00"
-  },
-  {
-    "title": "Dispatches from O'Reilly: The right amount of spec for agentic development",
-    "link": "https://stackoverflow.blog/2026/08/21/dispatches-from-o-reilly-the-right-amount-of-spec-for-agentic-development/",
-    "pubDate": "2026-08-21T14:00:00+00:00"
   }
 ]
