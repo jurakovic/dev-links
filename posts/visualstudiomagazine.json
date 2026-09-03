@@ -1,5 +1,10 @@
 [
   {
+    "title": "Uno Platform Studio 3.1 Adds UI Previews, XAML Snippets and More AI Context",
+    "link": "https://visualstudiomagazine.com/articles/2026/09/03/uno-platform-studio-3-1-adds-ui-previews-xaml-snippets-and-more-ai-context.aspx",
+    "pubDate": "2026-09-03T18:37:00+00:00"
+  },
+  {
     "title": "VS Code 1.136 Pushes Agents Deeper Into the Development Workflow",
     "link": "https://visualstudiomagazine.com/articles/2026/09/02/vs-code-1-136-pushes-agents-deeper-into-the-development-workflow.aspx",
     "pubDate": "2026-09-02T19:17:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft Formalizes VS Code Agent Host as Open Architecture for Persistent AI Sessions",
     "link": "https://visualstudiomagazine.com/articles/2026/08/26/microsoft-formalizes-vs-code-agent-host-as-open-architecture-for-persistent-ai-sessions.aspx",
     "pubDate": "2026-08-26T18:30:00+00:00"
-  },
-  {
-    "title": "Visual Studio August Update Adds More Copilot Controls, Git Worktrees",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/26/visual-studio-august-update-adds-more-copilot-controls-git-worktrees.aspx",
-    "pubDate": "2026-08-26T17:06:00+00:00"
   }
 ]

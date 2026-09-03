@@ -4,11 +4,32 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-03 simonwillison</small>  
+<small>[GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-03 azure-sql</small>  
+<small>[SQL Decomposition in a Nutshell](https://devblogs.microsoft.com/azure-sql/sql-decomposition/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-03 azure-sql</small>  
+<small>[Advocating for Uptime: The 6 Phases of Change](https://devblogs.microsoft.com/azure-sql/schema-change/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-03 visualstudiomagazine</small>  
+<small>[Uno Platform Studio 3.1 Adds UI Previews, XAML Snippets and More AI Context](https://visualstudiomagazine.com/articles/2026/09/03/uno-platform-studio-3-1-adds-ui-previews-xaml-snippets-and-more-ai-context.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-03 dotnet</small>  
+<small>[Test what you ship: MSTest and Native AOT](https://devblogs.microsoft.com/dotnet/mstest-source-generation/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-03 pragmaticengineer</small>  
+<small>[The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-03 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-03 stackoverflow</small>  
 <small>[Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
+<small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-03 stackoverflow</small>  
 <small>[The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/)</small>
@@ -66,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-01 martinfowler</small>  
 <small>[Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
-<small>[Codex bundles LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-01 rickstrahl</small>  
 <small>[Back to Basics: JavaScript and Timezones](https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones)</small>
@@ -172,9 +190,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-26 visualstudiomagazine</small>  
 <small>[Microsoft Formalizes VS Code Agent Host as Open Architecture for Persistent AI Sessions](https://visualstudiomagazine.com/articles/2026/08/26/microsoft-formalizes-vs-code-agent-host-as-open-architecture-for-persistent-ai-sessions.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-26 visualstudiomagazine</small>  
-<small>[Visual Studio August Update Adds More Copilot Controls, Git Worktrees](https://visualstudiomagazine.com/articles/2026/08/26/visual-studio-august-update-adds-more-copilot-controls-git-worktrees.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 visualstudio</small>  
 <small>[The Visual Studio Debugger Agentic Workflow Gets a Test-Driven Upgrade](https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-workflow-gets-a-test-driven-upgrade/)</small>
 
@@ -262,17 +277,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-19 lucumr-pocoo</small>  
 <small>[What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-19 azure-sql</small>  
-<small>[Outgrowing SQL Server Express? Upgrade to Azure SQL Database Free Tier in 3 Steps](https://devblogs.microsoft.com/azure-sql/upgrade-from-sql-server-express-to-azure-sql-database/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-19 azure-sql</small>  
-<small>[MSSQL Extension for VS Code: SQL Formatter, Azure SQL Database Provisioning, and More](https://devblogs.microsoft.com/azure-sql/vscode-mssql-august2026/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-19 ardalis</small>  
 <small>[How to Set Up T3 Code and Tailscale on Windows and Phone](https://ardalis.com/how-to-set-up-t3-code-and-tailscale-on-windows-and-phone/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-19 pragmaticengineer</small>  
-<small>[The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-19 bencane</small>  
 <small>[AI makes code cheap to create, not cheap to own](https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-17 damienbod</small>  
 <small>[Use Aspire to implement and deploy the BFF security architecture](https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-16 steven-giesel</small>  
-<small>[.NET Toolbox August Update](https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-15 swizec</small>  
-<small>[Stop burning tokens on code review](https://swizec.com/blog/stop-burning-tokens-on-code-review)</small>
 

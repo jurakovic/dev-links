@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Pulse: Meta wanted to reduce teams by 60% because of AI",
+    "link": "https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/",
+    "pubDate": "2026-09-03T17:01:49+00:00"
+  },
+  {
     "title": "How software engineering is changing: an essay challenge",
     "link": "https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/",
     "pubDate": "2026-09-01T16:06:50+00:00"
@@ -18,10 +23,5 @@
     "title": "The Pulse: Meta’s self-inflicted resignation-wave",
     "link": "https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/",
     "pubDate": "2026-08-20T18:08:45+00:00"
-  },
-  {
-    "title": "The Pulse: Grok’s CLI caught uploading all your local files to the cloud",
-    "link": "https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/",
-    "pubDate": "2026-08-19T14:21:33+00:00"
   }
 ]

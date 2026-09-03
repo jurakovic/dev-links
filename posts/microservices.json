@@ -1,5 +1,10 @@
 [
   {
+    "title": "Architecting for uncertainty - part 2: fast flow defined",
+    "link": "http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html",
+    "pubDate": "2026-09-03T08:03:00+00:00"
+  },
+  {
     "title": "Microservices and GenAI in 2026: my Dear Architects conversation",
     "link": "http://microservices.io//post/architecture/2026/09/02/dear-architects-microservices-and-ai.html",
     "pubDate": "2026-09-02T08:03:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microservices Platforms: When Team Topologies Meets Microservices Patterns - QCONSF 2025 video",
     "link": "http://microservices.io//post/architecture/2026/08/05/microservices-platforms-qconsf-2025-video.html",
     "pubDate": "2026-08-05T08:03:00+00:00"
-  },
-  {
-    "title": "Speed limits, GenAI coding agents and Autobahns - part 1: how fast should you go?",
-    "link": "http://microservices.io//post/architecture/2026/08/04/speed-limits-genai-coding-agents-autobahns-part-1.html",
-    "pubDate": "2026-08-04T08:03:00+00:00"
   }
 ]

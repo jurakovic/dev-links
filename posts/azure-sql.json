@@ -1,5 +1,15 @@
 [
   {
+    "title": "SQL Decomposition in a Nutshell",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-decomposition/",
+    "pubDate": "2026-09-03T20:06:28+00:00"
+  },
+  {
+    "title": "Advocating for Uptime: The 6 Phases of Change",
+    "link": "https://devblogs.microsoft.com/azure-sql/schema-change/",
+    "pubDate": "2026-09-03T19:09:04+00:00"
+  },
+  {
     "title": "Bacpac and Dacpac, the similarities and differences",
     "link": "https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/",
     "pubDate": "2026-08-31T15:13:57+00:00"
@@ -13,15 +23,5 @@
     "title": "New Azure SQL Foundations video series with GitHub samples",
     "link": "https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/",
     "pubDate": "2026-08-26T12:37:45+00:00"
-  },
-  {
-    "title": "Outgrowing SQL Server Express? Upgrade to Azure SQL Database Free Tier in 3 Steps",
-    "link": "https://devblogs.microsoft.com/azure-sql/upgrade-from-sql-server-express-to-azure-sql-database/",
-    "pubDate": "2026-08-19T21:01:30+00:00"
-  },
-  {
-    "title": "MSSQL Extension for VS Code: SQL Formatter, Azure SQL Database Provisioning, and More",
-    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-august2026/",
-    "pubDate": "2026-08-19T17:18:32+00:00"
   }
 ]

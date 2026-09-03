@@ -1,5 +1,10 @@
 [
   {
+    "title": "GPT‑6 Astra",
+    "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "pubDate": "2026-09-03T20:18:41+00:00"
+  },
+  {
     "title": "llm-gemini 0.34",
     "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
     "pubDate": "2026-09-02T16:39:38+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude Fable 5.1 made me a really nice animated pelican",
     "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
     "pubDate": "2026-09-01T23:57:28+00:00"
-  },
-  {
-    "title": "Codex bundles LibreOffice",
-    "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-    "pubDate": "2026-09-01T19:03:01+00:00"
   }
 ]

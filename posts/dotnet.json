@@ -1,5 +1,10 @@
 [
   {
+    "title": "Test what you ship: MSTest and Native AOT",
+    "link": "https://devblogs.microsoft.com/dotnet/mstest-source-generation/",
+    "pubDate": "2026-09-03T18:00:00+00:00"
+  },
+  {
     "title": "How Uno Platform uses .NET, MCP, and AI to build high quality apps",
     "link": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
     "pubDate": "2026-08-27T17:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Explore new features available in C# 15 preview",
     "link": "https://devblogs.microsoft.com/dotnet/explore-csharp-15/",
     "pubDate": "2026-08-24T17:00:00+00:00"
-  },
-  {
-    "title": "Routing and Failover for Microsoft.Extensions.AI",
-    "link": "https://devblogs.microsoft.com/dotnet/routing-and-failover-for-microsoft-extensions-ai/",
-    "pubDate": "2026-08-13T19:30:00+00:00"
   }
 ]
