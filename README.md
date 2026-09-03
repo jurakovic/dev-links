@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
+<small>[Bliki: Paracelsus Maxim](https://martinfowler.com/bliki/ParacelsusMaxim.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-ai</small>  
 <small>[Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/)</small>
 
@@ -204,9 +207,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 sqlperformance</small>  
 <small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-08-24 martinfowler</small>  
-<small>[Fragments: August 24](https://martinfowler.com/fragments/2026-08-24.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-24 azuresqlblog</small>  
 <small>[Introducing Simplified Regional Limits for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886)</small>
