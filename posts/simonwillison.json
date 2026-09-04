@@ -1,5 +1,10 @@
 [
   {
+    "title": "August newsletter is out",
+    "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
+    "pubDate": "2026-09-04T05:54:40+00:00"
+  },
+  {
     "title": "GPT‑6 Astra",
     "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
     "pubDate": "2026-09-03T20:18:41+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Rick Brewster",
     "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
     "pubDate": "2026-09-02T05:50:57+00:00"
-  },
-  {
-    "title": "Claude Fable 5.1 made me a really nice animated pelican",
-    "link": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
-    "pubDate": "2026-09-01T23:57:28+00:00"
   }
 ]

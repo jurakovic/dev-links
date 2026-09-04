@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-04 seangoedecke</small>  
+<small>[Radical responsibility means treating people like tools](https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-04 steven-giesel</small>  
+<small>[Adding Properties with extension methods in C# 14](https://steven-giesel.com/blogPost/4368fcea-c922-403e-bb3b-6b4990eb36d2)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-04 simonwillison</small>  
+<small>[August newsletter is out](https://simonwillison.net/2026/Sep/4/august-newsletter/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-03 simonwillison</small>  
 <small>[GPT‑6 Astra](https://simonwillison.net/2026/Sep/3/gpt6-astra/)</small>
 
@@ -81,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-02 bartwullems</small>  
 <small>[Monitoring GitHub Copilot usage with the Aspire Dashboard](https://bartwullems.blogspot.com/2026/09/monitoring-github-copilot-usage-with.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-01 simonwillison</small>  
-<small>[Claude Fable 5.1 made me a really nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-01 martinfowler</small>  
 <small>[Fragments: September  1](https://martinfowler.com/fragments/2026-09-01.html)</small>
@@ -265,9 +271,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
 <small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-21 seangoedecke</small>  
-<small>[Readers can't identify watermarked AI text](https://seangoedecke.com/readers-cant-identify-watermarked-ai-text/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-21 addyosmani</small>  
 <small>[Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-17 steven-giesel</small>  
 <small>[xUnit.v3 4.0.0 released](https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-17 damienbod</small>  
-<small>[Use Aspire to implement and deploy the BFF security architecture](https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/)</small>
 
