@@ -1,5 +1,10 @@
 [
   {
+    "title": "OpenAI's rogue agents were caught communicating via public wikis",
+    "link": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "pubDate": "2026-09-04T17:38:48+00:00"
+  },
+  {
     "title": "August newsletter is out",
     "link": "https://simonwillison.net/2026/Sep/4/august-newsletter/",
     "pubDate": "2026-09-04T05:54:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
     "link": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
     "pubDate": "2026-09-02T14:16:42+00:00"
-  },
-  {
-    "title": "Quoting Rick Brewster",
-    "link": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
-    "pubDate": "2026-09-02T05:50:57+00:00"
   }
 ]

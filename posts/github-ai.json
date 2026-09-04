@@ -1,5 +1,10 @@
 [
   {
+    "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+    "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+    "pubDate": "2026-09-04T16:04:14+00:00"
+  },
+  {
     "title": "GitHub Copilot app for Beginners: Run several agents at once",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
     "pubDate": "2026-09-03T16:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
     "pubDate": "2026-08-26T20:12:53+00:00"
-  },
-  {
-    "title": "How to evaluate LLMs before production",
-    "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-    "pubDate": "2026-08-25T21:35:11+00:00"
   }
 ]

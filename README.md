@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-04 simonwillison</small>  
+<small>[OpenAI's rogue agents were caught communicating via public wikis](https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-04 github-ai</small>  
+<small>[Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 erikej</small>  
 <small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
 
@@ -93,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 microservices</small>  
 <small>[Microservices and GenAI in 2026: my Dear Architects conversation](http://microservices.io//post/architecture/2026/09/02/dear-architects-microservices-and-ai.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-02 simonwillison</small>  
-<small>[Quoting Rick Brewster](https://simonwillison.net/2026/Sep/2/rick-brewster/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-02 bartwullems</small>  
 <small>[Monitoring GitHub Copilot usage with the Aspire Dashboard](https://bartwullems.blogspot.com/2026/09/monitoring-github-copilot-usage-with.html)</small>
@@ -216,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-26 bencane</small>  
 <small>[Sometimes good engineering looks like over-engineering](https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-25 github-ai</small>  
-<small>[How to evaluate LLMs before production](https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-25 dotnet</small>  
 <small>[.NET Conf 2026 – Save the Date](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/)</small>
