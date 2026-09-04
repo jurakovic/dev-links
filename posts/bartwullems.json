@@ -1,5 +1,10 @@
 [
   {
+    "title": "Firelighting vs. firefighting",
+    "link": "https://bartwullems.blogspot.com/2026/09/firelighting-vs-firefighting.html",
+    "pubDate": "2026-09-04T14:34:35+00:00"
+  },
+  {
     "title": "Monitoring Claude Code usage with the Aspire Dashboard",
     "link": "https://bartwullems.blogspot.com/2026/09/monitoring-claude-code-usage-with.html",
     "pubDate": "2026-09-03T05:11:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Renovate hostRules silently ignored? Check your config level",
     "link": "https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html",
     "pubDate": "2026-08-31T05:14:00+00:00"
-  },
-  {
-    "title": "Turning a single work session into a reusable Skill with Microsoft's Skill Recorder",
-    "link": "https://bartwullems.blogspot.com/2026/08/turning-single-work-session-into.html",
-    "pubDate": "2026-08-21T18:25:00+00:00"
   }
 ]

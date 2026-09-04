@@ -1,5 +1,10 @@
 [
   {
+    "title": "The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease",
+    "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html",
+    "pubDate": "2026-09-04T16:01:29+00:00"
+  },
+  {
     "title": "Launch: T-SQL Analyzer live analysis now in VS Code",
     "link": "https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html",
     "pubDate": "2026-08-12T16:01:15+00:00"
@@ -18,10 +23,5 @@
     "title": "Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot",
     "link": "https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html",
     "pubDate": "2026-06-10T17:28:49+00:00"
-  },
-  {
-    "title": "Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools",
-    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html",
-    "pubDate": "2026-05-29T18:30:09+00:00"
   }
 ]
