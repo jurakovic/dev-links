@@ -4,11 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-05 swizec</small>  
+<small>[What B2B SaaS taught me about having kids](https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-05 lucumr-pocoo</small>  
 <small>[Latent Powers](https://lucumr.pocoo.org/2026/9/5/latent-powers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-05 simonwillison</small>  
 <small>[Using Blender with coding agents on macOS](https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 developertoarchitect</small>  
+<small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-04 simonwillison</small>  
 <small>[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-18 azuresqlblog</small>  
 <small>[Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-18 ardalis</small>  
-<small>[Top 10 Ways to Reduce .NET Memory Usage in Kubernetes](https://ardalis.com/top-10-ways-to-reduce-net-memory-usage-in-kubernetes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-18 sqlperformance</small>  
-<small>[A script to script a script that scripts jobs](https://sqlperformance.com/2026/08/sql-job/idempotent-script)</small>
 

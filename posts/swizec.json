@@ -1,5 +1,10 @@
 [
   {
+    "title": "What B2B SaaS taught me about having kids",
+    "link": "https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids",
+    "pubDate": "2026-09-05T22:03:48+00:00"
+  },
+  {
     "title": "Focus and followthrough are the moat",
     "link": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
     "pubDate": "2026-08-27T16:03:57+00:00"
@@ -18,10 +23,5 @@
     "title": "Agents change the math on big bang migrations",
     "link": "https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations",
     "pubDate": "2026-08-01T22:01:28+00:00"
-  },
-  {
-    "title": "How to be useful as a software architect",
-    "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
-    "pubDate": "2026-07-25T16:01:20+00:00"
   }
 ]
