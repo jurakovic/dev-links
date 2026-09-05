@@ -1,5 +1,10 @@
 [
   {
+    "title": "Using Blender with coding agents on macOS",
+    "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "pubDate": "2026-09-05T15:51:09+00:00"
+  },
+  {
     "title": "The Pelican comparison grid for Astra is pretty interesting",
     "link": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
     "pubDate": "2026-09-04T23:59:05+00:00"
@@ -18,10 +23,5 @@
     "title": "GPT‑6 Astra",
     "link": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
     "pubDate": "2026-09-03T20:18:41+00:00"
-  },
-  {
-    "title": "llm-gemini 0.34",
-    "link": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
-    "pubDate": "2026-09-02T16:39:38+00:00"
   }
 ]
