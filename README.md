@@ -8,6 +8,9 @@
 <small>[The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
+<small>[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
 <small>[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-05 simonwillison</small>  
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 developertoarchitect</small>  
 <small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-04 simonwillison</small>  
-<small>[The Pelican comparison grid for Astra is pretty interesting](https://simonwillison.net/2026/Sep/4/astra-pelicans/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-04 github-ai</small>  
 <small>[Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)</small>
