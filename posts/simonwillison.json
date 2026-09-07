@@ -1,5 +1,10 @@
 [
   {
+    "title": "Research acceleration: The view inside OpenAI",
+    "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "pubDate": "2026-09-06T23:57:40+00:00"
+  },
+  {
     "title": "The purpose of DNS is to spread scams",
     "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
     "pubDate": "2026-09-06T14:40:07+00:00"
@@ -18,10 +23,5 @@
     "title": "Introducing GPT-6 Astra for developers",
     "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
     "pubDate": "2026-09-05T23:27:48+00:00"
-  },
-  {
-    "title": "Using Blender with coding agents on macOS",
-    "link": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-    "pubDate": "2026-09-05T15:51:09+00:00"
   }
 ]
