@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cutting tool output tokens in Microsoft Agent Framework with TOON",
+    "link": "https://bartwullems.blogspot.com/2026/09/cutting-tool-output-tokens-in-microsoft.html",
+    "pubDate": "2026-09-07T06:09:11+00:00"
+  },
+  {
     "title": "Firelighting vs. firefighting",
     "link": "https://bartwullems.blogspot.com/2026/09/firelighting-vs-firefighting.html",
     "pubDate": "2026-09-04T14:34:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Setting up GitHub Copilot budget policies without GitHub Enterprise Cloud",
     "link": "https://bartwullems.blogspot.com/2026/09/setting-up-github-copilot-budget.html",
     "pubDate": "2026-09-01T05:54:00+00:00"
-  },
-  {
-    "title": "Renovate hostRules silently ignored? Check your config level",
-    "link": "https://bartwullems.blogspot.com/2026/08/renovate-hostrules-silently-ignored.html",
-    "pubDate": "2026-08-31T05:14:00+00:00"
   }
 ]
