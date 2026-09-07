@@ -1,5 +1,15 @@
 [
   {
+    "title": "Video compressor",
+    "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+    "pubDate": "2026-09-07T18:29:07+00:00"
+  },
+  {
+    "title": "Mercator ↔ Equal Earth",
+    "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
+    "pubDate": "2026-09-07T16:24:16+00:00"
+  },
+  {
     "title": "Research acceleration: The view inside OpenAI",
     "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
     "pubDate": "2026-09-06T23:57:40+00:00"
@@ -13,15 +23,5 @@
     "title": "There's No Limit to How Bad Code Can Get",
     "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
     "pubDate": "2026-09-06T09:08:06+00:00"
-  },
-  {
-    "title": "Quoting Zach Kehs",
-    "link": "https://simonwillison.net/2026/Sep/6/zach-kehs/",
-    "pubDate": "2026-09-06T08:42:49+00:00"
-  },
-  {
-    "title": "Introducing GPT-6 Astra for developers",
-    "link": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-    "pubDate": "2026-09-05T23:27:48+00:00"
   }
 ]

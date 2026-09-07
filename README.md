@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
+<small>[Video compressor](https://simonwillison.net/2026/Sep/7/video-compressor/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 dbreunig</small>  
+<small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
+<small>[Mercator ↔ Equal Earth](https://simonwillison.net/2026/Sep/7/equal-earth/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-07 bartwullems</small>  
 <small>[Cutting tool output tokens in Microsoft Agent Framework with TOON](https://bartwullems.blogspot.com/2026/09/cutting-tool-output-tokens-in-microsoft.html)</small>
 
@@ -15,12 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
 <small>[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
-<small>[Quoting Zach Kehs](https://simonwillison.net/2026/Sep/6/zach-kehs/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-05 simonwillison</small>  
-<small>[Introducing GPT-6 Astra for developers](https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-05 swizec</small>  
 <small>[What B2B SaaS taught me about having kids](https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-18 steven-giesel</small>  
 <small>[Claude Memory Admin](https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-18 azuresqlblog</small>  
-<small>[Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525)</small>
 
