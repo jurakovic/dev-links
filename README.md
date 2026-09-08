@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-09-08 sqlperformance</small>  
+<small>[T-SQL Tuesday #202 : The Outage(s) I Won't Forget](https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-08 stackoverflow</small>  
+<small>[Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-08 seangoedecke</small>  
 <small>[Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/)</small>
 
@@ -187,9 +193,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-28 seangoedecke</small>  
 <small>[Selling out](https://seangoedecke.com/selling-out/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-08-28 stackoverflow</small>  
-<small>[When you keep AI Lean, you keep AI correct](https://stackoverflow.blog/2026/08/28/when-you-keep-ai-lean-you-keep-ai-correct/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
 <small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-19 bencane</small>  
 <small>[AI makes code cheap to create, not cheap to own](https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-08-18 steven-giesel</small>  
-<small>[Claude Memory Admin](https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf)</small>
 

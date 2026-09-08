@@ -1,5 +1,10 @@
 [
   {
+    "title": "T-SQL Tuesday #202 : The Outage(s) I Won't Forget",
+    "link": "https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages",
+    "pubDate": "2026-09-08T09:00:51+00:00"
+  },
+  {
     "title": "Dirty Reads, Permanent Damage",
     "link": "https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage",
     "pubDate": "2026-08-24T15:45:39+00:00"
@@ -18,10 +23,5 @@
     "title": "SolarWinds Database Performance Analyzer Now Supports SAP HANA",
     "link": "https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana",
     "pubDate": "2026-07-03T17:33:10+00:00"
-  },
-  {
-    "title": "Dealing With Explosive sysjobhistory Growth",
-    "link": "https://sqlperformance.com/2026/06/t-sql-queries/explosive-sysjobhistory-growth",
-    "pubDate": "2026-06-24T17:21:26+00:00"
   }
 ]
