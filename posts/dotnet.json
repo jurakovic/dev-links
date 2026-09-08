@@ -1,5 +1,20 @@
 [
   {
+    "title": "Announcing .NET 11 Release Candidate 1",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/",
+    "pubDate": "2026-09-08T21:30:00+00:00"
+  },
+  {
+    "title": ".NET Conf 2026 Community Days Call for Presenters Is Open",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters/",
+    "pubDate": "2026-09-08T20:30:00+00:00"
+  },
+  {
+    "title": ".NET and .NET Framework September 2026 servicing releases updates",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates/",
+    "pubDate": "2026-09-08T20:00:00+00:00"
+  },
+  {
     "title": "Test what you ship: MSTest and Native AOT",
     "link": "https://devblogs.microsoft.com/dotnet/mstest-source-generation/",
     "pubDate": "2026-09-03T18:00:00+00:00"
@@ -8,20 +23,5 @@
     "title": "How Uno Platform uses .NET, MCP, and AI to build high quality apps",
     "link": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
     "pubDate": "2026-08-27T17:00:00+00:00"
-  },
-  {
-    "title": ".NET Conf 2026 – Save the Date",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-conf-2026/",
-    "pubDate": "2026-08-25T16:28:27+00:00"
-  },
-  {
-    "title": "From dotnet run to Foundry Hosted Agent in 3 lines of C#",
-    "link": "https://devblogs.microsoft.com/dotnet/from-dotnet-run-to-foundry-hosted-agent-in-3-lines-of-csharp/",
-    "pubDate": "2026-08-24T19:00:00+00:00"
-  },
-  {
-    "title": "Explore new features available in C# 15 preview",
-    "link": "https://devblogs.microsoft.com/dotnet/explore-csharp-15/",
-    "pubDate": "2026-08-24T17:00:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "OpenAI Changed the AGI Deal. Then Declared the Era.",
+    "link": "https://techtrenches.dev/p/openai-agi-deal-era",
+    "pubDate": "2026-09-08T18:36:57+00:00"
+  },
+  {
     "title": "I Shipped 17 PRs Without Writing Code",
     "link": "https://techtrenches.dev/p/shipping-ai-written-code",
     "pubDate": "2026-09-01T15:40:30+00:00"
@@ -18,10 +23,5 @@
     "title": "The Guardrail Is Now Part of the Attack",
     "link": "https://techtrenches.dev/p/ai-guardrails-attack-surface",
     "pubDate": "2026-08-04T14:32:34+00:00"
-  },
-  {
-    "title": "Substack Asked for Volume, Then Shipped a Scanner",
-    "link": "https://techtrenches.dev/p/substack-ai-detector-who-pays",
-    "pubDate": "2026-07-27T17:54:02+00:00"
   }
 ]
