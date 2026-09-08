@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-08 seangoedecke</small>  
+<small>[Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
+<small>[llm 0.35](https://simonwillison.net/2026/Sep/7/llm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
+<small>[Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
+<small>[Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
 <small>[Video compressor](https://simonwillison.net/2026/Sep/7/video-compressor/)</small>
 
@@ -15,15 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-07 bartwullems</small>  
 <small>[Cutting tool output tokens in Microsoft Agent Framework with TOON](https://bartwullems.blogspot.com/2026/09/cutting-tool-output-tokens-in-microsoft.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
-<small>[Research acceleration: The view inside OpenAI](https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
-<small>[The purpose of DNS is to spread scams](https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-06 simonwillison</small>  
-<small>[There's No Limit to How Bad Code Can Get](https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-05 swizec</small>  
 <small>[What B2B SaaS taught me about having kids](https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids)</small>
@@ -276,9 +279,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-22 microservices</small>  
 <small>[Speed limits, GenAI coding agents and Autobahns - part 2: raising the safe speed](http://microservices.io//post/architecture/2026/08/22/speed-limits-genai-coding-agents-autobahns-part-2.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-22 seangoedecke</small>  
-<small>[You should never be angry at work](https://seangoedecke.com/you-should-never-be-angry-at-work/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-21 third-bit</small>  
 <small>[What Else Should I Read?](https://third-bit.com/2026/08/21/what-else-should-i-read/)</small>

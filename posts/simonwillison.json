@@ -1,5 +1,20 @@
 [
   {
+    "title": "llm 0.35",
+    "link": "https://simonwillison.net/2026/Sep/7/llm/",
+    "pubDate": "2026-09-07T23:54:54+00:00"
+  },
+  {
+    "title": "Creepy crawlies",
+    "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+    "pubDate": "2026-09-07T23:08:58+00:00"
+  },
+  {
+    "title": "Quoting Jakub Pachocki",
+    "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "pubDate": "2026-09-07T22:26:25+00:00"
+  },
+  {
     "title": "Video compressor",
     "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
     "pubDate": "2026-09-07T18:29:07+00:00"
@@ -8,20 +23,5 @@
     "title": "Mercator ↔ Equal Earth",
     "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
     "pubDate": "2026-09-07T16:24:16+00:00"
-  },
-  {
-    "title": "Research acceleration: The view inside OpenAI",
-    "link": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
-    "pubDate": "2026-09-06T23:57:40+00:00"
-  },
-  {
-    "title": "The purpose of DNS is to spread scams",
-    "link": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
-    "pubDate": "2026-09-06T14:40:07+00:00"
-  },
-  {
-    "title": "There's No Limit to How Bad Code Can Get",
-    "link": "https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/",
-    "pubDate": "2026-09-06T09:08:06+00:00"
   }
 ]
