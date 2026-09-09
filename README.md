@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
+<small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-09 seangoedecke</small>  
+<small>[Why we should anthropomorphize AI agents](https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-09 bartwullems</small>  
+<small>[Using GitHub Copilot Spaces from VS Code](https://bartwullems.blogspot.com/2026/09/using-github-copilot-spaces-from-vs-code.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-09 stackoverflow</small>  
+<small>[Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-09 simonwillison</small>  
 <small>[Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)</small>
 
@@ -154,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 microservices</small>  
 <small>[Microservices and GenAI in 2026: my Dear Architects conversation](http://microservices.io//post/architecture/2026/09/02/dear-architects-microservices-and-ai.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-02 bartwullems</small>  
-<small>[Monitoring GitHub Copilot usage with the Aspire Dashboard](https://bartwullems.blogspot.com/2026/09/monitoring-github-copilot-usage-with.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-01 rickstrahl</small>  
 <small>[Back to Basics: JavaScript and Timezones](https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones)</small>
 
@@ -177,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-01 andrewlock</small>  
 <small>[The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7](https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-01 stackoverflow</small>  
-<small>[The good ol’ days of building Java](https://stackoverflow.blog/2026/09/01/the-good-ol-days-of-building-java/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-01 azuresqlblog</small>  
 <small>[Understanding DevOps Auditing API Migration Behavior in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723)</small>
@@ -213,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-28 netflix</small>  
 <small>[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-28 seangoedecke</small>  
-<small>[Selling out](https://seangoedecke.com/selling-out/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
 <small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-20 pragmaticengineer</small>  
 <small>[The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-19 lucumr-pocoo</small>  
-<small>[What Is Reasoning](https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/)</small>
 
