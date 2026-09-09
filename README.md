@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-09 simonwillison</small>  
+<small>[Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-08 simonwillison</small>  
+<small>[On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-08 simonwillison</small>  
+<small>[Introducing ChatGPT Images 2.5](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-08 third-bit</small>  
 <small>[Rebooting SDGC: Introduction](https://third-bit.com/2026/09/08/sdgc-reboot-intro/)</small>
 
@@ -49,17 +58,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
 <small>[Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
-<small>[Quoting Jakub Pachocki](https://simonwillison.net/2026/Sep/7/jakub-pachocki/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
-<small>[Video compressor](https://simonwillison.net/2026/Sep/7/video-compressor/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 dbreunig</small>  
 <small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
-<small>[Mercator ↔ Equal Earth](https://simonwillison.net/2026/Sep/7/equal-earth/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-07 bartwullems</small>  
 <small>[Cutting tool output tokens in Microsoft Agent Framework with TOON](https://bartwullems.blogspot.com/2026/09/cutting-tool-output-tokens-in-microsoft.html)</small>

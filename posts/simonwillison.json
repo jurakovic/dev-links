@@ -1,5 +1,20 @@
 [
   {
+    "title": "Quoting Terence Tao",
+    "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "pubDate": "2026-09-09T00:20:17+00:00"
+  },
+  {
+    "title": "On the Navier–Stokes Millennium Prize Problem",
+    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "pubDate": "2026-09-08T23:55:12+00:00"
+  },
+  {
+    "title": "Introducing ChatGPT Images 2.5",
+    "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+    "pubDate": "2026-09-08T22:46:33+00:00"
+  },
+  {
     "title": "llm 0.35",
     "link": "https://simonwillison.net/2026/Sep/7/llm/",
     "pubDate": "2026-09-07T23:54:54+00:00"
@@ -8,20 +23,5 @@
     "title": "Creepy crawlies",
     "link": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
     "pubDate": "2026-09-07T23:08:58+00:00"
-  },
-  {
-    "title": "Quoting Jakub Pachocki",
-    "link": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
-    "pubDate": "2026-09-07T22:26:25+00:00"
-  },
-  {
-    "title": "Video compressor",
-    "link": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-    "pubDate": "2026-09-07T18:29:07+00:00"
-  },
-  {
-    "title": "Mercator ↔ Equal Earth",
-    "link": "https://simonwillison.net/2026/Sep/7/equal-earth/",
-    "pubDate": "2026-09-07T16:24:16+00:00"
   }
 ]
