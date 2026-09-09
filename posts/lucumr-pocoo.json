@@ -1,5 +1,10 @@
 [
   {
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "pubDate": "2026-09-07T00:00:00+00:00"
+  },
+  {
     "title": "Latent Powers",
     "link": "https://lucumr.pocoo.org/2026/9/5/latent-powers/",
     "pubDate": "2026-09-05T16:03:57+00:00"
@@ -18,10 +23,5 @@
     "title": "What Is Reasoning",
     "link": "https://lucumr.pocoo.org/2026/8/19/what-is-reasoning/",
     "pubDate": "2026-08-19T22:01:48+00:00"
-  },
-  {
-    "title": "Codeberg Divides",
-    "link": "https://lucumr.pocoo.org/2026/7/24/codeberg-divides/",
-    "pubDate": "2026-07-24T17:04:55+00:00"
   }
 ]

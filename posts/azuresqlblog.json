@@ -1,10 +1,5 @@
 [
   {
-    "title": "SQL Data Sync – the final phase of retirement",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796",
-    "pubDate": "2026-09-09T10:38:14+00:00"
-  },
-  {
     "title": "Understanding DevOps Auditing API Migration Behavior in Azure SQL Database",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723",
     "pubDate": "2026-09-01T07:01:30+00:00"
@@ -23,5 +18,10 @@
     "title": "Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525",
     "pubDate": "2026-08-18T13:30:23+00:00"
+  },
+  {
+    "title": "SQLCon is Back: 5 Reasons to Attend the European Microsoft Fabric + SQL Community Conference",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sqlcon-is-back-5-reasons-to-attend-the-european-microsoft-fabric/ba-p/4545962",
+    "pubDate": "2026-08-11T14:10:55+00:00"
   }
 ]

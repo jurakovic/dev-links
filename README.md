@@ -4,8 +4,8 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-09 azuresqlblog</small>  
-<small>[SQL Data Sync – the final phase of retirement](https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-09 martinfowler</small>  
+<small>[Social Media Engagement: summer 2026](https://martinfowler.com/articles/2026-social-traffic.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
 <small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
@@ -78,6 +78,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-07 bartwullems</small>  
 <small>[Cutting tool output tokens in Microsoft Agent Framework with TOON](https://bartwullems.blogspot.com/2026/09/cutting-tool-output-tokens-in-microsoft.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-07 lucumr-pocoo</small>  
+<small>[Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-05 swizec</small>  
 <small>[What B2B SaaS taught me about having kids](https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids)</small>
@@ -156,9 +159,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-02 visualstudio</small>  
 <small>[Stop alt-tabbing into the wrong Visual Studio](https://devblogs.microsoft.com/visualstudio/stop-alt-tabbing-into-the-wrong-visual-studio/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
-<small>[Maybe We Shouldn't Be Reviewing All This Code](https://martinfowler.com/rachels-ramblings/code-review.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 bencane</small>  
 <small>[At what point does better performance stop being worth it?](https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/)</small>
