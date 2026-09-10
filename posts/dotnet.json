@@ -1,5 +1,10 @@
 [
   {
+    "title": "Use C# unions and closed hierarchies in ASP.NET Core",
+    "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
+    "pubDate": "2026-09-10T17:00:00+00:00"
+  },
+  {
     "title": "Announcing .NET 11 Release Candidate 1",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/",
     "pubDate": "2026-09-08T21:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Test what you ship: MSTest and Native AOT",
     "link": "https://devblogs.microsoft.com/dotnet/mstest-source-generation/",
     "pubDate": "2026-09-03T18:00:00+00:00"
-  },
-  {
-    "title": "How Uno Platform uses .NET, MCP, and AI to build high quality apps",
-    "link": "https://devblogs.microsoft.com/dotnet/how-uno-platform-uses-dotnet-mcp-ai-to-build-high-quality-apps/",
-    "pubDate": "2026-08-27T17:00:00+00:00"
   }
 ]

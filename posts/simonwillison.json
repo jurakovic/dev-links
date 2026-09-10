@@ -1,5 +1,10 @@
 [
   {
+    "title": "Native is now the future of mobile at Shopify",
+    "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+    "pubDate": "2026-09-10T21:11:15+00:00"
+  },
+  {
     "title": "Quoting Calif Research",
     "link": "https://simonwillison.net/2026/Sep/10/calif-research/",
     "pubDate": "2026-09-10T00:56:41+00:00"
@@ -18,10 +23,5 @@
     "title": "On the Navier–Stokes Millennium Prize Problem",
     "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
     "pubDate": "2026-09-08T23:55:12+00:00"
-  },
-  {
-    "title": "Introducing ChatGPT Images 2.5",
-    "link": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
-    "pubDate": "2026-09-08T22:46:33+00:00"
   }
 ]
