@@ -1,5 +1,10 @@
 [
   {
+    "title": "My VS Code story (and why the new documentary is a must watch)",
+    "link": "https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html",
+    "pubDate": "2026-09-10T05:52:00+00:00"
+  },
+  {
     "title": "Using GitHub Copilot Spaces from VS Code",
     "link": "https://bartwullems.blogspot.com/2026/09/using-github-copilot-spaces-from-vs-code.html",
     "pubDate": "2026-09-09T07:11:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Firelighting vs. firefighting",
     "link": "https://bartwullems.blogspot.com/2026/09/firelighting-vs-firefighting.html",
     "pubDate": "2026-09-04T14:34:35+00:00"
-  },
-  {
-    "title": "Monitoring Claude Code usage with the Aspire Dashboard",
-    "link": "https://bartwullems.blogspot.com/2026/09/monitoring-claude-code-usage-with.html",
-    "pubDate": "2026-09-03T05:11:00+00:00"
   }
 ]

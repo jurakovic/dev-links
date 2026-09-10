@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-10 seangoedecke</small>  
+<small>[They really do think AI might kill everyone](https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-10 bartwullems</small>  
+<small>[My VS Code story (and why the new documentary is a must watch)](https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
 <small>[Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)</small>
 
@@ -139,9 +145,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-03 stackoverflow</small>  
 <small>[The economics of agent scale: tokens, ROI, and building platforms for AI-first teams (Part 2)](https://stackoverflow.blog/2026/09/03/the-economics-of-agent-scale/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-03 bartwullems</small>  
-<small>[Monitoring Claude Code usage with the Aspire Dashboard](https://bartwullems.blogspot.com/2026/09/monitoring-claude-code-usage-with.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
 <small>[Bliki: Paracelsus Maxim](https://martinfowler.com/bliki/ParacelsusMaxim.html)</small>
 
@@ -210,9 +213,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
 <small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-08-30 seangoedecke</small>  
-<small>[You have to beat the models at something](https://seangoedecke.com/you-have-to-beat-the-models-at-something/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-29 third-bit</small>  
 <small>[Summer Projects Revisited](https://third-bit.com/2026/08/29/summer-project-revisited/)</small>
