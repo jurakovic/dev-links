@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
+<small>[Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-09 simonwillison</small>  
+<small>[.blend URL Viewer](https://simonwillison.net/2026/Sep/9/blender-viewer/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-09 martinfowler</small>  
 <small>[Social Media Engagement: summer 2026](https://martinfowler.com/articles/2026-social-traffic.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-09 azuresqlblog</small>  
+<small>[SQL Data Sync – the final phase of retirement](https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
 <small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
@@ -66,12 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-08 seangoedecke</small>  
 <small>[Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
-<small>[llm 0.35](https://simonwillison.net/2026/Sep/7/llm/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-07 simonwillison</small>  
-<small>[Creepy crawlies](https://simonwillison.net/2026/Sep/7/creepy-crawlies/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 dbreunig</small>  
 <small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-21 netflix</small>  
 <small>[A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-21 addyosmani</small>  
-<small>[Human judgment doesn't leave the software factory. It relocates.](https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/)</small>
 
