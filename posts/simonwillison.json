@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Boris Cherny",
+    "link": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+    "pubDate": "2026-09-11T17:47:11+00:00"
+  },
+  {
+    "title": "Quoting huggingface.co/security.txt",
+    "link": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+    "pubDate": "2026-09-11T16:04:53+00:00"
+  },
+  {
     "title": "Soft-deprecating re.match()",
     "link": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/",
     "pubDate": "2026-09-11T14:47:57+00:00"
@@ -13,15 +23,5 @@
     "title": "Datasette 1.0a39 and 0.65.4 security releases",
     "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
     "pubDate": "2026-09-11T03:27:16+00:00"
-  },
-  {
-    "title": "Any Nix package, live in your browser",
-    "link": "https://simonwillison.net/2026/Sep/10/trynix/",
-    "pubDate": "2026-09-10T23:44:15+00:00"
-  },
-  {
-    "title": "Native is now the future of mobile at Shopify",
-    "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
-    "pubDate": "2026-09-10T21:11:15+00:00"
   }
 ]

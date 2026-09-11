@@ -1,5 +1,10 @@
 [
   {
+    "title": "Visual Studio Devs Tell Microsoft How to Improve Test Explorer -- and Rider Comes Up",
+    "link": "https://visualstudiomagazine.com/articles/2026/09/11/visual-studio-devs-tell-microsoft-how-to-improve-test-explorer-and-rider-keeps-coming-up.aspx",
+    "pubDate": "2026-09-11T18:40:00+00:00"
+  },
+  {
     "title": "Previews and Experiments in VS Code 1.137",
     "link": "https://visualstudiomagazine.com/articles/2026/09/10/previews-and-experiments-in-vs-code-1-137.aspx",
     "pubDate": "2026-09-10T18:39:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft Spotlights VSLive! Takeaways, Upcoming San Diego and Orlando Events",
     "link": "https://visualstudiomagazine.com/articles/2026/08/28/microsoft-spotlights-vslive-takeaways-upcoming-san-diego-and-orlando-events.aspx",
     "pubDate": "2026-08-28T16:40:00+00:00"
-  },
-  {
-    "title": "VS Code Tries Rubber Duck for AI Second Opinions",
-    "link": "https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx",
-    "pubDate": "2026-08-27T15:55:00+00:00"
   }
 ]

@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-11 third-bit</small>  
+<small>[Iffy](https://third-bit.com/2026/09/11/iffy/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-11 visualstudiomagazine</small>  
+<small>[Visual Studio Devs Tell Microsoft How to Improve Test Explorer -- and Rider Comes Up](https://visualstudiomagazine.com/articles/2026/09/11/visual-studio-devs-tell-microsoft-how-to-improve-test-explorer-and-rider-keeps-coming-up.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-11 github-ai</small>  
+<small>[Marketing ops as code: Automating events from planning to follow-up on GitHub](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
+<small>[Quoting Boris Cherny](https://simonwillison.net/2026/Sep/11/boris-cherny/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
+<small>[Quoting huggingface.co/security.txt](https://simonwillison.net/2026/Sep/11/hugging-face-security/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
 <small>[Soft-deprecating re.match()](https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/)</small>
 
@@ -19,14 +34,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
 <small>[Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
-<small>[Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-10 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
-<small>[Native is now the future of mobile at Shopify](https://simonwillison.net/2026/Sep/10/shopify-react-native/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-10 visualstudiomagazine</small>  
 <small>[Previews and Experiments in VS Code 1.137](https://visualstudiomagazine.com/articles/2026/09/10/previews-and-experiments-in-vs-code-1-137.aspx)</small>
@@ -169,9 +178,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-02 visualstudiomagazine</small>  
 <small>[VS Code 1.136 Pushes Agents Deeper Into the Development Workflow](https://visualstudiomagazine.com/articles/2026/09/02/vs-code-1-136-pushes-agents-deeper-into-the-development-workflow.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-ai</small>  
-<small>[How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-eng</small>  
 <small>[How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/)</small>
 
@@ -241,17 +247,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-28 netflix</small>  
 <small>[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-27 third-bit</small>  
-<small>[Outline for an SDGC Workshop](https://third-bit.com/2026/08/27/sdgc-workshop/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
 <small>[The Pulse: We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-27 swizec</small>  
 <small>[Focus and followthrough are the moat](https://swizec.com/blog/focus-and-followthrough-are-the-moat)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-08-27 visualstudiomagazine</small>  
-<small>[VS Code Tries Rubber Duck for AI Second Opinions](https://visualstudiomagazine.com/articles/2026/08/27/vs-code-tries-rubber-duck-for-ai-second-opinions.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-27 hanselman</small>  
 <small>[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits](https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits)</small>
