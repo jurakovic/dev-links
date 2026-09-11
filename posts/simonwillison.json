@@ -1,5 +1,15 @@
 [
   {
+    "title": "Datasette 1.0a39 and 0.65.4 security releases",
+    "link": "https://simonwillison.net/2026/Sep/11/datasette-security/",
+    "pubDate": "2026-09-11T03:27:16+00:00"
+  },
+  {
+    "title": "Any Nix package, live in your browser",
+    "link": "https://simonwillison.net/2026/Sep/10/trynix/",
+    "pubDate": "2026-09-10T23:44:15+00:00"
+  },
+  {
     "title": "Native is now the future of mobile at Shopify",
     "link": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
     "pubDate": "2026-09-10T21:11:15+00:00"
@@ -13,15 +23,5 @@
     "title": ".blend URL Viewer",
     "link": "https://simonwillison.net/2026/Sep/9/blender-viewer/",
     "pubDate": "2026-09-09T23:58:32+00:00"
-  },
-  {
-    "title": "Quoting Terence Tao",
-    "link": "https://simonwillison.net/2026/Sep/9/terence-tao/",
-    "pubDate": "2026-09-09T00:20:17+00:00"
-  },
-  {
-    "title": "On the Navier–Stokes Millennium Prize Problem",
-    "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-    "pubDate": "2026-09-08T23:55:12+00:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
+<small>[Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
+<small>[Any Nix package, live in your browser](https://simonwillison.net/2026/Sep/10/trynix/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-10 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)</small>
 
@@ -54,12 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-09 stackoverflow</small>  
 <small>[Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-09 simonwillison</small>  
-<small>[Quoting Terence Tao](https://simonwillison.net/2026/Sep/9/terence-tao/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-08 simonwillison</small>  
-<small>[On the Navier–Stokes Millennium Prize Problem](https://simonwillison.net/2026/Sep/8/on-navier-stokes/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-08 third-bit</small>  
 <small>[Rebooting SDGC: Introduction](https://third-bit.com/2026/09/08/sdgc-reboot-intro/)</small>
