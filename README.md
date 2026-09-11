@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-11 stackoverflow</small>  
+<small>[AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-11 bartwullems</small>  
+<small>[Let Copilot argue with you: the /spar slash command](https://bartwullems.blogspot.com/2026/09/let-copilot-argue-with-you-spar-slash.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
 <small>[Datasette 1.0a39 and 0.65.4 security releases](https://simonwillison.net/2026/Sep/11/datasette-security/)</small>
 
@@ -124,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 erikej</small>  
 <small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-04 bartwullems</small>  
-<small>[Firelighting vs. firefighting](https://bartwullems.blogspot.com/2026/09/firelighting-vs-firefighting.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-04 seangoedecke</small>  
 <small>[Radical responsibility means treating people like tools](https://seangoedecke.com/radical-responsibility-means-treating-people-like-tools/)</small>
 
@@ -153,9 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-03 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-03 stackoverflow</small>  
-<small>[Elevating security, control, and accessibility: Stack Internal 2026.6](https://stackoverflow.blog/2026/09/03/security-control-and-accessibility-si-2026-6/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
 <small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
