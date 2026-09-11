@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
+<small>[Soft-deprecating re.match()](https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
+<small>[Don't sleep on wrapture](https://simonwillison.net/2026/Sep/11/wrapture/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-11 stackoverflow</small>  
 <small>[AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/)</small>
 
@@ -42,12 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-10 bartwullems</small>  
 <small>[My VS Code story (and why the new documentary is a must watch)](https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-10 simonwillison</small>  
-<small>[Quoting Calif Research](https://simonwillison.net/2026/Sep/10/calif-research/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-09 simonwillison</small>  
-<small>[.blend URL Viewer](https://simonwillison.net/2026/Sep/9/blender-viewer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-09 martinfowler</small>  
 <small>[Social Media Engagement: summer 2026](https://martinfowler.com/articles/2026-social-traffic.html)</small>
