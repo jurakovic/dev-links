@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Paul Ford",
+    "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
+    "pubDate": "2026-09-12T18:00:21+00:00"
+  },
+  {
     "title": "OpenAI agents attacked RubyGems back in May",
     "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
     "pubDate": "2026-09-12T00:42:25+00:00"
@@ -18,10 +23,5 @@
     "title": "Feeling sad about AI",
     "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
     "pubDate": "2026-09-11T17:28:37+00:00"
-  },
-  {
-    "title": "Quoting huggingface.co/security.txt",
-    "link": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
-    "pubDate": "2026-09-11T16:04:53+00:00"
   }
 ]

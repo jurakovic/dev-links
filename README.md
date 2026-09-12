@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-12 lucumr-pocoo</small>  
+<small>[P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-12 simonwillison</small>  
+<small>[Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-12 steven-giesel</small>  
+<small>[Quack Quack: Duck-Typing in C# with Interceptors](https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-12 seangoedecke</small>  
 <small>[Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)</small>
 
@@ -27,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
 <small>[Feeling sad about AI](https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
-<small>[Quoting huggingface.co/security.txt](https://simonwillison.net/2026/Sep/11/hugging-face-security/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-11 stackoverflow</small>  
 <small>[AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-23 hanselman</small>  
 <small>[Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps](https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-23 dbreunig</small>  
-<small>[Fable &amp; The End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-08-22 lucumr-pocoo</small>  
-<small>[Fast and Hard Code](https://lucumr.pocoo.org/2026/8/22/fast-hard-code/)</small>
 

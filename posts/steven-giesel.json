@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quack Quack: Duck-Typing in C# with Interceptors",
+    "link": "https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809",
+    "pubDate": "2026-09-12T15:44:44+00:00"
+  },
+  {
     "title": "Adding Properties with extension methods in C# 14",
     "link": "https://steven-giesel.com/blogPost/4368fcea-c922-403e-bb3b-6b4990eb36d2",
     "pubDate": "2026-09-04T09:07:48+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET Toolbox August Update",
     "link": "https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2",
     "pubDate": "2026-08-16T19:16:32+00:00"
-  },
-  {
-    "title": ".NET 11 Performance Edition",
-    "link": "https://steven-giesel.com/blogPost/86620358-bb91-4295-84fc-a1329b2567ae",
-    "pubDate": "2026-08-01T11:45:01+00:00"
   }
 ]
