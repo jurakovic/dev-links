@@ -1,5 +1,15 @@
 [
   {
+    "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+    "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "pubDate": "2026-09-12T23:56:42+00:00"
+  },
+  {
+    "title": "California Brown Pelican",
+    "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
+    "pubDate": "2026-09-12T21:16:09+00:00"
+  },
+  {
     "title": "Quoting Paul Ford",
     "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
     "pubDate": "2026-09-12T18:00:21+00:00"
@@ -13,15 +23,5 @@
     "title": "So you want to use OpenRouter?",
     "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
     "pubDate": "2026-09-11T22:49:18+00:00"
-  },
-  {
-    "title": "Quoting Boris Cherny",
-    "link": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-    "pubDate": "2026-09-11T17:47:11+00:00"
-  },
-  {
-    "title": "Feeling sad about AI",
-    "link": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
-    "pubDate": "2026-09-11T17:28:37+00:00"
   }
 ]
