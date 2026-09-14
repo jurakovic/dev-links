@@ -1,5 +1,10 @@
 [
   {
+    "title": "Share your .NET story with the community",
+    "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
+    "pubDate": "2026-09-14T17:05:00+00:00"
+  },
+  {
     "title": "Use C# unions and closed hierarchies in ASP.NET Core",
     "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
     "pubDate": "2026-09-10T17:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET and .NET Framework September 2026 servicing releases updates",
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates/",
     "pubDate": "2026-09-08T20:00:00+00:00"
-  },
-  {
-    "title": "Test what you ship: MSTest and Native AOT",
-    "link": "https://devblogs.microsoft.com/dotnet/mstest-source-generation/",
-    "pubDate": "2026-09-03T18:00:00+00:00"
   }
 ]

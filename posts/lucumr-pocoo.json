@@ -1,5 +1,10 @@
 [
   {
+    "title": "Interpreting Pangram",
+    "link": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+    "pubDate": "2026-09-14T22:04:05+00:00"
+  },
+  {
     "title": "P(doom)",
     "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
     "pubDate": "2026-09-12T22:03:59+00:00"
@@ -18,10 +23,5 @@
     "title": "Anger, Anxiety and Agency",
     "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
     "pubDate": "2026-08-24T10:01:30+00:00"
-  },
-  {
-    "title": "Fast and Hard Code",
-    "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-    "pubDate": "2026-08-22T22:01:50+00:00"
   }
 ]
