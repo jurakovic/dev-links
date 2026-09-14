@@ -1,5 +1,15 @@
 [
   {
+    "title": "commit-rewriter 0.1",
+    "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "pubDate": "2026-09-14T00:28:10+00:00"
+  },
+  {
+    "title": "shot-scraper 1.12",
+    "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
+    "pubDate": "2026-09-13T23:58:14+00:00"
+  },
+  {
     "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
     "link": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
     "pubDate": "2026-09-12T23:56:42+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Paul Ford",
     "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
     "pubDate": "2026-09-12T18:00:21+00:00"
-  },
-  {
-    "title": "OpenAI agents attacked RubyGems back in May",
-    "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-    "pubDate": "2026-09-12T00:42:25+00:00"
-  },
-  {
-    "title": "So you want to use OpenRouter?",
-    "link": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
-    "pubDate": "2026-09-11T22:49:18+00:00"
   }
 ]

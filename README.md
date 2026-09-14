@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-14 seangoedecke</small>  
+<small>[Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
+<small>[commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-13 simonwillison</small>  
+<small>[shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>
 
@@ -27,12 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-12 seangoedecke</small>  
 <small>[Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-12 simonwillison</small>  
-<small>[OpenAI agents attacked RubyGems back in May](https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-11 simonwillison</small>  
-<small>[So you want to use OpenRouter?](https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-11 third-bit</small>  
 <small>[Iffy](https://third-bit.com/2026/09/11/iffy/)</small>
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-08 stackoverflow</small>  
 <small>[Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-08 seangoedecke</small>  
-<small>[Automatically detecting AI text in my browser](https://seangoedecke.com/deckard/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 dbreunig</small>  
 <small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
