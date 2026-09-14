@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
+<small>[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-14 bartwullems</small>  
 <small>[Why is my AI agent bribing a hamster?](https://bartwullems.blogspot.com/2026/09/why-is-my-ai-agent-bribing-hamster.html)</small>
 
@@ -30,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-12 simonwillison</small>  
 <small>[California Brown Pelican](https://simonwillison.net/2026/Sep/12/sighting-399708714/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-12 simonwillison</small>  
-<small>[Quoting Paul Ford](https://simonwillison.net/2026/Sep/12/paul-ford/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-12 steven-giesel</small>  
 <small>[Quack Quack: Duck-Typing in C# with Interceptors](https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809)</small>

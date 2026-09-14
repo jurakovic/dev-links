@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Laurie Voss",
+    "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
+    "pubDate": "2026-09-14T14:34:29+00:00"
+  },
+  {
     "title": "commit-rewriter 0.1",
     "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
     "pubDate": "2026-09-14T00:28:10+00:00"
@@ -18,10 +23,5 @@
     "title": "California Brown Pelican",
     "link": "https://simonwillison.net/2026/Sep/12/sighting-399708714/",
     "pubDate": "2026-09-12T21:16:09+00:00"
-  },
-  {
-    "title": "Quoting Paul Ford",
-    "link": "https://simonwillison.net/2026/Sep/12/paul-ford/",
-    "pubDate": "2026-09-12T18:00:21+00:00"
   }
 ]
