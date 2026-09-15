@@ -1,5 +1,10 @@
 [
   {
+    "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
+    "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
+    "pubDate": "2026-09-14T11:32:46+00:00"
+  },
+  {
     "title": "Back to Basics: JavaScript and Timezones",
     "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
     "pubDate": "2026-09-01T18:31:33+00:00"
@@ -18,10 +23,5 @@
     "title": "Creating a Packaged Windows Single File Web Site Viewer Executable",
     "link": "https://weblog.west-wind.com/posts/2026/Jun/13/Creating-a-Packaged-Single-File-Web-Site-Viewer-Executable",
     "pubDate": "2026-06-13T06:57:03+00:00"
-  },
-  {
-    "title": "Lost ASP.NET Identity Cookies on IIS Application Pool Restarts",
-    "link": "https://weblog.west-wind.com/posts/2026/May/31/Lost-ASPNET-Cookies-on-IIS-Restarts",
-    "pubDate": "2026-05-31T08:49:58+00:00"
   }
 ]

@@ -22,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
 <small>[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-14 rickstrahl</small>  
+<small>[Protecting File Access in the wwwroot Folder in ASP.NET](https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-14 bartwullems</small>  
 <small>[Why is my AI agent bribing a hamster?](https://bartwullems.blogspot.com/2026/09/why-is-my-ai-agent-bribing-hamster.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 sqlperformance</small>  
 <small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-24 azuresqlblog</small>  
-<small>[Introducing Simplified Regional Limits for Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886)</small>
 
