@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-15 seangoedecke</small>  
+<small>[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
+<small>[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-15 bartwullems</small>  
+<small>[The Mediator pattern with MassTransit](https://bartwullems.blogspot.com/2026/09/the-mediator-pattern-with-masstransit.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
 <small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
 
@@ -100,9 +109,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
 <small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-09 seangoedecke</small>  
-<small>[Why we should anthropomorphize AI agents](https://seangoedecke.com/why-we-should-anthropomorphize-ai-agents/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-09 bartwullems</small>  
 <small>[Using GitHub Copilot Spaces from VS Code](https://bartwullems.blogspot.com/2026/09/using-github-copilot-spaces-from-vs-code.html)</small>
 
@@ -136,9 +142,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-08 martinfowler</small>  
 <small>[Do you even need a presentation?](https://martinfowler.com/articles/never-send-slides/need-presentation.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-08 bartwullems</small>  
-<small>[Getting started with GitHub Copilot Spaces](https://bartwullems.blogspot.com/2026/09/getting-started-with-github-copilot.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-09-08 sqlperformance</small>  
 <small>[T-SQL Tuesday #202 : The Outage(s) I Won't Forget](https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages)</small>
 
@@ -168,9 +171,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-04 steven-giesel</small>  
 <small>[Adding Properties with extension methods in C# 14](https://steven-giesel.com/blogPost/4368fcea-c922-403e-bb3b-6b4990eb36d2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-04 stackoverflow</small>  
-<small>[How to build a secure-by-default AI coding agent](https://stackoverflow.blog/2026/09/04/how-to-build-a-secure-by-default-ai-coding-agent/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-03 azure-sql</small>  
 <small>[SQL Decomposition in a Nutshell](https://devblogs.microsoft.com/azure-sql/sql-decomposition/)</small>
