@@ -1,5 +1,10 @@
 [
   {
+    "title": "Today I will… improve test coverage",
+    "link": "https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/",
+    "pubDate": "2026-09-15T16:00:21+00:00"
+  },
+  {
     "title": "Today I will… find hidden latency across a distributed .NET application",
     "link": "https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/",
     "pubDate": "2026-09-08T16:00:22+00:00"
@@ -18,10 +23,5 @@
     "title": "VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions",
     "link": "https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/",
     "pubDate": "2026-08-27T14:00:09+00:00"
-  },
-  {
-    "title": "The Visual Studio Debugger Agentic Workflow Gets a Test-Driven Upgrade",
-    "link": "https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-workflow-gets-a-test-driven-upgrade/",
-    "pubDate": "2026-08-26T16:00:47+00:00"
   }
 ]

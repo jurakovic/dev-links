@@ -4,8 +4,23 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
+<small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-15 martinfowler</small>  
+<small>[Nail the Narrative](https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 azure-sql</small>  
+<small>[Coding agents are picking Azure SQL Database](https://devblogs.microsoft.com/azure-sql/coding-agents-are-picking-azure-sql-database/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 dotnet</small>  
+<small>[Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-15 seangoedecke</small>  
 <small>[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 andrewlock</small>  
+<small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
 <small>[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)</small>
@@ -124,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 dotnet</small>  
 <small>[.NET Conf 2026 Community Days Call for Presenters Is Open](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 dotnet</small>  
-<small>[.NET and .NET Framework September 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-september-2026-servicing-updates/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-08 techtrenches</small>  
 <small>[OpenAI Changed the AGI Deal. Then Declared the Era.](https://techtrenches.dev/p/openai-agi-deal-era)</small>
 
@@ -202,9 +214,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-eng</small>  
 <small>[How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
-<small>[An Accidental Blackboard](https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-02 visualstudio</small>  
 <small>[Stop alt-tabbing into the wrong Visual Studio](https://devblogs.microsoft.com/visualstudio/stop-alt-tabbing-into-the-wrong-visual-studio/)</small>
 
@@ -277,14 +286,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
 <small>[Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 visualstudio</small>  
-<small>[The Visual Studio Debugger Agentic Workflow Gets a Test-Driven Upgrade](https://devblogs.microsoft.com/visualstudio/the-visual-studio-debugger-agentic-workflow-gets-a-test-driven-upgrade/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azuresqlblog</small>  
 <small>[ICYMI: New Azure SQL Foundations video series with GitHub samples](https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-26 azure-sql</small>  
-<small>[New Azure SQL Foundations video series with GitHub samples](https://devblogs.microsoft.com/azure-sql/new-azure-sql-foundations-video-series-with-github-samples/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-26 bencane</small>  
 <small>[Sometimes good engineering looks like over-engineering](https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-08-24 steve-yegge</small>  
 <small>[Fences, not Sandboxes](https://steve-yegge.medium.com/fences-not-sandboxes-5719cd9b04bd?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 sqlperformance</small>  
-<small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>
 
