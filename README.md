@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
+<small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-16 bencane</small>  
 <small>[Some architecture principles should be rules. Others should be guidelines.](https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/)</small>
 
@@ -15,6 +18,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-15 simonwillison</small>  
 <small>[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
+<small>[From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
 <small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
@@ -160,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-09-08 sqlperformance</small>  
 <small>[T-SQL Tuesday #202 : The Outage(s) I Won't Forget](https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-08 stackoverflow</small>  
-<small>[Scaling your money safely with AI](https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 dbreunig</small>  
 <small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
 
@@ -282,9 +285,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-27 hanselman</small>  
 <small>[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits](https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-27 visualstudio</small>  
-<small>[VSLive! @ Microsoft HQ: Developer Takeaways and Must-Watch Sessions](https://devblogs.microsoft.com/visualstudio/vslive-hq-content-sandiego-and-orlando-mentions/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
 <small>[Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/)</small>

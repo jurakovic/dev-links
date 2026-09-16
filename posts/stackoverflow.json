@@ -1,5 +1,10 @@
 [
   {
+    "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
+    "link": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
+    "pubDate": "2026-09-15T17:00:00+00:00"
+  },
+  {
     "title": "AI, JD, and other letters of the law",
     "link": "https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/",
     "pubDate": "2026-09-15T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Java’s age is its AI superpower",
     "link": "https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/",
     "pubDate": "2026-09-09T04:45:00+00:00"
-  },
-  {
-    "title": "Scaling your money safely with AI",
-    "link": "https://stackoverflow.blog/2026/09/08/scaling-your-money-safely-with-ai/",
-    "pubDate": "2026-09-08T07:40:00+00:00"
   }
 ]
