@@ -1,5 +1,10 @@
 [
   {
+    "title": "Some architecture principles should be rules. Others should be guidelines.",
+    "link": "https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/",
+    "pubDate": "2026-09-16T10:03:51+00:00"
+  },
+  {
     "title": "Mishandling concurrency is one of the most common root causes of software bugs",
     "link": "https://bencane.com/posts/2026-09-09-mishandling-concurrency/",
     "pubDate": "2026-09-09T10:03:48+00:00"
@@ -18,10 +23,5 @@
     "title": "AI makes code cheap to create, not cheap to own",
     "link": "https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/",
     "pubDate": "2026-08-19T10:01:35+00:00"
-  },
-  {
-    "title": "“We can’t run locally” is usually a design smell",
-    "link": "https://bencane.com/posts/2026-08-13-run-locally-design-smell/",
-    "pubDate": "2026-08-13T10:01:33+00:00"
   }
 ]

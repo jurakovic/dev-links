@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-16 bencane</small>  
+<small>[Some architecture principles should be rules. Others should be guidelines.](https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-16 seangoedecke</small>  
+<small>[Jev means structured output is interesting again](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-16 bartwullems</small>  
+<small>[Sharing your micro-apps with /create-canvas in the GitHub Copilot app](https://bartwullems.blogspot.com/2026/09/sharing-your-micro-apps-with-create.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-15 simonwillison</small>  
 <small>[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/)</small>
 
@@ -109,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 terriblesoftware</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-10 seangoedecke</small>  
-<small>[They really do think AI might kill everyone](https://seangoedecke.com/they-really-do-think-ai-might-kill-everyone/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-10 bartwullems</small>  
 <small>[My VS Code story (and why the new documentary is a must watch)](https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html)</small>
 
@@ -123,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
 <small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-09 bartwullems</small>  
-<small>[Using GitHub Copilot Spaces from VS Code](https://bartwullems.blogspot.com/2026/09/using-github-copilot-spaces-from-vs-code.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-09 stackoverflow</small>  
 <small>[Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-24 github-eng</small>  
 <small>[Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-08-24 steve-yegge</small>  
-<small>[Fences, not Sandboxes](https://steve-yegge.medium.com/fences-not-sandboxes-5719cd9b04bd?source=rss-c1ec701babb7------2)</small>
 
