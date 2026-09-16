@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-15 simonwillison</small>  
+<small>[Gemini Live audio](https://simonwillison.net/2026/Sep/15/gemini-live/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
 <small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
 
@@ -57,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
 <small>[commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-13 simonwillison</small>  
-<small>[shot-scraper 1.12](https://simonwillison.net/2026/Sep/13/shot-scraper/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>

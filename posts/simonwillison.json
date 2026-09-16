@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gemini Live audio",
+    "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "pubDate": "2026-09-15T22:47:07+00:00"
+  },
+  {
     "title": "The contagion of fear",
     "link": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
     "pubDate": "2026-09-14T21:18:13+00:00"
@@ -18,10 +23,5 @@
     "title": "commit-rewriter 0.1",
     "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
     "pubDate": "2026-09-14T00:28:10+00:00"
-  },
-  {
-    "title": "shot-scraper 1.12",
-    "link": "https://simonwillison.net/2026/Sep/13/shot-scraper/",
-    "pubDate": "2026-09-13T23:58:14+00:00"
   }
 ]
