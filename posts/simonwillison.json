@@ -1,5 +1,15 @@
 [
   {
+    "title": "Claude Cowork and chat are now one Claude",
+    "link": "https://simonwillison.net/2026/Sep/16/one-claude/",
+    "pubDate": "2026-09-16T18:09:49+00:00"
+  },
+  {
+    "title": "Quoting Mustafa Suleyman",
+    "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
+    "pubDate": "2026-09-16T16:00:54+00:00"
+  },
+  {
     "title": "Gemini Live audio",
     "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
     "pubDate": "2026-09-15T22:47:07+00:00"
@@ -13,15 +23,5 @@
     "title": "What blog posts influenced your thinking the most?",
     "link": "https://simonwillison.net/2026/Sep/14/influences/",
     "pubDate": "2026-09-14T20:21:48+00:00"
-  },
-  {
-    "title": "Quoting Laurie Voss",
-    "link": "https://simonwillison.net/2026/Sep/14/laurie-voss/",
-    "pubDate": "2026-09-14T14:34:29+00:00"
-  },
-  {
-    "title": "commit-rewriter 0.1",
-    "link": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-    "pubDate": "2026-09-14T00:28:10+00:00"
   }
 ]

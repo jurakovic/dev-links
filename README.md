@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
+<small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-16 techtrenches</small>  
+<small>[The Aggressor Asks for Terms](https://techtrenches.dev/p/the-aggressor-asks-for-terms)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-16 martinfowler</small>  
+<small>[Fragments: September 16](https://martinfowler.com/fragments/2026-09-16.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
+<small>[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
+<small>[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
 <small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
 
@@ -61,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-14 dotnet</small>  
 <small>[Share your .NET story with the community](https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
-<small>[Quoting Laurie Voss](https://simonwillison.net/2026/Sep/14/laurie-voss/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-14 rickstrahl</small>  
 <small>[Protecting File Access in the wwwroot Folder in ASP.NET](https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET)</small>
 
@@ -72,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-14 seangoedecke</small>  
 <small>[Slow developer experience will bottleneck fast models](https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
-<small>[commit-rewriter 0.1](https://simonwillison.net/2026/Sep/14/commit-rewriter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>
@@ -145,9 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 dotnet</small>  
 <small>[Announcing .NET 11 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 dotnet</small>  
-<small>[.NET Conf 2026 Community Days Call for Presenters Is Open](https://devblogs.microsoft.com/dotnet/dotnet-conf-2026-community-days-call-for-presenters/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-08 techtrenches</small>  
 <small>[OpenAI Changed the AGI Deal. Then Declared the Era.](https://techtrenches.dev/p/openai-agi-deal-era)</small>
 
@@ -207,9 +213,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
 <small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-02 martinfowler</small>  
-<small>[Bliki: Paracelsus Maxim](https://martinfowler.com/bliki/ParacelsusMaxim.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-ai</small>  
 <small>[Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-25 microservices</small>  
 <small>[Architecting for uncertainty - part 1: thriving in a VUCA world requires frequent deployment](http://microservices.io//post/architecture/2026/08/25/architecting-for-uncertainty-part-1.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-08-24 github-eng</small>  
-<small>[Your alt text passes automated checks. That doesn’t mean it’s any good.](https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/)</small>
 
