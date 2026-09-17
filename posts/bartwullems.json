@@ -1,5 +1,10 @@
 [
   {
+    "title": "Continuous AI, one automation at a time",
+    "link": "https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html",
+    "pubDate": "2026-09-17T05:33:00+00:00"
+  },
+  {
     "title": "Sharing your micro-apps with /create-canvas in the GitHub Copilot app",
     "link": "https://bartwullems.blogspot.com/2026/09/sharing-your-micro-apps-with-create.html",
     "pubDate": "2026-09-16T05:56:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Let Copilot argue with you: the /spar slash command",
     "link": "https://bartwullems.blogspot.com/2026/09/let-copilot-argue-with-you-spar-slash.html",
     "pubDate": "2026-09-11T06:39:58+00:00"
-  },
-  {
-    "title": "My VS Code story (and why the new documentary is a must watch)",
-    "link": "https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html",
-    "pubDate": "2026-09-10T05:52:00+00:00"
   }
 ]

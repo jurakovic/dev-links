@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-17 bartwullems</small>  
+<small>[Continuous AI, one automation at a time](https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-17 github-ai</small>  
 <small>[Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)</small>
 
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 terriblesoftware</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-10 bartwullems</small>  
-<small>[My VS Code story (and why the new documentary is a must watch)](https://bartwullems.blogspot.com/2026/09/my-vs-code-story-and-why-new.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-09 martinfowler</small>  
 <small>[Social Media Engagement: summer 2026](https://martinfowler.com/articles/2026-social-traffic.html)</small>
