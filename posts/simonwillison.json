@@ -1,5 +1,10 @@
 [
   {
+    "title": "Self-generated prompt injections in compaction summaries",
+    "link": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "pubDate": "2026-09-17T20:57:55+00:00"
+  },
+  {
     "title": "datasette 1.0a40",
     "link": "https://simonwillison.net/2026/Sep/16/datasette/",
     "pubDate": "2026-09-16T23:51:43+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Mustafa Suleyman",
     "link": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/",
     "pubDate": "2026-09-16T16:00:54+00:00"
-  },
-  {
-    "title": "Gemini Live audio",
-    "link": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-    "pubDate": "2026-09-15T22:47:07+00:00"
   }
 ]
