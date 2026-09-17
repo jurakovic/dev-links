@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-17 github-ai</small>  
+<small>[Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
+<small>[datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
+<small>[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
 <small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>
 
@@ -63,12 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
 <small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
-<small>[The contagion of fear](https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-14 simonwillison</small>  
-<small>[What blog posts influenced your thinking the most?](https://simonwillison.net/2026/Sep/14/influences/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-14 visualstudiomagazine</small>  
 <small>[.NET 11 RC1 Gets Go-Live Support Ahead of November Launch](https://visualstudiomagazine.com/articles/2026/09/14/net-11-rc1-gets-go-live-support-ahead-of-november-launch.aspx)</small>
@@ -213,9 +216,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
 <small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-ai</small>  
-<small>[Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-02 visualstudiomagazine</small>  
 <small>[VS Code 1.136 Pushes Agents Deeper Into the Development Workflow](https://visualstudiomagazine.com/articles/2026/09/02/vs-code-1-136-pushes-agents-deeper-into-the-development-workflow.aspx)</small>
