@@ -1,5 +1,10 @@
 [
   {
+    "title": "If It Quacks - Part 2",
+    "link": "https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc",
+    "pubDate": "2026-09-18T08:00:33+00:00"
+  },
+  {
     "title": "Quack Quack: Duck-Typing in C# with Interceptors",
     "link": "https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809",
     "pubDate": "2026-09-12T15:44:44+00:00"
@@ -18,10 +23,5 @@
     "title": "xUnit.v3 4.0.0 released",
     "link": "https://steven-giesel.com/blogPost/b0e1aadf-8e88-4553-9636-19df43b1b068",
     "pubDate": "2026-08-17T12:55:20+00:00"
-  },
-  {
-    "title": ".NET Toolbox August Update",
-    "link": "https://steven-giesel.com/blogPost/5adbbd4f-8979-4e97-9797-2e1f05ad19b2",
-    "pubDate": "2026-08-16T19:16:32+00:00"
   }
 ]

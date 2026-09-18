@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
+<small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-18 bartwullems</small>  
+<small>[Continuous AI lands in VS Code too](https://bartwullems.blogspot.com/2026/09/continuous-ai-lands-in-vs-code-too.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-18 seangoedecke</small>  
 <small>[Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/)</small>
 
@@ -21,6 +27,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-17 martinfowler</small>  
 <small>[I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-17 stackoverflow</small>  
+<small>[The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-17 bartwullems</small>  
 <small>[Continuous AI, one automation at a time](https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html)</small>
@@ -124,9 +133,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-11 stackoverflow</small>  
 <small>[AI cybersecurity is a cat and mouse game](https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-11 bartwullems</small>  
-<small>[Let Copilot argue with you: the /spar slash command](https://bartwullems.blogspot.com/2026/09/let-copilot-argue-with-you-spar-slash.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-10 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)</small>
 
@@ -153,9 +159,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-09 bencane</small>  
 <small>[Mishandling concurrency is one of the most common root causes of software bugs](https://bencane.com/posts/2026-09-09-mishandling-concurrency/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-09 stackoverflow</small>  
-<small>[Java’s age is its AI superpower](https://stackoverflow.blog/2026/09/09/java-s-age-is-its-ai-superpower/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-08 third-bit</small>  
 <small>[Rebooting SDGC: Introduction](https://third-bit.com/2026/09/08/sdgc-reboot-intro/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-08-25 andrewlock</small>  
 <small>[Finding the total number of processors on a machine with .NET](https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-08-25 microservices</small>  
-<small>[Architecting for uncertainty - part 1: thriving in a VUCA world requires frequent deployment](http://microservices.io//post/architecture/2026/08/25/architecting-for-uncertainty-part-1.html)</small>
 
