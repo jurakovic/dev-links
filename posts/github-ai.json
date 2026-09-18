@@ -1,5 +1,10 @@
 [
   {
+    "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+    "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+    "pubDate": "2026-09-18T15:00:00+00:00"
+  },
+  {
     "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
     "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
     "pubDate": "2026-09-17T00:26:43+00:00"
@@ -18,10 +23,5 @@
     "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
     "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
     "pubDate": "2026-09-04T16:04:14+00:00"
-  },
-  {
-    "title": "GitHub Copilot app for Beginners: Run several agents at once",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
-    "pubDate": "2026-09-03T16:00:00+00:00"
   }
 ]

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-18 github-ai</small>  
+<small>[Should you read the code, is RAG dead, and did Skills kill MCP?](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-18 simonwillison</small>  
+<small>[The Creative Spirit of Who Framed Roger Rabbit](https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
 <small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
 
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
 <small>[datasette 1.0a40](https://simonwillison.net/2026/Sep/16/datasette/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
-<small>[datasette 0.65.5](https://simonwillison.net/2026/Sep/16/datasette-2/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
 <small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>
@@ -216,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-03 pragmaticengineer</small>  
 <small>[The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-03 github-ai</small>  
-<small>[GitHub Copilot app for Beginners: Run several agents at once](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
 <small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
