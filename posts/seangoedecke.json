@@ -1,5 +1,10 @@
 [
   {
+    "title": "Two techniques for working with System One models",
+    "link": "https://seangoedecke.com/two-techniques-for-working-with-system-one-models/",
+    "pubDate": "2026-09-18T04:03:49+00:00"
+  },
+  {
     "title": "Jev means structured output is interesting again",
     "link": "https://seangoedecke.com/jev-means-structured-output-is-interesting-again/",
     "pubDate": "2026-09-16T10:03:49+00:00"
@@ -18,10 +23,5 @@
     "title": "AI is breaking our proxies for expertise",
     "link": "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
     "pubDate": "2026-09-13T04:03:43+00:00"
-  },
-  {
-    "title": "Don't build tools for AI agents",
-    "link": "https://seangoedecke.com/dont-build-tools-for-ai-agents/",
-    "pubDate": "2026-09-12T04:03:55+00:00"
   }
 ]

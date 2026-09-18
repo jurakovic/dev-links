@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-18 seangoedecke</small>  
+<small>[Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-17 simonwillison</small>  
+<small>[Be alert: targeted attacks on prominent Rustaceans](https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-17 simonwillison</small>  
+<small>[How To Write With An LLM](https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-17 simonwillison</small>  
 <small>[Self-generated prompt injections in compaction summaries](https://simonwillison.net/2026/Sep/17/compaction-summaries/)</small>
 
@@ -33,12 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-16 martinfowler</small>  
 <small>[Fragments: September 16](https://martinfowler.com/fragments/2026-09-16.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
-<small>[Claude Cowork and chat are now one Claude](https://simonwillison.net/2026/Sep/16/one-claude/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-16 simonwillison</small>  
-<small>[Quoting Mustafa Suleyman](https://simonwillison.net/2026/Sep/16/mustafa-suleyman/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
 <small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
@@ -108,9 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-12 steven-giesel</small>  
 <small>[Quack Quack: Duck-Typing in C# with Interceptors](https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-12 seangoedecke</small>  
-<small>[Don't build tools for AI agents](https://seangoedecke.com/dont-build-tools-for-ai-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-11 third-bit</small>  
 <small>[Iffy](https://third-bit.com/2026/09/11/iffy/)</small>
