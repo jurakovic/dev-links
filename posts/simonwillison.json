@@ -1,5 +1,15 @@
 [
   {
+    "title": "datasette-auth-github 1.0",
+    "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+    "pubDate": "2026-09-19T19:52:02+00:00"
+  },
+  {
+    "title": "California Sea Lion, Brandt's Cormorant",
+    "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+    "pubDate": "2026-09-19T17:10:08+00:00"
+  },
+  {
     "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
     "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
     "pubDate": "2026-09-18T23:57:57+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Thariq Shihipar",
     "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
     "pubDate": "2026-09-18T19:09:27+00:00"
-  },
-  {
-    "title": "The Creative Spirit of Who Framed Roger Rabbit",
-    "link": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/",
-    "pubDate": "2026-09-18T14:36:41+00:00"
-  },
-  {
-    "title": "Be alert: targeted attacks on prominent Rustaceans",
-    "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
-    "pubDate": "2026-09-17T23:59:19+00:00"
   }
 ]
