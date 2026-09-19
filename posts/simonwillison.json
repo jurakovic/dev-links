@@ -1,5 +1,10 @@
 [
   {
+    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+    "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "pubDate": "2026-09-18T23:57:57+00:00"
+  },
+  {
     "title": "Note on 18th September 2026",
     "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
     "pubDate": "2026-09-18T19:21:32+00:00"
@@ -18,10 +23,5 @@
     "title": "Be alert: targeted attacks on prominent Rustaceans",
     "link": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/",
     "pubDate": "2026-09-17T23:59:19+00:00"
-  },
-  {
-    "title": "How To Write With An LLM",
-    "link": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/",
-    "pubDate": "2026-09-17T23:37:27+00:00"
   }
 ]
