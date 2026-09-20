@@ -5,6 +5,11 @@
     "pubDate": "2026-09-20T04:01:41+00:00"
   },
   {
+    "title": "System One models like Jev can train their own replacements",
+    "link": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
+    "pubDate": "2026-09-20T16:01:46+00:00"
+  },
+  {
     "title": "Two techniques for working with System One models",
     "link": "https://seangoedecke.com/two-techniques-for-working-with-system-one-models/",
     "pubDate": "2026-09-18T04:03:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Tell agents the why, not just the how",
     "link": "https://seangoedecke.com/tell-agents-the-why/",
     "pubDate": "2026-09-15T10:06:08+00:00"
-  },
-  {
-    "title": "Slow developer experience will bottleneck fast models",
-    "link": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/",
-    "pubDate": "2026-09-14T04:03:47+00:00"
   }
 ]
