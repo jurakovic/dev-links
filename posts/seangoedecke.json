@@ -1,5 +1,10 @@
 [
   {
+    "title": "Grit your teeth and ship it",
+    "link": "https://seangoedecke.com/grit-your-teeth-and-ship-it/",
+    "pubDate": "2026-09-20T04:01:41+00:00"
+  },
+  {
     "title": "Two techniques for working with System One models",
     "link": "https://seangoedecke.com/two-techniques-for-working-with-system-one-models/",
     "pubDate": "2026-09-18T04:03:49+00:00"
@@ -18,10 +23,5 @@
     "title": "Slow developer experience will bottleneck fast models",
     "link": "https://seangoedecke.com/slow-devex-will-bottleneck-fast-models/",
     "pubDate": "2026-09-14T04:03:47+00:00"
-  },
-  {
-    "title": "AI is breaking our proxies for expertise",
-    "link": "https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
-    "pubDate": "2026-09-13T04:03:43+00:00"
   }
 ]

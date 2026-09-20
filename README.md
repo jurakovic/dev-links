@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
+<small>[Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-19 swizec</small>  
 <small>[We now auto-approve and merge 15% of PRs](https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs)</small>
 
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-13 seangoedecke</small>  
-<small>[AI is breaking our proxies for expertise](https://seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-12 lucumr-pocoo</small>  
 <small>[P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)</small>
