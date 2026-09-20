@@ -1,5 +1,20 @@
 [
   {
+    "title": "Brownfield Agentic Engineering",
+    "link": "https://addyosmani.com/blog/brownfield-agentic-engineering/",
+    "pubDate": "2026-09-14T00:00:00+00:00"
+  },
+  {
+    "title": "Agentic Skill Decay",
+    "link": "https://addyosmani.com/blog/agentic-skill-decay/",
+    "pubDate": "2026-08-31T00:00:00+00:00"
+  },
+  {
+    "title": "Audit your Agent files",
+    "link": "https://addyosmani.com/blog/audit-your-agent-files/",
+    "pubDate": "2026-08-27T00:00:00+00:00"
+  },
+  {
     "title": "Human judgment doesn't leave the software factory. It relocates.",
     "link": "https://addyosmani.com/blog/human-judgment-doesnt-leave-the-software/",
     "pubDate": "2026-08-21T00:00:00+00:00"
@@ -8,20 +23,5 @@
     "title": "Practical Loop Engineering",
     "link": "https://addyosmani.com/blog/practical-loop-engineering/",
     "pubDate": "2026-08-14T00:00:00+00:00"
-  },
-  {
-    "title": "Agentic Code Quality",
-    "link": "https://addyosmani.com/blog/agentic-code-quality/",
-    "pubDate": "2026-08-08T00:00:00+00:00"
-  },
-  {
-    "title": "Software Factories, Light and Dark",
-    "link": "https://addyosmani.com/blog/software-factories/",
-    "pubDate": "2026-07-20T00:00:00+00:00"
-  },
-  {
-    "title": "Own the Outer Loop",
-    "link": "https://addyosmani.com/blog/own-the-outer-loop/",
-    "pubDate": "2026-07-15T00:00:00+00:00"
   }
 ]

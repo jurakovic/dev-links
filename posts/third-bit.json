@@ -1,5 +1,10 @@
 [
   {
+    "title": "IO for Software Design",
+    "link": "https://third-bit.com/2026/09/20/io-for-sd/",
+    "pubDate": "2026-09-20T22:01:47+00:00"
+  },
+  {
     "title": "Iffy",
     "link": "https://third-bit.com/2026/09/11/iffy/",
     "pubDate": "2026-09-11T22:03:53+00:00"
@@ -18,10 +23,5 @@
     "title": "ACM Certificate",
     "link": "https://third-bit.com/2026/08/31/acm-certificate/",
     "pubDate": "2026-08-31T00:00:00+00:00"
-  },
-  {
-    "title": "Summer Projects Revisited",
-    "link": "https://third-bit.com/2026/08/29/summer-project-revisited/",
-    "pubDate": "2026-08-29T22:03:46+00:00"
   }
 ]

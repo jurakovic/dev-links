@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting voxium",
+    "link": "https://simonwillison.net/2026/Sep/20/voxium/",
+    "pubDate": "2026-09-20T21:06:43+00:00"
+  },
+  {
     "title": "datasette-auth-github 1.0",
     "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
     "pubDate": "2026-09-19T19:52:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Note on 18th September 2026",
     "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
     "pubDate": "2026-09-18T19:21:32+00:00"
-  },
-  {
-    "title": "Quoting Thariq Shihipar",
-    "link": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
-    "pubDate": "2026-09-18T19:09:27+00:00"
   }
 ]

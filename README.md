@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-20 third-bit</small>  
+<small>[IO for Software Design](https://third-bit.com/2026/09/20/io-for-sd/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
+<small>[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
 <small>[System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/)</small>
 
@@ -27,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-18 simonwillison</small>  
 <small>[Note on 18th September 2026](https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-18 simonwillison</small>  
-<small>[Quoting Thariq Shihipar](https://simonwillison.net/2026/Sep/18/thariq-shihipar/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-09-18 netflix</small>  
 <small>[Leave the Class Path in the Rearview Mirror](https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4)</small>
@@ -123,6 +126,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-14 bartwullems</small>  
 <small>[Why is my AI agent bribing a hamster?](https://bartwullems.blogspot.com/2026/09/why-is-my-ai-agent-bribing-hamster.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-09-14 addyosmani</small>  
+<small>[Brownfield Agentic Engineering](https://addyosmani.com/blog/brownfield-agentic-engineering/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>
@@ -280,11 +286,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-31 dbreunig</small>  
 <small>[Who Taught the Models to Do That?](https://www.dbreunig.com/2026/08/30/who-taught-the-models-to-do-that.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-31 addyosmani</small>  
+<small>[Agentic Skill Decay](https://addyosmani.com/blog/agentic-skill-decay/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
 <small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-29 third-bit</small>  
-<small>[Summer Projects Revisited](https://third-bit.com/2026/08/29/summer-project-revisited/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-29 azure-sql</small>  
 <small>[Try the new SqlClient and Retry connections natively](https://devblogs.microsoft.com/azure-sql/sqlclient-retry/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-27 swizec</small>  
 <small>[Focus and followthrough are the moat](https://swizec.com/blog/focus-and-followthrough-are-the-moat)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hanselman.png) <small>2026-08-27 hanselman</small>  
-<small>[Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits](https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
-<small>[Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/)</small>
 
