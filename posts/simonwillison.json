@@ -5,6 +5,16 @@
     "pubDate": "2026-09-20T21:06:43+00:00"
   },
   {
+    "title": "llm-keys-ui 0.1",
+    "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "pubDate": "2026-09-20T19:22:19+00:00"
+  },
+  {
+    "title": "datasette-explain 0.2.2",
+    "link": "https://simonwillison.net/2026/Sep/20/datasette-explain/",
+    "pubDate": "2026-09-20T00:22:04+00:00"
+  },
+  {
     "title": "datasette-auth-github 1.0",
     "link": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
     "pubDate": "2026-09-19T19:52:02+00:00"
@@ -13,15 +23,5 @@
     "title": "California Sea Lion, Brandt's Cormorant",
     "link": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
     "pubDate": "2026-09-19T17:10:08+00:00"
-  },
-  {
-    "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-    "link": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-    "pubDate": "2026-09-18T23:57:57+00:00"
-  },
-  {
-    "title": "Note on 18th September 2026",
-    "link": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/",
-    "pubDate": "2026-09-18T19:21:32+00:00"
   }
 ]
