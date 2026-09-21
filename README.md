@@ -14,6 +14,9 @@
 <small>[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
+<small>[MCP was always a bad idea?](https://simonwillison.net/2026/Sep/20/hn-49779718/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
 <small>[llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
@@ -33,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-19 simonwillison</small>  
 <small>[datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-19 simonwillison</small>  
-<small>[California Sea Lion, Brandt's Cormorant](https://simonwillison.net/2026/Sep/19/sighting-401567341/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-09-18 netflix</small>  
 <small>[Leave the Class Path in the Rearview Mirror](https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4)</small>
