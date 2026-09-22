@@ -1,13 +1,18 @@
 [
   {
+    "title": "Haters think AI agents can't write GPU code? This'll ROCm",
+    "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
+    "pubDate": "2026-09-22T07:40:00+00:00"
+  },
+  {
     "title": "The AI magic words",
     "link": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/",
     "pubDate": "2026-09-17T07:40:00+00:00"
   },
   {
     "title": "From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents",
-    "link": "https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/",
-    "pubDate": "2026-09-15T17:00:00+00:00"
+    "link": "https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/",
+    "pubDate": "2026-09-16T17:00:00+00:00"
   },
   {
     "title": "AI, JD, and other letters of the law",
@@ -18,10 +23,5 @@
     "title": "AI cybersecurity is a cat and mouse game",
     "link": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
     "pubDate": "2026-09-11T07:40:00+00:00"
-  },
-  {
-    "title": "(Re)introducing Developer Story",
-    "link": "https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/",
-    "pubDate": "2026-09-10T18:01:54+00:00"
   }
 ]

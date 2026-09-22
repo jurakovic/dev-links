@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-22 stackoverflow</small>  
+<small>[Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-22 bartwullems</small>  
+<small>[A weekly stocktake for your skills](https://bartwullems.blogspot.com/2026/09/a-weekly-stocktake-for-your-skills.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-21 simonwillison</small>  
 <small>[Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/)</small>
 
@@ -79,6 +85,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-16 martinfowler</small>  
 <small>[Fragments: September 16](https://martinfowler.com/fragments/2026-09-16.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-16 stackoverflow</small>  
+<small>[From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/16/here-s-what-s-new-on-stack-overflow-for-agents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
 <small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
 
@@ -90,9 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-16 bartwullems</small>  
 <small>[Sharing your micro-apps with /create-canvas in the GitHub Copilot app](https://bartwullems.blogspot.com/2026/09/sharing-your-micro-apps-with-create.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
-<small>[From better privacy to our new ChatGPT plugin, here's what's new on Stack Overflow for Agents](https://stackoverflow.blog/2026/09/15/here-s-what-s-new-on-stack-overflow-for-agents/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
 <small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
@@ -114,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
 <small>[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-15 bartwullems</small>  
-<small>[The Mediator pattern with MassTransit](https://bartwullems.blogspot.com/2026/09/the-mediator-pattern-with-masstransit.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
 <small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
@@ -159,9 +162,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-10 visualstudiomagazine</small>  
 <small>[Previews and Experiments in VS Code 1.137](https://visualstudiomagazine.com/articles/2026/09/10/previews-and-experiments-in-vs-code-1-137.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-10 stackoverflow</small>  
-<small>[(Re)introducing Developer Story](https://stackoverflow.blog/2026/09/10/re-introducing-developer-story/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-10 pragmaticengineer</small>  
 <small>[The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/)</small>
