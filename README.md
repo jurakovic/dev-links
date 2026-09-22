@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-21 simonwillison</small>  
+<small>[Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-21 azure-sql</small>  
+<small>[PostgreSQL to SQL Field Notes: Date & Time](https://devblogs.microsoft.com/azure-sql/pg-to-sql-date-time/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-21 simonwillison</small>  
+<small>[Cloudflare Python Workers are now generally available](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-21 bartwullems</small>  
 <small>[Sharing your VS Code automations](https://bartwullems.blogspot.com/2026/09/sharing-your-vs-code-automations.html)</small>
 
@@ -28,14 +37,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
 <small>[Grit your teeth and ship it](https://seangoedecke.com/grit-your-teeth-and-ship-it/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
-<small>[datasette-explain 0.2.2](https://simonwillison.net/2026/Sep/20/datasette-explain/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-19 swizec</small>  
 <small>[We now auto-approve and merge 15% of PRs](https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-19 simonwillison</small>  
-<small>[datasette-auth-github 1.0](https://simonwillison.net/2026/Sep/19/datasette-auth-github/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-09-18 netflix</small>  
 <small>[Leave the Class Path in the Rearview Mirror](https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4)</small>
@@ -291,9 +294,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
 <small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-08-29 azure-sql</small>  
-<small>[Try the new SqlClient and Retry connections natively](https://devblogs.microsoft.com/azure-sql/sqlclient-retry/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-28 netflix</small>  
 <small>[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)</small>
