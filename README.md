@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
+<small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-22 stackoverflow</small>  
 <small>[Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-08-27 pragmaticengineer</small>  
 <small>[The Pulse: We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-08-27 swizec</small>  
-<small>[Focus and followthrough are the moat](https://swizec.com/blog/focus-and-followthrough-are-the-moat)</small>
 
