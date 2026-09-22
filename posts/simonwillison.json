@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting @therealcornpop",
+    "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
+    "pubDate": "2026-09-22T18:03:21+00:00"
+  },
+  {
+    "title": "llm-typesafe 0.1a0",
+    "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
+    "pubDate": "2026-09-22T15:54:16+00:00"
+  },
+  {
     "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
     "link": "https://simonwillison.net/2026/Sep/21/jev/",
     "pubDate": "2026-09-21T23:09:20+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting voxium",
     "link": "https://simonwillison.net/2026/Sep/20/voxium/",
     "pubDate": "2026-09-20T21:06:43+00:00"
-  },
-  {
-    "title": "MCP was always a bad idea?",
-    "link": "https://simonwillison.net/2026/Sep/20/hn-49779718/",
-    "pubDate": "2026-09-20T20:24:41+00:00"
-  },
-  {
-    "title": "llm-keys-ui 0.1",
-    "link": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-    "pubDate": "2026-09-20T19:22:19+00:00"
   }
 ]

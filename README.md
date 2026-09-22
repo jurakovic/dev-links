@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
+<small>[Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-22 visualstudiomagazine</small>  
+<small>[VS Code Simplifies Copilot Inline Suggestions With Unified Model](https://visualstudiomagazine.com/articles/2026/09/22/vs-code-simplifies-copilot-inline-suggestions-with-unified-model.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 visualstudio</small>  
+<small>[Today I will… debug a production crash](https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 dotnet</small>  
+<small>[Creating a memory dump in C#](https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
+<small>[llm-typesafe 0.1a0](https://simonwillison.net/2026/Sep/22/llm-typesafe/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
 <small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
 
@@ -30,12 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
 <small>[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
-<small>[MCP was always a bad idea?](https://simonwillison.net/2026/Sep/20/hn-49779718/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
-<small>[llm-keys-ui 0.1](https://simonwillison.net/2026/Sep/20/llm-keys-ui/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
 <small>[System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/)</small>
@@ -187,9 +196,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-08 third-bit</small>  
 <small>[Rebooting SDGC: Introduction](https://third-bit.com/2026/09/08/sdgc-reboot-intro/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 dotnet</small>  
-<small>[Announcing .NET 11 Release Candidate 1](https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-08 techtrenches</small>  
 <small>[OpenAI Changed the AGI Deal. Then Declared the Era.](https://techtrenches.dev/p/openai-agi-deal-era)</small>
 
@@ -235,9 +241,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-03 azure-sql</small>  
 <small>[Advocating for Uptime: The 6 Phases of Change](https://devblogs.microsoft.com/azure-sql/schema-change/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-03 visualstudiomagazine</small>  
-<small>[Uno Platform Studio 3.1 Adds UI Previews, XAML Snippets and More AI Context](https://visualstudiomagazine.com/articles/2026/09/03/uno-platform-studio-3-1-adds-ui-previews-xaml-snippets-and-more-ai-context.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-03 pragmaticengineer</small>  
 <small>[The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/)</small>
 
@@ -264,9 +267,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-09-01 hillelwayne</small>  
 <small>[A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-01 visualstudio</small>  
-<small>[Today I will… review GitHub PRs](https://devblogs.microsoft.com/visualstudio/today-i-will-review-github-prs/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-01 techtrenches</small>  
 <small>[I Shipped 17 PRs Without Writing Code](https://techtrenches.dev/p/shipping-ai-written-code)</small>

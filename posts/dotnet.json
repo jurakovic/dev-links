@@ -1,5 +1,10 @@
 [
   {
+    "title": "Creating a memory dump in C#",
+    "link": "https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/",
+    "pubDate": "2026-09-22T17:05:00+00:00"
+  },
+  {
     "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series",
     "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
     "pubDate": "2026-09-16T21:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Use C# unions and closed hierarchies in ASP.NET Core",
     "link": "https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/",
     "pubDate": "2026-09-10T17:00:00+00:00"
-  },
-  {
-    "title": "Announcing .NET 11 Release Candidate 1",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-1/",
-    "pubDate": "2026-09-08T21:30:00+00:00"
   }
 ]
