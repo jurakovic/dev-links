@@ -1,5 +1,15 @@
 [
   {
+    "title": "Gemini 3.8 TTS Playground",
+    "link": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "pubDate": "2026-09-23T17:12:27+00:00"
+  },
+  {
+    "title": "Shadow roots, explained with live examples",
+    "link": "https://simonwillison.net/2026/Sep/23/shadow-roots/",
+    "pubDate": "2026-09-23T16:37:18+00:00"
+  },
+  {
     "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
     "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
     "pubDate": "2026-09-23T02:53:19+00:00"
@@ -13,15 +23,5 @@
     "title": "llm 0.36",
     "link": "https://simonwillison.net/2026/Sep/22/llm/",
     "pubDate": "2026-09-22T18:48:37+00:00"
-  },
-  {
-    "title": "Quoting @therealcornpop",
-    "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
-    "pubDate": "2026-09-22T18:03:21+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.29",
-    "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-    "pubDate": "2026-09-22T17:14:55+00:00"
   }
 ]

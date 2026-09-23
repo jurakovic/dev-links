@@ -4,6 +4,27 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-23 dotnet</small>  
+<small>[Microsoft is updating its author-signing certificate starting September 23, 2026](https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-23 github-ai</small>  
+<small>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-23 github-eng</small>  
+<small>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-23 visualstudiomagazine</small>  
+<small>[VS Code 1.139 Expands Remote Agents, Drops Copilot-Generated Disclaimer](https://visualstudiomagazine.com/articles/2026/09/23/vs-code-1-139-expands-remote-agents-drops-copilot-generated-disclaimer.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-23 techtrenches</small>  
+<small>[Nine Mostly Basic Intrusions, and One Zero-Day Escape](https://techtrenches.dev/p/nine-basic-intrusions-one-zero-day-escape)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-23 simonwillison</small>  
+<small>[Gemini 3.8 TTS Playground](https://simonwillison.net/2026/Sep/23/gemini-tts-playground/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-23 simonwillison</small>  
+<small>[Shadow roots, explained with live examples](https://simonwillison.net/2026/Sep/23/shadow-roots/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-23 bencane</small>  
 <small>[Message queues are great for handing off work, but how do you know the work actually happens?](https://bencane.com/posts/2026-09-23-message-completion/)</small>
 
@@ -22,14 +43,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
 <small>[llm 0.36](https://simonwillison.net/2026/Sep/22/llm/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
-<small>[Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-22 visualstudiomagazine</small>  
 <small>[VS Code Simplifies Copilot Inline Suggestions With Unified Model](https://visualstudiomagazine.com/articles/2026/09/22/vs-code-simplifies-copilot-inline-suggestions-with-unified-model.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
-<small>[llm-anthropic 0.29](https://simonwillison.net/2026/Sep/22/llm-anthropic/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 visualstudio</small>  
 <small>[Today I will… debug a production crash](https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/)</small>
@@ -175,14 +190,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-10 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: Using the diff, terminal, and browser](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-10 visualstudiomagazine</small>  
-<small>[Previews and Experiments in VS Code 1.137](https://visualstudiomagazine.com/articles/2026/09/10/previews-and-experiments-in-vs-code-1-137.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-10 pragmaticengineer</small>  
 <small>[The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-10 dotnet</small>  
-<small>[Use C# unions and closed hierarchies in ASP.NET Core](https://devblogs.microsoft.com/dotnet/unions-and-closed-hierarchies-in-aspnetcore/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 terriblesoftware</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
@@ -228,9 +237,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 developertoarchitect</small>  
 <small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-04 github-ai</small>  
-<small>[Project HydraFusion: Frontier quality via multi-model orchestration](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 erikej</small>  
 <small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-31 addyosmani</small>  
 <small>[Agentic Skill Decay](https://addyosmani.com/blog/agentic-skill-decay/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-08-31 third-bit</small>  
-<small>[ACM Certificate](https://third-bit.com/2026/08/31/acm-certificate/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-08-28 netflix</small>  
-<small>[MAPS: Netflix’s Multimodal Asset Personalization at Scale](https://netflixtechblog.com/maps-netflixs-multimodal-asset-personalization-at-scale-32f96320785e?source=rss----2615bd06b42e---4)</small>
 
