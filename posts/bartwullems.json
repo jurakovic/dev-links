@@ -1,5 +1,10 @@
 [
   {
+    "title": "Hot Exit in Visual Studio",
+    "link": "https://bartwullems.blogspot.com/2026/09/hot-exit-in-visual-studio.html",
+    "pubDate": "2026-09-23T05:00:00+00:00"
+  },
+  {
     "title": "A weekly stocktake for your skills",
     "link": "https://bartwullems.blogspot.com/2026/09/a-weekly-stocktake-for-your-skills.html",
     "pubDate": "2026-09-22T05:04:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Continuous AI, one automation at a time",
     "link": "https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html",
     "pubDate": "2026-09-17T05:33:00+00:00"
-  },
-  {
-    "title": "Sharing your micro-apps with /create-canvas in the GitHub Copilot app",
-    "link": "https://bartwullems.blogspot.com/2026/09/sharing-your-micro-apps-with-create.html",
-    "pubDate": "2026-09-16T05:56:00+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
+    "link": "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/",
+    "pubDate": "2026-09-23T04:40:00+00:00"
+  },
+  {
     "title": "Haters think AI agents can't write GPU code? This'll ROCm",
     "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
     "pubDate": "2026-09-22T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "AI, JD, and other letters of the law",
     "link": "https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/",
     "pubDate": "2026-09-15T07:40:00+00:00"
-  },
-  {
-    "title": "AI cybersecurity is a cat and mouse game",
-    "link": "https://stackoverflow.blog/2026/09/11/ai-cybersecurity-is-a-cat-and-mouse-game/",
-    "pubDate": "2026-09-11T07:40:00+00:00"
   }
 ]
