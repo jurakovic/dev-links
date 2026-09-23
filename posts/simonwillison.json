@@ -1,27 +1,27 @@
 [
   {
+    "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
+    "link": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
+    "pubDate": "2026-09-23T02:53:19+00:00"
+  },
+  {
+    "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+    "link": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+    "pubDate": "2026-09-22T23:46:41+00:00"
+  },
+  {
+    "title": "llm 0.36",
+    "link": "https://simonwillison.net/2026/Sep/22/llm/",
+    "pubDate": "2026-09-22T18:48:37+00:00"
+  },
+  {
     "title": "Quoting @therealcornpop",
     "link": "https://simonwillison.net/2026/Sep/22/therealcornpop/",
     "pubDate": "2026-09-22T18:03:21+00:00"
   },
   {
-    "title": "llm-typesafe 0.1a0",
-    "link": "https://simonwillison.net/2026/Sep/22/llm-typesafe/",
-    "pubDate": "2026-09-22T15:54:16+00:00"
-  },
-  {
-    "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-    "link": "https://simonwillison.net/2026/Sep/21/jev/",
-    "pubDate": "2026-09-21T23:09:20+00:00"
-  },
-  {
-    "title": "Cloudflare Python Workers are now generally available",
-    "link": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/",
-    "pubDate": "2026-09-21T22:25:44+00:00"
-  },
-  {
-    "title": "Quoting voxium",
-    "link": "https://simonwillison.net/2026/Sep/20/voxium/",
-    "pubDate": "2026-09-20T21:06:43+00:00"
+    "title": "llm-anthropic 0.29",
+    "link": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
+    "pubDate": "2026-09-22T17:14:55+00:00"
   }
 ]

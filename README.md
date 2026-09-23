@@ -4,20 +4,29 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-23 simonwillison</small>  
+<small>[SF October 14th: A Birds of a Feather Session on Agentic Engineering](https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
+<small>[Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war](https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
+<small>[llm 0.36](https://simonwillison.net/2026/Sep/22/llm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
 <small>[Quoting @therealcornpop](https://simonwillison.net/2026/Sep/22/therealcornpop/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-22 visualstudiomagazine</small>  
 <small>[VS Code Simplifies Copilot Inline Suggestions With Unified Model](https://visualstudiomagazine.com/articles/2026/09/22/vs-code-simplifies-copilot-inline-suggestions-with-unified-model.aspx)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
+<small>[llm-anthropic 0.29](https://simonwillison.net/2026/Sep/22/llm-anthropic/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 visualstudio</small>  
 <small>[Today I will… debug a production crash](https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 dotnet</small>  
 <small>[Creating a memory dump in C#](https://devblogs.microsoft.com/dotnet/creating-a-memory-dump-in-csharp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-22 simonwillison</small>  
-<small>[llm-typesafe 0.1a0](https://simonwillison.net/2026/Sep/22/llm-typesafe/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
 <small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
@@ -28,23 +37,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-22 bartwullems</small>  
 <small>[A weekly stocktake for your skills](https://bartwullems.blogspot.com/2026/09/a-weekly-stocktake-for-your-skills.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-21 simonwillison</small>  
-<small>[Jev introduces a new shape of LLM - System One, aka Decision Models](https://simonwillison.net/2026/Sep/21/jev/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-21 azure-sql</small>  
 <small>[PostgreSQL to SQL Field Notes: Date & Time](https://devblogs.microsoft.com/azure-sql/pg-to-sql-date-time/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-21 simonwillison</small>  
-<small>[Cloudflare Python Workers are now generally available](https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-21 bartwullems</small>  
 <small>[Sharing your VS Code automations](https://bartwullems.blogspot.com/2026/09/sharing-your-vs-code-automations.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-20 third-bit</small>  
 <small>[IO for Software Design](https://third-bit.com/2026/09/20/io-for-sd/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-20 simonwillison</small>  
-<small>[Quoting voxium](https://simonwillison.net/2026/Sep/20/voxium/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-20 seangoedecke</small>  
 <small>[System One models like Jev can train their own replacements](https://seangoedecke.com/system-one-models-can-train-their-own-replacements/)</small>
