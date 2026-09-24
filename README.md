@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
+<small>[Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
+<small>[Healthy Feedback](https://martinfowler.com/articles/healthy-peer-feedback.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-24 bartwullems</small>  
 <small>[GitHub Copilot auto mode: should you disable models?](https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html)</small>
 
@@ -196,9 +202,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 terriblesoftware</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-09 martinfowler</small>  
-<small>[Social Media Engagement: summer 2026](https://martinfowler.com/articles/2026-social-traffic.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-09 azuresqlblog</small>  
 <small>[SQL Data Sync – the final phase of retirement](https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796)</small>
 
@@ -216,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-08 visualstudio</small>  
 <small>[Today I will… find hidden latency across a distributed .NET application](https://devblogs.microsoft.com/visualstudio/today-i-will-find-hidden-latency-across-a-distributed-net-application/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-08 martinfowler</small>  
-<small>[Fragments: September  8](https://martinfowler.com/fragments/2026-09-08.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-09-08 sqlperformance</small>  
 <small>[T-SQL Tuesday #202 : The Outage(s) I Won't Forget](https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages)</small>
