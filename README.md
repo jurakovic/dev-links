@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-24 bartwullems</small>  
+<small>[GitHub Copilot auto mode: should you disable models?](https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-23 dotnet</small>  
 <small>[Microsoft is updating its author-signing certificate starting September 23, 2026](https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/)</small>
 
@@ -105,9 +108,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-17 stackoverflow</small>  
 <small>[The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-17 bartwullems</small>  
-<small>[Continuous AI, one automation at a time](https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-17 github-ai</small>  
 <small>[Migrating the GitHub Copilot runtime to Rust, using Copilot](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)</small>

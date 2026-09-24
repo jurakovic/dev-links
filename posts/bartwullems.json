@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub Copilot auto mode: should you disable models?",
+    "link": "https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html",
+    "pubDate": "2026-09-24T05:35:00+00:00"
+  },
+  {
     "title": "Hot Exit in Visual Studio",
     "link": "https://bartwullems.blogspot.com/2026/09/hot-exit-in-visual-studio.html",
     "pubDate": "2026-09-23T05:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Continuous AI lands in VS Code too",
     "link": "https://bartwullems.blogspot.com/2026/09/continuous-ai-lands-in-vs-code-too.html",
     "pubDate": "2026-09-18T05:37:00+00:00"
-  },
-  {
-    "title": "Continuous AI, one automation at a time",
-    "link": "https://bartwullems.blogspot.com/2026/09/continuous-ai-one-automation-at-time.html",
-    "pubDate": "2026-09-17T05:33:00+00:00"
   }
 ]
