@@ -1,5 +1,10 @@
 [
   {
+    "title": "Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute",
+    "link": "https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-09-25T16:01:03+00:00"
+  },
+  {
     "title": "Leave the Class Path in the Rearview Mirror",
     "link": "https://netflixtechblog.com/leave-the-class-path-in-the-rearview-mirror-67a85b15b6be?source=rss----2615bd06b42e---4",
     "pubDate": "2026-09-18T16:01:02+00:00"
@@ -18,10 +23,5 @@
     "title": "How and Why Netflix Built a Real-Time Distributed Graph: Part 3 — Querying the graph with gRPC…",
     "link": "https://netflixtechblog.com/how-and-why-netflix-built-a-real-time-distributed-graph-part-3-querying-the-graph-with-grpc-0f3468349607?source=rss----2615bd06b42e---4",
     "pubDate": "2026-08-07T16:01:02+00:00"
-  },
-  {
-    "title": "Modeling Device Capabilities for Analytics",
-    "link": "https://netflixtechblog.com/modeling-device-capabilities-for-analytics-e7607acebde8?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-07-31T16:01:02+00:00"
   }
 ]

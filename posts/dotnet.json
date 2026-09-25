@@ -1,5 +1,10 @@
 [
   {
+    "title": "AG-UI Protocol now has a first-class .NET SDK",
+    "link": "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/",
+    "pubDate": "2026-09-25T17:05:00+00:00"
+  },
+  {
     "title": "Microsoft is updating its author-signing certificate starting September 23, 2026",
     "link": "https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/",
     "pubDate": "2026-09-23T20:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Performance Improvements in .NET 11",
     "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
     "pubDate": "2026-09-15T12:00:00+00:00"
-  },
-  {
-    "title": "Share your .NET story with the community",
-    "link": "https://devblogs.microsoft.com/dotnet/share-your-dotnet-story/",
-    "pubDate": "2026-09-14T17:05:00+00:00"
   }
 ]

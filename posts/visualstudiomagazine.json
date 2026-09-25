@@ -1,5 +1,10 @@
 [
   {
+    "title": "What's Next for VS Code? 10 Open GitHub Issues Offer Clues",
+    "link": "https://visualstudiomagazine.com/articles/2026/09/25/whats-next-for-vs-code-10-open-github-issues-offer-clues.aspx",
+    "pubDate": "2026-09-25T17:58:00+00:00"
+  },
+  {
     "title": "VS Code 1.139 Expands Remote Agents, Drops Copilot-Generated Disclaimer",
     "link": "https://visualstudiomagazine.com/articles/2026/09/23/vs-code-1-139-expands-remote-agents-drops-copilot-generated-disclaimer.aspx",
     "pubDate": "2026-09-23T18:23:00+00:00"
@@ -18,10 +23,5 @@
     "title": ".NET 11 RC1 Gets Go-Live Support Ahead of November Launch",
     "link": "https://visualstudiomagazine.com/articles/2026/09/14/net-11-rc1-gets-go-live-support-ahead-of-november-launch.aspx",
     "pubDate": "2026-09-14T17:13:00+00:00"
-  },
-  {
-    "title": "Visual Studio Devs Tell Microsoft How to Improve Test Explorer -- and Rider Comes Up",
-    "link": "https://visualstudiomagazine.com/articles/2026/09/11/visual-studio-devs-tell-microsoft-how-to-improve-test-explorer-and-rider-keeps-coming-up.aspx",
-    "pubDate": "2026-09-11T18:40:00+00:00"
   }
 ]
