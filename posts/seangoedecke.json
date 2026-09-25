@@ -1,5 +1,10 @@
 [
   {
+    "title": "You should all be asking way more questions",
+    "link": "https://seangoedecke.com/you-should-all-be-asking-way-more-questions/",
+    "pubDate": "2026-09-25T10:01:40+00:00"
+  },
+  {
     "title": "System One models like Jev can train their own replacements",
     "link": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
     "pubDate": "2026-09-20T16:01:46+00:00"
@@ -18,10 +23,5 @@
     "title": "Jev means structured output is interesting again",
     "link": "https://seangoedecke.com/jev-means-structured-output-is-interesting-again/",
     "pubDate": "2026-09-16T10:03:49+00:00"
-  },
-  {
-    "title": "Tell agents the why, not just the how",
-    "link": "https://seangoedecke.com/tell-agents-the-why/",
-    "pubDate": "2026-09-15T10:06:08+00:00"
   }
 ]

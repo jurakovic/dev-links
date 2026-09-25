@@ -1,5 +1,10 @@
 [
   {
+    "title": "Guid.CreateVersion7() is NOT a sequential guid for SQL Server",
+    "link": "https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html",
+    "pubDate": "2026-09-25T05:12:00+00:00"
+  },
+  {
     "title": "GitHub Copilot auto mode: should you disable models?",
     "link": "https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html",
     "pubDate": "2026-09-24T05:35:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Sharing your VS Code automations",
     "link": "https://bartwullems.blogspot.com/2026/09/sharing-your-vs-code-automations.html",
     "pubDate": "2026-09-21T05:04:00+00:00"
-  },
-  {
-    "title": "Continuous AI lands in VS Code too",
-    "link": "https://bartwullems.blogspot.com/2026/09/continuous-ai-lands-in-vs-code-too.html",
-    "pubDate": "2026-09-18T05:37:00+00:00"
   }
 ]

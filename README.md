@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-25 seangoedecke</small>  
+<small>[You should all be asking way more questions](https://seangoedecke.com/you-should-all-be-asking-way-more-questions/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-25 stackoverflow</small>  
+<small>[Professional skepticism is a dev’s best skill](https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-25 bartwullems</small>  
+<small>[Guid.CreateVersion7() is NOT a sequential guid for SQL Server](https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-24 simonwillison</small>  
 <small>[commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/)</small>
 
@@ -109,9 +118,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
 <small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-18 bartwullems</small>  
-<small>[Continuous AI lands in VS Code too](https://bartwullems.blogspot.com/2026/09/continuous-ai-lands-in-vs-code-too.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-18 seangoedecke</small>  
 <small>[Two techniques for working with System One models](https://seangoedecke.com/two-techniques-for-working-with-system-one-models/)</small>
 
@@ -160,14 +166,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 dotnet</small>  
 <small>[Performance Improvements in .NET 11](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-15 seangoedecke</small>  
-<small>[Tell agents the why, not just the how](https://seangoedecke.com/tell-agents-the-why/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 andrewlock</small>  
 <small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-15 stackoverflow</small>  
-<small>[AI, JD, and other letters of the law](https://stackoverflow.blog/2026/09/15/ai-jd-and-other-letters-of-the-law/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
 <small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
