@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-26 seangoedecke</small>  
+<small>[Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-25 third-bit</small>  
 <small>[Student Projects](https://third-bit.com/2026/09/25/student-projects/)</small>
 
@@ -168,9 +171,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-16 bencane</small>  
 <small>[Some architecture principles should be rules. Others should be guidelines.](https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-16 seangoedecke</small>  
-<small>[Jev means structured output is interesting again](https://seangoedecke.com/jev-means-structured-output-is-interesting-again/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
 <small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
