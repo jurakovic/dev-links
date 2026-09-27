@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-26 simonwillison</small>  
+<small>[Kākāpō Party](https://simonwillison.net/2026/Sep/26/kakapo-party/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-26 seangoedecke</small>  
 <small>[Advice to a beginning software engineer](https://seangoedecke.com/advice-to-a-beginning-software-engineer/)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-24 simonwillison</small>  
-<small>[datasette 1.0a41](https://simonwillison.net/2026/Sep/24/datasette/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[AI-powered fuzzing with the GitHub Security Lab Taskflow Agent](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/)</small>
