@@ -1,5 +1,10 @@
 [
   {
+    "title": "Build Agentic UI with the new Blazor AI components",
+    "link": "https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/",
+    "pubDate": "2026-09-28T17:05:00+00:00"
+  },
+  {
     "title": "AG-UI Protocol now has a first-class .NET SDK",
     "link": "https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/",
     "pubDate": "2026-09-25T17:05:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Build Your Own AI Agent Harness in C#, the MafClaw Live Series",
     "link": "https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/",
     "pubDate": "2026-09-16T21:00:00+00:00"
-  },
-  {
-    "title": "Performance Improvements in .NET 11",
-    "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-    "pubDate": "2026-09-15T12:00:00+00:00"
   }
 ]

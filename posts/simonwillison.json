@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting @joedaroo",
+    "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
+    "pubDate": "2026-09-28T19:11:42+00:00"
+  },
+  {
     "title": "Quoting Muse AI Agent",
     "link": "https://simonwillison.net/2026/Sep/28/muse-ai-agent/",
     "pubDate": "2026-09-28T04:01:30+00:00"
@@ -18,10 +23,5 @@
     "title": "Bluesky reply bot checker",
     "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
     "pubDate": "2026-09-27T18:41:44+00:00"
-  },
-  {
-    "title": "Kākāpō Party",
-    "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
-    "pubDate": "2026-09-26T23:39:06+00:00"
   }
 ]
