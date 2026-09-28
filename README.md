@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-28 bartwullems</small>  
+<small>[Auto-accepting AI edits in VS Code](https://bartwullems.blogspot.com/2026/09/auto-accepting-ai-edits-in-vs-code.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
+<small>[Quoting Muse AI Agent](https://simonwillison.net/2026/Sep/28/muse-ai-agent/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
 <small>[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/)</small>
 
@@ -36,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-25 visualstudiomagazine</small>  
 <small>[What's Next for VS Code? 10 Open GitHub Issues Offer Clues](https://visualstudiomagazine.com/articles/2026/09/25/whats-next-for-vs-code-10-open-github-issues-offer-clues.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-25 simonwillison</small>  
-<small>[Quoting John Gruber](https://simonwillison.net/2026/Sep/25/john-gruber/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-25 dotnet</small>  
 <small>[AG-UI Protocol now has a first-class .NET SDK](https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/)</small>
@@ -120,9 +123,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-21 azure-sql</small>  
 <small>[PostgreSQL to SQL Field Notes: Date & Time](https://devblogs.microsoft.com/azure-sql/pg-to-sql-date-time/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-21 bartwullems</small>  
-<small>[Sharing your VS Code automations](https://bartwullems.blogspot.com/2026/09/sharing-your-vs-code-automations.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-20 third-bit</small>  
 <small>[IO for Software Design](https://third-bit.com/2026/09/20/io-for-sd/)</small>
