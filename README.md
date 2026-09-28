@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
+<small>[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
+<small>[S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
+<small>[Bluesky reply bot checker](https://simonwillison.net/2026/Sep/27/bluesky-bot-check/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-27 seangoedecke</small>  
 <small>[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/)</small>
@@ -48,15 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-25 bartwullems</small>  
 <small>[Guid.CreateVersion7() is NOT a sequential guid for SQL Server](https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-25 simonwillison</small>  
-<small>[Northern Gannet, Great Blue Heron, California Brown Pelican](https://simonwillison.net/2026/Sep/25/sighting-403293902/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-24 simonwillison</small>  
-<small>[Note on 24th September 2026](https://simonwillison.net/2026/Sep/24/harder/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-24 simonwillison</small>  
-<small>[commit-rewriter 0.2](https://simonwillison.net/2026/Sep/24/commit-rewriter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>

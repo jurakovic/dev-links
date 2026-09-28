@@ -1,5 +1,20 @@
 [
   {
+    "title": "2026 in LLMs (so far)",
+    "link": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+    "pubDate": "2026-09-27T23:54:15+00:00"
+  },
+  {
+    "title": "S3 Is the Future, S3 Is the Past",
+    "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
+    "pubDate": "2026-09-27T23:09:19+00:00"
+  },
+  {
+    "title": "Bluesky reply bot checker",
+    "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
+    "pubDate": "2026-09-27T18:41:44+00:00"
+  },
+  {
     "title": "Kākāpō Party",
     "link": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
     "pubDate": "2026-09-26T23:39:06+00:00"
@@ -8,20 +23,5 @@
     "title": "Quoting John Gruber",
     "link": "https://simonwillison.net/2026/Sep/25/john-gruber/",
     "pubDate": "2026-09-25T17:22:01+00:00"
-  },
-  {
-    "title": "Northern Gannet, Great Blue Heron, California Brown Pelican",
-    "link": "https://simonwillison.net/2026/Sep/25/sighting-403293902/",
-    "pubDate": "2026-09-25T02:07:04+00:00"
-  },
-  {
-    "title": "Note on 24th September 2026",
-    "link": "https://simonwillison.net/2026/Sep/24/harder/",
-    "pubDate": "2026-09-24T23:31:08+00:00"
-  },
-  {
-    "title": "commit-rewriter 0.2",
-    "link": "https://simonwillison.net/2026/Sep/24/commit-rewriter/",
-    "pubDate": "2026-09-24T20:06:53+00:00"
   }
 ]
