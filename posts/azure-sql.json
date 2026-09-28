@@ -1,5 +1,10 @@
 [
   {
+    "title": "Announcing the Public Preview of Local Time Zone Support in Azure SQL Database",
+    "link": "https://devblogs.microsoft.com/azure-sql/announcing-the-public-preview-of-local-time-zone-support-in-azure-sql-database/",
+    "pubDate": "2026-09-28T15:00:17+00:00"
+  },
+  {
     "title": "PostgreSQL to SQL Field Notes: Date & Time",
     "link": "https://devblogs.microsoft.com/azure-sql/pg-to-sql-date-time/",
     "pubDate": "2026-09-21T22:44:58+00:00"
@@ -18,10 +23,5 @@
     "title": "Advocating for Uptime: The 6 Phases of Change",
     "link": "https://devblogs.microsoft.com/azure-sql/schema-change/",
     "pubDate": "2026-09-03T19:09:04+00:00"
-  },
-  {
-    "title": "Bacpac and Dacpac, the similarities and differences",
-    "link": "https://devblogs.microsoft.com/azure-sql/bacpac-and-dacpac-the-similarities-and-differences/",
-    "pubDate": "2026-08-31T15:13:57+00:00"
   }
 ]
