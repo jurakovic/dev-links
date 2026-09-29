@@ -1,5 +1,15 @@
 [
   {
+    "title": "Announcing the public preview of Local Time Zone Support in Azure SQL Database",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217",
+    "pubDate": "2026-09-28T14:54:42+00:00"
+  },
+  {
+    "title": "More performance and flexibility for Azure SQL Managed Instance Business Critical",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/more-performance-and-flexibility-for-azure-sql-managed-instance/ba-p/4559057",
+    "pubDate": "2026-09-28T13:45:49+00:00"
+  },
+  {
     "title": "SQL Data Sync – the final phase of retirement",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796",
     "pubDate": "2026-09-09T10:38:14+00:00"
@@ -13,15 +23,5 @@
     "title": "ICYMI: New Azure SQL Foundations video series with GitHub samples",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489",
     "pubDate": "2026-08-26T12:41:16+00:00"
-  },
-  {
-    "title": "Introducing Simplified Regional Limits for Azure SQL Managed Instance",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886",
-    "pubDate": "2026-08-24T15:25:38+00:00"
-  },
-  {
-    "title": "Public Preview: Zone-Redundant Next-Gen General Purpose for Azure SQL Managed Instance",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-zone-redundant-next-gen-general-purpose-for-azure/ba-p/4547525",
-    "pubDate": "2026-08-18T13:30:23+00:00"
   }
 ]

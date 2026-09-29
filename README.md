@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-29 stackoverflow</small>  
+<small>[Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
+<small>[What’s new across Microsoft SQL at SQLCon/FabCon Europe 2026](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-sqlcon-fabcon-europe-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
+<small>[How to build an app on Azure SQL with an AI coding agent](https://devblogs.microsoft.com/azure-sql/build-app-azure-sql-ai-coding-agent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
+<small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
 <small>[Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)</small>
 
@@ -30,6 +42,12 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azure-sql</small>  
 <small>[Announcing the Public Preview of Local Time Zone Support in Azure SQL Database](https://devblogs.microsoft.com/azure-sql/announcing-the-public-preview-of-local-time-zone-support-in-azure-sql-database/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azuresqlblog</small>  
+<small>[Announcing the public preview of Local Time Zone Support in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azuresqlblog</small>  
+<small>[More performance and flexibility for Azure SQL Managed Instance Business Critical](https://techcommunity.microsoft.com/t5/azure-sql-blog/more-performance-and-flexibility-for-azure-sql-managed-instance/ba-p/4559057)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-28 bartwullems</small>  
 <small>[Auto-accepting AI edits in VS Code](https://bartwullems.blogspot.com/2026/09/auto-accepting-ai-edits-in-vs-code.html)</small>
@@ -136,15 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
 <small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-22 stackoverflow</small>  
-<small>[Haters think AI agents can't write GPU code? This'll ROCm](https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-22 bartwullems</small>  
-<small>[A weekly stocktake for your skills](https://bartwullems.blogspot.com/2026/09/a-weekly-stocktake-for-your-skills.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-21 azure-sql</small>  
-<small>[PostgreSQL to SQL Field Notes: Date & Time](https://devblogs.microsoft.com/azure-sql/pg-to-sql-date-time/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-20 third-bit</small>  
 <small>[IO for Software Design](https://third-bit.com/2026/09/20/io-for-sd/)</small>
 
@@ -195,9 +204,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-15 martinfowler</small>  
 <small>[Nail the Narrative](https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 azure-sql</small>  
-<small>[Coding agents are picking Azure SQL Database](https://devblogs.microsoft.com/azure-sql/coding-agents-are-picking-azure-sql-database/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 andrewlock</small>  
 <small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/hillelwayne.png) <small>2026-09-01 hillelwayne</small>  
 <small>[A Crash Course in Predicate Logic](https://www.hillelwayne.com/post/predicate-logic/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-01 techtrenches</small>  
-<small>[I Shipped 17 PRs Without Writing Code](https://techtrenches.dev/p/shipping-ai-written-code)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-09-01 jimmybogard</small>  
-<small>[Vertical Slice Architecture Webinar Recording, and What's Next](https://www.jimmybogard.com/vertical-slice-architecture-webinar-recording-and-whats-next/)</small>
 

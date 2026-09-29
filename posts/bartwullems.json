@@ -1,5 +1,10 @@
 [
   {
+    "title": "Docker: No space left on device",
+    "link": "https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html",
+    "pubDate": "2026-09-29T05:45:00+00:00"
+  },
+  {
     "title": "Auto-accepting AI edits in VS Code",
     "link": "https://bartwullems.blogspot.com/2026/09/auto-accepting-ai-edits-in-vs-code.html",
     "pubDate": "2026-09-28T07:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Hot Exit in Visual Studio",
     "link": "https://bartwullems.blogspot.com/2026/09/hot-exit-in-visual-studio.html",
     "pubDate": "2026-09-23T05:00:00+00:00"
-  },
-  {
-    "title": "A weekly stocktake for your skills",
-    "link": "https://bartwullems.blogspot.com/2026/09/a-weekly-stocktake-for-your-skills.html",
-    "pubDate": "2026-09-22T05:04:00+00:00"
   }
 ]
