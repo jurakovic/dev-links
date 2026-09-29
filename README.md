@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 lucumr-pocoo</small>  
+<small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-29 visualstudiomagazine</small>  
+<small>[Amid AI Debate, Copilot Adds Latest Models, Offers Limits on Agent Access](https://visualstudiomagazine.com/articles/2026/09/29/amid-ai-debate-copilot-adds-latest-models-offers-limits-on-agent-access.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-29 swizec</small>  
 <small>[Why I'm excited about Jev-like classifiers](https://swizec.com/blog/why-im-excited-about-jev-like-classifiers)</small>
 
@@ -12,6 +18,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 visualstudio</small>  
 <small>[Visual Studio September Update – Power Your Workflow with Your Model](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
+<small>[OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
 <small>[DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/)</small>
@@ -22,6 +31,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-29 martinfowler</small>  
 <small>[Fragments: September 29](https://martinfowler.com/fragments/2026-09-29.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
+<small>[Architecting with LLMs: use plain old code when you can, LLMs when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-29 stackoverflow</small>  
 <small>[Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/)</small>
 
@@ -30,6 +42,12 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
 <small>[How to build an app on Azure SQL with an AI coding agent](https://devblogs.microsoft.com/azure-sql/build-app-azure-sql-ai-coding-agent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
+<small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
+<small>[Public Preview: Performance monitoring for Azure SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql/ba-p/4560498)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
 <small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
@@ -72,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
 <small>[2026 in LLMs (so far)](https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
-<small>[S3 Is the Future, S3 Is the Past](https://simonwillison.net/2026/Sep/27/hn-49871741/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
@@ -193,9 +208,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
 <small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-17 visualstudiomagazine</small>  
-<small>[VS Code Release Notes Now Generated by Copilot -- 'Might Contain Inaccuracies'](https://visualstudiomagazine.com/articles/2026/09/17/vs-code-release-notes-now-generated-by-copilot-might-contain-inaccuracies.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-17 martinfowler</small>  
 <small>[I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)</small>
 
@@ -291,16 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-03 microservices</small>  
 <small>[Architecting for uncertainty - part 2: fast flow defined](http://microservices.io//post/architecture/2026/09/03/architecting-for-uncertainty-part-2.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-02 github-eng</small>  
-<small>[How we make AI coding more cost efficient without sacrificing task quality](https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 bencane</small>  
-<small>[At what point does better performance stop being worth it?](https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-02 microservices</small>  
-<small>[Microservices and GenAI in 2026: my Dear Architects conversation](http://microservices.io//post/architecture/2026/09/02/dear-architects-microservices-and-ai.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-01 rickstrahl</small>  
-<small>[Back to Basics: JavaScript and Timezones](https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones)</small>
 

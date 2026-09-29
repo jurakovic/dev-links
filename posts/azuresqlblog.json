@@ -1,5 +1,15 @@
 [
   {
+    "title": "MI link support for multiple databases in an Always On availability group for SQL Server (Preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546",
+    "pubDate": "2026-09-29T07:00:00+00:00"
+  },
+  {
+    "title": "Public Preview: Performance monitoring for Azure SQL",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql/ba-p/4560498",
+    "pubDate": "2026-09-29T06:00:00+00:00"
+  },
+  {
     "title": "Announcing the public preview of Local Time Zone Support in Azure SQL Database",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217",
     "pubDate": "2026-09-28T14:54:42+00:00"
@@ -13,15 +23,5 @@
     "title": "SQL Data Sync – the final phase of retirement",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796",
     "pubDate": "2026-09-09T10:38:14+00:00"
-  },
-  {
-    "title": "Understanding DevOps Auditing API Migration Behavior in Azure SQL Database",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723",
-    "pubDate": "2026-09-01T07:01:30+00:00"
-  },
-  {
-    "title": "ICYMI: New Azure SQL Foundations video series with GitHub samples",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489",
-    "pubDate": "2026-08-26T12:41:16+00:00"
   }
 ]
