@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why model versioning is not enough for production AI",
+    "link": "https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/",
+    "pubDate": "2026-09-28T18:24:12+00:00"
+  },
+  {
     "title": "Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned",
     "link": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/",
     "pubDate": "2026-09-28T16:41:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Haters think AI agents can't write GPU code? This'll ROCm",
     "link": "https://stackoverflow.blog/2026/09/22/haters-think-ai-can-t-gpu-code-this-ll-rocm/",
     "pubDate": "2026-09-22T07:40:00+00:00"
-  },
-  {
-    "title": "The AI magic words",
-    "link": "https://stackoverflow.blog/2026/09/17/the-ai-magic-words/",
-    "pubDate": "2026-09-17T07:40:00+00:00"
   }
 ]

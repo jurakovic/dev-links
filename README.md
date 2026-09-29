@@ -5,7 +5,13 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
+<small>[Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
 <small>[Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-28 stackoverflow</small>  
+<small>[Why model versioning is not enough for production AI](https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-28 visualstudiomagazine</small>  
 <small>[Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)](https://visualstudiomagazine.com/articles/2026/09/28/openai-replacing-custom-gpts-with-plugins-including-for-codex-in-vs-code.aspx)</small>
@@ -39,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-27 simonwillison</small>  
-<small>[Bluesky reply bot checker](https://simonwillison.net/2026/Sep/27/bluesky-bot-check/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-27 seangoedecke</small>  
 <small>[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/)</small>
@@ -171,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-17 martinfowler</small>  
 <small>[I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-17 stackoverflow</small>  
-<small>[The AI magic words](https://stackoverflow.blog/2026/09/17/the-ai-magic-words/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
 <small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>

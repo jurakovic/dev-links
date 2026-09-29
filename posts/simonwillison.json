@@ -1,5 +1,10 @@
 [
   {
+    "title": "Claude Sonnet 5.5",
+    "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
+    "pubDate": "2026-09-28T22:07:38+00:00"
+  },
+  {
     "title": "Quoting @joedaroo",
     "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
     "pubDate": "2026-09-28T19:11:42+00:00"
@@ -18,10 +23,5 @@
     "title": "S3 Is the Future, S3 Is the Past",
     "link": "https://simonwillison.net/2026/Sep/27/hn-49871741/",
     "pubDate": "2026-09-27T23:09:19+00:00"
-  },
-  {
-    "title": "Bluesky reply bot checker",
-    "link": "https://simonwillison.net/2026/Sep/27/bluesky-bot-check/",
-    "pubDate": "2026-09-27T18:41:44+00:00"
   }
 ]
