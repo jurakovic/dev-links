@@ -1,5 +1,10 @@
 [
   {
+    "title": "DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL",
+    "link": "https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/",
+    "pubDate": "2026-09-29T15:00:22+00:00"
+  },
+  {
     "title": "What’s new across Microsoft SQL at SQLCon/FabCon Europe 2026",
     "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-sqlcon-fabcon-europe-2026/",
     "pubDate": "2026-09-29T07:30:04+00:00"
@@ -18,10 +23,5 @@
     "title": "SQLAlchemy 2.1 brings built-in support for mssql-python",
     "link": "https://devblogs.microsoft.com/azure-sql/sqlalchemy-2-1-brings-built-in-support-for-mssql-python/",
     "pubDate": "2026-09-28T16:02:00+00:00"
-  },
-  {
-    "title": "Announcing the Public Preview of Local Time Zone Support in Azure SQL Database",
-    "link": "https://devblogs.microsoft.com/azure-sql/announcing-the-public-preview-of-local-time-zone-support-in-azure-sql-database/",
-    "pubDate": "2026-09-28T15:00:17+00:00"
   }
 ]

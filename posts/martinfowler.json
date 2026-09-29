@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bliki: Sensible Default",
+    "link": "https://martinfowler.com/bliki/SensibleDefault.html",
+    "pubDate": "2026-09-29T13:43:00+00:00"
+  },
+  {
+    "title": "Fragments: September 29",
+    "link": "https://martinfowler.com/fragments/2026-09-29.html",
+    "pubDate": "2026-09-29T12:41:00+00:00"
+  },
+  {
     "title": "Fragments: September 24",
     "link": "https://martinfowler.com/fragments/2026-09-24.html",
     "pubDate": "2026-09-24T15:35:00+00:00"
@@ -13,15 +23,5 @@
     "title": "I don't like LLMs",
     "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
     "pubDate": "2026-09-17T13:50:00+00:00"
-  },
-  {
-    "title": "Fragments: September 16",
-    "link": "https://martinfowler.com/fragments/2026-09-16.html",
-    "pubDate": "2026-09-16T20:05:00+00:00"
-  },
-  {
-    "title": "Nail the Narrative",
-    "link": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
-    "pubDate": "2026-09-15T15:11:00+00:00"
   }
 ]
