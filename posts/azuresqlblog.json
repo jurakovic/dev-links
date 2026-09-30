@@ -1,5 +1,15 @@
 [
   {
+    "title": "Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907",
+    "pubDate": "2026-09-29T22:34:32+00:00"
+  },
+  {
+    "title": "Database Hub in Fabric - Turn database signals into guided action",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-turn-database-signals-into-guided-action/ba-p/4560846",
+    "pubDate": "2026-09-29T21:37:35+00:00"
+  },
+  {
     "title": "MI link support for multiple databases in an Always On availability group for SQL Server (Preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546",
     "pubDate": "2026-09-29T07:00:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Announcing the public preview of Local Time Zone Support in Azure SQL Database",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217",
     "pubDate": "2026-09-28T14:54:42+00:00"
-  },
-  {
-    "title": "More performance and flexibility for Azure SQL Managed Instance Business Critical",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/more-performance-and-flexibility-for-azure-sql-managed-instance/ba-p/4559057",
-    "pubDate": "2026-09-28T13:45:49+00:00"
-  },
-  {
-    "title": "SQL Data Sync – the final phase of retirement",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796",
-    "pubDate": "2026-09-09T10:38:14+00:00"
   }
 ]

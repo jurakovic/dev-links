@@ -1,5 +1,10 @@
 [
   {
+    "title": "The First AI Model That Scared Me Can’t Write a Sentence",
+    "link": "https://techtrenches.dev/p/the-first-ai-model-that-scared-me",
+    "pubDate": "2026-09-30T17:13:46+00:00"
+  },
+  {
     "title": "Nine Mostly Basic Intrusions, and One Zero-Day Escape",
     "link": "https://techtrenches.dev/p/nine-basic-intrusions-one-zero-day-escape",
     "pubDate": "2026-09-23T18:21:39+00:00"
@@ -18,10 +23,5 @@
     "title": "I Shipped 17 PRs Without Writing Code",
     "link": "https://techtrenches.dev/p/shipping-ai-written-code",
     "pubDate": "2026-09-01T15:40:30+00:00"
-  },
-  {
-    "title": "Anthropic Watermarked the Work It Told You to Delegate",
-    "link": "https://techtrenches.dev/p/anthropic-claude-watermark",
-    "pubDate": "2026-08-17T17:39:34+00:00"
   }
 ]

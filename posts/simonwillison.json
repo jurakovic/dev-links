@@ -1,5 +1,10 @@
 [
   {
+    "title": "He Built This City",
+    "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
+    "pubDate": "2026-09-30T21:54:19+00:00"
+  },
+  {
     "title": "Quoting Anthropic Frontier Red Team",
     "link": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
     "pubDate": "2026-09-29T22:20:28+00:00"
@@ -18,10 +23,5 @@
     "title": "OpenAI DevDay 2026 live blog",
     "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
     "pubDate": "2026-09-29T15:55:13+00:00"
-  },
-  {
-    "title": "Claude Sonnet 5.5",
-    "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
-    "pubDate": "2026-09-28T22:07:38+00:00"
   }
 ]
