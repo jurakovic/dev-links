@@ -10,6 +10,11 @@
     "pubDate": "2026-09-29T18:27:48+00:00"
   },
   {
+    "title": "Photo Scrubber — local face blur & metadata removal",
+    "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+    "pubDate": "2026-09-29T16:45:27+00:00"
+  },
+  {
     "title": "OpenAI DevDay 2026 live blog",
     "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
     "pubDate": "2026-09-29T15:55:13+00:00"
@@ -18,10 +23,5 @@
     "title": "Claude Sonnet 5.5",
     "link": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
     "pubDate": "2026-09-28T22:07:38+00:00"
-  },
-  {
-    "title": "Quoting @joedaroo",
-    "link": "https://simonwillison.net/2026/Sep/28/joedaroo/",
-    "pubDate": "2026-09-28T19:11:42+00:00"
   }
 ]

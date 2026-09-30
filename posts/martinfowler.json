@@ -1,5 +1,10 @@
 [
   {
+    "title": "Principles for effective slides",
+    "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+    "pubDate": "2026-09-30T14:14:00+00:00"
+  },
+  {
     "title": "Bliki: Sensible Default",
     "link": "https://martinfowler.com/bliki/SensibleDefault.html",
     "pubDate": "2026-09-29T13:43:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Healthy Feedback",
     "link": "https://martinfowler.com/articles/healthy-peer-feedback.html",
     "pubDate": "2026-09-24T14:10:00+00:00"
-  },
-  {
-    "title": "I don't like LLMs",
-    "link": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-    "pubDate": "2026-09-17T13:50:00+00:00"
   }
 ]

@@ -1,5 +1,20 @@
 [
   {
+    "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
+    "link": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
+    "pubDate": "2026-09-30T16:01:40+00:00"
+  },
+  {
+    "title": "Anyone can start building verified knowledge with Stack Internal",
+    "link": "https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/",
+    "pubDate": "2026-09-30T16:00:00+00:00"
+  },
+  {
+    "title": "Getting ready for 2026 results: A look back on Developer Survey findings",
+    "link": "https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/",
+    "pubDate": "2026-09-30T14:00:00+00:00"
+  },
+  {
     "title": "Your phone is AI’s newest hardware",
     "link": "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/",
     "pubDate": "2026-09-29T07:40:00+00:00"
@@ -8,20 +23,5 @@
     "title": "Why model versioning is not enough for production AI",
     "link": "https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/",
     "pubDate": "2026-09-28T18:24:12+00:00"
-  },
-  {
-    "title": "Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned",
-    "link": "https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/",
-    "pubDate": "2026-09-28T16:41:00+00:00"
-  },
-  {
-    "title": "Professional skepticism is a dev’s best skill",
-    "link": "https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/",
-    "pubDate": "2026-09-25T07:40:00+00:00"
-  },
-  {
-    "title": "Multiplayer AI: Why your team (and its agents) need a group chat",
-    "link": "https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/",
-    "pubDate": "2026-09-23T04:40:00+00:00"
   }
 ]

@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-30 stackoverflow</small>  
+<small>[Organizations need decision-grade knowledge. AI makes it urgent.](https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-30 stackoverflow</small>  
+<small>[Anyone can start building verified knowledge with Stack Internal](https://stackoverflow.blog/2026/09/30/anyone-can-start-building-verified-knowledge-with-stack-internal/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-30 martinfowler</small>  
+<small>[Principles for effective slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-30 stackoverflow</small>  
+<small>[Getting ready for 2026 results: A look back on Developer Survey findings](https://stackoverflow.blog/2026/09/30/getting-ready-for-2026-results-a-look-back-on-developer-survey-findings/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-30 bencane</small>  
 <small>[One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.](https://bencane.com/posts/2026-09-30-protobuf-contract-management/)</small>
 
@@ -21,6 +33,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-29 visualstudiomagazine</small>  
 <small>[Amid AI Debate, Copilot Adds Latest Models, Offers Limits on Agent Access](https://visualstudiomagazine.com/articles/2026/09/29/amid-ai-debate-copilot-adds-latest-models-offers-limits-on-agent-access.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
+<small>[Photo Scrubber — local face blur & metadata removal](https://simonwillison.net/2026/Sep/29/photo-scrubber/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-29 swizec</small>  
 <small>[Why I'm excited about Jev-like classifiers](https://swizec.com/blog/why-im-excited-about-jev-like-classifiers)</small>
@@ -67,9 +82,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
 <small>[Claude Sonnet 5.5](https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-28 simonwillison</small>  
-<small>[Quoting @joedaroo](https://simonwillison.net/2026/Sep/28/joedaroo/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-28 stackoverflow</small>  
 <small>[Why model versioning is not enough for production AI](https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/)</small>
 
@@ -81,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 dotnet</small>  
 <small>[Build Agentic UI with the new Blazor AI components](https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-28 stackoverflow</small>  
-<small>[Is Your “Human-in-the-Loop” Actually Slowing You Down? Here’s What We Learned](https://stackoverflow.blog/2026/09/28/is-your-human-in-the-loop-actually-slowing-you-down-here-s-what-we-learned/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azure-sql</small>  
 <small>[SQLAlchemy 2.1 brings built-in support for mssql-python](https://devblogs.microsoft.com/azure-sql/sqlalchemy-2-1-brings-built-in-support-for-mssql-python/)</small>
@@ -130,9 +139,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-25 seangoedecke</small>  
 <small>[You should all be asking way more questions](https://seangoedecke.com/you-should-all-be-asking-way-more-questions/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-25 stackoverflow</small>  
-<small>[Professional skepticism is a dev’s best skill](https://stackoverflow.blog/2026/09/25/professional-skepticism-is-a-dev-s-best-skill/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-25 bartwullems</small>  
 <small>[Guid.CreateVersion7() is NOT a sequential guid for SQL Server](https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html)</small>
 
@@ -172,9 +178,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-23 bencane</small>  
 <small>[Message queues are great for handing off work, but how do you know the work actually happens?](https://bencane.com/posts/2026-09-23-message-completion/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-23 stackoverflow</small>  
-<small>[Multiplayer AI: Why your team (and its agents) need a group chat](https://stackoverflow.blog/2026/09/23/multiplayer-ai-why-your-team-and-its-agents-need-a-group-chat/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-22 visualstudiomagazine</small>  
 <small>[VS Code Simplifies Copilot Inline Suggestions With Unified Model](https://visualstudiomagazine.com/articles/2026/09/22/vs-code-simplifies-copilot-inline-suggestions-with-unified-model.aspx)</small>
 
@@ -210,9 +213,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
 <small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-17 martinfowler</small>  
-<small>[I don't like LLMs](https://martinfowler.com/articles/2026-dont-like-llms.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
 <small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>
