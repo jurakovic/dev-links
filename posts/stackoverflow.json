@@ -1,5 +1,10 @@
 [
   {
+    "title": "A look back before we look forward: A Developer Survey retrospective",
+    "link": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
+    "pubDate": "2026-10-01T14:47:33+00:00"
+  },
+  {
     "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
     "link": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
     "pubDate": "2026-09-30T16:01:40+00:00"
@@ -18,10 +23,5 @@
     "title": "Your phone is AI’s newest hardware",
     "link": "https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/",
     "pubDate": "2026-09-29T07:40:00+00:00"
-  },
-  {
-    "title": "Why model versioning is not enough for production AI",
-    "link": "https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/",
-    "pubDate": "2026-09-28T18:24:12+00:00"
   }
 ]

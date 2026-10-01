@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-01 visualstudiomagazine</small>  
+<small>[Microsoft Makes the Case for VSLive! in the AI Era](https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-01 stackoverflow</small>  
+<small>[A look back before we look forward: A Developer Survey retrospective](https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-10-01 devlead</small>  
 <small>[Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>
 
@@ -106,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
 <small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-28 stackoverflow</small>  
-<small>[Why model versioning is not enough for production AI](https://stackoverflow.blog/2026/09/28/why-model-versioning-is-not-enough-for-production-ai/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-28 visualstudiomagazine</small>  
 <small>[Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)](https://visualstudiomagazine.com/articles/2026/09/28/openai-replacing-custom-gpts-with-plugins-including-for-codex-in-vs-code.aspx)</small>
 
@@ -144,9 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: How to build custom workflows with canvases](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-25 visualstudiomagazine</small>  
-<small>[What's Next for VS Code? 10 Open GitHub Issues Offer Clues](https://visualstudiomagazine.com/articles/2026/09/25/whats-next-for-vs-code-10-open-github-issues-offer-clues.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-25 dotnet</small>  
 <small>[AG-UI Protocol now has a first-class .NET SDK](https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/)</small>

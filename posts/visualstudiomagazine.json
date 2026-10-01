@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Makes the Case for VSLive! in the AI Era",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx",
+    "pubDate": "2026-10-01T15:56:00+00:00"
+  },
+  {
     "title": "VS Code 1.140 Expands Agent Coordination Across Folders and Machines",
     "link": "https://visualstudiomagazine.com/articles/2026/09/30/vs-code-1-140-expands-agent-coordination-across-folders-and-machines.aspx",
     "pubDate": "2026-09-30T19:51:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)",
     "link": "https://visualstudiomagazine.com/articles/2026/09/28/openai-replacing-custom-gpts-with-plugins-including-for-codex-in-vs-code.aspx",
     "pubDate": "2026-09-28T18:12:00+00:00"
-  },
-  {
-    "title": "What's Next for VS Code? 10 Open GitHub Issues Offer Clues",
-    "link": "https://visualstudiomagazine.com/articles/2026/09/25/whats-next-for-vs-code-10-open-github-issues-offer-clues.aspx",
-    "pubDate": "2026-09-25T17:58:00+00:00"
   }
 ]
