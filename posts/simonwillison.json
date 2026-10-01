@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Matthew Green",
+    "link": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+    "pubDate": "2026-10-01T06:29:01+00:00"
+  },
+  {
     "title": "He Built This City",
     "link": "https://simonwillison.net/2026/Sep/30/he-built-this-city/",
     "pubDate": "2026-09-30T21:54:19+00:00"
@@ -18,10 +23,5 @@
     "title": "Photo Scrubber — local face blur & metadata removal",
     "link": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
     "pubDate": "2026-09-29T16:45:27+00:00"
-  },
-  {
-    "title": "OpenAI DevDay 2026 live blog",
-    "link": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-    "pubDate": "2026-09-29T15:55:13+00:00"
   }
 ]

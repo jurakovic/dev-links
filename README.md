@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-10-01 devlead</small>  
+<small>[Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-01 bartwullems</small>  
+<small>[Don't know what to do while your agents work? The VS Code team has an answer.](https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-01 simonwillison</small>  
+<small>[Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-30 third-bit</small>  
 <small>[12 Tips for Making Your Startup Fail](https://third-bit.com/2026/09/30/startup-failure-tips/)</small>
 
@@ -67,9 +76,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 visualstudio</small>  
 <small>[Visual Studio September Update – Power Your Workflow with Your Model](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
-<small>[OpenAI DevDay 2026 live blog](https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
 <small>[DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/)</small>
 
@@ -93,12 +99,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
-<small>[SQLCon Barcelona 2026: Advancing SQL with greater control, scale, and intelligence](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
-<small>[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[Public Preview: Performance monitoring for Azure SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql/ba-p/4560498)</small>
@@ -177,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
 <small>[Healthy Feedback](https://martinfowler.com/articles/healthy-peer-feedback.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-24 bartwullems</small>  
-<small>[GitHub Copilot auto mode: should you disable models?](https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-23 dotnet</small>  
 <small>[Microsoft is updating its author-signing certificate starting September 23, 2026](https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/)</small>
@@ -303,4 +300,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 developertoarchitect</small>  
 <small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 erikej</small>  
+<small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
 

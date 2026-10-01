@@ -1,5 +1,10 @@
 [
   {
+    "title": "Don't know what to do while your agents work? The VS Code team has an answer.",
+    "link": "https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html",
+    "pubDate": "2026-10-01T07:00:00+00:00"
+  },
+  {
     "title": "Upgrading Dependency Track from v4 to v5",
     "link": "https://bartwullems.blogspot.com/2026/09/upgrading-dependency-track-from-v4-to-v5.html",
     "pubDate": "2026-09-30T05:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Guid.CreateVersion7() is NOT a sequential guid for SQL Server",
     "link": "https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html",
     "pubDate": "2026-09-25T05:12:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot auto mode: should you disable models?",
-    "link": "https://bartwullems.blogspot.com/2026/09/github-copilot-auto-mode-should-you.html",
-    "pubDate": "2026-09-24T05:35:00+00:00"
   }
 ]
