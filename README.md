@@ -37,6 +37,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-30 bartwullems</small>  
 <small>[Upgrading Dependency Track from v4 to v5](https://bartwullems.blogspot.com/2026/09/upgrading-dependency-track-from-v4-to-v5.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-30 azuresqlblog</small>  
+<small>[Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 lucumr-pocoo</small>  
 <small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
-<small>[Database Hub in Fabric - Turn database signals into guided action](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-turn-database-signals-into-guided-action/ba-p/4560846)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
 <small>[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://simonwillison.net/2026/Sep/29/hn-49898129/)</small>
