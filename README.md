@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-01 azuresqlblog</small>  
+<small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-01 pragmaticengineer</small>  
+<small>[The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-01 visualstudiomagazine</small>  
 <small>[Microsoft Makes the Case for VSLive! in the AI Era](https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx)</small>
 
@@ -106,8 +112,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
-<small>[Public Preview: Performance monitoring for Azure SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql/ba-p/4560498)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
+<small>[SQLCon Barcelona 2026: Advancing SQL with greater control, scale, and intelligence](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
+<small>[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
 <small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
@@ -294,13 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-05 swizec</small>  
 <small>[What B2B SaaS taught me about having kids](https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-05 lucumr-pocoo</small>  
-<small>[Latent Powers](https://lucumr.pocoo.org/2026/9/5/latent-powers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 developertoarchitect</small>  
-<small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 erikej</small>  
-<small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
 
