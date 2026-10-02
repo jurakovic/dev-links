@@ -1,5 +1,10 @@
 [
   {
+    "title": "Getting started with DSC 3.0 – Part 1: What is DSC and what changed?",
+    "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-1-what.html",
+    "pubDate": "2026-10-02T07:30:00+00:00"
+  },
+  {
     "title": "Don't know what to do while your agents work? The VS Code team has an answer.",
     "link": "https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html",
     "pubDate": "2026-10-01T07:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Auto-accepting AI edits in VS Code",
     "link": "https://bartwullems.blogspot.com/2026/09/auto-accepting-ai-edits-in-vs-code.html",
     "pubDate": "2026-09-28T07:00:00+00:00"
-  },
-  {
-    "title": "Guid.CreateVersion7() is NOT a sequential guid for SQL Server",
-    "link": "https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html",
-    "pubDate": "2026-09-25T05:12:00+00:00"
   }
 ]

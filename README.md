@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-02 stackoverflow</small>  
+<small>[Constraints that make developers faster](https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-02 bartwullems</small>  
+<small>[Getting started with DSC 3.0 – Part 1: What is DSC and what changed?](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-1-what.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-02 seangoedecke</small>  
 <small>[Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/)</small>
 
@@ -106,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
 <small>[Architecting with LLMs: use plain old code when you can, LLMs when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-29 stackoverflow</small>  
-<small>[Your phone is AI’s newest hardware](https://stackoverflow.blog/2026/09/29/your-phone-is-ai-s-newest-hardware/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
 <small>[What’s new across Microsoft SQL at SQLCon/FabCon Europe 2026](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-sqlcon-fabcon-europe-2026/)</small>
 
@@ -171,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-25 seangoedecke</small>  
 <small>[You should all be asking way more questions](https://seangoedecke.com/you-should-all-be-asking-way-more-questions/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-25 bartwullems</small>  
-<small>[Guid.CreateVersion7() is NOT a sequential guid for SQL Server](https://bartwullems.blogspot.com/2026/09/guidcreateversion7-is-not-sequential.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>
