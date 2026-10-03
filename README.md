@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
+<small>[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
 <small>[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-10-02 rickstrahl</small>  
@@ -186,9 +189,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-eng</small>  
 <small>[Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-25 seangoedecke</small>  
-<small>[You should all be asking way more questions](https://seangoedecke.com/you-should-all-be-asking-way-more-questions/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>
