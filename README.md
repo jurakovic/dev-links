@@ -4,11 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-03 simonwillison</small>  
+<small>[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-03 simonwillison</small>  
+<small>[September sponsors-only newsletter](https://simonwillison.net/2026/Oct/3/newsletter/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
 <small>[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
 <small>[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-02 simonwillison</small>  
+<small>[Rex's Dino Store](https://simonwillison.net/2026/Oct/2/rex-s-dino-store/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-10-02 rickstrahl</small>  
 <small>[Back to Basics: CSS @container Filtering](https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering)</small>
@@ -94,20 +103,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
-<small>[Quoting Anthropic Frontier Red Team](https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 lucumr-pocoo</small>  
 <small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
-<small>[GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://simonwillison.net/2026/Sep/29/hn-49898129/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-29 visualstudiomagazine</small>  
 <small>[Amid AI Debate, Copilot Adds Latest Models, Offers Limits on Agent Access](https://visualstudiomagazine.com/articles/2026/09/29/amid-ai-debate-copilot-adds-latest-models-offers-limits-on-agent-access.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-29 simonwillison</small>  
-<small>[Photo Scrubber — local face blur & metadata removal](https://simonwillison.net/2026/Sep/29/photo-scrubber/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-29 swizec</small>  
 <small>[Why I'm excited about Jev-like classifiers](https://swizec.com/blog/why-im-excited-about-jev-like-classifiers)</small>
