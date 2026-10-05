@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-05 bartwullems</small>  
+<small>[Getting started with DSC 3.0 – Part 2: Managing a Windows service end to end](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-2.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-05 martinfowler</small>  
+<small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-03 simonwillison</small>  
 <small>[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)</small>
 
@@ -160,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azuresqlblog</small>  
 <small>[Announcing the public preview of Local Time Zone Support in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-28 bartwullems</small>  
-<small>[Auto-accepting AI edits in VS Code](https://bartwullems.blogspot.com/2026/09/auto-accepting-ai-edits-in-vs-code.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
 
@@ -201,9 +204,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
 <small>[Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
-<small>[Healthy Feedback](https://martinfowler.com/articles/healthy-peer-feedback.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-23 dotnet</small>  
 <small>[Microsoft is updating its author-signing certificate starting September 23, 2026](https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/)</small>
