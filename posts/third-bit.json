@@ -1,5 +1,10 @@
 [
   {
+    "title": "Introducing Frml",
+    "link": "https://third-bit.com/2026/10/05/frml-intro/",
+    "pubDate": "2026-10-05T22:01:42+00:00"
+  },
+  {
     "title": "Heroes and Villains",
     "link": "https://third-bit.com/2026/10/02/heroes-and-villains/",
     "pubDate": "2026-10-02T00:00:00+00:00"
@@ -18,10 +23,5 @@
     "title": "IO for Software Design",
     "link": "https://third-bit.com/2026/09/20/io-for-sd/",
     "pubDate": "2026-09-20T22:01:47+00:00"
-  },
-  {
-    "title": "Iffy",
-    "link": "https://third-bit.com/2026/09/11/iffy/",
-    "pubDate": "2026-09-11T22:03:53+00:00"
   }
 ]

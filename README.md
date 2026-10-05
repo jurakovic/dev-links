@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-05 third-bit</small>  
+<small>[Introducing Frml](https://third-bit.com/2026/10/05/frml-intro/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-05 visualstudiomagazine</small>  
+<small>[AI Plugins Gain Ground, Microsoft Shows How](https://visualstudiomagazine.com/articles/2026/10/05/microsoft-shows-how-plugins-package-ai-workflows-as-industry-adoption-expands.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-05 dotnet</small>  
+<small>[UWP and WinUI 3 apps: UI testing with MSTest](https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-05 github-ai</small>  
 <small>[ReviewBench: An open benchmark for AI code review](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/)</small>
 
@@ -12,6 +21,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-05 martinfowler</small>  
 <small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-04 simonwillison</small>  
+<small>[Qwen3.8 27B addition in words](https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-03 simonwillison</small>  
 <small>[We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/)</small>
@@ -55,6 +67,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-01 azuresqlblog</small>  
 <small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-01 simonwillison</small>  
+<small>[pwasm 0.2a0](https://simonwillison.net/2026/Oct/1/pwasm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-01 pragmaticengineer</small>  
 <small>[The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/)</small>
 
@@ -70,14 +85,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-01 bartwullems</small>  
 <small>[Don't know what to do while your agents work? The VS Code team has an answer.](https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-01 simonwillison</small>  
-<small>[Quoting Matthew Green](https://simonwillison.net/2026/Oct/1/matthew-green/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-30 third-bit</small>  
 <small>[12 Tips for Making Your Startup Fail](https://third-bit.com/2026/09/30/startup-failure-tips/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-09-30 simonwillison</small>  
-<small>[He Built This City](https://simonwillison.net/2026/Sep/30/he-built-this-city/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-30 visualstudiomagazine</small>  
 <small>[VS Code 1.140 Expands Agent Coordination Across Folders and Machines](https://visualstudiomagazine.com/articles/2026/09/30/vs-code-1-140-expands-agent-coordination-across-folders-and-machines.aspx)</small>
@@ -156,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
 <small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-28 visualstudiomagazine</small>  
-<small>[Hands-On With OpenAI's Mandatory Custom GPT-to-Plugin Migration (Deadline Coming)](https://visualstudiomagazine.com/articles/2026/09/28/openai-replacing-custom-gpts-with-plugins-including-for-codex-in-vs-code.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: New Getting Started Page, Agent skills, SQL Formatter, and more](https://devblogs.microsoft.com/azure-sql/vscode-mssql-september2026/)</small>
@@ -244,9 +250,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-18 steven-giesel</small>  
 <small>[If It Quacks - Part 2](https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 dotnet</small>  
-<small>[Build Your Own AI Agent Harness in C#, the MafClaw Live Series](https://devblogs.microsoft.com/dotnet/build-your-own-ai-agent-harness-in-csharp-the-maf-claw-live-series/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-16 techtrenches</small>  
 <small>[The Aggressor Asks for Terms](https://techtrenches.dev/p/the-aggressor-asks-for-terms)</small>
 
@@ -279,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-12 steven-giesel</small>  
 <small>[Quack Quack: Duck-Typing in C# with Interceptors](https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-11 third-bit</small>  
-<small>[Iffy](https://third-bit.com/2026/09/11/iffy/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-10 pragmaticengineer</small>  
 <small>[The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/)</small>
