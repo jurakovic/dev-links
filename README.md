@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-06 bartwullems</small>  
+<small>[Getting started with DSC 3.0 – Part 3: Capturing the current state with dsc config export](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-3.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-05 simonwillison</small>  
 <small>[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)</small>
 
@@ -162,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
 <small>[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-29 bartwullems</small>  
-<small>[Docker: No space left on device](https://bartwullems.blogspot.com/2026/09/docker-no-space-left-on-device.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azure-sql</small>  
 <small>[MSSQL Extension for VS Code: New Getting Started Page, Agent skills, SQL Formatter, and more](https://devblogs.microsoft.com/azure-sql/vscode-mssql-september2026/)</small>
