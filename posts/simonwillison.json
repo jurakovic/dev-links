@@ -1,27 +1,27 @@
 [
   {
-    "title": "Scrimshaw Jukebox",
-    "link": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
-    "pubDate": "2026-10-06T15:17:39+00:00"
+    "title": "llm-mistral 0.16",
+    "link": "https://simonwillison.net/2026/Oct/6/llm-mistral/",
+    "pubDate": "2026-10-06T21:32:34+00:00"
   },
   {
-    "title": "Quoting Felix Rieseberg",
-    "link": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-    "pubDate": "2026-10-05T23:56:47+00:00"
+    "title": "EmbeddingGemma 2",
+    "link": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+    "pubDate": "2026-10-06T20:37:53+00:00"
   },
   {
-    "title": "Qwen3.8 27B addition in words",
-    "link": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-    "pubDate": "2026-10-04T23:34:00+00:00"
+    "title": "Introducing Mistral Large 4: Le chonk",
+    "link": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+    "pubDate": "2026-10-06T20:18:19+00:00"
   },
   {
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "pubDate": "2026-10-03T23:34:02+00:00"
+    "title": "Using Parseable with Datasette for OpenTelemetry traces",
+    "link": "https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/",
+    "pubDate": "2026-10-06T19:07:31+00:00"
   },
   {
-    "title": "September sponsors-only newsletter",
-    "link": "https://simonwillison.net/2026/Oct/3/newsletter/",
-    "pubDate": "2026-10-03T22:00:31+00:00"
+    "title": "Mistral Large 4",
+    "link": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+    "pubDate": "2026-10-06T18:20:58+00:00"
   }
 ]

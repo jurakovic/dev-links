@@ -1,5 +1,15 @@
 [
   {
+    "title": "Upcoming SQL and AI Events to Put on Your Calendar",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-calendar-2027q4/",
+    "pubDate": "2026-10-06T20:50:48+00:00"
+  },
+  {
+    "title": "PostgreSQL to SQL Field Notes: Connections",
+    "link": "https://devblogs.microsoft.com/azure-sql/pg-to-sql-connections/",
+    "pubDate": "2026-10-06T16:39:17+00:00"
+  },
+  {
     "title": "Data API builder 2.1.5: JSON and Vector Data Type Support, and More",
     "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-2-1-5-json-and-vector-data-type-support-and-more/",
     "pubDate": "2026-10-02T01:10:52+00:00"
@@ -13,15 +23,5 @@
     "title": "What’s new across Microsoft SQL at SQLCon/FabCon Europe 2026",
     "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-sqlcon-fabcon-europe-2026/",
     "pubDate": "2026-09-29T07:30:04+00:00"
-  },
-  {
-    "title": "How to build an app on Azure SQL with an AI coding agent",
-    "link": "https://devblogs.microsoft.com/azure-sql/build-app-azure-sql-ai-coding-agent/",
-    "pubDate": "2026-09-29T07:05:16+00:00"
-  },
-  {
-    "title": "MSSQL Extension for VS Code: New Getting Started Page, Agent skills, SQL Formatter, and more",
-    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-september2026/",
-    "pubDate": "2026-09-28T17:27:53+00:00"
   }
 ]
