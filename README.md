@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-05 simonwillison</small>  
+<small>[Quoting Felix Rieseberg](https://simonwillison.net/2026/Oct/5/felix-rieseberg/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-05 third-bit</small>  
 <small>[Introducing Frml](https://third-bit.com/2026/10/05/frml-intro/)</small>
 
@@ -66,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-01 azuresqlblog</small>  
 <small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-01 simonwillison</small>  
-<small>[pwasm 0.2a0](https://simonwillison.net/2026/Oct/1/pwasm/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-01 pragmaticengineer</small>  
 <small>[The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/)</small>
