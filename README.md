@@ -5,6 +5,30 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
+<small>[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
+<small>[Part 3: Knowing when your agent doesn’t know: the confidence layer](https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
+<small>[Part 2: Evals as a deployment gate — and how to know when they drift](https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
+<small>[Part 1: Make your AI agents boring: the determinism layer](https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
+<small>[Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)](https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-07 techtrenches</small>  
+<small>[Nobody Remembers the Last Future](https://techtrenches.dev/p/nobody-remembers-the-last-future)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-07 github-ai</small>  
+<small>[Secret protection must scale with software](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-07 visualstudiomagazine</small>  
+<small>[Microsoft Rebuilds C# Dev Kit 11.0 for Faster Loads, Lower Memory Use](https://visualstudiomagazine.com/articles/2026/10/07/microsoft-rebuilds-c-dev-kit-110-for-faster-loads-lower-memory-use.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
 <small>[Anti-Patterns in Software Blogging](https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 bencane</small>  
@@ -27,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-06 simonwillison</small>  
 <small>[Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-06 simonwillison</small>  
-<small>[llm-openai-decisions 0.1a0](https://simonwillison.net/2026/Oct/6/llm-openai-decisions/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Try SqlClient’s new connection pool for faster parallel connections](https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/)</small>
@@ -57,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 visualstudio</small>  
 <small>[What Would You Build in Azure If You Didn’t Have to Ask for a Budget First?](https://devblogs.microsoft.com/visualstudio/what-would-you-build-in-azure-if-you-didnt-have-to-ask-for-a-budget-first/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-06 stackoverflow</small>  
-<small>[The results of the 2026 Developer Survey are here!](https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-06 andrewlock</small>  
 <small>[Stripping extra dependencies in .NET NativeAOT apps using linker substitutions](https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/)</small>
@@ -103,9 +121,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-10-02 terriblesoftware</small>  
 <small>[The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-02 stackoverflow</small>  
-<small>[Constraints that make developers faster](https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-02 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 1: What is DSC and what changed?](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-1-what.html)</small>
 
@@ -127,9 +142,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-01 visualstudiomagazine</small>  
 <small>[Microsoft Makes the Case for VSLive! in the AI Era](https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-01 stackoverflow</small>  
-<small>[A look back before we look forward: A Developer Survey retrospective](https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-10-01 devlead</small>  
 <small>[Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>
 
@@ -144,12 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-30 techtrenches</small>  
 <small>[The First AI Model That Scared Me Can’t Write a Sentence](https://techtrenches.dev/p/the-first-ai-model-that-scared-me)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-30 visualstudiomagazine</small>  
-<small>[Visual Studio September Update Expands BYOM, Adds NuGet Fixes](https://visualstudiomagazine.com/articles/2026/09/30/visual-studio-september-update-expands-byom-adds-nuget-fixes.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-09-30 stackoverflow</small>  
-<small>[Organizations need decision-grade knowledge. AI makes it urgent.](https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-30 martinfowler</small>  
 <small>[Principles for effective slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)</small>
@@ -229,9 +235,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
 <small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
-<small>[AI-powered fuzzing with the GitHub Security Lab Taskflow Agent](https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-24 pragmaticengineer</small>  
 <small>[The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-12 lucumr-pocoo</small>  
 <small>[P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-09-12 steven-giesel</small>  
-<small>[Quack Quack: Duck-Typing in C# with Interceptors](https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809)</small>
 

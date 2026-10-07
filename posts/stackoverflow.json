@@ -1,27 +1,27 @@
 [
   {
+    "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+    "link": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
+    "pubDate": "2026-10-07T20:40:29+00:00"
+  },
+  {
+    "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+    "link": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
+    "pubDate": "2026-10-07T20:31:12+00:00"
+  },
+  {
+    "title": "Part 1: Make your AI agents boring: the determinism layer",
+    "link": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/",
+    "pubDate": "2026-10-07T20:14:49+00:00"
+  },
+  {
+    "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+    "link": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/",
+    "pubDate": "2026-10-07T20:03:47+00:00"
+  },
+  {
     "title": "Tales from the 2026 Developer Survey results",
     "link": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
     "pubDate": "2026-10-06T16:01:47+00:00"
-  },
-  {
-    "title": "The results of the 2026 Developer Survey are here!",
-    "link": "https://stackoverflow.blog/2026/10/06/the-results-of-the-2026-developer-survey-are-here/",
-    "pubDate": "2026-10-06T14:00:00+00:00"
-  },
-  {
-    "title": "Constraints that make developers faster",
-    "link": "https://stackoverflow.blog/2026/10/02/constraints-that-make-developers-faster/",
-    "pubDate": "2026-10-02T07:40:00+00:00"
-  },
-  {
-    "title": "A look back before we look forward: A Developer Survey retrospective",
-    "link": "https://stackoverflow.blog/2026/10/01/a-look-back-before-we-look-forward-a-developer-survey-retrospective/",
-    "pubDate": "2026-10-01T14:47:33+00:00"
-  },
-  {
-    "title": "Organizations need decision-grade knowledge. AI makes it urgent.",
-    "link": "https://stackoverflow.blog/2026/09/30/organizations-need-decision-grade-knowledge-ai-makes-it-urgent/",
-    "pubDate": "2026-09-30T16:01:40+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Secret protection must scale with software",
+    "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+    "pubDate": "2026-10-07T17:45:34+00:00"
+  },
+  {
     "title": "ReviewBench: An open benchmark for AI code review",
     "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
     "pubDate": "2026-10-05T15:59:40+00:00"
@@ -18,10 +23,5 @@
     "title": "When chat is the wrong UI",
     "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
     "pubDate": "2026-09-24T20:00:00+00:00"
-  },
-  {
-    "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-    "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-    "pubDate": "2026-09-24T18:26:12+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Microsoft Rebuilds C# Dev Kit 11.0 for Faster Loads, Lower Memory Use",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/07/microsoft-rebuilds-c-dev-kit-110-for-faster-loads-lower-memory-use.aspx",
+    "pubDate": "2026-10-07T16:43:00+00:00"
+  },
+  {
     "title": "Stack Overflow 2026 Survey: VS Code Leads, Visual Studio Takes Third",
     "link": "https://visualstudiomagazine.com/articles/2026/10/06/stack-overflow-2026-survey-vs-code-leads-visual-studio-takes-third.aspx",
     "pubDate": "2026-10-06T15:22:00+00:00"
@@ -18,10 +23,5 @@
     "title": "VS Code 1.140 Expands Agent Coordination Across Folders and Machines",
     "link": "https://visualstudiomagazine.com/articles/2026/09/30/vs-code-1-140-expands-agent-coordination-across-folders-and-machines.aspx",
     "pubDate": "2026-09-30T19:51:00+00:00"
-  },
-  {
-    "title": "Visual Studio September Update Expands BYOM, Adds NuGet Fixes",
-    "link": "https://visualstudiomagazine.com/articles/2026/09/30/visual-studio-september-update-expands-byom-adds-nuget-fixes.aspx",
-    "pubDate": "2026-09-30T16:09:00+00:00"
   }
 ]

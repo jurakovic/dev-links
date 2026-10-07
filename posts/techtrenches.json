@@ -1,5 +1,10 @@
 [
   {
+    "title": "Nobody Remembers the Last Future",
+    "link": "https://techtrenches.dev/p/nobody-remembers-the-last-future",
+    "pubDate": "2026-10-07T18:38:49+00:00"
+  },
+  {
     "title": "The First AI Model That Scared Me Can’t Write a Sentence",
     "link": "https://techtrenches.dev/p/the-first-ai-model-that-scared-me",
     "pubDate": "2026-09-30T17:13:46+00:00"
@@ -18,10 +23,5 @@
     "title": "OpenAI Changed the AGI Deal. Then Declared the Era.",
     "link": "https://techtrenches.dev/p/openai-agi-deal-era",
     "pubDate": "2026-09-08T18:36:57+00:00"
-  },
-  {
-    "title": "I Shipped 17 PRs Without Writing Code",
-    "link": "https://techtrenches.dev/p/shipping-ai-written-code",
-    "pubDate": "2026-09-01T15:40:30+00:00"
   }
 ]
