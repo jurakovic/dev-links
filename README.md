@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 bencane</small>  
+<small>[System Design pro-tip: force yourself to create a viable second design.](https://bencane.com/posts/2026-10-07-viable-second-design/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-07 bartwullems</small>  
+<small>[Getting started with DSC 3.0 – Part 4: Configuring IIS with multiple resources and dependsOn](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-4.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
+<small>[Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-07 seangoedecke</small>  
 <small>[How to read code](https://seangoedecke.com/how-to-read-code/)</small>
 
@@ -27,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Upcoming SQL and AI Events to Put on Your Calendar](https://devblogs.microsoft.com/azure-sql/sql-calendar-2027q4/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-06 simonwillison</small>  
-<small>[EmbeddingGemma 2](https://simonwillison.net/2026/Oct/6/hn-49983751/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 dotnet</small>  
 <small>[A faster, lighter C# Dev Kit](https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/)</small>
@@ -147,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-30 bencane</small>  
 <small>[One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.](https://bencane.com/posts/2026-09-30-protobuf-contract-management/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-09-30 bartwullems</small>  
-<small>[Upgrading Dependency Track from v4 to v5](https://bartwullems.blogspot.com/2026/09/upgrading-dependency-track-from-v4-to-v5.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-30 azuresqlblog</small>  
 <small>[Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-10 pragmaticengineer</small>  
 <small>[The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 terriblesoftware</small>  
-<small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
 

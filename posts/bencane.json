@@ -1,5 +1,10 @@
 [
   {
+    "title": "System Design pro-tip: force yourself to create a viable second design.",
+    "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
+    "pubDate": "2026-10-07T10:04:03+00:00"
+  },
+  {
     "title": "One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.",
     "link": "https://bencane.com/posts/2026-09-30-protobuf-contract-management/",
     "pubDate": "2026-09-30T10:01:38+00:00"
@@ -18,10 +23,5 @@
     "title": "Mishandling concurrency is one of the most common root causes of software bugs",
     "link": "https://bencane.com/posts/2026-09-09-mishandling-concurrency/",
     "pubDate": "2026-09-09T10:03:48+00:00"
-  },
-  {
-    "title": "At what point does better performance stop being worth it?",
-    "link": "https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/",
-    "pubDate": "2026-09-02T10:04:05+00:00"
   }
 ]

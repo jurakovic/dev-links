@@ -1,5 +1,10 @@
 [
   {
+    "title": "Getting started with DSC 3.0 – Part 4: Configuring IIS with multiple resources and dependsOn",
+    "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-4.html",
+    "pubDate": "2026-10-07T05:22:00+00:00"
+  },
+  {
     "title": "Getting started with DSC 3.0 – Part 3: Capturing the current state with dsc config export",
     "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-3.html",
     "pubDate": "2026-10-06T05:17:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Don't know what to do while your agents work? The VS Code team has an answer.",
     "link": "https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html",
     "pubDate": "2026-10-01T07:00:00+00:00"
-  },
-  {
-    "title": "Upgrading Dependency Track from v4 to v5",
-    "link": "https://bartwullems.blogspot.com/2026/09/upgrading-dependency-track-from-v4-to-v5.html",
-    "pubDate": "2026-09-30T05:00:00+00:00"
   }
 ]
