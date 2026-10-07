@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to read code",
+    "link": "https://seangoedecke.com/how-to-read-code/",
+    "pubDate": "2026-10-07T04:01:38+00:00"
+  },
+  {
     "title": "Superpersuasion will look like bribery",
     "link": "https://seangoedecke.com/superpersuasion-will-look-like-bribery/",
     "pubDate": "2026-10-03T04:01:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Human-AI partnerships are for alignment, not capability",
     "link": "https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
     "pubDate": "2026-09-27T10:01:33+00:00"
-  },
-  {
-    "title": "Advice to a beginning software engineer",
-    "link": "https://seangoedecke.com/advice-to-a-beginning-software-engineer/",
-    "pubDate": "2026-09-26T04:01:33+00:00"
   }
 ]
