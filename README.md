@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-08 db-berater</small>  
+<small>[CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!](https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-08 bartwullems</small>  
+<small>[Getting started with DSC 3.0 – Part 5: Guarding your configuration with Assertion](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-5.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
 <small>[Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)</small>
 
@@ -147,9 +153,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-10-01 devlead</small>  
 <small>[Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-01 bartwullems</small>  
-<small>[Don't know what to do while your agents work? The VS Code team has an answer.](https://bartwullems.blogspot.com/2026/10/dont-know-what-to-do-while-your-agents.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-30 third-bit</small>  
 <small>[12 Tips for Making Your Startup Fail](https://third-bit.com/2026/09/30/startup-failure-tips/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-13 erikej</small>  
 <small>[DacDeploySkip update: simpler CI and publish profile support](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-12 lucumr-pocoo</small>  
-<small>[P(doom)](https://lucumr.pocoo.org/2026/9/12/pdoom/)</small>
 
