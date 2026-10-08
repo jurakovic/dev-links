@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
+<small>[Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
 <small>[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
@@ -34,6 +37,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 bencane</small>  
 <small>[System Design pro-tip: force yourself to create a viable second design.](https://bencane.com/posts/2026-10-07-viable-second-design/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-07 azuresqlblog</small>  
+<small>[Azure SQL Database is retiring Always Encrypted with Intel SGX enclaves](https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-database-is-retiring-always-encrypted-with-intel-sgx/ba-p/4556565)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 microservices</small>  
 <small>[Architecting for uncertainty - part 3: GenAI as an amplifier](http://microservices.io//post/architecture/2026/10/07/architecting-for-uncertainty-part-3.html)</small>
 
@@ -48,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
 <small>[OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-06 simonwillison</small>  
-<small>[Quoting Victoria Kim](https://simonwillison.net/2026/Oct/6/victoria-kim/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Try SqlClient’s new connection pool for faster parallel connections](https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/)</small>
@@ -204,9 +207,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 dotnet</small>  
 <small>[Build Agentic UI with the new Blazor AI components](https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 azuresqlblog</small>  
-<small>[Announcing the public preview of Local Time Zone Support in Azure SQL Database](https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
