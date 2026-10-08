@@ -1,5 +1,10 @@
 [
   {
+    "title": "A green exit code is not evidence that the work happened",
+    "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+    "pubDate": "2026-10-08T14:00:00+00:00"
+  },
+  {
     "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
     "link": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
     "pubDate": "2026-10-07T20:40:29+00:00"
@@ -18,10 +23,5 @@
     "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
     "link": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/",
     "pubDate": "2026-10-07T20:03:47+00:00"
-  },
-  {
-    "title": "Tales from the 2026 Developer Survey results",
-    "link": "https://stackoverflow.blog/2026/10/06/tales-from-the-2026-developer-survey-results/",
-    "pubDate": "2026-10-06T16:01:47+00:00"
   }
 ]
