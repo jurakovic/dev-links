@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Carson Gross",
+    "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
+    "pubDate": "2026-10-08T21:05:44+00:00"
+  },
+  {
     "title": "Quoting Ben Affleck",
     "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
     "pubDate": "2026-10-07T23:14:58+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Jake Boggan",
     "link": "https://simonwillison.net/2026/Oct/7/jake-boggan/",
     "pubDate": "2026-10-07T04:47:55+00:00"
-  },
-  {
-    "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-    "link": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-    "pubDate": "2026-10-07T00:16:45+00:00"
   }
 ]

@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-08 simonwillison</small>  
+<small>[Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-08 stackoverflow</small>  
+<small>[Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath](https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-08 pragmaticengineer</small>  
+<small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-10-08 swizec</small>  
 <small>[When code is cheap, judgement becomes the job](https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job)</small>
 
@@ -26,16 +35,13 @@
 <small>[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
+<small>[Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory](https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
 <small>[Part 3: Knowing when your agent doesn’t know: the confidence layer](https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
 <small>[Part 2: Evals as a deployment gate — and how to know when they drift](https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
-<small>[Part 1: Make your AI agents boring: the determinism layer](https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
-<small>[Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)](https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-07 techtrenches</small>  
 <small>[Nobody Remembers the Last Future](https://techtrenches.dev/p/nobody-remembers-the-last-future)</small>
@@ -66,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-07 seangoedecke</small>  
 <small>[How to read code](https://seangoedecke.com/how-to-read-code/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
-<small>[OpenAI “rogue” agent activities found on Wikimedia projects](https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Try SqlClient’s new connection pool for faster parallel connections](https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
 <small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-14 rickstrahl</small>  
-<small>[Protecting File Access in the wwwroot Folder in ASP.NET](https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET)</small>
 
