@@ -1,5 +1,10 @@
 [
   {
+    "title": "A Treatise on Model Oriented Programming Languages",
+    "link": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/",
+    "pubDate": "2026-10-09T14:59:04+00:00"
+  },
+  {
     "title": "Taking a look under your agent’s hood",
     "link": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
     "pubDate": "2026-10-09T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "A green exit code is not evidence that the work happened",
     "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
     "pubDate": "2026-10-08T14:00:00+00:00"
-  },
-  {
-    "title": "Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory",
-    "link": "https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/",
-    "pubDate": "2026-10-07T20:48:55+00:00"
   }
 ]
