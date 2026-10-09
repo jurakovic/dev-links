@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-09 third-bit</small>  
+<small>[Anniversary Thoughts](https://third-bit.com/2026/10/09/anniversary/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
+<small>[Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
+<small>[A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-09 stackoverflow</small>  
 <small>[Taking a look under your agent’s hood](https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/)</small>
 
@@ -43,11 +52,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-08 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 5: Guarding your configuration with Assertion](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-5.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
-<small>[Quoting Ben Affleck](https://simonwillison.net/2026/Oct/7/ben-affleck/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
-<small>[Claude Haiku 5.5](https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-08 third-bit</small>  
+<small>[Scalar Code in Frml](https://third-bit.com/2026/10/08/frml-scalar/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-07 stackoverflow</small>  
 <small>[Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory](https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/)</small>
@@ -226,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-09-27 seangoedecke</small>  
 <small>[Human-AI partnerships are for alignment, not capability](https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-25 third-bit</small>  
-<small>[Student Projects](https://third-bit.com/2026/09/25/student-projects/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-09-25 codinghorror</small>  
 <small>[If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)</small>
 
@@ -270,9 +273,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
 <small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-09-20 third-bit</small>  
-<small>[IO for Software Design](https://third-bit.com/2026/09/20/io-for-sd/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-09-20 lethain</small>  
 <small>[Trying the Software Factory pattern.](https://lethain.com/software-factory-experiment/)</small>

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quoting Matthew Green",
+    "link": "https://simonwillison.net/2026/Oct/9/matthew-green/",
+    "pubDate": "2026-10-09T15:02:29+00:00"
+  },
+  {
+    "title": "A new feature for my blog, built using my voice",
+    "link": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+    "pubDate": "2026-10-09T12:54:06+00:00"
+  },
+  {
     "title": "ttok 1.0",
     "link": "https://simonwillison.net/2026/Oct/9/ttok/",
     "pubDate": "2026-10-09T00:34:43+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Carson Gross",
     "link": "https://simonwillison.net/2026/Oct/8/carson-gross/",
     "pubDate": "2026-10-08T21:05:44+00:00"
-  },
-  {
-    "title": "Quoting Ben Affleck",
-    "link": "https://simonwillison.net/2026/Oct/7/ben-affleck/",
-    "pubDate": "2026-10-07T23:14:58+00:00"
-  },
-  {
-    "title": "Claude Haiku 5.5",
-    "link": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-    "pubDate": "2026-10-07T20:56:21+00:00"
   }
 ]

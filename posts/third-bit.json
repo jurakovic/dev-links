@@ -1,5 +1,15 @@
 [
   {
+    "title": "Anniversary Thoughts",
+    "link": "https://third-bit.com/2026/10/09/anniversary/",
+    "pubDate": "2026-10-09T16:01:27+00:00"
+  },
+  {
+    "title": "Scalar Code in Frml",
+    "link": "https://third-bit.com/2026/10/08/frml-scalar/",
+    "pubDate": "2026-10-08T00:00:00+00:00"
+  },
+  {
     "title": "Introducing Frml",
     "link": "https://third-bit.com/2026/10/05/frml-intro/",
     "pubDate": "2026-10-05T22:01:42+00:00"
@@ -13,15 +23,5 @@
     "title": "12 Tips for Making Your Startup Fail",
     "link": "https://third-bit.com/2026/09/30/startup-failure-tips/",
     "pubDate": "2026-09-30T22:01:39+00:00"
-  },
-  {
-    "title": "Student Projects",
-    "link": "https://third-bit.com/2026/09/25/student-projects/",
-    "pubDate": "2026-09-25T22:01:34+00:00"
-  },
-  {
-    "title": "IO for Software Design",
-    "link": "https://third-bit.com/2026/09/20/io-for-sd/",
-    "pubDate": "2026-09-20T22:01:47+00:00"
   }
 ]
