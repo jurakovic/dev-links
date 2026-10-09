@@ -1,5 +1,15 @@
 [
   {
+    "title": "Taking a look under your agent’s hood",
+    "link": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
+    "pubDate": "2026-10-09T07:40:00+00:00"
+  },
+  {
+    "title": "Production-grade LLMs and agents: a field guide",
+    "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/",
+    "pubDate": "2026-10-08T20:22:56+00:00"
+  },
+  {
     "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
     "link": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/",
     "pubDate": "2026-10-08T20:08:53+00:00"
@@ -13,15 +23,5 @@
     "title": "Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory",
     "link": "https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/",
     "pubDate": "2026-10-07T20:48:55+00:00"
-  },
-  {
-    "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
-    "link": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
-    "pubDate": "2026-10-07T20:40:29+00:00"
-  },
-  {
-    "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
-    "link": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
-    "pubDate": "2026-10-07T20:31:12+00:00"
   }
 ]
