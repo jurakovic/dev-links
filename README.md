@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-08 simonwillison</small>  
+<small>[ttok 0.4](https://simonwillison.net/2026/Oct/8/ttok/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-08 simonwillison</small>  
 <small>[Quoting Carson Gross](https://simonwillison.net/2026/Oct/8/carson-gross/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-08 stackoverflow</small>  
@@ -66,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-07 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 4: Configuring IIS with multiple resources and dependsOn](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-4.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-07 simonwillison</small>  
-<small>[Quoting Jake Boggan](https://simonwillison.net/2026/Oct/7/jake-boggan/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-07 seangoedecke</small>  
 <small>[How to read code](https://seangoedecke.com/how-to-read-code/)</small>
