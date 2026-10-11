@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-11 simonwillison</small>  
+<small>[Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-10 simonwillison</small>  
+<small>[Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
 <small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
 
@@ -25,17 +31,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-09 stackoverflow</small>  
 <small>[A Treatise on Model Oriented Programming Languages](https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
-<small>[A new feature for my blog, built using my voice](https://simonwillison.net/2026/Oct/9/built-using-my-voice/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-09 stackoverflow</small>  
 <small>[Taking a look under your agent’s hood](https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-09 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 6: Using the DSC MCP server with your AI coding tools](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-6.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
-<small>[ttok 1.0](https://simonwillison.net/2026/Oct/9/ttok/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-08 stackoverflow</small>  
 <small>[Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/)</small>
