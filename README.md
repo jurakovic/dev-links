@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-11 seangoedecke</small>  
+<small>[Don't diagnose your opponents](https://seangoedecke.com/dont-diagnose-your-opponents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-11 simonwillison</small>  
 <small>[Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)</small>
 
@@ -153,9 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-10-02 terriblesoftware</small>  
 <small>[The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-02 seangoedecke</small>  
-<small>[Do not build the LLM torture factory](https://seangoedecke.com/do-not-build-the-llm-torture-factory/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-02 azure-sql</small>  
 <small>[Data API builder 2.1.5: JSON and Vector Data Type Support, and More](https://devblogs.microsoft.com/azure-sql/data-api-builder-2-1-5-json-and-vector-data-type-support-and-more/)</small>
