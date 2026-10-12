@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
+<small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-12 simonwillison</small>  
+<small>[Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-12 github-ai</small>  
+<small>[GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
+<small>[Durable Task in the Real World: What Problems Does It Actually Solve?](https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-12 stackoverflow</small>  
 <small>[Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/)</small>
 
@@ -13,11 +25,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-12 seangoedecke</small>  
 <small>[Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-12 microservices</small>  
+<small>[What is a pattern, and what isn't?](http://microservices.io//post/architecture/2026/10/12/what-is-a-pattern.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-12 bartwullems</small>  
 <small>[Tuning the default logging providers in ASP.NET Core through configuration](https://bartwullems.blogspot.com/2026/10/tuning-default-logging-providers-in.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-10-12 damienbod</small>  
 <small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-12 simonwillison</small>  
+<small>[datasette-ports 0.4](https://simonwillison.net/2026/Oct/12/datasette-ports/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-11 seangoedecke</small>  
 <small>[Don't diagnose your opponents](https://seangoedecke.com/dont-diagnose-your-opponents/)</small>
@@ -37,14 +55,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-10 simonwillison</small>  
 <small>[Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
-<small>[Deno is joining Cloudflare](https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-09 third-bit</small>  
 <small>[Anniversary Thoughts](https://third-bit.com/2026/10/09/anniversary/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-09 simonwillison</small>  
-<small>[Quoting Matthew Green](https://simonwillison.net/2026/Oct/9/matthew-green/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-09 stackoverflow</small>  
 <small>[A Treatise on Model Oriented Programming Languages](https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/)</small>
@@ -166,9 +178,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-02 azure-sql</small>  
 <small>[Data API builder 2.1.5: JSON and Vector Data Type Support, and More](https://devblogs.microsoft.com/azure-sql/data-api-builder-2-1-5-json-and-vector-data-type-support-and-more/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-02 third-bit</small>  
-<small>[Heroes and Villains](https://third-bit.com/2026/10/02/heroes-and-villains/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-01 azuresqlblog</small>  
 <small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
 
@@ -253,17 +262,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-eng</small>  
 <small>[Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-24 github-ai</small>  
-<small>[When chat is the wrong UI](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-24 pragmaticengineer</small>  
 <small>[The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
 <small>[Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-23 dotnet</small>  
-<small>[Microsoft is updating its author-signing certificate starting September 23, 2026](https://devblogs.microsoft.com/dotnet/microsoft-author-signing-certificate-update-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-23 github-eng</small>  
 <small>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-16 bencane</small>  
 <small>[Some architecture principles should be rules. Others should be guidelines.](https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
-<small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
 
