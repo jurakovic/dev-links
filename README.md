@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-12 stackoverflow</small>  
+<small>[Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-12 techtrenches</small>  
+<small>[America Runs at Catastrophic Yield](https://techtrenches.dev/p/america-runs-at-catastrophic-yield)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-12 seangoedecke</small>  
 <small>[Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/)</small>
 
@@ -63,9 +69,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-08 erikej</small>  
 <small>[The SQL Project preplan script - the missing step in DACPAC publishing](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-08 stackoverflow</small>  
-<small>[A green exit code is not evidence that the work happened](https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-08 db-berater</small>  
 <small>[CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!](https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/)</small>
@@ -146,7 +149,7 @@
 <small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-04 developertoarchitect</small>  
-<small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](http://www.developertoarchitect.com/lessons/lesson224.html)</small>
+<small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](https://developertoarchitect.com/lessons/lesson224.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
 <small>[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-15 visualstudio</small>  
 <small>[Today I will… improve test coverage](https://devblogs.microsoft.com/visualstudio/today-i-will-improve-test-coverage/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 andrewlock</small>  
-<small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
 
