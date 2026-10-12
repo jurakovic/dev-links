@@ -1,5 +1,10 @@
 [
   {
+    "title": "Use multiple schemes in an ASP.NET Core Web application",
+    "link": "https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/",
+    "pubDate": "2026-10-12T05:22:15+00:00"
+  },
+  {
     "title": "Using multiline Parameters for Aspire and ASP.NET Core with user secrets and Azure default deployments",
     "link": "https://damienbod.com/2026/09/01/using-multiline-parameters-for-aspire-and-asp-net-core-with-user-secrets-and-azure-default-deployments/",
     "pubDate": "2026-09-01T06:02:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server",
     "link": "https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/",
     "pubDate": "2026-07-27T06:22:55+00:00"
-  },
-  {
-    "title": "Software development and AI",
-    "link": "https://damienbod.com/2026/06/15/software-development-and-ai/",
-    "pubDate": "2026-06-15T04:59:28+00:00"
   }
 ]

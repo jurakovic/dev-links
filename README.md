@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-12 seangoedecke</small>  
+<small>[Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-12 bartwullems</small>  
+<small>[Tuning the default logging providers in ASP.NET Core through configuration](https://bartwullems.blogspot.com/2026/10/tuning-default-logging-providers-in.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-10-12 damienbod</small>  
+<small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-11 seangoedecke</small>  
 <small>[Don't diagnose your opponents](https://seangoedecke.com/dont-diagnose-your-opponents/)</small>
 
@@ -133,17 +142,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-05 github-ai</small>  
 <small>[ReviewBench: An open benchmark for AI code review](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-05 bartwullems</small>  
-<small>[Getting started with DSC 3.0 – Part 2: Managing a Windows service end to end](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-2.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-05 martinfowler</small>  
 <small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-04 developertoarchitect</small>  
 <small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](http://www.developertoarchitect.com/lessons/lesson224.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
-<small>[Shipping is the foundation](https://seangoedecke.com/shipping-is-the-foundation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
 <small>[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 andrewlock</small>  
 <small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 lucumr-pocoo</small>  
-<small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
 
