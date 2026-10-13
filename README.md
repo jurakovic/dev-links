@@ -16,6 +16,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
 <small>[Durable Task in the Real World: What Problems Does It Actually Solve?](https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-12 simonwillison</small>  
+<small>[web-edit 0.1a0](https://simonwillison.net/2026/Oct/12/web-edit/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-12 stackoverflow</small>  
 <small>[Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-10 seangoedecke</small>  
 <small>[Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-10 simonwillison</small>  
-<small>[Quoting The New York Times](https://simonwillison.net/2026/Oct/10/the-new-york-times/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-09 third-bit</small>  
 <small>[Anniversary Thoughts](https://third-bit.com/2026/10/09/anniversary/)</small>
