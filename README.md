@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-13 third-bit</small>  
+<small>[Arrays in Frml](https://third-bit.com/2026/10/13/frml-arrays/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-13 dotnet</small>  
+<small>[Announcing .NET 11 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-13 github-ai</small>  
+<small>[GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-13 stackoverflow</small>  
+<small>[Why Your Sandbox Never Quite Matches Production (And Why That's Fine)](https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
 <small>[The Craft of Practitioner Voice](https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice)</small>
 
@@ -12,6 +24,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
 <small>[Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-13 visualstudiomagazine</small>  
+<small>[VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security](https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-13 stackoverflow</small>  
 <small>[Keep calm and call clone with Rust](https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/)</small>
@@ -22,11 +37,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
 <small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
+<small>[.NET and .NET Framework October 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-12 simonwillison</small>  
 <small>[Hello Python 3.15, goodbye 3.10, and now I can use 3.11](https://simonwillison.net/2026/Oct/12/python-3-15/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-12 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-12 simonwillison</small>  
+<small>[Profiling web-edit with Python 3.15: flame graphs and source heatmaps](https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
 <small>[Durable Task in the Real World: What Problems Does It Actually Solve?](https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/)</small>
@@ -58,9 +79,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-11 seangoedecke</small>  
 <small>[Don't diagnose your opponents](https://seangoedecke.com/dont-diagnose-your-opponents/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-11 simonwillison</small>  
-<small>[Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
 <small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
 
@@ -78,9 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-09 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 6: Using the DSC MCP server with your AI coding tools](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-6.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-08 stackoverflow</small>  
-<small>[Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-08 pragmaticengineer</small>  
 <small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>
@@ -151,9 +166,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-06 andrewlock</small>  
 <small>[Stripping extra dependencies in .NET NativeAOT apps using linker substitutions](https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-05 third-bit</small>  
-<small>[Introducing Frml](https://third-bit.com/2026/10/05/frml-intro/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-05 visualstudiomagazine</small>  
 <small>[AI Plugins Gain Ground, Microsoft Shows How](https://visualstudiomagazine.com/articles/2026/10/05/microsoft-shows-how-plugins-package-ai-workflows-as-industry-adoption-expands.aspx)</small>
 
@@ -195,9 +207,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-10-01 devlead</small>  
 <small>[Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-09-30 visualstudiomagazine</small>  
-<small>[VS Code 1.140 Expands Agent Coordination Across Folders and Machines](https://visualstudiomagazine.com/articles/2026/09/30/vs-code-1-140-expands-agent-coordination-across-folders-and-machines.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-30 techtrenches</small>  
 <small>[The First AI Model That Scared Me Can’t Write a Sentence](https://techtrenches.dev/p/the-first-ai-model-that-scared-me)</small>
@@ -244,20 +253,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
 <small>[SQL Server on Azure Local is now generally available](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-28 dotnet</small>  
-<small>[Build Agentic UI with the new Blazor AI components](https://devblogs.microsoft.com/dotnet/build-agentic-ui-blazor/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-09-25 codinghorror</small>  
 <small>[If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-ai</small>  
-<small>[GitHub Copilot app for Beginners: How to build custom workflows with canvases](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-25 dotnet</small>  
-<small>[AG-UI Protocol now has a first-class .NET SDK](https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-09-25 netflix</small>  
 <small>[Trading a Cloud Identity for Your Own: Workload Attestation on Managed Compute](https://netflixtechblog.com/trading-a-cloud-identity-for-your-own-workload-attestation-on-managed-compute-516d5a29b252?source=rss----2615bd06b42e---4)</small>

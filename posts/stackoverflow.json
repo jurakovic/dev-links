@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+    "link": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
+    "pubDate": "2026-10-13T16:35:35+00:00"
+  },
+  {
     "title": "Keep calm and call clone with Rust",
     "link": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/",
     "pubDate": "2026-10-13T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Taking a look under your agent’s hood",
     "link": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
     "pubDate": "2026-10-09T07:40:00+00:00"
-  },
-  {
-    "title": "Production-grade LLMs and agents: a field guide",
-    "link": "https://stackoverflow.blog/2026/10/08/production-grade-llms-and-agents-a-field-guide/",
-    "pubDate": "2026-10-08T20:22:56+00:00"
   }
 ]

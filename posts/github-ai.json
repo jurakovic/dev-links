@@ -1,5 +1,10 @@
 [
   {
+    "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+    "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+    "pubDate": "2026-10-13T17:56:33+00:00"
+  },
+  {
     "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
     "pubDate": "2026-10-12T17:43:59+00:00"
@@ -18,10 +23,5 @@
     "title": "AI is changing developer work. Here are three skills to strengthen.",
     "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
     "pubDate": "2026-10-02T15:00:00+00:00"
-  },
-  {
-    "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-    "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-    "pubDate": "2026-09-25T18:00:00+00:00"
   }
 ]

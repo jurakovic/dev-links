@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx",
+    "pubDate": "2026-10-13T08:30:00+00:00"
+  },
+  {
     "title": "Microsoft Rebuilds C# Dev Kit 11.0 for Faster Loads, Lower Memory Use",
     "link": "https://visualstudiomagazine.com/articles/2026/10/07/microsoft-rebuilds-c-dev-kit-110-for-faster-loads-lower-memory-use.aspx",
     "pubDate": "2026-10-07T16:43:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft Makes the Case for VSLive! in the AI Era",
     "link": "https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx",
     "pubDate": "2026-10-01T15:56:00+00:00"
-  },
-  {
-    "title": "VS Code 1.140 Expands Agent Coordination Across Folders and Machines",
-    "link": "https://visualstudiomagazine.com/articles/2026/09/30/vs-code-1-140-expands-agent-coordination-across-folders-and-machines.aspx",
-    "pubDate": "2026-09-30T19:51:00+00:00"
   }
 ]
