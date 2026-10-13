@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cleaning up old log files with Serilog",
+    "link": "https://bartwullems.blogspot.com/2026/10/cleaning-up-old-log-files-with-serilog.html",
+    "pubDate": "2026-10-13T05:59:00+00:00"
+  },
+  {
     "title": "Tuning the default logging providers in ASP.NET Core through configuration",
     "link": "https://bartwullems.blogspot.com/2026/10/tuning-default-logging-providers-in.html",
     "pubDate": "2026-10-12T05:44:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Getting started with DSC 3.0 – Part 4: Configuring IIS with multiple resources and dependsOn",
     "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-4.html",
     "pubDate": "2026-10-07T05:22:00+00:00"
-  },
-  {
-    "title": "Getting started with DSC 3.0 – Part 3: Capturing the current state with dsc config export",
-    "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-3.html",
-    "pubDate": "2026-10-06T05:17:00+00:00"
   }
 ]
