@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
+<small>[The Craft of Practitioner Voice](https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
+<small>[Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
+<small>[Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-13 stackoverflow</small>  
 <small>[Keep calm and call clone with Rust](https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/)</small>
 
@@ -51,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-11 simonwillison</small>  
 <small>[Dwarf Fortress uses version control now](https://simonwillison.net/2026/Oct/11/dwarf-fortress/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-10 simonwillison</small>  
-<small>[Python 3.15.0 added to actions/python-versions](https://simonwillison.net/2026/Oct/10/python-actions/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
 <small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
@@ -226,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-29 martinfowler</small>  
 <small>[Bliki: Sensible Default](https://martinfowler.com/bliki/SensibleDefault.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-29 martinfowler</small>  
-<small>[Fragments: September 29](https://martinfowler.com/fragments/2026-09-29.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
 <small>[Architecting with LLMs: use plain old code when you can, LLMs when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
@@ -264,9 +267,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-24 pragmaticengineer</small>  
 <small>[The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-24 martinfowler</small>  
-<small>[Fragments: September 24](https://martinfowler.com/fragments/2026-09-24.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-23 github-eng</small>  
 <small>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/)</small>

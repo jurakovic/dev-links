@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Geoffrey Huntley",
+    "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+    "pubDate": "2026-10-13T13:32:00+00:00"
+  },
+  {
     "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
     "link": "https://simonwillison.net/2026/Oct/12/python-3-15/",
     "pubDate": "2026-10-12T18:15:38+00:00"
@@ -18,10 +23,5 @@
     "title": "Dwarf Fortress uses version control now",
     "link": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
     "pubDate": "2026-10-11T00:52:37+00:00"
-  },
-  {
-    "title": "Python 3.15.0 added to actions/python-versions",
-    "link": "https://simonwillison.net/2026/Oct/10/python-actions/",
-    "pubDate": "2026-10-10T23:58:04+00:00"
   }
 ]
