@@ -1,5 +1,10 @@
 [
   {
+    "title": "Build your slide template",
+    "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
+    "pubDate": "2026-10-14T14:20:00+00:00"
+  },
+  {
     "title": "The Craft of Practitioner Voice",
     "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
     "pubDate": "2026-10-13T14:06:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Principles for effective slides",
     "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
     "pubDate": "2026-09-30T14:14:00+00:00"
-  },
-  {
-    "title": "Bliki: Sensible Default",
-    "link": "https://martinfowler.com/bliki/SensibleDefault.html",
-    "pubDate": "2026-09-29T13:43:00+00:00"
   }
 ]

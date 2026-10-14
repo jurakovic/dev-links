@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-14 third-bit</small>  
+<small>[Built-in Functions in Frml](https://third-bit.com/2026/10/14/frml-builtin/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-14 martinfowler</small>  
+<small>[Build your slide template](https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-14 visualstudio</small>  
+<small>[New Tools, New Workflows and the Value of the Visual Studio Subscription: What We Learned at VSLive! San Diego](https://devblogs.microsoft.com/visualstudio/new-tools-new-workflows-and-the-value-of-the-visual-studio-subscription-what-we-learned-at-vslive-san-diego/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-14 bencane</small>  
 <small>[Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.](https://bencane.com/posts/2026-10-14-waiting-adds-latency/)</small>
 
@@ -117,9 +126,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-08 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 5: Guarding your configuration with Assertion](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-5.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-08 third-bit</small>  
-<small>[Scalar Code in Frml](https://third-bit.com/2026/10/08/frml-scalar/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-07 techtrenches</small>  
 <small>[Nobody Remembers the Last Future](https://techtrenches.dev/p/nobody-remembers-the-last-future)</small>
@@ -241,9 +247,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
 <small>[DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-29 martinfowler</small>  
-<small>[Bliki: Sensible Default](https://martinfowler.com/bliki/SensibleDefault.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
 <small>[Architecting with LLMs: use plain old code when you can, LLMs when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-16 techtrenches</small>  
 <small>[The Aggressor Asks for Terms](https://techtrenches.dev/p/the-aggressor-asks-for-terms)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
-<small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
 
