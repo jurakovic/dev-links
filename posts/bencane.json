@@ -1,5 +1,10 @@
 [
   {
+    "title": "Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.",
+    "link": "https://bencane.com/posts/2026-10-14-waiting-adds-latency/",
+    "pubDate": "2026-10-14T10:01:41+00:00"
+  },
+  {
     "title": "System Design pro-tip: force yourself to create a viable second design.",
     "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
     "pubDate": "2026-10-07T10:04:03+00:00"
@@ -18,10 +23,5 @@
     "title": "Some architecture principles should be rules. Others should be guidelines.",
     "link": "https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/",
     "pubDate": "2026-09-16T10:03:51+00:00"
-  },
-  {
-    "title": "Mishandling concurrency is one of the most common root causes of software bugs",
-    "link": "https://bencane.com/posts/2026-09-09-mishandling-concurrency/",
-    "pubDate": "2026-09-09T10:03:48+00:00"
   }
 ]

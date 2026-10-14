@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-14 bencane</small>  
+<small>[Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.](https://bencane.com/posts/2026-10-14-waiting-adds-latency/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-14 bartwullems</small>  
+<small>[Using FileLifecycleHooks in Serilog](https://bartwullems.blogspot.com/2026/10/using-filelifecyclehooks-in-serilog.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
 <small>[Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)</small>
 
@@ -132,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 microservices</small>  
 <small>[Architecting for uncertainty - part 3: GenAI as an amplifier](http://microservices.io//post/architecture/2026/10/07/architecting-for-uncertainty-part-3.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-07 bartwullems</small>  
-<small>[Getting started with DSC 3.0 – Part 4: Configuring IIS with multiple resources and dependsOn](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-4.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-07 seangoedecke</small>  
 <small>[How to read code](https://seangoedecke.com/how-to-read-code/)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-16 visualstudio</small>  
 <small>[AI Is Changing How We Code. It’s Also Changing How We Learn.](https://devblogs.microsoft.com/visualstudio/ai-is-changing-how-we-code-its-also-changing-how-we-learn/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-16 bencane</small>  
-<small>[Some architecture principles should be rules. Others should be guidelines.](https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/)</small>
 
