@@ -1,5 +1,10 @@
 [
   {
+    "title": ".NET 11 RC2 Adds Post-Quantum Crypto, .NET MAUI C# UI and NuGet Controls",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/14/net-11-rc2-adds-post-quantum-crypto-maui-csharp-ui-and-nuget-controls.aspx",
+    "pubDate": "2026-10-14T18:01:00+00:00"
+  },
+  {
     "title": "VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security",
     "link": "https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx",
     "pubDate": "2026-10-13T08:30:00+00:00"
@@ -18,10 +23,5 @@
     "title": "AI Plugins Gain Ground, Microsoft Shows How",
     "link": "https://visualstudiomagazine.com/articles/2026/10/05/microsoft-shows-how-plugins-package-ai-workflows-as-industry-adoption-expands.aspx",
     "pubDate": "2026-10-05T17:43:00+00:00"
-  },
-  {
-    "title": "Microsoft Makes the Case for VSLive! in the AI Era",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/01/microsoft-makes-the-case-for-vslive-in-the-ai-era.aspx",
-    "pubDate": "2026-10-01T15:56:00+00:00"
   }
 ]

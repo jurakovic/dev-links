@@ -1,5 +1,10 @@
 [
   {
+    "title": "AI is mass decompiling games. That's both awesome and scary.",
+    "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
+    "pubDate": "2026-10-14T16:26:53+00:00"
+  },
+  {
     "title": "Redesigning source control at Anthropic",
     "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
     "pubDate": "2026-10-13T23:00:06+00:00"
@@ -18,10 +23,5 @@
     "title": "web-edit 0.1a1",
     "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
     "pubDate": "2026-10-13T01:40:05+00:00"
-  },
-  {
-    "title": "llm-meta-ai 0.2",
-    "link": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-    "pubDate": "2026-10-12T23:58:46+00:00"
   }
 ]
