@@ -1,5 +1,10 @@
 [
   {
+    "title": "From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html",
+    "pubDate": "2026-10-15T10:01:20+00:00"
+  },
+  {
     "title": "The SQL Project preplan script - the missing step in DACPAC publishing",
     "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html",
     "pubDate": "2026-10-08T16:01:27+00:00"
@@ -18,10 +23,5 @@
     "title": "Launch: T-SQL Analyzer live analysis now in VS Code",
     "link": "https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html",
     "pubDate": "2026-08-12T16:01:15+00:00"
-  },
-  {
-    "title": "From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)",
-    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html",
-    "pubDate": "2026-08-06T18:00:00+00:00"
   }
 ]

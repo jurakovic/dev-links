@@ -1,5 +1,10 @@
 [
   {
+    "title": "Getting visual explanations from your coding agent with the show-me skill",
+    "link": "https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html",
+    "pubDate": "2026-10-15T05:30:00+00:00"
+  },
+  {
     "title": "Using FileLifecycleHooks in Serilog",
     "link": "https://bartwullems.blogspot.com/2026/10/using-filelifecyclehooks-in-serilog.html",
     "pubDate": "2026-10-14T05:09:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Getting started with DSC 3.0 – Part 6: Using the DSC MCP server with your AI coding tools",
     "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-6.html",
     "pubDate": "2026-10-09T05:33:00+00:00"
-  },
-  {
-    "title": "Getting started with DSC 3.0 – Part 5: Guarding your configuration with Assertion",
-    "link": "https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-5.html",
-    "pubDate": "2026-10-08T04:51:00+00:00"
   }
 ]

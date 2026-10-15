@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 erikej</small>  
+<small>[From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-15 bartwullems</small>  
+<small>[Getting visual explanations from your coding agent with the show-me skill](https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-15 azure-sql</small>  
+<small>[Canada’s 2026 time zone updates: guidance for Microsoft SQL](https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-14 simonwillison</small>  
 <small>[Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/)</small>
 
@@ -145,9 +154,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-08 db-berater</small>  
 <small>[CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!](https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-08 bartwullems</small>  
-<small>[Getting started with DSC 3.0 – Part 5: Guarding your configuration with Assertion](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-5.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-07 techtrenches</small>  
 <small>[Nobody Remembers the Last Future](https://techtrenches.dev/p/nobody-remembers-the-last-future)</small>
 
@@ -262,9 +268,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 visualstudio</small>  
 <small>[Visual Studio September Update – Power Your Workflow with Your Model](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azure-sql</small>  
-<small>[DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
 <small>[Architecting with LLMs and other ML models: use plain old code when you can, a model when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 visualstudio</small>  
 <small>[Today I will… debug a production crash](https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-22 andrewlock</small>  
-<small>[Experimental support for Device Bound Session Credentials (DBSC) in ASP.NET Core: Exploring the .NET 11 preview - Part 8](https://andrewlock.net/exploring-the-dotnet-11-preview-8-experimental-support-for-device-bound-session-credentials-in-aspnetcore/)</small>
 
