@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-15 third-bit</small>  
+<small>[Frml: Next Steps](https://third-bit.com/2026/10/15/frml-complete/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
+<small>[Why your platform team shouldn't build an AI context layer (even though they probably could)](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-15 visualstudio</small>  
+<small>[Stop waiting on a failed build](https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-15 martinfowler</small>  
+<small>[When Software Meets Hardware](https://martinfowler.com/articles/software-meets-hardware.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
+<small>[Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 erikej</small>  
 <small>[From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>
 
@@ -27,6 +42,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-14 netflix</small>  
 <small>[TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads](https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-10-14 dbreunig</small>  
+<small>[Context Inertia: When Agents Won’t Let Go](https://www.dbreunig.com/2026/10/14/context-inertia.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-14 netflix</small>  
 <small>[Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II](https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4)</small>
@@ -82,9 +100,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
 <small>[Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
-<small>[Quoting Geoffrey Huntley](https://simonwillison.net/2026/Oct/13/geoffrey-huntley/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-13 visualstudiomagazine</small>  
 <small>[VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security](https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx)</small>
 
@@ -132,12 +147,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-10 seangoedecke</small>  
 <small>[Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-09 third-bit</small>  
-<small>[Anniversary Thoughts](https://third-bit.com/2026/10/09/anniversary/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-09 stackoverflow</small>  
-<small>[A Treatise on Model Oriented Programming Languages](https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-09 bartwullems</small>  
 <small>[Getting started with DSC 3.0 – Part 6: Using the DSC MCP server with your AI coding tools](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-6.html)</small>
@@ -244,9 +253,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-30 techtrenches</small>  
 <small>[The First AI Model That Scared Me Can’t Write a Sentence](https://techtrenches.dev/p/the-first-ai-model-that-scared-me)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-09-30 martinfowler</small>  
-<small>[Principles for effective slides](https://martinfowler.com/articles/never-send-slides/slide-principles.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-30 bencane</small>  
 <small>[One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.](https://bencane.com/posts/2026-09-30-protobuf-contract-management/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-23 techtrenches</small>  
 <small>[Nine Mostly Basic Intrusions, and One Zero-Day Escape](https://techtrenches.dev/p/nine-basic-intrusions-one-zero-day-escape)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-23 bencane</small>  
-<small>[Message queues are great for handing off work, but how do you know the work actually happens?](https://bencane.com/posts/2026-09-23-message-completion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-22 visualstudio</small>  
-<small>[Today I will… debug a production crash](https://devblogs.microsoft.com/visualstudio/today-i-will-debug-a-production-crash/)</small>
 

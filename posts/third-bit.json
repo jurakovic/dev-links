@@ -1,5 +1,10 @@
 [
   {
+    "title": "Frml: Next Steps",
+    "link": "https://third-bit.com/2026/10/15/frml-complete/",
+    "pubDate": "2026-10-15T16:01:47+00:00"
+  },
+  {
     "title": "Built-in Functions in Frml",
     "link": "https://third-bit.com/2026/10/14/frml-builtin/",
     "pubDate": "2026-10-14T16:01:44+00:00"
@@ -18,10 +23,5 @@
     "title": "Contracts in Frml",
     "link": "https://third-bit.com/2026/10/10/frml-contracts/",
     "pubDate": "2026-10-10T16:01:26+00:00"
-  },
-  {
-    "title": "Anniversary Thoughts",
-    "link": "https://third-bit.com/2026/10/09/anniversary/",
-    "pubDate": "2026-10-09T16:01:27+00:00"
   }
 ]

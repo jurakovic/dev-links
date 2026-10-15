@@ -1,5 +1,10 @@
 [
   {
+    "title": "When Software Meets Hardware",
+    "link": "https://martinfowler.com/articles/software-meets-hardware.html",
+    "pubDate": "2026-10-15T13:25:00+00:00"
+  },
+  {
     "title": "Build your slide template",
     "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
     "pubDate": "2026-10-14T14:20:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fragments: October  4",
     "link": "https://martinfowler.com/fragments/2026-10-04.html",
     "pubDate": "2026-10-05T04:28:00+00:00"
-  },
-  {
-    "title": "Principles for effective slides",
-    "link": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
-    "pubDate": "2026-09-30T14:14:00+00:00"
   }
 ]

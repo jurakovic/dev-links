@@ -1,5 +1,10 @@
 [
   {
+    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+    "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "pubDate": "2026-10-15T13:04:03+00:00"
+  },
+  {
     "title": "Tree Appreciator",
     "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
     "pubDate": "2026-10-14T21:23:01+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-gemini 0.35",
     "link": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
     "pubDate": "2026-10-13T22:28:54+00:00"
-  },
-  {
-    "title": "Quoting Geoffrey Huntley",
-    "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
-    "pubDate": "2026-10-13T13:32:00+00:00"
   }
 ]
