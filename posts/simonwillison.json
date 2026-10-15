@@ -1,5 +1,10 @@
 [
   {
+    "title": "Tree Appreciator",
+    "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
+    "pubDate": "2026-10-14T21:23:01+00:00"
+  },
+  {
     "title": "AI is mass decompiling games. That's both awesome and scary.",
     "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
     "pubDate": "2026-10-14T16:26:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Geoffrey Huntley",
     "link": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
     "pubDate": "2026-10-13T13:32:00+00:00"
-  },
-  {
-    "title": "web-edit 0.1a1",
-    "link": "https://simonwillison.net/2026/Oct/13/web-edit/",
-    "pubDate": "2026-10-13T01:40:05+00:00"
   }
 ]

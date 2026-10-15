@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-14 simonwillison</small>  
+<small>[Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-14 netflix</small>  
 <small>[Integrating Netflix’s Foundation Model into Personalization applications](https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4)</small>
 
@@ -81,9 +84,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-13 bartwullems</small>  
 <small>[Cleaning up old log files with Serilog](https://bartwullems.blogspot.com/2026/10/cleaning-up-old-log-files-with-serilog.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
-<small>[web-edit 0.1a1](https://simonwillison.net/2026/Oct/13/web-edit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
 <small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
@@ -266,7 +266,7 @@
 <small>[DiskANN Vector Index and Vector Search Are Now Generally Available in Azure SQL](https://devblogs.microsoft.com/azure-sql/diskann-vector-index-search-are-now-generally-available-in-azure-sql/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
-<small>[Architecting with LLMs: use plain old code when you can, LLMs when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
+<small>[Architecting with LLMs and other ML models: use plain old code when you can, a model when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
