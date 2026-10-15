@@ -4,11 +4,26 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
+<small>[Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-15 github-eng</small>  
+<small>[Staying Evergreen: How we automated secure access and repo hygiene in a shared org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-15 pragmaticengineer</small>  
+<small>[The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-15 dotnet</small>  
+<small>[Introducing dotnetup: A toolchain manager for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnetup/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-15 third-bit</small>  
 <small>[Frml: Next Steps](https://third-bit.com/2026/10/15/frml-complete/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
 <small>[Why your platform team shouldn't build an AI context layer (even though they probably could)](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-15 visualstudiomagazine</small>  
+<small>[VS Code 1.142 Brings AI Canvases, Tighter Agent Controls and a New Model Picker](https://visualstudiomagazine.com/articles/2026/10/15/vs-code-1,-d-,142-brings-ai-canvases-tighter-agent-controls-and-a-new-model-picker.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-15 visualstudio</small>  
 <small>[Stop waiting on a failed build](https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/)</small>
@@ -78,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
 <small>[Redesigning source control at Anthropic](https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-13 simonwillison</small>  
-<small>[llm-gemini 0.35](https://simonwillison.net/2026/Oct/13/llm-gemini/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-13 third-bit</small>  
 <small>[Arrays in Frml](https://third-bit.com/2026/10/13/frml-arrays/)</small>
@@ -211,12 +223,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-06 andrewlock</small>  
 <small>[Stripping extra dependencies in .NET NativeAOT apps using linker substitutions](https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-05 visualstudiomagazine</small>  
-<small>[AI Plugins Gain Ground, Microsoft Shows How](https://visualstudiomagazine.com/articles/2026/10/05/microsoft-shows-how-plugins-package-ai-workflows-as-industry-adoption-expands.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-05 dotnet</small>  
-<small>[UWP and WinUI 3 apps: UI testing with MSTest](https://devblogs.microsoft.com/dotnet/testing-uwp-and-winui-3-apps-with-mstest/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-05 github-ai</small>  
 <small>[ReviewBench: An open benchmark for AI code review](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-24 pragmaticengineer</small>  
 <small>[The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-23 github-eng</small>  
-<small>[Rendering huge pull requests in the GitHub Copilot app](https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-09-23 techtrenches</small>  
-<small>[Nine Mostly Basic Intrusions, and One Zero-Day Escape](https://techtrenches.dev/p/nine-basic-intrusions-one-zero-day-escape)</small>
 
