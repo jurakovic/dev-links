@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-16 netflix</small>  
+<small>[Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-16 db-berater</small>  
 <small>[Nonfoldable User Defined Functions](https://www.db-berater.de/2026/10/sql-server-constant-folding-how-a-scalar-udf-can-break-query-performance/)</small>
 
@@ -79,9 +82,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-10-14 dbreunig</small>  
 <small>[Context Inertia: When Agents Won’t Let Go](https://www.dbreunig.com/2026/10/14/context-inertia.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-14 netflix</small>  
-<small>[Behind the Scenes: Evolving Netflix’s Ads Event Pipeline for Live — Part II](https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-14 github-eng</small>  
 <small>[From 2,500 requests to 24: Rebuilding star history without the stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/)</small>
 
@@ -89,7 +89,7 @@
 <small>[.NET 11 RC2 Adds Post-Quantum Crypto, .NET MAUI C# UI and NuGet Controls](https://visualstudiomagazine.com/articles/2026/10/14/net-11-rc2-adds-post-quantum-crypto-maui-csharp-ui-and-nuget-controls.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-14 stackoverflow</small>  
-<small>[Your next job doesn’t have a title yet: Emerging role skills Q&A with Corey Hymel of Andela](https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/)</small>
+<small>[Your next job doesn’t have a title yet: Emerging role skills Q&A with Cory Hymel of Andela](https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-14 simonwillison</small>  
 <small>[AI is mass decompiling games. That's both awesome and scary.](https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/)</small>
