@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-16 db-berater</small>  
+<small>[Nonfoldable User Defined Functions](https://www.db-berater.de/2026/10/sql-server-constant-folding-how-a-scalar-udf-can-break-query-performance/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-16 seangoedecke</small>  
 <small>[AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-27 paulhammant</small>  
 <small>[BTRON, OLE, OpenDoc and the Web: Why Dumb Won](https://paulhammant.com/2026/09/27/btron-ole-opendoc-and-why-the-dumb-web-won/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-09-25 codinghorror</small>  
-<small>[If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)</small>
 
