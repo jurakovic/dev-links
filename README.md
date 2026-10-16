@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-16 seangoedecke</small>  
+<small>[AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-16 erikej</small>  
+<small>[sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac](https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-16 stackoverflow</small>  
+<small>[AI says you’re right, formal methods say you’re wrong](https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
+<small>[MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
 <small>[Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/)</small>
 
@@ -118,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-13 visualstudiomagazine</small>  
 <small>[VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security](https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-13 stackoverflow</small>  
-<small>[Keep calm and call clone with Rust](https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-13 bartwullems</small>  
 <small>[Cleaning up old log files with Serilog](https://bartwullems.blogspot.com/2026/10/cleaning-up-old-log-files-with-serilog.html)</small>
 
@@ -135,9 +144,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
 <small>[Durable Task in the Real World: What Problems Does It Actually Solve?](https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-12 stackoverflow</small>  
-<small>[Beyond the AI noise: How Stack Overflow is rethinking tech hiring](https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-12 techtrenches</small>  
 <small>[America Runs at Catastrophic Yield](https://techtrenches.dev/p/america-runs-at-catastrophic-yield)</small>
@@ -235,9 +241,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-04 developertoarchitect</small>  
 <small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](https://developertoarchitect.com/lessons/lesson224.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-03 seangoedecke</small>  
-<small>[Superpersuasion will look like bribery](https://seangoedecke.com/superpersuasion-will-look-like-bribery/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-10-02 rickstrahl</small>  
 <small>[Back to Basics: CSS @container Filtering](https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-09-25 codinghorror</small>  
 <small>[If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-eng</small>  
-<small>[Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)</small>
 
