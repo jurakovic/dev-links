@@ -37,6 +37,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 erikej</small>  
 <small>[From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 microservices</small>  
+<small>[Architecting for uncertainty - part 4: Team Topologies organizes for fast flow](http://microservices.io//post/architecture/2026/10/15/architecting-for-uncertainty-part-4-team-topologies.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-15 bartwullems</small>  
 <small>[Getting visual explanations from your coding agent with the show-me skill](https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-09-25 github-eng</small>  
 <small>[Improving site performance by shipping more CSS](https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-09-24 pragmaticengineer</small>  
-<small>[The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/)</small>
 
