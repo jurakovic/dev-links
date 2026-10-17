@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+    "link": "https://simonwillison.net/2026/Oct/16/code-review/",
+    "pubDate": "2026-10-16T22:06:37+00:00"
+  },
+  {
     "title": "Chirp Pong",
     "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
     "pubDate": "2026-10-15T19:47:52+00:00"
@@ -10,18 +15,13 @@
     "pubDate": "2026-10-15T13:04:03+00:00"
   },
   {
+    "title": "LaTeX renderer",
+    "link": "https://simonwillison.net/2026/Oct/15/latex/",
+    "pubDate": "2026-10-15T02:07:28+00:00"
+  },
+  {
     "title": "Tree Appreciator",
     "link": "https://simonwillison.net/2026/Oct/14/tree-appreciator/",
     "pubDate": "2026-10-14T21:23:01+00:00"
-  },
-  {
-    "title": "AI is mass decompiling games. That's both awesome and scary.",
-    "link": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
-    "pubDate": "2026-10-14T16:26:53+00:00"
-  },
-  {
-    "title": "Redesigning source control at Anthropic",
-    "link": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-    "pubDate": "2026-10-13T23:00:06+00:00"
   }
 ]
