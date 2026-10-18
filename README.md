@@ -4,8 +4,17 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-18 seangoedecke</small>  
+<small>[Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-10-17 swizec</small>  
 <small>[No more tech debt](https://swizec.com/blog/no-more-tech-debt)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-17 simonwillison</small>  
+<small>[Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-17 simonwillison</small>  
+<small>[web-edit 0.1a2](https://simonwillison.net/2026/Oct/17/web-edit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-10-17 lethain</small>  
 <small>[Speeding up code review with \`small-change\`](https://lethain.com/small-changes/)</small>
@@ -72,12 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-15 azure-sql</small>  
 <small>[Canada’s 2026 time zone updates: guidance for Microsoft SQL](https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
-<small>[LaTeX renderer](https://simonwillison.net/2026/Oct/15/latex/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-14 simonwillison</small>  
-<small>[Tree Appreciator](https://simonwillison.net/2026/Oct/14/tree-appreciator/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-14 netflix</small>  
 <small>[Integrating Netflix’s Foundation Model into Personalization applications](https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4)</small>
@@ -210,9 +213,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 microservices</small>  
 <small>[Architecting for uncertainty - part 3: GenAI as an amplifier](http://microservices.io//post/architecture/2026/10/07/architecting-for-uncertainty-part-3.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-07 seangoedecke</small>  
-<small>[How to read code](https://seangoedecke.com/how-to-read-code/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Try SqlClient’s new connection pool for faster parallel connections](https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/)</small>
