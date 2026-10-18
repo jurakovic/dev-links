@@ -22,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-16 simonwillison</small>  
 <small>[Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang](https://simonwillison.net/2026/Oct/16/code-review/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-16 developertoarchitect</small>  
+<small>[Lesson 225 - Architecture Narrative Act One (November 2, 2026)](http://www.developertoarchitect.com/lessons/lesson225.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-16 netflix</small>  
 <small>[Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4)</small>
 
@@ -36,6 +39,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-16 stackoverflow</small>  
 <small>[AI says you’re right, formal methods say you’re wrong](https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-16 bartwullems</small>  
+<small>[Getting all your claims in the ID token with the ADFS allatclaims scope](https://bartwullems.blogspot.com/2026/10/getting-all-your-claims-in-id-token.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
 <small>[MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/)</small>
@@ -181,9 +187,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-10 seangoedecke</small>  
 <small>[Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-09 bartwullems</small>  
-<small>[Getting started with DSC 3.0 – Part 6: Using the DSC MCP server with your AI coding tools](https://bartwullems.blogspot.com/2026/10/getting-started-with-dsc-30-part-6.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-08 pragmaticengineer</small>  
 <small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>
 
@@ -248,7 +251,7 @@
 <small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-04 developertoarchitect</small>  
-<small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](https://developertoarchitect.com/lessons/lesson224.html)</small>
+<small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](http://www.developertoarchitect.com/lessons/lesson224.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-10-02 rickstrahl</small>  
 <small>[Back to Basics: CSS @container Filtering](https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering)</small>
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 microsoft-sql-server</small>  
-<small>[SQLCon Barcelona 2026: Advancing SQL with greater control, scale, and intelligence](https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/)</small>
 
