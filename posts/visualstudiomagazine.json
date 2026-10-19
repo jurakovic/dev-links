@@ -1,5 +1,15 @@
 [
   {
+    "title": "Microsoft Foundry Update Brings Scheduled AI Agents, Smarter Tool Use and GPT-6 Models",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/19/microsoft-foundry-update-brings-scheduled-ai-agents-smarter-tool-use-and-gpt-6-models.aspx",
+    "pubDate": "2026-10-19T19:34:00+00:00"
+  },
+  {
+    "title": "Microsoft's WinUI Gallery Embraces the Experimental",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/19/microsofts-winui-gallery-embraces-the-experimental.aspx",
+    "pubDate": "2026-10-19T18:46:00+00:00"
+  },
+  {
     "title": "VS Code 1.142 Brings AI Canvases, Tighter Agent Controls and a New Model Picker",
     "link": "https://visualstudiomagazine.com/articles/2026/10/15/vs-code-1,-d-,142-brings-ai-canvases-tighter-agent-controls-and-a-new-model-picker.aspx",
     "pubDate": "2026-10-15T15:58:00+00:00"
@@ -13,15 +23,5 @@
     "title": "VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security",
     "link": "https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx",
     "pubDate": "2026-10-13T08:30:00+00:00"
-  },
-  {
-    "title": "Microsoft Rebuilds C# Dev Kit 11.0 for Faster Loads, Lower Memory Use",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/07/microsoft-rebuilds-c-dev-kit-110-for-faster-loads-lower-memory-use.aspx",
-    "pubDate": "2026-10-07T16:43:00+00:00"
-  },
-  {
-    "title": "Stack Overflow 2026 Survey: VS Code Leads, Visual Studio Takes Third",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/06/stack-overflow-2026-survey-vs-code-leads-visual-studio-takes-third.aspx",
-    "pubDate": "2026-10-06T15:22:00+00:00"
   }
 ]

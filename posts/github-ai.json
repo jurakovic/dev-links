@@ -1,5 +1,10 @@
 [
   {
+    "title": "How to continue a GitHub Copilot app session in VS Code",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+    "pubDate": "2026-10-19T18:47:22+00:00"
+  },
+  {
     "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
     "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
     "pubDate": "2026-10-13T17:56:33+00:00"
@@ -18,10 +23,5 @@
     "title": "ReviewBench: An open benchmark for AI code review",
     "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
     "pubDate": "2026-10-05T15:59:40+00:00"
-  },
-  {
-    "title": "AI is changing developer work. Here are three skills to strengthen.",
-    "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-    "pubDate": "2026-10-02T15:00:00+00:00"
   }
 ]

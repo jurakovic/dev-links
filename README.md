@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-19 visualstudiomagazine</small>  
+<small>[Microsoft Foundry Update Brings Scheduled AI Agents, Smarter Tool Use and GPT-6 Models](https://visualstudiomagazine.com/articles/2026/10/19/microsoft-foundry-update-brings-scheduled-ai-agents-smarter-tool-use-and-gpt-6-models.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-19 github-ai</small>  
+<small>[How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-19 visualstudiomagazine</small>  
+<small>[Microsoft's WinUI Gallery Embraces the Experimental](https://visualstudiomagazine.com/articles/2026/10/19/microsofts-winui-gallery-embraces-the-experimental.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-19 dotnet</small>  
+<small>[Get Your .NET MAUI App Ready for Xcode 27](https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-19 dotnet</small>  
 <small>[Bring Your Own Model to the GitHub Copilot SDK with C#](https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/)</small>
 
@@ -172,9 +184,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-12 github-ai</small>  
 <small>[GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
-<small>[Durable Task in the Real World: What Problems Does It Actually Solve?](https://devblogs.microsoft.com/dotnet/durable-task-in-the-real-world/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-12 techtrenches</small>  
 <small>[America Runs at Catastrophic Yield](https://techtrenches.dev/p/america-runs-at-catastrophic-yield)</small>
 
@@ -211,9 +220,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-07 github-ai</small>  
 <small>[Secret protection must scale with software](https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-07 visualstudiomagazine</small>  
-<small>[Microsoft Rebuilds C# Dev Kit 11.0 for Faster Loads, Lower Memory Use](https://visualstudiomagazine.com/articles/2026/10/07/microsoft-rebuilds-c-dev-kit-110-for-faster-loads-lower-memory-use.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 bencane</small>  
 <small>[System Design pro-tip: force yourself to create a viable second design.](https://bencane.com/posts/2026-10-07-viable-second-design/)</small>
 
@@ -238,9 +244,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-10-06 lucumr-pocoo</small>  
 <small>[What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-06 visualstudiomagazine</small>  
-<small>[Stack Overflow 2026 Survey: VS Code Leads, Visual Studio Takes Third](https://visualstudiomagazine.com/articles/2026/10/06/stack-overflow-2026-survey-vs-code-leads-visual-studio-takes-third.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 visualstudio</small>  
 <small>[What Would You Build in Azure If You Didn’t Have to Ask for a Budget First?](https://devblogs.microsoft.com/visualstudio/what-would-you-build-in-azure-if-you-didnt-have-to-ask-for-a-budget-first/)</small>
 
@@ -258,9 +261,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-10-02 rickstrahl</small>  
 <small>[Back to Basics: CSS @container Filtering](https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-02 github-ai</small>  
-<small>[AI is changing developer work. Here are three skills to strengthen.](https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-10-02 terriblesoftware</small>  
 <small>[The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)</small>
