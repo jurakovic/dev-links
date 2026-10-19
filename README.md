@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-19 dotnet</small>  
+<small>[Bring Your Own Model to the GitHub Copilot SDK with C#](https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-19 stackoverflow</small>  
+<small>[Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-19 visualstudio</small>  
+<small>[Organize and revisit tabs with the keyboard](https://devblogs.microsoft.com/visualstudio/organize-and-revisit-tabs-with-the-keyboard/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-19 bartwullems</small>  
 <small>[Using the ADFS userinfo endpoint instead of allatclaims](https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html)</small>
 
@@ -142,9 +151,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-13 github-ai</small>  
 <small>[GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-13 stackoverflow</small>  
-<small>[Why Your Sandbox Never Quite Matches Production (And Why That's Fine)](https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
 <small>[The Craft of Practitioner Voice](https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice)</small>
 
@@ -226,9 +232,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[Upcoming SQL and AI Events to Put on Your Calendar](https://devblogs.microsoft.com/azure-sql/sql-calendar-2027q4/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 dotnet</small>  
-<small>[A faster, lighter C# Dev Kit](https://devblogs.microsoft.com/dotnet/faster-lighter-csharp-dev-kit/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-06 azure-sql</small>  
 <small>[PostgreSQL to SQL Field Notes: Connections](https://devblogs.microsoft.com/azure-sql/pg-to-sql-connections/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
 <small>[Architecting with LLMs and other ML models: use plain old code when you can, a model when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
-<small>[MI link support for multiple databases in an Always On availability group for SQL Server (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546)</small>
 
