@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-19 seangoedecke</small>  
+<small>[What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-18 simonwillison</small>  
+<small>[llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-18 simonwillison</small>  
+<small>[llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-18 seangoedecke</small>  
 <small>[Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/)</small>
 
@@ -46,9 +55,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
 <small>[MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
-<small>[Chirp Pong](https://simonwillison.net/2026/Oct/15/chirp-pong/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-15 github-eng</small>  
 <small>[Staying Evergreen: How we automated secure access and repo hygiene in a shared org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/)</small>
 
@@ -72,9 +78,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-15 martinfowler</small>  
 <small>[When Software Meets Hardware](https://martinfowler.com/articles/software-meets-hardware.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-15 simonwillison</small>  
-<small>[Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO](https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 erikej</small>  
 <small>[From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>
@@ -183,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
 <small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-10 seangoedecke</small>  
-<small>[Software's centaur age may last decades](https://seangoedecke.com/softwares-centaur-age-may-last-decades/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-08 pragmaticengineer</small>  
 <small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>

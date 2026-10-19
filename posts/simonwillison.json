@@ -1,5 +1,15 @@
 [
   {
+    "title": "llm-tools-datasette 0.1.1",
+    "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "pubDate": "2026-10-18T23:43:09+00:00"
+  },
+  {
+    "title": "llm-echo 0.5",
+    "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "pubDate": "2026-10-18T23:16:16+00:00"
+  },
+  {
     "title": "Inline rendering with document​.currentScript",
     "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
     "pubDate": "2026-10-17T21:11:12+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
     "link": "https://simonwillison.net/2026/Oct/16/code-review/",
     "pubDate": "2026-10-16T22:06:37+00:00"
-  },
-  {
-    "title": "Chirp Pong",
-    "link": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-    "pubDate": "2026-10-15T19:47:52+00:00"
-  },
-  {
-    "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-    "link": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "pubDate": "2026-10-15T13:04:03+00:00"
   }
 ]
