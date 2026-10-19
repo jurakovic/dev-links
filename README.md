@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-19 bartwullems</small>  
+<small>[Using the ADFS userinfo endpoint instead of allatclaims](https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-19 seangoedecke</small>  
 <small>[What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/)</small>
 
@@ -174,9 +177,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-12 microservices</small>  
 <small>[What is a pattern, and what isn't?](http://microservices.io//post/architecture/2026/10/12/what-is-a-pattern.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-12 bartwullems</small>  
-<small>[Tuning the default logging providers in ASP.NET Core through configuration](https://bartwullems.blogspot.com/2026/10/tuning-default-logging-providers-in.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-10-12 damienbod</small>  
 <small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>
