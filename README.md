@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-20 paulhammant</small>  
+<small>[Coding Agents Guess Which Tests to Run. They Should Look It Up.](https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-20 stackoverflow</small>  
+<small>[Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-10-20 steven-giesel</small>  
+<small>[A personal note: I built a running App for iOS and watchOS](https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-20 bartwullems</small>  
+<small>[Napkin math: know what your system should do before you measure it](https://bartwullems.blogspot.com/2026/10/napkin-math-know-what-your-system.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-20 seangoedecke</small>  
 <small>[Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/)</small>
 
@@ -139,9 +151,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-14 visualstudiomagazine</small>  
 <small>[.NET 11 RC2 Adds Post-Quantum Crypto, .NET MAUI C# UI and NuGet Controls](https://visualstudiomagazine.com/articles/2026/10/14/net-11-rc2-adds-post-quantum-crypto-maui-csharp-ui-and-nuget-controls.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-14 stackoverflow</small>  
-<small>[Your next job doesn’t have a title yet: Emerging role skills Q&A with Cory Hymel of Andela](https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-14 third-bit</small>  
 <small>[Built-in Functions in Frml](https://third-bit.com/2026/10/14/frml-builtin/)</small>
 
@@ -174,9 +183,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-13 visualstudiomagazine</small>  
 <small>[VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security](https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-13 bartwullems</small>  
-<small>[Cleaning up old log files with Serilog](https://bartwullems.blogspot.com/2026/10/cleaning-up-old-log-files-with-serilog.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
 <small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-09-29 minidump</small>  
 <small>[The hidden trap of fixed buffers in C#](https://minidump.net/the-hidden-trap-of-fixed-buffers-in-csharp/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 visualstudio</small>  
-<small>[Visual Studio September Update – Power Your Workflow with Your Model](https://devblogs.microsoft.com/visualstudio/visual-studio-september-update-power-your-workflow-with-your-model/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 microservices</small>  
-<small>[Architecting with LLMs and other ML models: use plain old code when you can, a model when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 

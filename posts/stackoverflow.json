@@ -1,5 +1,10 @@
 [
   {
+    "title": "Don't forget about the UI for AI",
+    "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
+    "pubDate": "2026-10-20T07:40:00+00:00"
+  },
+  {
     "title": "Production-grade LLMs and agents: a field guide",
     "link": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
     "pubDate": "2026-10-19T15:32:01+00:00"
@@ -18,10 +23,5 @@
     "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
     "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
     "pubDate": "2026-10-15T16:01:45+00:00"
-  },
-  {
-    "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Cory Hymel of Andela",
-    "link": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
-    "pubDate": "2026-10-14T17:12:00+00:00"
   }
 ]
