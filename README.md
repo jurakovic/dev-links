@@ -4,8 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-20 db-berater</small>  
+<small>[SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t](https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-20 paulhammant</small>  
 <small>[Coding Agents Guess Which Tests to Run. They Should Look It Up.](https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-20 andrewlock</small>  
+<small>[An introduction to Compact Binary Object Notation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-20 stackoverflow</small>  
 <small>[Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/)</small>
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 lucumr-pocoo</small>  
 <small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-29 swizec</small>  
-<small>[Why I'm excited about Jev-like classifiers](https://swizec.com/blog/why-im-excited-about-jev-like-classifiers)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-09-29 minidump</small>  
-<small>[The hidden trap of fixed buffers in C#](https://minidump.net/the-hidden-trap-of-fixed-buffers-in-csharp/)</small>
 
