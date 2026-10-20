@@ -415,6 +415,11 @@ Steve Yegge
 <https://github.com/steveyegge>  
 <div id="steve-yegge" class="blog-posts"></div>
 
+![icon](favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
+
 ![icon](favicons/addyosmani.png)
 Addy Osmani  
 <https://addyosmani.com/blog>  
@@ -494,6 +499,12 @@ Damien Bowden | Software Engineering
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
 
+![icon](favicons/blank.png)
+Shay Rojansky  
+<https://www.roji.org>  
+<https://github.com/roji>  
+<div id="roji" class="blog-posts"></div>
+
 ![icon](favicons/barretblake.png)
 Barret Blake  
 <https://barretblake.dev/posts/development/>  
@@ -517,12 +528,6 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 <div id="erikej" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Shay Rojansky  
-<https://www.roji.org>  
-<https://github.com/roji>  
-<div id="roji" class="blog-posts"></div>
 
 ![icon](favicons/db-berater.png)
 Uwe Ricken | SQL Server Blog  
@@ -644,11 +649,6 @@ Will Larson | Irrational Exuberance
 Edmond Lau | The Effective Engineer  
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
-
-![icon](favicons/techtrenches.png)
-Denis Stetskov | From the Trenches  
-<https://techtrenches.dev/archive>  
-<div id="techtrenches" class="blog-posts"></div>
 
 <!-- END MANAGEMENT -->
 

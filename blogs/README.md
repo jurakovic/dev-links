@@ -54,6 +54,11 @@ Steve Yegge
 <https://github.com/steveyegge>  
 <div id="steve-yegge" class="blog-posts"></div>
 
+![icon](../favicons/techtrenches.png)
+Denis Stetskov | From the Trenches  
+<https://techtrenches.dev/archive>  
+<div id="techtrenches" class="blog-posts"></div>
+
 ![icon](../favicons/addyosmani.png)
 Addy Osmani  
 <https://addyosmani.com/blog>  
@@ -65,6 +70,12 @@ Drew Breunig
 <https://www.dbreunig.com>  
 <https://github.com/dbreunig>  
 <div id="dbreunig" class="blog-posts"></div>
+
+![icon](../favicons/lucumr-pocoo.png)
+Armin Ronacher | Armin Ronacher's Thoughts and Writings  
+<https://lucumr.pocoo.org>  
+<https://github.com/mitsuhiko>  
+<div id="lucumr-pocoo" class="blog-posts"></div>
 
 ![icon](../favicons/nikiforovall.png)
 Oleksii Nikiforov | N+1 Blog  
@@ -236,6 +247,12 @@ Damien Bowden | Software Engineering
 <https://github.com/damienbod>  
 <div id="damienbod" class="blog-posts"></div>
 
+![icon](../favicons/blank.png)
+Shay Rojansky  
+<https://www.roji.org>  
+<https://github.com/roji>  
+<div id="roji" class="blog-posts"></div>
+
 ![icon](../favicons/barretblake.png)
 Barret Blake  
 <https://barretblake.dev/posts/development/>  
@@ -252,6 +269,12 @@ Rick Strahl
 <https://weblog.west-wind.com>  
 <https://github.com/RickStrahl>  
 <div id="rickstrahl" class="blog-posts"></div>
+
+![icon](../favicons/guiferreira.png)
+Gui Ferreira  
+<https://guiferreira.me/blog/>  
+<https://github.com/gsferreira>  
+<div id="guiferreira" class="blog-posts"></div>
 
 ![icon](../favicons/jasontaylor.png)
 Jason Taylor  
@@ -271,12 +294,6 @@ Erik Ejlskov Jensen | .NET Data Access and more
 <https://erikej.blogspot.com>  
 <https://github.com/ErikEJ>  
 <div id="erikej" class="blog-posts"></div>
-
-![icon](../favicons/blank.png)
-Shay Rojansky  
-<https://www.roji.org>  
-<https://github.com/roji>  
-<div id="roji" class="blog-posts"></div>
 
 ![icon](../favicons/db-berater.png)
 Uwe Ricken | SQL Server Blog  
@@ -304,12 +321,6 @@ Brent Ozar
 Martin Fowler  
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
-
-![icon](../favicons/nickcraver.png)
-Nick Craver | Software Imagineering  
-<https://nickcraver.com/blog/>  
-<https://github.com/NickCraver>  
-<div id="nickcraver" class="blog-posts"></div>
 
 ![icon](../favicons/codinghorror.png)
 Jeff Atwood | Coding Horror  
@@ -347,11 +358,6 @@ Eduards Sizovs
 Gergely Orosz | The Pragmatic Engineer  
 <https://blog.pragmaticengineer.com>  
 <div id="pragmaticengineer" class="blog-posts"></div>
-
-![icon](../favicons/vadimkravcenko.png)
-Vadim Kravcenko  
-<https://vadimkravcenko.com/newsletter/#h-past-issues>  
-<div id="vadimkravcenko" class="blog-posts"></div>
 
 ![icon](../favicons/thecodist.png)
 Andrew Wulf | The Codist  
@@ -393,18 +399,6 @@ Hillel Wayne
 <https://www.hillelwayne.com/post/>  
 <https://github.com/hwayne>  
 <div id="hillelwayne" class="blog-posts"></div>
-
-![icon](../favicons/blank.png)
-Benjamin Cane  
-<https://bencane.com>  
-<https://github.com/madflojo>  
-<div id="bencane" class="blog-posts"></div>
-
-![icon](../favicons/guiferreira.png)
-Gui Ferreira  
-<https://guiferreira.me/blog/>  
-<https://github.com/gsferreira>  
-<div id="guiferreira" class="blog-posts"></div>
 
 ![icon](../favicons/nvie.png)
 Vincent Driessen  
@@ -452,11 +446,23 @@ Salvatore Sanfilippo | antirez
 <https://github.com/antirez>  
 <div id="antirez" class="blog-posts"></div>
 
+![icon](../favicons/nickcraver.png)
+Nick Craver | Software Imagineering  
+<https://nickcraver.com/blog/>  
+<https://github.com/NickCraver>  
+<div id="nickcraver" class="blog-posts"></div>
+
 ![icon](../favicons/brendangregg.png)
 Brendan Gregg | Systems Performance  
 <https://www.brendangregg.com/blog/>  
 <https://github.com/brendangregg>  
 <div id="brendangregg" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Benjamin Cane  
+<https://bencane.com>  
+<https://github.com/madflojo>  
+<div id="bencane" class="blog-posts"></div>
 
 ![icon](../favicons/bcantrill-dtrace.png)
 Bryan Cantrill | The Observation Deck  
@@ -488,6 +494,11 @@ Paul Dix
 
 <!-- BEGIN MANAGEMENT -->
 
+![icon](../favicons/vadimkravcenko.png)
+Vadim Kravcenko  
+<https://vadimkravcenko.com/newsletter/#h-past-issues>  
+<div id="vadimkravcenko" class="blog-posts"></div>
+
 ![icon](../favicons/terriblesoftware.png)
 Matheus Lima | Terrible Software  
 <https://terriblesoftware.org>  
@@ -504,17 +515,6 @@ Will Larson | Irrational Exuberance
 Edmond Lau | The Effective Engineer  
 <https://www.effectiveengineer.com/blog>  
 <div id="effectiveengineer" class="blog-posts"></div>
-
-![icon](../favicons/techtrenches.png)
-Denis Stetskov | From the Trenches  
-<https://techtrenches.dev/archive>  
-<div id="techtrenches" class="blog-posts"></div>
-
-![icon](../favicons/lucumr-pocoo.png)
-Armin Ronacher | Armin Ronacher's Thoughts and Writings  
-<https://lucumr.pocoo.org>  
-<https://github.com/mitsuhiko>  
-<div id="lucumr-pocoo" class="blog-posts"></div>
 
 <!-- END MANAGEMENT -->
 

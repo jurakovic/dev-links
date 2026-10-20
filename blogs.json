@@ -398,7 +398,7 @@
         "feed": "https://nickcraver.com/blog/feed.xml",
         "extras": [],
         "github": "https://github.com/NickCraver",
-        "category": "general",
+        "category": "systems-data",
         "icon": "nickcraver",
         "selected": false
     },
@@ -518,7 +518,7 @@
         "feed": "https://vadimkravcenko.com/feed/",
         "extras": [],
         "github": "",
-        "category": "general",
+        "category": "management",
         "icon": "vadimkravcenko",
         "selected": false
     },
@@ -664,7 +664,7 @@
         "feed": "https://www.roji.org/feed.xml",
         "extras": [],
         "github": "https://github.com/roji",
-        "category": "sql",
+        "category": "dotnet",
         "icon": "blank",
         "selected": true
     },
@@ -688,7 +688,7 @@
         "feed": "https://techtrenches.dev/feed",
         "extras": [],
         "github": "",
-        "category": "management",
+        "category": "ai",
         "icon": "techtrenches",
         "selected": true
     },
@@ -834,7 +834,7 @@
         "feed": "https://bencane.com/feed.xml",
         "extras": [],
         "github": "https://github.com/madflojo",
-        "category": "general",
+        "category": "systems-data",
         "icon": "blank",
         "selected": false
     },
@@ -846,7 +846,7 @@
         "feed": "https://guiferreira.me/feed.xml",
         "extras": [],
         "github": "https://github.com/gsferreira",
-        "category": "general",
+        "category": "dotnet",
         "icon": "guiferreira",
         "selected": false
     },
@@ -858,7 +858,7 @@
         "feed": "https://lucumr.pocoo.org/feed.xml",
         "extras": [],
         "github": "https://github.com/mitsuhiko",
-        "category": "management",
+        "category": "ai",
         "icon": "lucumr-pocoo",
         "selected": false
     },
