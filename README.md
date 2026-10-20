@@ -5,6 +5,7 @@
 ├─ [Development](#development)  
 ├─ [Design Guidelines](#design-guidelines)  
 ├─ [Architecture](#architecture)  
+├─ [AI](#ai)  
 └─ [dev-blogs](#blogs) / [*dev-news*](news/README.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [News](#blogs-news)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [AI](#blogs-ai)</small>  
@@ -265,6 +266,10 @@ Azure Application Architecture Fundamentals
 Azure Well-Architected Framework  
 <https://learn.microsoft.com/en-us/azure/well-architected/>  
 
+![icon](favicons/github.png)
+GitHub Well-Architected Framework  
+<https://learn.github.com/well-architected/library/overview/> ([GitHub](https://github.com/github/github-well-architected))  
+
 ![icon](favicons/microsoft.png)
 Enterprise Web App pattern for .NET  
 [https://learn.microsoft.com/en-us/azure/architecture/.../reliable-web-app/dotnet/guidance](https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance)  
@@ -286,6 +291,14 @@ Software Architecture, Microservices | Martin Fowler
 ![icon](favicons/martinfowler.png)
 Catalog of Patterns of Distributed Systems | Unmesh Joshi  
 <https://martinfowler.com/articles/patterns-of-distributed-systems/>  
+
+![icon](favicons/deviq.png)
+Architecture | DevIQ  
+<https://deviq.com/architecture/>  
+
+![icon](favicons/blank.png)
+Modular Monoliths | NimblePros  
+<https://modularmonoliths.com>  
 
 <!-- BEGIN ARCH-MAIN -->
 
@@ -327,6 +340,29 @@ Clean Architecture Reference Applications / Solution Templates
 
 * * *
 
+## <a name="ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#blogs-ai">↓ Community</a></sub></sup>
+
+<!-- BEGIN AI-MAIN -->
+
+![icon](favicons/anthropic.png)
+Anthropic Engineering  
+<https://www.anthropic.com/engineering>  
+<div id="anthropic" class="blog-posts"></div>
+
+![icon](favicons/agentic-patterns.png)
+Agentic Patterns  
+<https://www.agentic-patterns.com>  
+<https://github.com/nibzard/awesome-agentic-patterns>  
+<div id="agentic-patterns" class="blog-posts"></div>
+
+<!-- END AI-MAIN -->
+
+![icon](favicons/microsoft-ai.png)
+Humanist AI Code of Conduct | Microsoft AI  
+<https://microsoft.ai/code-of-conduct/>  
+
+* * *
+
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
 
 <sub>*Below are only selected blogs. The full list is available [here](blogs/README.md).*</sub>
@@ -360,7 +396,7 @@ r/programming
 <https://www.reddit.com/r/programming/>  
 -->
 
-#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+#### <a name="blogs-ai"></a>AI <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#ai">­­­­­­↑ Official</a></sub></sup>
 
 <!-- BEGIN AI -->
 

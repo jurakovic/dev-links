@@ -65,6 +65,57 @@ Drew Breunig
 <https://github.com/dbreunig>  
 <div id="dbreunig" class="blog-posts"></div>
 
+![icon](../favicons/nikiforovall.png)
+Oleksii Nikiforov | N+1 Blog  
+<https://nikiforovall.blog>  
+<https://github.com/nikiforovAll>  
+<div id="nikiforovall" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Mario Zechner  
+<https://mariozechner.at>  
+<https://github.com/badlogic>  
+<div id="mariozechner" class="blog-posts"></div>
+
+![icon](../favicons/vtrivedy.png)
+Vivek Trivedy  
+<https://www.vtrivedy.com/posts>  
+<https://github.com/vtrivedy>  
+<div id="vtrivedy" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+David Crawshaw  
+<https://crawshaw.io>  
+<https://github.com/crawshaw>  
+<div id="crawshaw" class="blog-posts"></div>
+
+![icon](../favicons/chrismdp.png)
+Chris Parsons  
+<https://www.chrismdp.com/articles/>  
+<div id="chrismdp" class="blog-posts"></div>
+
+![icon](../favicons/thetypicalset.png)
+Rémi Louf | The Typical Set  
+<https://www.thetypicalset.com/blog/>  
+<https://github.com/rlouf>  
+
+![icon](../favicons/willemvandenende.png)
+Willem van den Ende  
+<https://willemvandenende.com/blog/engineering>  
+<div id="willemvandenende" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Aaron Brethorst  
+<https://www.brethorsting.com/blog>  
+<https://github.com/aaronbrethorst>  
+<div id="brethorsting" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Wes McKinney  
+<https://wesmckinney.com/archives>  
+<https://github.com/wesm>  
+<div id="wesmckinney" class="blog-posts"></div>
+
 <!-- END AI -->
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
@@ -201,6 +252,12 @@ Rick Strahl
 <https://github.com/RickStrahl>  
 <div id="rickstrahl" class="blog-posts"></div>
 
+![icon](../favicons/jasontaylor.png)
+Jason Taylor  
+<https://jasontaylor.dev>  
+<https://github.com/jasontaylordev>  
+<div id="jasontaylor" class="blog-posts"></div>
+
 <!-- END DOTNET -->
 
 #### <a name="blogs-sql"></a>SQL Server <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#sql-server">­­­­­­↑ Official</a></sub></sup>
@@ -229,6 +286,12 @@ Uwe Ricken | SQL Server Blog
 SQLPerformance.com  
 <https://sqlperformance.com>  
 <div id="sqlperformance" class="blog-posts"></div>
+
+![icon](../favicons/brentozar.png)
+Brent Ozar  
+<https://www.brentozar.com/blog/>  
+<https://github.com/BrentOzarULTD>  
+<div id="brentozar" class="blog-posts"></div>
 
 <!-- END SQL -->
 
@@ -353,6 +416,64 @@ Gui Ferreira
 <https://guiferreira.me/blog/>  
 <https://github.com/gsferreira>  
 <div id="guiferreira" class="blog-posts"></div>
+
+![icon](../favicons/nvie.png)
+Vincent Driessen  
+<https://nvie.com/posts/>  
+<https://github.com/nvie>  
+
+![icon](../favicons/bcantrill-dtrace.png)
+Bryan Cantrill | The Observation Deck  
+<https://bcantrill.dtrace.org>  
+<https://github.com/bcantrill>  
+<div id="bcantrill-dtrace" class="blog-posts"></div>
+
+![icon](../favicons/daverupert.png)
+Dave Rupert  
+<https://daverupert.com>  
+<https://github.com/davatron5000>  
+<div id="daverupert" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Daniel Stenberg | curl, open source and networking  
+<https://daniel.haxx.se/blog/>  
+<https://github.com/bagder>  
+<div id="daniel-haxx" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Martin Kleppmann  
+<https://martin.kleppmann.com/archive.html>  
+<https://github.com/ept>  
+<div id="martin-kleppmann" class="blog-posts"></div>
+
+![icon](../favicons/wp.png)
+Joe Heck | Rhonabwy  
+<https://rhonabwy.com>  
+<https://github.com/heckj>  
+<div id="rhonabwy" class="blog-posts"></div>
+
+![icon](../favicons/pauldix.png)
+Paul Dix  
+<https://pauldix.com>  
+<https://github.com/pauldix>  
+<div id="pauldix" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Giles Edwards-Alexander | overwatering.org  
+<https://overwatering.org/blog/>  
+<https://github.com/gga>  
+<div id="overwatering" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+James Randall  
+<https://www.jamesdrandall.com/posts/>  
+<https://github.com/JamesRandall>  
+<div id="jamesdrandall" class="blog-posts"></div>
+
+![icon](../favicons/nooneshappy.png)
+No One's Happy  
+<https://nooneshappy.com>  
+<div id="nooneshappy" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 

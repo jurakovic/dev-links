@@ -17,11 +17,18 @@ const opmlFooter = `</outline>
 </opml>
 `;
 
+// Escape characters that are not allowed in XML attribute values
+const escapeXml = (value) => value
+  .replace(/&/g, '&amp;')
+  .replace(/</g, '&lt;')
+  .replace(/>/g, '&gt;')
+  .replace(/"/g, '&quot;');
+
 const outlines = blogs.map(blog => {
-  const text = blog.author || blog.title;
-  const title = blog.title || blog.author;
-  const htmlUrl = blog.url;
-  const xmlUrl = blog.feed;
+  const text = escapeXml(blog.author || blog.title);
+  const title = escapeXml(blog.title || blog.author);
+  const htmlUrl = escapeXml(blog.url);
+  const xmlUrl = escapeXml(blog.feed);
   
   return `<outline type="rss" text="${text}" title="${title}" htmlUrl="${htmlUrl}" xmlUrl="${xmlUrl}" />`;
 }).join('\n');
