@@ -1,5 +1,10 @@
 [
   {
+    "title": "My obituary for programming",
+    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "pubDate": "2026-10-19T23:58:25+00:00"
+  },
+  {
     "title": "llm-tools-datasette 0.1.1",
     "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
     "pubDate": "2026-10-18T23:43:09+00:00"
@@ -18,10 +23,5 @@
     "title": "web-edit 0.1a2",
     "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
     "pubDate": "2026-10-17T13:16:49+00:00"
-  },
-  {
-    "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-    "link": "https://simonwillison.net/2026/Oct/16/code-review/",
-    "pubDate": "2026-10-16T22:06:37+00:00"
   }
 ]
