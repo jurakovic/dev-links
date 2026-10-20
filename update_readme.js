@@ -70,7 +70,11 @@ function updateFile(outputFile, filterSelected) {
                 lines.push(`${blog.title}  `);
             }
 
-            lines.push(`<${blog.url}>  `);
+            // GitHub repository links go inline after the URL, profile links on a separate line
+            const githubPath = blog.github ? new URL(blog.github).pathname.split('/').filter(Boolean) : [];
+            const isGithubRepo = githubPath.length > 1;
+
+            lines.push(isGithubRepo ? `<${blog.url}> ([GitHub](${blog.github}))  ` : `<${blog.url}>  `);
 
             // Add extra URLs if they exist
             if (blog.extras && blog.extras.length > 0) {
@@ -79,8 +83,8 @@ function updateFile(outputFile, filterSelected) {
                 });
             }
 
-            // Add GitHub URL if it exists
-            if (blog.github) {
+            // Add GitHub profile URL if it exists
+            if (blog.github && !isGithubRepo) {
                 lines.push(`<${blog.github}>  `);
             }
 

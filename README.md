@@ -12,6 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Systems & Data](#blogs-systems)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Management](#blogs-management)</small>  
 
 * * *
@@ -127,20 +128,17 @@ SQL projects
 
 ![icon](favicons/microsoft.png)
 Microsoft SQL Server Blog  
-<https://www.microsoft.com/en-us/sql-server/blog/>  
-<https://github.com/microsoft/sql-server-samples>  
+<https://www.microsoft.com/en-us/sql-server/blog/> ([GitHub](https://github.com/microsoft/sql-server-samples))  
 <div id="microsoft-sql-server" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
 Azure SQL Devs' Corner Blog  
-<https://devblogs.microsoft.com/azure-sql/>  
-<https://github.com/microsoft/sql-server-samples>  
+<https://devblogs.microsoft.com/azure-sql/> ([GitHub](https://github.com/microsoft/sql-server-samples))  
 <div id="azure-sql" class="blog-posts"></div>
 
 ![icon](favicons/microsoft.png)
 Azure SQL Blog  
-<https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/>  
-<https://github.com/microsoft/sql-server-samples>  
+<https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/> ([GitHub](https://github.com/microsoft/sql-server-samples))  
 <div id="azuresqlblog" class="blog-posts"></div>
 
 ![icon](favicons/use-the-index-luke.png)
@@ -351,8 +349,7 @@ Anthropic Engineering
 
 ![icon](favicons/agentic-patterns.png)
 Agentic Patterns  
-<https://www.agentic-patterns.com>  
-<https://github.com/nibzard/awesome-agentic-patterns>  
+<https://www.agentic-patterns.com> ([GitHub](https://github.com/nibzard/awesome-agentic-patterns))  
 <div id="agentic-patterns" class="blog-posts"></div>
 
 <!-- END AI-MAIN -->
@@ -423,6 +420,18 @@ Addy Osmani
 <https://addyosmani.com/blog>  
 <https://github.com/addyosmani>  
 <div id="addyosmani" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Mario Zechner  
+<https://mariozechner.at>  
+<https://github.com/badlogic>  
+<div id="mariozechner" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Wes McKinney  
+<https://wesmckinney.com/archives>  
+<https://github.com/wesm>  
+<div id="wesmckinney" class="blog-posts"></div>
 
 <!-- END AI -->
 
@@ -525,6 +534,12 @@ SQLPerformance.com
 <https://sqlperformance.com>  
 <div id="sqlperformance" class="blog-posts"></div>
 
+![icon](favicons/brentozar.png)
+Brent Ozar  
+<https://www.brentozar.com/blog/>  
+<https://github.com/BrentOzarULTD>  
+<div id="brentozar" class="blog-posts"></div>
+
 <!-- END SQL -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -535,18 +550,6 @@ SQLPerformance.com
 Martin Fowler  
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
-
-![icon](favicons/blank.png)
-Salvatore Sanfilippo | antirez  
-<https://antirez.com>  
-<https://github.com/antirez>  
-<div id="antirez" class="blog-posts"></div>
-
-![icon](favicons/brendangregg.png)
-Brendan Gregg | Systems Performance  
-<https://www.brendangregg.com/blog/>  
-<https://github.com/brendangregg>  
-<div id="brendangregg" class="blog-posts"></div>
 
 ![icon](favicons/pragmaticengineer.png)
 Gergely Orosz | The Pragmatic Engineer  
@@ -584,6 +587,42 @@ Swizec Teller
 <div id="swizec" class="blog-posts"></div>
 
 <!-- END GENERAL -->
+
+#### <a name="blogs-systems"></a>Systems & Data <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN SYSTEMS-DATA -->
+
+![icon](favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+<div id="antirez" class="blog-posts"></div>
+
+![icon](favicons/brendangregg.png)
+Brendan Gregg | Systems Performance  
+<https://www.brendangregg.com/blog/>  
+<https://github.com/brendangregg>  
+<div id="brendangregg" class="blog-posts"></div>
+
+![icon](favicons/bcantrill-dtrace.png)
+Bryan Cantrill | The Observation Deck  
+<https://bcantrill.dtrace.org>  
+<https://github.com/bcantrill>  
+<div id="bcantrill-dtrace" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Daniel Stenberg | curl, open source and networking  
+<https://daniel.haxx.se/blog/>  
+<https://github.com/bagder>  
+<div id="daniel-haxx" class="blog-posts"></div>
+
+![icon](favicons/blank.png)
+Martin Kleppmann  
+<https://martin.kleppmann.com/archive.html>  
+<https://github.com/ept>  
+<div id="martin-kleppmann" class="blog-posts"></div>
+
+<!-- END SYSTEMS-DATA -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 

@@ -374,7 +374,7 @@
         "feed": "https://antirez.com/rss",
         "extras": [],
         "github": "https://github.com/antirez",
-        "category": "general",
+        "category": "systems-data",
         "icon": "blank",
         "selected": true
     },
@@ -446,7 +446,7 @@
         "feed": "https://www.brendangregg.com/blog/rss.xml",
         "extras": [],
         "github": "https://github.com/brendangregg",
-        "category": "general",
+        "category": "systems-data",
         "icon": "brendangregg",
         "selected": true
     },
@@ -884,7 +884,7 @@
         "github": "https://github.com/badlogic",
         "category": "ai",
         "icon": "blank",
-        "selected": false
+        "selected": true
     },
     {
         "id": "vtrivedy",
@@ -968,7 +968,7 @@
         "github": "https://github.com/wesm",
         "category": "ai",
         "icon": "blank",
-        "selected": false
+        "selected": true
     },
     {
         "id": "jasontaylor",
@@ -992,7 +992,7 @@
         "github": "https://github.com/BrentOzarULTD",
         "category": "sql",
         "icon": "brentozar",
-        "selected": false
+        "selected": true
     },
     {
         "id": "nvie",
@@ -1014,9 +1014,9 @@
         "feed": "https://bcantrill.dtrace.org/index.xml",
         "extras": [],
         "github": "https://github.com/bcantrill",
-        "category": "general",
+        "category": "systems-data",
         "icon": "bcantrill-dtrace",
-        "selected": false
+        "selected": true
     },
     {
         "id": "daverupert",
@@ -1038,9 +1038,9 @@
         "feed": "https://daniel.haxx.se/blog/feed/",
         "extras": [],
         "github": "https://github.com/bagder",
-        "category": "general",
+        "category": "systems-data",
         "icon": "blank",
-        "selected": false
+        "selected": true
     },
     {
         "id": "martin-kleppmann",
@@ -1050,9 +1050,9 @@
         "feed": "https://feeds.feedburner.com/martinkl",
         "extras": [],
         "github": "https://github.com/ept",
-        "category": "general",
+        "category": "systems-data",
         "icon": "blank",
-        "selected": false
+        "selected": true
     },
     {
         "id": "rhonabwy",
@@ -1074,7 +1074,7 @@
         "feed": "https://pauldix.com/feed.xml",
         "extras": [],
         "github": "https://github.com/pauldix",
-        "category": "general",
+        "category": "systems-data",
         "icon": "pauldix",
         "selected": false
     },

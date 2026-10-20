@@ -6,6 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [.NET](#blogs-net)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [SQL Server](#blogs-sql)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [General](#blogs-general)</small>  
+&nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Systems & Data](#blogs-systems)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Management](#blogs-management)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>├─ [Tech Sites / Articles](#blogs-tech-sites)</small>  
 &nbsp;&nbsp;&nbsp;&nbsp;<small>└─ [Tech Companies Blogs](#blogs-tech-companies)</small>  
@@ -304,12 +305,6 @@ Martin Fowler
 <https://www.martinfowler.com/recent-changes.html>  
 <div id="martinfowler" class="blog-posts"></div>
 
-![icon](../favicons/blank.png)
-Salvatore Sanfilippo | antirez  
-<https://antirez.com>  
-<https://github.com/antirez>  
-<div id="antirez" class="blog-posts"></div>
-
 ![icon](../favicons/nickcraver.png)
 Nick Craver | Software Imagineering  
 <https://nickcraver.com/blog/>  
@@ -330,12 +325,6 @@ Joel Spolsky | Joel on Software
 Neil Green | Neil on Software (Podcast)  
 <https://neilonsoftware.com/articles/>  
 <div id="neilonsoftware" class="blog-posts"></div>
-
-![icon](../favicons/brendangregg.png)
-Brendan Gregg | Systems Performance  
-<https://www.brendangregg.com/blog/>  
-<https://github.com/brendangregg>  
-<div id="brendangregg" class="blog-posts"></div>
 
 ![icon](../favicons/tidyfirst.png)
 Kent Beck | Software Design: Tidy First?  
@@ -422,41 +411,17 @@ Vincent Driessen
 <https://nvie.com/posts/>  
 <https://github.com/nvie>  
 
-![icon](../favicons/bcantrill-dtrace.png)
-Bryan Cantrill | The Observation Deck  
-<https://bcantrill.dtrace.org>  
-<https://github.com/bcantrill>  
-<div id="bcantrill-dtrace" class="blog-posts"></div>
-
 ![icon](../favicons/daverupert.png)
 Dave Rupert  
 <https://daverupert.com>  
 <https://github.com/davatron5000>  
 <div id="daverupert" class="blog-posts"></div>
 
-![icon](../favicons/blank.png)
-Daniel Stenberg | curl, open source and networking  
-<https://daniel.haxx.se/blog/>  
-<https://github.com/bagder>  
-<div id="daniel-haxx" class="blog-posts"></div>
-
-![icon](../favicons/blank.png)
-Martin Kleppmann  
-<https://martin.kleppmann.com/archive.html>  
-<https://github.com/ept>  
-<div id="martin-kleppmann" class="blog-posts"></div>
-
 ![icon](../favicons/wp.png)
 Joe Heck | Rhonabwy  
 <https://rhonabwy.com>  
 <https://github.com/heckj>  
 <div id="rhonabwy" class="blog-posts"></div>
-
-![icon](../favicons/pauldix.png)
-Paul Dix  
-<https://pauldix.com>  
-<https://github.com/pauldix>  
-<div id="pauldix" class="blog-posts"></div>
 
 ![icon](../favicons/blank.png)
 Giles Edwards-Alexander | overwatering.org  
@@ -476,6 +441,48 @@ No One's Happy
 <div id="nooneshappy" class="blog-posts"></div>
 
 <!-- END GENERAL -->
+
+#### <a name="blogs-systems"></a>Systems & Data <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
+
+<!-- BEGIN SYSTEMS-DATA -->
+
+![icon](../favicons/blank.png)
+Salvatore Sanfilippo | antirez  
+<https://antirez.com>  
+<https://github.com/antirez>  
+<div id="antirez" class="blog-posts"></div>
+
+![icon](../favicons/brendangregg.png)
+Brendan Gregg | Systems Performance  
+<https://www.brendangregg.com/blog/>  
+<https://github.com/brendangregg>  
+<div id="brendangregg" class="blog-posts"></div>
+
+![icon](../favicons/bcantrill-dtrace.png)
+Bryan Cantrill | The Observation Deck  
+<https://bcantrill.dtrace.org>  
+<https://github.com/bcantrill>  
+<div id="bcantrill-dtrace" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Daniel Stenberg | curl, open source and networking  
+<https://daniel.haxx.se/blog/>  
+<https://github.com/bagder>  
+<div id="daniel-haxx" class="blog-posts"></div>
+
+![icon](../favicons/blank.png)
+Martin Kleppmann  
+<https://martin.kleppmann.com/archive.html>  
+<https://github.com/ept>  
+<div id="martin-kleppmann" class="blog-posts"></div>
+
+![icon](../favicons/pauldix.png)
+Paul Dix  
+<https://pauldix.com>  
+<https://github.com/pauldix>  
+<div id="pauldix" class="blog-posts"></div>
+
+<!-- END SYSTEMS-DATA -->
 
 #### <a name="blogs-management"></a>Management <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
 
