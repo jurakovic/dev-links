@@ -1,5 +1,10 @@
 [
   {
+    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+    "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+    "pubDate": "2026-10-20T19:34:19+00:00"
+  },
+  {
     "title": "My obituary for programming",
     "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
     "pubDate": "2026-10-19T23:58:25+00:00"
@@ -18,10 +23,5 @@
     "title": "Inline rendering with document​.currentScript",
     "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
     "pubDate": "2026-10-17T21:11:12+00:00"
-  },
-  {
-    "title": "web-edit 0.1a2",
-    "link": "https://simonwillison.net/2026/Oct/17/web-edit/",
-    "pubDate": "2026-10-17T13:16:49+00:00"
   }
 ]

@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-20 simonwillison</small>  
+<small>[Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-20 visualstudiomagazine</small>  
+<small>[Forget 'Super Intelligence,' GitHub Announces 'Ambient Intelligence' -- With a Keypad](https://visualstudiomagazine.com/articles/2026/10/20/forget-super-intelligence-github-announces-ambient-intelligence-with-a-keypad.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-20 visualstudiomagazine</small>  
+<small>[Azure MCP Server 3.0 Adds Cloud Operations Tools for AI Agents](https://visualstudiomagazine.com/articles/2026/10/20/azure-mcp-server-3-0-adds-cloud-operations-tools-for-ai-agents.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-20 github-ai</small>  
+<small>[How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-20 db-berater</small>  
 <small>[SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t](https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/)</small>
 
@@ -11,7 +23,7 @@
 <small>[Coding Agents Guess Which Tests to Run. They Should Look It Up.](https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-20 andrewlock</small>  
-<small>[An introduction to Compact Binary Object Notation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
+<small>[An introduction to Compact Binary Object Representation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-20 stackoverflow</small>  
 <small>[Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/)</small>
@@ -69,9 +81,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-17 simonwillison</small>  
 <small>[Inline rendering with document​.currentScript](https://simonwillison.net/2026/Oct/17/document-currentscript/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-17 simonwillison</small>  
-<small>[web-edit 0.1a2](https://simonwillison.net/2026/Oct/17/web-edit/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-10-17 lethain</small>  
 <small>[Speeding up code review with \`small-change\`](https://lethain.com/small-changes/)</small>
@@ -154,9 +163,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-14 github-eng</small>  
 <small>[From 2,500 requests to 24: Rebuilding star history without the stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-14 visualstudiomagazine</small>  
-<small>[.NET 11 RC2 Adds Post-Quantum Crypto, .NET MAUI C# UI and NuGet Controls](https://visualstudiomagazine.com/articles/2026/10/14/net-11-rc2-adds-post-quantum-crypto-maui-csharp-ui-and-nuget-controls.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-14 third-bit</small>  
 <small>[Built-in Functions in Frml](https://third-bit.com/2026/10/14/frml-builtin/)</small>
 
@@ -187,9 +193,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
 <small>[Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-13 visualstudiomagazine</small>  
-<small>[VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security](https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
 <small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
 
@@ -210,6 +213,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-10-12 damienbod</small>  
 <small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-12 paulhammant</small>  
+<small>[Red-Green-Refactor Moves Into the Harness](https://paulhammant.com/2026/10/12/red-green-refactor-moves-into-the-harness/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
 <small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
@@ -262,9 +268,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-06 andrewlock</small>  
 <small>[Stripping extra dependencies in .NET NativeAOT apps using linker substitutions](https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-05 github-ai</small>  
-<small>[ReviewBench: An open benchmark for AI code review](https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-05 martinfowler</small>  
 <small>[Fragments: October  4](https://martinfowler.com/fragments/2026-10-04.html)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-09-29 azuresqlblog</small>  
 <small>[Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 lucumr-pocoo</small>  
-<small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
 

@@ -1,5 +1,15 @@
 [
   {
+    "title": "Forget 'Super Intelligence,' GitHub Announces 'Ambient Intelligence' -- With a Keypad",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/20/forget-super-intelligence-github-announces-ambient-intelligence-with-a-keypad.aspx",
+    "pubDate": "2026-10-20T17:23:00+00:00"
+  },
+  {
+    "title": "Azure MCP Server 3.0 Adds Cloud Operations Tools for AI Agents",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/20/azure-mcp-server-3-0-adds-cloud-operations-tools-for-ai-agents.aspx",
+    "pubDate": "2026-10-20T16:12:00+00:00"
+  },
+  {
     "title": "Microsoft Foundry Update Brings Scheduled AI Agents, Smarter Tool Use and GPT-6 Models",
     "link": "https://visualstudiomagazine.com/articles/2026/10/19/microsoft-foundry-update-brings-scheduled-ai-agents-smarter-tool-use-and-gpt-6-models.aspx",
     "pubDate": "2026-10-19T19:34:00+00:00"
@@ -13,15 +23,5 @@
     "title": "VS Code 1.142 Brings AI Canvases, Tighter Agent Controls and a New Model Picker",
     "link": "https://visualstudiomagazine.com/articles/2026/10/15/vs-code-1,-d-,142-brings-ai-canvases-tighter-agent-controls-and-a-new-model-picker.aspx",
     "pubDate": "2026-10-15T15:58:00+00:00"
-  },
-  {
-    "title": ".NET 11 RC2 Adds Post-Quantum Crypto, .NET MAUI C# UI and NuGet Controls",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/14/net-11-rc2-adds-post-quantum-crypto-maui-csharp-ui-and-nuget-controls.aspx",
-    "pubDate": "2026-10-14T18:01:00+00:00"
-  },
-  {
-    "title": "VS Code 1.141 Brings Copilot, Codex Sessions Together, Tightens AI Agent Security",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/13/vs-code-1-141-brings-copilot-codex-sessions-together-tightens-ai-agent-security.aspx",
-    "pubDate": "2026-10-13T08:30:00+00:00"
   }
 ]

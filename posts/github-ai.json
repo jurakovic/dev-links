@@ -1,5 +1,10 @@
 [
   {
+    "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+    "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+    "pubDate": "2026-10-20T16:05:03+00:00"
+  },
+  {
     "title": "How to continue a GitHub Copilot app session in VS Code",
     "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
     "pubDate": "2026-10-19T18:47:22+00:00"
@@ -18,10 +23,5 @@
     "title": "Secret protection must scale with software",
     "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
     "pubDate": "2026-10-07T17:45:34+00:00"
-  },
-  {
-    "title": "ReviewBench: An open benchmark for AI code review",
-    "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-    "pubDate": "2026-10-05T15:59:40+00:00"
   }
 ]
