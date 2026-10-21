@@ -1,5 +1,10 @@
 [
   {
+    "title": "eMudhra Intermediate CA Compromise",
+    "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+    "pubDate": "2026-10-20T23:50:25+00:00"
+  },
+  {
     "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
     "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
     "pubDate": "2026-10-20T19:34:19+00:00"
@@ -18,10 +23,5 @@
     "title": "llm-echo 0.5",
     "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
     "pubDate": "2026-10-18T23:16:16+00:00"
-  },
-  {
-    "title": "Inline rendering with document​.currentScript",
-    "link": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-    "pubDate": "2026-10-17T21:11:12+00:00"
   }
 ]
