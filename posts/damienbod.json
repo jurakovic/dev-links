@@ -1,27 +1,27 @@
 [
   {
-    "title": "Add application security to the swiyu generic management verifier APIs using OAuth",
-    "link": "https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/",
-    "pubDate": "2026-02-16T07:07:40+00:00"
+    "title": "Use multiple schemes in an ASP.NET Core Web application",
+    "link": "https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/",
+    "pubDate": "2026-10-12T05:22:15+00:00"
   },
   {
-    "title": "Isolate the swiyu Public Beta management APIs using YARP",
-    "link": "https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/",
-    "pubDate": "2026-02-09T06:45:22+00:00"
+    "title": "Using multiline Parameters for Aspire and ASP.NET Core with user secrets and Azure default deployments",
+    "link": "https://damienbod.com/2026/09/01/using-multiline-parameters-for-aspire-and-asp-net-core-with-user-secrets-and-azure-default-deployments/",
+    "pubDate": "2026-09-01T06:02:53+00:00"
   },
   {
-    "title": "Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR",
-    "link": "https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/",
-    "pubDate": "2026-02-02T06:31:34+00:00"
+    "title": "Use Aspire to implement and deploy the BFF security architecture",
+    "link": "https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/",
+    "pubDate": "2026-08-17T05:29:56+00:00"
   },
   {
-    "title": "Force step up authentication in web applications",
-    "link": "https://damienbod.com/2026/01/26/force-step-up-authentication-in-web-applications/",
-    "pubDate": "2026-01-26T07:02:14+00:00"
+    "title": "Implement BFF using Auth0, Angular and ASP.NET Core",
+    "link": "https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/",
+    "pubDate": "2026-08-10T05:33:55+00:00"
   },
   {
-    "title": "Implementing Level of Identification (LoI) with ASP.NET Core Identity and Duende",
-    "link": "https://damienbod.com/2026/01/18/implementing-level-of-identification-loi-with-asp-net-core-identity-and-duende/",
-    "pubDate": "2026-01-18T21:43:13+00:00"
+    "title": "Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server",
+    "link": "https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/",
+    "pubDate": "2026-07-27T06:22:55+00:00"
   }
 ]

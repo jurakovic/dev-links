@@ -1,27 +1,27 @@
 [
   {
-    "title": "How I think about Codex",
-    "link": "https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything",
-    "pubDate": "2026-02-22T15:53:43+00:00"
+    "title": "eMudhra Intermediate CA Compromise",
+    "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+    "pubDate": "2026-10-20T23:50:25+00:00"
   },
   {
-    "title": "Quoting Thibault Sottiaux",
-    "link": "https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything",
-    "pubDate": "2026-02-21T01:30:21+00:00"
+    "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+    "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
+    "pubDate": "2026-10-20T19:34:19+00:00"
   },
   {
-    "title": "Andrej Karpathy talks about \"Claws\"",
-    "link": "https://simonwillison.net/2026/Feb/21/claws/#atom-everything",
-    "pubDate": "2026-02-21T00:37:45+00:00"
+    "title": "My obituary for programming",
+    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+    "pubDate": "2026-10-19T23:58:25+00:00"
   },
   {
-    "title": "Adding TILs, releases, museums, tools and research to my blog",
-    "link": "https://simonwillison.net/2026/Feb/20/beats/#atom-everything",
-    "pubDate": "2026-02-20T23:47:10+00:00"
+    "title": "llm-tools-datasette 0.1.1",
+    "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
+    "pubDate": "2026-10-18T23:43:09+00:00"
   },
   {
-    "title": "Taalas serves Llama 3.1 8B at 17,000 tokens/second",
-    "link": "https://simonwillison.net/2026/Feb/20/taalas/#atom-everything",
-    "pubDate": "2026-02-20T22:10:04+00:00"
+    "title": "llm-echo 0.5",
+    "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "pubDate": "2026-10-18T23:16:16+00:00"
   }
 ]

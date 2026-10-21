@@ -1,0 +1,27 @@
+[
+  {
+    "title": "What is Codemode",
+    "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
+    "pubDate": "2026-10-06T00:00:00+00:00"
+  },
+  {
+    "title": "Deser: Rethinking Rust Serialization",
+    "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+    "pubDate": "2026-09-29T00:00:00+00:00"
+  },
+  {
+    "title": "Interpreting Pangram",
+    "link": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
+    "pubDate": "2026-09-14T00:00:00+00:00"
+  },
+  {
+    "title": "P(doom)",
+    "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+    "pubDate": "2026-09-12T00:00:00+00:00"
+  },
+  {
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "link": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "pubDate": "2026-09-07T00:00:00+00:00"
+  }
+]

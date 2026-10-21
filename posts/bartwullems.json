@@ -1,27 +1,27 @@
 [
   {
-    "title": "Accessing Microsoft Fabric data locally with OneLake file explorer",
-    "link": "https://bartwullems.blogspot.com/2026/02/accessing-microsoft-fabric-data-locally.html",
-    "pubDate": "2026-02-20T06:11:00+00:00"
+    "title": "Reducing the size of your authentication cookie with ITicketStore",
+    "link": "https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html",
+    "pubDate": "2026-10-21T05:27:00+00:00"
   },
   {
-    "title": "Azure Pipelines–Failed to set a git tag",
-    "link": "https://bartwullems.blogspot.com/2026/02/azure-pipelinesfailed-to-set-git-tag.html",
-    "pubDate": "2026-02-19T07:30:00+00:00"
+    "title": "Napkin math: know what your system should do before you measure it",
+    "link": "https://bartwullems.blogspot.com/2026/10/napkin-math-know-what-your-system.html",
+    "pubDate": "2026-10-20T04:42:00+00:00"
   },
   {
-    "title": "How I built a custom agent skill to configure Application Insights",
-    "link": "https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html",
-    "pubDate": "2026-02-18T06:16:00+00:00"
+    "title": "Using the ADFS userinfo endpoint instead of allatclaims",
+    "link": "https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html",
+    "pubDate": "2026-10-19T05:03:00+00:00"
   },
   {
-    "title": "I didn't notice this VS Code feature until it made me question how I code",
-    "link": "https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html",
-    "pubDate": "2026-02-17T06:09:00+00:00"
+    "title": "Getting all your claims in the ID token with the ADFS allatclaims scope",
+    "link": "https://bartwullems.blogspot.com/2026/10/getting-all-your-claims-in-id-token.html",
+    "pubDate": "2026-10-16T05:37:00+00:00"
   },
   {
-    "title": "ActionFlix Because even rom-coms deserve an explosion",
-    "link": "https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html",
-    "pubDate": "2026-02-16T06:15:00+00:00"
+    "title": "Getting visual explanations from your coding agent with the show-me skill",
+    "link": "https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html",
+    "pubDate": "2026-10-15T05:30:00+00:00"
   }
 ]

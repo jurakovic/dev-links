@@ -1,0 +1,27 @@
+[
+  {
+    "title": "How Kenn is doing Agentic Engineering",
+    "link": "https://wesmckinney.com/blog/agentic-engineering-aug-2026/",
+    "pubDate": "2026-08-12T05:00:00+00:00"
+  },
+  {
+    "title": "The Clanker Constitution",
+    "link": "https://wesmckinney.com/blog/clanker-constitution/",
+    "pubDate": "2026-08-09T05:00:00+00:00"
+  },
+  {
+    "title": "The Mythical Agent-Month",
+    "link": "https://wesmckinney.com/blog/mythical-agent-month/",
+    "pubDate": "2026-02-17T06:00:00+00:00"
+  },
+  {
+    "title": "Announcing msgvault: lightning fast private email archive and search system, with terminal UI and MCP server, powered by DuckDB",
+    "link": "https://wesmckinney.com/blog/announcing-msgvault/",
+    "pubDate": "2026-02-02T06:00:00+00:00"
+  },
+  {
+    "title": "From Human Ergonomics to Agent Ergonomics",
+    "link": "https://wesmckinney.com/blog/agent-ergonomics/",
+    "pubDate": "2026-01-20T06:00:00+00:00"
+  }
+]

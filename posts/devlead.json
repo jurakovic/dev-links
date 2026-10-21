@@ -1,27 +1,27 @@
 [
   {
+    "title": "Taking control of your digital legacy",
+    "link": "https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy",
+    "pubDate": "2026-10-01T00:00:00+00:00"
+  },
+  {
+    "title": "Template plus source package: my .NET console stack in 2026",
+    "link": "https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026",
+    "pubDate": "2026-06-27T00:00:00+00:00"
+  },
+  {
+    "title": "A quarter of a billion NuGet downloads",
+    "link": "https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads",
+    "pubDate": "2026-03-22T00:00:00+00:00"
+  },
+  {
+    "title": "Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk",
+    "link": "https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps",
+    "pubDate": "2026-02-26T00:00:00+00:00"
+  },
+  {
     "title": "Migrating to Cake.Sdk",
     "link": "https://www.devlead.se/posts/2025/2025-07-28-migrating-to-cake-sdk",
     "pubDate": "Mon, 28 Jul 2025 00:00:00 GMT"
-  },
-  {
-    "title": "Introducing AZDOI",
-    "link": "https://www.devlead.se/posts/2025/2025-03-22-introducing-azdoi",
-    "pubDate": "Sat, 22 Mar 2025 00:00:00 GMT"
-  },
-  {
-    "title": "Static Web App WASM Search",
-    "link": "https://www.devlead.se/posts/2025/2025-03-12-static-web-app-wasm-search",
-    "pubDate": "Wed, 12 Mar 2025 00:00:00 GMT"
-  },
-  {
-    "title": "SLNX Finally here📄",
-    "link": "https://www.devlead.se/posts/2025/2025-02-24-slnx-finally-here",
-    "pubDate": "Mon, 24 Feb 2025 00:00:00 GMT"
-  },
-  {
-    "title": "Long paths in Git on Windows",
-    "link": "https://www.devlead.se/posts/2025/2025-02-19-git-windows-long-paths",
-    "pubDate": "Wed, 19 Feb 2025 00:00:00 GMT"
   }
 ]

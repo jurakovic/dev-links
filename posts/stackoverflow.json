@@ -1,27 +1,27 @@
 [
   {
-    "title": "Even GenAI uses Wikipedia as a source",
-    "link": "https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/",
-    "pubDate": "2026-02-20T08:40:00+00:00"
+    "title": "Don't forget about the UI for AI",
+    "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
+    "pubDate": "2026-10-20T07:40:00+00:00"
   },
   {
-    "title": "Why Stack Overflow and Cloudflare launched a pay-per-crawl model",
-    "link": "https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/",
-    "pubDate": "2026-02-19T08:40:00+00:00"
+    "title": "Production-grade LLMs and agents: a field guide",
+    "link": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
+    "pubDate": "2026-10-19T15:32:01+00:00"
   },
   {
-    "title": "Mind the gap: Closing the AI trust gap for developers",
-    "link": "https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/",
-    "pubDate": "2026-02-18T17:00:00+00:00"
+    "title": "AI says you’re right, formal methods say you’re wrong",
+    "link": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+    "pubDate": "2026-10-16T07:40:00+00:00"
   },
   {
-    "title": "Data is the new oil, and your database is the only way to extract it",
-    "link": "https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/",
-    "pubDate": "2026-02-17T08:40:00+00:00"
+    "title": "MCP standardized tools. Now we need the infrastructure around them.",
+    "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
+    "pubDate": "2026-10-15T20:39:29+00:00"
   },
   {
-    "title": "Even your voice is a data problem",
-    "link": "https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/",
-    "pubDate": "2026-02-13T17:00:00+00:00"
+    "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+    "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
+    "pubDate": "2026-10-15T17:00:00+00:00"
   }
 ]

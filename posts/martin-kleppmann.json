@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)",
+    "link": "http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html",
+    "pubDate": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "title": "Prediction: AI will make formal verification go mainstream",
+    "link": "http://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+    "pubDate": "2025-12-08T00:00:00+00:00"
+  },
+  {
+    "title": "Pudding: user discovery for anonymity networks",
+    "link": "http://martin.kleppmann.com/2024/07/05/pudding-user-discovery-anonymity-networks.html",
+    "pubDate": "2024-07-05T00:00:00+00:00"
+  },
+  {
+    "title": "2023 year in review",
+    "link": "http://martin.kleppmann.com/2024/01/04/year-in-review.html",
+    "pubDate": "2024-01-04T00:00:00+00:00"
+  },
+  {
+    "title": "Verifying distributed systems with Isabelle/HOL",
+    "link": "http://martin.kleppmann.com/2022/10/12/verifying-distributed-systems-isabelle.html",
+    "pubDate": "2022-10-12T00:00:00+00:00"
+  }
+]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "Configuring Private Constructors and Setters with Entity Framework DB First flow",
+    "link": "https://davecallan.com/configuring-private-constructors-and-setters-with-entity-framework-db-first-flow/",
+    "pubDate": "2026-03-07T10:14:16+00:00"
+  },
+  {
     "title": "Entity Framework Query Flow Explained—Step-by-Step with a Sequence Diagram",
     "link": "https://davecallan.com/entity-framework-query-flow-explained-with-sequence-diagram/",
     "pubDate": "Sat, 08 Feb 2025 16:11:04 +0000"
@@ -18,10 +23,5 @@
     "title": "How to install Scalar in .NET 9",
     "link": "https://davecallan.com/install-scalar-dotnet-9/",
     "pubDate": "Sat, 25 Jan 2025 21:28:00 +0000"
-  },
-  {
-    "title": "Visual Studio .http file request variable example",
-    "link": "https://davecallan.com/visual-studio-http-file-request-variable-example/",
-    "pubDate": "Thu, 23 Jan 2025 20:16:50 +0000"
   }
 ]

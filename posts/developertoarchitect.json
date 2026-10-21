@@ -1,27 +1,27 @@
 [
   {
-    "title": "Lesson 218 - Thread Delegate Pattern (Lesson Pending...)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson218.html",
-    "pubDate": "Fri, 30 Jan 2026 15:11:41 -0500"
+    "title": "Lesson 225 - Architecture Narrative Act One (November 2, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson225.html",
+    "pubDate": "2026-10-16T16:06:18+00:00"
   },
   {
-    "title": "Lesson 217 - Supervisor-Consumer Pattern (Lesson Pending...)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson217.html",
-    "pubDate": "Fri, 30 Jan 2026 15:07:34 -0500"
+    "title": "Lesson 224 - Creating an Architecture Narrative (October 5, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson224.html",
+    "pubDate": "2026-10-04T19:12:50+00:00"
   },
   {
-    "title": "Lesson 216 - Creating Scalable Systems (February 2, 2026)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson216.html",
-    "pubDate": "Fri, 30 Jan 2026 14:49:04 -0500"
+    "title": "Lesson 223 - Approaches For Legacy Migration (September 7, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson223.html",
+    "pubDate": "2026-09-05T15:12:28+00:00"
   },
   {
-    "title": "Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson215.html",
-    "pubDate": "Sun, 04 Jan 2026 15:29:50 -0500"
+    "title": "Lesson 222 - Transactional Sagas and Atomicity (August 3, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson222.html",
+    "pubDate": "2026-08-02T23:27:55+00:00"
   },
   {
-    "title": "Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)",
-    "link": "http://www.developertoarchitect.com/lessons/lesson214.html",
-    "pubDate": "Sun, 30 Nov 2025 13:21:15 -0500"
+    "title": "Lesson 221 - Introduction to Transactional Sagas (July 6, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson221.html",
+    "pubDate": "2026-07-06T05:18:51+00:00"
   }
 ]

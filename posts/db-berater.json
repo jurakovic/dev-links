@@ -1,27 +1,27 @@
 [
   {
+    "title": "SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t",
+    "link": "https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/",
+    "pubDate": "2026-10-20T11:23:23+00:00"
+  },
+  {
+    "title": "Nonfoldable User Defined Functions",
+    "link": "https://www.db-berater.de/2026/10/sql-server-constant-folding-how-a-scalar-udf-can-break-query-performance/",
+    "pubDate": "2026-10-16T10:57:37+00:00"
+  },
+  {
+    "title": "CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!",
+    "link": "https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/",
+    "pubDate": "2026-10-08T07:09:56+00:00"
+  },
+  {
+    "title": "Partition a big table with zero downtime",
+    "link": "https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/",
+    "pubDate": "2026-08-06T08:49:02+00:00"
+  },
+  {
     "title": "WHERE 1 = 1 – good practice?",
     "link": "https://www.db-berater.de/2025/11/where-1-1-good-practice/",
     "pubDate": "2025-11-04T12:28:49+00:00"
-  },
-  {
-    "title": "Table Hint UPDLOCK and LOCK ESCALATION",
-    "link": "https://www.db-berater.de/2025/03/updlock-and-lock-escalation/",
-    "pubDate": "2025-03-12T11:55:04+00:00"
-  },
-  {
-    "title": "Auto Update Statistics and Trivial Execution Plans",
-    "link": "https://www.db-berater.de/2025/01/automatic-statistic-updates-in-small-tables/",
-    "pubDate": "2025-01-19T07:54:54+00:00"
-  },
-  {
-    "title": "When „Auto Update Statistics“ will not update your statistics",
-    "link": "https://www.db-berater.de/2025/01/when-auto-update-statistics-will-not-update-your-statistics/",
-    "pubDate": "2025-01-08T14:05:03+00:00"
-  },
-  {
-    "title": "Is SWITCH PARTITION a bad idea?",
-    "link": "https://www.db-berater.de/2025/01/is-switch-partition-a-bad-idea/",
-    "pubDate": "2025-01-06T05:04:40+00:00"
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
-    "title": "Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration",
-    "link": "https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/",
-    "pubDate": "2026-02-20T17:30:27+00:00"
+    "title": "Canada’s 2026 time zone updates: guidance for Microsoft SQL",
+    "link": "https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/",
+    "pubDate": "2026-10-15T05:21:10+00:00"
   },
   {
-    "title": "Federating Databases with Data API Builder Chaining",
-    "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/",
-    "pubDate": "2026-02-18T17:00:17+00:00"
+    "title": "Try SqlClient’s new connection pool for faster parallel connections",
+    "link": "https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/",
+    "pubDate": "2026-10-06T22:42:12+00:00"
   },
   {
-    "title": "Dear Copilot, can you help me with SQL?",
-    "link": "https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/",
-    "pubDate": "2026-02-17T17:00:59+00:00"
+    "title": "Upcoming SQL and AI Events to Put on Your Calendar",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-calendar-2027q4/",
+    "pubDate": "2026-10-06T20:50:48+00:00"
   },
   {
-    "title": "Build Intelligent Apps with SQL: Join the SQL + AI Datathon",
-    "link": "https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/",
-    "pubDate": "2026-02-12T17:35:41+00:00"
+    "title": "PostgreSQL to SQL Field Notes: Connections",
+    "link": "https://devblogs.microsoft.com/azure-sql/pg-to-sql-connections/",
+    "pubDate": "2026-10-06T16:39:17+00:00"
   },
   {
-    "title": "Time Travel in Azure SQL with Temporal Tables",
-    "link": "https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables/",
-    "pubDate": "2026-02-09T17:34:56+00:00"
+    "title": "Data API builder 2.1.5: JSON and Vector Data Type Support, and More",
+    "link": "https://devblogs.microsoft.com/azure-sql/data-api-builder-2-1-5-json-and-vector-data-type-support-and-more/",
+    "pubDate": "2026-10-02T01:10:52+00:00"
   }
 ]

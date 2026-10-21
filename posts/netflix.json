@@ -1,27 +1,27 @@
 [
   {
-    "title": "Scaling LLM Post-Training at Netflix",
-    "link": "https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-02-13T08:05:33+00:00"
+    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
+    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-16T16:01:02+00:00"
   },
   {
-    "title": "Automating RDS Postgres to Aurora Postgres Migration",
-    "link": "https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-02-12T14:07:19+00:00"
+    "title": "Integrating Netflix’s Foundation Model into Personalization applications",
+    "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-14T20:02:22+00:00"
   },
   {
-    "title": "The AI Evolution of Graph Search at Netflix",
-    "link": "https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151?source=rss----2615bd06b42e---4",
-    "pubDate": "Mon, 26 Jan 2026 19:01:27 GMT"
+    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
+    "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-14T19:59:08+00:00"
   },
   {
-    "title": "How Temporal Powers Reliable Cloud Operations at Netflix",
-    "link": "https://netflixtechblog.com/how-temporal-powers-reliable-cloud-operations-at-netflix-73c69ccb5953?source=rss----2615bd06b42e---4",
-    "pubDate": "Mon, 15 Dec 2025 23:51:59 GMT"
+    "title": "Measuring the Impact of Personalized Recommendations",
+    "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-14T19:57:43+00:00"
   },
   {
-    "title": "Netflix Live Origin",
-    "link": "https://netflixtechblog.com/netflix-live-origin-41f1b0ad5371?source=rss----2615bd06b42e---4",
-    "pubDate": "Mon, 15 Dec 2025 17:38:16 GMT"
+    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
+    "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-14T19:56:08+00:00"
   }
 ]

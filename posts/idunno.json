@@ -1,27 +1,27 @@
 [
   {
+    "title": "Group your Dependabot Updates",
+    "link": "https://idunno.org/group-your-dependabot-updates/",
+    "pubDate": "2026-08-03T17:22:23+00:00"
+  },
+  {
+    "title": "Is your .NET vulnerability report going to get a CVE?",
+    "link": "https://idunno.org/is-your-net-vulnerability-report-going-to-get-a-cve/",
+    "pubDate": "2026-06-14T13:00:16+00:00"
+  },
+  {
+    "title": "When is a guid not a guid?",
+    "link": "https://idunno.org/when-is-a-guid-not-a-guid/",
+    "pubDate": "2026-06-08T17:54:07+00:00"
+  },
+  {
+    "title": "Protecting your .NET app from Server-Side Request Forgery (SSRF) vulnerabilities.",
+    "link": "https://idunno.org/protecting-your-net-app-from-server-side-request-forgery-ssrf-vulnerabilities/",
+    "pubDate": "2026-03-30T17:49:32+00:00"
+  },
+  {
     "title": "Generating SBOMs in NuGet packages with Microsoft.Sbom.Targets",
     "link": "https://idunno.org/generating-sboms-for-net-apps-and-nuget-packages-with-microsoft-sbom-targets/",
     "pubDate": "2025-12-08T09:46:14+00:00"
-  },
-  {
-    "title": "Enabling Source Control integration in Windows File Explorer",
-    "link": "https://idunno.org/enabling-source-control-integration-in-windows-file-explorer/",
-    "pubDate": "2025-12-07T21:22:45+00:00"
-  },
-  {
-    "title": "Publishing NuGet packages from a Github Action without secrets",
-    "link": "https://idunno.org/publishing-nuget-packages-from-a-github-action-without-secrets/",
-    "pubDate": "2025-12-05T10:59:12+00:00"
-  },
-  {
-    "title": ".NET code & nupkg signing in GitHub Actions",
-    "link": "https://idunno.org/net-code-nupkg-signing-in-github-actions/",
-    "pubDate": "2025-12-03T13:58:48+00:00"
-  },
-  {
-    "title": "Post Quantum Support in .NET",
-    "link": "https://idunno.org/post-quantum-support-in-net/",
-    "pubDate": "2025-11-18T19:38:19+00:00"
   }
 ]

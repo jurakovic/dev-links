@@ -1,27 +1,27 @@
 [
   {
+    "title": "A Crash Course in Predicate Logic",
+    "link": "https://www.hillelwayne.com/post/predicate-logic/",
+    "pubDate": "2026-09-01T00:00:00+00:00"
+  },
+  {
+    "title": "Logic for Programmers is Now Available",
+    "link": "https://www.hillelwayne.com/post/lfp/",
+    "pubDate": "2026-07-29T00:00:00+00:00"
+  },
+  {
+    "title": "Chicago vs New York Pizza is the Wrong Argument",
+    "link": "https://www.hillelwayne.com/post/pizza/",
+    "pubDate": "2026-04-01T00:00:00+00:00"
+  },
+  {
+    "title": "Some Silly Z3 Scripts I Wrote",
+    "link": "https://www.hillelwayne.com/post/z3-examples/",
+    "pubDate": "2026-02-23T00:00:00+00:00"
+  },
+  {
     "title": "A Very Early History of Algebraic Data Types",
     "link": "https://www.hillelwayne.com/post/algdt-history/",
     "pubDate": "2025-09-25T00:00:00+00:00"
-  },
-  {
-    "title": "Gamer Games for Non-Gamers",
-    "link": "https://www.hillelwayne.com/post/vidja-games/",
-    "pubDate": "2025-04-01T00:00:00+00:00"
-  },
-  {
-    "title": "A Perplexing Javascript Parsing Puzzle",
-    "link": "https://www.hillelwayne.com/post/javascript-puzzle/",
-    "pubDate": "2025-03-12T00:00:00+00:00"
-  },
-  {
-    "title": "The Hierarchy of Controls (or how to stop devs from dropping prod)",
-    "link": "https://www.hillelwayne.com/post/hoc/",
-    "pubDate": "2025-03-04T00:00:00+00:00"
-  },
-  {
-    "title": "Hiatus",
-    "link": "https://www.hillelwayne.com/post/hiatus/",
-    "pubDate": "2024-09-11T00:00:00+00:00"
   }
 ]

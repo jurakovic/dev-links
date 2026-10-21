@@ -1,306 +1,306 @@
 
-[dev-links](https://github.com/jurakovic/dev-links/blob/master_wf-fix/README.md#content)  
-└─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/master_wf-fix/blogs/README.md) / ***dev-news***  
+[dev-links](https://github.com/jurakovic/dev-links/blob/claude/great-mayer-jc3cq8/README.md#content)  
+└─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/claude/great-mayer-jc3cq8/blogs/README.md) / ***dev-news***  
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/simonwillison.png) <small>2026-02-22 simonwillison</small>  
-<small>[How I think about Codex](https://simonwillison.net/2026/Feb/22/how-i-think-about-codex/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-21 bencane</small>  
+<small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/dbreunig.png) <small>2026-02-21 dbreunig</small>  
-<small>[Why is Claude an Electron App?](https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blogspot.png) <small>2026-10-21 bartwullems</small>  
+<small>[Reducing the size of your authentication cookie with ITicketStore](https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
-<small>[Quoting Thibault Sottiaux](https://simonwillison.net/2026/Feb/21/thibault-sottiaux/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/simonwillison.png) <small>2026-10-20 simonwillison</small>  
+<small>[eMudhra Intermediate CA Compromise](https://simonwillison.net/2026/Oct/20/emudhra-certificates/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/simonwillison.png) <small>2026-02-21 simonwillison</small>  
-<small>[Andrej Karpathy talks about "Claws"](https://simonwillison.net/2026/Feb/21/claws/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/simonwillison.png) <small>2026-10-20 simonwillison</small>  
+<small>[Battle Drones - a vibe coded RTS with audio-based multiplayer](https://simonwillison.net/2026/Oct/20/battledrones/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
-<small>[Adding TILs, releases, museums, tools and research to my blog](https://simonwillison.net/2026/Feb/20/beats/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/visualstudiomagazine.png) <small>2026-10-20 visualstudiomagazine</small>  
+<small>[Forget 'Super Intelligence,' GitHub Announces 'Ambient Intelligence' -- With a Keypad](https://visualstudiomagazine.com/articles/2026/10/20/forget-super-intelligence-github-announces-ambient-intelligence-with-a-keypad.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/simonwillison.png) <small>2026-02-20 simonwillison</small>  
-<small>[Taalas serves Llama 3.1 8B at 17,000 tokens/second](https://simonwillison.net/2026/Feb/20/taalas/#atom-everything)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/visualstudiomagazine.png) <small>2026-10-20 visualstudiomagazine</small>  
+<small>[Azure MCP Server 3.0 Adds Cloud Operations Tools for AI Agents](https://visualstudiomagazine.com/articles/2026/10/20/azure-mcp-server-3-0-adds-cloud-operations-tools-for-ai-agents.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-20 azure-sql</small>  
-<small>[Light up Multiple Databases with a Single API with Data API builder’s multi-source configuration](https://devblogs.microsoft.com/azure-sql/multi-source-data-api-builder/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-20 github-ai</small>  
+<small>[How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/stackoverflow.png) <small>2026-02-20 stackoverflow</small>  
-<small>[Even GenAI uses Wikipedia as a source](https://stackoverflow.blog/2026/02/20/even-genai-uses-wikipedia-as-a-source/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/brentozar.png) <small>2026-10-20 brentozar</small>  
+<small>[I’m Probably Not Supposed To Show You Microsoft’s Auto-Indexing Tool.](https://www.brentozar.com/archive/2026/10/im-probably-not-supposed-to-show-you-microsofts-auto-indexing-tool/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blogspot.png) <small>2026-02-20 bartwullems</small>  
-<small>[Accessing Microsoft Fabric data locally with OneLake file explorer](https://bartwullems.blogspot.com/2026/02/accessing-microsoft-fabric-data-locally.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/db-berater.png) <small>2026-10-20 db-berater</small>  
+<small>[SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t](https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-20 bencane</small>  
-<small>[Getting More Out of Agentic Coding Tools](https://bencane.com/posts/2026-02-19/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/andrewlock.png) <small>2026-10-20 andrewlock</small>  
+<small>[An introduction to Compact Binary Object Representation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/minidump.png) <small>2026-02-20 minidump</small>  
-<small>[Too good to be true: an unexpected profiler trap](https://minidump.net/an-unexpected-profiler-trap/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/stackoverflow.png) <small>2026-10-20 stackoverflow</small>  
+<small>[Don't forget about the UI for AI](https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-19 visualstudio</small>  
-<small>[Custom Agents in Visual Studio: Built in and Build-Your-Own agents](https://devblogs.microsoft.com/visualstudio/custom-agents-in-visual-studio-built-in-and-build-your-own-agents/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/chrismdp.png) <small>2026-10-20 chrismdp</small>  
+<small>[You Must Draw Your AI Workflow to Control It](https://www.chrismdp.com/awml/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
-<small>[Fragments: February 19](https://martinfowler.com/fragments/2026-02-19.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-20 daniel-haxx</small>  
+<small>[Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/martinfowler.png) <small>2026-02-19 martinfowler</small>  
-<small>[Bliki: Host Leadership](https://martinfowler.com/bliki/HostLeadership.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/steven-giesel.png) <small>2026-10-20 steven-giesel</small>  
+<small>[A personal note: I built a running App for iOS and watchOS](https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/stackoverflow.png) <small>2026-02-19 stackoverflow</small>  
-<small>[Why Stack Overflow and Cloudflare launched a pay-per-crawl model](https://stackoverflow.blog/2026/02/19/stack-overflow-cloudflare-pay-per-crawl/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blogspot.png) <small>2026-10-20 bartwullems</small>  
+<small>[Napkin math: know what your system should do before you measure it](https://bartwullems.blogspot.com/2026/10/napkin-math-know-what-your-system.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blogspot.png) <small>2026-02-19 bartwullems</small>  
-<small>[Azure Pipelines–Failed to set a git tag](https://bartwullems.blogspot.com/2026/02/azure-pipelinesfailed-to-set-git-tag.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-20 paulhammant</small>  
+<small>[Coding Agents Guess Which Tests to Run. They Should Look It Up.](https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-18 azure-sql</small>  
-<small>[Federating Databases with Data API Builder Chaining](https://devblogs.microsoft.com/azure-sql/data-api-builder-chaining/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/seangoedecke.png) <small>2026-10-20 seangoedecke</small>  
+<small>[Laypeople support technical fields for technology, not art](https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/stackoverflow.png) <small>2026-02-18 stackoverflow</small>  
-<small>[Mind the gap: Closing the AI trust gap for developers](https://stackoverflow.blog/2026/02/18/closing-the-developer-ai-trust-gap/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/willemvandenende.png) <small>2026-10-20 willemvandenende</small>  
+<small>[Video Transcriber - turn your videos into text with slides](http://willemvandenende.com/blog/engineering/video-transcriber-turn-your-videos-into-text-with-slides)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/martinfowler.png) <small>2026-02-18 martinfowler</small>  
-<small>[Fragments: February 18](https://martinfowler.com/fragments/2026-02-18.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/simonwillison.png) <small>2026-10-19 simonwillison</small>  
+<small>[My obituary for programming](https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blogspot.png) <small>2026-02-18 bartwullems</small>  
-<small>[How I built a custom agent skill to configure Application Insights](https://bartwullems.blogspot.com/2026/02/how-i-built-custom-agent-skill-to.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/visualstudiomagazine.png) <small>2026-10-19 visualstudiomagazine</small>  
+<small>[Microsoft Foundry Update Brings Scheduled AI Agents, Smarter Tool Use and GPT-6 Models](https://visualstudiomagazine.com/articles/2026/10/19/microsoft-foundry-update-brings-scheduled-ai-agents-smarter-tool-use-and-gpt-6-models.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/swizec.png) <small>2026-02-18 swizec</small>  
-<small>[Users buy your service, not your code](https://swizec.com/blog/users-buy-your-service-not-your-code/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-19 github-ai</small>  
+<small>[How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-17 azure-sql</small>  
-<small>[Dear Copilot, can you help me with SQL?](https://devblogs.microsoft.com/azure-sql/dear-copilot-azure-sql/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/visualstudiomagazine.png) <small>2026-10-19 visualstudiomagazine</small>  
+<small>[Microsoft's WinUI Gallery Embraces the Experimental](https://visualstudiomagazine.com/articles/2026/10/19/microsofts-winui-gallery-embraces-the-experimental.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/martinfowler.png) <small>2026-02-17 martinfowler</small>  
-<small>[Bliki: Agentic Email](https://martinfowler.com/bliki/AgenticEmail.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-19 dotnet</small>  
+<small>[Get Your .NET MAUI App Ready for Xcode 27](https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/techtrenches.png) <small>2026-02-17 techtrenches</small>  
-<small>[The Country of Geniuses That Doesn’t Exist](https://techtrenches.dev/p/the-country-of-geniuses-that-doesnt)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-19 dotnet</small>  
+<small>[Bring Your Own Model to the GitHub Copilot SDK with C#](https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/martinfowler.png) <small>2026-02-17 martinfowler</small>  
-<small>[Harness Engineering](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/stackoverflow.png) <small>2026-10-19 stackoverflow</small>  
+<small>[Production-grade LLMs and agents: a field guide](https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/andrewlock.png) <small>2026-02-17 andrewlock</small>  
-<small>[Creating standard and "observable" instruments: System.Diagnostics.Metrics APIs - Part 3](https://andrewlock.net/creating-standard-and-observable-instruments/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-19 visualstudio</small>  
+<small>[Organize and revisit tabs with the keyboard](https://devblogs.microsoft.com/visualstudio/organize-and-revisit-tabs-with-the-keyboard/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/stackoverflow.png) <small>2026-02-17 stackoverflow</small>  
-<small>[Data is the new oil, and your database is the only way to extract it](https://stackoverflow.blog/2026/02/17/data-is-the-new-oil/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blogspot.png) <small>2026-10-19 bartwullems</small>  
+<small>[Using the ADFS userinfo endpoint instead of allatclaims](https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blogspot.png) <small>2026-02-17 bartwullems</small>  
-<small>[I didn't notice this VS Code feature until it made me question how I code](https://bartwullems.blogspot.com/2026/02/i-didnt-notice-this-vs-code-feature.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/seangoedecke.png) <small>2026-10-19 seangoedecke</small>  
+<small>[What requirements don't you have?](https://seangoedecke.com/what-requirements-dont-you-have/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/seangoedecke.png) <small>2026-02-17 seangoedecke</small>  
-<small>[LLM-generated skills work, if you generate them afterwards](https://seangoedecke.com/generate-skills-afterwards/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/simonwillison.png) <small>2026-10-18 simonwillison</small>  
+<small>[llm-tools-datasette 0.1.1](https://simonwillison.net/2026/Oct/18/llm-tools-datasette/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/damienbod.png) <small>2026-02-16 damienbod</small>  
-<small>[Add application security to the swiyu generic management verifier APIs using OAuth](https://damienbod.com/2026/02/16/add-application-security-to-the-swiyu-generic-management-verifier-apis-using-oauth/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/simonwillison.png) <small>2026-10-18 simonwillison</small>  
+<small>[llm-echo 0.5](https://simonwillison.net/2026/Oct/18/llm-echo/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blogspot.png) <small>2026-02-16 bartwullems</small>  
-<small>[ActionFlix Because even rom-coms deserve an explosion](https://bartwullems.blogspot.com/2026/02/actionflix-because-even-rom-coms.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/seangoedecke.png) <small>2026-10-18 seangoedecke</small>  
+<small>[Writing is no longer proof of work](https://seangoedecke.com/writing-is-no-longer-proof-of-work/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/swizec.png) <small>2026-02-16 swizec</small>  
-<small>[GeLLMan amnesia](https://swizec.com/blog/ge-ll-man-amnesia/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/brentozar.png) <small>2026-10-17 brentozar</small>  
+<small>[Thoughts on AI After My Panel Discussion](https://www.brentozar.com/archive/2026/10/thoughts-on-ai-after-my-panel-discussion/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steven-giesel.png) <small>2026-02-15 steven-giesel</small>  
-<small>[New runtime async is hitting .NET 11 - Part 1](https://steven-giesel.com/blogPost/1fb10ed2-df84-4080-b660-72c04a4cc674)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/lethain.png) <small>2026-10-17 lethain</small>  
+<small>[Speeding up code review with \`small-change\`](https://lethain.com/small-changes/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/addyosmani.png) <small>2026-02-15 addyosmani</small>  
-<small>[Bias Toward Action](https://addyosmani.com/blog/bias-towards-action/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/nikiforovall.png) <small>2026-10-17 nikiforovall</small>  
+<small>[Noisy Neighbors and Adaptive Rate Limiting in .NET](https://nikiforovall.blog/dotnet/2026/10/17/noisy-neighbor-adaptive-rate-limiting.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/seangoedecke.png) <small>2026-02-15 seangoedecke</small>  
-<small>[Two different tricks for fast LLM inference](https://seangoedecke.com/fast-llm-inference/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/swizec.png) <small>2026-10-17 swizec</small>  
+<small>[No more tech debt](https://swizec.com/blog/no-more-tech-debt)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steipete.png) <small>2026-02-15 steipete</small>  
-<small>[OpenClaw, OpenAI and the future](https://steipete.me/posts/2026/openclaw/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/developertoarchitect.png) <small>2026-10-16 developertoarchitect</small>  
+<small>[Lesson 225 - Architecture Narrative Act One (November 2, 2026)](http://www.developertoarchitect.com/lessons/lesson225.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/stackoverflow.png) <small>2026-02-13 stackoverflow</small>  
-<small>[Even your voice is a data problem](https://stackoverflow.blog/2026/02/13/even-your-voice-is-a-data-problem/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/netflix.png) <small>2026-10-16 netflix</small>  
+<small>[Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale](https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/ardalis.png) <small>2026-02-13 ardalis</small>  
-<small>[Llms Need Mark as Answer](https://ardalis.com/llms-need-mark-as-answer/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/db-berater.png) <small>2026-10-16 db-berater</small>  
+<small>[Nonfoldable User Defined Functions](https://www.db-berater.de/2026/10/sql-server-constant-folding-how-a-scalar-udf-can-break-query-performance/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/netflix.png) <small>2026-02-13 netflix</small>  
-<small>[Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194?source=rss----2615bd06b42e---4)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-16 erikej</small>  
+<small>[sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac](https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-13 microservices</small>  
-<small>[Authentication and authorization in a microservice architecture: Part 6 - implementing complex authorization using Oso Cloud local authorization](http://microservices.io//post/architecture/2026/02/13/microservices-authn-authz-part-6-oso-local-authorization.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/stackoverflow.png) <small>2026-10-16 stackoverflow</small>  
+<small>[AI says you’re right, formal methods say you’re wrong](https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-13 bencane</small>  
-<small>[Why is Infrastructure-as-Code so important? Hint: It's correctness](https://bencane.com/posts/2026-02-12/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blogspot.png) <small>2026-10-16 bartwullems</small>  
+<small>[Getting all your claims in the ID token with the ADFS allatclaims scope](https://bartwullems.blogspot.com/2026/10/getting-all-your-claims-in-id-token.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-12 azure-sql</small>  
-<small>[Build Intelligent Apps with SQL: Join the SQL + AI Datathon](https://devblogs.microsoft.com/azure-sql/build-intelligent-apps-with-sql-join-the-sql-ai-datathon/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/seangoedecke.png) <small>2026-10-16 seangoedecke</small>  
+<small>[AI is driving a boom in modestly successful software projects](https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steven-giesel.png) <small>2026-02-12 steven-giesel</small>  
-<small>[Collection Expression Arguments in C# 15 are "out"](https://steven-giesel.com/blogPost/441e0a21-9869-49e4-beac-b30bb9f9494c)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
+<small>[MCP standardized tools. Now we need the infrastructure around them.](https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/netflix.png) <small>2026-02-12 netflix</small>  
-<small>[Automating RDS Postgres to Aurora Postgres Migration](https://netflixtechblog.com/automating-rds-postgres-to-aurora-postgres-migration-261ca045447f?source=rss----2615bd06b42e---4)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-15 erikej</small>  
+<small>[From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-12 microservices</small>  
-<small>[QCONSF Microservices Platforms - part 4: Infrastructure services platform](http://microservices.io//post/architecture/2026/02/12/qconsf-microservices-platforms-part-4.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-15 github-eng</small>  
+<small>[Staying Evergreen: How we automated secure access and repo hygiene in a shared org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/addyosmani.png) <small>2026-02-12 addyosmani</small>  
-<small>[14 More Lessons from 14 years at Google](https://addyosmani.com/blog/14-more-lessons/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-15 daniel-haxx</small>  
+<small>[OSI approved the curl license](https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/visualstudiomagazine.png) <small>2026-02-11 visualstudiomagazine</small>  
-<small>[Devs Souring on .NET 11?](https://visualstudiomagazine.com/Articles/2026/02/11/Devs-Souring-on-NET-11.aspx)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/pragmaticengineer.png) <small>2026-10-15 pragmaticengineer</small>  
+<small>[The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-11 dotnet</small>  
-<small>[GitHub Copilot Testing for .NET Brings AI-powered Unit Tests to Visual Studio 2026](https://devblogs.microsoft.com/dotnet/github-copilot-testing-for-dotnet-available-in-visual-studio/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/stackoverflow.png) <small>2026-10-15 stackoverflow</small>  
+<small>[Why your platform team shouldn't build an AI context layer (even though they probably could)](https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-11 visualstudio</small>  
-<small>[Unlock language-specific rich symbol context using new find\_symbol tool](https://devblogs.microsoft.com/visualstudio/unlock-language-specific-rich-symbol-context-using-new-find_symbol-tool/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-15 dotnet</small>  
+<small>[Introducing dotnetup: A toolchain manager for .NET](https://devblogs.microsoft.com/dotnet/introducing-dotnetup/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steve-yegge.png) <small>2026-02-11 steve-yegge</small>  
-<small>[The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163?source=rss-c1ec701babb7------2)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/visualstudiomagazine.png) <small>2026-10-15 visualstudiomagazine</small>  
+<small>[VS Code 1.142 Brings AI Canvases, Tighter Agent Controls and a New Model Picker](https://visualstudiomagazine.com/articles/2026/10/15/vs-code-1,-d-,142-brings-ai-canvases-tighter-agent-controls-and-a-new-model-picker.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/dbreunig.png) <small>2026-02-11 dbreunig</small>  
-<small>[How System Prompts Define Agent Behavior](https://www.dbreunig.com/2026/02/10/system-prompts-define-the-agent-as-much-as-the-model.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-15 visualstudio</small>  
+<small>[Stop waiting on a failed build](https://devblogs.microsoft.com/visualstudio/stop-waiting-on-a-failed-build/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/seangoedecke.png) <small>2026-02-11 seangoedecke</small>  
-<small>[On screwing up](https://seangoedecke.com/screwing-up/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/martinfowler.png) <small>2026-10-15 martinfowler</small>  
+<small>[When Software Meets Hardware](https://martinfowler.com/articles/software-meets-hardware.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
-<small>[.NET 11 Preview 1 is now available!](https://devblogs.microsoft.com/dotnet/dotnet-11-preview-1/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/brentozar.png) <small>2026-10-15 brentozar</small>  
+<small>[\[Video\] Office Hours on the Last Alaskan Cruise of the Season](https://www.brentozar.com/archive/2026/10/video-office-hours-on-the-last-alaskan-cruise-of-the-season/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steven-giesel.png) <small>2026-02-10 steven-giesel</small>  
-<small>[.NET Toolbox February Update](https://steven-giesel.com/blogPost/ec7526ca-9f43-4e28-b8cf-2bbcd30349ca)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-15 microservices</small>  
+<small>[Architecting for uncertainty - part 4: Team Topologies organizes for fast flow](http://microservices.io//post/architecture/2026/10/15/architecting-for-uncertainty-part-4-team-topologies.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-10 dotnet</small>  
-<small>[.NET and .NET Framework February 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-february-2026-servicing-updates/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blogspot.png) <small>2026-10-15 bartwullems</small>  
+<small>[Getting visual explanations from your coding agent with the show-me skill](https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/minidump.png) <small>2026-02-10 minidump</small>  
-<small>[Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles](https://minidump.net/writing-a-net-gc-in-c-part-7/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-15 azure-sql</small>  
+<small>[Canada’s 2026 time zone updates: guidance for Microsoft SQL](https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/swizec.png) <small>2026-02-10 swizec</small>  
-<small>[The 3 curves that make a scalable business](https://swizec.com/blog/the-3-curves-that-make-a-scalable-business/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-15 bencane</small>  
+<small>[Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.](https://bencane.com/posts/2026-10-14-waiting-adds-latency/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/dbreunig.png) <small>2026-02-09 dbreunig</small>  
-<small>[The Potential of RLMs](https://www.dbreunig.com/2026/02/09/the-potential-of-rlms.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/third-bit.png) <small>2026-10-15 third-bit</small>  
+<small>[Frml: Next Steps](https://third-bit.com/2026/10/15/frml-complete/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-09 azure-sql</small>  
-<small>[Time Travel in Azure SQL with Temporal Tables](https://devblogs.microsoft.com/azure-sql/time-travel-in-azure-sql-with-temporal-tables/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/netflix.png) <small>2026-10-14 netflix</small>  
+<small>[Integrating Netflix’s Foundation Model into Personalization applications](https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/techtrenches.png) <small>2026-02-09 techtrenches</small>  
-<small>[Big Tech’s $364B Hypothesis Meets the $650B Reality](https://techtrenches.dev/p/big-techs-364b-hypothesis-meets-the)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/netflix.png) <small>2026-10-14 netflix</small>  
+<small>[DataJunction as Netflix’s answer to the missing piece of the modern data stack](https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/ardalis.png) <small>2026-02-09 ardalis</small>  
-<small>[2025 Year in Review](https://ardalis.com/2025-year-in-review/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/netflix.png) <small>2026-10-14 netflix</small>  
+<small>[Measuring the Impact of Personalized Recommendations](https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/damienbod.png) <small>2026-02-09 damienbod</small>  
-<small>[Isolate the swiyu Public Beta management APIs using YARP](https://damienbod.com/2026/02/09/isolate-the-swiyu-public-beta-management-apis-using-yarp/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/netflix.png) <small>2026-10-14 netflix</small>  
+<small>[TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads](https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/hanselman.png) <small>2026-02-09 hanselman</small>  
-<small>[Is the craft dead?](https://www.hanselman.com/blog/is-the-craft-dead)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/dbreunig.png) <small>2026-10-14 dbreunig</small>  
+<small>[Context Inertia: When Agents Won’t Let Go](https://www.dbreunig.com/2026/10/14/context-inertia.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-08 microservices</small>  
-<small>[GenAI-based software delivery needs a fast flow architecture](http://microservices.io//post/architecture/2026/02/08/architecting-for-genai-based-software-delivery.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-14 github-eng</small>  
+<small>[From 2,500 requests to 24: Rebuilding star history without the stargazers](https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/seangoedecke.png) <small>2026-02-08 seangoedecke</small>  
-<small>[Large tech companies don't need heroes](https://seangoedecke.com/heroism/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/brentozar.png) <small>2026-10-14 brentozar</small>  
+<small>[Breaking News: Hold Off on SSMS 22.11.0](https://www.brentozar.com/archive/2026/10/breaking-news-hold-off-on-ssms-22-11-0/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/third-bit.png) <small>2026-02-08 third-bit</small>  
-<small>[104 Days](https://third-bit.com/2026/02/08/104-days/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/martinfowler.png) <small>2026-10-14 martinfowler</small>  
+<small>[Build your slide template](https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/dbreunig.png) <small>2026-02-06 dbreunig</small>  
-<small>[The Rise of Spec Driven Development](https://www.dbreunig.com/2026/02/06/the-rise-of-spec-driven-development.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-14 visualstudio</small>  
+<small>[New Tools, New Workflows and the Value of the Visual Studio Subscription: What We Learned at VSLive! San Diego](https://devblogs.microsoft.com/visualstudio/new-tools-new-workflows-and-the-value-of-the-visual-studio-subscription-what-we-learned-at-vslive-san-diego/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/brendangregg.png) <small>2026-02-06 brendangregg</small>  
-<small>[Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-14 daniel-haxx</small>  
+<small>[A curl audit by Aisle](https://daniel.haxx.se/blog/2026/10/14/a-curl-audit-by-aisle/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/steve-yegge.png) <small>2026-02-06 steve-yegge</small>  
-<small>[The Anthropic Hive Mind](https://steve-yegge.medium.com/the-anthropic-hive-mind-d01f768f3d7b?source=rss-c1ec701babb7------2)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-14 daniel-haxx</small>  
+<small>[A UAF turned RCE](https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-02-06 bencane</small>  
-<small>[Optimizing the team’s workflow can be more impactful than building business features](https://bencane.com/posts/2026-02-05/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-14 daniel-haxx</small>  
+<small>[curl 8.23.0](https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/visualstudiomagazine.png) <small>2026-02-05 visualstudiomagazine</small>  
-<small>[VS Code 1.109 Deemed a Multi-Agent Development Platform](https://visualstudiomagazine.com/Articles/2026/02/05/VS-Code-1-109-Deemed-Multi-Agent-Development-Platform.aspx)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/agentic-patterns.png) <small>2026-10-14 agentic-patterns</small>  
+<small>[Curated Code Context Window](https://agentic-patterns.com/patterns/curated-code-context-window)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-05 dotnet</small>  
-<small>[.NET Framework 3.5 Moves to Standalone Deployment in new versions of Windows](https://devblogs.microsoft.com/dotnet/dotnet-framework-3-5-moves-to-standalone-deployment-in-new-versions-of-windows/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/agentic-patterns.png) <small>2026-10-14 agentic-patterns</small>  
+<small>[Dynamic Context Injection](https://agentic-patterns.com/patterns/dynamic-context-injection)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/lethain.png) <small>2026-02-05 lethain</small>  
-<small>[Refactoring internal documentation in Notion](https://lethain.com/refactoring-internal-docs-notion/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/agentic-patterns.png) <small>2026-10-14 agentic-patterns</small>  
+<small>[Fair-Share Task Queues with Heartbeat Leases](https://agentic-patterns.com/patterns/fair-share-task-queues-with-heartbeat-leases)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/rickstrahl.png) <small>2026-02-05 rickstrahl</small>  
-<small>[Reliably Refreshing the WebView2 Control](https://weblog.west-wind.com/posts/2026/Feb/04/Reliably-Refreshing-the-WebView2-Control)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/third-bit.png) <small>2026-10-14 third-bit</small>  
+<small>[Built-in Functions in Frml](https://third-bit.com/2026/10/14/frml-builtin/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/addyosmani.png) <small>2026-02-05 addyosmani</small>  
-<small>[Claude Code Swarms](https://addyosmani.com/blog/claude-code-agent-teams/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-13 dotnet</small>  
+<small>[Announcing .NET 11 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/seangoedecke.png) <small>2026-02-05 seangoedecke</small>  
-<small>[Getting the main thing right](https://seangoedecke.com/getting-the-main-thing-right/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-13 github-ai</small>  
+<small>[GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-04 visualstudio</small>  
-<small>[Roadmap for AI in Visual Studio (February)](https://devblogs.microsoft.com/visualstudio/roadmap-for-ai-in-visual-studio-february/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
+<small>[The Craft of Practitioner Voice](https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/codinghorror.png) <small>2026-02-04 codinghorror</small>  
-<small>[Launching The Rural Guaranteed Minimum Income Initiative](https://blog.codinghorror.com/launching-the-rural-guaranteed-minimum-income-initiative/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/martinfowler.png) <small>2026-10-13 martinfowler</small>  
+<small>[Are Harnesses Worth the Cost?](https://martinfowler.com/articles/are-harnesses-worth-the-cost.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/hanselman.png) <small>2026-02-04 hanselman</small>  
-<small>[The danger of glamourizing one shots](https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/chrismdp.png) <small>2026-10-13 chrismdp</small>  
+<small>[Seven AI Predictions From 1882](https://www.chrismdp.com/seven-ai-predictions-from-1882/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/addyosmani.png) <small>2026-02-04 addyosmani</small>  
-<small>[Agentic Engineering](https://addyosmani.com/blog/agentic-engineering/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/agentic-patterns.png) <small>2026-10-13 agentic-patterns</small>  
+<small>[Abstracted Code Representation for Review](https://agentic-patterns.com/patterns/abstracted-code-representation-for-review)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/swizec.png) <small>2026-02-04 swizec</small>  
-<small>[In praise of the stacked pull request](https://swizec.com/blog/in-praise-of-the-stacked-pull-request/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/agentic-patterns.png) <small>2026-10-13 agentic-patterns</small>  
+<small>[Action Caching & Replay Pattern](https://agentic-patterns.com/patterns/action-caching-replay)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/visualstudiomagazine.png) <small>2026-02-03 visualstudiomagazine</small>  
-<small>[VS Code Team Member Blames User Trust Decisions in Repo-Based Attacks](https://visualstudiomagazine.com/Articles/2026/02/03/VS-Code-Team-Member-Blames-User-Trust-Decisions-in-Repo-Based-Attacks.aspx)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/anthropic.png) <small>2026-10-13 anthropic</small>  
+<small>[Redesigning source control at Anthropic](https://www.anthropic.com/research/redesigning-source-control)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/microsoft.png) <small>2026-02-03 visualstudio</small>  
-<small>[Performance improvements to MEF-based editor productivity extensions](https://devblogs.microsoft.com/visualstudio/performance-improvements-to-mef-based-editor-productivity-extensions/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/third-bit.png) <small>2026-10-13 third-bit</small>  
+<small>[Arrays in Frml](https://third-bit.com/2026/10/13/frml-arrays/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/andrewlock.png) <small>2026-02-03 andrewlock</small>  
-<small>[Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2](https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-12 dotnet</small>  
+<small>[.NET and .NET Framework October 2026 servicing releases updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-october-2026-servicing-updates/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/guiferreira.png) <small>2026-02-03 guiferreira</small>  
-<small>[Understanding Hexagonal Architecture - A Guide to Ports and Adapters](https://guiferreira.me/archive/2026/understanding-hexagonal-architecture-a-guide-to-ports-and-adapters/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/github.png) <small>2026-10-12 github-ai</small>  
+<small>[GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/techtrenches.png) <small>2026-02-02 techtrenches</small>  
-<small>[When Capex Beats Headcount: What Amazon’s Layoffs Actually Mean](https://techtrenches.dev/p/when-capex-beats-headcount-what-amazons)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/techtrenches.png) <small>2026-10-12 techtrenches</small>  
+<small>[America Runs at Catastrophic Yield](https://techtrenches.dev/p/america-runs-at-catastrophic-yield)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/terriblesoftware.png) <small>2026-02-02 terriblesoftware</small>  
-<small>[Why Am I Doing the Thinking for You?](https://terriblesoftware.org/2026/02/02/why-am-i-doing-the-thinking-for-you/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-12 microservices</small>  
+<small>[What is a pattern, and what isn't?](http://microservices.io//post/architecture/2026/10/12/what-is-a-pattern.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/damienbod.png) <small>2026-02-02 damienbod</small>  
-<small>[Use client assertions in ASP.NET Core using OpenID Connect, OAuth DPoP and OAuth PAR](https://damienbod.com/2026/02/02/use-client-assertions-in-asp-net-core-using-openid-connect-oauth-dpop-and-oauth-par/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/damienbod.png) <small>2026-10-12 damienbod</small>  
+<small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-01-31 antirez</small>  
-<small>[Automatic programming](http://antirez.com/news/159)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-12 paulhammant</small>  
+<small>[Red-Green-Refactor Moves Into the Harness](https://paulhammant.com/2026/10/12/red-green-refactor-moves-into-the-harness/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/addyosmani.png) <small>2026-01-31 addyosmani</small>  
-<small>[Self-Improving Coding Agents](https://addyosmani.com/blog/self-improving-agents/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/seangoedecke.png) <small>2026-10-12 seangoedecke</small>  
+<small>[Software engineers don't get to be Luddites about AI](https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/swizec.png) <small>2026-01-31 swizec</small>  
-<small>[How you migrate is everything](https://swizec.com/blog/how-you-migrate-is-everything/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/third-bit.png) <small>2026-10-12 third-bit</small>  
+<small>[Loops in Frml](https://third-bit.com/2026/10/12/frml-loops/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
-<small>[Lesson 218 - Thread Delegate Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson218.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/third-bit.png) <small>2026-10-10 third-bit</small>  
+<small>[Contracts in Frml](https://third-bit.com/2026/10/10/frml-contracts/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
-<small>[Lesson 217 - Supervisor-Consumer Pattern (Lesson Pending...)](http://www.developertoarchitect.com/lessons/lesson217.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-08 erikej</small>  
+<small>[The SQL Project preplan script - the missing step in DACPAC publishing](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/developertoarchitect.png) <small>2026-01-30 developertoarchitect</small>  
-<small>[Lesson 216 - Creating Scalable Systems (February 2, 2026)](http://www.developertoarchitect.com/lessons/lesson216.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/pragmaticengineer.png) <small>2026-10-08 pragmaticengineer</small>  
+<small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-01-30 microservices</small>  
-<small>[QCONSF Microservices Platforms part 3: Security platform](http://microservices.io//post/architecture/2026/01/30/qconsf-microservices-platforms-part-3.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/chrismdp.png) <small>2026-10-08 chrismdp</small>  
+<small>[Webinar: AI Can Do (Most Of) Your Work](https://www.chrismdp.com/webinar-ai-can-do-most-of-your-work/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-01-30 bencane</small>  
-<small>[I follow an architecture principle I call The Law of Collective Amnesia](https://bencane.com/posts/2026-01-29/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/db-berater.png) <small>2026-10-08 db-berater</small>  
+<small>[CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!](https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/guiferreira.png) <small>2026-01-30 guiferreira</small>  
-<small>[How to use AGENTS.md to define AI Rules across any IDE](https://guiferreira.me/archive/2026/how-to-use-agents-md-to-define-ai-rules-across-any-ide/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/blank.png) <small>2026-10-08 bencane</small>  
+<small>[System Design pro-tip: force yourself to create a viable second design.](https://bencane.com/posts/2026-10-07-viable-second-design/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/pragmaticengineer.png) <small>2026-01-29 pragmaticengineer</small>  
-<small>[I replaced a $120/year micro-SaaS in 20 minutes with LLM-generated code](https://blog.pragmaticengineer.com/i-replaced-a-120-year-micro-saas-in-20-minutes-with-llm-generated-code/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/swizec.png) <small>2026-10-08 swizec</small>  
+<small>[When code is cheap, judgement becomes the job](https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-01-29 erikej</small>  
-<small>[Getting Started with SQL Database Project Power Tools](https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/willemvandenende.png) <small>2026-10-08 willemvandenende</small>  
+<small>[Will It Blend?](http://willemvandenende.com/blog/engineering/will-it-blend)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master_wf-fix/favicons/blank.png) <small>2026-01-29 microservices</small>  
-<small>[My GenAI development workflow: Idea to Code](http://microservices.io//post/architecture/2026/01/29/about-idea-to-code.html)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/claude/great-mayer-jc3cq8/favicons/microsoft.png) <small>2026-10-07 azuresqlblog</small>  
+<small>[Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846)</small>
 

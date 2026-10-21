@@ -1,27 +1,27 @@
 [
   {
+    "title": "The hidden trap of fixed buffers in C#",
+    "link": "https://minidump.net/the-hidden-trap-of-fixed-buffers-in-csharp/",
+    "pubDate": "2026-09-29T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 10: Finalizers",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-10/",
+    "pubDate": "2026-06-30T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 9: Frozen segments and new allocation strategy",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-9/",
+    "pubDate": "2026-03-17T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 8: Interior pointers",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-8/",
+    "pubDate": "2026-03-03T00:00:00+00:00"
+  },
+  {
     "title": "Too good to be true: an unexpected profiler trap",
     "link": "https://minidump.net/an-unexpected-profiler-trap/",
     "pubDate": "2026-02-20T00:00:00+00:00"
-  },
-  {
-    "title": "Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles",
-    "link": "https://minidump.net/writing-a-net-gc-in-c-part-7/",
-    "pubDate": "2026-02-10T00:00:00+00:00"
-  },
-  {
-    "title": "Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep",
-    "link": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
-    "pubDate": "Tue, 27 Jan 2026 00:00:00 +0000"
-  },
-  {
-    "title": "Investigating a deadlock in Visual Studio",
-    "link": "https://minidump.net/investigating-a-deadlock-in-visual-studio/",
-    "pubDate": "Wed, 17 Dec 2025 00:00:00 +0000"
-  },
-  {
-    "title": "Using profiler function hooks in .NET with Silhouette",
-    "link": "https://minidump.net/using-function-hooks-with-silhouette/",
-    "pubDate": "Tue, 21 Oct 2025 00:00:00 +0000"
   }
 ]

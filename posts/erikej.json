@@ -1,27 +1,27 @@
 [
   {
-    "title": "Getting Started with SQL Database Project Power Tools",
-    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2026/01/29/sqlproj-power-tools-guide.html",
-    "pubDate": "2026-01-29T17:28:49+00:00"
+    "title": "sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac",
+    "link": "https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html",
+    "pubDate": "2026-10-16T10:00:00+00:00"
   },
   {
-    "title": "Reduce SQL Database Project deployment time from minutes to single digit seconds with DacDeploySkip",
-    "link": "https://erikej.github.io/dacfx/performance/2025/10/22/dacfx-performance.html",
-    "pubDate": "2025-10-22T17:28:49+00:00"
+    "title": "From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html",
+    "pubDate": "2026-10-15T18:00:00+00:00"
   },
   {
-    "title": "Get a 180% speed increase on large async reads with Microsoft.Data.SqlClient (and EF Core) - here is how to turn it on!",
-    "link": "https://erikej.github.io/sqlclient/dotnet/performance/2025/10/20/sqlclient-performance.html",
-    "pubDate": "2025-10-20T17:28:49+00:00"
+    "title": "The SQL Project preplan script - the missing step in DACPAC publishing",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html",
+    "pubDate": "2026-10-08T18:45:00+00:00"
   },
   {
-    "title": "Introducing ‘SQL Project Power Tools’ - create, import, diagram and analyze SQL database projects in Visual Studio",
-    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/2025/09/30/sqlproj-power-tools-visualstudio.html",
-    "pubDate": "2025-09-30T17:28:49+00:00"
+    "title": "DacDeploySkip update: simpler CI and publish profile support",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html",
+    "pubDate": "2026-09-13T10:45:00+00:00"
   },
   {
-    "title": "Presenting T-SQL Analyzer - live best practices analysis of your SQL scripts in Visual Studio",
-    "link": "https://erikej.github.io/sql/dacfx/visualstudio/2025/08/25/dacfx-visx-rules.html",
-    "pubDate": "2025-08-25T17:28:49+00:00"
+    "title": "The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease",
+    "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html",
+    "pubDate": "2026-09-04T18:00:00+00:00"
   }
 ]
