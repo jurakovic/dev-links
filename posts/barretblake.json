@@ -1,0 +1,27 @@
+[
+  {
+    "title": "AI Wrote the Code. Now Who Owns the Architecture?",
+    "link": "https://barretblake.dev/posts/development/2026/09/ai-wrote-the-code/",
+    "pubDate": "2026-09-23T13:00:00+00:00"
+  },
+  {
+    "title": "Your PC Is a Build Agent: Part 2",
+    "link": "https://barretblake.dev/posts/development/2026/09/self-hosted-part-2/",
+    "pubDate": "2026-09-18T13:00:00+00:00"
+  },
+  {
+    "title": "Multi-Tenant .NET, Part 4: Moving Day",
+    "link": "https://barretblake.dev/posts/development/2026/08/multi-tenant-moving-day/",
+    "pubDate": "2026-08-27T00:00:00+00:00"
+  },
+  {
+    "title": "Your PC Is a Build Agent: Self-Hosted GitHub Actions in Docker Desktop",
+    "link": "https://barretblake.dev/posts/development/2026/08/github-actions-runner-docker-desktop/",
+    "pubDate": "2026-08-25T00:00:00+00:00"
+  },
+  {
+    "title": "Multi-Tenant .NET, Part 3: Separate Buildings (Database per Tenant)",
+    "link": "https://barretblake.dev/posts/development/2026/08/multi-tenant-part-3/",
+    "pubDate": "2026-08-20T00:00:00+00:00"
+  }
+]
