@@ -1,5 +1,15 @@
 [
   {
+    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+    "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+    "pubDate": "2026-10-21T18:41:53+00:00"
+  },
+  {
+    "title": "Panache — RTS Belle Époque pour mobile",
+    "link": "https://simonwillison.net/2026/Oct/21/panache/",
+    "pubDate": "2026-10-21T16:25:16+00:00"
+  },
+  {
     "title": "eMudhra Intermediate CA Compromise",
     "link": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
     "pubDate": "2026-10-20T23:50:25+00:00"
@@ -13,15 +23,5 @@
     "title": "My obituary for programming",
     "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
     "pubDate": "2026-10-19T23:58:25+00:00"
-  },
-  {
-    "title": "llm-tools-datasette 0.1.1",
-    "link": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette/",
-    "pubDate": "2026-10-18T23:43:09+00:00"
-  },
-  {
-    "title": "llm-echo 0.5",
-    "link": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-    "pubDate": "2026-10-18T23:16:16+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "VS Code 1.143 Makes Copilot Default, Adds AI Model 'Bake-Off' and Local AI Without Credits",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/21/vs-code-1-143-makes-copilot-default-adds-ai-model-bake-off-and-local-ai-without-credits.aspx",
+    "pubDate": "2026-10-21T16:50:00+00:00"
+  },
+  {
     "title": "Forget 'Super Intelligence,' GitHub Announces 'Ambient Intelligence' -- With a Keypad",
     "link": "https://visualstudiomagazine.com/articles/2026/10/20/forget-super-intelligence-github-announces-ambient-intelligence-with-a-keypad.aspx",
     "pubDate": "2026-10-20T17:23:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Microsoft's WinUI Gallery Embraces the Experimental",
     "link": "https://visualstudiomagazine.com/articles/2026/10/19/microsofts-winui-gallery-embraces-the-experimental.aspx",
     "pubDate": "2026-10-19T18:46:00+00:00"
-  },
-  {
-    "title": "VS Code 1.142 Brings AI Canvases, Tighter Agent Controls and a New Model Picker",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/15/vs-code-1,-d-,142-brings-ai-canvases-tighter-agent-controls-and-a-new-model-picker.aspx",
-    "pubDate": "2026-10-15T15:58:00+00:00"
   }
 ]
