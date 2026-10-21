@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Curated Code Context Window",
+    "link": "https://agentic-patterns.com/patterns/curated-code-context-window",
+    "pubDate": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Dynamic Context Injection",
+    "link": "https://agentic-patterns.com/patterns/dynamic-context-injection",
+    "pubDate": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Fair-Share Task Queues with Heartbeat Leases",
+    "link": "https://agentic-patterns.com/patterns/fair-share-task-queues-with-heartbeat-leases",
+    "pubDate": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Abstracted Code Representation for Review",
+    "link": "https://agentic-patterns.com/patterns/abstracted-code-representation-for-review",
+    "pubDate": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Action Caching & Replay Pattern",
+    "link": "https://agentic-patterns.com/patterns/action-caching-replay",
+    "pubDate": "2026-10-13T00:00:00+00:00"
+  }
+]

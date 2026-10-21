@@ -1,0 +1,27 @@
+[
+  {
+    "title": "The agent principal-agent problem",
+    "link": "https://crawshaw.io/blog/agent-principal-agent",
+    "pubDate": "2026-05-07T00:00:00+00:00"
+  },
+  {
+    "title": "I am building a cloud",
+    "link": "https://crawshaw.io/blog/building-a-cloud",
+    "pubDate": "2026-04-22T00:00:00+00:00"
+  },
+  {
+    "title": "Eight more months of agents",
+    "link": "https://crawshaw.io/blog/eight-more-months-of-agents",
+    "pubDate": "2026-02-08T00:00:00+00:00"
+  },
+  {
+    "title": "How I program with Agents",
+    "link": "https://crawshaw.io/blog/programming-with-agents",
+    "pubDate": "2025-06-08T00:00:00+00:00"
+  },
+  {
+    "title": "How I program with LLMs",
+    "link": "https://crawshaw.io/blog/programming-with-llms",
+    "pubDate": "2025-01-06T00:00:00+00:00"
+  }
+]

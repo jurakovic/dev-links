@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Noisy Neighbors and Adaptive Rate Limiting in .NET",
+    "link": "https://nikiforovall.blog/dotnet/2026/10/17/noisy-neighbor-adaptive-rate-limiting.html",
+    "pubDate": "2026-10-17T00:00:00+00:00"
+  },
+  {
+    "title": "Claude Code Hub 1.0: Your Own Command Center",
+    "link": "https://nikiforovall.blog/ai/2026/10/02/claude-code-hub-1-0.html",
+    "pubDate": "2026-10-02T00:00:00+00:00"
+  },
+  {
+    "title": "Redline: Claude Code Review with a Human in the Loop",
+    "link": "https://nikiforovall.blog/ai/2026/09/13/redline.html",
+    "pubDate": "2026-09-13T00:00:00+00:00"
+  },
+  {
+    "title": "Headless Claude Code as a Building Block: Auditing Agent Instructions",
+    "link": "https://nikiforovall.blog/ai/2026/08/23/headless-claude-code-in-agent-instructions-diagnoser.html",
+    "pubDate": "2026-08-23T00:00:00+00:00"
+  },
+  {
+    "title": "Waking Idle Agents: Event-Based Integrations with Claude Code Plugin Monitors",
+    "link": "https://nikiforovall.blog/ai/2026/08/21/claude-code-plugin-monitors.html",
+    "pubDate": "2026-08-21T00:00:00+00:00"
+  }
+]

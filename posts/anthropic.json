@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Redesigning source control at Anthropic",
+    "link": "https://www.anthropic.com/research/redesigning-source-control",
+    "pubDate": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "How we contain Claude across products",
+    "link": "https://www.anthropic.com/research/how-we-contain-claude",
+    "pubDate": "2026-05-25T00:00:00+00:00"
+  },
+  {
+    "title": "An update on recent Claude Code quality reports",
+    "link": "https://www.anthropic.com/research/april-23-postmortem",
+    "pubDate": "2026-04-23T00:00:00+00:00"
+  },
+  {
+    "title": "Scaling Managed Agents: Decoupling the brain from the hands",
+    "link": "https://www.anthropic.com/research/managed-agents",
+    "pubDate": "2026-04-08T00:00:00+00:00"
+  },
+  {
+    "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+    "link": "https://www.anthropic.com/research/claude-code-auto-mode",
+    "pubDate": "2026-03-25T00:00:00+00:00"
+  }
+]
