@@ -40,7 +40,7 @@
 <outline type="rss" text="Joel Spolsky" title="Joel on Software" htmlUrl="https://www.joelonsoftware.com" xmlUrl="https://www.joelonsoftware.com/feed/" />
 <outline type="rss" text="Neil Green" title="Neil on Software (Podcast)" htmlUrl="https://neilonsoftware.com/articles/" xmlUrl="https://neilonsoftware.com/feed/" />
 <outline type="rss" text="Brendan Gregg" title="Systems Performance" htmlUrl="https://www.brendangregg.com/blog/" xmlUrl="https://www.brendangregg.com/blog/rss.xml" />
-<outline type="rss" text="Kent Beck" title="Software Design: Tidy First?" htmlUrl="https://tidyfirst.substack.com/archive" xmlUrl="https://tidyfirst.substack.com/feed" />
+<outline type="rss" text="Kent Beck" title="Software Design: Tidy First?" htmlUrl="https://newsletter.kentbeck.com/archive" xmlUrl="https://newsletter.kentbeck.com/feed" />
 <outline type="rss" text="Paul Hammant" title="Paul Hammant" htmlUrl="https://paulhammant.com/archive/" xmlUrl="https://feeds.feedburner.com/paulhammant" />
 <outline type="rss" text="Eduards Sizovs" title="Eduards Sizovs" htmlUrl="https://sizovs.net" xmlUrl="https://sizovs.net/feed.xml" />
 <outline type="rss" text="Bart Wullems" title="The Art of Simplicity" htmlUrl="https://bartwullems.blogspot.com" xmlUrl="https://bartwullems.blogspot.com/feeds/posts/default" />
@@ -58,7 +58,7 @@
 <outline type="rss" text="Greg Wilson" title="The Third Bit Blog" htmlUrl="https://third-bit.com/blog/" xmlUrl="https://third-bit.com/atom.xml" />
 <outline type="rss" text="Damien Bowden" title="Software Engineering" htmlUrl="https://damienbod.com" xmlUrl="https://damienbod.com/feed/" />
 <outline type="rss" text="Shay Rojansky" title="Shay Rojansky" htmlUrl="https://www.roji.org" xmlUrl="https://www.roji.org/feed.xml" />
-<outline type="rss" text="Barret Blake" title="Barret Codes" htmlUrl="https://barretblake.dev/posts/development/" xmlUrl="" />
+<outline type="rss" text="Barret Blake" title="Barret Codes" htmlUrl="https://barretblake.dev/posts/development/" xmlUrl="https://barretblake.dev/posts/development/index.xml" />
 <outline type="rss" text="Denis Stetskov" title="From the Trenches" htmlUrl="https://techtrenches.dev/archive" xmlUrl="https://techtrenches.dev/feed" />
 <outline type="rss" text="Barry Dorrans" title="Ramblings from a .NET Security PM" htmlUrl="https://idunno.org" xmlUrl="https://idunno.org/rss/" />
 <outline type="rss" text="Rick Strahl" title="Rick Strahl" htmlUrl="https://weblog.west-wind.com" xmlUrl="https://feeds.feedburner.com/rickstrahl" />
