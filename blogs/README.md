@@ -224,7 +224,7 @@ Vladimir Khorikov | Enterprise Craftsmanship
 <div id="enterprisecraftsmanship" class="blog-posts"></div>
 
 ![icon](../favicons/jonhilton.png)
-Jon Hilton | Making sense of ASP.NET (Blazor)  
+Jon Hilton | Practical Engineer  
 <https://jonhilton.net/post/>  
 <https://github.com/jonhilt>  
 
@@ -254,7 +254,7 @@ Shay Rojansky
 <div id="roji" class="blog-posts"></div>
 
 ![icon](../favicons/barretblake.png)
-Barret Blake  
+Barret Blake | Barret Codes  
 <https://barretblake.dev/posts/development/>  
 <https://github.com/barretb>  
 

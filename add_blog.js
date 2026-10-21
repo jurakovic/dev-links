@@ -152,6 +152,7 @@ async function addBlog() {
       id,
       author,
       title,
+      description: '',
       url,
       feed,
       extras: [],

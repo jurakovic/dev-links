@@ -506,7 +506,7 @@ Shay Rojansky
 <div id="roji" class="blog-posts"></div>
 
 ![icon](favicons/barretblake.png)
-Barret Blake  
+Barret Blake | Barret Codes  
 <https://barretblake.dev/posts/development/>  
 <https://github.com/barretb>  
 
