@@ -9,12 +9,32 @@ const TEMPLATE_FILE = path.join(__dirname, 'README.template');
 const OUTPUT_FILE = path.join(__dirname, 'README.md');
 const BLOGS_JSON = path.join(__dirname, 'blogs.json');
 const FAVICON_PATH = `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${branchName}/favicons/`;
+const README_URL = `https://github.com/jurakovic/dev-links/blob/${branchName}/README.md`;
+const BLOGS_README_URL = `https://github.com/jurakovic/dev-links/blob/${branchName}/blogs/README.md`;
+
+// --- Category tags: label, CSS class (tag-*) and link to the category section ---
+// Main categories link to the official sections in README.md, the rest to blogs/README.md
+const CATEGORY_TAGS = {
+    'ai-main':        { label: 'AI',                 cls: 'ai',             url: `${README_URL}#ai` },
+    'ai':             { label: 'AI',                 cls: 'ai',             url: `${BLOGS_README_URL}#blogs-ai` },
+    'dotnet-main':    { label: '.NET',               cls: 'net',            url: `${README_URL}#net` },
+    'dotnet':         { label: '.NET',               cls: 'net',            url: `${BLOGS_README_URL}#blogs-net` },
+    'sql-main':       { label: 'SQL Server',         cls: 'sql',            url: `${README_URL}#sql-server` },
+    'sql':            { label: 'SQL Server',         cls: 'sql',            url: `${BLOGS_README_URL}#blogs-sql` },
+    'arch-main':      { label: 'Architecture',       cls: 'architecture',   url: `${README_URL}#architecture` },
+    'general':        { label: 'General',            cls: 'general',        url: `${BLOGS_README_URL}#blogs-general` },
+    'systems-data':   { label: 'Systems &amp; Data', cls: 'systems',        url: `${BLOGS_README_URL}#blogs-systems` },
+    'management':     { label: 'Management',         cls: 'management',     url: `${BLOGS_README_URL}#blogs-management` },
+    'tech-companies': { label: 'Tech Companies',     cls: 'tech-companies', url: `${BLOGS_README_URL}#blogs-tech-companies` },
+};
 
 // --- Load blogs config ---
 const blogsConfig = JSON.parse(fs.readFileSync(BLOGS_JSON, 'utf8'));
 const iconMap = {};
+const categoryMap = {};
 for (const blog of blogsConfig) {
     iconMap[blog.id] = blog.icon;
+    categoryMap[blog.id] = blog.category;
 }
 
 // --- Read all json files ---
@@ -60,10 +80,13 @@ for (const post of posts100) {
     let dateStr = isNaN(yyyy) ? post.pubDate : `${yyyy}-${mm}-${dd}`;
     // Icon from blogs.json
     let icon = iconMap[post.feed] || 'blank';
+    // Category tag linking to its section (GitHub strips the class and shows a plain <kbd>)
+    let tag = CATEGORY_TAGS[categoryMap[post.feed]];
+    let tagStr = tag ? ` [<kbd class="tag tag-${tag.cls}">${tag.label}</kbd>](${tag.url})` : '';
     // Markdown escape for title (minimal)
     let escTitle = post.title.replace(/([*_`\[\]])/g, '\\$1').replace(/</g, '&lt;').replace(/>/g, '&gt;');
     // Output
-    md += `![icon](${FAVICON_PATH}${icon}.png) <small>${dateStr} ${post.feed}</small>  \n`;
+    md += `![icon](${FAVICON_PATH}${icon}.png) <small>${dateStr} ${post.feed}${tagStr}</small>  \n`;
     md += `<small>[${escTitle}](${post.link})</small>\n\n`;
 }
 

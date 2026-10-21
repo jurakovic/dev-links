@@ -506,9 +506,10 @@ Shay Rojansky
 <div id="roji" class="blog-posts"></div>
 
 ![icon](favicons/barretblake.png)
-Barret Blake  
+Barret Blake | Barret Codes  
 <https://barretblake.dev/posts/development/>  
 <https://github.com/barretb>  
+<div id="barretblake" class="blog-posts"></div>
 
 ![icon](favicons/idunno.png)
 Barry Dorrans | Ramblings from a .NET Security PM  

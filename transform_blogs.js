@@ -6,6 +6,7 @@ const transformed = blogs.map(blog => ({
     id: blog.id,
     author: blog.author,
     title: blog.title,
+    description: blog.description,
     url: blog.url,
     feed: blog.feed,
     extras: blog.extras,
