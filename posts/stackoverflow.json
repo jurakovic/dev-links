@@ -1,5 +1,10 @@
 [
   {
+    "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
+    "link": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
+    "pubDate": "2026-10-21T14:00:00+00:00"
+  },
+  {
     "title": "Don't forget about the UI for AI",
     "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
     "pubDate": "2026-10-20T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "MCP standardized tools. Now we need the infrastructure around them.",
     "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
     "pubDate": "2026-10-15T20:39:29+00:00"
-  },
-  {
-    "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
-    "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
-    "pubDate": "2026-10-15T16:01:45+00:00"
   }
 ]
