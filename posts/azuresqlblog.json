@@ -1,5 +1,15 @@
 [
   {
+    "title": "Managed Instance link with failover groups (limited preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/managed-instance-link-with-failover-groups-limited-preview/ba-p/4566514",
+    "pubDate": "2026-10-21T11:04:10+00:00"
+  },
+  {
+    "title": "Make Estate yours: Focus on the databases and issues you own in Database Hub",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/make-estate-yours-focus-on-the-databases-and-issues-you-own-in/ba-p/4565861",
+    "pubDate": "2026-10-21T15:41:22+00:00"
+  },
+  {
     "title": "Azure SQL Database is retiring Always Encrypted with Intel SGX enclaves",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-database-is-retiring-always-encrypted-with-intel-sgx/ba-p/4556565",
     "pubDate": "2026-10-07T09:15:52+00:00"
@@ -13,15 +23,5 @@
     "title": "Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846",
     "pubDate": "2026-10-07T19:57:26+00:00"
-  },
-  {
-    "title": "MI link support for multiple databases in an Always On availability group for SQL Server (Preview)",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546",
-    "pubDate": "2026-10-05T22:45:59+00:00"
-  },
-  {
-    "title": "Public Preview: Performance monitoring for Azure SQL in Database Hub",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498",
-    "pubDate": "2026-10-01T18:38:44+00:00"
   }
 ]
