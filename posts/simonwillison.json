@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Armin Ronacher",
+    "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+    "pubDate": "2026-10-22T15:34:13+00:00"
+  },
+  {
     "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
     "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
     "pubDate": "2026-10-21T18:41:53+00:00"
@@ -18,10 +23,5 @@
     "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
     "link": "https://simonwillison.net/2026/Oct/20/battledrones/",
     "pubDate": "2026-10-20T19:34:19+00:00"
-  },
-  {
-    "title": "My obituary for programming",
-    "link": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
-    "pubDate": "2026-10-19T23:58:25+00:00"
   }
 ]
