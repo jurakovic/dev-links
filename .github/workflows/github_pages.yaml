@@ -40,6 +40,9 @@ jobs:
           sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
 
+      - name: Render latest posts
+        run: node render_posts.js
+
       - name: Fetch dev-tools branch
         run: |
           git fetch origin dev-tools
