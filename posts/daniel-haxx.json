@@ -1,5 +1,10 @@
 [
   {
+    "title": "“ignore the slop”",
+    "link": "https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/",
+    "pubDate": "2026-10-22T05:46:34+00:00"
+  },
+  {
     "title": "Do minor curl vulnerabilities in the open",
     "link": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
     "pubDate": "2026-10-20T06:09:42+00:00"
@@ -18,10 +23,5 @@
     "title": "A UAF turned RCE",
     "link": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
     "pubDate": "2026-10-14T06:11:02+00:00"
-  },
-  {
-    "title": "curl 8.23.0",
-    "link": "https://daniel.haxx.se/blog/2026/10/14/curl-8-23-0/",
-    "pubDate": "2026-10-14T06:01:43+00:00"
   }
 ]
