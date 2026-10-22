@@ -1,5 +1,10 @@
 [
   {
+    "title": "Modern Query Editor for Azure SQL Database is now generally available",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/modern-query-editor-for-azure-sql-database-is-now-generally/ba-p/4566868",
+    "pubDate": "2026-10-22T12:56:40+00:00"
+  },
+  {
     "title": "Managed Instance link with failover groups (limited preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/managed-instance-link-with-failover-groups-limited-preview/ba-p/4566514",
     "pubDate": "2026-10-21T11:04:10+00:00"
@@ -18,10 +23,5 @@
     "title": "Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907",
     "pubDate": "2026-09-29T22:34:32+00:00"
-  },
-  {
-    "title": "Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846",
-    "pubDate": "2026-09-30T00:02:06+00:00"
   }
 ]
