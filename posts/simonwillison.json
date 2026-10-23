@@ -1,5 +1,15 @@
 [
   {
+    "title": "Quick Study",
+    "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "pubDate": "2026-10-23T21:35:13+00:00"
+  },
+  {
+    "title": "Introducing Kimi K3.1 Pro",
+    "link": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "pubDate": "2026-10-23T19:40:54+00:00"
+  },
+  {
     "title": "DE STAAT - FREEDOM (Official Music Video)",
     "link": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/",
     "pubDate": "2026-10-22T19:42:26+00:00"
@@ -13,15 +23,5 @@
     "title": "Quoting Armin Ronacher",
     "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
     "pubDate": "2026-10-22T15:34:13+00:00"
-  },
-  {
-    "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-    "link": "https://simonwillison.net/2026/Oct/21/php-security-release/",
-    "pubDate": "2026-10-21T18:41:53+00:00"
-  },
-  {
-    "title": "Panache — RTS Belle Époque pour mobile",
-    "link": "https://simonwillison.net/2026/Oct/21/panache/",
-    "pubDate": "2026-10-21T16:25:16+00:00"
   }
 ]
