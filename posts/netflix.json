@@ -1,5 +1,10 @@
 [
   {
+    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-22T22:19:12+00:00"
+  },
+  {
     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
     "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-16T16:01:02+00:00"
@@ -18,10 +23,5 @@
     "title": "Measuring the Impact of Personalized Recommendations",
     "link": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-14T19:57:43+00:00"
-  },
-  {
-    "title": "TimeSeries Tiered Storage Journey: Kafka/Flink Streams to Native Cassandra Cold Reads",
-    "link": "https://netflixtechblog.com/timeseries-tiered-storage-journey-kafka-flink-streams-to-native-cassandra-cold-reads-e59d597c9d60?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-14T19:56:08+00:00"
   }
 ]
