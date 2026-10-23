@@ -1,5 +1,10 @@
 [
   {
+    "title": "Bad at email",
+    "link": "https://daverupert.com/2026/10/bad-at-email/",
+    "pubDate": "2026-10-23T14:57:00+00:00"
+  },
+  {
     "title": "Recursion is DEAD and HTML killed it",
     "link": "https://daverupert.com/2026/10/html-recursion/",
     "pubDate": "2026-10-06T15:36:00+00:00"
@@ -18,10 +23,5 @@
     "title": "I wish you the best in the Offline",
     "link": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
     "pubDate": "2026-09-14T15:42:00+00:00"
-  },
-  {
-    "title": "Introducing Microlighter",
-    "link": "https://daverupert.com/2026/08/microlighter/",
-    "pubDate": "2026-08-19T15:22:00+00:00"
   }
 ]
