@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-23 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[Managing security with Database Hub in Fabric: From signals to action](https://techcommunity.microsoft.com/t5/azure-sql-blog/managing-security-with-database-hub-in-fabric-from-signals-to/ba-p/4567059)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-23 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Quick Study](https://simonwillison.net/2026/Oct/23/quick-study-painter/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-10-13 agentic-patterns [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#ai)</small>  
 <small>[Abstracted Code Representation for Review](https://agentic-patterns.com/patterns/abstracted-code-representation-for-review)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-10-13 agentic-patterns [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#ai)</small>  
-<small>[Action Caching & Replay Pattern](https://agentic-patterns.com/patterns/action-caching-replay)</small>
 
