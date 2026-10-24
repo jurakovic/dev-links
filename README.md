@@ -22,6 +22,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-23 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Microsoft Shows C# Developers How to Bring Their Own Models to GitHub Copilot SDK](https://visualstudiomagazine.com/articles/2026/10/23/microsoft-shows-csharp-developers-how-to-bring-their-own-models-to-github-copilot-sdk.aspx)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-23 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[Public Preview: Alerts for Azure SQL Database in Database Hub, powered by Fabric Activator](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-alerts-for-azure-sql-database-in-database-hub/ba-p/4566356)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-23 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[GitHub Previews Package Firewall to Block Malicious npm Dependencies](https://visualstudiomagazine.com/articles/2026/10/23/github-previews-package-firewall-to-block-malicious-npm-dependencies.aspx)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-10-13 agentic-patterns [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#ai)</small>  
 <small>[Action Caching & Replay Pattern](https://agentic-patterns.com/patterns/action-caching-replay)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-10-13 anthropic [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#ai)</small>  
-<small>[Redesigning source control at Anthropic](https://www.anthropic.com/research/redesigning-source-control)</small>
 
