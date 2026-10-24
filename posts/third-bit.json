@@ -1,5 +1,10 @@
 [
   {
+    "title": "What's in My Home Directory",
+    "link": "https://third-bit.com/2026/10/24/whats-in-my-home-directory/",
+    "pubDate": "2026-10-24T22:01:37+00:00"
+  },
+  {
     "title": "Frml: Next Steps",
     "link": "https://third-bit.com/2026/10/15/frml-complete/",
     "pubDate": "2026-10-15T16:01:47+00:00"
@@ -18,10 +23,5 @@
     "title": "Loops in Frml",
     "link": "https://third-bit.com/2026/10/12/frml-loops/",
     "pubDate": "2026-10-12T22:01:37+00:00"
-  },
-  {
-    "title": "Contracts in Frml",
-    "link": "https://third-bit.com/2026/10/10/frml-contracts/",
-    "pubDate": "2026-10-10T16:01:26+00:00"
   }
 ]
