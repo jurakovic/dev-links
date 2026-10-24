@@ -1,5 +1,10 @@
 [
   {
+    "title": "Update Statistics from Replicated Database",
+    "link": "https://www.db-berater.de/2026/10/offloading-sql-server-statistics-updates-with-transactional-replication-and-stats_stream/",
+    "pubDate": "2026-10-24T11:53:11+00:00"
+  },
+  {
     "title": "SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t",
     "link": "https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/",
     "pubDate": "2026-10-20T11:23:23+00:00"
@@ -18,10 +23,5 @@
     "title": "Partition a big table with zero downtime",
     "link": "https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/",
     "pubDate": "2026-08-06T08:49:02+00:00"
-  },
-  {
-    "title": "WHERE 1 = 1 – good practice?",
-    "link": "https://www.db-berater.de/2025/11/where-1-1-good-practice/",
-    "pubDate": "2025-11-04T12:28:49+00:00"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "title": "battledrones v14: Compass Rose, a four player map",
+    "link": "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "pubDate": "2026-10-24T03:59:57+00:00"
+  },
+  {
     "title": "Quick Study",
     "link": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
     "pubDate": "2026-10-23T21:35:13+00:00"
@@ -18,10 +23,5 @@
     "title": "Donating Agent Skills to the Agentic AI Foundation",
     "link": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
     "pubDate": "2026-10-22T18:09:56+00:00"
-  },
-  {
-    "title": "Quoting Armin Ronacher",
-    "link": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
-    "pubDate": "2026-10-22T15:34:13+00:00"
   }
 ]
