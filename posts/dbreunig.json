@@ -1,5 +1,10 @@
 [
   {
+    "title": "The State of Context Engineering",
+    "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+    "pubDate": "2026-10-24T17:08:00+00:00"
+  },
+  {
     "title": "Context Inertia: When Agents Won’t Let Go",
     "link": "https://www.dbreunig.com/2026/10/14/context-inertia.html",
     "pubDate": "2026-10-14T19:53:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Fable &amp; The End of the Free Lunch",
     "link": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
     "pubDate": "2026-08-23T18:35:00+00:00"
-  },
-  {
-    "title": "Harnesses are Situated Agents",
-    "link": "https://www.dbreunig.com/2026/08/14/harnesses-are-situated-agents.html",
-    "pubDate": "2026-08-14T22:23:00+00:00"
   }
 ]
