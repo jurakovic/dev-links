@@ -1,5 +1,10 @@
 [
   {
+    "title": "Primary constructors are more than syntactic sugar",
+    "link": "https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a",
+    "pubDate": "2026-10-26T08:19:00+00:00"
+  },
+  {
     "title": "A personal note: I built a running App for iOS and watchOS",
     "link": "https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1",
     "pubDate": "2026-10-20T05:54:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Adding Properties with extension methods in C# 14",
     "link": "https://steven-giesel.com/blogPost/4368fcea-c922-403e-bb3b-6b4990eb36d2",
     "pubDate": "2026-09-04T09:07:48+00:00"
-  },
-  {
-    "title": "Claude Memory Admin",
-    "link": "https://steven-giesel.com/blogPost/b26c70f8-c11e-4b2b-81ad-54088ed674cf",
-    "pubDate": "2026-08-18T20:01:15+00:00"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-10-26 steven-giesel [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[Primary constructors are more than syntactic sugar](https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-25 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[.NET October 2026 Out-of-Band Security Updates](https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/)</small>
 
@@ -300,7 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-13 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Announcing .NET 11 Release Candidate 2](https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-13 github-ai [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[GitHub’s model for secret detection: Finding more secrets with less noise](https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/)</small>
 
