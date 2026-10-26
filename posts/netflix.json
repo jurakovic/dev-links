@@ -1,5 +1,10 @@
 [
   {
+    "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
+    "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-10-26T16:01:02+00:00"
+  },
+  {
     "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
     "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-23T18:32:51+00:00"
@@ -18,10 +23,5 @@
     "title": "Integrating Netflix’s Foundation Model into Personalization applications",
     "link": "https://netflixtechblog.com/integrating-netflixs-foundation-model-into-personalization-applications-cf176b5860eb?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-14T20:02:22+00:00"
-  },
-  {
-    "title": "DataJunction as Netflix’s answer to the missing piece of the modern data stack",
-    "link": "https://netflixtechblog.com/datajunction-as-netflixs-answer-to-the-missing-piece-of-the-modern-data-stack-92af926b40a5?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-14T19:59:08+00:00"
   }
 ]
