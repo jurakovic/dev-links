@@ -1,5 +1,15 @@
 [
   {
+    "title": "Why a COM Initialize Spy Cannot Reliably Clean Up an Apartment Bound Object",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/26/why-a-com-initialize-spy-cannot-reliably-clean-up-an-apartment-bound-object.aspx",
+    "pubDate": "2026-10-26T22:54:00+00:00"
+  },
+  {
+    "title": "Raymond Chen Explains Why the COM Static Store Misses Apartment Cleanup Timing",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/26/raymond-chen-explains-why-the-com-static-store-misses-apartment-cleanup-timing.aspx",
+    "pubDate": "2026-10-26T22:50:00+00:00"
+  },
+  {
     "title": "Four-Part Cosmos DB Series Builds an AI Travel Planner from Prototype to Operations",
     "link": "https://visualstudiomagazine.com/articles/2026/10/26/four-part-cosmos-db-series-builds-an-ai-travel-planner-from-prototype-to-operations.aspx",
     "pubDate": "2026-10-26T16:32:00+00:00"
@@ -13,15 +23,5 @@
     "title": "Microsoft Issues Out-of-Band .NET Security Fixes, Including New .NET 11 RC",
     "link": "https://visualstudiomagazine.com/articles/2026/10/26/microsoft-issues-out-of-band--net-security-fixes-including-new-net-11-rc.aspx",
     "pubDate": "2026-10-26T16:19:00+00:00"
-  },
-  {
-    "title": "Visual Studio Adds a Way to Resume Unsaved Markdown Investigation Notes",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/visual-studio-adds-a-way-to-resume-unsaved-markdown-investigation-notes.aspx",
-    "pubDate": "2026-10-26T16:13:00+00:00"
-  },
-  {
-    "title": "Azure DevOps Users Advised to Check PHP Dependencies After Critical Flaws",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/azure-devops-users-advised-to-check-php-dependencies-after-critical-flaws.aspx",
-    "pubDate": "2026-10-26T16:08:00+00:00"
   }
 ]
