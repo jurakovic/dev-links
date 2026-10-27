@@ -1,27 +1,27 @@
 [
   {
-    "title": "Why a COM Initialize Spy Cannot Reliably Clean Up an Apartment Bound Object",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/why-a-com-initialize-spy-cannot-reliably-clean-up-an-apartment-bound-object.aspx",
-    "pubDate": "2026-10-26T22:54:00+00:00"
+    "title": "PowerSync Adds Alpha Support for Offline Apps Using Azure DocumentDB",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/27/powersync-adds-alpha-support-for-offline-apps-using-azure-documentdb.aspx",
+    "pubDate": "2026-10-27T15:21:00+00:00"
   },
   {
-    "title": "Raymond Chen Explains Why the COM Static Store Misses Apartment Cleanup Timing",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/raymond-chen-explains-why-the-com-static-store-misses-apartment-cleanup-timing.aspx",
-    "pubDate": "2026-10-26T22:50:00+00:00"
+    "title": "Microsoft Foundry Adds Grounding and Confidence Guidance for Document AI",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-foundry-adds-grounding-and-confidence-guidance-for-document-ai.aspx",
+    "pubDate": "2026-10-27T15:19:00+00:00"
   },
   {
-    "title": "Four-Part Cosmos DB Series Builds an AI Travel Planner from Prototype to Operations",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/four-part-cosmos-db-series-builds-an-ai-travel-planner-from-prototype-to-operations.aspx",
-    "pubDate": "2026-10-26T16:32:00+00:00"
+    "title": "Microsoft Shows How C++ Can Produce an Immediately Completed Future",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-shows-how-cpp-can-produce-an-immediately-completed-future.aspx",
+    "pubDate": "2026-10-27T15:15:00+00:00"
   },
   {
-    "title": "Microsoft Revisits the Socrates Design Behind Azure SQL Database Hyperscale",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/microsoft-revisits-the-socrates-design-behind-azure-sql-database-hyperscale.aspx",
-    "pubDate": "2026-10-26T16:23:00+00:00"
+    "title": "VS Code Modern UI Preview Adds Compact Layout Connected Tabs",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/27/vs-code-modern-ui-preview-adds-compact-layout-connected-tabs.aspx",
+    "pubDate": "2026-10-27T15:13:00+00:00"
   },
   {
-    "title": "Microsoft Issues Out-of-Band .NET Security Fixes, Including New .NET 11 RC",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/26/microsoft-issues-out-of-band--net-security-fixes-including-new-net-11-rc.aspx",
-    "pubDate": "2026-10-26T16:19:00+00:00"
+    "title": "Microsoft Agent Framework Brings Vector Stores to Python Agents",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-agent-framework-brings-vector-stores-to-python-agents.aspx",
+    "pubDate": "2026-10-27T15:02:00+00:00"
   }
 ]

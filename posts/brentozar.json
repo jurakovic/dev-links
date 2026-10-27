@@ -1,5 +1,10 @@
 [
   {
+    "title": "New Stuff in the Mastering Server Tuning Class",
+    "link": "https://www.brentozar.com/archive/2026/10/new-stuff-in-the-mastering-server-tuning-class/",
+    "pubDate": "2026-10-27T13:15:08+00:00"
+  },
+  {
     "title": "This Friday’s the Deadline for My Next Live Class Rotation.",
     "link": "https://www.brentozar.com/archive/2026/10/this-fridays-the-deadline-for-my-next-live-class-rotation/",
     "pubDate": "2026-10-26T13:15:46+00:00"
@@ -13,10 +18,5 @@
     "title": "Why’s This Query So Slow in Prod? Check sp_BlitzPlanCompare.",
     "link": "https://www.brentozar.com/archive/2026/10/whys-this-query-so-slow-in-prod-check-sp_blitzplancompare/",
     "pubDate": "2026-10-21T13:15:22+00:00"
-  },
-  {
-    "title": "I’m Probably Not Supposed To Show You Microsoft’s Auto-Indexing Tool.",
-    "link": "https://www.brentozar.com/archive/2026/10/im-probably-not-supposed-to-show-you-microsofts-auto-indexing-tool/",
-    "pubDate": "2026-10-20T13:15:46+00:00"
   }
 ]
