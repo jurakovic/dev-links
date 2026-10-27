@@ -1,5 +1,10 @@
 [
   {
+    "title": "Elevators, toasters, and the birth of Java",
+    "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+    "pubDate": "2026-10-27T05:01:35+00:00"
+  },
+  {
     "title": "Rumors of the SaaS demise are greatly exaggerated",
     "link": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
     "pubDate": "2026-10-23T07:40:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
     "link": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
     "pubDate": "2026-10-21T14:00:00+00:00"
-  },
-  {
-    "title": "Don't forget about the UI for AI",
-    "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
-    "pubDate": "2026-10-20T07:40:00+00:00"
   }
 ]
