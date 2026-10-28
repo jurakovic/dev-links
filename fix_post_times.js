@@ -11,6 +11,12 @@
 //   "Sun, 15 Feb 2026 00:00:00 +0000" (RFC 2822)
 //   "Tue, 10 Feb 2026 00:00:00 GMT"   (RFC 2822 variant)
 //
+// A few express it as midnight in their own timezone instead, which in UTC falls
+// on the previous day:
+//
+//   "Sat, 07 Feb 2026 00:00:00 +1100" (brendangregg)
+//   "2023-05-20T00:00:00+02:00"       (roji)
+//
 // Additionally, feeds publish dates in mixed formats (ISO 8601, RFC 2822, with
 // varying timezone offsets), which causes inconsistent sorting in gen_news.js.
 //
@@ -53,6 +59,11 @@
 //    b) The pubDate is midnight on today's date (feed is date-only; midnight has
 //       already passed so condition (a) would miss it).
 //
+//    A midnight pubDate is read as its written calendar date at midnight UTC, whatever
+//    its offset, so both conditions compare the date the feed actually states.
+//    Example: "Sat, 07 Feb 2026 00:00:00 +1100" seen on 2026-02-07
+//             → "2026-02-07T05:04:00+00:00" (not "2026-02-06T13:00:00+00:00")
+//
 //    If the date is in the past, the post is older than this run (e.g. a new feed was
 //    added and historical posts are appearing for the first time). Using the current
 //    time would assign a completely wrong date, so the post falls through to strategy
@@ -64,6 +75,7 @@
 //    normalizes the format without changing the represented instant in time.
 //    Example: "Sat, 31 Jan 2026 10:25:27 +0100" → "2026-01-31T09:25:27+00:00"
 //    Example: "Fri, 13 Jan 2023 00:00:00 +0000" → "2023-01-13T00:00:00+00:00"
+//    Example: "2023-05-20T00:00:00+02:00"       → "2023-05-20T00:00:00+00:00" (written date kept)
 //    If the date is unparseable, the raw value is kept as a fallback.
 //
 // FILE READ SAFETY
@@ -124,9 +136,14 @@ function toISO(date) {
 const nowISO = toISO(now);
 const todayUTC = nowISO.slice(0, 10);
 
-function pubdateToYMD(pubDate) {
-    const d = new Date(pubDate);
-    return isNaN(d.getTime()) ? null : toISO(d).slice(0, 10);
+// Date-only feeds emit midnight in their own timezone ("Sat, 07 Feb 2026 00:00:00 +1100",
+// "2023-05-20T00:00:00+02:00"). Converting that to UTC would shift the post to the previous day,
+// so it is read as the written calendar date at midnight UTC. Returns null if not midnight.
+function writtenMidnight(pubDate) {
+    const m = /^(.*\d)[T ]00:00:00(?:\.0+)?\s*(?:Z|[A-Z]{1,5}|[+-]\d{2}:?\d{2})?$/i.exec(pubDate || '');
+    if (!m) return null;
+    const d = new Date(m[1].includes('-') ? `${m[1]}T00:00:00Z` : `${m[1]} 00:00:00 GMT`);
+    return isNaN(d.getTime()) ? null : d;
 }
 
 let input = '';
@@ -153,9 +170,10 @@ process.stdin.on('end', () => {
         }
 
         // New post not seen before
-        const d = new Date(post.pubDate);
+        const midnight = writtenMidnight(post.pubDate);
+        const d = midnight || new Date(post.pubDate);
         const isFutureDateTime = !isNaN(d.getTime()) && d > now;
-        const isMidnightToday = /00:00:00/.test(post.pubDate) && pubdateToYMD(post.pubDate) === todayUTC;
+        const isMidnightToday = midnight !== null && toISO(midnight).slice(0, 10) === todayUTC;
         if (isFutureDateTime || isMidnightToday) {
             // Future datetime or today with no real time — assign current time
             return { ...post, pubDate: nowISO };
