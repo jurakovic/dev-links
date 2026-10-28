@@ -1,5 +1,10 @@
 [
   {
+    "title": "Goldfish in Claude",
+    "link": "https://steven-giesel.com/blogPost/3a583eb3-fd7a-47f0-a45c-1818f6a33b0d",
+    "pubDate": "2026-10-28T17:32:13+00:00"
+  },
+  {
     "title": "Primary constructors are more than syntactic sugar",
     "link": "https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a",
     "pubDate": "2026-10-26T08:19:00+00:00"
@@ -18,10 +23,5 @@
     "title": "Quack Quack: Duck-Typing in C# with Interceptors",
     "link": "https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809",
     "pubDate": "2026-09-12T15:44:44+00:00"
-  },
-  {
-    "title": "Adding Properties with extension methods in C# 14",
-    "link": "https://steven-giesel.com/blogPost/4368fcea-c922-403e-bb3b-6b4990eb36d2",
-    "pubDate": "2026-09-04T09:07:48+00:00"
   }
 ]
