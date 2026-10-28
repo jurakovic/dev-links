@@ -1,5 +1,15 @@
 [
   {
+    "title": "GitHub Octoverse 2026",
+    "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+    "pubDate": "2026-10-28T16:45:23+00:00"
+  },
+  {
+    "title": "The October inflection point for vibe game development",
+    "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+    "pubDate": "2026-10-28T13:55:15+00:00"
+  },
+  {
     "title": "Quoting Terk Terkowitz",
     "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
     "pubDate": "2026-10-28T10:09:07+00:00"
@@ -13,15 +23,5 @@
     "title": "GPT-6.1 Terra",
     "link": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
     "pubDate": "2026-10-26T23:53:07+00:00"
-  },
-  {
-    "title": "Quoting Jason Koebler",
-    "link": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
-    "pubDate": "2026-10-26T19:00:25+00:00"
-  },
-  {
-    "title": "webframe: evaluated as a scraper and a sandbox",
-    "link": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
-    "pubDate": "2026-10-26T16:15:00+00:00"
   }
 ]

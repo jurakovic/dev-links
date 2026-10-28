@@ -1,27 +1,27 @@
 [
   {
-    "title": "Microsoft Shows Local Cosmos DB Inspection from the Terminal",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-shows-local-cosmos-db-inspection-from-the-terminal.aspx",
-    "pubDate": "2026-10-27T22:56:00+00:00"
+    "title": "Azure Cosmos DB SDK for Rust Hits 1.0 as Microsoft Updates Authentication Libraries",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/azure-cosmos-db-sdk-for-rust-hits-1-0-as-microsoft-updates-authentication-libraries.aspx",
+    "pubDate": "2026-10-28T16:33:00+00:00"
   },
   {
-    "title": "Microsoft Explains MSIX's 'Bring Your Own Installer' Model",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-explains-msis-bring-your-own-installer-model.aspx",
-    "pubDate": "2026-10-27T22:52:00+00:00"
+    "title": "GitHub Copilot Adds GPT-6.1 Terra for Lower-Cost Agentic Coding",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-adds-gpt-6-1-terra-for-lower-cost-agentic-coding.aspx",
+    "pubDate": "2026-10-28T16:14:00+00:00"
   },
   {
-    "title": "Azure DevOps Server 26H2 RC Updates Boards, Pipelines and Test Runs",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/27/azure-devops-server-26h2-rc-updates-boards-pipelines-and-test-runs.aspx",
-    "pubDate": "2026-10-27T22:48:00+00:00"
+    "title": "GitHub Copilot SDK Adds Server-to-Server Authentication for Agents",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-sdk-adds-server-to-server-authentication-for-agents.aspx",
+    "pubDate": "2026-10-28T16:03:00+00:00"
   },
   {
-    "title": "Azure Cosmos DB Makes Safe Key Rotation Generally Available",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/27/azure-cosmos-db-makes-safe-key-rotation-generally-available.aspx",
-    "pubDate": "2026-10-27T21:25:00+00:00"
+    "title": "GitHub Copilot Assisted Permissions Reach General Availability",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-assisted-permissions-reach-general-availability.aspx",
+    "pubDate": "2026-10-28T16:00:00+00:00"
   },
   {
-    "title": "Microsoft Urges Java Upgrade Planning Ahead of 2027 Support Deadlines",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/27/microsoft-urges-java-upgrade-planning-ahead-of-2027-support-deadlines.aspx",
-    "pubDate": "2026-10-27T21:23:00+00:00"
+    "title": "Why Higher Priority Would Not Always Rescue Windows Task Manager",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/why-higher-priority-would-not-always-rescue-windows-task-manager.aspx",
+    "pubDate": "2026-10-28T15:34:00+00:00"
   }
 ]

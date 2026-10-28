@@ -1,5 +1,10 @@
 [
   {
+    "title": "Why You Don’t Get Parallelism When You Ask for The Whole Table",
+    "link": "https://www.brentozar.com/archive/2026/10/why-you-dont-get-parallelism-when-you-ask-for-the-whole-table/",
+    "pubDate": "2026-10-28T13:15:44+00:00"
+  },
+  {
     "title": "New Stuff in the Mastering Server Tuning Class",
     "link": "https://www.brentozar.com/archive/2026/10/new-stuff-in-the-mastering-server-tuning-class/",
     "pubDate": "2026-10-27T13:15:08+00:00"
@@ -13,10 +18,5 @@
     "title": "[Video] Talking Pronouns in Alaska",
     "link": "https://www.brentozar.com/archive/2026/10/video-talking-pronouns-in-alaska/",
     "pubDate": "2026-10-22T13:15:31+00:00"
-  },
-  {
-    "title": "Why’s This Query So Slow in Prod? Check sp_BlitzPlanCompare.",
-    "link": "https://www.brentozar.com/archive/2026/10/whys-this-query-so-slow-in-prod-check-sp_blitzplancompare/",
-    "pubDate": "2026-10-21T13:15:22+00:00"
   }
 ]

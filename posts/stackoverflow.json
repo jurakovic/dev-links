@@ -1,5 +1,10 @@
 [
   {
+    "title": "Delivering controlled and concentrated context",
+    "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
+    "pubDate": "2026-10-28T14:55:00+00:00"
+  },
+  {
     "title": "Elevators, toasters, and the birth of Java",
     "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
     "pubDate": "2026-10-27T05:01:35+00:00"
@@ -18,10 +23,5 @@
     "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
     "link": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/",
     "pubDate": "2026-10-21T16:26:42+00:00"
-  },
-  {
-    "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
-    "link": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
-    "pubDate": "2026-10-21T14:00:00+00:00"
   }
 ]
