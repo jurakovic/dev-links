@@ -1,5 +1,10 @@
 [
   {
+    "title": "A JSON schema Is not an AI governance layer",
+    "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+    "pubDate": "2026-10-28T19:27:07+00:00"
+  },
+  {
     "title": "Delivering controlled and concentrated context",
     "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
     "pubDate": "2026-10-28T14:55:00+00:00"
@@ -18,10 +23,5 @@
     "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
     "link": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
     "pubDate": "2026-10-22T19:37:29+00:00"
-  },
-  {
-    "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
-    "link": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/",
-    "pubDate": "2026-10-21T16:26:42+00:00"
   }
 ]

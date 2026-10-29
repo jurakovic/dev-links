@@ -1,5 +1,15 @@
 [
   {
+    "title": "Bliki: LLM Voice",
+    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
+    "pubDate": "2026-10-29T14:28:00+00:00"
+  },
+  {
+    "title": "Why are good developers so wary of agentic development?",
+    "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+    "pubDate": "2026-10-29T13:50:00+00:00"
+  },
+  {
     "title": "Fragments: October 28",
     "link": "https://martinfowler.com/fragments/2026-10-28.html",
     "pubDate": "2026-10-28T12:55:00+00:00"
@@ -13,15 +23,5 @@
     "title": "When Software Meets Hardware",
     "link": "https://martinfowler.com/articles/software-meets-hardware.html",
     "pubDate": "2026-10-15T13:25:00+00:00"
-  },
-  {
-    "title": "Build your slide template",
-    "link": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
-    "pubDate": "2026-10-14T14:20:00+00:00"
-  },
-  {
-    "title": "The Craft of Practitioner Voice",
-    "link": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
-    "pubDate": "2026-10-13T14:06:00+00:00"
   }
 ]
