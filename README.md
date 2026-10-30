@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-30 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[Is Azure SQL Database Hyperscale “distributed SQL”?](https://devblogs.microsoft.com/azure-sql/is-azure-sql-database-hyperscale-distributed-sql/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-30 db-berater [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
+<small>[MSTVFs: Better Estimates, Same Fundamental Problem](https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-10-30 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
+<small>[\[Video\] Office Hours: 4 Great Questions Off Canada](https://www.brentozar.com/archive/2026/10/office-hours-4-great-questions-off-canada/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-30 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Trust Is the Binding Constraint](https://newsletter.kentbeck.com/p/trust-is-the-binding-constraint)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-10-30 lethain [<kbd class="tag tag-management">Management</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-management)</small>  
+<small>[Self-reinforcing quality / adopting verification pattern](https://lethain.com/adopting-verification-pattern/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-30 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Elegance and intelligence are anticorrelated](https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/)</small>
 
@@ -135,9 +150,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-10-26 daverupert [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Arc-like automatic picture-in-picture in Chromium](https://daverupert.com/2026/10/arc-like-automatic-picture-in-picture-in-chromium/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-10-26 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
-<small>[This Friday’s the Deadline for My Next Live Class Rotation.](https://www.brentozar.com/archive/2026/10/this-fridays-the-deadline-for-my-next-live-class-rotation/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-26 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Keep your investigation between sessions](https://devblogs.microsoft.com/visualstudio/keep-your-investigation-between-sessions/)</small>
@@ -291,16 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-16 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Getting all your claims in the ID token with the ADFS allatclaims scope](https://bartwullems.blogspot.com/2026/10/getting-all-your-claims-in-id-token.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-15 github-eng [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[Staying Evergreen: How we automated secure access and repo hygiene in a shared org](https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-15 daniel-haxx [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
-<small>[OSI approved the curl license](https://daniel.haxx.se/blog/2026/10/15/osi-approved-the-curl-license/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-15 pragmaticengineer [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-15 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Frml: Next Steps](https://third-bit.com/2026/10/15/frml-complete/)</small>
 

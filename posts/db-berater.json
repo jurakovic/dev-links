@@ -1,5 +1,10 @@
 [
   {
+    "title": "MSTVFs: Better Estimates, Same Fundamental Problem",
+    "link": "https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/",
+    "pubDate": "2026-10-30T15:41:54+00:00"
+  },
+  {
     "title": "Update Statistics from Replicated Database",
     "link": "https://www.db-berater.de/2026/10/offloading-sql-server-statistics-updates-with-transactional-replication-and-stats_stream/",
     "pubDate": "2026-10-24T11:53:11+00:00"
@@ -18,10 +23,5 @@
     "title": "CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!",
     "link": "https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/",
     "pubDate": "2026-10-08T07:09:56+00:00"
-  },
-  {
-    "title": "Partition a big table with zero downtime",
-    "link": "https://www.db-berater.de/2026/08/partition-a-big-table-with-zero-downtime/",
-    "pubDate": "2026-08-06T08:49:02+00:00"
   }
 ]
