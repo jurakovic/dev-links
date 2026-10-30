@@ -1,5 +1,10 @@
 [
   {
+    "title": "dbreunig/nesformer",
+    "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+    "pubDate": "2026-10-30T21:59:22+00:00"
+  },
+  {
     "title": "API credits benefit for eligible ChatGPT subscriptions",
     "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
     "pubDate": "2026-10-29T22:48:29+00:00"
@@ -18,10 +23,5 @@
     "title": "Quoting Ted Sanders",
     "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
     "pubDate": "2026-10-28T23:23:21+00:00"
-  },
-  {
-    "title": "GitHub Octoverse 2026",
-    "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
-    "pubDate": "2026-10-28T16:45:23+00:00"
   }
 ]

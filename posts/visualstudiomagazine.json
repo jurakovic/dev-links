@@ -1,5 +1,20 @@
 [
   {
+    "title": "Azure Developer CLI Adds a Look Before You Deploy",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-developer-cli-adds-a-look-before-you-deploy.aspx",
+    "pubDate": "2026-10-30T21:31:00+00:00"
+  },
+  {
+    "title": "Azure SQL Hyperscale Is Distributed -- With One Writer",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-sql-hyperscale-is-distributed-with-one-writer.aspx",
+    "pubDate": "2026-10-30T21:26:00+00:00"
+  },
+  {
+    "title": "Microsoft Tests Whether 'Eval' Folder Names Change AI Agent Behavior",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/microsoft-tests-whether-eval-folder-names-change-ai-agent-behavior.aspx",
+    "pubDate": "2026-10-30T18:43:00+00:00"
+  },
+  {
     "title": "GitHub Lets Developers Control VS Code AI Agents from Their Phones",
     "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-lets-developers-control-vs-code-ai-agents-from-their-phones.aspx",
     "pubDate": "2026-10-29T21:49:00+00:00"
@@ -8,20 +23,5 @@
     "title": "GitHub Bug Bounty Interview Highlights Chained Vulnerabilities and Manual Research",
     "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-bug-bounty-interview-highlights-chained-vulnerabilities-and-manual-research.aspx",
     "pubDate": "2026-10-29T20:39:00+00:00"
-  },
-  {
-    "title": "vcpkg October 2026 Update Adds Configurable Binary-Cache Compression and Boost 1.92",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/29/vcpkg-october-2026-update-adds-configurable-binary-cache-compression-and-boost-1-92.aspx",
-    "pubDate": "2026-10-29T20:00:00+00:00"
-  },
-  {
-    "title": "GitHub Universe Details Infrastructure Expansion for Agent-Scale Development",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-universe-details-infrastructure-expansion-for-agent-scale-development.aspx",
-    "pubDate": "2026-10-29T19:37:00+00:00"
-  },
-  {
-    "title": "GitHub Octoverse: Agents Started More Than 40% of September Pull Requests",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-octoverse-agents-started-more-than-40-percent-of-september-pull-requests.aspx",
-    "pubDate": "2026-10-29T19:19:00+00:00"
   }
 ]

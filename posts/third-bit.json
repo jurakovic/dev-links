@@ -1,5 +1,10 @@
 [
   {
+    "title": "Training Data",
+    "link": "https://third-bit.com/2026/10/30/training-data/",
+    "pubDate": "2026-10-30T23:01:47+00:00"
+  },
+  {
     "title": "What's in My Home Directory",
     "link": "https://third-bit.com/2026/10/24/whats-in-my-home-directory/",
     "pubDate": "2026-10-24T22:01:37+00:00"
@@ -18,10 +23,5 @@
     "title": "Arrays in Frml",
     "link": "https://third-bit.com/2026/10/13/frml-arrays/",
     "pubDate": "2026-10-13T22:01:32+00:00"
-  },
-  {
-    "title": "Loops in Frml",
-    "link": "https://third-bit.com/2026/10/12/frml-loops/",
-    "pubDate": "2026-10-12T22:01:37+00:00"
   }
 ]
