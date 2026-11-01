@@ -128,6 +128,12 @@ Wes McKinney
 <https://github.com/wesm>  
 <div id="wesmckinney" class="blog-posts"></div>
 
+![icon](../favicons/seldo.png)
+Laurie Voss | Seldo.com  
+<https://seldo.com>  
+<https://github.com/seldo>  
+<div id="seldo" class="blog-posts"></div>
+
 <!-- END AI -->
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>

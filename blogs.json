@@ -1213,7 +1213,9 @@
         "description": "",
         "url": "https://www.anthropic.com/engineering",
         "feed": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml",
-        "extras": [],
+        "extras": [
+            "https://claude.com/resources/articles/the-ai-native-sdlc-playbook"
+        ],
         "github": "",
         "category": "ai-main",
         "icon": "anthropic",
@@ -1256,6 +1258,19 @@
         "github": "",
         "category": "general",
         "icon": "paulgraham",
+        "selected": false
+    },
+    {
+        "id": "seldo",
+        "author": "Laurie Voss",
+        "title": "Seldo.com",
+        "description": "Co-founder of npm Inc (2014) and earlier of awe.sm, and a web developer since 1996. Works in developer relations at Arize AI, after LlamaIndex. Writes a few essays a year, mostly on what AI does to software work (junior jobs, smaller teams, everyone becoming a product engineer), plus open source funding and how to run and measure DevRel. Also builds side projects such as alpaca.blue, a combined Bluesky and Mastodon client.",
+        "url": "https://seldo.com",
+        "feed": "https://seldo.com/rss.xml",
+        "extras": [],
+        "github": "https://github.com/seldo",
+        "category": "ai",
+        "icon": "seldo",
         "selected": false
     }
 ]
