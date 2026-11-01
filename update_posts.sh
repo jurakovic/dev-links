@@ -70,7 +70,7 @@ newest_listed=$(node -e '
     let posts = [];
     try { posts = JSON.parse(fs.readFileSync(file, "utf8")); } catch (_) {}
     for (const post of Array.isArray(posts) ? posts : []) {
-      const t = new Date(post.date || post.pubDate).getTime();
+      const t = new Date(post.date).getTime();
       if (t > newest) newest = t;
     }
   }

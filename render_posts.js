@@ -33,8 +33,7 @@ function formatDate(date) {
 // Kept on a single line so kramdown treats it as one raw HTML block
 function renderPosts(items) {
     const lis = items.map(item => {
-        // `date` set by fix_post_times.js; posts stored before it existed have only pubDate
-        const dateStr = formatDate(item.date || item.pubDate);
+        const dateStr = formatDate(item.date); // set by fix_post_times.js
         const text = dateStr ? `${dateStr} ${item.title}` : item.title;
         return `<li><span>›</span><a href="${escHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escHtml(text)}</a></li>`;
     }).join('');
