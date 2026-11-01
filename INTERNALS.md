@@ -101,15 +101,6 @@ Static pages with no build step: `index.html` (the tool list), `encrypt/index.ht
 
 dev-tools has no workflow, so a push to it does not deploy. Changes go live with the next deploy: the next news update, at most 6 hours later, or a manual run of Deploy GitHub Pages.
 
-### Other branches
-
-| Branch                    | Status                                                                                                       |
-|---------------------------|--------------------------------------------------------------------------------------------------------------|
-| dev-news-test             | Target for testing the update workflow (see [Test changes to the update pipeline](#test-changes-to-the-update-pipeline)). Has the same caller workflow as dev-news. |
-| gh-runner                 | Unmerged experiment (Dec 2025 – Jan 2026) with self-hosted and GitHub-hosted runner variants of the update workflow. |
-| backup/posts              | Old notes (`POSTS.md`, `CANDIDATES.md`) from 2024.                                                            |
-| `claude/*`, `ccr-*`       | Working branches from Claude Code sessions.                                                                  |
-
 * * *
 
 ## Data files
@@ -201,8 +192,10 @@ One file per blog with a feed, created on the first successful fetch. An array o
 |-----------|---------|
 | `title`   | From the feed, refreshed on every run. |
 | `link`    | From the feed. Identifies the post: a stored link keeps its stored dates. |
-| `pubDate` | The feed's date, normalized to ISO 8601 UTC. Never changed after the post is first stored. Nothing displays it. |
-| `date`    | What dev-news sorts and displays by. Usually the same as `pubDate`. The time the post was first seen when the feed's date can't be used (see [fix_post_times.js](#fix_post_timesjs)). |
+| `pubDate` | The feed's date, normalized to ISO 8601 UTC: the same instant, in one format. Kept as the raw feed value only if it can't be parsed. Never changed after the post is first stored. Nothing displays it. |
+| `date`    | What dev-news sorts and displays by, in ISO 8601 UTC. Every post has one. Usually the same as `pubDate`; the time the post was first seen when the feed's date can't be used as is (see [fix_post_times.js](#fix_post_timesjs)). |
+
+Both dates are written in UTC with an explicit offset, for example `2026-10-28T19:27:07+00:00`.
 
 Written only by update_posts.sh, through fix_post_times.js. gen_news.js, render_posts.js and check_pubdates.js read only `date`.
 
@@ -242,7 +235,7 @@ File: [`.github/workflows/github_pages.yaml`](.github/workflows/github_pages.yam
 **Triggers:**
 
 - **Push to master.**
-- **Push to dev-news.** dev-news has its own `.github/workflows/github_pages.yaml` that only calls this one: `uses: jurakovic/dev-links/.github/workflows/github_pages.yaml@master`. On a push, GitHub runs the workflow file from the pushed branch, so it is that caller that fires; the `dev-news` entry under `push.branches` in master's copy does nothing on its own. dev-news-test has the same caller.
+- **Push to dev-news.** dev-news has its own `.github/workflows/github_pages.yaml` that only calls this one: `uses: jurakovic/dev-links/.github/workflows/github_pages.yaml@master`. On a push, GitHub runs the workflow file from the pushed branch, so it is that caller that fires; the `dev-news` entry under `push.branches` in master's copy does nothing on its own.
 - **`workflow_call`**, used by that caller. No inputs are passed, so the defaults below apply.
 - **`workflow_dispatch`**, with two inputs:
   - `dev_news_branch` (default `dev-news`): the branch to take the posts and news page from.
@@ -250,7 +243,7 @@ File: [`.github/workflows/github_pages.yaml`](.github/workflows/github_pages.yam
 
 **Build job:**
 
-1. **Checkout master.** The ref is `startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name`: when called from dev-news or dev-news-test it checks out master, and when dispatched from another branch it checks out that branch.
+1. **Checkout master.** The ref is `startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name`: when called from dev-news it checks out master, and when dispatched from another branch it checks out that branch.
 2. **Fetch dev-news branch.**
 
    ```bash
@@ -505,11 +498,18 @@ Actions → Deploy GitHub Pages → Run workflow, from master, with the default 
 ### Test changes to the update pipeline
 
 1. Push the change to a feature branch.
-2. Run Update Posts (dev-news) from that branch with `target_branch` set to `dev-news-test`. The scripts come from your branch and the result is committed to dev-news-test, where you can check the diff.
-   - dev-news-test is not kept up to date. Bring it up to date with dev-news first for realistic results.
-   - The news page's links will point to your branch, since gen_news.js gets the branch name.
-   - The bot's push to dev-news-test runs its caller workflow, which redeploys the live site with the normal dev-news data. That is harmless.
-3. To see the test data on the site, run Deploy GitHub Pages with `dev_news_branch: dev-news-test` and `dev_news_target_branch: <your branch>`. This publishes to the live site; the next normal deploy puts it back.
+2. Create a temporary test branch from dev-news, so the test run doesn't write to dev-news itself:
+
+   ```bash
+   git fetch origin dev-news
+   git push origin origin/dev-news:refs/heads/<test-branch>
+   ```
+
+3. Run Update Posts (dev-news) from the feature branch with `target_branch` set to `<test-branch>`. The scripts come from the feature branch and the result is committed to the test branch, where you can check the diff.
+   - The news page's links point to the feature branch, since gen_news.js gets the branch name.
+   - The push to the test branch doesn't deploy: the caller workflow it copied from dev-news only fires on pushes to dev-news.
+4. To see the test data on the site, run Deploy GitHub Pages with `dev_news_branch: <test-branch>` and `dev_news_target_branch: <feature-branch>`. This publishes to the live site; the next normal deploy puts it back.
+5. Delete the test branch when you're done.
 
 ### Run locally
 
@@ -559,8 +559,7 @@ The Jekyll step itself needs the `github-pages` gem and isn't set up in this rep
 - `description` in `blogs.json` isn't rendered anywhere.
 - `transform_blogs.js` sets `selected: true` on every blog.
 - `add_blog.js` downloads the favicon before checking for a duplicate ID, so it overwrites the existing icon.
-- `gen_news.js` defines `TEMPLATE_FILE` (`README.template`) but doesn't use it. dev-news-test still has a `README.template`.
-- The header of `fix_post_times.js` mentions `fix_midnight.js`, a one-off local backfill script that was never committed.
+- `gen_news.js` defines `TEMPLATE_FILE` (`README.template`) but doesn't use it.
 
 * * *
 
