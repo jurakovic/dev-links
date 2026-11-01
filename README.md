@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-01 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Fast and slow ways to improve your reputation](https://seangoedecke.com/how-to-get-assigned-interesting-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-31 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
+<small>[How We Took Over ChatGPT Accounts](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-31 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
+<small>[datasette-llm 0.1a9](https://simonwillison.net/2026/Oct/31/datasette-llm/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-30 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Training Data](https://third-bit.com/2026/10/30/training-data/)</small>
 
@@ -70,9 +79,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-29 martinfowler [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Bliki: LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-29 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[Quoting Ben Hylak](https://simonwillison.net/2026/Oct/29/ben-hylak/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-29 martinfowler [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Why are good developers so wary of agentic development?](https://martinfowler.com/rachels-ramblings/good-devs-wary.html)</small>
 
@@ -87,9 +93,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-29 chrismdp [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Seven AWML Findings in Yegge's Design](https://www.chrismdp.com/seven-awml-findings-in-yegges-design/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-10-28 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[Quoting Ted Sanders](https://simonwillison.net/2026/Oct/28/ted-sanders/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-28 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Preparing for Your Next Certification Could Start with Your Visual Studio Subscription](https://devblogs.microsoft.com/visualstudio/preparing-for-your-next-certification-could-start-with-your-visual-studio-subscription/)</small>
@@ -201,9 +204,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-22 netflix [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
 <small>[Single-tenant Titus: VM-level isolation on a multi-tenant container platform](https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-22 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Software is slow because of bad design, not slow languages](https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-22 pragmaticengineer [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/)</small>
