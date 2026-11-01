@@ -2,26 +2,31 @@
   {
     "title": "SQLCon Barcelona 2026: Advancing SQL with greater control, scale, and intelligence",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/",
-    "pubDate": "2026-09-29T06:15:00+00:00"
+    "pubDate": "2026-09-29T06:15:00+00:00",
+    "date": "2026-09-29T06:15:00+00:00"
   },
   {
     "title": "SQL Server on Azure Local is now generally available",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sql-server-on-azure-local-is-now-generally-available/",
-    "pubDate": "2026-09-29T06:15:00+00:00"
+    "pubDate": "2026-09-29T06:15:00+00:00",
+    "date": "2026-09-29T06:15:00+00:00"
   },
   {
     "title": "What’s next for SQL? Performance, scale, AI, and developer productivity at the European SQL Community Conference",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/08/13/whats-next-for-sql-performance-scale-ai-and-developer-productivity-at-the-european-sql-community-conference/",
-    "pubDate": "2026-08-13T20:00:00+00:00"
+    "pubDate": "2026-08-13T20:00:00+00:00",
+    "date": "2026-08-13T20:00:00+00:00"
   },
   {
     "title": "SQL Server 2016 end of support is here: Plan your next steps",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/07/14/sql-server-2016-end-of-support-is-here-plan-your-next-steps/",
-    "pubDate": "2026-07-14T16:00:00+00:00"
+    "pubDate": "2026-07-14T16:00:00+00:00",
+    "date": "2026-07-14T16:00:00+00:00"
   },
   {
     "title": "FabCon and SQLCon 2026: Unifying databases and Fabric on a single data platform",
     "link": "https://azure.microsoft.com/en-us/blog/fabcon-and-sqlcon-2026-unifying-databases-and-fabric-on-a-single-data-platform/",
-    "pubDate": "2026-03-18T12:45:00+00:00"
+    "pubDate": "2026-03-18T12:45:00+00:00",
+    "date": "2026-03-18T12:45:00+00:00"
   }
 ]

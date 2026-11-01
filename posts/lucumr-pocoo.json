@@ -2,26 +2,31 @@
   {
     "title": "Custom Voices With Qwen3-TTS",
     "link": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
-    "pubDate": "2026-10-29T23:01:48+00:00"
+    "pubDate": "2026-10-29T23:01:48+00:00",
+    "date": "2026-10-29T23:01:48+00:00"
   },
   {
     "title": "What is Codemode",
     "link": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-    "pubDate": "2026-10-06T16:01:55+00:00"
+    "pubDate": "2026-10-06T16:01:55+00:00",
+    "date": "2026-10-06T16:01:55+00:00"
   },
   {
     "title": "Deser: Rethinking Rust Serialization",
     "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
-    "pubDate": "2026-09-29T22:01:52+00:00"
+    "pubDate": "2026-09-29T22:01:52+00:00",
+    "date": "2026-09-29T22:01:52+00:00"
   },
   {
     "title": "Interpreting Pangram",
     "link": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
-    "pubDate": "2026-09-14T22:04:05+00:00"
+    "pubDate": "2026-09-14T22:04:05+00:00",
+    "date": "2026-09-14T22:04:05+00:00"
   },
   {
     "title": "P(doom)",
     "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "pubDate": "2026-09-12T22:03:59+00:00"
+    "pubDate": "2026-09-12T22:03:59+00:00",
+    "date": "2026-09-12T22:03:59+00:00"
   }
 ]

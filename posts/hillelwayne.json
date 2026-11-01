@@ -2,26 +2,31 @@
   {
     "title": "A Crash Course in Predicate Logic",
     "link": "https://www.hillelwayne.com/post/predicate-logic/",
-    "pubDate": "2026-09-01T16:04:00+00:00"
+    "pubDate": "2026-09-01T16:04:00+00:00",
+    "date": "2026-09-01T16:04:00+00:00"
   },
   {
     "title": "Logic for Programmers is Now Available",
     "link": "https://www.hillelwayne.com/post/lfp/",
-    "pubDate": "2026-07-29T16:01:36+00:00"
+    "pubDate": "2026-07-29T16:01:36+00:00",
+    "date": "2026-07-29T16:01:36+00:00"
   },
   {
     "title": "Chicago vs New York Pizza is the Wrong Argument",
     "link": "https://www.hillelwayne.com/post/pizza/",
-    "pubDate": "2026-04-01T16:52:24+00:00"
+    "pubDate": "2026-04-01T16:52:24+00:00",
+    "date": "2026-04-01T16:52:24+00:00"
   },
   {
     "title": "Some Silly Z3 Scripts I Wrote",
     "link": "https://www.hillelwayne.com/post/z3-examples/",
-    "pubDate": "2026-02-23T16:54:56+00:00"
+    "pubDate": "2026-02-23T16:54:56+00:00",
+    "date": "2026-02-23T16:54:56+00:00"
   },
   {
     "title": "A Very Early History of Algebraic Data Types",
     "link": "https://www.hillelwayne.com/post/algdt-history/",
-    "pubDate": "2025-09-25T00:00:00+00:00"
+    "pubDate": "2025-09-25T00:00:00+00:00",
+    "date": "2025-09-25T00:00:00+00:00"
   }
 ]

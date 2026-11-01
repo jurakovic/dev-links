@@ -2,26 +2,31 @@
   {
     "title": "Production bugs happen. Fix the gap, not just the bug.",
     "link": "https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/",
-    "pubDate": "2026-10-28T11:01:51+00:00"
+    "pubDate": "2026-10-28T11:01:51+00:00",
+    "date": "2026-10-28T11:01:51+00:00"
   },
   {
     "title": "A timeout doesn’t mean an operation failed. It means you don’t know the outcome.",
     "link": "https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/",
-    "pubDate": "2026-10-21T10:01:30+00:00"
+    "pubDate": "2026-10-21T10:01:30+00:00",
+    "date": "2026-10-21T10:01:30+00:00"
   },
   {
     "title": "Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.",
     "link": "https://bencane.com/posts/2026-10-14-waiting-adds-latency/",
-    "pubDate": "2026-10-14T10:01:41+00:00"
+    "pubDate": "2026-10-14T10:01:41+00:00",
+    "date": "2026-10-14T10:01:41+00:00"
   },
   {
     "title": "System Design pro-tip: force yourself to create a viable second design.",
     "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
-    "pubDate": "2026-10-07T10:04:03+00:00"
+    "pubDate": "2026-10-07T10:04:03+00:00",
+    "date": "2026-10-07T10:04:03+00:00"
   },
   {
     "title": "One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.",
     "link": "https://bencane.com/posts/2026-09-30-protobuf-contract-management/",
-    "pubDate": "2026-09-30T10:01:38+00:00"
+    "pubDate": "2026-09-30T10:01:38+00:00",
+    "date": "2026-09-30T10:01:38+00:00"
   }
 ]

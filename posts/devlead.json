@@ -2,26 +2,31 @@
   {
     "title": "Taking control of your digital legacy",
     "link": "https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy",
-    "pubDate": "2026-10-01T10:01:29+00:00"
+    "pubDate": "2026-10-01T10:01:29+00:00",
+    "date": "2026-10-01T10:01:29+00:00"
   },
   {
     "title": "Template plus source package: my .NET console stack in 2026",
     "link": "https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026",
-    "pubDate": "2026-06-27T22:00:57+00:00"
+    "pubDate": "2026-06-27T22:00:57+00:00",
+    "date": "2026-06-27T22:00:57+00:00"
   },
   {
     "title": "A quarter of a billion NuGet downloads",
     "link": "https://www.devlead.se/posts/2026/2026-03-22-quarter-billion-nuget-downloads",
-    "pubDate": "2026-03-22T16:28:14+00:00"
+    "pubDate": "2026-03-22T16:28:14+00:00",
+    "date": "2026-03-22T16:28:14+00:00"
   },
   {
     "title": "Mend Renovate Now Supports C# File-Based Apps and Cake.Sdk",
     "link": "https://www.devlead.se/posts/2026/2026-02-26-renovate-csharp-file-based-apps",
-    "pubDate": "2026-02-26T00:00:00+00:00"
+    "pubDate": "2026-02-26T00:00:00+00:00",
+    "date": "2026-02-26T00:00:00+00:00"
   },
   {
     "title": "Migrating to Cake.Sdk",
     "link": "https://www.devlead.se/posts/2025/2025-07-28-migrating-to-cake-sdk",
-    "pubDate": "2025-07-28T00:00:00+00:00"
+    "pubDate": "2025-07-28T00:00:00+00:00",
+    "date": "2025-07-28T00:00:00+00:00"
   }
 ]

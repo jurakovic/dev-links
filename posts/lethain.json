@@ -2,26 +2,31 @@
   {
     "title": "Self-reinforcing quality / adopting verification pattern",
     "link": "https://lethain.com/adopting-verification-pattern/",
-    "pubDate": "2026-10-30T12:00:00+00:00"
+    "pubDate": "2026-10-30T12:00:00+00:00",
+    "date": "2026-10-30T12:00:00+00:00"
   },
   {
     "title": "Speeding up code review with `small-change`",
     "link": "https://lethain.com/small-changes/",
-    "pubDate": "2026-10-17T12:00:00+00:00"
+    "pubDate": "2026-10-17T12:00:00+00:00",
+    "date": "2026-10-17T12:00:00+00:00"
   },
   {
     "title": "Trying the Software Factory pattern.",
     "link": "https://lethain.com/software-factory-experiment/",
-    "pubDate": "2026-09-20T12:00:00+00:00"
+    "pubDate": "2026-09-20T12:00:00+00:00",
+    "date": "2026-09-20T12:00:00+00:00"
   },
   {
     "title": "Roadmap decisions rather than dates.",
     "link": "https://lethain.com/decisions-not-dates/",
-    "pubDate": "2026-08-11T14:00:00+00:00"
+    "pubDate": "2026-08-11T14:00:00+00:00",
+    "date": "2026-08-11T14:00:00+00:00"
   },
   {
     "title": "Middle management roles are also a trap.",
     "link": "https://lethain.com/middle-management-roles-were-also-a-trap/",
-    "pubDate": "2026-08-08T14:00:00+00:00"
+    "pubDate": "2026-08-08T14:00:00+00:00",
+    "date": "2026-08-08T14:00:00+00:00"
   }
 ]

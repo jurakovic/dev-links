@@ -2,26 +2,31 @@
   {
     "title": "Debugging my new network, when 10 Gigabit Ethernet Runs at 300 Megabits",
     "link": "https://www.hanselman.com/blog/debugging-my-new-network-when-10-gigabit-ethernet-runs-at-300-megabits",
-    "pubDate": "2026-08-27T15:25:48+00:00"
+    "pubDate": "2026-08-27T15:25:48+00:00",
+    "date": "2026-08-27T15:25:48+00:00"
   },
   {
     "title": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel, and Surprising Performance Traps",
     "link": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-    "pubDate": "2026-08-23T19:23:42+00:00"
+    "pubDate": "2026-08-23T19:23:42+00:00",
+    "date": "2026-08-23T19:23:42+00:00"
   },
   {
     "title": "Is the craft dead?",
     "link": "https://www.hanselman.com/blog/is-the-craft-dead",
-    "pubDate": "2026-02-09T05:50:59+00:00"
+    "pubDate": "2026-02-09T05:50:59+00:00",
+    "date": "2026-02-09T05:50:59+00:00"
   },
   {
     "title": "The danger of glamourizing one shots",
     "link": "https://www.hanselman.com/blog/the-danger-of-glamourizing-one-shots",
-    "pubDate": "2026-02-04T05:53:00+00:00"
+    "pubDate": "2026-02-04T05:53:00+00:00",
+    "date": "2026-02-04T05:53:00+00:00"
   },
   {
     "title": "Automatically Signing a Windows EXE with Azure Trusted Signing, dotnet sign, and GitHub Actions",
     "link": "https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
-    "pubDate": "2025-11-28T19:31:25+00:00"
+    "pubDate": "2025-11-28T19:31:25+00:00",
+    "date": "2025-11-28T19:31:25+00:00"
   }
 ]

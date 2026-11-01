@@ -2,26 +2,31 @@
   {
     "title": "Scratch a simple data model, find a complex one",
     "link": "https://codeblog.jonskeet.uk/2026/08/14/scratch-a-simple-data-model-find-a-complex-one/",
-    "pubDate": "2026-08-14T10:09:48+00:00"
+    "pubDate": "2026-08-14T10:09:48+00:00",
+    "date": "2026-08-14T10:09:48+00:00"
   },
   {
     "title": "Forking an open source project",
     "link": "https://codeblog.jonskeet.uk/2026/07/11/forking-an-open-source-project/",
-    "pubDate": "2026-07-11T12:54:14+00:00"
+    "pubDate": "2026-07-11T12:54:14+00:00",
+    "date": "2026-07-11T12:54:14+00:00"
   },
   {
     "title": "Election 2029: Load Testing",
     "link": "https://codeblog.jonskeet.uk/2026/01/18/election-2029-load-testing/",
-    "pubDate": "2026-01-18T18:11:55+00:00"
+    "pubDate": "2026-01-18T18:11:55+00:00",
+    "date": "2026-01-18T18:11:55+00:00"
   },
   {
     "title": "Election 2029: Models and Reality",
     "link": "https://codeblog.jonskeet.uk/2026/01/17/election-2029-models-and-reality/",
-    "pubDate": "2026-01-17T15:35:25+00:00"
+    "pubDate": "2026-01-17T15:35:25+00:00",
+    "date": "2026-01-17T15:35:25+00:00"
   },
   {
     "title": "Changing Immutable Collections",
     "link": "https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/",
-    "pubDate": "2025-12-31T10:32:45+00:00"
+    "pubDate": "2025-12-31T10:32:45+00:00",
+    "date": "2025-12-31T10:32:45+00:00"
   }
 ]

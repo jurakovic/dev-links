@@ -2,26 +2,31 @@
   {
     "title": "C# Advent: No one loves the .NET Core name anymore",
     "link": "https://blog.stephencleary.com/2024/12/netcore.html",
-    "pubDate": "2024-12-03T00:00:00+00:00"
+    "pubDate": "2024-12-03T00:00:00+00:00",
+    "date": "2024-12-03T00:00:00+00:00"
   },
   {
     "title": "Cancellation, Part 6: Linking",
     "link": "https://blog.stephencleary.com/2024/10/cancellation-6-linking.html",
-    "pubDate": "2024-10-10T00:00:00+00:00"
+    "pubDate": "2024-10-10T00:00:00+00:00",
+    "date": "2024-10-10T00:00:00+00:00"
   },
   {
     "title": "Cancellation, Part 5: Registration",
     "link": "https://blog.stephencleary.com/2024/08/cancellation-5-registration.html",
-    "pubDate": "2024-08-08T00:00:00+00:00"
+    "pubDate": "2024-08-08T00:00:00+00:00",
+    "date": "2024-08-08T00:00:00+00:00"
   },
   {
     "title": "ICYMI: Video Series on TCP/IP Application Protocol Design",
     "link": "https://blog.stephencleary.com/2024/08/icymi-tcpip-protocol-design.html",
-    "pubDate": "2024-08-01T00:00:00+00:00"
+    "pubDate": "2024-08-01T00:00:00+00:00",
+    "date": "2024-08-01T00:00:00+00:00"
   },
   {
     "title": "MetaPost 2024-04-24",
     "link": "https://blog.stephencleary.com/2024/04/metapost.html",
-    "pubDate": "2024-04-25T00:00:00+00:00"
+    "pubDate": "2024-04-25T00:00:00+00:00",
+    "date": "2024-04-25T00:00:00+00:00"
   }
 ]

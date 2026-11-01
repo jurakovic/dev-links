@@ -2,26 +2,31 @@
   {
     "title": "Sign Commits from Anywhere Without Your Keys Going Anywhere",
     "link": "https://haacked.com/archive/2026/07/20/remote-commit-signing/",
-    "pubDate": "2026-07-20T16:01:10+00:00"
+    "pubDate": "2026-07-20T16:01:10+00:00",
+    "date": "2026-07-20T16:01:10+00:00"
   },
   {
     "title": "Resolve Merge Conflicts the Easy Way",
     "link": "https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/",
-    "pubDate": "2026-03-25T22:33:36+00:00"
+    "pubDate": "2026-03-25T22:33:36+00:00",
+    "date": "2026-03-25T22:33:36+00:00"
   },
   {
     "title": "One Year at PostHog",
     "link": "https://haacked.com/archive/2026/01/06/one-year-at-posthog/",
-    "pubDate": "2026-01-06T00:00:00+00:00"
+    "pubDate": "2026-01-06T00:00:00+00:00",
+    "date": "2026-01-06T00:00:00+00:00"
   },
   {
     "title": "tree-me: Because git worktrees shouldn’t be a chore",
     "link": "https://haacked.com/archive/2025/11/21/tree-me/",
-    "pubDate": "2025-11-21T00:00:00+00:00"
+    "pubDate": "2025-11-21T00:00:00+00:00",
+    "date": "2025-11-21T00:00:00+00:00"
   },
   {
     "title": "Spelungit: When `git log –grep` isn’t enough",
     "link": "https://haacked.com/archive/2025/09/29/announcing-spelungit/",
-    "pubDate": "2025-09-29T00:00:00+00:00"
+    "pubDate": "2025-09-29T00:00:00+00:00",
+    "date": "2025-09-29T00:00:00+00:00"
   }
 ]

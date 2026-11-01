@@ -2,26 +2,31 @@
   {
     "title": "sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac",
     "link": "https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html",
-    "pubDate": "2026-10-16T10:00:00+00:00"
+    "pubDate": "2026-10-16T10:00:00+00:00",
+    "date": "2026-10-16T10:00:00+00:00"
   },
   {
     "title": "From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project",
     "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html",
-    "pubDate": "2026-10-15T10:01:20+00:00"
+    "pubDate": "2026-10-15T10:01:20+00:00",
+    "date": "2026-10-15T10:01:20+00:00"
   },
   {
     "title": "The SQL Project preplan script - the missing step in DACPAC publishing",
     "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html",
-    "pubDate": "2026-10-08T16:01:27+00:00"
+    "pubDate": "2026-10-08T16:01:27+00:00",
+    "date": "2026-10-08T16:01:27+00:00"
   },
   {
     "title": "DacDeploySkip update: simpler CI and publish profile support",
     "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/09/13/sqlprojects-dacfx-performance.html",
-    "pubDate": "2026-09-13T10:45:00+00:00"
+    "pubDate": "2026-09-13T10:45:00+00:00",
+    "date": "2026-09-13T10:45:00+00:00"
   },
   {
     "title": "The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease",
     "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html",
-    "pubDate": "2026-09-04T16:01:29+00:00"
+    "pubDate": "2026-09-04T16:01:29+00:00",
+    "date": "2026-09-04T16:01:29+00:00"
   }
 ]

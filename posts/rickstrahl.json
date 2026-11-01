@@ -2,26 +2,31 @@
   {
     "title": "Back to Basics: CSS @container Filtering",
     "link": "https://weblog.west-wind.com/posts/2026/Oct/02/Back-to-Basics-CSS-container-Filtering",
-    "pubDate": "2026-10-02T22:01:47+00:00"
+    "pubDate": "2026-10-02T22:01:47+00:00",
+    "date": "2026-10-02T22:01:47+00:00"
   },
   {
     "title": "Protecting File Access in the wwwroot Folder in ASP.NET",
     "link": "https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET",
-    "pubDate": "2026-09-14T11:32:46+00:00"
+    "pubDate": "2026-09-14T11:32:46+00:00",
+    "date": "2026-09-14T11:32:46+00:00"
   },
   {
     "title": "Back to Basics: JavaScript and Timezones",
     "link": "https://weblog.west-wind.com/posts/2026/Sep/01/JavaScript-and-Timezones",
-    "pubDate": "2026-09-01T18:31:33+00:00"
+    "pubDate": "2026-09-01T18:31:33+00:00",
+    "date": "2026-09-01T18:31:33+00:00"
   },
   {
     "title": "Getting Inherited Controller Routes to work in ASP.NET Core",
     "link": "https://weblog.west-wind.com/posts/2026/Jun/30/Getting-Inherited-Controller-Routes-to-work-in-ASPNET-Core",
-    "pubDate": "2026-06-30T02:00:00+00:00"
+    "pubDate": "2026-06-30T02:00:00+00:00",
+    "date": "2026-06-30T02:00:00+00:00"
   },
   {
     "title": "Creating Dual Use Windows GUI and Console Applications",
     "link": "https://weblog.west-wind.com/posts/2026/Jun/23/Creating-Dual-Use-Windows-GUI-and-Console-Applications",
-    "pubDate": "2026-06-23T22:01:20+00:00"
+    "pubDate": "2026-06-23T22:01:20+00:00",
+    "date": "2026-06-23T22:01:20+00:00"
   }
 ]

@@ -2,26 +2,31 @@
   {
     "title": "Goldfish in Claude",
     "link": "https://steven-giesel.com/blogPost/3a583eb3-fd7a-47f0-a45c-1818f6a33b0d",
-    "pubDate": "2026-10-28T17:32:13+00:00"
+    "pubDate": "2026-10-28T17:32:13+00:00",
+    "date": "2026-10-28T17:32:13+00:00"
   },
   {
     "title": "Primary constructors are more than syntactic sugar",
     "link": "https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a",
-    "pubDate": "2026-10-26T08:19:00+00:00"
+    "pubDate": "2026-10-26T08:19:00+00:00",
+    "date": "2026-10-26T08:19:00+00:00"
   },
   {
     "title": "A personal note: I built a running App for iOS and watchOS",
     "link": "https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1",
-    "pubDate": "2026-10-20T05:54:37+00:00"
+    "pubDate": "2026-10-20T05:54:37+00:00",
+    "date": "2026-10-20T05:54:37+00:00"
   },
   {
     "title": "If It Quacks - Part 2",
     "link": "https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc",
-    "pubDate": "2026-09-18T08:00:33+00:00"
+    "pubDate": "2026-09-18T08:00:33+00:00",
+    "date": "2026-09-18T08:00:33+00:00"
   },
   {
     "title": "Quack Quack: Duck-Typing in C# with Interceptors",
     "link": "https://steven-giesel.com/blogPost/5170e165-29e8-437a-b5ce-446a84943809",
-    "pubDate": "2026-09-12T15:44:44+00:00"
+    "pubDate": "2026-09-12T15:44:44+00:00",
+    "date": "2026-09-12T15:44:44+00:00"
   }
 ]

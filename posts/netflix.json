@@ -2,26 +2,31 @@
   {
     "title": "Making Failure Diagnosis Reliable with Pensive AI",
     "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-26T17:04:57+00:00"
+    "pubDate": "2026-10-26T17:04:57+00:00",
+    "date": "2026-10-26T17:04:57+00:00"
   },
   {
     "title": "Multi‑Ratio Video Resizing for Mobile Feed and Marketing",
     "link": "https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-26T16:01:02+00:00"
+    "pubDate": "2026-10-26T16:01:02+00:00",
+    "date": "2026-10-26T16:01:02+00:00"
   },
   {
     "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
     "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-23T18:32:51+00:00"
+    "pubDate": "2026-10-23T18:32:51+00:00",
+    "date": "2026-10-23T18:32:51+00:00"
   },
   {
     "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
     "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-22T22:19:12+00:00"
+    "pubDate": "2026-10-22T22:19:12+00:00",
+    "date": "2026-10-22T22:19:12+00:00"
   },
   {
     "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
     "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-16T16:01:02+00:00"
+    "pubDate": "2026-10-16T16:01:02+00:00",
+    "date": "2026-10-16T16:01:02+00:00"
   }
 ]

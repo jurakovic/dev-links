@@ -2,26 +2,31 @@
   {
     "title": "The hidden trap of fixed buffers in C#",
     "link": "https://minidump.net/the-hidden-trap-of-fixed-buffers-in-csharp/",
-    "pubDate": "2026-09-29T16:01:33+00:00"
+    "pubDate": "2026-09-29T16:01:33+00:00",
+    "date": "2026-09-29T16:01:33+00:00"
   },
   {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 10: Finalizers",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-10/",
-    "pubDate": "2026-06-30T00:00:00+00:00"
+    "pubDate": "2026-06-30T00:00:00+00:00",
+    "date": "2026-06-30T00:00:00+00:00"
   },
   {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 9: Frozen segments and new allocation strategy",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-9/",
-    "pubDate": "2026-03-17T10:50:21+00:00"
+    "pubDate": "2026-03-17T10:50:21+00:00",
+    "date": "2026-03-17T10:50:21+00:00"
   },
   {
     "title": "Writing a .NET Garbage Collector in C#  -  Part 8: Interior pointers",
     "link": "https://minidump.net/writing-a-net-gc-in-c-part-8/",
-    "pubDate": "2026-03-03T16:43:41+00:00"
+    "pubDate": "2026-03-03T16:43:41+00:00",
+    "date": "2026-03-03T16:43:41+00:00"
   },
   {
     "title": "Too good to be true: an unexpected profiler trap",
     "link": "https://minidump.net/an-unexpected-profiler-trap/",
-    "pubDate": "2026-02-20T16:36:34+00:00"
+    "pubDate": "2026-02-20T16:36:34+00:00",
+    "date": "2026-02-20T16:36:34+00:00"
   }
 ]

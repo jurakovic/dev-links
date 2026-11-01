@@ -2,26 +2,31 @@
   {
     "title": "No more tech debt",
     "link": "https://swizec.com/blog/no-more-tech-debt",
-    "pubDate": "2026-10-17T22:01:35+00:00"
+    "pubDate": "2026-10-17T22:01:35+00:00",
+    "date": "2026-10-17T22:01:35+00:00"
   },
   {
     "title": "When code is cheap, judgement becomes the job",
     "link": "https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job",
-    "pubDate": "2026-10-08T16:01:42+00:00"
+    "pubDate": "2026-10-08T16:01:42+00:00",
+    "date": "2026-10-08T16:01:42+00:00"
   },
   {
     "title": "Why I'm excited about Jev-like classifiers",
     "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
-    "pubDate": "2026-09-29T16:01:46+00:00"
+    "pubDate": "2026-09-29T16:01:46+00:00",
+    "date": "2026-09-29T16:01:46+00:00"
   },
   {
     "title": "We now auto-approve and merge 15% of PRs",
     "link": "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
-    "pubDate": "2026-09-19T22:01:54+00:00"
+    "pubDate": "2026-09-19T22:01:54+00:00",
+    "date": "2026-09-19T22:01:54+00:00"
   },
   {
     "title": "What B2B SaaS taught me about having kids",
     "link": "https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids",
-    "pubDate": "2026-09-05T22:03:48+00:00"
+    "pubDate": "2026-09-05T22:03:48+00:00",
+    "date": "2026-09-05T22:03:48+00:00"
   }
 ]

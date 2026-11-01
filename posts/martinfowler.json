@@ -2,26 +2,31 @@
   {
     "title": "Bliki: LLM Voice",
     "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "pubDate": "2026-10-29T14:28:00+00:00"
+    "pubDate": "2026-10-29T14:28:00+00:00",
+    "date": "2026-10-29T14:28:00+00:00"
   },
   {
     "title": "Why are good developers so wary of agentic development?",
     "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
-    "pubDate": "2026-10-29T13:50:00+00:00"
+    "pubDate": "2026-10-29T13:50:00+00:00",
+    "date": "2026-10-29T13:50:00+00:00"
   },
   {
     "title": "Fragments: October 28",
     "link": "https://martinfowler.com/fragments/2026-10-28.html",
-    "pubDate": "2026-10-28T12:55:00+00:00"
+    "pubDate": "2026-10-28T12:55:00+00:00",
+    "date": "2026-10-28T12:55:00+00:00"
   },
   {
     "title": "Fragments: October 21",
     "link": "https://martinfowler.com/fragments/2026-10-21.html",
-    "pubDate": "2026-10-21T10:51:00+00:00"
+    "pubDate": "2026-10-21T10:51:00+00:00",
+    "date": "2026-10-21T10:51:00+00:00"
   },
   {
     "title": "When Software Meets Hardware",
     "link": "https://martinfowler.com/articles/software-meets-hardware.html",
-    "pubDate": "2026-10-15T13:25:00+00:00"
+    "pubDate": "2026-10-15T13:25:00+00:00",
+    "date": "2026-10-15T13:25:00+00:00"
   }
 ]
