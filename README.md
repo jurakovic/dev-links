@@ -359,7 +359,7 @@ Agentic Patterns
 <!-- END AI-MAIN -->
 
 ![icon](favicons/claude.png)
-The AI-native SDLC playbook | Claude  
+The AI-native SDLC playbook  
 <https://claude.com/resources/articles/the-ai-native-sdlc-playbook>  
 
 * * *
