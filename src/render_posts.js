@@ -5,11 +5,12 @@ const path = require('path');
 // Replaces each empty <div id="<blog-id>" class="blog-posts"></div> with the list from posts/<blog-id>.json
 
 // --- Config ---
-const POSTS_DIR = path.join(__dirname, 'posts');
-const BLOGS_JSON = path.join(__dirname, 'blogs.json');
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
+const POSTS_DIR = path.join(ROOT_DIR, 'posts');
+const BLOGS_JSON = path.join(ROOT_DIR, 'blogs.json');
 const FILES = [
-    path.join(__dirname, 'README.md'),
-    path.join(__dirname, 'blogs', 'README.md'),
+    path.join(ROOT_DIR, 'README.md'),
+    path.join(ROOT_DIR, 'blogs', 'README.md'),
 ];
 
 const escHtml = s => String(s)
@@ -62,5 +63,5 @@ for (const file of FILES) {
             return `<div id="${id}" class="blog-posts">${renderPosts(items)}</div>`;
         });
     fs.writeFileSync(file, content, 'utf8');
-    console.log(`${path.relative(__dirname, file)}: rendered ${rendered} post lists`);
+    console.log(`${path.relative(ROOT_DIR, file)}: rendered ${rendered} post lists`);
 }

@@ -36,22 +36,23 @@ jobs:
         run: |
           # get scripts
           git restore --source origin/${{ github.ref_name }} -- blogs.json
-          git restore --source origin/${{ github.ref_name }} -- gen_news.js
-          git restore --source origin/${{ github.ref_name }} -- update_posts.sh
-          git restore --source origin/${{ github.ref_name }} -- fix_post_times.js
-          chmod +x ./update_posts.sh
+          git restore --source origin/${{ github.ref_name }} -- src/gen_news.js
+          git restore --source origin/${{ github.ref_name }} -- src/update_posts.sh
+          git restore --source origin/${{ github.ref_name }} -- src/fix_post_times.js
+          chmod +x ./src/update_posts.sh
         shell: bash
 
       - name: Build
         run: |
-          ./update_posts.sh
-          node gen_news.js ${{ github.ref_name }}
+          ./src/update_posts.sh
+          node src/gen_news.js ${{ github.ref_name }}
 
           # cleanup temp scripts
           rm blogs.json
-          rm gen_news.js
-          rm update_posts.sh
-          rm fix_post_times.js
+          rm src/gen_news.js
+          rm src/update_posts.sh
+          rm src/fix_post_times.js
+          rmdir src
 
           git status -s
           git add .

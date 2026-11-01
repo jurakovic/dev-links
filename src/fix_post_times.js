@@ -129,7 +129,7 @@
 // update_posts.sh execution and keeps new posts normalized going forward.
 //
 // USAGE
-//   echo "$new_json" | node fix_post_times.js posts/<id>.json [newest-listed]
+//   echo "$new_json" | node src/fix_post_times.js posts/<id>.json [newest-listed]
 //
 //   stdin:  JSON array of posts freshly parsed from the feed by yq
 //   argv2:  path to the existing posts/<id>.json file for this feed

@@ -1,4 +1,7 @@
 const fs = require('fs');
+const path = require('path');
+
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
 
 // Get command line arguments
 const args = process.argv.slice(2);
@@ -24,9 +27,9 @@ if (flag === '--readme') {
 // Function to update a file
 function updateFile(outputFile, filterSelected) {
     // Read files
-    const blogsJson = JSON.parse(fs.readFileSync('blogs.json', 'utf8'))
+    const blogsJson = JSON.parse(fs.readFileSync(path.join(ROOT_DIR, 'blogs.json'), 'utf8'))
         .filter(blog => filterSelected ? blog.selected === true : true);
-    let readme = fs.readFileSync(outputFile, 'utf8');
+    let readme = fs.readFileSync(path.join(ROOT_DIR, outputFile), 'utf8');
 
     // Extract all unique categories
     const allCategories = [...new Set(blogsJson.map(blog => blog.category))];
@@ -118,7 +121,7 @@ function updateFile(outputFile, filterSelected) {
     });
 
     // Write updated file
-    fs.writeFileSync(outputFile, readme);
+    fs.writeFileSync(path.join(ROOT_DIR, outputFile), readme);
     console.log(`[${outputFile}] Update complete\n`);
 }
 

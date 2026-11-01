@@ -1,13 +1,16 @@
 const fs = require('fs');
 const https = require('https');
 const http = require('http');
+const path = require('path');
 
-// Usage: node add_blog.js <url> <feed> [github] [author] [category]
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
+
+// Usage: node src/add_blog.js <url> <feed> [github] [author] [category]
 const args = process.argv.slice(2);
 
 if (args.length < 2) {
-  console.log('Usage: node add_blog.js <url> <feed> [github] [author] [category]');
-  console.log('Example: node add_blog.js https://third-bit.com/blog/ https://third-bit.com/atom.xml https://github.com/gvwilson "Greg Wilson" general');
+  console.log('Usage: node src/add_blog.js <url> <feed> [github] [author] [category]');
+  console.log('Example: node src/add_blog.js https://third-bit.com/blog/ https://third-bit.com/atom.xml https://github.com/gvwilson "Greg Wilson" general');
   process.exit(1);
 }
 
@@ -87,7 +90,7 @@ function downloadFavicon(urlString, iconName) {
   return new Promise((resolve, reject) => {
     const domain = new URL(urlString).hostname.replace('www.', '');
     const faviconUrl = `https://www.google.com/s2/favicons?sz=16&domain=${domain}`;
-    const outputPath = `favicons/${iconName}.png`;
+    const outputPath = path.join(ROOT_DIR, 'favicons', `${iconName}.png`);
     
     const downloadFile = (url, redirectCount = 0) => {
       if (redirectCount > 5) {
@@ -123,7 +126,7 @@ function downloadFavicon(urlString, iconName) {
         
         fileStream.on('finish', () => {
           fileStream.close();
-          console.log(`✓ Downloaded favicon: ${outputPath}`);
+          console.log(`✓ Downloaded favicon: ${path.relative(ROOT_DIR, outputPath)}`);
           resolve(iconName);
         });
         
@@ -163,7 +166,7 @@ async function addBlog() {
     };
     
     // Read existing blogs
-    const blogsPath = 'blogs.json';
+    const blogsPath = path.join(ROOT_DIR, 'blogs.json');
     const blogs = JSON.parse(fs.readFileSync(blogsPath, 'utf8'));
     
     // Check if blog already exists
