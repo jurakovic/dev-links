@@ -97,6 +97,8 @@
 <outline type="rss" text="No One's Happy" title="No One's Happy" htmlUrl="https://nooneshappy.com" xmlUrl="https://nooneshappy.com/rss.xml" />
 <outline type="rss" text="Anthropic Engineering" title="Anthropic Engineering" htmlUrl="https://www.anthropic.com/engineering" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml" />
 <outline type="rss" text="Agentic Patterns" title="Agentic Patterns" htmlUrl="https://www.agentic-patterns.com" xmlUrl="https://www.agentic-patterns.com/rss.xml" />
+<outline type="rss" text="Hugo Kornelis" title="SQLServerFast.com" htmlUrl="https://sqlserverfast.com/blog/" xmlUrl="https://sqlserverfast.com/feed/" />
+<outline type="rss" text="Paul Graham" title="Essays" htmlUrl="https://paulgraham.com/articles.html" xmlUrl="https://raw.githubusercontent.com/Olshansk/pgessays-rss/main/feed.xml" />
 </outline>
 </body>
 </opml>

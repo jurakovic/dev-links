@@ -1231,5 +1231,31 @@
         "category": "ai-main",
         "icon": "agentic-patterns",
         "selected": true
+    },
+    {
+        "id": "sqlserverfast",
+        "author": "Hugo Kornelis",
+        "title": "SQLServerFast.com",
+        "description": "Freelance SQL Server consultant and trainer specializing in execution plans and query tuning, awarded Microsoft MVP 18 times. Author of the free SQL Server Execution Plan Reference, which since October 2026 has a page for every known operator, and of the SQLServerFast Execution Plan Video Training. Writes the Plansplaining series and a series on storage structure internals (most recently vector indexes), and keeps a leukemia diary; in October 2026 he wrote that his leukemia can no longer be treated and that Redgate will keep his content available.",
+        "url": "https://sqlserverfast.com/blog/",
+        "feed": "https://sqlserverfast.com/feed/",
+        "extras": [],
+        "github": "",
+        "category": "sql",
+        "icon": "sqlserverfast",
+        "selected": true
+    },
+    {
+        "id": "paulgraham",
+        "author": "Paul Graham",
+        "title": "Essays",
+        "description": "Co-founder of Y Combinator and, before that, of Viaweb (bought by Yahoo in 1998). Author of Hackers & Painters, On Lisp and ANSI Common Lisp, and creator of the Lisp dialects Arc and Bel. Writes long essays on startups, writing and how to do great work, a few a year; the 2026 ones are about founders, wealth and income tax, and brands. The feed on paulgraham.com stopped updating in 2023, so this uses a nightly scraped feed that has no post dates.",
+        "url": "https://paulgraham.com/articles.html",
+        "feed": "https://raw.githubusercontent.com/Olshansk/pgessays-rss/main/feed.xml",
+        "extras": [],
+        "github": "",
+        "category": "general",
+        "icon": "paulgraham",
+        "selected": false
     }
 ]

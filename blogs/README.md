@@ -312,6 +312,11 @@ Brent Ozar
 <https://github.com/BrentOzarULTD>  
 <div id="brentozar" class="blog-posts"></div>
 
+![icon](../favicons/sqlserverfast.png)
+Hugo Kornelis | SQLServerFast.com  
+<https://sqlserverfast.com/blog/>  
+<div id="sqlserverfast" class="blog-posts"></div>
+
 <!-- END SQL -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -434,6 +439,11 @@ James Randall
 No One's Happy  
 <https://nooneshappy.com>  
 <div id="nooneshappy" class="blog-posts"></div>
+
+![icon](../favicons/paulgraham.png)
+Paul Graham | Essays  
+<https://paulgraham.com/articles.html>  
+<div id="paulgraham" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 

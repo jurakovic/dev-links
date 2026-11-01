@@ -148,6 +148,10 @@ Markus Winand | SQL Indexing and Tuning
 
 <!-- END SQL-MAIN -->
 
+![icon](favicons/sqlserverfast.png)
+SQL Server Execution Plan Reference | Hugo Kornelis  
+<https://sqlserverfast.com/epr/>  
+
 * * *
 
 ## <a name="development"></a>Development <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
@@ -354,10 +358,6 @@ Agentic Patterns
 
 <!-- END AI-MAIN -->
 
-![icon](favicons/microsoft-ai.png)
-Humanist AI Code of Conduct | Microsoft AI  
-<https://microsoft.ai/code-of-conduct/>  
-
 * * *
 
 ## <a name="blogs"></a>Blogs & Sites <sup><sub>&nbsp;&nbsp;<a href="#top">↑ Top</a></sub></sup>
@@ -545,6 +545,11 @@ Brent Ozar
 <https://www.brentozar.com/blog/>  
 <https://github.com/BrentOzarULTD>  
 <div id="brentozar" class="blog-posts"></div>
+
+![icon](favicons/sqlserverfast.png)
+Hugo Kornelis | SQLServerFast.com  
+<https://sqlserverfast.com/blog/>  
+<div id="sqlserverfast" class="blog-posts"></div>
 
 <!-- END SQL -->
 
