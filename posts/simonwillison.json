@@ -1,5 +1,10 @@
 [
   {
+    "title": "Quoting Kyle Kingsbury",
+    "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+    "pubDate": "2026-11-01T16:49:04+00:00"
+  },
+  {
     "title": "How We Took Over ChatGPT Accounts",
     "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
     "pubDate": "2026-10-31T23:15:22+00:00"
@@ -18,10 +23,5 @@
     "title": "API credits benefit for eligible ChatGPT subscriptions",
     "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
     "pubDate": "2026-10-29T22:48:29+00:00"
-  },
-  {
-    "title": "Building a multiplayer game world with autonomous Fable-class models",
-    "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-    "pubDate": "2026-10-29T17:00:26+00:00"
   }
 ]
