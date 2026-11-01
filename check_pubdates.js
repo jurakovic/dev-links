@@ -3,7 +3,8 @@
 // check_pubdates.js — Report posts whose date is later than their git blame commit date.
 //
 // Checks each post's `date` (set by fix_post_times.js), or its pubDate for posts stored
-// before `date` existed. pubDate of newer posts is the raw feed value and is not checked.
+// before `date` existed. pubDate of newer posts is the feed's own date, which can be in the
+// future, and is not checked.
 //
 // USAGE
 //   node check_pubdates.js [branch]

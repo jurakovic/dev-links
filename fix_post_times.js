@@ -4,15 +4,15 @@
 //
 // FIELDS
 // ------
-// Each stored post has two dates:
+// Each stored post has two dates, both ISO 8601 UTC ("2026-10-28T19:27:07+00:00"):
 //
-//   pubDate  The date exactly as the feed published it, never changed afterwards.
-//   date     The date dev-news sorts and displays by: pubDate normalized to ISO 8601
-//            UTC, or the time the post was first seen when the feed's date can't be
-//            used as is (see strategy 2 below).
+//   pubDate  The date the feed published, normalized to ISO 8601 UTC (same instant,
+//            see strategy 3 below). Never changed afterwards.
+//   date     The date dev-news sorts and displays by: pubDate, or the time the post was
+//            first seen when the feed's date can't be used as is (see strategy 2 below).
 //
 // Posts stored before `date` existed have only pubDate, which already holds their
-// fixed/normalized value. They are left as they are; consumers use
+// fixed value (what date holds now). They are left as they are; consumers use
 // `post.date || post.pubDate`. They phase out as feeds publish newer posts.
 //
 // PROBLEM
@@ -59,11 +59,14 @@
 //    The stored pubDate and date are always preferred over the live feed value. This
 //    is the key invariant: once a post is stored, its dates are never overwritten by
 //    the raw feed again (title and link still come from the feed).
+//    A stored pubDate is passed through the same normalization as new ones, which
+//    leaves normalized values unchanged and repairs any stored in the feed's format.
 //
 // 2. NEW POST with a future date, midnight today, or lagged
 //    The feed's date is wrong or late, so the current time is used as a reasonable
 //    approximation of when the post was actually published.
-//    → date = current UTC time as ISO 8601
+//    → pubDate = feed date normalized as in strategy 3
+//    → date    = current UTC time as ISO 8601 (examples below)
 //    Example: "Sun, 22 Feb 2026 00:00:00 +0000" seen on 2026-02-22
 //             → "2026-02-22T14:35:12+00:00"
 //    Example: "Fri, 27 Mar 2026 00:00:00 +0000" seen on 2026-03-26 (feed off by one day)
@@ -94,10 +97,12 @@
 //    The post is new and either has a real time or is an old midnight post. The raw
 //    pubDate is parsed with new Date() and reformatted to ISO 8601 UTC. This
 //    normalizes the format without changing the represented instant in time.
+//    → pubDate = date = feed date normalized
 //    Example: "Sat, 31 Jan 2026 10:25:27 +0100" → "2026-01-31T09:25:27+00:00"
 //    Example: "Fri, 13 Jan 2023 00:00:00 +0000" → "2023-01-13T00:00:00+00:00"
 //    Example: "2023-05-20T00:00:00+02:00"       → "2023-05-20T00:00:00+00:00" (written date kept)
-//    If the date is unparseable, date is left out and consumers fall back to the raw pubDate.
+//    If the date is unparseable, the raw pubDate is kept and date is left out
+//    (consumers fall back to pubDate).
 //
 // MISSING POSTS
 // -------------
@@ -133,7 +138,7 @@
 //   argv2:  path to the existing posts/<id>.json file for this feed
 //   argv3:  newest date listed on dev-news before this run (any parseable date);
 //           if left out, lagged posts are not detected
-//   stdout: JSON array of posts with date set
+//   stdout: JSON array of posts with pubDate normalized and date set
 //   stderr: error messages if stdin is not valid JSON or not an array
 //
 
@@ -182,14 +187,25 @@ function writtenMidnight(pubDate) {
     return isNaN(d.getTime()) ? null : d;
 }
 
+// Feed date as a Date (midnight read as its written calendar date), null if unparseable
+function parseFeedDate(pubDate) {
+    const d = writtenMidnight(pubDate) || new Date(pubDate);
+    return isNaN(d.getTime()) ? null : d;
+}
+
+// pubDate normalized to ISO 8601 UTC, kept as is if unparseable
+function normalizePubDate(pubDate) {
+    const d = parseFeedDate(pubDate);
+    return d ? toISO(d) : pubDate;
+}
+
 // date for a new post (strategies 2 and 3), null if pubDate is unparseable
 function newPostDate(pubDate, tracked) {
-    const midnight = writtenMidnight(pubDate);
-    const d = midnight || new Date(pubDate);
-    if (isNaN(d.getTime())) return null;
+    const d = parseFeedDate(pubDate);
+    if (!d) return null;
 
     const isFutureDateTime = d > now;
-    const isMidnightToday = midnight !== null && toISO(midnight).slice(0, 10) === todayUTC;
+    const isMidnightToday = writtenMidnight(pubDate) !== null && toISO(d).slice(0, 10) === todayUTC;
     const isLagged = tracked && d < newestListed && now - d <= MAX_LAG_DAYS * 24 * 60 * 60 * 1000;
     if (isFutureDateTime || isMidnightToday || isLagged) {
         // Future datetime, today with no real time, or shown by the feed late — assign current time
@@ -230,19 +246,20 @@ process.stdin.on('end', () => {
         const known = stored[post.link];
         if (known) {
             // Already stored — always prefer saved dates (posts stored before `date` existed have only pubDate)
-            return known.date
-                ? { ...post, pubDate: known.pubDate, date: known.date }
-                : { ...post, pubDate: known.pubDate };
+            const pubDate = normalizePubDate(known.pubDate);
+            return known.date ? { ...post, pubDate, date: known.date } : { ...post, pubDate };
         }
 
-        // New post not seen before — keep the feed's pubDate, add date
+        // New post not seen before — normalize pubDate, add date
         const date = newPostDate(post.pubDate, tracked);
-        return date ? { ...post, date } : post;
+        return date ? { ...post, pubDate: normalizePubDate(post.pubDate), date } : post;
     });
 
     // Keep stored posts the feed no longer returns (see MISSING POSTS)
     const fetched = new Set(posts.map(post => post.link));
-    const missing = tracked ? existing.filter(post => stored[post.link] && !fetched.has(post.link)) : [];
+    const missing = !tracked ? [] : existing
+        .filter(post => stored[post.link] && !fetched.has(post.link))
+        .map(post => ({ ...post, pubDate: normalizePubDate(post.pubDate) }));
     if (missing.length > 0) {
         result = [...result, ...missing]
             .sort((a, b) => sortTime(b) - sortTime(a))
