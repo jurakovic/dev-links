@@ -21,9 +21,9 @@ const escHtml = s => String(s)
     .replace(/\}/g, '&#125;');
 
 // Date in YYYY-MM-DD (UTC), empty if not parsable
-function formatDate(pubDate) {
-    const d = new Date(pubDate);
-    if (!pubDate || isNaN(d)) return '';
+function formatDate(date) {
+    const d = new Date(date);
+    if (!date || isNaN(d)) return '';
     const yyyy = d.getUTCFullYear();
     const mm = String(d.getUTCMonth() + 1).padStart(2, '0');
     const dd = String(d.getUTCDate()).padStart(2, '0');
@@ -33,7 +33,8 @@ function formatDate(pubDate) {
 // Kept on a single line so kramdown treats it as one raw HTML block
 function renderPosts(items) {
     const lis = items.map(item => {
-        const dateStr = formatDate(item.pubDate);
+        // `date` set by fix_post_times.js; posts stored before it existed have only pubDate
+        const dateStr = formatDate(item.date || item.pubDate);
         const text = dateStr ? `${dateStr} ${item.title}` : item.title;
         return `<li><span>›</span><a href="${escHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escHtml(text)}</a></li>`;
     }).join('');

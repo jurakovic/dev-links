@@ -51,11 +51,14 @@ for (const file of files) {
     }
 }
 
-// --- Sort by pubDate descending ---
+// --- Post date: `date` set by fix_post_times.js; posts stored before it existed have only pubDate ---
+const postDate = post => post.date || post.pubDate;
+
+// --- Sort by date descending ---
 allPosts.sort((a, b) => {
     // Date parsing: JS Date handles all your formats
-    const ad = new Date(a.pubDate);
-    const bd = new Date(b.pubDate);
+    const ad = new Date(postDate(a));
+    const bd = new Date(postDate(b));
     return bd - ad;
 });
 
@@ -73,11 +76,11 @@ let md = `
 // --- Generate markdown ---
 for (const post of posts100) {
     // Date in YYYY-MM-DD
-    let d = new Date(post.pubDate);
+    let d = new Date(postDate(post));
     let yyyy = d.getFullYear();
     let mm = String(d.getMonth() + 1).padStart(2, '0');
     let dd = String(d.getDate()).padStart(2, '0');
-    let dateStr = isNaN(yyyy) ? post.pubDate : `${yyyy}-${mm}-${dd}`;
+    let dateStr = isNaN(yyyy) ? postDate(post) : `${yyyy}-${mm}-${dd}`;
     // Icon from blogs.json
     let icon = iconMap[post.feed] || 'blank';
     // Category tag linking to its section (GitHub strips the class and shows a plain <kbd>)

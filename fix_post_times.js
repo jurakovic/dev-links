@@ -1,6 +1,19 @@
 #!/usr/bin/env node
 //
-// fix_post_times.js — Per-feed pubDate normalizer, called by update_posts.sh
+// fix_post_times.js — Per-feed post date fixer, called by update_posts.sh
+//
+// FIELDS
+// ------
+// Each stored post has two dates:
+//
+//   pubDate  The date exactly as the feed published it, never changed afterwards.
+//   date     The date dev-news sorts and displays by: pubDate normalized to ISO 8601
+//            UTC, or the time the post was first seen when the feed's date can't be
+//            used as is (see strategy 2 below).
+//
+// Posts stored before `date` existed have only pubDate, which already holds their
+// fixed/normalized value. They are left as they are; consumers use
+// `post.date || post.pubDate`. They phase out as feeds publish newer posts.
 //
 // PROBLEM
 // -------
@@ -17,11 +30,19 @@
 //   "Sat, 07 Feb 2026 00:00:00 +1100" (brendangregg)
 //   "2023-05-20T00:00:00+02:00"       (roji)
 //
+// Some feeds show a post hours or days after its pubDate (feed caches, posts dated
+// when written rather than when published, sites deployed after the date they state).
+// Sorted by pubDate, such a post lands below posts dev-news already listed instead of
+// at the top.
+//
+// Some feeds also alternate between a fresh and a stale copy, so recent posts drop out
+// of the feed and come back on a later run (azuresqlblog).
+//
 // Additionally, feeds publish dates in mixed formats (ISO 8601, RFC 2822, with
 // varying timezone offsets), which causes inconsistent sorting in gen_news.js.
 //
 // Finally, on every run update_posts.sh re-fetches live feed data, which would
-// overwrite any previously fixed or normalized pubDates with raw feed values.
+// overwrite any previously fixed or normalized dates with raw feed values.
 //
 // HOW IT WORKS
 // ------------
@@ -35,39 +56,39 @@
 // strategies:
 //
 // 1. KNOWN POST (link already in stored file)
-//    The stored pubDate is always preferred over the live feed value. This is the
-//    key invariant: once a pubDate has been normalized or time-fixed, it is never
-//    overwritten by the raw feed again. The stored value may be:
-//      - A fully fixed time:    "2026-02-15T14:32:10+00:00"  (was midnight, now real time)
-//      - A normalized midnight: "2023-01-13T00:00:00+00:00"  (old post, format only)
-//      - Already ISO UTC:       "2026-01-31T09:25:27+00:00"  (feed had correct format)
+//    The stored pubDate and date are always preferred over the live feed value. This
+//    is the key invariant: once a post is stored, its dates are never overwritten by
+//    the raw feed again (title and link still come from the feed).
 //
-// 2. NEW POST with a future pubDate or timestamp, or with midnight time today
-//    A future pubDate means the feed is wrong — either date-only feeds that emit
-//    midnight UTC, or feeds that publish with pubDate set to a future date/time.
-//    In all cases the current time is used as a reasonable approximation of when
-//    the post was actually published.
-//    → pubDate = current UTC time as ISO 8601
+// 2. NEW POST with a future date, midnight today, or lagged
+//    The feed's date is wrong or late, so the current time is used as a reasonable
+//    approximation of when the post was actually published.
+//    → date = current UTC time as ISO 8601
 //    Example: "Sun, 22 Feb 2026 00:00:00 +0000" seen on 2026-02-22
 //             → "2026-02-22T14:35:12+00:00"
 //    Example: "Fri, 27 Mar 2026 00:00:00 +0000" seen on 2026-03-26 (feed off by one day)
 //             → "2026-03-26T05:40:05+00:00"
 //
-//    Two conditions trigger this:
+//    Three conditions trigger this:
 //    a) The parsed datetime is strictly after now (covers future dates and future
 //       times on the same day, e.g. feed says 23:00 but it is currently 10:00).
 //    b) The pubDate is midnight on today's date (feed is date-only; midnight has
 //       already passed so condition (a) would miss it).
+//    c) Lagged: the date is older than the newest date dev-news listed before this run
+//       (argv3), but at most MAX_LAG_DAYS old, and the feed is already tracked (at
+//       least one incoming post is stored). Without this the post would be listed
+//       below posts that were on dev-news before it.
+//       Example: "Wed, 28 Oct 2026 19:27:07 GMT" (stackoverflow) seen on 2026-10-29 17:01,
+//                newest listed "2026-10-29T11:01:40+00:00" → "2026-10-29T17:01:56+00:00"
 //
 //    A midnight pubDate is read as its written calendar date at midnight UTC, whatever
-//    its offset, so both conditions compare the date the feed actually states.
+//    its offset, so these conditions compare the date the feed actually states.
 //    Example: "Sat, 07 Feb 2026 00:00:00 +1100" seen on 2026-02-07
 //             → "2026-02-07T05:04:00+00:00" (not "2026-02-06T13:00:00+00:00")
 //
-//    If the date is in the past, the post is older than this run (e.g. a new feed was
-//    added and historical posts are appearing for the first time). Using the current
-//    time would assign a completely wrong date, so the post falls through to strategy
-//    3 instead.
+//    Older posts and posts of a feed that isn't tracked yet (feed just added, or all its
+//    links changed) are historical posts appearing for the first time. Using the current
+//    time would assign a completely wrong date, so they fall through to strategy 3.
 //
 // 3. NEW POST, everything else
 //    The post is new and either has a real time or is an old midnight post. The raw
@@ -76,7 +97,16 @@
 //    Example: "Sat, 31 Jan 2026 10:25:27 +0100" → "2026-01-31T09:25:27+00:00"
 //    Example: "Fri, 13 Jan 2023 00:00:00 +0000" → "2023-01-13T00:00:00+00:00"
 //    Example: "2023-05-20T00:00:00+02:00"       → "2023-05-20T00:00:00+00:00" (written date kept)
-//    If the date is unparseable, the raw value is kept as a fallback.
+//    If the date is unparseable, date is left out and consumers fall back to the raw pubDate.
+//
+// MISSING POSTS
+// -------------
+// If a tracked feed no longer returns some stored posts, they are kept and the posts
+// are sorted by date (newest first), keeping as many as the feed or the stored file
+// had. A post that drops out and comes back therefore stays stored with its dates
+// instead of being seen as new (and lagged) again. Stored posts older than the kept
+// ones are dropped, as before. A post removed from the feed for good stays until newer
+// posts push it out.
 //
 // FILE READ SAFETY
 // ----------------
@@ -97,17 +127,24 @@
 // update_posts.sh execution and keeps new posts normalized going forward.
 //
 // USAGE
-//   echo "$new_json" | node fix_post_times.js posts/<id>.json
+//   echo "$new_json" | node fix_post_times.js posts/<id>.json [newest-listed]
 //
 //   stdin:  JSON array of posts freshly parsed from the feed by yq
 //   argv2:  path to the existing posts/<id>.json file for this feed
-//   stdout: JSON array with pubDates normalized and midnight times fixed
+//   argv3:  newest date listed on dev-news before this run (any parseable date);
+//           if left out, lagged posts are not detected
+//   stdout: JSON array of posts with date set
 //   stderr: error messages if stdin is not valid JSON or not an array
 //
 
 const fs = require('fs');
 
 const existingFile = process.argv[2];
+const newestListed = new Date(process.argv[3] || NaN);
+
+// A post first seen more than this long after its date keeps its own date
+// (e.g. an old post coming back into the feed), so it is not shown as new.
+const MAX_LAG_DAYS = 3;
 
 // Read existing posts synchronously before stdin processing starts,
 // so the caller can safely redirect our stdout to the same file.
@@ -116,12 +153,11 @@ if (existingFile && fs.existsSync(existingFile)) {
     try { existing = JSON.parse(fs.readFileSync(existingFile, 'utf8')); } catch (_) {}
 }
 
-// Build link -> pubDate map for all existing posts.
-// Preserves both fully fixed times and ISO-midnight times (old posts that were format-normalized).
-const fixed = {};
+// Build link -> stored post map
+const stored = {};
 for (const post of existing) {
-    if (post.link && post.pubDate) {
-        fixed[post.link] = post.pubDate;
+    if (post.link && (post.date || post.pubDate)) {
+        stored[post.link] = post;
     }
 }
 
@@ -146,6 +182,29 @@ function writtenMidnight(pubDate) {
     return isNaN(d.getTime()) ? null : d;
 }
 
+// date for a new post (strategies 2 and 3), null if pubDate is unparseable
+function newPostDate(pubDate, tracked) {
+    const midnight = writtenMidnight(pubDate);
+    const d = midnight || new Date(pubDate);
+    if (isNaN(d.getTime())) return null;
+
+    const isFutureDateTime = d > now;
+    const isMidnightToday = midnight !== null && toISO(midnight).slice(0, 10) === todayUTC;
+    const isLagged = tracked && d < newestListed && now - d <= MAX_LAG_DAYS * 24 * 60 * 60 * 1000;
+    if (isFutureDateTime || isMidnightToday || isLagged) {
+        // Future datetime, today with no real time, or shown by the feed late — assign current time
+        return nowISO;
+    }
+
+    // Normalize to ISO UTC
+    return toISO(d);
+}
+
+const sortTime = post => {
+    const t = new Date(post.date || post.pubDate).getTime();
+    return isNaN(t) ? -Infinity : t;
+};
+
 let input = '';
 process.stdin.setEncoding('utf8');
 process.stdin.on('data', chunk => input += chunk);
@@ -163,25 +222,32 @@ process.stdin.on('end', () => {
         process.exit(1);
     }
 
-    const result = posts.map(post => {
-        if (fixed[post.link]) {
-            // Already stored — always prefer saved value (ISO UTC, possibly time-fixed)
-            return { ...post, pubDate: fixed[post.link] };
+    // Tracked feed: at least one incoming post is already stored. Otherwise all posts are new
+    // (feed just added, or its links changed) and are treated as historical.
+    const tracked = posts.some(post => stored[post.link]);
+
+    let result = posts.map(post => {
+        const known = stored[post.link];
+        if (known) {
+            // Already stored — always prefer saved dates (posts stored before `date` existed have only pubDate)
+            return known.date
+                ? { ...post, pubDate: known.pubDate, date: known.date }
+                : { ...post, pubDate: known.pubDate };
         }
 
-        // New post not seen before
-        const midnight = writtenMidnight(post.pubDate);
-        const d = midnight || new Date(post.pubDate);
-        const isFutureDateTime = !isNaN(d.getTime()) && d > now;
-        const isMidnightToday = midnight !== null && toISO(midnight).slice(0, 10) === todayUTC;
-        if (isFutureDateTime || isMidnightToday) {
-            // Future datetime or today with no real time — assign current time
-            return { ...post, pubDate: nowISO };
-        }
-
-        // New post — normalize to ISO UTC
-        return isNaN(d.getTime()) ? post : { ...post, pubDate: toISO(d) };
+        // New post not seen before — keep the feed's pubDate, add date
+        const date = newPostDate(post.pubDate, tracked);
+        return date ? { ...post, date } : post;
     });
+
+    // Keep stored posts the feed no longer returns (see MISSING POSTS)
+    const fetched = new Set(posts.map(post => post.link));
+    const missing = tracked ? existing.filter(post => stored[post.link] && !fetched.has(post.link)) : [];
+    if (missing.length > 0) {
+        result = [...result, ...missing]
+            .sort((a, b) => sortTime(b) - sortTime(a))
+            .slice(0, Math.max(posts.length, existing.length));
+    }
 
     process.stdout.write(JSON.stringify(result, null, 2) + '\n');
 });

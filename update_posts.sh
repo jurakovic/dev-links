@@ -41,10 +41,10 @@ function update() {
     return
   fi
 
-  # Fix midnight pubDates via node script.
+  # Set post dates (fix midnight, future and lagged dates) via node script.
   # Capture into variable first — redirecting stdout directly to "$id.json" would truncate
   # the file before node's synchronous read of the existing content could run.
-  fixed_json=$(echo "$new_json" | node ../fix_post_times.js "$id.json")
+  fixed_json=$(echo "$new_json" | node ../fix_post_times.js "$id.json" "$newest_listed")
 
   if [ $? -ne 0 ] || [ -z "$fixed_json" ]; then
     echo "  [ERROR] Failed to process $id ($feed)"
@@ -60,6 +60,23 @@ function update() {
 }
 
 cd posts
+
+# Newest date listed on dev-news, read once before any feed is updated.
+# fix_post_times.js moves new posts dated before it (shown by their feed late) to the top.
+newest_listed=$(node -e '
+  const fs = require("fs");
+  let newest = -Infinity;
+  for (const file of fs.readdirSync(".").filter(f => f.endsWith(".json"))) {
+    let posts = [];
+    try { posts = JSON.parse(fs.readFileSync(file, "utf8")); } catch (_) {}
+    for (const post of Array.isArray(posts) ? posts : []) {
+      const t = new Date(post.date || post.pubDate).getTime();
+      if (t > newest) newest = t;
+    }
+  }
+  if (isFinite(newest)) console.log(new Date(newest).toISOString());
+')
+echo "Newest listed: ${newest_listed:-none}"
 
 # Get blog IDs from CLI arguments (if any)
 target_blogs=("$@")

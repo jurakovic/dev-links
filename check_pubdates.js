@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 //
-// check_pubdates.js — Report posts whose pubDate is later than their git blame commit date.
+// check_pubdates.js — Report posts whose date is later than their git blame commit date.
+//
+// Checks each post's `date` (set by fix_post_times.js), or its pubDate for posts stored
+// before `date` existed. pubDate of newer posts is the raw feed value and is not checked.
 //
 // USAGE
 //   node check_pubdates.js [branch]
@@ -32,21 +35,30 @@ for (const filePath of files) {
         continue;
     }
 
+    // Date line of the current post: its `date` line if it has one, otherwise its pubDate line
+    let current = null;
     for (const line of blame.split('\n')) {
-        const pubDateMatch = line.match(/"pubDate":\s*"([^"]+)"/);
-        if (!pubDateMatch) continue;
+        const dateMatch = line.match(/"(pubDate|date)":\s*"([^"]+)"/);
+        if (dateMatch && (dateMatch[1] === 'date' || !current)) {
+            current = { line, field: dateMatch[1], value: dateMatch[2] };
+            continue;
+        }
+        if (!/\)\s*\},?\s*$/.test(line) || !current) continue; // not the end of a post
+
+        const post = current;
+        current = null;
 
         // git blame default format: <hash> (<author> YYYY-MM-DD HH:MM:SS +ZZZZ <lineno>)
-        const commitMatch = line.match(/\(.*?(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2} [+-]\d{4})\s+\d+\)/);
+        const commitMatch = post.line.match(/\(.*?(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2} [+-]\d{4})\s+\d+\)/);
         if (!commitMatch) continue;
 
-        const pubDate = new Date(pubDateMatch[1]);
+        const date = new Date(post.value);
         const commitDate = new Date(commitMatch[1]);
 
-        if (isNaN(pubDate) || isNaN(commitDate)) continue;
+        if (isNaN(date) || isNaN(commitDate)) continue;
 
-        if (pubDate > commitDate) {
-            console.log(`${filePath}: pubDate ${pubDateMatch[1]} > commit ${commitMatch[1]}`);
+        if (date > commitDate) {
+            console.log(`${filePath}: ${post.field} ${post.value} > commit ${commitMatch[1]}`);
             issues++;
         }
     }
