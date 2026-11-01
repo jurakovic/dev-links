@@ -349,7 +349,6 @@ Clean Architecture Reference Applications / Solution Templates
 ![icon](favicons/anthropic.png)
 Anthropic Engineering  
 <https://www.anthropic.com/engineering>  
-<https://claude.com/resources/articles/the-ai-native-sdlc-playbook>  
 <div id="anthropic" class="blog-posts"></div>
 
 ![icon](favicons/agentic-patterns.png)
@@ -358,6 +357,10 @@ Agentic Patterns
 <div id="agentic-patterns" class="blog-posts"></div>
 
 <!-- END AI-MAIN -->
+
+![icon](favicons/claude.png)
+The AI-native SDLC playbook | Claude  
+<https://claude.com/resources/articles/the-ai-native-sdlc-playbook>  
 
 * * *
 

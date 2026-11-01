@@ -1213,9 +1213,7 @@
         "description": "",
         "url": "https://www.anthropic.com/engineering",
         "feed": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml",
-        "extras": [
-            "https://claude.com/resources/articles/the-ai-native-sdlc-playbook"
-        ],
+        "extras": [],
         "github": "",
         "category": "ai-main",
         "icon": "anthropic",
