@@ -118,6 +118,10 @@ Technical Documentation
 Transact-SQL reference (Database Engine)  
 <https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
 
+![icon](favicons/sqlserverfast.png)
+SQL Server Execution Plan Reference | Hugo Kornelis  
+<https://sqlserverfast.com/epr/>  
+
 ![icon](favicons/microsoft.png)
 SQL projects  
 [https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects](https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16)  
@@ -354,9 +358,9 @@ Agentic Patterns
 
 <!-- END AI-MAIN -->
 
-![icon](favicons/microsoft-ai.png)
-Humanist AI Code of Conduct | Microsoft AI  
-<https://microsoft.ai/code-of-conduct/>  
+![icon](favicons/claude.png)
+The AI-native SDLC playbook  
+<https://claude.com/resources/articles/the-ai-native-sdlc-playbook>  
 
 * * *
 
@@ -545,6 +549,11 @@ Brent Ozar
 <https://www.brentozar.com/blog/>  
 <https://github.com/BrentOzarULTD>  
 <div id="brentozar" class="blog-posts"></div>
+
+![icon](favicons/sqlserverfast.png)
+Hugo Kornelis | SQLServerFast.com  
+<https://sqlserverfast.com/blog/>  
+<div id="sqlserverfast" class="blog-posts"></div>
 
 <!-- END SQL -->
 

@@ -128,6 +128,12 @@ Wes McKinney
 <https://github.com/wesm>  
 <div id="wesmckinney" class="blog-posts"></div>
 
+![icon](../favicons/seldo.png)
+Laurie Voss | Seldo.com  
+<https://seldo.com>  
+<https://github.com/seldo>  
+<div id="seldo" class="blog-posts"></div>
+
 <!-- END AI -->
 
 #### <a name="blogs-net"></a>.NET <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup> <sup><sub>&nbsp;&nbsp;<a href="#net">­­­­­­↑ Official</a></sub></sup>
@@ -312,6 +318,11 @@ Brent Ozar
 <https://github.com/BrentOzarULTD>  
 <div id="brentozar" class="blog-posts"></div>
 
+![icon](../favicons/sqlserverfast.png)
+Hugo Kornelis | SQLServerFast.com  
+<https://sqlserverfast.com/blog/>  
+<div id="sqlserverfast" class="blog-posts"></div>
+
 <!-- END SQL -->
 
 #### <a name="blogs-general"></a>General <sup><sub>&nbsp;&nbsp;<a href="#top">­­­­­­↑ Top</a></sub></sup>
@@ -434,6 +445,11 @@ James Randall
 No One's Happy  
 <https://nooneshappy.com>  
 <div id="nooneshappy" class="blog-posts"></div>
+
+![icon](../favicons/paulgraham.png)
+Paul Graham | Essays  
+<https://paulgraham.com/articles.html>  
+<div id="paulgraham" class="blog-posts"></div>
 
 <!-- END GENERAL -->
 
