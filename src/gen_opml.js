@@ -1,7 +1,9 @@
 const fs = require('fs');
+const path = require('path');
 
-const INPUT_FILE = 'blogs.json';
-const OUTPUT_FILE = 'blogs.opml';
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
+const INPUT_FILE = path.join(ROOT_DIR, 'blogs.json');
+const OUTPUT_FILE = path.join(ROOT_DIR, 'blogs.opml');
 
 const blogs = JSON.parse(fs.readFileSync(INPUT_FILE, 'utf8'));
 
@@ -37,4 +39,4 @@ const opml = opmlHeader + outlines + '\n' + opmlFooter;
 
 fs.writeFileSync(OUTPUT_FILE, opml, 'utf8');
 
-console.log(`OPML file generated: ${OUTPUT_FILE}`);
+console.log(`OPML file generated: ${path.relative(ROOT_DIR, OUTPUT_FILE)}`);

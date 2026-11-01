@@ -4,10 +4,11 @@ const path = require('path');
 const branchName = process.argv[2] || 'master';
 
 // --- Config ---
-const POSTS_DIR = path.join(__dirname, 'posts');
-const TEMPLATE_FILE = path.join(__dirname, 'README.template');
-const OUTPUT_FILE = path.join(__dirname, 'README.md');
-const BLOGS_JSON = path.join(__dirname, 'blogs.json');
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
+const POSTS_DIR = path.join(ROOT_DIR, 'posts');
+const TEMPLATE_FILE = path.join(ROOT_DIR, 'README.template');
+const OUTPUT_FILE = path.join(ROOT_DIR, 'README.md');
+const BLOGS_JSON = path.join(ROOT_DIR, 'blogs.json');
 const FAVICON_PATH = `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${branchName}/favicons/`;
 const README_URL = `https://github.com/jurakovic/dev-links/blob/${branchName}/README.md`;
 const BLOGS_README_URL = `https://github.com/jurakovic/dev-links/blob/${branchName}/blogs/README.md`;

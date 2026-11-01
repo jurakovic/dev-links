@@ -6,18 +6,21 @@
 // which can be in the future, and is not checked.
 //
 // USAGE
-//   node check_pubdates.js [branch]
+//   node src/check_pubdates.js [branch]
 //
 //   branch: git ref to blame against (default: origin/dev-news)
 //
 
 const { execSync } = require('child_process');
+const path = require('path');
+
+const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
 
 const branch = process.argv[2] || 'origin/dev-news';
 
 let files;
 try {
-    const out = execSync(`git ls-tree --name-only ${branch} posts/`, { encoding: 'utf8' });
+    const out = execSync(`git ls-tree --name-only ${branch} posts/`, { encoding: 'utf8', cwd: ROOT_DIR });
     files = out.trim().split('\n').filter(f => f.endsWith('.json'));
 } catch (e) {
     console.error(`Failed to list posts on ${branch}: ${e.message}`);
@@ -29,7 +32,7 @@ let issues = 0;
 for (const filePath of files) {
     let blame;
     try {
-        blame = execSync(`git blame ${branch} -- ${filePath}`, { encoding: 'utf8' });
+        blame = execSync(`git blame ${branch} -- ${filePath}`, { encoding: 'utf8', cwd: ROOT_DIR });
     } catch (e) {
         console.error(`Failed to blame ${filePath}: ${e.message}`);
         continue;

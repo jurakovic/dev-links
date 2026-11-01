@@ -44,7 +44,7 @@ function update() {
   # Set post dates (fix midnight, future and lagged dates) via node script.
   # Capture into variable first — redirecting stdout directly to "$id.json" would truncate
   # the file before node's synchronous read of the existing content could run.
-  fixed_json=$(echo "$new_json" | node ../fix_post_times.js "$id.json" "$newest_listed")
+  fixed_json=$(echo "$new_json" | node ../src/fix_post_times.js "$id.json" "$newest_listed")
 
   if [ $? -ne 0 ] || [ -z "$fixed_json" ]; then
     echo "  [ERROR] Failed to process $id ($feed)"
@@ -59,7 +59,8 @@ function update() {
   fi
 }
 
-cd posts
+# posts/ is in the repo root (this script lives in src/)
+cd "$(dirname "$0")/../posts" || exit 1
 
 # Newest date listed on dev-news, read once before any feed is updated.
 # fix_post_times.js moves new posts dated before it (shown by their feed late) to the top.

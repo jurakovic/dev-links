@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
     inputs:
       dev_news_target_branch:
-        description: 'dev-news target branch' # gen_news.js arg (default: master)
+        description: 'dev-news target branch' # src/gen_news.js arg (default: master)
         required: false
         default: 'master'
         type: string
@@ -41,7 +41,7 @@ jobs:
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
 
       - name: Render latest posts
-        run: node render_posts.js
+        run: node src/render_posts.js
 
       - name: Fetch dev-tools branch
         run: |
