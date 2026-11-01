@@ -18,14 +18,15 @@ How this repository works: what lives on which branch, how the site is built, an
 
 ## Overview
 
-dev-links is a curated list of developer links, published with GitHub Pages at <https://jurakovic.github.io/dev-links/>. The site has four pages:
+dev-links is a curated list of developer links, published with GitHub Pages at <https://jurakovic.github.io/dev-links/>. The site has these pages:
 
-| Page      | URL       | Source                                                              |
-|-----------|-----------|---------------------------------------------------------------------|
-| dev-links | `/`       | `README.md` on master                                               |
-| dev-blogs | `/blogs/` | `blogs/README.md` on master                                         |
-| dev-news  | `/news/`  | `README.md` on dev-news, copied to `news/README.md` at build time   |
-| dev-tools | `/tools/` | the dev-tools branch, copied into `tools/` at build time            |
+| Page      | URL               | Source                                                              |
+|-----------|-------------------|---------------------------------------------------------------------|
+| dev-links | `/`               | `README.md` on master                                               |
+| dev-blogs | `/blogs/`         | `blogs/README.md` on master                                         |
+| dev-news  | `/news/`          | `README.md` on dev-news, copied to `news/README.md` at build time   |
+| dev-tools | `/tools/`         | the dev-tools branch, copied into `tools/` at build time            |
+| internals | `/INTERNALS.html` | this file, `INTERNALS.md` on master                                 |
 
 The same Markdown files are readable on GitHub, with three differences:
 
@@ -35,16 +36,18 @@ The same Markdown files are readable on GitHub, with three differences:
 
 ### How the pieces fit
 
-```mermaid
-flowchart LR
-  cron["cron-job.org<br/>every 6 hours"] -->|workflow_dispatch| up["Update Posts<br/>workflow"]
-  blogs["blogs.json + src/<br/>(master)"] --> up
-  feeds[("RSS / Atom<br/>feeds")] --> up
-  up -->|"commit posts/*.json,<br/>README.md"| news["dev-news<br/>branch"]
-  news -->|push| deploy["Deploy GitHub Pages<br/>workflow"]
-  master["master<br/>branch"] -->|push| deploy
-  tools["dev-tools<br/>branch"] --> deploy
-  deploy --> site["jurakovic.github.io/dev-links"]
+```
+cron-job.org, every 6 hours
+   │ workflow_dispatch
+   ▼
+Update Posts workflow ◄─── blogs.json + src/ from master
+   │                  ◄─── RSS / Atom feeds
+   │ commit posts/*.json + README.md
+   ▼
+dev-news ───push───► Deploy GitHub Pages workflow ◄───push─── master
+                       ▲          │
+dev-tools ─────────────┘          ▼
+                     jurakovic.github.io/dev-links
 ```
 
 There are two loops:
@@ -79,7 +82,7 @@ tools/README.md         placeholder, replaced at build time by the dev-tools bra
 _config.yml             Jekyll config
 blogs.json              every blog: the source of truth
 blogs.opml              blogs.json as OPML, generated
-INTERNALS.md            this file (not published)
+INTERNALS.md            this file
 README.md               dev-links page
 ```
 
@@ -128,7 +131,7 @@ The source of truth for every blog: an array of objects, indented with 4 spaces,
 | Field         | Read by                                    | Meaning |
 |---------------|--------------------------------------------|---------|
 | `id`          | all scripts                                | Unique key. Name of `posts/<id>.json`, the placeholder `<div id>`, and the feed name shown on dev-news. |
-| `author`      | update_readme.js, gen_opml.js              | Shown as `author \| title`. Can be empty. |
+| `author`      | update_readme.js, gen_opml.js              | Shown before the title. Can be empty. |
 | `title`       | update_readme.js, gen_opml.js              | Can be empty. |
 | `description` | none                                       | Notes about the blog. Not rendered anywhere. |
 | `url`         | update_readme.js, gen_opml.js              | Main link. |
@@ -207,7 +210,7 @@ The Pages build also copies these files into the site, so they are served at `/d
 
 ### Update Posts (dev-news)
 
-File: [`.github/workflows/update_posts.yaml`](.github/workflows/update_posts.yaml)
+File: [`.github/workflows/update_posts.yaml`](https://github.com/jurakovic/dev-links/blob/master/.github/workflows/update_posts.yaml)
 
 **Trigger.** `workflow_dispatch` only. The GitHub `schedule` is commented out: since May 2026 an external [cron-job.org job](https://console.cron-job.org/jobs/7705033) dispatches the workflow every 6 hours. To run it by hand: Actions → Update Posts (dev-news) → Run workflow.
 
@@ -230,7 +233,7 @@ A feed that fails to download or parse is logged as `[ERROR] Failed to process <
 
 ### Deploy GitHub Pages
 
-File: [`.github/workflows/github_pages.yaml`](.github/workflows/github_pages.yaml)
+File: [`.github/workflows/github_pages.yaml`](https://github.com/jurakovic/dev-links/blob/master/.github/workflows/github_pages.yaml)
 
 **Triggers:**
 
@@ -265,6 +268,8 @@ File: [`.github/workflows/github_pages.yaml`](.github/workflows/github_pages.yam
 
 All of these changes stay in the build workspace and are never committed. There is no preview environment: every run publishes to the live site.
 
+The deploy badge in `README.md` shows the latest run on dev-news. Those runs happen every 6 hours and also build master, so a broken master shows up there too.
+
 * * *
 
 ## Site (Jekyll)
@@ -276,7 +281,7 @@ All of these changes stay in the build workspace and are never committed. There 
 | `remote_theme: jurakovic/cayman-blue` | The theme, a fork of Cayman. |
 | `google_analytics`                    | Analytics ID. |
 | `dark_theme`, `target_blank`          | Options of the cayman-blue theme: dark mode, and opening links in the header and main content in a new tab. |
-| `exclude: [src, INTERNALS.md]`        | Not published. |
+| `exclude: [src]`                      | Scripts are not published. |
 | `defaults`                            | Layout `default` for every page. Pages under `news/` and `blogs/` get the titles `dev-news` and `dev-blogs` and `show_header: false`. |
 
 ### _includes
@@ -392,7 +397,7 @@ Runs in the Pages build, after the dev-news files are copied in. For `README.md`
 ```
 
 - It all stays on one line so kramdown treats it as a single raw HTML block.
-- Titles and links are HTML-escaped, and `{` `}` too, so Liquid doesn't read `{{ }}` or `{% %}` in titles.
+- Titles and links are HTML-escaped, curly braces included, so Liquid doesn't read template tags in titles.
 - Dates are in UTC.
 - A div with no posts file or no posts is left empty. On master, where there is no `posts/`, the script changes nothing.
 

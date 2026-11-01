@@ -1,5 +1,17 @@
 
-<a name="top"></a>**dev-links**  
+<a name="top"></a>[![links updated](https://img.shields.io/github/last-commit/jurakovic/dev-links/master?label=links%20updated)](https://github.com/jurakovic/dev-links/commits/master)
+[![blogs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjurakovic%2Fdev-links%2Fmaster%2Fblogs.json&query=%24.length&label=blogs)](blogs/README.md)
+[![news updated](https://img.shields.io/github/last-commit/jurakovic/dev-links/dev-news?label=news%20updated)](news/README.md)
+[![update posts](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/update_posts.yaml?branch=master&label=update%20posts)](https://github.com/jurakovic/dev-links/actions/workflows/update_posts.yaml)
+[![deploy](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/github_pages.yaml?branch=dev-news&label=deploy)](https://github.com/jurakovic/dev-links/actions/workflows/github_pages.yaml)
+
+A growing collection of developer links: documentation, articles, blogs and tools I've found useful or interesting. I keep it here as a personal reference, but you're welcome to browse through and see if anything catches your eye.
+
+<sub>*Curious how the site is built and kept up to date? See [INTERNALS.md](INTERNALS.md).*</sub>
+
+* * *
+
+**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  
