@@ -118,6 +118,10 @@ Technical Documentation
 Transact-SQL reference (Database Engine)  
 <https://learn.microsoft.com/en-us/sql/t-sql/language-reference>  
 
+![icon](favicons/sqlserverfast.png)
+SQL Server Execution Plan Reference | Hugo Kornelis  
+<https://sqlserverfast.com/epr/>  
+
 ![icon](favicons/microsoft.png)
 SQL projects  
 [https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects](https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16)  
@@ -147,10 +151,6 @@ Markus Winand | SQL Indexing and Tuning
 <div id="use-the-index-luke" class="blog-posts"></div>
 
 <!-- END SQL-MAIN -->
-
-![icon](favicons/sqlserverfast.png)
-SQL Server Execution Plan Reference | Hugo Kornelis  
-<https://sqlserverfast.com/epr/>  
 
 * * *
 
