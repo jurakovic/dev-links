@@ -1,4 +1,19 @@
 
+<h1 class="pages-hidden">dev-links</h1>
+
+[![links updated](https://img.shields.io/github/last-commit/jurakovic/dev-links/master?label=links%20updated)](https://github.com/jurakovic/dev-links/commits/master)
+[![blogs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjurakovic%2Fdev-links%2Fmaster%2Fblogs.json&query=%24.length&label=blogs)](blogs/README.md)
+[![OPML](https://img.shields.io/badge/OPML-blogs.opml-orange?logo=rss&logoColor=white)](blogs.opml)
+[![news updated](https://img.shields.io/github/last-commit/jurakovic/dev-links/dev-news?label=news%20updated)](https://github.com/jurakovic/dev-links/blob/dev-news/README.md)
+[![update posts](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/update_posts.yaml?branch=master&label=update%20posts)](https://github.com/jurakovic/dev-links/actions/workflows/update_posts.yaml)
+[![deploy](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/github_pages.yaml?branch=dev-news&label=deploy)](https://github.com/jurakovic/dev-links/actions/workflows/github_pages.yaml)
+
+Developer links I find useful: docs, articles and tools on .NET, SQL Server, architecture and AI, plus the blogs I read. Their latest posts are collected on [dev-news](https://github.com/jurakovic/dev-links/blob/dev-news/README.md). Feel free to look around.
+
+<sub>*Curious how the site is built and kept up to date? See [INTERNALS.md](INTERNALS.md).*</sub>
+
+* * *
+
 <a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  

@@ -39,6 +39,7 @@ jobs:
           git restore README.md # restore original README.md
           sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
+          sed -i "s;](https://github.com/jurakovic/dev-links/blob/dev-news/README.md);](news/README.md);g" README.md # dev-news links (description, badge): dev-news branch on GitHub, news page on the site
 
       - name: Render latest posts
         run: node src/render_posts.js

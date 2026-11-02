@@ -1,17 +1,7 @@
 #!/usr/bin/env node
 //
 // fix_post_times.js — Per-feed post date fixer, called by update_posts.sh
-//
-// FIELDS
-// ------
-// Each stored post has two dates, both ISO 8601 UTC ("2026-10-28T19:27:07+00:00"):
-//
-//   pubDate  The date the feed published, normalized to ISO 8601 UTC (same instant,
-//            see strategy 3 below). Never changed afterwards.
-//   date     The date dev-news sorts and displays by: pubDate, or the time the post was
-//            first seen when the feed's date can't be used as is (see strategy 2 below).
-//            Every post has it; gen_news.js, render_posts.js and check_pubdates.js
-//            read only this field.
+// Post fields (title, link, pubDate, date): see INTERNALS.md, "posts/<id>.json".
 //
 // PROBLEM
 // -------
@@ -120,13 +110,6 @@
 //
 //   Safe:   fixed=$(echo "$new" | node fix_post_times.js "$id.json") && echo "$fixed" > "$id.json"
 //   Unsafe: echo "$new" | node fix_post_times.js "$id.json" > "$id.json"
-//
-// RELATIONSHIP TO fix_midnight.js
-// --------------------------------
-// fix_midnight.js is a one-time backfill script that retroactively normalizes all
-// existing posts/*.json files using git blame to recover approximate publish times.
-// This script (fix_post_times.js) is the ongoing counterpart: it runs on every
-// update_posts.sh execution and keeps new posts normalized going forward.
 //
 // USAGE
 //   echo "$new_json" | node src/fix_post_times.js posts/<id>.json [newest-listed]
