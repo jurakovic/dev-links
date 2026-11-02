@@ -28,11 +28,12 @@ dev-links is a curated list of developer links, published with GitHub Pages at <
 | dev-tools | `/tools/`         | the dev-tools branch, copied into `tools/` at build time            |
 | internals | `/INTERNALS.html` | this file, `INTERNALS.md` on master                                 |
 
-The same Markdown files are readable on GitHub, with three differences:
+The same Markdown files are readable on GitHub, with these differences:
 
 - **Latest Posts lists.** Every blog with a feed has an empty `<div id="<blog-id>" class="blog-posts"></div>` in the READMEs. The Pages build fills it with the blog's latest posts. On GitHub it stays empty.
 - **Placeholders.** On master, `news/README.md` and `tools/README.md` are one-line notes that point to the dev-news branch and the Pages site. The build replaces them.
-- **GitHub-only tip.** A `<p class="pages-hidden">` note that the site has lists of latest posts. Pages hides it with CSS.
+- **GitHub-only content.** Elements with the `pages-hidden` class are hidden on the site with CSS: the `README.md` heading (the theme header already shows the title there) and the note that the site has lists of latest posts. Don't put the `top` anchor inside them: on the site, "↑ Top" can't scroll to a hidden element.
+- **dev-news links.** In `README.md`, the description link and the "news updated" badge open the dev-news branch on GitHub. The Pages build rewrites them to open the news page on the site.
 
 ### How the pieces fit
 
@@ -380,7 +381,9 @@ Generates the news page as `README.md` in the repo root (in the workflow, the de
 
 1. Reads every `posts/*.json`, whether or not the blog is still in `blogs.json`.
 2. Sorts by `date`, newest first, and keeps 100.
-3. Writes each post as two lines: favicon, date (`YYYY-MM-DD`), blog ID and category tag, then the title linked to the post. In titles, the Markdown characters `*`, `_`, `` ` ``, `[` and `]` are escaped, and `<` and `>` become entities.
+3. Writes a breadcrumb back to dev-links and dev-blogs, with the `top` anchor.
+4. Writes each post as two lines: favicon, date (`YYYY-MM-DD`), blog ID and category tag, then the title linked to the post. In titles, the Markdown characters `*`, `_`, `` ` ``, `[` and `]` are escaped, and `<` and `>` become entities.
+5. Ends with an "↑ Top" link.
 
 `branch` sets the absolute link base: `https://github.com/jurakovic/dev-links/blob/<branch>/...` for pages and `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<branch>/favicons/` for icons.
 
