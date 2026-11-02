@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-02 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-02 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[SQL Server Full-Text Search: an overview](https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-overview.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-02 damienbod [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[Use Open.IdentityServer for OpenID Connect in an Aspire setup](https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seldo.png) <small>2026-11-02 seldo [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[A proposal: how to hire junior engineers in the age of AI](https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai)</small>
 
@@ -178,9 +187,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-25 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates](https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-25 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Don't anthropomorphize big tech companies](https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-24 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[What's in My Home Directory](https://third-bit.com/2026/10/24/whats-in-my-home-directory/)</small>
 
@@ -297,10 +303,4 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-19 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Using the ADFS userinfo endpoint instead of allatclaims](https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-10-17 swizec [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[No more tech debt](https://swizec.com/blog/no-more-tech-debt)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-10-17 lethain [<kbd class="tag tag-management">Management</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-management)</small>  
-<small>[Speeding up code review with \`small-change\`](https://lethain.com/small-changes/)</small>
 

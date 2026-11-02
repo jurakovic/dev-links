@@ -1,5 +1,11 @@
 [
   {
+    "title": "SQL Server Full-Text Search: an overview",
+    "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-overview.html",
+    "pubDate": "2026-11-02T06:00:00+00:00",
+    "date": "2026-11-02T06:00:00+00:00"
+  },
+  {
     "title": "Reducing the size of your authentication cookie with ITicketStore",
     "link": "https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html",
     "pubDate": "2026-10-21T05:27:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/10/getting-all-your-claims-in-id-token.html",
     "pubDate": "2026-10-16T05:37:00+00:00",
     "date": "2026-10-16T05:37:00+00:00"
-  },
-  {
-    "title": "Getting visual explanations from your coding agent with the show-me skill",
-    "link": "https://bartwullems.blogspot.com/2026/10/getting-visual-explanations-from-your.html",
-    "pubDate": "2026-10-15T05:30:00+00:00",
-    "date": "2026-10-15T05:30:00+00:00"
   }
 ]
