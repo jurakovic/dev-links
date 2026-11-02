@@ -39,7 +39,9 @@ jobs:
           git restore README.md # restore original README.md
           sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
           sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
-          sed -i "s;](https://github.com/jurakovic/dev-links/blob/dev-news/README.md);](news/README.md);g" README.md # dev-news links (description, badge): dev-news branch on GitHub, news page on the site
+          sed -i "s;](https://github.com/jurakovic/dev-links/blob/dev-news/README.md);](news/);g" README.md # dev-news links (description, badge): dev-news branch on GitHub, news page on the site
+          sed -i "s;)](blogs/README.md);)](blogs/);g" README.md # blogs badge: jekyll-relative-links skips image links, so point it at the page URL
+          sed -i "s;](https://raw.githubusercontent.com/jurakovic/dev-links/master/blogs.opml);](blogs.opml);g" README.md # OPML badge: raw file on GitHub, the site's copy on the site
 
       - name: Render latest posts
         run: node src/render_posts.js

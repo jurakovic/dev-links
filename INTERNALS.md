@@ -261,7 +261,10 @@ File: [`.github/workflows/github_pages.yaml`](https://github.com/jurakovic/dev-l
 
    The two `sed` calls replace `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<target>` and `https://github.com/jurakovic/dev-links/blob/<target>` with `..`, so the news page uses the site's own pages and favicons.
 
-   A third `sed` changes the dev-news links in `README.md` (in the description and on the "news updated" badge) from the dev-news branch on GitHub to `news/README.md`, so on the site they open the news page.
+   Three more `sed` calls fix links in `README.md` for the site:
+   - The dev-news links (in the description and on the "news updated" badge) change from the dev-news branch on GitHub to `news/`, the news page.
+   - The "blogs" badge changes from `blogs/README.md` to `blogs/`. jekyll-relative-links turns `[text](page.md)` links into page URLs, but it skips links around an image, which is what a badge is.
+   - The "OPML" badge changes from the raw file on GitHub to `blogs.opml`, the site's own copy.
 3. **Render latest posts.** `node src/render_posts.js` fills the Latest Posts lists in `README.md` and `blogs/README.md`.
 4. **Fetch dev-tools branch.** Adds it as a worktree in `/tmp/dev-tools`, deletes the placeholder `tools/README.md`, and copies the branch's files into `tools/`.
 5. **Build with Jekyll** (`actions/jekyll-build-pages`) from `./` into `./_site`.
