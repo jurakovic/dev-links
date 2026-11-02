@@ -1,5 +1,5 @@
 
-<h1 class="pages-hidden"><a name="top"></a>dev-links</h1>
+<h1 class="pages-hidden">dev-links</h1>
 
 [![links updated](https://img.shields.io/github/last-commit/jurakovic/dev-links/master?label=links%20updated)](https://github.com/jurakovic/dev-links/commits/master)
 [![blogs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjurakovic%2Fdev-links%2Fmaster%2Fblogs.json&query=%24.length&label=blogs)](blogs/README.md)
@@ -14,7 +14,7 @@ Developer links I find useful: docs, articles and tools on .NET, SQL Server, arc
 
 * * *
 
-**dev-links**  
+<a name="top"></a>**dev-links**  
 ├─ [.NET](#net)  
 ├─ [SQL Server](#sql-server)  
 ├─ [Development](#development)  

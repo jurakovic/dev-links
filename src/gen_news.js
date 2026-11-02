@@ -63,7 +63,7 @@ allPosts.sort((a, b) => {
 const posts100 = allPosts.slice(0, 100);
 
 let md = `
-[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)  
+<a name="top"></a>[dev-links](https://github.com/jurakovic/dev-links/blob/${branchName}/README.md#content)
 └─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/${branchName}/blogs/README.md) / ***dev-news***  
 
 * * *
@@ -89,6 +89,8 @@ for (const post of posts100) {
     md += `![icon](${FAVICON_PATH}${icon}.png) <small>${dateStr} ${post.feed}${tagStr}</small>  \n`;
     md += `<small>[${escTitle}](${post.link})</small>\n\n`;
 }
+
+md += `<sub><a href="#top">↑ Top</a></sub>\n`;
 
 fs.writeFileSync(OUTPUT_FILE, md, 'utf8');
 
