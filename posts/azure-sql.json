@@ -1,5 +1,11 @@
 [
   {
+    "title": "How Microsoft SQL learned to recover without undoing everything first",
+    "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
+    "pubDate": "2026-11-02T11:49:03+00:00",
+    "date": "2026-11-02T11:49:03+00:00"
+  },
+  {
     "title": "Is Azure SQL Database Hyperscale “distributed SQL”?",
     "link": "https://devblogs.microsoft.com/azure-sql/is-azure-sql-database-hyperscale-distributed-sql/",
     "pubDate": "2026-10-30T16:52:56+00:00",
@@ -22,11 +28,5 @@
     "link": "https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/",
     "pubDate": "2026-10-06T22:42:12+00:00",
     "date": "2026-10-06T22:42:12+00:00"
-  },
-  {
-    "title": "Upcoming SQL and AI Events to Put on Your Calendar",
-    "link": "https://devblogs.microsoft.com/azure-sql/sql-calendar-2027q4/",
-    "pubDate": "2026-10-06T20:50:48+00:00",
-    "date": "2026-10-06T20:50:48+00:00"
   }
 ]

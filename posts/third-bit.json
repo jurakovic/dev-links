@@ -1,5 +1,11 @@
 [
   {
+    "title": "Testing the Schelling Segregation Model",
+    "link": "https://third-bit.com/2026/11/02/schelling/",
+    "pubDate": "2026-11-02T00:00:00+00:00",
+    "date": "2026-11-02T17:01:47+00:00"
+  },
+  {
     "title": "Training Data",
     "link": "https://third-bit.com/2026/10/30/training-data/",
     "pubDate": "2026-10-30T23:01:47+00:00",
@@ -22,11 +28,5 @@
     "link": "https://third-bit.com/2026/10/14/frml-builtin/",
     "pubDate": "2026-10-14T16:01:44+00:00",
     "date": "2026-10-14T16:01:44+00:00"
-  },
-  {
-    "title": "Arrays in Frml",
-    "link": "https://third-bit.com/2026/10/13/frml-arrays/",
-    "pubDate": "2026-10-13T22:01:32+00:00",
-    "date": "2026-10-13T22:01:32+00:00"
   }
 ]

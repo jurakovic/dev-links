@@ -1,5 +1,11 @@
 [
   {
+    "title": "The U.S. Census Bureau and “Super Intelligence”",
+    "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+    "pubDate": "2026-11-02T13:31:26+00:00",
+    "date": "2026-11-02T13:31:26+00:00"
+  },
+  {
     "title": "If in doubt, delete the uv.lock file",
     "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
     "pubDate": "2026-11-01T23:24:22+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
     "pubDate": "2026-10-31T22:10:01+00:00",
     "date": "2026-10-31T22:10:01+00:00"
-  },
-  {
-    "title": "dbreunig/nesformer",
-    "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
-    "pubDate": "2026-10-30T21:59:22+00:00",
-    "date": "2026-10-30T21:59:22+00:00"
   }
 ]
