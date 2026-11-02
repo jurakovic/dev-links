@@ -5,7 +5,7 @@
 [![update posts](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/update_posts.yaml?branch=master&label=update%20posts)](https://github.com/jurakovic/dev-links/actions/workflows/update_posts.yaml)
 [![deploy](https://img.shields.io/github/actions/workflow/status/jurakovic/dev-links/github_pages.yaml?branch=dev-news&label=deploy)](https://github.com/jurakovic/dev-links/actions/workflows/github_pages.yaml)
 
-A growing collection of developer links: documentation, articles, blogs and tools I've found useful or interesting. I keep it here as a personal reference, but you're welcome to browse through and see if anything catches your eye.
+Developer links I find useful: docs, articles and tools on .NET, SQL Server, architecture and AI, plus the blogs I read. Their latest posts are collected on [dev-news](news/README.md). Feel free to look around.
 
 <sub>*Curious how the site is built and kept up to date? See [INTERNALS.md](INTERNALS.md).*</sub>
 
