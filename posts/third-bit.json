@@ -1,5 +1,11 @@
 [
   {
+    "title": "Completed Fiction",
+    "link": "https://third-bit.com/2026/11/02/completed-fiction/",
+    "pubDate": "2026-11-02T00:00:00+00:00",
+    "date": "2026-11-02T23:01:52+00:00"
+  },
+  {
     "title": "Testing the Schelling Segregation Model",
     "link": "https://third-bit.com/2026/11/02/schelling/",
     "pubDate": "2026-11-02T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://third-bit.com/2026/10/15/frml-complete/",
     "pubDate": "2026-10-15T16:01:47+00:00",
     "date": "2026-10-15T16:01:47+00:00"
-  },
-  {
-    "title": "Built-in Functions in Frml",
-    "link": "https://third-bit.com/2026/10/14/frml-builtin/",
-    "pubDate": "2026-10-14T16:01:44+00:00",
-    "date": "2026-10-14T16:01:44+00:00"
   }
 ]
