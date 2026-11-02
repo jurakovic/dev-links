@@ -1,5 +1,5 @@
 
-<a name="top"></a>[dev-links](https://github.com/jurakovic/dev-links/blob/master/README.md#content)
+<a name="top"></a>[dev-links](https://github.com/jurakovic/dev-links/blob/master/README.md#content)  
 └─ [dev-blogs](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md) / ***dev-news***  
 
 * * *
