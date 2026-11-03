@@ -1,5 +1,17 @@
 [
   {
+    "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+    "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+    "pubDate": "2026-11-03T05:32:25+00:00",
+    "date": "2026-11-03T05:32:25+00:00"
+  },
+  {
+    "title": "October sponsors-only newsletter",
+    "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+    "pubDate": "2026-11-03T05:28:59+00:00",
+    "date": "2026-11-03T05:28:59+00:00"
+  },
+  {
     "title": "llm 0.37",
     "link": "https://simonwillison.net/2026/Nov/2/llm/",
     "pubDate": "2026-11-02T23:49:30+00:00",
@@ -16,17 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
     "pubDate": "2026-11-01T23:24:22+00:00",
     "date": "2026-11-01T23:24:22+00:00"
-  },
-  {
-    "title": "Quoting Kyle Kingsbury",
-    "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
-    "pubDate": "2026-11-01T16:49:04+00:00",
-    "date": "2026-11-01T16:49:04+00:00"
-  },
-  {
-    "title": "How We Took Over ChatGPT Accounts",
-    "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
-    "pubDate": "2026-10-31T23:15:22+00:00",
-    "date": "2026-10-31T23:15:22+00:00"
   }
 ]

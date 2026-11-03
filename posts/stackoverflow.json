@@ -1,5 +1,11 @@
 [
   {
+    "title": "Oh, your agents need OAuth2, too",
+    "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+    "pubDate": "2026-11-03T08:40:00+00:00",
+    "date": "2026-11-03T08:40:00+00:00"
+  },
+  {
     "title": "It’s ok that computers are (sometimes) better than us",
     "link": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
     "pubDate": "2026-10-30T07:40:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
     "pubDate": "2026-10-28T14:55:00+00:00",
     "date": "2026-10-28T14:55:00+00:00"
-  },
-  {
-    "title": "Elevators, toasters, and the birth of Java",
-    "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
-    "pubDate": "2026-10-27T05:01:35+00:00",
-    "date": "2026-10-27T05:01:35+00:00"
   }
 ]

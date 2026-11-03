@@ -1,5 +1,11 @@
 [
   {
+    "title": "Understanding Lazy<T> thread safety modes",
+    "link": "https://andrewlock.net/understanding-lazy-thread-safety-modes/",
+    "pubDate": "2026-11-03T10:00:00+00:00",
+    "date": "2026-11-03T10:00:00+00:00"
+  },
+  {
     "title": "An introduction to Compact Binary Object Representation (CBOR) in .NET",
     "link": "https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/",
     "pubDate": "2026-10-20T10:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
     "pubDate": "2026-09-15T10:00:00+00:00",
     "date": "2026-09-15T10:00:00+00:00"
-  },
-  {
-    "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7",
-    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
-    "pubDate": "2026-09-01T10:00:00+00:00",
-    "date": "2026-09-01T10:00:00+00:00"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "title": "Interleaved Execution: The Cure for MSTVFs That Never Cured Parameter Sniffing",
+    "link": "https://www.db-berater.de/2026/11/why-interleaved-execution-doesnt-fix-parameter-sniffing/",
+    "pubDate": "2026-11-03T10:29:56+00:00",
+    "date": "2026-11-03T10:29:56+00:00"
+  },
+  {
     "title": "MSTVFs: Better Estimates, Same Fundamental Problem",
     "link": "https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/",
     "pubDate": "2026-10-30T15:41:54+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.db-berater.de/2026/10/sql-server-constant-folding-how-a-scalar-udf-can-break-query-performance/",
     "pubDate": "2026-10-16T10:57:37+00:00",
     "date": "2026-10-16T10:57:37+00:00"
-  },
-  {
-    "title": "CTE vs temp table performance in SQL Server. Hidden costs and real workload impact!",
-    "link": "https://www.db-berater.de/2026/10/cte-vs-temp-table-performance-in-sql-server-hidden-costs-and-real-workload-impact/",
-    "pubDate": "2026-10-08T07:09:56+00:00",
-    "date": "2026-10-08T07:09:56+00:00"
   }
 ]

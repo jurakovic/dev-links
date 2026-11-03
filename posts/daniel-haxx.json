@@ -1,5 +1,11 @@
 [
   {
+    "title": "Scrutinize our assessments",
+    "link": "https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/",
+    "pubDate": "2026-11-03T09:16:17+00:00",
+    "date": "2026-11-03T09:16:17+00:00"
+  },
+  {
     "title": "“ignore the slop”",
     "link": "https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/",
     "pubDate": "2026-10-22T05:46:34+00:00",
@@ -22,11 +28,5 @@
     "link": "https://daniel.haxx.se/blog/2026/10/14/a-curl-audit-by-aisle/",
     "pubDate": "2026-10-14T09:02:43+00:00",
     "date": "2026-10-14T09:02:43+00:00"
-  },
-  {
-    "title": "A UAF turned RCE",
-    "link": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
-    "pubDate": "2026-10-14T06:11:02+00:00",
-    "date": "2026-10-14T06:11:02+00:00"
   }
 ]
