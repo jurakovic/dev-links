@@ -1,5 +1,11 @@
 [
   {
+    "title": "llm 0.37",
+    "link": "https://simonwillison.net/2026/Nov/2/llm/",
+    "pubDate": "2026-11-02T23:49:30+00:00",
+    "date": "2026-11-02T23:49:30+00:00"
+  },
+  {
     "title": "The U.S. Census Bureau and “Super Intelligence”",
     "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
     "pubDate": "2026-11-02T13:31:26+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
     "pubDate": "2026-10-31T23:15:22+00:00",
     "date": "2026-10-31T23:15:22+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a9",
-    "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
-    "pubDate": "2026-10-31T22:10:01+00:00",
-    "date": "2026-10-31T22:10:01+00:00"
   }
 ]
