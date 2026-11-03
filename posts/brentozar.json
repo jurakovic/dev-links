@@ -1,5 +1,11 @@
 [
   {
+    "title": "Who’s Hiring Database People? November 2026 Edition",
+    "link": "https://www.brentozar.com/archive/2026/11/whos-hiring-database-people-november-2026-edition/",
+    "pubDate": "2026-11-03T13:15:39+00:00",
+    "date": "2026-11-03T13:15:39+00:00"
+  },
+  {
     "title": "My Black Friday Sale on Training Classes is Open Now!",
     "link": "https://www.brentozar.com/archive/2026/11/my-black-friday-sale-on-training-classes-is-open-now/",
     "pubDate": "2026-11-01T18:00:21+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/10/meet-hugo-kornelis-execution-plan-expert/",
     "pubDate": "2026-10-29T13:15:04+00:00",
     "date": "2026-10-29T13:15:04+00:00"
-  },
-  {
-    "title": "Why You Don’t Get Parallelism When You Ask for The Whole Table",
-    "link": "https://www.brentozar.com/archive/2026/10/why-you-dont-get-parallelism-when-you-ask-for-the-whole-table/",
-    "pubDate": "2026-10-28T13:15:44+00:00",
-    "date": "2026-10-28T13:15:44+00:00"
   }
 ]

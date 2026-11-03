@@ -1,5 +1,11 @@
 [
   {
+    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+    "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+    "pubDate": "2026-11-03T16:29:48+00:00",
+    "date": "2026-11-03T16:29:48+00:00"
+  },
+  {
     "title": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
     "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
     "pubDate": "2026-11-03T05:32:25+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
     "pubDate": "2026-11-02T13:31:26+00:00",
     "date": "2026-11-02T13:31:26+00:00"
-  },
-  {
-    "title": "If in doubt, delete the uv.lock file",
-    "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
-    "pubDate": "2026-11-01T23:24:22+00:00",
-    "date": "2026-11-01T23:24:22+00:00"
   }
 ]
