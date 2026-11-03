@@ -1,5 +1,17 @@
 [
   {
+    "title": "Delivering Skills in NuGet packages",
+    "link": "https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/",
+    "pubDate": "2026-11-03T19:00:14+00:00",
+    "date": "2026-11-03T19:00:14+00:00"
+  },
+  {
+    "title": "Get Ready for .NET Conf 2026!",
+    "link": "https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/",
+    "pubDate": "2026-11-03T17:30:00+00:00",
+    "date": "2026-11-03T17:30:00+00:00"
+  },
+  {
     "title": "Blazor Welcomes Open-Source Contributions from Syncfusion",
     "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/",
     "pubDate": "2026-10-29T15:00:00+00:00",
@@ -16,17 +28,5 @@
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
     "pubDate": "2026-10-25T18:45:00+00:00",
     "date": "2026-10-25T18:45:00+00:00"
-  },
-  {
-    "title": "Get Your .NET MAUI App Ready for Xcode 27",
-    "link": "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/",
-    "pubDate": "2026-10-19T16:05:00+00:00",
-    "date": "2026-10-19T16:05:00+00:00"
-  },
-  {
-    "title": "Bring Your Own Model to the GitHub Copilot SDK with C#",
-    "link": "https://devblogs.microsoft.com/dotnet/bring-your-own-model-to-the-github-copilot-sdk-with-csharp/",
-    "pubDate": "2026-10-19T16:00:00+00:00",
-    "date": "2026-10-19T16:00:00+00:00"
   }
 ]

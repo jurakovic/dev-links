@@ -1,5 +1,11 @@
 [
   {
+    "title": "New ransomware recovery guidance for Azure SQL Database and Azure SQL Managed Instance",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/new-ransomware-recovery-guidance-for-azure-sql-database-and/ba-p/4569123",
+    "pubDate": "2026-11-03T17:26:03+00:00",
+    "date": "2026-11-03T17:26:03+00:00"
+  },
+  {
     "title": "Database watcher for Azure SQL is retiring: simplify your monitoring with Database Hub",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-watcher-for-azure-sql-is-retiring-simplify-your/ba-p/4567864",
     "pubDate": "2026-10-27T16:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/modern-query-editor-for-azure-sql-database-is-now-generally/ba-p/4566868",
     "pubDate": "2026-10-22T12:56:40+00:00",
     "date": "2026-10-22T12:56:40+00:00"
-  },
-  {
-    "title": "Managed Instance link with failover groups (limited preview)",
-    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/managed-instance-link-with-failover-groups-limited-preview/ba-p/4566514",
-    "pubDate": "2026-10-21T11:04:10+00:00",
-    "date": "2026-10-21T11:04:10+00:00"
   }
 ]

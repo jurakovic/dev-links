@@ -1,5 +1,11 @@
 [
   {
+    "title": "My Favorite Undocumented Feature in SQL MCP Server",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/",
+    "pubDate": "2026-11-03T21:29:25+00:00",
+    "date": "2026-11-03T21:29:25+00:00"
+  },
+  {
     "title": "How Microsoft SQL learned to recover without undoing everything first",
     "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
     "pubDate": "2026-11-02T11:49:03+00:00",
@@ -22,11 +28,5 @@
     "link": "https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/",
     "pubDate": "2026-10-15T05:21:10+00:00",
     "date": "2026-10-15T05:21:10+00:00"
-  },
-  {
-    "title": "Try SqlClient’s new connection pool for faster parallel connections",
-    "link": "https://devblogs.microsoft.com/azure-sql/try-sqlclients-new-connection-pool-for-faster-parallel-connections/",
-    "pubDate": "2026-10-06T22:42:12+00:00",
-    "date": "2026-10-06T22:42:12+00:00"
   }
 ]

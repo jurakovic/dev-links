@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[My Favorite Undocumented Feature in SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Delivering Skills in NuGet packages](https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Get Ready for .NET Conf 2026!](https://devblogs.microsoft.com/dotnet/get-ready-for-dotnet-conf-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[New ransomware recovery guidance for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/new-ransomware-recovery-guidance-for-azure-sql-database-and/ba-p/4569123)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-03 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)</small>
 
@@ -277,9 +289,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-21 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Compare today’s code with an earlier commit](https://devblogs.microsoft.com/visualstudio/compare-todays-code-with-an-earlier-commit/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-21 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
-<small>[Managed Instance link with failover groups (limited preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/managed-instance-link-with-failover-groups-limited-preview/ba-p/4566514)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-10-21 martinfowler [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Fragments: October 21](https://martinfowler.com/fragments/2026-10-21.html)</small>
 
@@ -294,14 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-20 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Take My Toil, Leave Me My Struggle](https://newsletter.kentbeck.com/p/take-my-toil-leave-me-my-struggle)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-20 db-berater [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
-<small>[SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t](https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-20 paulhammant [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Coding Agents Guess Which Tests to Run. They Should Look It Up.](https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-20 andrewlock [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
-<small>[An introduction to Compact Binary Object Representation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
