@@ -1,5 +1,11 @@
 [
   {
+    "title": "VS Code 1.145 Expands Remote Agent Workflows, Adds Cron Automations",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/04/vs-code-1-145-expands-remote-agent-workflows-adds-cron-automations.aspx",
+    "pubDate": "2026-11-04T20:37:00+00:00",
+    "date": "2026-11-04T20:37:00+00:00"
+  },
+  {
     "title": "Azure Developer CLI Adds a Look Before You Deploy",
     "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-developer-cli-adds-a-look-before-you-deploy.aspx",
     "pubDate": "2026-10-30T21:31:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-lets-developers-control-vs-code-ai-agents-from-their-phones.aspx",
     "pubDate": "2026-10-29T21:49:00+00:00",
     "date": "2026-10-29T21:49:00+00:00"
-  },
-  {
-    "title": "GitHub Bug Bounty Interview Highlights Chained Vulnerabilities and Manual Research",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-bug-bounty-interview-highlights-chained-vulnerabilities-and-manual-research.aspx",
-    "pubDate": "2026-10-29T20:39:00+00:00",
-    "date": "2026-10-29T20:39:00+00:00"
   }
 ]
