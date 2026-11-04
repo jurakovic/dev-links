@@ -1,5 +1,11 @@
 [
   {
+    "title": "Your .NET parallel loop can become serial in a one-CPU container",
+    "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+    "pubDate": "2026-11-04T16:34:13+00:00",
+    "date": "2026-11-04T16:34:13+00:00"
+  },
+  {
     "title": "Oh, your agents need OAuth2, too",
     "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
     "pubDate": "2026-11-03T08:40:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
     "pubDate": "2026-10-28T19:27:07+00:00",
     "date": "2026-10-28T19:27:07+00:00"
-  },
-  {
-    "title": "Delivering controlled and concentrated context",
-    "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
-    "pubDate": "2026-10-28T14:55:00+00:00",
-    "date": "2026-10-28T14:55:00+00:00"
   }
 ]

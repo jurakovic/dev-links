@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Top 10 SQL Server Wait Types, Worldwide",
+    "link": "https://www.brentozar.com/archive/2026/11/the-top-10-sql-server-wait-types-worldwide/",
+    "pubDate": "2026-11-04T13:15:28+00:00",
+    "date": "2026-11-04T13:15:28+00:00"
+  },
+  {
     "title": "Who’s Hiring Database People? November 2026 Edition",
     "link": "https://www.brentozar.com/archive/2026/11/whos-hiring-database-people-november-2026-edition/",
     "pubDate": "2026-11-03T13:15:39+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/10/office-hours-4-great-questions-off-canada/",
     "pubDate": "2026-10-30T13:15:56+00:00",
     "date": "2026-10-30T13:15:56+00:00"
-  },
-  {
-    "title": "Meet Hugo Kornelis, Execution Plan Expert.",
-    "link": "https://www.brentozar.com/archive/2026/10/meet-hugo-kornelis-execution-plan-expert/",
-    "pubDate": "2026-10-29T13:15:04+00:00",
-    "date": "2026-10-29T13:15:04+00:00"
   }
 ]
