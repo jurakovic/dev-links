@@ -1,5 +1,11 @@
 [
   {
+    "title": "Microservices can work for low-latency workloads—if you design for it",
+    "link": "https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/",
+    "pubDate": "2026-11-05T00:00:00+00:00",
+    "date": "2026-11-04T11:01:47+00:00"
+  },
+  {
     "title": "Production bugs happen. Fix the gap, not just the bug.",
     "link": "https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/",
     "pubDate": "2026-10-28T11:01:51+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
     "pubDate": "2026-10-07T10:04:03+00:00",
     "date": "2026-10-07T10:04:03+00:00"
-  },
-  {
-    "title": "One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.",
-    "link": "https://bencane.com/posts/2026-09-30-protobuf-contract-management/",
-    "pubDate": "2026-09-30T10:01:38+00:00",
-    "date": "2026-09-30T10:01:38+00:00"
   }
 ]

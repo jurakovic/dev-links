@@ -1,5 +1,11 @@
 [
   {
+    "title": "Letting GitHub Copilot drive your desktop with computer use",
+    "link": "https://bartwullems.blogspot.com/2026/11/letting-github-copilot-drive-your.html",
+    "pubDate": "2026-11-04T05:55:00+00:00",
+    "date": "2026-11-04T05:55:00+00:00"
+  },
+  {
     "title": "SQL Server Full-Text Search: when a stop word broke our search",
     "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-when-stop.html",
     "pubDate": "2026-11-03T06:05:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/10/napkin-math-know-what-your-system.html",
     "pubDate": "2026-10-20T04:42:00+00:00",
     "date": "2026-10-20T04:42:00+00:00"
-  },
-  {
-    "title": "Using the ADFS userinfo endpoint instead of allatclaims",
-    "link": "https://bartwullems.blogspot.com/2026/10/using-adfs-userinfo-endpoint-instead-of.html",
-    "pubDate": "2026-10-19T05:03:00+00:00",
-    "date": "2026-10-19T05:03:00+00:00"
   }
 ]
