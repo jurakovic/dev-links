@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-11-04 pauldix [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
+<small>[The Software Factory and the Inevitability of Recursively Self-Improving Software](https://pauldix.com/the-software-factory-and-the-inevitability-of-rsi-software)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-04 brethorsting [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
+<small>[Prompting Is Programming](https://www.brethorsting.com/blog/2026/11/prompting-is-programming/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[My Favorite Undocumented Feature in SQL MCP Server](https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/)</small>
 
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-10-21 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Reducing the size of your authentication cookie with ITicketStore](https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-10-20 github-ai [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[How 3 Java Champions are using GitHub Copilot for increased productivity](https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-20 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Take My Toil, Leave Me My Struggle](https://newsletter.kentbeck.com/p/take-my-toil-leave-me-my-struggle)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
