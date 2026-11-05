@@ -1,5 +1,11 @@
 [
   {
+    "title": "DSC 3.0: running your own PowerShell with getScript, testScript and setScrip",
+    "link": "https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html",
+    "pubDate": "2026-11-05T05:33:00+00:00",
+    "date": "2026-11-05T05:33:00+00:00"
+  },
+  {
     "title": "Letting GitHub Copilot drive your desktop with computer use",
     "link": "https://bartwullems.blogspot.com/2026/11/letting-github-copilot-drive-your.html",
     "pubDate": "2026-11-04T05:55:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html",
     "pubDate": "2026-10-21T05:27:00+00:00",
     "date": "2026-10-21T05:27:00+00:00"
-  },
-  {
-    "title": "Napkin math: know what your system should do before you measure it",
-    "link": "https://bartwullems.blogspot.com/2026/10/napkin-math-know-what-your-system.html",
-    "pubDate": "2026-10-20T04:42:00+00:00",
-    "date": "2026-10-20T04:42:00+00:00"
   }
 ]
