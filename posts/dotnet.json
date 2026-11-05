@@ -1,5 +1,17 @@
 [
   {
+    "title": "Help Shape the Future of .NET: Take the 2026 .NET Developer Survey",
+    "link": "https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/",
+    "pubDate": "2026-11-05T19:00:00+00:00",
+    "date": "2026-11-05T19:00:00+00:00"
+  },
+  {
+    "title": "Modernize your .NET apps for Windows Arm64 with GitHub Copilot",
+    "link": "https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/",
+    "pubDate": "2026-11-05T18:05:00+00:00",
+    "date": "2026-11-05T18:05:00+00:00"
+  },
+  {
     "title": "Delivering Skills in NuGet packages",
     "link": "https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/",
     "pubDate": "2026-11-03T19:00:14+00:00",
@@ -16,17 +28,5 @@
     "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/",
     "pubDate": "2026-10-29T15:00:00+00:00",
     "date": "2026-10-29T15:00:00+00:00"
-  },
-  {
-    "title": "Blazor Welcomes Open-Source Contributions from Infragistics",
-    "link": "https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/",
-    "pubDate": "2026-10-27T15:00:00+00:00",
-    "date": "2026-10-27T15:00:00+00:00"
-  },
-  {
-    "title": ".NET October 2026 Out-of-Band Security Updates",
-    "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
-    "pubDate": "2026-10-25T18:45:00+00:00",
-    "date": "2026-10-25T18:45:00+00:00"
   }
 ]

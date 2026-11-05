@@ -1,5 +1,11 @@
 [
   {
+    "title": "AutoMapper 16.3.0 and 15.1.4 Released with Security Fixes",
+    "link": "https://www.jimmybogard.com/automapper-16-3-0-and-15-1-4-released-with-security-fixes/",
+    "pubDate": "2026-11-05T15:36:35+00:00",
+    "date": "2026-11-05T23:01:16+00:00"
+  },
+  {
     "title": "Vertical Slice Architecture Webinar",
     "link": "https://www.jimmybogard.com/vertical-slice-architecture-webinar/",
     "pubDate": "2026-07-23T18:57:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/",
     "pubDate": "2026-03-03T21:50:55+00:00",
     "date": "2026-03-03T21:50:55+00:00"
-  },
-  {
-    "title": "AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support",
-    "link": "https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/",
-    "pubDate": "2025-12-03T21:23:28+00:00",
-    "date": "2025-12-03T21:23:28+00:00"
   }
 ]

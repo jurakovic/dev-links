@@ -4,6 +4,39 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-05 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-11-05 jimmybogard [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[AutoMapper 16.3.0 and 15.1.4 Released with Security Fixes](https://www.jimmybogard.com/automapper-16-3-0-and-15-1-4-released-with-security-fixes/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-05 github-eng [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
+<small>[Inside GitHub’s new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Modernize your .NET apps for Windows Arm64 with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-05 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Microsoft Details 53 GiB Local Coding Model for GitHub Copilot](https://visualstudiomagazine.com/articles/2026/11/05/microsoft-details-53-gib-local-coding-model-for-github-copilot.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-05 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Intelligent Terminal 0.3 Adds Agent Sidebar and Background Sessions](https://visualstudiomagazine.com/articles/2026/11/05/intelligent-terminal-0-3-adds-agent-sidebar-and-background-sessions.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-05 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[GitHub Copilot to End Support for JetBrains 2025.2 IDE Releases](https://visualstudiomagazine.com/articles/2026/11/05/github-copilot-to-end-support-for-jetbrains-2025-2-ide-releases.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-05 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Microsoft Foundry October Recap Separates AI Agent Previews from GA Releases](https://visualstudiomagazine.com/articles/2026/11/05/microsoft-foundry-october-recap-separates-ai-agent-previews-from-ga-releases.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-05 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Microsoft Shows How to Run Qwen Coding Agents Locally with GitHub Copilot](https://visualstudiomagazine.com/articles/2026/11/05/microsoft-shows-how-to-run-qwen-coding-agents-locally-with-github-copilot.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-05 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
+<small>[Quoting Paul Ford](https://simonwillison.net/2026/Nov/5/paul-ford/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-05 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[What Else for the Sudonomicon?](https://third-bit.com/2026/11/05/what-else-for-sudonomicon/)</small>
 
@@ -33,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-04 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[llm 0.37.1](https://simonwillison.net/2026/Nov/3/llm/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-04 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[VS Code 1.145 Expands Remote Agent Workflows, Adds Cron Automations](https://visualstudiomagazine.com/articles/2026/11/04/vs-code-1-145-expands-remote-agent-workflows-adds-cron-automations.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-04 techtrenches [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Who Checks the Boring Layer](https://techtrenches.dev/p/who-checks-the-boring-layer)</small>
@@ -75,9 +105,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[New ransomware recovery guidance for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/new-ransomware-recovery-guidance-for-azure-sql-database-and/ba-p/4569123)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-03 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[Qwen 3.8 27B on my laptop can interpret model weights, too](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-03 daverupert [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Write mo'](https://daverupert.com/2026/11/write-mo/)</small>
@@ -119,7 +146,7 @@
 <small>[Not A Copier](https://newsletter.kentbeck.com/p/not-a-copier)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-02 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
-<small>[How Microsoft SQL learned to recover without undoing everything first](https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/)</small>
+<small>[The paper that explains how Microsoft SQL learned to recover without undoing everything first](https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-02 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Reliably aligning LLMs is impossible in principle](https://seangoedecke.com/alignment-is-impossible/)</small>
@@ -142,15 +169,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-30 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Training Data](https://third-bit.com/2026/10/30/training-data/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-30 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Azure Developer CLI Adds a Look Before You Deploy](https://visualstudiomagazine.com/articles/2026/10/30/azure-developer-cli-adds-a-look-before-you-deploy.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-30 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Azure SQL Hyperscale Is Distributed -- With One Writer](https://visualstudiomagazine.com/articles/2026/10/30/azure-sql-hyperscale-is-distributed-with-one-writer.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-30 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Microsoft Tests Whether 'Eval' Folder Names Change AI Agent Behavior](https://visualstudiomagazine.com/articles/2026/10/30/microsoft-tests-whether-eval-folder-names-change-ai-agent-behavior.aspx)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-30 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[Is Azure SQL Database Hyperscale “distributed SQL”?](https://devblogs.microsoft.com/azure-sql/is-azure-sql-database-hyperscale-distributed-sql/)</small>
 
@@ -166,9 +184,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-10-30 lethain [<kbd class="tag tag-management">Management</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-management)</small>  
 <small>[Self-reinforcing quality / adopting verification pattern](https://lethain.com/adopting-verification-pattern/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-10-30 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Elegance and intelligence are anticorrelated](https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-30 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
 <small>[It’s ok that computers are (sometimes) better than us](https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/)</small>
 
@@ -180,9 +195,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-29 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
 <small>[The reports of Stack Overflow's death are greatly exaggerated](https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-10-29 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[GitHub Lets Developers Control VS Code AI Agents from Their Phones](https://visualstudiomagazine.com/articles/2026/10/29/github-lets-developers-control-vs-code-ai-agents-from-their-phones.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-29 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Blazor Welcomes Open-Source Contributions from Syncfusion](https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/)</small>
@@ -226,9 +238,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-27 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Visual Studio October Update – Compare Commits to Your Code, Resolve Conflicts in Bulk, Keep Coding](https://devblogs.microsoft.com/visualstudio/visual-studio-october-update-compare-commits-to-your-code-resolve-conflicts-in-bulk-keep-coding/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-27 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Blazor Welcomes Open-Source Contributions from Infragistics](https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-10-27 sqlperformance [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
 <small>[Why do you have so many housekeeping jobs?](https://sqlperformance.com/2026/10/sql-maintenance/too-many-housekeeping-jobs)</small>
 
@@ -255,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-10-26 steven-giesel [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Primary constructors are more than syntactic sugar](https://steven-giesel.com/blogPost/a3c741d3-f261-4bda-8da6-bffbbbd7aa5a)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-25 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[.NET October 2026 Out-of-Band Security Updates](https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-25 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates](https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/)</small>
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-22 pragmaticengineer [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-22 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Are you getting everything you can from Your Visual Studio Subscription?](https://devblogs.microsoft.com/visualstudio/what-should-we-blog-about-next/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-22 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
-<small>[Modern Query Editor for Azure SQL Database is now generally available](https://techcommunity.microsoft.com/t5/azure-sql-blog/modern-query-editor-for-azure-sql-database-is-now-generally/ba-p/4566868)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

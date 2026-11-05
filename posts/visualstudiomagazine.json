@@ -1,32 +1,32 @@
 [
   {
-    "title": "VS Code 1.145 Expands Remote Agent Workflows, Adds Cron Automations",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/04/vs-code-1-145-expands-remote-agent-workflows-adds-cron-automations.aspx",
-    "pubDate": "2026-11-04T20:37:00+00:00",
-    "date": "2026-11-04T20:37:00+00:00"
+    "title": "Microsoft Details 53 GiB Local Coding Model for GitHub Copilot",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-details-53-gib-local-coding-model-for-github-copilot.aspx",
+    "pubDate": "2026-11-05T17:57:00+00:00",
+    "date": "2026-11-05T17:57:00+00:00"
   },
   {
-    "title": "Azure Developer CLI Adds a Look Before You Deploy",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-developer-cli-adds-a-look-before-you-deploy.aspx",
-    "pubDate": "2026-10-30T21:31:00+00:00",
-    "date": "2026-10-30T21:31:00+00:00"
+    "title": "Intelligent Terminal 0.3 Adds Agent Sidebar and Background Sessions",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/intelligent-terminal-0-3-adds-agent-sidebar-and-background-sessions.aspx",
+    "pubDate": "2026-11-05T17:55:00+00:00",
+    "date": "2026-11-05T17:55:00+00:00"
   },
   {
-    "title": "Azure SQL Hyperscale Is Distributed -- With One Writer",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-sql-hyperscale-is-distributed-with-one-writer.aspx",
-    "pubDate": "2026-10-30T21:26:00+00:00",
-    "date": "2026-10-30T21:26:00+00:00"
+    "title": "GitHub Copilot to End Support for JetBrains 2025.2 IDE Releases",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/github-copilot-to-end-support-for-jetbrains-2025-2-ide-releases.aspx",
+    "pubDate": "2026-11-05T17:52:00+00:00",
+    "date": "2026-11-05T17:52:00+00:00"
   },
   {
-    "title": "Microsoft Tests Whether 'Eval' Folder Names Change AI Agent Behavior",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/30/microsoft-tests-whether-eval-folder-names-change-ai-agent-behavior.aspx",
-    "pubDate": "2026-10-30T18:43:00+00:00",
-    "date": "2026-10-30T18:43:00+00:00"
+    "title": "Microsoft Foundry October Recap Separates AI Agent Previews from GA Releases",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-foundry-october-recap-separates-ai-agent-previews-from-ga-releases.aspx",
+    "pubDate": "2026-11-05T17:50:00+00:00",
+    "date": "2026-11-05T17:50:00+00:00"
   },
   {
-    "title": "GitHub Lets Developers Control VS Code AI Agents from Their Phones",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-lets-developers-control-vs-code-ai-agents-from-their-phones.aspx",
-    "pubDate": "2026-10-29T21:49:00+00:00",
-    "date": "2026-10-29T21:49:00+00:00"
+    "title": "Microsoft Shows How to Run Qwen Coding Agents Locally with GitHub Copilot",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-shows-how-to-run-qwen-coding-agents-locally-with-github-copilot.aspx",
+    "pubDate": "2026-11-05T17:46:00+00:00",
+    "date": "2026-11-05T17:46:00+00:00"
   }
 ]

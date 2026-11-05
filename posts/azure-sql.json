@@ -6,7 +6,7 @@
     "date": "2026-11-03T21:29:25+00:00"
   },
   {
-    "title": "How Microsoft SQL learned to recover without undoing everything first",
+    "title": "The paper that explains how Microsoft SQL learned to recover without undoing everything first",
     "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
     "pubDate": "2026-11-02T11:49:03+00:00",
     "date": "2026-11-02T11:49:03+00:00"

@@ -1,5 +1,11 @@
 [
   {
+    "title": "Inside GitHub’s new Git storage architecture",
+    "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+    "pubDate": "2026-11-05T20:23:21+00:00",
+    "date": "2026-11-05T20:23:21+00:00"
+  },
+  {
     "title": "The bridge to agent-scale Git infrastructure",
     "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
     "pubDate": "2026-10-21T16:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
     "pubDate": "2026-10-06T20:57:56+00:00",
     "date": "2026-10-06T20:57:56+00:00"
-  },
-  {
-    "title": "Improving site performance by shipping more CSS",
-    "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-    "pubDate": "2026-09-25T15:00:00+00:00",
-    "date": "2026-09-25T15:00:00+00:00"
   }
 ]

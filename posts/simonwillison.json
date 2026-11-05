@@ -1,5 +1,11 @@
 [
   {
+    "title": "Quoting Paul Ford",
+    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+    "pubDate": "2026-11-05T17:34:03+00:00",
+    "date": "2026-11-05T17:34:03+00:00"
+  },
+  {
     "title": "datasette-llm 0.1a10",
     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
     "pubDate": "2026-11-04T15:26:02+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/3/llm/",
     "pubDate": "2026-11-03T21:41:42+00:00",
     "date": "2026-11-04T23:01:22+00:00"
-  },
-  {
-    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-    "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-    "pubDate": "2026-11-03T16:29:48+00:00",
-    "date": "2026-11-03T16:29:48+00:00"
   }
 ]
