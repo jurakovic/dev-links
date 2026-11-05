@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) <small>2026-11-05 sqlserverfast [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
+<small>[Final post](https://sqlserverfast.com/blog/hugo/2026/11/final-post/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-04 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[datasette-llm 0.1a10](https://simonwillison.net/2026/Nov/4/datasette-llm/)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-21 techtrenches [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Who Holds The Clock](https://techtrenches.dev/p/who-holds-the-clock)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-10-21 willemvandenende [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[To Cheap to Meter - Open Weight models in October 2026](http://willemvandenende.com/blog/engineering/to-cheap-to-meter-open-weight-models-in-october-2026)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

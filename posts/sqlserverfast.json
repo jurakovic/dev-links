@@ -1,5 +1,11 @@
 [
   {
+    "title": "Final post",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/11/final-post/",
+    "pubDate": "2026-11-05T02:17:33+00:00",
+    "date": "2026-11-05T02:17:33+00:00"
+  },
+  {
     "title": "Game over",
     "link": "https://sqlserverfast.com/blog/hugo/2026/10/game-over/",
     "pubDate": "2026-10-27T10:37:49+00:00",
@@ -22,11 +28,5 @@
     "link": "https://sqlserverfast.com/blog/hugo/2026/10/storage-structures-8-vector-indexes/",
     "pubDate": "2026-10-15T11:58:39+00:00",
     "date": "2026-10-15T11:58:39+00:00"
-  },
-  {
-    "title": "T-SQL Tuesday 203 – A bad decision",
-    "link": "https://sqlserverfast.com/blog/hugo/2026/10/t-sql-tuesday-203-a-bad-decision/",
-    "pubDate": "2026-10-13T14:00:00+00:00",
-    "date": "2026-10-13T14:00:00+00:00"
   }
 ]
