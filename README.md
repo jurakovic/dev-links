@@ -4,8 +4,20 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-05 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[What Else for the Sudonomicon?](https://third-bit.com/2026/11/05/what-else-for-sudonomicon/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-05 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
+<small>[Don’t Build the Reusable Component Yet](https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-05 martinfowler [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[The Data Product Platform Navigator](https://martinfowler.com/articles/data-product-platform-nav.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-05 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
+<small>[\[Video\] Office Hours: An AI Agent Stops In to Ask a Question](https://www.brentozar.com/archive/2026/11/video-office-hours-an-ai-agent-stops-in-to-ask-a-question/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-05 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
-<small>[DSC 3.0: running your own PowerShell with getScript, testScript and setScrip](https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html)</small>
+<small>[DSC 3.0: running your own PowerShell with getScript, testScript and setScript](https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) <small>2026-11-05 sqlserverfast [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
 <small>[Final post](https://sqlserverfast.com/blog/hugo/2026/11/final-post/)</small>
@@ -148,9 +160,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-30 db-berater [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
 <small>[MSTVFs: Better Estimates, Same Fundamental Problem](https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-10-30 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
-<small>[\[Video\] Office Hours: 4 Great Questions Off Canada](https://www.brentozar.com/archive/2026/10/office-hours-4-great-questions-off-canada/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-30 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Trust Is the Binding Constraint](https://newsletter.kentbeck.com/p/trust-is-the-binding-constraint)</small>
 
@@ -192,9 +201,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-28 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Preparing for your next certification could start with your Visual Studio Subscription](https://devblogs.microsoft.com/visualstudio/preparing-for-your-next-certification-could-start-with-your-visual-studio-subscription/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-10-28 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[A JSON schema Is not an AI governance layer](https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-10-28 steven-giesel [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Goldfish in Claude](https://steven-giesel.com/blogPost/3a583eb3-fd7a-47f0-a45c-1818f6a33b0d)</small>
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-22 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[Modern Query Editor for Azure SQL Database is now generally available](https://techcommunity.microsoft.com/t5/azure-sql-blog/modern-query-editor-for-azure-sql-database-is-now-generally/ba-p/4566868)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 microservices [<kbd class="tag tag-architecture">Architecture</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#architecture)</small>  
-<small>[Architecting for uncertainty - part 5: DevOps defines how a fast-flow organization works](http://microservices.io//post/architecture/2026/10/22/architecting-for-uncertainty-part-5-devops.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 daniel-haxx [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
-<small>[“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

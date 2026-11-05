@@ -1,5 +1,11 @@
 [
   {
+    "title": "Don’t Build the Reusable Component Yet",
+    "link": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/",
+    "pubDate": "2026-11-05T16:02:13+00:00",
+    "date": "2026-11-05T16:02:13+00:00"
+  },
+  {
     "title": "Your .NET parallel loop can become serial in a one-CPU container",
     "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
     "pubDate": "2026-11-04T16:34:13+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/10/29/the-reports-of-stack-overflow-s-death-are-greatly-exaggerated/",
     "pubDate": "2026-10-29T22:30:00+00:00",
     "date": "2026-10-29T22:30:00+00:00"
-  },
-  {
-    "title": "A JSON schema Is not an AI governance layer",
-    "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
-    "pubDate": "2026-10-28T19:27:07+00:00",
-    "date": "2026-10-28T19:27:07+00:00"
   }
 ]

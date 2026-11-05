@@ -1,5 +1,11 @@
 [
   {
+    "title": "The Data Product Platform Navigator",
+    "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
+    "pubDate": "2026-11-05T14:11:00+00:00",
+    "date": "2026-11-05T14:11:00+00:00"
+  },
+  {
     "title": "Bliki: LLM Voice",
     "link": "https://martinfowler.com/bliki/LLM-Voice.html",
     "pubDate": "2026-10-29T14:28:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://martinfowler.com/fragments/2026-10-21.html",
     "pubDate": "2026-10-21T10:51:00+00:00",
     "date": "2026-10-21T10:51:00+00:00"
-  },
-  {
-    "title": "When Software Meets Hardware",
-    "link": "https://martinfowler.com/articles/software-meets-hardware.html",
-    "pubDate": "2026-10-15T13:25:00+00:00",
-    "date": "2026-10-15T13:25:00+00:00"
   }
 ]

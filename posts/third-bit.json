@@ -1,15 +1,21 @@
 [
   {
-    "title": "Testing the Schelling Segregation Model",
-    "link": "https://third-bit.com/2026/11/02/schelling/",
-    "pubDate": "2026-11-02T00:00:00+00:00",
-    "date": "2026-11-02T17:01:47+00:00"
+    "title": "What Else for the Sudonomicon?",
+    "link": "https://third-bit.com/2026/11/05/what-else-for-sudonomicon/",
+    "pubDate": "2026-11-05T00:00:00+00:00",
+    "date": "2026-11-05T17:01:36+00:00"
   },
   {
     "title": "Completed Fiction",
     "link": "https://third-bit.com/2026/11/02/completed-fiction/",
     "pubDate": "2026-11-02T00:00:00+00:00",
     "date": "2026-11-02T23:01:52+00:00"
+  },
+  {
+    "title": "Testing the Schelling Segregation Model",
+    "link": "https://third-bit.com/2026/11/02/schelling/",
+    "pubDate": "2026-11-02T00:00:00+00:00",
+    "date": "2026-11-02T17:01:47+00:00"
   },
   {
     "title": "Training Data",
@@ -22,11 +28,5 @@
     "link": "https://third-bit.com/2026/10/24/whats-in-my-home-directory/",
     "pubDate": "2026-10-24T22:01:37+00:00",
     "date": "2026-10-24T22:01:37+00:00"
-  },
-  {
-    "title": "Frml: Next Steps",
-    "link": "https://third-bit.com/2026/10/15/frml-complete/",
-    "pubDate": "2026-10-15T16:01:47+00:00",
-    "date": "2026-10-15T16:01:47+00:00"
   }
 ]
