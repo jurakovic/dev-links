@@ -13,7 +13,14 @@ on:
         required: false
         default: 'dev-news'
         type: string
+      content_branch:
+        description: 'Content branch ("master"): blogs.json, links on the news page'
+        required: false
+        default: 'master'
+        type: string
 
+# The branch the workflow runs from supplies the scripts, the content branch blogs.json,
+# and the target branch the posts (read and written)
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -33,19 +40,25 @@ jobs:
         shell: bash
 
       - name: Prepare Scripts
+        env:
+          CONTENT_BRANCH: ${{ inputs.content_branch || 'master' }}
+          PIPELINE_REF: ${{ github.ref_name }}
         run: |
+          # get content
+          git restore --source "origin/$CONTENT_BRANCH" -- blogs.json
           # get scripts
-          git restore --source origin/${{ github.ref_name }} -- blogs.json
-          git restore --source origin/${{ github.ref_name }} -- src/gen_news.js
-          git restore --source origin/${{ github.ref_name }} -- src/update_posts.sh
-          git restore --source origin/${{ github.ref_name }} -- src/fix_post_times.js
+          git restore --source "origin/$PIPELINE_REF" -- src/gen_news.js
+          git restore --source "origin/$PIPELINE_REF" -- src/update_posts.sh
+          git restore --source "origin/$PIPELINE_REF" -- src/fix_post_times.js
           chmod +x ./src/update_posts.sh
         shell: bash
 
       - name: Build
+        env:
+          CONTENT_BRANCH: ${{ inputs.content_branch || 'master' }}
         run: |
           ./src/update_posts.sh
-          node src/gen_news.js ${{ github.ref_name }}
+          node src/gen_news.js "$CONTENT_BRANCH" # links to master content point to the content branch
 
           # cleanup temp scripts
           rm blogs.json
