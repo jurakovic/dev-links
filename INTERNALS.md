@@ -533,7 +533,7 @@ Actions → Deploy GitHub Pages → Run workflow, from master, with the default 
 ### Test changes to the update pipeline
 
 1. Push the change to a feature branch.
-2. Create a temporary test branch from dev-news, so the test run doesn't write to dev-news itself. Start its name with `dev-news` (`dev-news-test`): Deploy GitHub Pages treats a branch named like that as a posts branch (see [Branches](#deploy-github-pages)), so picking it in the Run workflow dropdown works in step 4.
+2. Create a temporary test branch from dev-news, so the test run doesn't write to dev-news itself. Start its name with `dev-news` (`dev-news-test`): Deploy GitHub Pages treats a branch named like that as a posts branch (see the Branches table under [Deploy GitHub Pages](#deploy-github-pages)), so picking it in the Run workflow dropdown works in step 4.
 
    ```bash
    git fetch origin dev-news
