@@ -18,7 +18,7 @@ on:
         default: 'dev-news'
         type: string
       dev_tools_branch:
-        description: 'dev-tools branch ("dev-tools")'
+        description: 'dev-tools branch ("dev-tools"): tools'
         required: false
         default: 'dev-tools'
         type: string
@@ -35,6 +35,7 @@ jobs:
       CONTENT_BRANCH: ${{ inputs.content_branch || 'master' }}
       # Data: posts. Called from a dev-news branch with no inputs, that branch.
       DEV_NEWS_BRANCH: ${{ inputs.dev_news_branch || (startsWith(github.ref_name, 'dev-news') && github.ref_name) || 'dev-news' }}
+      # Tools: the dev-tools pages
       DEV_TOOLS_BRANCH: ${{ inputs.dev_tools_branch || 'dev-tools' }}
     steps:
       - name: Checkout content
