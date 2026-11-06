@@ -1,5 +1,11 @@
 [
   {
+    "title": "Beyond code generation: A developer’s guide to agentic engineering",
+    "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+    "pubDate": "2026-11-06T22:15:59+00:00",
+    "date": "2026-11-06T22:15:59+00:00"
+  },
+  {
     "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
     "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
     "pubDate": "2026-10-20T16:05:03+00:00",
@@ -22,11 +28,5 @@
     "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
     "pubDate": "2026-10-12T17:43:59+00:00",
     "date": "2026-10-12T17:43:59+00:00"
-  },
-  {
-    "title": "Secret protection must scale with software",
-    "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-    "pubDate": "2026-10-07T17:45:34+00:00",
-    "date": "2026-10-07T17:45:34+00:00"
   }
 ]

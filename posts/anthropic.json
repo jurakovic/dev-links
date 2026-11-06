@@ -1,5 +1,11 @@
 [
   {
+    "title": "The components of agent memory",
+    "link": "https://www.anthropic.com/research/components-of-agent-memory",
+    "pubDate": "2026-11-06T00:00:00+00:00",
+    "date": "2026-11-06T23:01:52+00:00"
+  },
+  {
     "title": "Redesigning source control at Anthropic",
     "link": "https://www.anthropic.com/research/redesigning-source-control",
     "pubDate": "2026-10-13T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.anthropic.com/research/managed-agents",
     "pubDate": "2026-04-08T00:00:00+00:00",
     "date": "2026-04-08T00:00:00+00:00"
-  },
-  {
-    "title": "How we built Claude Code auto mode: a safer way to skip permissions",
-    "link": "https://www.anthropic.com/research/claude-code-auto-mode",
-    "pubDate": "2026-03-25T00:00:00+00:00",
-    "date": "2026-03-25T00:00:00+00:00"
   }
 ]
