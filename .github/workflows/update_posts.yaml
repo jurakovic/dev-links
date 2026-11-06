@@ -42,13 +42,14 @@ jobs:
       - name: Prepare Scripts
         env:
           CONTENT_BRANCH: ${{ inputs.content_branch || 'master' }}
+          PIPELINE_REF: ${{ github.ref_name }}
         run: |
           # get content
           git restore --source "origin/$CONTENT_BRANCH" -- blogs.json
           # get scripts
-          git restore --source origin/${{ github.ref_name }} -- src/gen_news.js
-          git restore --source origin/${{ github.ref_name }} -- src/update_posts.sh
-          git restore --source origin/${{ github.ref_name }} -- src/fix_post_times.js
+          git restore --source "origin/$PIPELINE_REF" -- src/gen_news.js
+          git restore --source "origin/$PIPELINE_REF" -- src/update_posts.sh
+          git restore --source "origin/$PIPELINE_REF" -- src/fix_post_times.js
           chmod +x ./src/update_posts.sh
         shell: bash
 
