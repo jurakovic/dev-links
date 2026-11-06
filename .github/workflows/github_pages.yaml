@@ -7,38 +7,54 @@ on:
       - dev-news
   workflow_dispatch:
     inputs:
-      dev_news_target_branch:
-        description: 'dev-news target branch' # src/gen_news.js arg (default: master)
+      content_branch:
+        description: 'Content branch ("master"): pages, blogs.json, favicons'
         required: false
         default: 'master'
         type: string
       dev_news_branch:
-        description: 'dev-news branch'
+        description: 'dev-news branch ("dev-news"): posts'
         required: false
         default: 'dev-news'
+        type: string
+      dev_tools_branch:
+        description: 'dev-tools branch ("dev-tools")'
+        required: false
+        default: 'dev-tools'
         type: string
   workflow_call:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      # Pipeline: this workflow and the scripts in src/ come from the branch it runs from.
+      # Called from a dev-news branch (its workflow calls this one @master), github.ref_name is that branch: use master.
+      PIPELINE_REF: ${{ startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name }}
+      # Content: pages, blogs.json, favicons, Jekyll config
+      CONTENT_BRANCH: ${{ inputs.content_branch || 'master' }}
+      # Data: posts. Called from a dev-news branch with no inputs, that branch.
+      DEV_NEWS_BRANCH: ${{ inputs.dev_news_branch || (startsWith(github.ref_name, 'dev-news') && github.ref_name) || 'dev-news' }}
+      DEV_TOOLS_BRANCH: ${{ inputs.dev_tools_branch || 'dev-tools' }}
     steps:
-      - name: Checkout master
+      - name: Checkout content
         uses: actions/checkout@v6
         with:
-          # If the workflow is triggered by a push to dev-news, checkout master
-          ref: ${{ startsWith(github.ref_name, 'dev-news') && 'master' || github.ref_name }}
+          ref: ${{ env.CONTENT_BRANCH }}
           fetch-depth: 0
+
+      - name: Take scripts from the pipeline
+        run: |
+          echo "pipeline: $PIPELINE_REF, content: $CONTENT_BRANCH, dev-news: $DEV_NEWS_BRANCH, dev-tools: $DEV_TOOLS_BRANCH"
+          git checkout "origin/$PIPELINE_REF" -- src
+          git reset # unstage all files
 
       - name: Fetch dev-news branch
         run: |
-          git fetch origin ${{ inputs.dev_news_branch || 'dev-news' }}
-          git checkout origin/${{ inputs.dev_news_branch || 'dev-news' }} -- .
+          git fetch origin "$DEV_NEWS_BRANCH"
+          git checkout "origin/$DEV_NEWS_BRANCH" -- posts # posts/<id>.json
           git reset # unstage all files
-          cp README.md news/README.md # move dev-news README.md to news/
-          git restore README.md # restore original README.md
-          sed -i -r "s;https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
-          sed -i -r "s;https://github.com/jurakovic/dev-links/blob/${{ inputs.dev_news_target_branch || 'master' }};\.\.;g" news/README.md
+          node src/gen_news.js --site # news/README.md, with links within the site
           sed -i "s;](https://github.com/jurakovic/dev-links/blob/dev-news/README.md);](news/);g" README.md # dev-news links (description, badge): dev-news branch on GitHub, news page on the site
           sed -i "s;)](blogs/README.md);)](blogs/);g" README.md # blogs badge: jekyll-relative-links skips image links, so point it at the page URL
           sed -i "s;](https://raw.githubusercontent.com/jurakovic/dev-links/master/blogs.opml);](blogs.opml);g" README.md # OPML badge: raw file on GitHub, the site's copy on the site
@@ -48,8 +64,8 @@ jobs:
 
       - name: Fetch dev-tools branch
         run: |
-          git fetch origin dev-tools
-          git worktree add /tmp/dev-tools origin/dev-tools
+          git fetch origin "$DEV_TOOLS_BRANCH"
+          git worktree add /tmp/dev-tools "origin/$DEV_TOOLS_BRANCH"
           rm -f tools/README.md
           cp -r /tmp/dev-tools/. tools/
           git worktree remove /tmp/dev-tools
