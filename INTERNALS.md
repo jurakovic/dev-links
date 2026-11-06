@@ -533,7 +533,7 @@ Actions → Deploy GitHub Pages → Run workflow, from master, with the default 
 ### Test changes to the update pipeline
 
 1. Push the change to a feature branch.
-2. Create a temporary test branch from dev-news, so the test run doesn't write to dev-news itself:
+2. Create a temporary test branch from dev-news, so the test run doesn't write to dev-news itself. Start its name with `dev-news` (`dev-news-test`): Deploy GitHub Pages treats a branch named like that as a posts branch (see [Branches](#deploy-github-pages)), so picking it in the Run workflow dropdown works in step 4.
 
    ```bash
    git fetch origin dev-news
@@ -543,7 +543,7 @@ Actions → Deploy GitHub Pages → Run workflow, from master, with the default 
 3. Run Update Posts (dev-news) from the feature branch with `target_branch` set to `<test-branch>`. The scripts come from the feature branch, and `blogs.json` from `content_branch`: master, unless you set it to the feature branch. The result is committed to the test branch, where you can check the diff.
    - The news page's links on GitHub point to the content branch.
    - The push to the test branch doesn't deploy: the caller workflow it copied from dev-news only fires on pushes to dev-news.
-4. To see the test data on the site, run Deploy GitHub Pages with `dev_news_branch: <test-branch>`. Run it from master to see the data as master renders it, or from the feature branch to see the feature's rendering, adding `content_branch: <feature-branch>` if the feature changes content. Picking `<test-branch>` itself in the Run workflow dropdown also works: its caller deploys its posts with master's pipeline and content. This publishes to the live site; the next normal deploy puts it back.
+4. To see the test data on the site, run Deploy GitHub Pages with `dev_news_branch: <test-branch>`. Run it from master to see the data as master renders it, or from the feature branch to see the feature's rendering, adding `content_branch: <feature-branch>` if the feature changes content. If the test branch's name starts with `dev-news`, picking it in the Run workflow dropdown also works: its caller deploys its posts with master's pipeline and content. With any other name, that run fails, since the branch is then taken as the pipeline and has no `src/`. This publishes to the live site; the next normal deploy puts it back.
 5. Delete the test branch when you're done.
 
 ### Run locally
