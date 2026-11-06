@@ -1,5 +1,11 @@
 [
   {
+    "title": "Generating architecture diagrams with the Archify skill",
+    "link": "https://bartwullems.blogspot.com/2026/11/generating-architecture-diagrams-with.html",
+    "pubDate": "2026-11-06T06:18:00+00:00",
+    "date": "2026-11-06T06:18:00+00:00"
+  },
+  {
     "title": "DSC 3.0: running your own PowerShell with getScript, testScript and setScript",
     "link": "https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html",
     "pubDate": "2026-11-05T05:33:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-overview.html",
     "pubDate": "2026-11-02T06:00:00+00:00",
     "date": "2026-11-02T06:00:00+00:00"
-  },
-  {
-    "title": "Reducing the size of your authentication cookie with ITicketStore",
-    "link": "https://bartwullems.blogspot.com/2026/10/reducing-size-of-your-authentication.html",
-    "pubDate": "2026-10-21T05:27:00+00:00",
-    "date": "2026-10-21T05:27:00+00:00"
   }
 ]
