@@ -1,5 +1,11 @@
 [
   {
+    "title": "How do we auto-approve and merge 60% of PRs?",
+    "link": "https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs",
+    "pubDate": "2026-11-07T00:00:00+00:00",
+    "date": "2026-11-07T23:01:39+00:00"
+  },
+  {
     "title": "No more tech debt",
     "link": "https://swizec.com/blog/no-more-tech-debt",
     "pubDate": "2026-10-17T22:01:35+00:00",
@@ -22,11 +28,5 @@
     "link": "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
     "pubDate": "2026-09-19T22:01:54+00:00",
     "date": "2026-09-19T22:01:54+00:00"
-  },
-  {
-    "title": "What B2B SaaS taught me about having kids",
-    "link": "https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids",
-    "pubDate": "2026-09-05T22:03:48+00:00",
-    "date": "2026-09-05T22:03:48+00:00"
   }
 ]

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-07 swizec [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[How do we auto-approve and merge 60% of PRs?](https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-07 paulhammant [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Feature Flag Servers: Where Do They Keep Your Toggles, and How Long Does a Flip Take?](https://paulhammant.com/2026/11/07/feature-flag-backing-stores-and-flip-latency/)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-24 brethorsting [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[We Are All in the C-Suite Now](https://www.brethorsting.com/blog/2026/10/we-are-all-in-the-c-suite-now/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-23 azuresqlblog [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
-<small>[Managing security with Database Hub in Fabric: From signals to action](https://techcommunity.microsoft.com/t5/azure-sql-blog/managing-security-with-database-hub-in-fabric-from-signals-to/ba-p/4567059)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
