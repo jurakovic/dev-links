@@ -1,5 +1,11 @@
 [
   {
+    "title": "Feature Flag Servers: Where Do They Keep Your Toggles, and How Long Does a Flip Take?",
+    "link": "https://paulhammant.com/2026/11/07/feature-flag-backing-stores-and-flip-latency/",
+    "pubDate": "2026-11-07T00:00:00+00:00",
+    "date": "2026-11-07T17:01:16+00:00"
+  },
+  {
     "title": "Coding Agents Guess Which Tests to Run. They Should Look It Up.",
     "link": "https://paulhammant.com/2026/10/20/agents-guess-which-tests-to-run/",
     "pubDate": "2026-10-20T10:01:28+00:00",
@@ -22,11 +28,5 @@
     "link": "https://paulhammant.com/2026/07/26/charting-ai-today/",
     "pubDate": "2026-07-26T16:01:10+00:00",
     "date": "2026-07-26T16:01:10+00:00"
-  },
-  {
-    "title": "Build-time AI vs Run-time AI",
-    "link": "https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/",
-    "pubDate": "2026-07-20T10:01:22+00:00",
-    "date": "2026-07-20T10:01:22+00:00"
   }
 ]
