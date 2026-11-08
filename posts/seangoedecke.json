@@ -1,5 +1,11 @@
 [
   {
+    "title": "LLMs are terrible at designing AI systems",
+    "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "pubDate": "2026-11-08T00:00:00+00:00",
+    "date": "2026-11-08T11:01:39+00:00"
+  },
+  {
     "title": "Working with designers",
     "link": "https://seangoedecke.com/working-with-designers/",
     "pubDate": "2026-11-07T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://seangoedecke.com/audience-capture/",
     "pubDate": "2026-11-03T00:00:00+00:00",
     "date": "2026-11-02T23:01:55+00:00"
-  },
-  {
-    "title": "Reliably aligning LLMs is impossible in principle",
-    "link": "https://seangoedecke.com/alignment-is-impossible/",
-    "pubDate": "2026-11-02T00:00:00+00:00",
-    "date": "2026-11-02T11:01:57+00:00"
   }
 ]
