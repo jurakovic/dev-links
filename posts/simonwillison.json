@@ -1,5 +1,11 @@
 [
   {
+    "title": "parse_number() as a SQLite extension: C vs Rust",
+    "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+    "pubDate": "2026-11-08T22:26:00+00:00",
+    "date": "2026-11-08T22:26:00+00:00"
+  },
+  {
     "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
     "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
     "pubDate": "2026-11-07T23:57:46+00:00",
@@ -21,12 +27,6 @@
     "title": "datasette-llm 0.1a10",
     "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
     "pubDate": "2026-11-04T15:26:02+00:00",
-    "date": "2026-11-04T23:01:22+00:00"
-  },
-  {
-    "title": "datasette-apps 0.3a0",
-    "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
-    "pubDate": "2026-11-04T00:29:36+00:00",
     "date": "2026-11-04T23:01:22+00:00"
   }
 ]
