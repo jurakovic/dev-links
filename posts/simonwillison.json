@@ -1,5 +1,23 @@
 [
   {
+    "title": "Terry Pratchett's Study",
+    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+    "pubDate": "2026-11-07T19:34:24+00:00",
+    "date": "2026-11-09T05:01:15+00:00"
+  },
+  {
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+    "pubDate": "2026-11-09T04:32:33+00:00",
+    "date": "2026-11-09T04:32:33+00:00"
+  },
+  {
+    "title": "Hide your slop PR descriptions behind <details><summary>",
+    "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+    "pubDate": "2026-11-09T04:25:05+00:00",
+    "date": "2026-11-09T04:25:05+00:00"
+  },
+  {
     "title": "parse_number() as a SQLite extension: C vs Rust",
     "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
     "pubDate": "2026-11-08T22:26:00+00:00",
@@ -10,23 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
     "pubDate": "2026-11-07T23:57:46+00:00",
     "date": "2026-11-07T23:57:46+00:00"
-  },
-  {
-    "title": "Quoting Nilay Patel",
-    "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-    "pubDate": "2026-11-06T17:13:12+00:00",
-    "date": "2026-11-06T17:13:12+00:00"
-  },
-  {
-    "title": "Quoting Paul Ford",
-    "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
-    "pubDate": "2026-11-05T17:34:03+00:00",
-    "date": "2026-11-05T17:34:03+00:00"
-  },
-  {
-    "title": "datasette-llm 0.1a10",
-    "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
-    "pubDate": "2026-11-04T15:26:02+00:00",
-    "date": "2026-11-04T23:01:22+00:00"
   }
 ]
