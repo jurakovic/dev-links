@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+    "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-11-09T17:01:02+00:00",
+    "date": "2026-11-09T17:01:02+00:00"
+  },
+  {
     "title": "Making Failure Diagnosis Reliable with Pensive AI",
     "link": "https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-26T17:04:57+00:00",
@@ -22,11 +28,5 @@
     "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-22T22:19:12+00:00",
     "date": "2026-10-22T22:19:12+00:00"
-  },
-  {
-    "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix Scale",
-    "link": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-16T16:01:02+00:00",
-    "date": "2026-10-16T16:01:02+00:00"
   }
 ]

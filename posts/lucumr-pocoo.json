@@ -1,5 +1,11 @@
 [
   {
+    "title": "AI and Irontown",
+    "link": "https://lucumr.pocoo.org/2026/11/9/irontown/",
+    "pubDate": "2026-11-09T00:00:00+00:00",
+    "date": "2026-11-09T23:01:42+00:00"
+  },
+  {
     "title": "Custom Voices With Qwen3-TTS",
     "link": "https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/",
     "pubDate": "2026-10-29T23:01:48+00:00",
@@ -22,11 +28,5 @@
     "link": "https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/",
     "pubDate": "2026-09-14T22:04:05+00:00",
     "date": "2026-09-14T22:04:05+00:00"
-  },
-  {
-    "title": "P(doom)",
-    "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-    "pubDate": "2026-09-12T22:03:59+00:00",
-    "date": "2026-09-12T22:03:59+00:00"
   }
 ]

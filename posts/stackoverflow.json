@@ -1,5 +1,11 @@
 [
   {
+    "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+    "link": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
+    "pubDate": "2026-11-09T20:50:38+00:00",
+    "date": "2026-11-09T20:50:38+00:00"
+  },
+  {
     "title": "Welcome to life in the chip age",
     "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
     "pubDate": "2026-11-06T08:40:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
     "pubDate": "2026-11-03T08:40:00+00:00",
     "date": "2026-11-03T08:40:00+00:00"
-  },
-  {
-    "title": "It’s ok that computers are (sometimes) better than us",
-    "link": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
-    "pubDate": "2026-10-30T07:40:00+00:00",
-    "date": "2026-10-30T07:40:00+00:00"
   }
 ]

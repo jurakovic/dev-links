@@ -1,5 +1,17 @@
 [
   {
+    "title": "GitHub Maps AI Agents Across the Full Software Development Cycle",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/09/github-maps-ai-agents-across-the-full-software-development-cycle.aspx",
+    "pubDate": "2026-11-09T17:52:00+00:00",
+    "date": "2026-11-09T17:52:00+00:00"
+  },
+  {
+    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
+    "pubDate": "2026-11-05T23:43:00+00:00",
+    "date": "2026-11-06T23:01:07+00:00"
+  },
+  {
     "title": "Visual Studio Subscribers Offered Up to $900 Off VSLive! Events",
     "link": "https://visualstudiomagazine.com/articles/2026/11/06/visual-studio-subscribers-offered-up-to-900-off-vslive-events.aspx",
     "pubDate": "2026-11-06T17:25:00+00:00",
@@ -16,17 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/06/microsoft-adds-sharepoint-agent-tools-to-work-iq-preview.aspx",
     "pubDate": "2026-11-06T16:25:00+00:00",
     "date": "2026-11-06T16:25:00+00:00"
-  },
-  {
-    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
-    "pubDate": "2026-11-05T23:43:00+00:00",
-    "date": "2026-11-06T23:01:07+00:00"
-  },
-  {
-    "title": "Microsoft Details 53 GiB Local Coding Model for GitHub Copilot",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-details-53-gib-local-coding-model-for-github-copilot.aspx",
-    "pubDate": "2026-11-05T17:57:00+00:00",
-    "date": "2026-11-05T17:57:00+00:00"
   }
 ]

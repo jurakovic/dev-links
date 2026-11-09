@@ -1,5 +1,11 @@
 [
   {
+    "title": "Free Webcast: My Favorite Query Hints",
+    "link": "https://www.brentozar.com/archive/2026/11/free-webcast-my-favorite-query-hints/",
+    "pubDate": "2026-11-09T20:35:03+00:00",
+    "date": "2026-11-09T20:35:03+00:00"
+  },
+  {
     "title": "Announcing Microsoft Database Hub: An Incredible Pace of Innovation",
     "link": "https://www.brentozar.com/archive/2026/11/announcing-microsoft-database-hub-an-incredible-pace-of-innovation/",
     "pubDate": "2026-11-09T13:15:32+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/11/the-top-10-sql-server-wait-types-worldwide/",
     "pubDate": "2026-11-04T13:15:28+00:00",
     "date": "2026-11-04T13:15:28+00:00"
-  },
-  {
-    "title": "Who’s Hiring Database People? November 2026 Edition",
-    "link": "https://www.brentozar.com/archive/2026/11/whos-hiring-database-people-november-2026-edition/",
-    "pubDate": "2026-11-03T13:15:39+00:00",
-    "date": "2026-11-03T13:15:39+00:00"
   }
 ]
