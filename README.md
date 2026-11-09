@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-09 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Thinkie: What Fact?](https://newsletter.kentbeck.com/p/thinkie-what-fact)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-09 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
+<small>[Announcing Microsoft Database Hub: An Incredible Pace of Innovation](https://www.brentozar.com/archive/2026/11/announcing-microsoft-database-hub-an-incredible-pace-of-innovation/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-09 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
+<small>[How do you run a query against data the database can’t read?](https://devblogs.microsoft.com/azure-sql/how-do-you-run-a-query-against-data-the-database-cant-read/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-09 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Strongly typed IDs in .NET with Vogen](https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html)</small>
 
@@ -196,9 +205,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seldo.png) <small>2026-11-02 seldo [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[A proposal: how to hire junior engineers in the age of AI](https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-01 brentozar [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
-<small>[My Black Friday Sale on Training Classes is Open Now!](https://www.brentozar.com/archive/2026/11/my-black-friday-sale-on-training-classes-is-open-now/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-10-30 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Training Data](https://third-bit.com/2026/10/30/training-data/)</small>
 
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-25 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates](https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-10-24 dbreunig [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-24 db-berater [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
-<small>[Update Statistics from Replicated Database](https://www.db-berater.de/2026/10/offloading-sql-server-statistics-updates-with-transactional-replication-and-stats_stream/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

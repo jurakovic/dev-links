@@ -1,5 +1,11 @@
 [
   {
+    "title": "Thinkie: What Fact?",
+    "link": "https://newsletter.kentbeck.com/p/thinkie-what-fact",
+    "pubDate": "2026-11-09T13:37:31+00:00",
+    "date": "2026-11-09T13:37:31+00:00"
+  },
+  {
     "title": "Not A Copier",
     "link": "https://newsletter.kentbeck.com/p/not-a-copier",
     "pubDate": "2026-11-02T14:17:37+00:00",
@@ -22,11 +28,5 @@
     "link": "https://newsletter.kentbeck.com/p/take-my-toil-leave-me-my-struggle",
     "pubDate": "2026-10-20T13:12:35+00:00",
     "date": "2026-10-20T13:12:35+00:00"
-  },
-  {
-    "title": "Decompose Run-On Tests",
-    "link": "https://newsletter.kentbeck.com/p/decompose-run-on-tests",
-    "pubDate": "2026-10-13T13:31:10+00:00",
-    "date": "2026-10-13T13:31:10+00:00"
   }
 ]

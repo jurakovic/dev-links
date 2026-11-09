@@ -1,5 +1,11 @@
 [
   {
+    "title": "How do you run a query against data the database can’t read?",
+    "link": "https://devblogs.microsoft.com/azure-sql/how-do-you-run-a-query-against-data-the-database-cant-read/",
+    "pubDate": "2026-11-09T11:56:57+00:00",
+    "date": "2026-11-09T11:56:57+00:00"
+  },
+  {
     "title": "My Favorite Undocumented Feature in SQL MCP Server",
     "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/",
     "pubDate": "2026-11-03T21:29:25+00:00",
@@ -22,11 +28,5 @@
     "link": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/",
     "pubDate": "2026-10-25T11:23:29+00:00",
     "date": "2026-10-25T11:23:29+00:00"
-  },
-  {
-    "title": "Canada’s 2026 time zone updates: guidance for Microsoft SQL",
-    "link": "https://devblogs.microsoft.com/azure-sql/canadas-2026-time-zone-updates-guidance-for-microsoft-sql/",
-    "pubDate": "2026-10-15T05:21:10+00:00",
-    "date": "2026-10-15T05:21:10+00:00"
   }
 ]
