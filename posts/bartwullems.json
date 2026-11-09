@@ -1,5 +1,11 @@
 [
   {
+    "title": "Strongly typed IDs in .NET with Vogen",
+    "link": "https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html",
+    "pubDate": "2026-11-09T05:45:00+00:00",
+    "date": "2026-11-09T05:45:00+00:00"
+  },
+  {
     "title": "Generating architecture diagrams with the Archify skill",
     "link": "https://bartwullems.blogspot.com/2026/11/generating-architecture-diagrams-with.html",
     "pubDate": "2026-11-06T06:18:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-when-stop.html",
     "pubDate": "2026-11-03T06:05:00+00:00",
     "date": "2026-11-03T06:05:00+00:00"
-  },
-  {
-    "title": "SQL Server Full-Text Search: an overview",
-    "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-overview.html",
-    "pubDate": "2026-11-02T06:00:00+00:00",
-    "date": "2026-11-02T06:00:00+00:00"
   }
 ]

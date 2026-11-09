@@ -1,11 +1,5 @@
 [
   {
-    "title": "Terry Pratchett's Study",
-    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-    "pubDate": "2026-11-07T19:34:24+00:00",
-    "date": "2026-11-09T05:01:15+00:00"
-  },
-  {
     "title": "The Web Is More Than Enough, by Paul Ford",
     "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
     "pubDate": "2026-11-09T04:32:33+00:00",
@@ -28,5 +22,11 @@
     "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
     "pubDate": "2026-11-07T23:57:46+00:00",
     "date": "2026-11-07T23:57:46+00:00"
+  },
+  {
+    "title": "Terry Pratchett's Study",
+    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
+    "pubDate": "2026-11-07T19:34:24+00:00",
+    "date": "2026-11-09T05:01:15+00:00"
   }
 ]

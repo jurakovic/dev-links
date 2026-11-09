@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-09 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[Strongly typed IDs in .NET with Vogen](https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-09 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Terry Pratchett's Study](https://simonwillison.net/2026/Nov/7/hn-50407316/)</small>
 
@@ -186,9 +189,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-02 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[The paper that explains how Microsoft SQL learned to recover without undoing everything first](https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-02 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
-<small>[SQL Server Full-Text Search: an overview](https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-overview.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-02 damienbod [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[Use Open.IdentityServer for OpenID Connect in an Aspire setup](https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/)</small>
