@@ -1,5 +1,11 @@
 [
   {
+    "title": "Track used skills, agents and MCP servers with the Copilot usage metrics API",
+    "link": "https://bartwullems.blogspot.com/2026/11/track-used-skills-agents-and-mcp.html",
+    "pubDate": "2026-11-10T06:30:00+00:00",
+    "date": "2026-11-10T06:30:00+00:00"
+  },
+  {
     "title": "Strongly typed IDs in .NET with Vogen",
     "link": "https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html",
     "pubDate": "2026-11-09T05:45:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/letting-github-copilot-drive-your.html",
     "pubDate": "2026-11-04T05:55:00+00:00",
     "date": "2026-11-04T05:55:00+00:00"
-  },
-  {
-    "title": "SQL Server Full-Text Search: when a stop word broke our search",
-    "link": "https://bartwullems.blogspot.com/2026/11/sql-server-full-text-search-when-stop.html",
-    "pubDate": "2026-11-03T06:05:00+00:00",
-    "date": "2026-11-03T06:05:00+00:00"
   }
 ]

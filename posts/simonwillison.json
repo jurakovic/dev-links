@@ -1,5 +1,23 @@
 [
   {
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+    "pubDate": "2026-11-10T07:28:21+00:00",
+    "date": "2026-11-10T07:28:21+00:00"
+  },
+  {
+    "title": "Quoting Prompting Claude Fable 5.2",
+    "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
+    "pubDate": "2026-11-10T05:34:14+00:00",
+    "date": "2026-11-10T05:34:14+00:00"
+  },
+  {
+    "title": "Yonkers Rises",
+    "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
+    "pubDate": "2026-11-10T03:53:04+00:00",
+    "date": "2026-11-10T03:53:04+00:00"
+  },
+  {
     "title": "llm-anthropic 0.31",
     "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
     "pubDate": "2026-11-09T23:58:46+00:00",
@@ -10,23 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
     "pubDate": "2026-11-09T23:57:21+00:00",
     "date": "2026-11-09T23:57:21+00:00"
-  },
-  {
-    "title": "Terry Pratchett's Study",
-    "link": "https://simonwillison.net/2026/Nov/7/hn-50407316/",
-    "pubDate": "2026-11-07T19:34:24+00:00",
-    "date": "2026-11-09T05:01:15+00:00"
-  },
-  {
-    "title": "The Web Is More Than Enough, by Paul Ford",
-    "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-    "pubDate": "2026-11-09T04:32:33+00:00",
-    "date": "2026-11-09T04:32:33+00:00"
-  },
-  {
-    "title": "Hide your slop PR descriptions behind <details><summary>",
-    "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-    "pubDate": "2026-11-09T04:25:05+00:00",
-    "date": "2026-11-09T04:25:05+00:00"
   }
 ]
