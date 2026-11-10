@@ -1,5 +1,17 @@
 [
   {
+    "title": "Fragments: November 10",
+    "link": "https://martinfowler.com/fragments/2026-11-10.html",
+    "pubDate": "2026-11-10T14:30:00+00:00",
+    "date": "2026-11-10T14:30:00+00:00"
+  },
+  {
+    "title": "Long-horizon agents and durable execution",
+    "link": "https://martinfowler.com/articles/durable-execution-agents.html",
+    "pubDate": "2026-11-10T14:10:00+00:00",
+    "date": "2026-11-10T14:10:00+00:00"
+  },
+  {
     "title": "The Data Product Platform Navigator",
     "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
     "pubDate": "2026-11-05T14:11:00+00:00",
@@ -16,17 +28,5 @@
     "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
     "pubDate": "2026-10-29T13:50:00+00:00",
     "date": "2026-10-29T13:50:00+00:00"
-  },
-  {
-    "title": "Fragments: October 28",
-    "link": "https://martinfowler.com/fragments/2026-10-28.html",
-    "pubDate": "2026-10-28T12:55:00+00:00",
-    "date": "2026-10-28T12:55:00+00:00"
-  },
-  {
-    "title": "Fragments: October 21",
-    "link": "https://martinfowler.com/fragments/2026-10-21.html",
-    "pubDate": "2026-10-21T10:51:00+00:00",
-    "date": "2026-10-21T10:51:00+00:00"
   }
 ]

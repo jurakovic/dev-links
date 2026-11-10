@@ -1,5 +1,11 @@
 [
   {
+    "title": "Are Blogs Still Relevant? #tsql2sday",
+    "link": "https://www.brentozar.com/archive/2026/11/are-blogs-still-relevant-tsql2sday/",
+    "pubDate": "2026-11-10T13:15:59+00:00",
+    "date": "2026-11-10T13:15:59+00:00"
+  },
+  {
     "title": "Free Webcast: My Favorite Query Hints",
     "link": "https://www.brentozar.com/archive/2026/11/free-webcast-my-favorite-query-hints/",
     "pubDate": "2026-11-09T20:35:03+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/11/video-office-hours-an-ai-agent-stops-in-to-ask-a-question/",
     "pubDate": "2026-11-05T13:15:19+00:00",
     "date": "2026-11-05T13:15:19+00:00"
-  },
-  {
-    "title": "The Top 10 SQL Server Wait Types, Worldwide",
-    "link": "https://www.brentozar.com/archive/2026/11/the-top-10-sql-server-wait-types-worldwide/",
-    "pubDate": "2026-11-04T13:15:28+00:00",
-    "date": "2026-11-04T13:15:28+00:00"
   }
 ]
