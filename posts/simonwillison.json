@@ -1,5 +1,11 @@
 [
   {
+    "title": "llm-gemini 0.36",
+    "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+    "pubDate": "2026-11-10T20:09:44+00:00",
+    "date": "2026-11-10T20:09:44+00:00"
+  },
+  {
     "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
     "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
     "pubDate": "2026-11-10T07:28:21+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
     "pubDate": "2026-11-09T23:58:46+00:00",
     "date": "2026-11-09T23:58:46+00:00"
-  },
-  {
-    "title": "Locating the source of a mysterious beep with Claude",
-    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-    "pubDate": "2026-11-09T23:57:21+00:00",
-    "date": "2026-11-09T23:57:21+00:00"
   }
 ]

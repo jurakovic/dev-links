@@ -1,5 +1,11 @@
 [
   {
+    "title": "NCronJob - It got a dashboard and v5",
+    "link": "https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf",
+    "pubDate": "2026-11-10T11:50:45+00:00",
+    "date": "2026-11-10T23:01:23+00:00"
+  },
+  {
     "title": "What happens to a method that awaits forever?",
     "link": "https://steven-giesel.com/blogPost/bb0a8fdf-5cf6-481a-9d0d-7dc7578357a4",
     "pubDate": "2026-11-08T10:36:58+00:00",
@@ -22,11 +28,5 @@
     "link": "https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1",
     "pubDate": "2026-10-20T05:54:37+00:00",
     "date": "2026-10-20T05:54:37+00:00"
-  },
-  {
-    "title": "If It Quacks - Part 2",
-    "link": "https://steven-giesel.com/blogPost/41599817-4457-441e-b874-1a5c67f4e7cc",
-    "pubDate": "2026-09-18T08:00:33+00:00",
-    "date": "2026-09-18T08:00:33+00:00"
   }
 ]

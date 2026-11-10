@@ -1,9 +1,21 @@
 [
   {
+    "title": ".NET 11 Ships with C# 15 Unions, Faster Tools and CoreCLR for MAUI",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/10/net-11-ships-with-csharp-15-unions-faster-tools-and-coreclr-for-maui.aspx",
+    "pubDate": "2026-11-10T19:01:00+00:00",
+    "date": "2026-11-10T19:01:00+00:00"
+  },
+  {
     "title": "GitHub Maps AI Agents Across the Full Software Development Cycle",
     "link": "https://visualstudiomagazine.com/articles/2026/11/09/github-maps-ai-agents-across-the-full-software-development-cycle.aspx",
     "pubDate": "2026-11-09T17:52:00+00:00",
     "date": "2026-11-09T17:52:00+00:00"
+  },
+  {
+    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
+    "pubDate": "2026-11-05T23:43:00+00:00",
+    "date": "2026-11-06T23:01:07+00:00"
   },
   {
     "title": "Visual Studio Subscribers Offered Up to $900 Off VSLive! Events",
@@ -16,17 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/06/microsoft-foundry-extension-for-azure-developer-cli-reaches-ga.aspx",
     "pubDate": "2026-11-06T16:42:00+00:00",
     "date": "2026-11-06T16:42:00+00:00"
-  },
-  {
-    "title": "Microsoft Adds SharePoint Agent Tools to Work IQ Preview",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/06/microsoft-adds-sharepoint-agent-tools-to-work-iq-preview.aspx",
-    "pubDate": "2026-11-06T16:25:00+00:00",
-    "date": "2026-11-06T16:25:00+00:00"
-  },
-  {
-    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
-    "pubDate": "2026-11-05T23:43:00+00:00",
-    "date": "2026-11-06T23:01:07+00:00"
   }
 ]

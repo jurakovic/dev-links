@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-10 steven-giesel [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[NCronJob - It got a dashboard and v5](https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Copilot in Visual Studio Just Got a Major Upgrade](https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-10 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
+<small>[llm-gemini 0.36](https://simonwillison.net/2026/Nov/10/llm-gemini/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-10 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[.NET 11 Ships with C# 15 Unions, Faster Tools and CoreCLR for MAUI](https://visualstudiomagazine.com/articles/2026/11/10/net-11-ships-with-csharp-15-unions-faster-tools-and-coreclr-for-maui.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 visualstudio [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
+<small>[Announcing Visual Studio 2026 LTSC 18.11](https://devblogs.microsoft.com/visualstudio/announcing-visual-studio-2026-ltsc-1811/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 dotnet [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>
 
@@ -39,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-09 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-09 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-09 lucumr-pocoo [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/)</small>
@@ -105,9 +117,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-06 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
 <small>[Microsoft Foundry Extension for Azure Developer CLI Reaches GA](https://visualstudiomagazine.com/articles/2026/11/06/microsoft-foundry-extension-for-azure-developer-cli-reaches-ga.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-06 visualstudiomagazine [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#net)</small>  
-<small>[Microsoft Adds SharePoint Agent Tools to Work IQ Preview](https://visualstudiomagazine.com/articles/2026/11/06/microsoft-adds-sharepoint-agent-tools-to-work-iq-preview.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-06 daverupert [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Pseudo-pseudo-classes for maximum interactive demos!](https://daverupert.com/2026/11/pseudo-pseudo-classes/)</small>
@@ -294,14 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-10-27 steve-yegge [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[The Counting House — Steve Yegge](https://steve-yegge.medium.com/the-counting-house-steve-yegge-83f5145cc35b?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-26 netflix [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[Making Failure Diagnosis Reliable with Pensive AI](https://netflixtechblog.com/making-failure-diagnosis-reliable-with-pensive-ai-6b0811a1c015?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-10-26 pauldix [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
-<small>[AI is the greatest gift to every self-starter](https://pauldix.com/ai-is-the-greatest-gift-to-every-self-starter)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-10-26 netflix [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[Multi‑Ratio Video Resizing for Mobile Feed and Marketing](https://netflixtechblog.com/multi-ratio-video-resizing-for-mobile-feed-and-marketing-2e6b42810f49?source=rss----2615bd06b42e---4)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
