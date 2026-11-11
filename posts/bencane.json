@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to make technical decisions more objectively",
+    "link": "https://bencane.com/posts/2026-11-11-objective-decision-making/",
+    "pubDate": "2026-11-12T00:00:00+00:00",
+    "date": "2026-11-11T11:01:44+00:00"
+  },
+  {
     "title": "Microservices can work for low-latency workloads—if you design for it",
     "link": "https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/",
     "pubDate": "2026-11-05T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bencane.com/posts/2026-10-14-waiting-adds-latency/",
     "pubDate": "2026-10-14T10:01:41+00:00",
     "date": "2026-10-14T10:01:41+00:00"
-  },
-  {
-    "title": "System Design pro-tip: force yourself to create a viable second design.",
-    "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
-    "pubDate": "2026-10-07T10:04:03+00:00",
-    "date": "2026-10-07T10:04:03+00:00"
   }
 ]
