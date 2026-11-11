@@ -1,5 +1,11 @@
 [
   {
+    "title": "Tests as data: ensuring AI-generated code does what we want",
+    "link": "https://martinfowler.com/articles/tests-as-data.html",
+    "pubDate": "2026-11-11T15:17:00+00:00",
+    "date": "2026-11-11T15:17:00+00:00"
+  },
+  {
     "title": "Fragments: November 10",
     "link": "https://martinfowler.com/fragments/2026-11-10.html",
     "pubDate": "2026-11-10T14:30:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://martinfowler.com/bliki/LLM-Voice.html",
     "pubDate": "2026-10-29T14:28:00+00:00",
     "date": "2026-10-29T14:28:00+00:00"
-  },
-  {
-    "title": "Why are good developers so wary of agentic development?",
-    "link": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
-    "pubDate": "2026-10-29T13:50:00+00:00",
-    "date": "2026-10-29T13:50:00+00:00"
   }
 ]

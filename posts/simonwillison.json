@@ -1,5 +1,11 @@
 [
   {
+    "title": "Anthropic's IPO roadshow video",
+    "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+    "pubDate": "2026-11-11T15:11:59+00:00",
+    "date": "2026-11-11T15:11:59+00:00"
+  },
+  {
     "title": "llm-gemini 0.36",
     "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
     "pubDate": "2026-11-10T20:09:44+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
     "pubDate": "2026-11-10T03:53:04+00:00",
     "date": "2026-11-10T03:53:04+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.31",
-    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-    "pubDate": "2026-11-09T23:58:46+00:00",
-    "date": "2026-11-09T23:58:46+00:00"
   }
 ]

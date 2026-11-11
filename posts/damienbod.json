@@ -1,5 +1,11 @@
 [
   {
+    "title": "Migrate a GitHub repository to GitHub Enterprise",
+    "link": "https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/",
+    "pubDate": "2026-11-11T12:31:24+00:00",
+    "date": "2026-11-11T12:31:24+00:00"
+  },
+  {
     "title": "Use Open.IdentityServer for OpenID Connect in an Aspire setup",
     "link": "https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/",
     "pubDate": "2026-11-02T05:52:20+00:00",
@@ -22,11 +28,5 @@
     "link": "https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/",
     "pubDate": "2026-08-17T05:29:56+00:00",
     "date": "2026-08-17T05:29:56+00:00"
-  },
-  {
-    "title": "Implement BFF using Auth0, Angular and ASP.NET Core",
-    "link": "https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/",
-    "pubDate": "2026-08-10T05:33:55+00:00",
-    "date": "2026-08-10T05:33:55+00:00"
   }
 ]

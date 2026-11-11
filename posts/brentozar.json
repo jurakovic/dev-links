@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to Set Background Images & Movies in SSMS v22",
+    "link": "https://www.brentozar.com/archive/2026/11/how-to-set-background-images-movies-in-ssms-v22/",
+    "pubDate": "2026-11-11T13:15:48+00:00",
+    "date": "2026-11-11T13:15:48+00:00"
+  },
+  {
     "title": "Are Blogs Still Relevant? #tsql2sday",
     "link": "https://www.brentozar.com/archive/2026/11/are-blogs-still-relevant-tsql2sday/",
     "pubDate": "2026-11-10T13:15:59+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/11/announcing-microsoft-database-hub-an-incredible-pace-of-innovation/",
     "pubDate": "2026-11-09T13:15:32+00:00",
     "date": "2026-11-09T13:15:32+00:00"
-  },
-  {
-    "title": "[Video] Office Hours: An AI Agent Stops In to Ask a Question",
-    "link": "https://www.brentozar.com/archive/2026/11/video-office-hours-an-ai-agent-stops-in-to-ask-a-question/",
-    "pubDate": "2026-11-05T13:15:19+00:00",
-    "date": "2026-11-05T13:15:19+00:00"
   }
 ]
