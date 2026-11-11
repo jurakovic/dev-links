@@ -1,5 +1,17 @@
 [
   {
+    "title": "What’s new across Microsoft SQL in 2026 so far: the PASS Summit West roundup",
+    "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-the-pass-summit-west-roundup/",
+    "pubDate": "2026-11-11T11:48:48+00:00",
+    "date": "2026-11-11T23:01:16+00:00"
+  },
+  {
+    "title": "Resources for the SQL AI Developer",
+    "link": "https://devblogs.microsoft.com/azure-sql/dp-800-sql-ai-certification/",
+    "pubDate": "2026-11-11T22:48:44+00:00",
+    "date": "2026-11-11T22:48:44+00:00"
+  },
+  {
     "title": "How do you run a query against data the database can’t read?",
     "link": "https://devblogs.microsoft.com/azure-sql/how-do-you-run-a-query-against-data-the-database-cant-read/",
     "pubDate": "2026-11-09T11:56:57+00:00",
@@ -16,17 +28,5 @@
     "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
     "pubDate": "2026-11-02T11:49:03+00:00",
     "date": "2026-11-02T11:49:03+00:00"
-  },
-  {
-    "title": "Is Azure SQL Database Hyperscale “distributed SQL”?",
-    "link": "https://devblogs.microsoft.com/azure-sql/is-azure-sql-database-hyperscale-distributed-sql/",
-    "pubDate": "2026-10-30T16:52:56+00:00",
-    "date": "2026-10-30T16:52:56+00:00"
-  },
-  {
-    "title": "The paper that split the database in four: inside Azure SQL Database Hyperscale, aka Socrates",
-    "link": "https://devblogs.microsoft.com/azure-sql/the-paper-that-split-the-database-in-four-inside-azure-sql-database-hyperscale-aka-socrates/",
-    "pubDate": "2026-10-25T11:23:29+00:00",
-    "date": "2026-10-25T11:23:29+00:00"
   }
 ]

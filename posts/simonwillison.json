@@ -1,32 +1,32 @@
 [
   {
+    "title": "Gemini Decisions API",
+    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "pubDate": "2026-11-11T22:03:25+00:00",
+    "date": "2026-11-11T22:03:25+00:00"
+  },
+  {
+    "title": "aws-emulator",
+    "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+    "pubDate": "2026-11-11T21:18:30+00:00",
+    "date": "2026-11-11T21:18:30+00:00"
+  },
+  {
+    "title": "Browse tools.simonwillison.net by tag",
+    "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+    "pubDate": "2026-11-11T18:42:50+00:00",
+    "date": "2026-11-11T18:42:50+00:00"
+  },
+  {
+    "title": "llm 0.37.2",
+    "link": "https://simonwillison.net/2026/Nov/11/llm/",
+    "pubDate": "2026-11-11T17:19:52+00:00",
+    "date": "2026-11-11T17:19:52+00:00"
+  },
+  {
     "title": "Anthropic's IPO roadshow video",
     "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
     "pubDate": "2026-11-11T15:11:59+00:00",
     "date": "2026-11-11T15:11:59+00:00"
-  },
-  {
-    "title": "llm-gemini 0.36",
-    "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-    "pubDate": "2026-11-10T20:09:44+00:00",
-    "date": "2026-11-10T20:09:44+00:00"
-  },
-  {
-    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
-    "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-    "pubDate": "2026-11-10T07:28:21+00:00",
-    "date": "2026-11-10T07:28:21+00:00"
-  },
-  {
-    "title": "Quoting Prompting Claude Fable 5.2",
-    "link": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-    "pubDate": "2026-11-10T05:34:14+00:00",
-    "date": "2026-11-10T05:34:14+00:00"
-  },
-  {
-    "title": "Yonkers Rises",
-    "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
-    "pubDate": "2026-11-10T03:53:04+00:00",
-    "date": "2026-11-10T03:53:04+00:00"
   }
 ]

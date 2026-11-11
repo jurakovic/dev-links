@@ -1,5 +1,11 @@
 [
   {
+    "title": "File-Based Apps in .NET 11: Room to Grow",
+    "link": "https://barretblake.dev/posts/development/2026/11/file-based-apps-dotnet-11/",
+    "pubDate": "2026-11-11T14:00:00+00:00",
+    "date": "2026-11-11T23:01:44+00:00"
+  },
+  {
     "title": "AI Wrote the Code. Now Who Owns the Architecture?",
     "link": "https://barretblake.dev/posts/development/2026/09/ai-wrote-the-code/",
     "pubDate": "2026-09-23T13:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://barretblake.dev/posts/development/2026/08/github-actions-runner-docker-desktop/",
     "pubDate": "2026-08-25T00:00:00+00:00",
     "date": "2026-08-25T00:00:00+00:00"
-  },
-  {
-    "title": "Multi-Tenant .NET, Part 3: Separate Buildings (Database per Tenant)",
-    "link": "https://barretblake.dev/posts/development/2026/08/multi-tenant-part-3/",
-    "pubDate": "2026-08-20T00:00:00+00:00",
-    "date": "2026-08-20T00:00:00+00:00"
   }
 ]
