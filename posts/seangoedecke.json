@@ -1,5 +1,11 @@
 [
   {
+    "title": "Glue work is still harmful in the age of AI",
+    "link": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+    "pubDate": "2026-11-11T00:00:00+00:00",
+    "date": "2026-11-11T05:01:23+00:00"
+  },
+  {
     "title": "LLMs are terrible at designing AI systems",
     "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
     "pubDate": "2026-11-08T00:00:00+00:00",
@@ -20,12 +26,6 @@
   {
     "title": "LLMs are not superhuman at reading and writing neural network weights",
     "link": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-    "pubDate": "2026-11-03T00:00:00+00:00",
-    "date": "2026-11-02T23:01:55+00:00"
-  },
-  {
-    "title": "Audience capture",
-    "link": "https://seangoedecke.com/audience-capture/",
     "pubDate": "2026-11-03T00:00:00+00:00",
     "date": "2026-11-02T23:01:55+00:00"
   }

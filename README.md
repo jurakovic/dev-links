@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-11 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
+<small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-10 daniel-haxx [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
+<small>[30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-10 steven-giesel [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[NCronJob - It got a dashboard and v5](https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf)</small>
 
@@ -214,17 +223,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-02 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[LLMs are not superhuman at reading and writing neural network weights](https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-02 seangoedecke [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Audience capture](https://seangoedecke.com/audience-capture/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-02 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Completed Fiction](https://third-bit.com/2026/11/02/completed-fiction/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-02 willemvandenende [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[Printing 3D objects from photos with a couple of prompts](http://willemvandenende.com/blog/engineering/printing-3d-objects-from-photos-with-a-couple-of-prompts)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-02 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
-<small>[Testing the Schelling Segregation Model](https://third-bit.com/2026/11/02/schelling/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-02 tidyfirst [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[Not A Copier](https://newsletter.kentbeck.com/p/not-a-copier)</small>
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) <small>2026-10-27 sqlserverfast [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-sql)</small>  
 <small>[Game over](https://sqlserverfast.com/blog/hugo/2026/10/game-over/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-10-27 steve-yegge [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
-<small>[The Counting House — Steve Yegge](https://steve-yegge.medium.com/the-counting-house-steve-yegge-83f5145cc35b?source=rss-c1ec701babb7------2)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
