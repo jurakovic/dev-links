@@ -1,5 +1,11 @@
 [
   {
+    "title": "Let your agents cleanup after they leave your desk",
+    "link": "https://bartwullems.blogspot.com/2026/11/let-your-agents-cleanup-after-they.html",
+    "pubDate": "2026-11-12T08:30:00+00:00",
+    "date": "2026-11-12T08:30:00+00:00"
+  },
+  {
     "title": "Track used skills, agents and MCP servers with the Copilot usage metrics API",
     "link": "https://bartwullems.blogspot.com/2026/11/track-used-skills-agents-and-mcp.html",
     "pubDate": "2026-11-10T06:30:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html",
     "pubDate": "2026-11-05T05:33:00+00:00",
     "date": "2026-11-05T05:33:00+00:00"
-  },
-  {
-    "title": "Letting GitHub Copilot drive your desktop with computer use",
-    "link": "https://bartwullems.blogspot.com/2026/11/letting-github-copilot-drive-your.html",
-    "pubDate": "2026-11-04T05:55:00+00:00",
-    "date": "2026-11-04T05:55:00+00:00"
   }
 ]

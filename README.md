@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-12 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
+<small>[Let your agents cleanup after they leave your desk](https://bartwullems.blogspot.com/2026/11/let-your-agents-cleanup-after-they.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/barretblake.png) <small>2026-11-11 barretblake [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
 <small>[File-Based Apps in .NET 11: Room to Grow](https://barretblake.dev/posts/development/2026/11/file-based-apps-dotnet-11/)</small>
 
@@ -216,9 +219,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-04 bencane [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
 <small>[Microservices can work for low-latency workloads—if you design for it](https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-04 bartwullems [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
-<small>[Letting GitHub Copilot drive your desktop with computer use](https://bartwullems.blogspot.com/2026/11/letting-github-copilot-drive-your.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-11-04 pauldix [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
 <small>[The Software Factory and the Inevitability of Recursively Self-Improving Software](https://pauldix.com/the-software-factory-and-the-inevitability-of-rsi-software)</small>
