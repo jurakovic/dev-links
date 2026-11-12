@@ -1,15 +1,15 @@
 [
   {
-    "title": "What’s new across Microsoft SQL in 2026 so far: the PASS Summit West roundup",
-    "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-the-pass-summit-west-roundup/",
-    "pubDate": "2026-11-11T11:48:48+00:00",
-    "date": "2026-11-11T23:01:16+00:00"
-  },
-  {
     "title": "Resources for the SQL AI Developer",
     "link": "https://devblogs.microsoft.com/azure-sql/dp-800-sql-ai-certification/",
     "pubDate": "2026-11-11T22:48:44+00:00",
     "date": "2026-11-11T22:48:44+00:00"
+  },
+  {
+    "title": "What’s new across Microsoft SQL in 2026 so far: the PASS Summit West roundup",
+    "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-the-pass-summit-west-roundup/",
+    "pubDate": "2026-11-11T11:48:48+00:00",
+    "date": "2026-11-11T23:01:16+00:00"
   },
   {
     "title": "How do you run a query against data the database can’t read?",
