@@ -1,5 +1,11 @@
 [
   {
+    "title": "How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter",
+    "link": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/",
+    "pubDate": "2026-11-12T16:16:25+00:00",
+    "date": "2026-11-12T16:16:25+00:00"
+  },
+  {
     "title": "Customer support is the gnarliest AI problem",
     "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
     "pubDate": "2026-11-10T08:40:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/",
     "pubDate": "2026-11-05T16:02:13+00:00",
     "date": "2026-11-05T16:02:13+00:00"
-  },
-  {
-    "title": "Your .NET parallel loop can become serial in a one-CPU container",
-    "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
-    "pubDate": "2026-11-04T16:34:13+00:00",
-    "date": "2026-11-04T16:34:13+00:00"
   }
 ]

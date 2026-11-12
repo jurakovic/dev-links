@@ -1,5 +1,11 @@
 [
   {
+    "title": "AutoMapper 17.0 and MediatR 15.0 Released",
+    "link": "https://www.jimmybogard.com/automapper-17-0-and-mediatr-15-0-released/",
+    "pubDate": "2026-11-12T13:23:53+00:00",
+    "date": "2026-11-12T13:23:53+00:00"
+  },
+  {
     "title": "AutoMapper 16.3.0 and 15.1.4 Released with Security Fixes",
     "link": "https://www.jimmybogard.com/automapper-16-3-0-and-15-1-4-released-with-security-fixes/",
     "pubDate": "2026-11-05T15:36:35+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.jimmybogard.com/automapper-16-1-1-released/",
     "pubDate": "2026-03-13T15:58:13+00:00",
     "date": "2026-03-13T15:58:13+00:00"
-  },
-  {
-    "title": "AutoMapper 16.1 and MediatR 14.1 Released",
-    "link": "https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/",
-    "pubDate": "2026-03-03T21:50:55+00:00",
-    "date": "2026-03-03T21:50:55+00:00"
   }
 ]

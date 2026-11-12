@@ -1,5 +1,11 @@
 [
   {
+    "title": "Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing",
+    "link": "https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/",
+    "pubDate": "2026-11-12T14:23:20+00:00",
+    "date": "2026-11-12T14:23:20+00:00"
+  },
+  {
     "title": "Table Variable Deferred Compilation Disabled! So Why Does SQL Server Still Recompile?",
     "link": "https://www.db-berater.de/2026/11/table-variable-deferred-compilation-disabled-so-why-does-sql-server-still-recompile/",
     "pubDate": "2026-11-06T08:02:43+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.db-berater.de/2026/10/offloading-sql-server-statistics-updates-with-transactional-replication-and-stats_stream/",
     "pubDate": "2026-10-24T11:53:11+00:00",
     "date": "2026-10-24T11:53:11+00:00"
-  },
-  {
-    "title": "SQL Server Forced Parameterization: When It Improves Performance and When It Doesn’t",
-    "link": "https://www.db-berater.de/2026/10/sql-server-forced-parameterization-the-truth-about-compilations-and-plan-reuse/",
-    "pubDate": "2026-10-20T11:23:23+00:00",
-    "date": "2026-10-20T11:23:23+00:00"
   }
 ]

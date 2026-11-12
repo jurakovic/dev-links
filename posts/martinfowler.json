@@ -1,5 +1,11 @@
 [
   {
+    "title": "Bliki: Generated Glossary",
+    "link": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+    "pubDate": "2026-11-12T14:15:00+00:00",
+    "date": "2026-11-12T14:15:00+00:00"
+  },
+  {
     "title": "Tests as data: ensuring AI-generated code does what we want",
     "link": "https://martinfowler.com/articles/tests-as-data.html",
     "pubDate": "2026-11-11T15:17:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
     "pubDate": "2026-11-05T14:11:00+00:00",
     "date": "2026-11-05T14:11:00+00:00"
-  },
-  {
-    "title": "Bliki: LLM Voice",
-    "link": "https://martinfowler.com/bliki/LLM-Voice.html",
-    "pubDate": "2026-10-29T14:28:00+00:00",
-    "date": "2026-10-29T14:28:00+00:00"
   }
 ]
