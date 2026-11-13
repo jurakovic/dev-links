@@ -1,5 +1,11 @@
 [
   {
+    "title": "Driving your AI agents in ECO mode",
+    "link": "https://bartwullems.blogspot.com/2026/11/driving-your-ai-agents-in-eco-mode.html",
+    "pubDate": "2026-11-13T14:05:38+00:00",
+    "date": "2026-11-13T14:05:38+00:00"
+  },
+  {
     "title": "Let your agents cleanup after they leave your desk",
     "link": "https://bartwullems.blogspot.com/2026/11/let-your-agents-cleanup-after-they.html",
     "pubDate": "2026-11-12T08:30:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/generating-architecture-diagrams-with.html",
     "pubDate": "2026-11-06T06:18:00+00:00",
     "date": "2026-11-06T06:18:00+00:00"
-  },
-  {
-    "title": "DSC 3.0: running your own PowerShell with getScript, testScript and setScript",
-    "link": "https://bartwullems.blogspot.com/2026/11/dsc-30-running-your-own-powershell-with.html",
-    "pubDate": "2026-11-05T05:33:00+00:00",
-    "date": "2026-11-05T05:33:00+00:00"
   }
 ]

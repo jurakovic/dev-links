@@ -1,5 +1,11 @@
 [
   {
+    "title": "Forced Parameterization and its Impact on Interleaved Execution",
+    "link": "https://www.db-berater.de/2026/11/sql-server-forced-parameterization-vs-interleaved-execution/",
+    "pubDate": "2026-11-13T11:55:17+00:00",
+    "date": "2026-11-13T11:55:17+00:00"
+  },
+  {
     "title": "Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing",
     "link": "https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/",
     "pubDate": "2026-11-12T14:23:20+00:00",
@@ -22,11 +28,5 @@
     "link": "https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/",
     "pubDate": "2026-10-30T15:41:54+00:00",
     "date": "2026-10-30T15:41:54+00:00"
-  },
-  {
-    "title": "Update Statistics from Replicated Database",
-    "link": "https://www.db-berater.de/2026/10/offloading-sql-server-statistics-updates-with-transactional-replication-and-stats_stream/",
-    "pubDate": "2026-10-24T11:53:11+00:00",
-    "date": "2026-10-24T11:53:11+00:00"
   }
 ]

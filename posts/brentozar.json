@@ -1,5 +1,11 @@
 [
   {
+    "title": "[Video] Office Hours in the Backyard",
+    "link": "https://www.brentozar.com/archive/2026/11/video-office-hours-in-the-backyard/",
+    "pubDate": "2026-11-13T13:15:36+00:00",
+    "date": "2026-11-13T13:15:36+00:00"
+  },
+  {
     "title": "What Students are Saying About My Latest Classes",
     "link": "https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/",
     "pubDate": "2026-11-12T13:15:14+00:00",
@@ -16,11 +22,5 @@
     "link": "https://www.brentozar.com/archive/2026/11/are-blogs-still-relevant-tsql2sday/",
     "pubDate": "2026-11-10T13:15:59+00:00",
     "date": "2026-11-10T13:15:59+00:00"
-  },
-  {
-    "title": "Free Webcast: My Favorite Query Hints",
-    "link": "https://www.brentozar.com/archive/2026/11/free-webcast-my-favorite-query-hints/",
-    "pubDate": "2026-11-09T20:35:03+00:00",
-    "date": "2026-11-09T20:35:03+00:00"
   }
 ]
