@@ -1,5 +1,11 @@
 [
   {
+    "title": "Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx",
+    "pubDate": "2026-11-13T22:15:00+00:00",
+    "date": "2026-11-13T22:15:00+00:00"
+  },
+  {
     "title": "VS Code 1.146 Adds AI Agent Inbox, Model Comparisons and Chat Windows",
     "link": "https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx",
     "pubDate": "2026-11-12T23:04:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/09/github-maps-ai-agents-across-the-full-software-development-cycle.aspx",
     "pubDate": "2026-11-09T17:52:00+00:00",
     "date": "2026-11-09T17:52:00+00:00"
-  },
-  {
-    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
-    "pubDate": "2026-11-05T23:43:00+00:00",
-    "date": "2026-11-06T23:01:07+00:00"
   }
 ]

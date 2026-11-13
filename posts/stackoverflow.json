@@ -1,5 +1,11 @@
 [
   {
+    "title": "Your coding agent shouldn't grade its own homework",
+    "link": "https://stackoverflow.blog/2026/11/13/your-coding-agent-shouldn-t-grade-its-own-homework/",
+    "pubDate": "2026-11-13T17:27:39+00:00",
+    "date": "2026-11-13T17:27:39+00:00"
+  },
+  {
     "title": "Agentic search doesn't find pages, it assembles answers",
     "link": "https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/",
     "pubDate": "2026-11-13T08:40:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
     "pubDate": "2026-11-09T20:50:38+00:00",
     "date": "2026-11-09T20:50:38+00:00"
-  },
-  {
-    "title": "Welcome to life in the chip age",
-    "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
-    "pubDate": "2026-11-06T08:40:00+00:00",
-    "date": "2026-11-06T08:40:00+00:00"
   }
 ]
