@@ -1,5 +1,11 @@
 [
   {
+    "title": "VS Code 1.146 Adds AI Agent Inbox, Model Comparisons and Chat Windows",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx",
+    "pubDate": "2026-11-12T23:04:00+00:00",
+    "date": "2026-11-12T23:04:00+00:00"
+  },
+  {
     "title": "Visual Studio 18.12 Makes Bring Your Own Model Generally Available",
     "link": "https://visualstudiomagazine.com/articles/2026/11/12/visual-studio-18,-d-,12-makes-bring-your-own-model-generally-available.aspx",
     "pubDate": "2026-11-12T22:04:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
     "pubDate": "2026-11-05T23:43:00+00:00",
     "date": "2026-11-06T23:01:07+00:00"
-  },
-  {
-    "title": "Visual Studio Subscribers Offered Up to $900 Off VSLive! Events",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/06/visual-studio-subscribers-offered-up-to-900-off-vslive-events.aspx",
-    "pubDate": "2026-11-06T17:25:00+00:00",
-    "date": "2026-11-06T17:25:00+00:00"
   }
 ]
