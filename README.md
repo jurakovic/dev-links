@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-13 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
+<small>[Agentic search doesn't find pages, it assembles answers](https://stackoverflow.blog/2026/11/13/agentic-doesn-t-find-pages-it-assembles-answers/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-13 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[llm-gemini 0.37](https://simonwillison.net/2026/Nov/12/llm-gemini/)</small>
 
@@ -222,9 +225,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-05 third-bit [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[What Else for the Sudonomicon?](https://third-bit.com/2026/11/05/what-else-for-sudonomicon/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-05 stackoverflow [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-tech-companies)</small>  
-<small>[Don’t Build the Reusable Component Yet](https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-05 martinfowler [<kbd class="tag tag-general">General</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-general)</small>  
 <small>[The Data Product Platform Navigator](https://martinfowler.com/articles/data-product-platform-nav.html)</small>
