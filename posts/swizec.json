@@ -1,5 +1,11 @@
 [
   {
+    "title": "Software has no value",
+    "link": "https://swizec.com/blog/software-has-no-value",
+    "pubDate": "2026-11-14T00:00:00+00:00",
+    "date": "2026-11-14T23:01:44+00:00"
+  },
+  {
     "title": "How do we auto-approve and merge 60% of PRs?",
     "link": "https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs",
     "pubDate": "2026-11-07T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
     "pubDate": "2026-09-29T16:01:46+00:00",
     "date": "2026-09-29T16:01:46+00:00"
-  },
-  {
-    "title": "We now auto-approve and merge 15% of PRs",
-    "link": "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
-    "pubDate": "2026-09-19T22:01:54+00:00",
-    "date": "2026-09-19T22:01:54+00:00"
   }
 ]
