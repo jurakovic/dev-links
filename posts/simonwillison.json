@@ -1,15 +1,15 @@
 [
   {
-    "title": "datasette-leaflet 0.3",
-    "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-    "pubDate": "2026-11-13T22:30:54+00:00",
-    "date": "2026-11-14T05:01:37+00:00"
-  },
-  {
     "title": "datasette-cluster-map 0.19",
     "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
     "pubDate": "2026-11-13T23:02:45+00:00",
     "date": "2026-11-13T23:02:45+00:00"
+  },
+  {
+    "title": "datasette-leaflet 0.3",
+    "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+    "pubDate": "2026-11-13T22:30:54+00:00",
+    "date": "2026-11-14T05:01:37+00:00"
   },
   {
     "title": "llm-gemini 0.37",

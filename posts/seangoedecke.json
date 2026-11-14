@@ -1,5 +1,11 @@
 [
   {
+    "title": "How to find meaning in large tech companies",
+    "link": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",
+    "pubDate": "2026-11-14T00:00:00+00:00",
+    "date": "2026-11-14T11:01:39+00:00"
+  },
+  {
     "title": "Glue work is still harmful in the age of AI",
     "link": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
     "pubDate": "2026-11-11T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
     "pubDate": "2026-11-06T00:00:00+00:00",
     "date": "2026-11-05T23:01:42+00:00"
-  },
-  {
-    "title": "LLMs are not superhuman at reading and writing neural network weights",
-    "link": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
-    "pubDate": "2026-11-03T00:00:00+00:00",
-    "date": "2026-11-02T23:01:55+00:00"
   }
 ]
