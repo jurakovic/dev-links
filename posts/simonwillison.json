@@ -1,9 +1,15 @@
 [
   {
-    "title": "datasette-cluster-map 0.19",
-    "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-    "pubDate": "2026-11-13T23:02:45+00:00",
-    "date": "2026-11-13T23:02:45+00:00"
+    "title": "datasette-vega 0.7",
+    "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+    "pubDate": "2026-11-14T17:09:09+00:00",
+    "date": "2026-11-15T05:01:30+00:00"
+  },
+  {
+    "title": "datasette-llm 0.1a11",
+    "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+    "pubDate": "2026-11-14T23:59:28+00:00",
+    "date": "2026-11-14T23:59:28+00:00"
   },
   {
     "title": "datasette-leaflet 0.3",
@@ -12,21 +18,15 @@
     "date": "2026-11-14T05:01:37+00:00"
   },
   {
+    "title": "datasette-cluster-map 0.19",
+    "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+    "pubDate": "2026-11-13T23:02:45+00:00",
+    "date": "2026-11-13T23:02:45+00:00"
+  },
+  {
     "title": "llm-gemini 0.37",
     "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
     "pubDate": "2026-11-12T22:55:19+00:00",
     "date": "2026-11-13T05:01:23+00:00"
-  },
-  {
-    "title": "Gemini Decisions API",
-    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
-    "pubDate": "2026-11-11T22:03:25+00:00",
-    "date": "2026-11-11T22:03:25+00:00"
-  },
-  {
-    "title": "aws-emulator",
-    "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
-    "pubDate": "2026-11-11T21:18:30+00:00",
-    "date": "2026-11-11T21:18:30+00:00"
   }
 ]
