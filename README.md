@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-11-15 pauldix [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-systems)</small>  
+<small>[I built an email service, or, why the bar for software is going up](https://pauldix.com/i-built-an-email-service)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-15 simonwillison [<kbd class="tag tag-ai">AI</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-ai)</small>  
 <small>[datasette-vega 0.7](https://simonwillison.net/2026/Nov/14/datasette-vega/)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-02 azure-sql [<kbd class="tag tag-sql">SQL Server</kbd>](https://github.com/jurakovic/dev-links/blob/master/README.md#sql-server)</small>  
 <small>[The paper that explains how Microsoft SQL learned to recover without undoing everything first](https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-02 damienbod [<kbd class="tag tag-net">.NET</kbd>](https://github.com/jurakovic/dev-links/blob/master/blogs/README.md#blogs-net)</small>  
-<small>[Use Open.IdentityServer for OpenID Connect in an Aspire setup](https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
