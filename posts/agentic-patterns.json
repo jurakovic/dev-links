@@ -1,32 +1,32 @@
 [
   {
-    "title": "Curated Code Context Window",
-    "link": "https://agentic-patterns.com/patterns/curated-code-context-window",
-    "pubDate": "2026-10-14T00:00:00+00:00",
-    "date": "2026-10-14T00:00:00+00:00"
+    "title": "Shared Core with Native Shells",
+    "link": "https://agentic-patterns.com/patterns/shared-core-native-shells",
+    "pubDate": "2026-11-13T00:00:00+00:00",
+    "date": "2026-11-13T00:00:00+00:00"
   },
   {
-    "title": "Dynamic Context Injection",
-    "link": "https://agentic-patterns.com/patterns/dynamic-context-injection",
-    "pubDate": "2026-10-14T00:00:00+00:00",
-    "date": "2026-10-14T00:00:00+00:00"
+    "title": "Credential-Free Outbox",
+    "link": "https://agentic-patterns.com/patterns/credential-free-outbox",
+    "pubDate": "2026-11-08T00:00:00+00:00",
+    "date": "2026-11-08T00:00:00+00:00"
   },
   {
-    "title": "Fair-Share Task Queues with Heartbeat Leases",
-    "link": "https://agentic-patterns.com/patterns/fair-share-task-queues-with-heartbeat-leases",
-    "pubDate": "2026-10-14T00:00:00+00:00",
-    "date": "2026-10-14T00:00:00+00:00"
+    "title": "Human-in-the-Loop Approval Framework",
+    "link": "https://agentic-patterns.com/patterns/human-in-loop-approval-framework",
+    "pubDate": "2026-11-06T00:00:00+00:00",
+    "date": "2026-11-06T00:00:00+00:00"
   },
   {
-    "title": "Abstracted Code Representation for Review",
-    "link": "https://agentic-patterns.com/patterns/abstracted-code-representation-for-review",
-    "pubDate": "2026-10-13T00:00:00+00:00",
-    "date": "2026-10-13T00:00:00+00:00"
+    "title": "Intent-Level Cost Attribution",
+    "link": "https://agentic-patterns.com/patterns/intent-level-cost-attribution",
+    "pubDate": "2026-10-20T00:00:00+00:00",
+    "date": "2026-10-20T00:00:00+00:00"
   },
   {
-    "title": "Action Caching & Replay Pattern",
-    "link": "https://agentic-patterns.com/patterns/action-caching-replay",
-    "pubDate": "2026-10-13T00:00:00+00:00",
-    "date": "2026-10-13T00:00:00+00:00"
+    "title": "Fleet Cost Simulation Before Dispatch",
+    "link": "https://agentic-patterns.com/patterns/fleet-cost-simulation-before-dispatch",
+    "pubDate": "2026-10-17T00:00:00+00:00",
+    "date": "2026-10-17T00:00:00+00:00"
   }
 ]
