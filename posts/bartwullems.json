@@ -1,5 +1,11 @@
 [
   {
+    "title": "Setting a spending limit on a Claude Code session",
+    "link": "https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html",
+    "pubDate": "2026-11-16T10:03:55+00:00",
+    "date": "2026-11-16T10:03:55+00:00"
+  },
+  {
     "title": "Driving your AI agents in ECO mode",
     "link": "https://bartwullems.blogspot.com/2026/11/driving-your-ai-agents-in-eco-mode.html",
     "pubDate": "2026-11-13T14:05:38+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html",
     "pubDate": "2026-11-09T05:45:00+00:00",
     "date": "2026-11-09T05:45:00+00:00"
-  },
-  {
-    "title": "Generating architecture diagrams with the Archify skill",
-    "link": "https://bartwullems.blogspot.com/2026/11/generating-architecture-diagrams-with.html",
-    "pubDate": "2026-11-06T06:18:00+00:00",
-    "date": "2026-11-06T06:18:00+00:00"
   }
 ]

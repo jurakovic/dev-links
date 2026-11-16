@@ -1,5 +1,11 @@
 [
   {
+    "title": "Killing a tempdb killer – Part 1",
+    "link": "https://sqlperformance.com/2026/11/tempdb/killing-a-tempdb-killer-part-1",
+    "pubDate": "2026-11-16T06:00:28+00:00",
+    "date": "2026-11-16T06:00:28+00:00"
+  },
+  {
     "title": "Why do you have so many housekeeping jobs?",
     "link": "https://sqlperformance.com/2026/10/sql-maintenance/too-many-housekeeping-jobs",
     "pubDate": "2026-10-27T13:20:39+00:00",
@@ -22,11 +28,5 @@
     "link": "https://sqlperformance.com/2026/08/sql-job/idempotent-script",
     "pubDate": "2026-08-18T09:01:07+00:00",
     "date": "2026-08-18T09:01:07+00:00"
-  },
-  {
-    "title": "It's Time to Break Up with Archive Tables",
-    "link": "https://sqlperformance.com/2026/07/partitioning/its-time-to-break-up-with-archive-tables",
-    "pubDate": "2026-07-27T09:00:52+00:00",
-    "date": "2026-07-27T09:00:52+00:00"
   }
 ]
