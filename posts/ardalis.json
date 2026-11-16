@@ -1,5 +1,11 @@
 [
   {
+    "title": "Clean Architecture with .NET - My New Book with Casey Crouse",
+    "link": "https://ardalis.com/clean-architecture-with-dotnet-book/",
+    "pubDate": "2026-11-16T14:00:00+00:00",
+    "date": "2026-11-16T14:00:00+00:00"
+  },
+  {
     "title": "Some Ardalis Packages Are Going Commercial: What You Need to Know",
     "link": "https://ardalis.com/some-ardalis-packages-going-commercial/",
     "pubDate": "2026-10-29T12:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://ardalis.com/why-care-about-agent-authored-code-quality/",
     "pubDate": "2026-06-29T19:57:34+00:00",
     "date": "2026-06-29T19:57:34+00:00"
-  },
-  {
-    "title": "Setting Up Claude Code Agent Teams With Wsl2 and Tmux on Windows",
-    "link": "https://ardalis.com/setting-up-claude-code-agent-teams-with-wsl2-and-tmux-on-windows/",
-    "pubDate": "2026-04-21T17:05:32+00:00",
-    "date": "2026-04-21T17:05:32+00:00"
   }
 ]
