@@ -1,5 +1,11 @@
 [
   {
+    "title": "Engineering AI Discover",
+    "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+    "pubDate": "2026-11-17T17:01:02+00:00",
+    "date": "2026-11-17T17:01:02+00:00"
+  },
+  {
     "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
     "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
     "pubDate": "2026-11-09T17:01:02+00:00",
@@ -22,11 +28,5 @@
     "link": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
     "pubDate": "2026-10-23T18:32:51+00:00",
     "date": "2026-10-23T18:32:51+00:00"
-  },
-  {
-    "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
-    "link": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
-    "pubDate": "2026-10-22T22:19:12+00:00",
-    "date": "2026-10-22T22:19:12+00:00"
   }
 ]

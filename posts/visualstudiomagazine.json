@@ -1,5 +1,23 @@
 [
   {
+    "title": "Microsoft Gives AI Agents More Control Over Azure Infrastructure",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx",
+    "pubDate": "2026-11-17T08:00:00+00:00",
+    "date": "2026-11-17T21:08:26+00:00"
+  },
+  {
+    "title": "GitHub Brings Copilot Fusion Model Orchestration to Visual Studio",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/17/github-brings-copilot-fusion-model-orchestration-to-visual-studio.aspx",
+    "pubDate": "2026-11-17T21:04:00+00:00",
+    "date": "2026-11-17T21:04:00+00:00"
+  },
+  {
+    "title": "Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/17/microsoft-releases-copilot-sdk-2-0-for-enterprise-ai-agents.aspx",
+    "pubDate": "2026-11-17T20:08:00+00:00",
+    "date": "2026-11-17T20:08:00+00:00"
+  },
+  {
     "title": "Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench",
     "link": "https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx",
     "pubDate": "2026-11-13T22:15:00+00:00",
@@ -10,23 +28,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx",
     "pubDate": "2026-11-12T23:04:00+00:00",
     "date": "2026-11-12T23:04:00+00:00"
-  },
-  {
-    "title": "Visual Studio 18.12 Makes Bring Your Own Model Generally Available",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/12/visual-studio-18,-d-,12-makes-bring-your-own-model-generally-available.aspx",
-    "pubDate": "2026-11-12T22:04:00+00:00",
-    "date": "2026-11-12T22:04:00+00:00"
-  },
-  {
-    "title": ".NET 11 Ships with C# 15 Unions, Faster Tools and CoreCLR for MAUI",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/10/net-11-ships-with-csharp-15-unions-faster-tools-and-coreclr-for-maui.aspx",
-    "pubDate": "2026-11-10T19:01:00+00:00",
-    "date": "2026-11-10T19:01:00+00:00"
-  },
-  {
-    "title": "GitHub Maps AI Agents Across the Full Software Development Cycle",
-    "link": "https://visualstudiomagazine.com/articles/2026/11/09/github-maps-ai-agents-across-the-full-software-development-cycle.aspx",
-    "pubDate": "2026-11-09T17:52:00+00:00",
-    "date": "2026-11-09T17:52:00+00:00"
   }
 ]

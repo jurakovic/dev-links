@@ -1,5 +1,11 @@
 [
   {
+    "title": "Building the Agent Host Protocol for sessions that continue across devices",
+    "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+    "pubDate": "2026-11-17T18:20:40+00:00",
+    "date": "2026-11-17T18:20:40+00:00"
+  },
+  {
     "title": "Inside GitHub’s new Git storage architecture",
     "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
     "pubDate": "2026-11-05T20:23:21+00:00",
@@ -22,11 +28,5 @@
     "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
     "pubDate": "2026-10-14T19:11:33+00:00",
     "date": "2026-10-14T19:11:33+00:00"
-  },
-  {
-    "title": "Building Git infrastructure for agent-scale development",
-    "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-    "pubDate": "2026-10-06T20:57:56+00:00",
-    "date": "2026-10-06T20:57:56+00:00"
   }
 ]

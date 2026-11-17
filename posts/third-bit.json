@@ -1,5 +1,11 @@
 [
   {
+    "title": "This Book Would Be Really Useful",
+    "link": "https://third-bit.com/2026/11/17/this-book-would-be-really-useful/",
+    "pubDate": "2026-11-17T00:00:00+00:00",
+    "date": "2026-11-17T21:08:47+00:00"
+  },
+  {
     "title": "Rationalizing the Command Line",
     "link": "https://third-bit.com/2026/11/13/rationalizing-the-command-line/",
     "pubDate": "2026-11-13T00:00:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://third-bit.com/2026/11/06/generating-a-lesson/",
     "pubDate": "2026-11-06T00:00:00+00:00",
     "date": "2026-11-07T05:01:30+00:00"
-  },
-  {
-    "title": "What Else for the Sudonomicon?",
-    "link": "https://third-bit.com/2026/11/05/what-else-for-sudonomicon/",
-    "pubDate": "2026-11-05T00:00:00+00:00",
-    "date": "2026-11-05T17:01:36+00:00"
   }
 ]
