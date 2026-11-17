@@ -394,7 +394,7 @@ Takes freshly fetched posts on stdin, compares them with the stored file, and pr
 - **Lagged** means older than the newest listed date, at most `MAX_LAG_DAYS` (3) days old, the feed is tracked, and the post isn't backfill.
 - **Tracked** means at least one incoming post is already stored. A feed that is new, whose links all changed, or that rolled over completely since its last successful fetch (a short feed after a few failed runs) is not tracked: its posts are treated as historical and keep their own dates, so adding a blog doesn't fill the top of dev-news with old posts.
 - **Backfill** means a new post that a tracked feed lists after the last stored post it lists: an older post, read because more of the feed is read than was stored, not one the feed showed late. It skips the lag check and keeps its feed date, or is dropped if it has none (paulgraham's feed has no dates at all). Genuinely new posts appear above the stored ones. This covers the deeper part of every feed when it is first read, and the posts of a feed longer than 50 that the cap drops on every run.
-- **Missing posts and the cap.** In a tracked feed, stored posts the feed no longer returns are kept, so a post that drops out and comes back keeps its dates instead of being seen as new. Everything is then sorted by `date` and cut to the newest `MAX_POSTS` (50). A blog's stored list grows run by run until it reaches 50, even if its feed returns only a few items. An untracked feed with a stored file keeps the stored posts dated before its oldest incoming post, so the stored list isn't lost; stored posts within the feed's dates are dropped, since with changed links the feed returns them under the new ones.
+- **Missing posts and the cap.** In a tracked feed, stored posts the feed no longer returns are kept, so a post that drops out and comes back keeps its dates instead of being seen as new. Everything is then sorted by `date` and cut to the newest `MAX_POSTS` (50). A blog's stored list grows run by run until it reaches 50, even if its feed returns only a few items. An untracked feed with a stored file keeps its stored posts too, so the stored list isn't lost, except those it lists again under a new link: a stored post whose title an incoming post has is dropped, so it isn't kept twice.
 
 The header comment in `src/fix_post_times.js` has the full rules with an example for each case.
 
@@ -524,7 +524,7 @@ The first fetch of a new feed keeps the feed's own dates, so its posts sort by t
 
 ### Change or remove a blog
 
-- **New feed URL.** If the new feed's post links differ from the stored ones, the feed is not tracked for that run and its posts keep their feed dates. Stored posts older than the new feed's oldest post are kept.
+- **New feed URL.** If the new feed's post links differ from the stored ones, the feed is not tracked for that run and its posts keep their feed dates. Stored posts the new feed doesn't list again (by title) are kept.
 - **Removed blog, changed ID, or removed feed.** `posts/<old-id>.json` stays on dev-news, and gen_news.js still lists its posts until newer posts push them out of the newest 100. If the ID is still in `blogs.json`, they also stay on its category page. Its blog page `blog/<old-id>.md` stays as long as the posts file does, and goes with it on the next run. If the ID is gone from `blogs.json`, they show with the blank icon and no tag. Delete the file on dev-news to remove them right away.
 
 ### Add a category
