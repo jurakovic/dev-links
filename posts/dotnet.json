@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing staged publishing on NuGet.org",
+    "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
+    "pubDate": "2026-11-17T21:00:00+00:00",
+    "date": "2026-11-17T21:00:00+00:00"
+  },
+  {
     "title": "Announcing .NET 11",
     "link": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
     "pubDate": "2026-11-10T16:11:00+00:00",
@@ -52,11 +58,5 @@
     "link": "https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/",
     "pubDate": "2026-10-25T18:45:00+00:00",
     "date": "2026-10-25T18:45:00+00:00"
-  },
-  {
-    "title": "Get Your .NET MAUI App Ready for Xcode 27",
-    "link": "https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/",
-    "pubDate": "2026-10-19T16:05:00+00:00",
-    "date": "2026-10-19T16:05:00+00:00"
   }
 ]
