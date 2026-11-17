@@ -1,5 +1,11 @@
 [
   {
+    "title": "Deterministic Simulation Testing",
+    "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+    "pubDate": "2026-11-17T14:33:00+00:00",
+    "date": "2026-11-17T14:33:00+00:00"
+  },
+  {
     "title": "Bliki: Generated Glossary",
     "link": "https://martinfowler.com/bliki/GeneratedGlossary.html",
     "pubDate": "2026-11-12T14:15:00+00:00",
@@ -22,11 +28,5 @@
     "link": "https://martinfowler.com/articles/durable-execution-agents.html",
     "pubDate": "2026-11-10T14:10:00+00:00",
     "date": "2026-11-10T14:10:00+00:00"
-  },
-  {
-    "title": "The Data Product Platform Navigator",
-    "link": "https://martinfowler.com/articles/data-product-platform-nav.html",
-    "pubDate": "2026-11-05T14:11:00+00:00",
-    "date": "2026-11-05T14:11:00+00:00"
   }
 ]

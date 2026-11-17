@@ -1,5 +1,11 @@
 [
   {
+    "title": "Clean Architecture Template 11.0.0: .NET 10 and .NET 11 Side by Side",
+    "link": "https://jasontaylor.dev/clean-architecture-template-11-0-0-net-10-and-net-11-side-by-side/",
+    "pubDate": "2026-11-17T12:55:02+00:00",
+    "date": "2026-11-17T12:55:02+00:00"
+  },
+  {
     "title": "Clean Architecture Template 10.8.0 Released",
     "link": "https://jasontaylor.dev/clean-architecture-template-10-8-0-released/",
     "pubDate": "2026-03-23T22:26:08+00:00",
@@ -22,11 +28,5 @@
     "link": "https://jasontaylor.dev/essential-visual-studio-ide-extensions/",
     "pubDate": "2022-10-27T21:15:33+00:00",
     "date": "2022-10-27T21:15:33+00:00"
-  },
-  {
-    "title": "Launch Windows Terminal in Visual Studio",
-    "link": "https://jasontaylor.dev/launch-windows-terminal-in-visual-studio/",
-    "pubDate": "2022-10-21T04:04:13+00:00",
-    "date": "2022-10-21T04:04:13+00:00"
   }
 ]

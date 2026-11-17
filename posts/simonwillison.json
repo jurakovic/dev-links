@@ -1,5 +1,11 @@
 [
   {
+    "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+    "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+    "pubDate": "2026-11-17T16:48:33+00:00",
+    "date": "2026-11-17T16:48:33+00:00"
+  },
+  {
     "title": "Quoting Go Proverbs",
     "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
     "pubDate": "2026-11-17T06:16:26+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/15/datasette/",
     "pubDate": "2026-11-15T23:20:27+00:00",
     "date": "2026-11-15T23:20:27+00:00"
-  },
-  {
-    "title": "datasette 0.65.6",
-    "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
-    "pubDate": "2026-11-15T23:18:17+00:00",
-    "date": "2026-11-15T23:18:17+00:00"
   }
 ]
