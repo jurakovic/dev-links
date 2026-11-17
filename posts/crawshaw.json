@@ -28,5 +28,275 @@
     "link": "https://crawshaw.io/blog/programming-with-llms",
     "pubDate": "2025-01-06T00:00:00+00:00",
     "date": "2025-01-06T00:00:00+00:00"
+  },
+  {
+    "title": "jsonfile: a quick hack for tinkering",
+    "link": "https://crawshaw.io/blog/jsonfile",
+    "pubDate": "2024-02-06T00:00:00+00:00",
+    "date": "2024-02-06T00:00:00+00:00"
+  },
+  {
+    "title": "new year, same plan",
+    "link": "https://crawshaw.io/blog/new-year",
+    "pubDate": "2022-12-31T00:00:00+00:00",
+    "date": "2022-12-31T00:00:00+00:00"
+  },
+  {
+    "title": "log4j: between a rock and a hard place",
+    "link": "https://crawshaw.io/blog/log4j",
+    "pubDate": "2021-12-11T00:00:00+00:00",
+    "date": "2021-12-11T00:00:00+00:00"
+  },
+  {
+    "title": "Software I’m thankful for",
+    "link": "https://crawshaw.io/blog/thankful-for-technology",
+    "pubDate": "2021-11-25T00:00:00+00:00",
+    "date": "2021-11-25T00:00:00+00:00"
+  },
+  {
+    "title": "Remembering the LAN",
+    "link": "https://crawshaw.io/blog/remembering-the-lan",
+    "pubDate": "2020-01-28T00:00:00+00:00",
+    "date": "2020-01-28T00:00:00+00:00"
+  },
+  {
+    "title": "The asymmetry of Internet identity",
+    "link": "https://crawshaw.io/blog/identity-stack",
+    "pubDate": "2019-09-29T00:00:00+00:00",
+    "date": "2019-09-29T00:00:00+00:00"
+  },
+  {
+    "title": "Zero Trust Networks",
+    "link": "https://crawshaw.io/blog/zero-trust",
+    "pubDate": "2019-09-10T00:00:00+00:00",
+    "date": "2019-09-10T00:00:00+00:00"
+  },
+  {
+    "title": "Go 1.13: xerrors",
+    "link": "https://crawshaw.io/blog/xerrors",
+    "pubDate": "2019-04-28T00:00:00+00:00",
+    "date": "2019-04-28T00:00:00+00:00"
+  },
+  {
+    "title": "Fast compilers for fast programs",
+    "link": "https://crawshaw.io/blog/fast-compilers",
+    "pubDate": "2019-04-14T00:00:00+00:00",
+    "date": "2019-04-14T00:00:00+00:00"
+  },
+  {
+    "title": "UTF-7: a ghost from the time before UTF-8",
+    "link": "https://crawshaw.io/blog/utf7",
+    "pubDate": "2018-10-31T00:00:00+00:00",
+    "date": "2018-10-31T00:00:00+00:00"
+  },
+  {
+    "title": "One process programming notes (with Go and SQLite)",
+    "link": "https://crawshaw.io/blog/one-process-programming-notes",
+    "pubDate": "2018-07-30T00:00:00+00:00",
+    "date": "2018-07-30T00:00:00+00:00"
+  },
+  {
+    "title": "Reasoning with Regret",
+    "link": "https://crawshaw.io/blog/reasoning-with-regret",
+    "pubDate": "2018-07-16T00:00:00+00:00",
+    "date": "2018-07-16T00:00:00+00:00"
+  },
+  {
+    "title": "Searching the Creative Internet",
+    "link": "https://crawshaw.io/blog/searching-the-creative-internet",
+    "pubDate": "2018-05-18T00:00:00+00:00",
+    "date": "2018-05-18T00:00:00+00:00"
+  },
+  {
+    "title": "Service Throughput Tradeoffs",
+    "link": "https://crawshaw.io/blog/service-throughput",
+    "pubDate": "2018-04-13T00:00:00+00:00",
+    "date": "2018-04-13T00:00:00+00:00"
+  },
+  {
+    "title": "Sharp-Edged Finalizers in Go",
+    "link": "https://crawshaw.io/blog/sharp-edged-finalizers",
+    "pubDate": "2018-04-05T00:00:00+00:00",
+    "date": "2018-04-05T00:00:00+00:00"
+  },
+  {
+    "title": "The Tragedy of Finalizers",
+    "link": "https://crawshaw.io/blog/tragedy-of-finalizers",
+    "pubDate": "2018-04-04T00:00:00+00:00",
+    "date": "2018-04-04T00:00:00+00:00"
+  },
+  {
+    "title": "Go and SQLite: when database/sql chafes",
+    "link": "https://crawshaw.io/blog/go-and-sqlite",
+    "pubDate": "2018-04-02T00:00:00+00:00",
+    "date": "2018-04-02T00:00:00+00:00"
+  },
+  {
+    "title": "Experimentation Adrift",
+    "link": "https://crawshaw.io/blog/experimentation-adrift",
+    "pubDate": "2018-03-30T00:00:00+00:00",
+    "date": "2018-03-30T00:00:00+00:00"
+  },
+  {
+    "title": "Leaving Google",
+    "link": "https://crawshaw.io/blog/leaving-google",
+    "pubDate": "2018-03-27T00:00:00+00:00",
+    "date": "2018-03-27T00:00:00+00:00"
+  },
+  {
+    "title": "Less cgo overhead in Go 1.8",
+    "link": "https://crawshaw.io/blog/go1.8-cgo",
+    "pubDate": "2017-02-15T00:00:00+00:00",
+    "date": "2017-02-15T00:00:00+00:00"
+  },
+  {
+    "title": "BBR",
+    "link": "https://crawshaw.io/blog/2017-01-07",
+    "pubDate": "2017-01-07T00:00:00+00:00",
+    "date": "2017-01-07T00:00:00+00:00"
+  },
+  {
+    "title": "Compiler Bomb",
+    "link": "https://crawshaw.io/blog/2016-10-14",
+    "pubDate": "2016-10-14T00:00:00+00:00",
+    "date": "2016-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "On recieving the News",
+    "link": "https://crawshaw.io/blog/2016-09-24",
+    "pubDate": "2016-09-24T00:00:00+00:00",
+    "date": "2016-09-24T00:00:00+00:00"
+  },
+  {
+    "title": "Buried by the media",
+    "link": "https://crawshaw.io/blog/2016-09-05",
+    "pubDate": "2016-09-05T00:00:00+00:00",
+    "date": "2016-09-05T00:00:00+00:00"
+  },
+  {
+    "title": "Smaller Go 1.7 binaries",
+    "link": "https://crawshaw.io/blog/2016-08-19",
+    "pubDate": "2016-08-19T00:00:00+00:00",
+    "date": "2016-08-19T00:00:00+00:00"
+  },
+  {
+    "title": "Good business",
+    "link": "https://crawshaw.io/blog/2016-07-27",
+    "pubDate": "2016-07-27T00:00:00+00:00",
+    "date": "2016-07-27T00:00:00+00:00"
+  },
+  {
+    "title": "Everyone a writer",
+    "link": "https://crawshaw.io/blog/2016-07-08",
+    "pubDate": "2016-07-08T00:00:00+00:00",
+    "date": "2016-07-08T00:00:00+00:00"
+  },
+  {
+    "title": "2016-06-29",
+    "link": "https://crawshaw.io/blog/2016-06-29",
+    "pubDate": "2016-06-29T00:00:00+00:00",
+    "date": "2016-06-29T00:00:00+00:00"
+  },
+  {
+    "title": "Transaction oriented collector",
+    "link": "https://crawshaw.io/blog/2016-06-24",
+    "pubDate": "2016-06-24T00:00:00+00:00",
+    "date": "2016-06-24T00:00:00+00:00"
+  },
+  {
+    "title": "Machining under a microscope",
+    "link": "https://crawshaw.io/blog/2016-06-20",
+    "pubDate": "2016-06-20T00:00:00+00:00",
+    "date": "2016-06-20T00:00:00+00:00"
+  },
+  {
+    "title": "Limits of Superintelligence",
+    "link": "https://crawshaw.io/blog/2016-05-07",
+    "pubDate": "2016-05-07T00:00:00+00:00",
+    "date": "2016-05-07T00:00:00+00:00"
+  },
+  {
+    "title": "COPY Relocations",
+    "link": "https://crawshaw.io/blog/2016-04-17",
+    "pubDate": "2016-04-17T00:00:00+00:00",
+    "date": "2016-04-17T00:00:00+00:00"
+  },
+  {
+    "title": "Atom Feed",
+    "link": "https://crawshaw.io/blog/2016-04-16",
+    "pubDate": "2016-04-16T00:00:00+00:00",
+    "date": "2016-04-16T00:00:00+00:00"
+  },
+  {
+    "title": "2016-02-10",
+    "link": "https://crawshaw.io/blog/2016-02-10",
+    "pubDate": "2016-02-10T00:00:00+00:00",
+    "date": "2016-02-10T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-23",
+    "link": "https://crawshaw.io/blog/2016-01-23",
+    "pubDate": "2016-01-23T00:00:00+00:00",
+    "date": "2016-01-23T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-18",
+    "link": "https://crawshaw.io/blog/2016-01-18",
+    "pubDate": "2016-01-18T00:00:00+00:00",
+    "date": "2016-01-18T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-15",
+    "link": "https://crawshaw.io/blog/2016-01-15",
+    "pubDate": "2016-01-15T00:00:00+00:00",
+    "date": "2016-01-15T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-09",
+    "link": "https://crawshaw.io/blog/2016-01-09",
+    "pubDate": "2016-01-09T00:00:00+00:00",
+    "date": "2016-01-09T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-07",
+    "link": "https://crawshaw.io/blog/2016-01-07",
+    "pubDate": "2016-01-07T00:00:00+00:00",
+    "date": "2016-01-07T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-05",
+    "link": "https://crawshaw.io/blog/2016-01-05",
+    "pubDate": "2016-01-05T00:00:00+00:00",
+    "date": "2016-01-05T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-04",
+    "link": "https://crawshaw.io/blog/2016-01-04",
+    "pubDate": "2016-01-04T00:00:00+00:00",
+    "date": "2016-01-04T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-03",
+    "link": "https://crawshaw.io/blog/2016-01-03",
+    "pubDate": "2016-01-03T00:00:00+00:00",
+    "date": "2016-01-03T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-02",
+    "link": "https://crawshaw.io/blog/2016-01-02",
+    "pubDate": "2016-01-02T00:00:00+00:00",
+    "date": "2016-01-02T00:00:00+00:00"
+  },
+  {
+    "title": "2016-01-01",
+    "link": "https://crawshaw.io/blog/2016-01-01",
+    "pubDate": "2016-01-01T00:00:00+00:00",
+    "date": "2016-01-01T00:00:00+00:00"
+  },
+  {
+    "title": "2015-12-29",
+    "link": "https://crawshaw.io/blog/2015-12-29",
+    "pubDate": "2015-12-29T00:00:00+00:00",
+    "date": "2015-12-29T00:00:00+00:00"
   }
 ]

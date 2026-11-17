@@ -28,5 +28,95 @@
     "link": "http://www.developertoarchitect.com/lessons/lesson221.html",
     "pubDate": "2026-07-06T05:18:51+00:00",
     "date": "2026-07-06T05:18:51+00:00"
+  },
+  {
+    "title": "Lesson 220 - Collaborating With The Business (June 1, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson220.html",
+    "pubDate": "2026-05-30T17:05:47+00:00",
+    "date": "2026-05-30T17:05:47+00:00"
+  },
+  {
+    "title": "Lesson 219 - Fitness Function Driven Architecture Revisited (May 4, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson219.html",
+    "pubDate": "2026-04-29T17:58:25+00:00",
+    "date": "2026-04-29T17:58:25+00:00"
+  },
+  {
+    "title": "Lesson 218 - Thread Delegate Pattern (April 6, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson218.html",
+    "pubDate": "2026-01-30T20:11:41+00:00",
+    "date": "2026-01-30T20:11:41+00:00"
+  },
+  {
+    "title": "Lesson 217 - Supervisor-Consumer Pattern (March 2, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson217.html",
+    "pubDate": "2026-01-30T20:07:34+00:00",
+    "date": "2026-01-30T20:07:34+00:00"
+  },
+  {
+    "title": "Lesson 216 - Creating Scalable Systems (February 2, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson216.html",
+    "pubDate": "2026-01-30T19:49:04+00:00",
+    "date": "2026-01-30T19:49:04+00:00"
+  },
+  {
+    "title": "Lesson 215 - Fitness Function-Driven Architecture (January 5, 2026)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson215.html",
+    "pubDate": "2026-01-04T20:29:50+00:00",
+    "date": "2026-01-04T20:29:50+00:00"
+  },
+  {
+    "title": "Lesson 214 - Microservice All The Things Pitfall (December 1, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson214.html",
+    "pubDate": "2025-11-30T18:21:15+00:00",
+    "date": "2025-11-30T18:21:15+00:00"
+  },
+  {
+    "title": "Lesson 213 - Governing Architectural Constraints (November 3, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson213.html",
+    "pubDate": "2025-10-30T17:38:01+00:00",
+    "date": "2025-10-30T17:38:01+00:00"
+  },
+  {
+    "title": "Lesson 212 - A Framework for Stressor Analysis (October 6, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson212.html",
+    "pubDate": "2025-09-27T18:53:04+00:00",
+    "date": "2025-09-27T18:53:04+00:00"
+  },
+  {
+    "title": "Lesson 211 - Architectural Modularity (September 1, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson211.html",
+    "pubDate": "2025-08-29T12:41:57+00:00",
+    "date": "2025-08-29T12:41:57+00:00"
+  },
+  {
+    "title": "Lesson 210 - Architecture Definition Language (August 4, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson210.html",
+    "pubDate": "2025-08-01T16:44:55+00:00",
+    "date": "2025-08-01T16:44:55+00:00"
+  },
+  {
+    "title": "Lesson 209 - Fallacies of Software Architecture Part 1 (July 7, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson209.html",
+    "pubDate": "2025-07-06T16:21:12+00:00",
+    "date": "2025-07-06T16:21:12+00:00"
+  },
+  {
+    "title": "Lesson 208 - Architectural Intersections (June 9, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson208.html",
+    "pubDate": "2025-04-29T14:35:06+00:00",
+    "date": "2025-04-29T14:35:06+00:00"
+  },
+  {
+    "title": "Lesson 207 - Iterative Architecture (May 5, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson207.html",
+    "pubDate": "2025-04-29T14:30:28+00:00",
+    "date": "2025-04-29T14:30:28+00:00"
+  },
+  {
+    "title": "Lesson 206 - Architecture Decisions: Overcoming Analysis Paralysis (April 7, 2025)",
+    "link": "http://www.developertoarchitect.com/lessons/lesson206.html",
+    "pubDate": "2025-04-06T19:49:24+00:00",
+    "date": "2025-04-06T19:49:24+00:00"
   }
 ]

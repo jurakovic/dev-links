@@ -28,5 +28,35 @@
     "link": "https://blog.stephencleary.com/2024/04/metapost.html",
     "pubDate": "2024-04-25T00:00:00+00:00",
     "date": "2024-04-25T00:00:00+00:00"
+  },
+  {
+    "title": "C# Advent: The Joy of Immutable Update Patterns",
+    "link": "https://blog.stephencleary.com/2023/12/the-joy-of-immutable-update-patterns.html",
+    "pubDate": "2023-12-24T00:00:00+00:00",
+    "date": "2023-12-24T00:00:00+00:00"
+  },
+  {
+    "title": "ConfigureAwait in .NET 8",
+    "link": "https://blog.stephencleary.com/2023/11/configureawait-in-net-8.html",
+    "pubDate": "2023-11-09T00:00:00+00:00",
+    "date": "2023-11-09T00:00:00+00:00"
+  },
+  {
+    "title": "Padding for Overlaid Structs",
+    "link": "https://blog.stephencleary.com/2023/10/padding-for-overlaid-structs.html",
+    "pubDate": "2023-10-05T00:00:00+00:00",
+    "date": "2023-10-05T00:00:00+00:00"
+  },
+  {
+    "title": "Memory-Mapped Files and Overlaid Structs",
+    "link": "https://blog.stephencleary.com/2023/09/memory-mapped-files-overlaid-structs.html",
+    "pubDate": "2023-09-28T00:00:00+00:00",
+    "date": "2023-09-28T00:00:00+00:00"
+  },
+  {
+    "title": "Grounded ChatGPT",
+    "link": "https://blog.stephencleary.com/2023/05/grounded-chatgpt.html",
+    "pubDate": "2023-05-18T00:00:00+00:00",
+    "date": "2023-05-18T00:00:00+00:00"
   }
 ]

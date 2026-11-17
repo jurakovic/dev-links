@@ -28,5 +28,275 @@
     "link": "https://ardalis.com/why-care-about-agent-authored-code-quality/",
     "pubDate": "2026-06-29T19:57:34+00:00",
     "date": "2026-06-29T19:57:34+00:00"
+  },
+  {
+    "title": "Setting Up Claude Code Agent Teams With Wsl2 and Tmux on Windows",
+    "link": "https://ardalis.com/setting-up-claude-code-agent-teams-with-wsl2-and-tmux-on-windows/",
+    "pubDate": "2026-04-21T17:05:32+00:00",
+    "date": "2026-04-21T17:05:32+00:00"
+  },
+  {
+    "title": "Optimizing AI Agents with Progressive Disclosure",
+    "link": "https://ardalis.com/optimizing-ai-agents-with-progressive-disclosure/",
+    "pubDate": "2026-04-17T00:00:00+00:00",
+    "date": "2026-04-17T00:00:00+00:00"
+  },
+  {
+    "title": "How Software Developers Fail",
+    "link": "https://ardalis.com/how-software-developers-fail/",
+    "pubDate": "2026-04-15T00:00:00+00:00",
+    "date": "2026-04-15T00:00:00+00:00"
+  },
+  {
+    "title": "Claude Throttling and the Cloud",
+    "link": "https://ardalis.com/claude-throttling-and-the-cloud/",
+    "pubDate": "2026-04-07T00:00:00+00:00",
+    "date": "2026-04-07T00:00:00+00:00"
+  },
+  {
+    "title": "Own What Makes You You",
+    "link": "https://ardalis.com/own-what-makes-you-you/",
+    "pubDate": "2026-04-06T00:00:00+00:00",
+    "date": "2026-04-06T00:00:00+00:00"
+  },
+  {
+    "title": ".NET Conf Most Popular Sessions Tool",
+    "link": "https://ardalis.com/dotnetconf-most-popular-sessions-tool/",
+    "pubDate": "2026-04-01T20:47:18+00:00",
+    "date": "2026-04-01T20:47:18+00:00"
+  },
+  {
+    "title": "AI Benefits - But at What Cost?",
+    "link": "https://ardalis.com/ai-benefits---but-at-what-cost/",
+    "pubDate": "2026-03-19T20:17:07+00:00",
+    "date": "2026-03-19T20:17:07+00:00"
+  },
+  {
+    "title": "Use Asciinema and Powersession on Windows",
+    "link": "https://ardalis.com/use-asciinema-and-powersession-on-windows/",
+    "pubDate": "2026-03-19T15:31:56+00:00",
+    "date": "2026-03-19T15:31:56+00:00"
+  },
+  {
+    "title": "Llms Need Mark as Answer",
+    "link": "https://ardalis.com/llms-need-mark-as-answer/",
+    "pubDate": "2026-02-13T15:20:47+00:00",
+    "date": "2026-02-13T15:20:47+00:00"
+  },
+  {
+    "title": "2025 Year in Review",
+    "link": "https://ardalis.com/2025-year-in-review/",
+    "pubDate": "2026-02-09T13:34:11+00:00",
+    "date": "2026-02-09T13:34:11+00:00"
+  },
+  {
+    "title": "Why a Free Market Fire Department System Beats the Archaic Public Model",
+    "link": "https://ardalis.com/why-a-free-market-fire-department-systems-beats-the-archaic-public-model/",
+    "pubDate": "2026-01-09T14:00:00+00:00",
+    "date": "2026-01-09T14:00:00+00:00"
+  },
+  {
+    "title": "Single File Test Suites in Dotnet Csharp",
+    "link": "https://ardalis.com/single-file-tests-in-dotnet-csharp/",
+    "pubDate": "2025-12-02T21:16:18+00:00",
+    "date": "2025-12-02T21:16:18+00:00"
+  },
+  {
+    "title": "Use cd - in Powershell 7 to Return to Previous Directory",
+    "link": "https://ardalis.com/use-cd---in-powershell-7-to-return-to-previous-directory/",
+    "pubDate": "2025-12-02T16:16:30+00:00",
+    "date": "2025-12-02T16:16:30+00:00"
+  },
+  {
+    "title": "How to Update .NET on Wsl or Ubuntu",
+    "link": "https://ardalis.com/how-to-update-net-on-wsl-or-ubuntu/",
+    "pubDate": "2025-11-19T14:37:56+00:00",
+    "date": "2025-11-19T14:37:56+00:00"
+  },
+  {
+    "title": "Ardalis Fall 2025 Speaking Tour Review",
+    "link": "https://ardalis.com/ardalis-fall-2025-speaking-tour-review/",
+    "pubDate": "2025-11-14T00:00:00+00:00",
+    "date": "2025-11-14T00:00:00+00:00"
+  },
+  {
+    "title": "The Ardalis Cli",
+    "link": "https://ardalis.com/the-ardalis-cli/",
+    "pubDate": "2025-11-11T22:03:42+00:00",
+    "date": "2025-11-11T22:03:42+00:00"
+  },
+  {
+    "title": "Use TimeSpan Or Specify Units In Duration Properties And Parameters",
+    "link": "https://ardalis.com/use-timespan-or-specify-units-in-duration-properties-and-parameters/",
+    "pubDate": "2025-11-06T14:51:30+00:00",
+    "date": "2025-11-06T14:51:30+00:00"
+  },
+  {
+    "title": "Ardalis Fall 2025 Speaking Tour",
+    "link": "https://ardalis.com/ardalis-fall-2025-speaking-tour/",
+    "pubDate": "2025-09-27T00:00:00+00:00",
+    "date": "2025-09-27T00:00:00+00:00"
+  },
+  {
+    "title": "How to Combine MP4 Files on Windows Using FFmpeg",
+    "link": "https://ardalis.com/combine-mp4-files-ffmpeg-windows/",
+    "pubDate": "2025-07-24T00:00:00+00:00",
+    "date": "2025-07-24T00:00:00+00:00"
+  },
+  {
+    "title": "How to Install Nerd Fonts and Icons in PowerShell 7 on Windows 11",
+    "link": "https://ardalis.com/install-nerd-fonts-terminal-icons-pwsh-7-win-11/",
+    "pubDate": "2025-07-22T00:00:00+00:00",
+    "date": "2025-07-22T00:00:00+00:00"
+  },
+  {
+    "title": "GenAI is the new Offshoring",
+    "link": "https://ardalis.com/genai-is-the-new-offshoring/",
+    "pubDate": "2025-06-06T00:00:00+00:00",
+    "date": "2025-06-06T00:00:00+00:00"
+  },
+  {
+    "title": "Managing GenAI Coding Risk Like an Investment",
+    "link": "https://ardalis.com/genai-coding-investment-risk-strategy/",
+    "pubDate": "2025-06-05T00:00:00+00:00",
+    "date": "2025-06-05T00:00:00+00:00"
+  },
+  {
+    "title": "Ardalis Specification v9 Released",
+    "link": "https://ardalis.com/ardalis-specification-v9-release/",
+    "pubDate": "2025-03-13T00:00:00+00:00",
+    "date": "2025-03-13T00:00:00+00:00"
+  },
+  {
+    "title": "2024 Year In Review",
+    "link": "https://ardalis.com/2024-year-in-review/",
+    "pubDate": "2025-02-26T00:00:00+00:00",
+    "date": "2025-02-26T00:00:00+00:00"
+  },
+  {
+    "title": "When QA Keeps Finding Bugs",
+    "link": "https://ardalis.com/when-qa-keeps-finding-bugs/",
+    "pubDate": "2025-02-12T00:00:00+00:00",
+    "date": "2025-02-12T00:00:00+00:00"
+  },
+  {
+    "title": "Avoid Using C# Events in ASP.NET Core Applications",
+    "link": "https://ardalis.com/avoid-using-csharp-events-in-aspnetcore-apps/",
+    "pubDate": "2024-12-15T00:00:00+00:00",
+    "date": "2024-12-15T00:00:00+00:00"
+  },
+  {
+    "title": "Interfaces Describe What - Implementations Describe How",
+    "link": "https://ardalis.com/interfaces-describe-what-implementations-describe-how/",
+    "pubDate": "2024-09-23T00:00:00+00:00",
+    "date": "2024-09-23T00:00:00+00:00"
+  },
+  {
+    "title": "You Should Blog",
+    "link": "https://ardalis.com/you-should-blog/",
+    "pubDate": "2024-08-26T00:00:00+00:00",
+    "date": "2024-08-26T00:00:00+00:00"
+  },
+  {
+    "title": "From Microservices to Modular Monoliths",
+    "link": "https://ardalis.com/from-microservices-to-modular-monoliths/",
+    "pubDate": "2024-07-10T00:00:00+00:00",
+    "date": "2024-07-10T00:00:00+00:00"
+  },
+  {
+    "title": "Modeling Navigation Properties Between Aggregates or Modules",
+    "link": "https://ardalis.com/navigation-properties-between-aggregates-modules/",
+    "pubDate": "2024-06-19T00:00:00+00:00",
+    "date": "2024-06-19T00:00:00+00:00"
+  },
+  {
+    "title": "Comparing Unit Testable Code with Maintainable Code",
+    "link": "https://ardalis.com/comparing-unit-testable-code-with-maintainable-code/",
+    "pubDate": "2024-06-12T00:00:00+00:00",
+    "date": "2024-06-12T00:00:00+00:00"
+  },
+  {
+    "title": "Effectively Sharing Resources Between Modules in a Modular Monolith",
+    "link": "https://ardalis.com/effectively-sharing-resources-between-modules-modular-monolith/",
+    "pubDate": "2024-05-24T00:00:00+00:00",
+    "date": "2024-05-24T00:00:00+00:00"
+  },
+  {
+    "title": "Clean Architecture Sucks",
+    "link": "https://ardalis.com/clean-architecture-sucks/",
+    "pubDate": "2024-05-23T00:00:00+00:00",
+    "date": "2024-05-23T00:00:00+00:00"
+  },
+  {
+    "title": "Navigating the Edges of Technology in Software Development: Bleeding, Leading, Dull, and Rusting",
+    "link": "https://ardalis.com/technology-edges-bleeding-leading-rusting/",
+    "pubDate": "2024-04-19T00:00:00+00:00",
+    "date": "2024-04-19T00:00:00+00:00"
+  },
+  {
+    "title": "Stop Debugging and Start Running in Visual Studio",
+    "link": "https://ardalis.com/stop-debugging-start-running-visual-studio/",
+    "pubDate": "2024-04-18T00:00:00+00:00",
+    "date": "2024-04-18T00:00:00+00:00"
+  },
+  {
+    "title": "5 Rules for DTOs",
+    "link": "https://ardalis.com/5-rules-dtos/",
+    "pubDate": "2024-04-06T00:00:00+00:00",
+    "date": "2024-04-06T00:00:00+00:00"
+  },
+  {
+    "title": "An Active Local NuGet Server",
+    "link": "https://ardalis.com/active-local-nuget-server/",
+    "pubDate": "2024-02-22T00:00:00+00:00",
+    "date": "2024-02-22T00:00:00+00:00"
+  },
+  {
+    "title": "Introducing Modular Monoliths: The Goldilocks Architecture",
+    "link": "https://ardalis.com/introducing-modular-monoliths-goldilocks-architecture/",
+    "pubDate": "2024-02-21T00:00:00+00:00",
+    "date": "2024-02-21T00:00:00+00:00"
+  },
+  {
+    "title": "Hello, MongoDB - Getting Started with Mongo and dotnet 8",
+    "link": "https://ardalis.com/hello-mongodb-getting-started-mongo-dotnet/",
+    "pubDate": "2024-02-15T00:00:00+00:00",
+    "date": "2024-02-15T00:00:00+00:00"
+  },
+  {
+    "title": "Hello, Redis - Getting Started with Redis and dotnet 8",
+    "link": "https://ardalis.com/hello-redis-getting-started-with-redis-dotnet/",
+    "pubDate": "2024-02-11T00:00:00+00:00",
+    "date": "2024-02-11T00:00:00+00:00"
+  },
+  {
+    "title": "Solved! Visual Studio.http File Not Sending Authorization Header",
+    "link": "https://ardalis.com/http-file-not-sending-auth-header/",
+    "pubDate": "2024-02-01T00:00:00+00:00",
+    "date": "2024-02-01T00:00:00+00:00"
+  },
+  {
+    "title": "Log Request Headers Middleware for ASP.NET Core",
+    "link": "https://ardalis.com/log-request-headers-middleware/",
+    "pubDate": "2024-01-31T00:00:00+00:00",
+    "date": "2024-01-31T00:00:00+00:00"
+  },
+  {
+    "title": "2023 Year in Review",
+    "link": "https://ardalis.com/2023-year-in-review/",
+    "pubDate": "2024-01-23T00:00:00+00:00",
+    "date": "2024-01-23T00:00:00+00:00"
+  },
+  {
+    "title": "Scaling Your Software Team: Development vs. Hiring",
+    "link": "https://ardalis.com/scaling-your-software-team-develop-vs-hiring/",
+    "pubDate": "2023-12-20T00:00:00+00:00",
+    "date": "2023-12-20T00:00:00+00:00"
+  },
+  {
+    "title": "How to Embed a YouTube Video in GitHub ReadMe Markdown",
+    "link": "https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/",
+    "pubDate": "2023-11-23T11:04:10+00:00",
+    "date": "2023-11-23T11:04:10+00:00"
   }
 ]

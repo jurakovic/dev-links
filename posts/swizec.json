@@ -28,5 +28,275 @@
     "link": "https://swizec.com/blog/why-im-excited-about-jev-like-classifiers",
     "pubDate": "2026-09-29T16:01:46+00:00",
     "date": "2026-09-29T16:01:46+00:00"
+  },
+  {
+    "title": "We now auto-approve and merge 15% of PRs",
+    "link": "https://swizec.com/blog/we-now-auto-approve-and-merge-15p-of-prs",
+    "pubDate": "2026-09-19T00:00:00+00:00",
+    "date": "2026-09-19T00:00:00+00:00"
+  },
+  {
+    "title": "What B2B SaaS taught me about having kids",
+    "link": "https://swizec.com/blog/what-b2-b-saa-s-taught-me-about-having-kids",
+    "pubDate": "2026-09-05T00:00:00+00:00",
+    "date": "2026-09-05T00:00:00+00:00"
+  },
+  {
+    "title": "Focus and followthrough are the moat",
+    "link": "https://swizec.com/blog/focus-and-followthrough-are-the-moat",
+    "pubDate": "2026-08-27T00:00:00+00:00",
+    "date": "2026-08-27T00:00:00+00:00"
+  },
+  {
+    "title": "Stop burning tokens on code review",
+    "link": "https://swizec.com/blog/stop-burning-tokens-on-code-review",
+    "pubDate": "2026-08-15T00:00:00+00:00",
+    "date": "2026-08-15T00:00:00+00:00"
+  },
+  {
+    "title": "Beware the spaceships",
+    "link": "https://swizec.com/blog/beware-the-spaceships",
+    "pubDate": "2026-08-08T00:00:00+00:00",
+    "date": "2026-08-08T00:00:00+00:00"
+  },
+  {
+    "title": "Agents change the math on big bang migrations",
+    "link": "https://swizec.com/blog/agents-change-the-math-on-big-bang-migrations",
+    "pubDate": "2026-08-01T00:00:00+00:00",
+    "date": "2026-08-01T00:00:00+00:00"
+  },
+  {
+    "title": "How to be useful as a software architect",
+    "link": "https://swizec.com/blog/how-to-be-useful-as-a-software-architect",
+    "pubDate": "2026-07-25T00:00:00+00:00",
+    "date": "2026-07-25T00:00:00+00:00"
+  },
+  {
+    "title": "swizec.com is now on TimberJS, a new React framework",
+    "link": "https://swizec.com/blog/swizec-com-is-now-on-timber-js-a-new-react-framework",
+    "pubDate": "2026-07-21T00:00:00+00:00",
+    "date": "2026-07-21T00:00:00+00:00"
+  },
+  {
+    "title": "The one thing every experienced engineer gets wrong",
+    "link": "https://swizec.com/blog/the-one-thing-every-experienced-engineer-gets-wrong",
+    "pubDate": "2026-07-11T00:00:00+00:00",
+    "date": "2026-07-11T00:00:00+00:00"
+  },
+  {
+    "title": "Theory of constraints, AI, and code review",
+    "link": "https://swizec.com/blog/theory-of-constraints-ai-and-code-review",
+    "pubDate": "2026-07-06T00:00:00+00:00",
+    "date": "2026-07-06T00:00:00+00:00"
+  },
+  {
+    "title": "Using vibes to rewrite my blog",
+    "link": "https://swizec.com/blog/using-vibes-to-rewrite-my-blog",
+    "pubDate": "2026-06-27T00:00:00+00:00",
+    "date": "2026-06-27T00:00:00+00:00"
+  },
+  {
+    "title": "You get what you hire",
+    "link": "https://swizec.com/blog/you-get-what-you-hire",
+    "pubDate": "2026-06-23T00:00:00+00:00",
+    "date": "2026-06-23T00:00:00+00:00"
+  },
+  {
+    "title": "Code is the easy part, or how we refactored half the business to fix a janky script",
+    "link": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script",
+    "pubDate": "2026-06-17T00:00:00+00:00",
+    "date": "2026-06-17T00:00:00+00:00"
+  },
+  {
+    "title": "Good software gets out of the way",
+    "link": "https://swizec.com/blog/good-software-gets-out-of-the-way",
+    "pubDate": "2026-06-04T00:00:00+00:00",
+    "date": "2026-06-04T00:00:00+00:00"
+  },
+  {
+    "title": "User outcomes, workflow design, and biotech software",
+    "link": "https://swizec.com/interviews/become-an-epic-product-engineer",
+    "pubDate": "2026-06-03T00:00:00+00:00",
+    "date": "2026-06-03T00:00:00+00:00"
+  },
+  {
+    "title": "Dear [Software Engineering]",
+    "link": "https://swizec.com/interviews/dear-cc",
+    "pubDate": "2026-05-28T00:00:00+00:00",
+    "date": "2026-05-28T00:00:00+00:00"
+  },
+  {
+    "title": "Relentlessly focus on the outcomes",
+    "link": "https://swizec.com/blog/relentlessly-focus-on-the-outcomes",
+    "pubDate": "2026-05-26T00:00:00+00:00",
+    "date": "2026-05-26T00:00:00+00:00"
+  },
+  {
+    "title": "Engineering levels aren't about skill anymore",
+    "link": "https://swizec.com/blog/engineering-levels-arent-about-skill-anymore",
+    "pubDate": "2026-05-19T00:00:00+00:00",
+    "date": "2026-05-19T00:00:00+00:00"
+  },
+  {
+    "title": "Just fix their PR",
+    "link": "https://swizec.com/blog/just-fix-their-pr",
+    "pubDate": "2026-05-13T00:00:00+00:00",
+    "date": "2026-05-13T00:00:00+00:00"
+  },
+  {
+    "title": "\"But if AI does it all, what's *my* job?\"",
+    "link": "https://swizec.com/blog/but-if-ai-does-it-all-whats-my-job",
+    "pubDate": "2026-05-09T00:00:00+00:00",
+    "date": "2026-05-09T00:00:00+00:00"
+  },
+  {
+    "title": "Using AI at work on This Month in React",
+    "link": "https://swizec.com/interviews/this-month-in-react",
+    "pubDate": "2026-05-07T00:00:00+00:00",
+    "date": "2026-05-07T00:00:00+00:00"
+  },
+  {
+    "title": "What you need to make an agent",
+    "link": "https://swizec.com/blog/what-you-need-to-make-an-agent",
+    "pubDate": "2026-05-05T00:00:00+00:00",
+    "date": "2026-05-05T00:00:00+00:00"
+  },
+  {
+    "title": "Quick note on evals and putting AI in your resume",
+    "link": "https://swizec.com/blog/quick-note-on-evals-and-putting-ai-in-your-resume",
+    "pubDate": "2026-05-01T00:00:00+00:00",
+    "date": "2026-05-01T00:00:00+00:00"
+  },
+  {
+    "title": "AI now writes 97% of my code. Here's what I learned",
+    "link": "https://swizec.com/blog/ai-now-writes-97-of-my-code-heres-what-i-learned",
+    "pubDate": "2026-04-25T00:00:00+00:00",
+    "date": "2026-04-25T00:00:00+00:00"
+  },
+  {
+    "title": "Just Read the Paper",
+    "link": "https://swizec.com/blog/just-read-the-paper",
+    "pubDate": "2026-04-20T00:00:00+00:00",
+    "date": "2026-04-20T00:00:00+00:00"
+  },
+  {
+    "title": "Watch people work",
+    "link": "https://swizec.com/blog/watch-people-work",
+    "pubDate": "2026-04-14T00:00:00+00:00",
+    "date": "2026-04-14T00:00:00+00:00"
+  },
+  {
+    "title": "Frustration Driven Development",
+    "link": "https://swizec.com/blog/frustration-driven-development",
+    "pubDate": "2026-04-02T00:00:00+00:00",
+    "date": "2026-04-02T00:00:00+00:00"
+  },
+  {
+    "title": "Software engineer interviews for the age of AI",
+    "link": "https://swizec.com/blog/software-engineer-interviews-for-the-age-of-ai",
+    "pubDate": "2026-03-25T00:00:00+00:00",
+    "date": "2026-03-25T00:00:00+00:00"
+  },
+  {
+    "title": "The best engineers just get shit done, sometimes with AI",
+    "link": "https://swizec.com/blog/the-best-engineers-just-get-shit-done-sometimes-with-ai",
+    "pubDate": "2026-03-19T00:00:00+00:00",
+    "date": "2026-03-19T00:00:00+00:00"
+  },
+  {
+    "title": "Swizec Teller on JS-Craft",
+    "link": "https://swizec.com/interviews/js-craft",
+    "pubDate": "2026-03-16T00:00:00+00:00",
+    "date": "2026-03-16T00:00:00+00:00"
+  },
+  {
+    "title": "Taming chaos is a learnable skill",
+    "link": "https://swizec.com/blog/taming-chaos-is-a-learnable-skill",
+    "pubDate": "2026-03-11T00:00:00+00:00",
+    "date": "2026-03-11T00:00:00+00:00"
+  },
+  {
+    "title": "Put scope on your resume",
+    "link": "https://swizec.com/blog/put-scope-on-your-resume",
+    "pubDate": "2026-03-04T00:00:00+00:00",
+    "date": "2026-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Probably the realest thing I ever wrote",
+    "link": "https://swizec.com/blog/probably-the-realest-thing-i-ever-wrote",
+    "pubDate": "2026-02-28T00:00:00+00:00",
+    "date": "2026-02-28T00:00:00+00:00"
+  },
+  {
+    "title": "Users buy your service, not your code",
+    "link": "https://swizec.com/blog/users-buy-your-service-not-your-code",
+    "pubDate": "2026-02-18T00:00:00+00:00",
+    "date": "2026-02-18T00:00:00+00:00"
+  },
+  {
+    "title": "GeLLMan amnesia",
+    "link": "https://swizec.com/blog/ge-ll-man-amnesia",
+    "pubDate": "2026-02-16T00:00:00+00:00",
+    "date": "2026-02-16T00:00:00+00:00"
+  },
+  {
+    "title": "Code is cheap, reliability isn't",
+    "link": "https://swizec.com/interviews/humans-of-reliability",
+    "pubDate": "2026-02-16T00:00:00+00:00",
+    "date": "2026-02-16T00:00:00+00:00"
+  },
+  {
+    "title": "The 3 curves that make a scalable business",
+    "link": "https://swizec.com/blog/the-3-curves-that-make-a-scalable-business",
+    "pubDate": "2026-02-10T00:00:00+00:00",
+    "date": "2026-02-10T00:00:00+00:00"
+  },
+  {
+    "title": "In praise of the stacked pull request",
+    "link": "https://swizec.com/blog/in-praise-of-the-stacked-pull-request",
+    "pubDate": "2026-02-04T00:00:00+00:00",
+    "date": "2026-02-04T00:00:00+00:00"
+  },
+  {
+    "title": "How you migrate is everything",
+    "link": "https://swizec.com/blog/how-you-migrate-is-everything",
+    "pubDate": "2026-01-31T00:00:00+00:00",
+    "date": "2026-01-31T00:00:00+00:00"
+  },
+  {
+    "title": "The future of software engineering is SRE",
+    "link": "https://swizec.com/blog/the-future-of-software-engineering-is-sre",
+    "pubDate": "2026-01-24T00:00:00+00:00",
+    "date": "2026-01-24T00:00:00+00:00"
+  },
+  {
+    "title": "A tough job market is the best time to start something",
+    "link": "https://swizec.com/blog/a-tough-job-market-is-the-best-time-to-start-something",
+    "pubDate": "2026-01-17T00:00:00+00:00",
+    "date": "2026-01-17T00:00:00+00:00"
+  },
+  {
+    "title": "Place good startup bets",
+    "link": "https://swizec.com/blog/place-good-startup-bets",
+    "pubDate": "2026-01-14T00:00:00+00:00",
+    "date": "2026-01-14T00:00:00+00:00"
+  },
+  {
+    "title": "Small projects, clear scope",
+    "link": "https://swizec.com/blog/small-projects-clear-scope",
+    "pubDate": "2026-01-10T00:00:00+00:00",
+    "date": "2026-01-10T00:00:00+00:00"
+  },
+  {
+    "title": "A better way to end-to-end test your webapp",
+    "link": "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
+    "pubDate": "2026-01-06T00:00:00+00:00",
+    "date": "2026-01-06T00:00:00+00:00"
+  },
+  {
+    "title": "2025 Year in Review",
+    "link": "https://swizec.com/blog/2025-year-in-review",
+    "pubDate": "2026-01-02T00:00:00+00:00",
+    "date": "2026-01-02T00:00:00+00:00"
   }
 ]

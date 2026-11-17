@@ -28,5 +28,275 @@
     "link": "https://steipete.me/posts/2025/claude-code-anonymous/",
     "pubDate": "2025-09-09T10:00:00+00:00",
     "date": "2025-09-09T10:00:00+00:00"
+  },
+  {
+    "title": "Live Coding Session: Building Arena",
+    "link": "https://steipete.me/posts/2025/live-coding-session-building-arena/",
+    "pubDate": "2025-09-06T10:00:00+00:00",
+    "date": "2025-09-06T10:00:00+00:00"
+  },
+  {
+    "title": "My Current AI Dev Workflow",
+    "link": "https://steipete.me/posts/2025/optimal-ai-development-workflow/",
+    "pubDate": "2025-08-25T09:00:00+00:00",
+    "date": "2025-08-25T09:00:00+00:00"
+  },
+  {
+    "title": "Essential Reading for Agentic Engineers - August 2025",
+    "link": "https://steipete.me/posts/2025/essential-reading-august-2025/",
+    "pubDate": "2025-08-22T01:00:00+00:00",
+    "date": "2025-08-22T01:00:00+00:00"
+  },
+  {
+    "title": "Just One More Prompt",
+    "link": "https://steipete.me/posts/just-one-more-prompt/",
+    "pubDate": "2025-08-19T08:00:00+00:00",
+    "date": "2025-08-19T08:00:00+00:00"
+  },
+  {
+    "title": "Poltergeist: The Ghost That Keeps Your Builds Fresh",
+    "link": "https://steipete.me/posts/2025/poltergeist-ghost-keeps-builds-fresh/",
+    "pubDate": "2025-08-05T14:00:00+00:00",
+    "date": "2025-08-05T14:00:00+00:00"
+  },
+  {
+    "title": "Don't read this Startup Slop",
+    "link": "https://steipete.me/posts/2025/startup-slop/",
+    "pubDate": "2025-08-02T14:00:00+00:00",
+    "date": "2025-08-02T14:00:00+00:00"
+  },
+  {
+    "title": "Essential Reading for Agentic Engineers - July 2025",
+    "link": "https://steipete.me/posts/2025/essential-reading-july-2025/",
+    "pubDate": "2025-08-02T01:00:00+00:00",
+    "date": "2025-08-02T01:00:00+00:00"
+  },
+  {
+    "title": "Self-Hosting AI Models After Claude's Usage Limits",
+    "link": "https://steipete.me/posts/2025/self-hosting-ai-models/",
+    "pubDate": "2025-07-31T09:00:00+00:00",
+    "date": "2025-07-31T09:00:00+00:00"
+  },
+  {
+    "title": "Logging Privacy Shenanigans",
+    "link": "https://steipete.me/posts/2025/logging-privacy-shenanigans/",
+    "pubDate": "2025-07-29T07:00:00+00:00",
+    "date": "2025-07-29T07:00:00+00:00"
+  },
+  {
+    "title": "VibeTunnel's first AI-anniversary",
+    "link": "https://steipete.me/posts/2025/vibetunnel-first-anniversary/",
+    "pubDate": "2025-07-16T19:00:00+00:00",
+    "date": "2025-07-16T19:00:00+00:00"
+  },
+  {
+    "title": "Making AppleScript Work in macOS CLI Tools: The Undocumented Parts",
+    "link": "https://steipete.me/posts/2025/applescript-cli-macos-complete-guide/",
+    "pubDate": "2025-07-03T13:00:00+00:00",
+    "date": "2025-07-03T13:00:00+00:00"
+  },
+  {
+    "title": "Peekaboo 2.0 – Free the CLI from its MCP shackles",
+    "link": "https://steipete.me/posts/2025/peekaboo-2-freeing-the-cli-from-its-mcp-shackles/",
+    "pubDate": "2025-07-03T01:00:00+00:00",
+    "date": "2025-07-03T01:00:00+00:00"
+  },
+  {
+    "title": "Command your Claude Code Army, Reloaded",
+    "link": "https://steipete.me/posts/command-your-claude-code-army-reloaded/",
+    "pubDate": "2025-07-03T00:00:00+00:00",
+    "date": "2025-07-03T00:00:00+00:00"
+  },
+  {
+    "title": "Essential Reading for Agentic Engineers",
+    "link": "https://steipete.me/posts/2025/essential-reading/",
+    "pubDate": "2025-07-01T02:00:00+00:00",
+    "date": "2025-07-01T02:00:00+00:00"
+  },
+  {
+    "title": "Slot Machines for Programmers: How Peter Builds Apps 20x Faster with AI",
+    "link": "https://steipete.me/posts/2025/when-ai-meets-madness-peters-16-hour-days/",
+    "pubDate": "2025-06-25T17:00:00+00:00",
+    "date": "2025-06-25T17:00:00+00:00"
+  },
+  {
+    "title": "My AI Workflow for Understanding Any Codebase",
+    "link": "https://steipete.me/posts/2025/understanding-codebases-with-ai-gemini-workflow/",
+    "pubDate": "2025-06-25T12:00:00+00:00",
+    "date": "2025-06-25T12:00:00+00:00"
+  },
+  {
+    "title": "stats.store: Privacy-First Sparkle Analytics",
+    "link": "https://steipete.me/posts/2025/stats-store-privacy-first-sparkle-analytics/",
+    "pubDate": "2025-06-18T09:00:00+00:00",
+    "date": "2025-06-18T09:00:00+00:00"
+  },
+  {
+    "title": "Showing Settings from macOS Menu Bar Items: A 5-Hour Journey",
+    "link": "https://steipete.me/posts/2025/showing-settings-from-macos-menu-bar-items/",
+    "pubDate": "2025-06-17T11:00:00+00:00",
+    "date": "2025-06-17T11:00:00+00:00"
+  },
+  {
+    "title": "VibeTunnel: Turn Any Browser into Your Mac's Terminal",
+    "link": "https://steipete.me/posts/2025/vibetunnel-turn-any-browser-into-your-mac-terminal/",
+    "pubDate": "2025-06-16T11:00:00+00:00",
+    "date": "2025-06-16T11:00:00+00:00"
+  },
+  {
+    "title": "Vibe Meter 2.0: Calculating Claude Code Usage with Token Counting",
+    "link": "https://steipete.me/posts/2025/vibe-meter-2-claude-code-usage-calculation/",
+    "pubDate": "2025-06-15T18:00:00+00:00",
+    "date": "2025-06-15T18:00:00+00:00"
+  },
+  {
+    "title": "llm.codes: Make Apple Docs AI-Readable",
+    "link": "https://steipete.me/posts/2025/llm-codes-transform-developer-docs/",
+    "pubDate": "2025-06-14T13:22:16+00:00",
+    "date": "2025-06-14T13:22:16+00:00"
+  },
+  {
+    "title": "Automatic Observation Tracking in UIKit and AppKit: The Feature Apple Forgot to Mention",
+    "link": "https://steipete.me/posts/2025/automatic-observation-tracking-uikit-appkit/",
+    "pubDate": "2025-06-11T09:00:00+00:00",
+    "date": "2025-06-11T09:00:00+00:00"
+  },
+  {
+    "title": "Peekaboo MCP – lightning-fast macOS screenshots for AI agents",
+    "link": "https://steipete.me/posts/2025/peekaboo-mcp-lightning-fast-macos-screenshots-for-ai-agents/",
+    "pubDate": "2025-06-07T11:00:00+00:00",
+    "date": "2025-06-07T11:00:00+00:00"
+  },
+  {
+    "title": "Migrating 700+ Tests to Swift Testing: A Real-World Experience",
+    "link": "https://steipete.me/posts/2025/migrating-700-tests-to-swift-testing/",
+    "pubDate": "2025-06-06T18:00:00+00:00",
+    "date": "2025-06-06T18:00:00+00:00"
+  },
+  {
+    "title": "Commanding Your Claude Code Army",
+    "link": "https://steipete.me/posts/2025/commanding-your-claude-code-army/",
+    "pubDate": "2025-06-05T09:00:00+00:00",
+    "date": "2025-06-05T09:00:00+00:00"
+  },
+  {
+    "title": "Code Signing and Notarization: Sparkle and Tears",
+    "link": "https://steipete.me/posts/2025/code-signing-and-notarization-sparkle-and-tears/",
+    "pubDate": "2025-06-05T07:00:00+00:00",
+    "date": "2025-06-05T07:00:00+00:00"
+  },
+  {
+    "title": "Vibe Meter: Monitor Your AI Costs",
+    "link": "https://steipete.me/posts/2025/vibe-meter-monitor-your-ai-costs/",
+    "pubDate": "2025-06-04T11:00:00+00:00",
+    "date": "2025-06-04T11:00:00+00:00"
+  },
+  {
+    "title": "Claude Code is My Computer",
+    "link": "https://steipete.me/posts/2025/claude-code-is-my-computer/",
+    "pubDate": "2025-06-03T08:00:00+00:00",
+    "date": "2025-06-03T08:00:00+00:00"
+  },
+  {
+    "title": "Stop Over-thinking AI Subscriptions",
+    "link": "https://steipete.me/posts/2025/stop-overthinking-ai-subscriptions/",
+    "pubDate": "2025-06-02T09:00:00+00:00",
+    "date": "2025-06-02T09:00:00+00:00"
+  },
+  {
+    "title": "Introducing Demark: HTML in. MD out. Blink-fast.",
+    "link": "https://steipete.me/posts/2025/introducing-demark-html-to-markdown-in-swift/",
+    "pubDate": "2025-06-01T18:45:00+00:00",
+    "date": "2025-06-01T18:45:00+00:00"
+  },
+  {
+    "title": "The Future of Vibe Coding: Building with AI, Live and Unfiltered",
+    "link": "https://steipete.me/posts/2025/the-future-of-vibe-coding/",
+    "pubDate": "2025-06-01T15:00:00+00:00",
+    "date": "2025-06-01T15:00:00+00:00"
+  },
+  {
+    "title": "MCP Best Practices",
+    "link": "https://steipete.me/posts/2025/mcp-best-practices/",
+    "pubDate": "2025-06-01T14:00:00+00:00",
+    "date": "2025-06-01T14:00:00+00:00"
+  },
+  {
+    "title": "Finding My Spark Again",
+    "link": "https://steipete.me/posts/2025/finding-my-spark-again/",
+    "pubDate": "2025-06-01T13:00:00+00:00",
+    "date": "2025-06-01T13:00:00+00:00"
+  },
+  {
+    "title": "Top-Level Menu Visibility in SwiftUI for macOS",
+    "link": "https://steipete.me/posts/2021/top-level-menu-visibility-in-swiftui/",
+    "pubDate": "2021-04-09T16:00:00+00:00",
+    "date": "2021-04-09T16:00:00+00:00"
+  },
+  {
+    "title": "Fixing keyboardShortcut in SwiftUI",
+    "link": "https://steipete.me/posts/2021/fixing-keyboardshortcut-in-swiftui/",
+    "pubDate": "2021-01-31T11:30:00+00:00",
+    "date": "2021-01-31T11:30:00+00:00"
+  },
+  {
+    "title": "Supporting Both Tap and Long Press on a Button in SwiftUI",
+    "link": "https://steipete.me/posts/2021/supporting-both-tap-and-longpress-on-button-in-swiftui/",
+    "pubDate": "2021-01-27T16:30:00+00:00",
+    "date": "2021-01-27T16:30:00+00:00"
+  },
+  {
+    "title": "On Using Apple Silicon Mac Mini for Continuous Integration",
+    "link": "https://steipete.me/posts/2020/apple-silicon-mac-mini-for-ci/",
+    "pubDate": "2020-12-14T09:30:00+00:00",
+    "date": "2020-12-14T09:30:00+00:00"
+  },
+  {
+    "title": "Apple Silicon M1: A Developer's Perspective",
+    "link": "https://steipete.me/posts/2020/apple-silicon-m1-a-developer-perspective/",
+    "pubDate": "2020-11-28T13:00:00+00:00",
+    "date": "2020-11-28T13:00:00+00:00"
+  },
+  {
+    "title": "Gardening Your Twitter: Curating Your Timeline",
+    "link": "https://steipete.me/posts/2020/curating-your-twitter-timeline/",
+    "pubDate": "2020-10-21T14:00:00+00:00",
+    "date": "2020-10-21T14:00:00+00:00"
+  },
+  {
+    "title": "Gardening Your Twitter: Growing Your Followers",
+    "link": "https://steipete.me/posts/2020/growing-your-twitter-followers/",
+    "pubDate": "2020-10-21T13:00:00+00:00",
+    "date": "2020-10-21T13:00:00+00:00"
+  },
+  {
+    "title": "Forbidden Controls in Catalyst: Optimize Interface for Mac",
+    "link": "https://steipete.me/posts/2020/forbidden-controls-in-catalyst-mac-idiom/",
+    "pubDate": "2020-09-22T18:00:00+00:00",
+    "date": "2020-09-22T18:00:00+00:00"
+  },
+  {
+    "title": "Disabling Keyboard Avoidance in SwiftUI's UIHostingController",
+    "link": "https://steipete.me/posts/2020/disabling-keyboard-avoidance-in-swiftui-uihostingcontroller/",
+    "pubDate": "2020-09-21T20:00:00+00:00",
+    "date": "2020-09-21T20:00:00+00:00"
+  },
+  {
+    "title": "The State of SwiftUI",
+    "link": "https://steipete.me/posts/2020/state-of-swiftui/",
+    "pubDate": "2020-09-13T09:00:00+00:00",
+    "date": "2020-09-13T09:00:00+00:00"
+  },
+  {
+    "title": "Logging in Swift",
+    "link": "https://steipete.me/posts/2020/logging-in-swift/",
+    "pubDate": "2020-08-24T17:00:00+00:00",
+    "date": "2020-08-24T17:00:00+00:00"
+  },
+  {
+    "title": "Building with Swift Trunk Development Snapshots",
+    "link": "https://steipete.me/posts/2020/building-with-swift-trunk/",
+    "pubDate": "2020-06-12T15:00:00+00:00",
+    "date": "2020-06-12T15:00:00+00:00"
   }
 ]

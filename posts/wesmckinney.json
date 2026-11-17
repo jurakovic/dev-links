@@ -28,5 +28,95 @@
     "link": "https://wesmckinney.com/blog/agent-ergonomics/",
     "pubDate": "2026-01-20T06:00:00+00:00",
     "date": "2026-01-20T06:00:00+00:00"
+  },
+  {
+    "title": "Why Not?",
+    "link": "https://wesmckinney.com/blog/why-not/",
+    "pubDate": "2026-01-11T06:00:00+00:00",
+    "date": "2026-01-11T06:00:00+00:00"
+  },
+  {
+    "title": "Can LLMs give us AGI if they are bad at arithmetic?",
+    "link": "https://wesmckinney.com/blog/llms-arithmetic/",
+    "pubDate": "2025-12-01T06:00:00+00:00",
+    "date": "2025-12-01T06:00:00+00:00"
+  },
+  {
+    "title": "Joining Posit’s Polyglot Data Science Mission",
+    "link": "https://wesmckinney.com/blog/joining-posit/",
+    "pubDate": "2023-11-06T06:00:00+00:00",
+    "date": "2023-11-06T06:00:00+00:00"
+  },
+  {
+    "title": "Voltron Data Update: Transitions",
+    "link": "https://wesmckinney.com/blog/voltron-data-transitions/",
+    "pubDate": "2023-10-23T05:00:00+00:00",
+    "date": "2023-10-23T05:00:00+00:00"
+  },
+  {
+    "title": "The Road to Composable Data Systems: Thoughts on the Last 15 Years and the Future",
+    "link": "https://wesmckinney.com/blog/looking-back-15-years/",
+    "pubDate": "2023-09-01T05:00:00+00:00",
+    "date": "2023-09-01T05:00:00+00:00"
+  },
+  {
+    "title": "Joining Forces for an Arrow-Native Future",
+    "link": "https://wesmckinney.com/blog/from-ursa-to-voltrondata/",
+    "pubDate": "2021-08-05T05:00:00+00:00",
+    "date": "2021-08-05T05:00:00+00:00"
+  },
+  {
+    "title": "Ursa Labs March 2019 Report",
+    "link": "https://wesmckinney.com/blog/ursa-labs-march-2019/",
+    "pubDate": "2019-04-04T05:00:00+00:00",
+    "date": "2019-04-04T05:00:00+00:00"
+  },
+  {
+    "title": "Ursa Labs February 2019 Report",
+    "link": "https://wesmckinney.com/blog/ursa-labs-february-2019/",
+    "pubDate": "2019-03-06T06:00:00+00:00",
+    "date": "2019-03-06T06:00:00+00:00"
+  },
+  {
+    "title": "Ursa Labs January 2019 Report",
+    "link": "https://wesmckinney.com/blog/ursa-labs-january-2019/",
+    "pubDate": "2019-02-05T06:00:00+00:00",
+    "date": "2019-02-05T06:00:00+00:00"
+  },
+  {
+    "title": "Leaving NYC for Nashville",
+    "link": "https://wesmckinney.com/blog/leaving-nyc-for-nashville/",
+    "pubDate": "2018-12-03T06:00:00+00:00",
+    "date": "2018-12-03T06:00:00+00:00"
+  },
+  {
+    "title": "Announcing Ursa Labs’s partnership with NVIDIA",
+    "link": "https://wesmckinney.com/blog/ursa-labs-partner-nvidia/",
+    "pubDate": "2018-10-10T05:00:00+00:00",
+    "date": "2018-10-10T05:00:00+00:00"
+  },
+  {
+    "title": "Announcing Ursa Labs: an innovation lab for open source data science",
+    "link": "https://wesmckinney.com/blog/announcing-ursalabs/",
+    "pubDate": "2018-04-19T05:00:00+00:00",
+    "date": "2018-04-19T05:00:00+00:00"
+  },
+  {
+    "title": "Some comments to Daniel Abadi’s blog about Apache Arrow",
+    "link": "https://wesmckinney.com/blog/arrow-columnar-abadi/",
+    "pubDate": "2017-11-01T05:00:00+00:00",
+    "date": "2017-11-01T05:00:00+00:00"
+  },
+  {
+    "title": "Feather format update: Whence and Whither?",
+    "link": "https://wesmckinney.com/blog/feather-arrow-future/",
+    "pubDate": "2017-10-16T05:00:00+00:00",
+    "date": "2017-10-16T05:00:00+00:00"
+  },
+  {
+    "title": "Apache Arrow and the “10 Things I Hate About pandas”",
+    "link": "https://wesmckinney.com/blog/apache-arrow-pandas-internals/",
+    "pubDate": "2017-09-21T05:00:00+00:00",
+    "date": "2017-09-21T05:00:00+00:00"
   }
 ]

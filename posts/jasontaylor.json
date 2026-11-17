@@ -28,5 +28,65 @@
     "link": "https://jasontaylor.dev/essential-visual-studio-ide-extensions/",
     "pubDate": "2022-10-27T21:15:33+00:00",
     "date": "2022-10-27T21:15:33+00:00"
+  },
+  {
+    "title": "Launch Windows Terminal in Visual Studio",
+    "link": "https://jasontaylor.dev/launch-windows-terminal-in-visual-studio/",
+    "pubDate": "2022-10-21T04:04:13+00:00",
+    "date": "2022-10-21T04:04:13+00:00"
+  },
+  {
+    "title": "Create GitHub Environments using PowerShell",
+    "link": "https://jasontaylor.dev/create-github-environments-using-powershell/",
+    "pubDate": "2022-10-14T07:25:05+00:00",
+    "date": "2022-10-14T07:25:05+00:00"
+  },
+  {
+    "title": "API Key Authentication with ASP.NET Core",
+    "link": "https://jasontaylor.dev/api-key-authentication-with-aspnetcore/",
+    "pubDate": "2022-10-07T06:38:12+00:00",
+    "date": "2022-10-07T06:38:12+00:00"
+  },
+  {
+    "title": "Clean Architecture Solution Template for Blazor WebAssembly",
+    "link": "https://jasontaylor.dev/clean-architecture-solution-template-for-blazor-webassembly/",
+    "pubDate": "2022-09-30T07:12:50+00:00",
+    "date": "2022-09-30T07:12:50+00:00"
+  },
+  {
+    "title": "Console App Project Template for .NET 7",
+    "link": "https://jasontaylor.dev/console-app-project-template/",
+    "pubDate": "2022-09-23T03:14:23+00:00",
+    "date": "2022-09-23T03:14:23+00:00"
+  },
+  {
+    "title": "Rapidly Adding New Files in Visual Studio",
+    "link": "https://jasontaylor.dev/rapidly-adding-new-files-in-visual-studio/",
+    "pubDate": "2022-09-15T14:00:00+00:00",
+    "date": "2022-09-15T14:00:00+00:00"
+  },
+  {
+    "title": "Developing Console Apps with .NET",
+    "link": "https://jasontaylor.dev/developing-console-apps-with-net/",
+    "pubDate": "2022-09-09T07:27:33+00:00",
+    "date": "2022-09-09T07:27:33+00:00"
+  },
+  {
+    "title": "Implement OpenAPI Support for Blazor WebAssembly",
+    "link": "https://jasontaylor.dev/implement-openapi-support-for-blazor-webassembly/",
+    "pubDate": "2022-09-02T00:40:00+00:00",
+    "date": "2022-09-02T00:40:00+00:00"
+  },
+  {
+    "title": "Database Initialisation Strategies for Entity Framework Core",
+    "link": "https://jasontaylor.dev/ef-core-database-initialisation-strategies/",
+    "pubDate": "2022-03-15T07:14:05+00:00",
+    "date": "2022-03-15T07:14:05+00:00"
+  },
+  {
+    "title": "Upgrade the Angular .NET Core SPA Template to Angular 9",
+    "link": "https://jasontaylor.dev/asp-net-core-angular-9-upgrade/",
+    "pubDate": "2020-02-13T11:04:01+00:00",
+    "date": "2020-02-13T11:04:01+00:00"
   }
 ]

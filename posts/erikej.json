@@ -28,5 +28,35 @@
     "link": "https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html",
     "pubDate": "2026-09-04T16:01:29+00:00",
     "date": "2026-09-04T16:01:29+00:00"
+  },
+  {
+    "title": "Launch: T-SQL Analyzer live analysis now in VS Code",
+    "link": "https://erikej.github.io/sql/dacfx/vscode/2026/08/12/tsql-analyzer-vscode.html",
+    "pubDate": "2026-08-12T18:00:00+00:00",
+    "date": "2026-08-12T18:00:00+00:00"
+  },
+  {
+    "title": "From 20+ seconds to 2 - faster SQL Database Project .dacpac deployments are finally here (preview)",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/08/06/faster-dacpac-deployments.html",
+    "pubDate": "2026-08-06T18:00:00+00:00",
+    "date": "2026-08-06T18:00:00+00:00"
+  },
+  {
+    "title": "Updated: T-SQL Analyzer live analysis now in SSMS and Visual Studio",
+    "link": "https://erikej.github.io/sql/dacfx/visualstudio/ssms/2026/06/21/analysis-ssms-visualstudio.html",
+    "pubDate": "2026-06-21T17:28:49+00:00",
+    "date": "2026-06-21T17:28:49+00:00"
+  },
+  {
+    "title": "Deterministic SQL Bad Practice Detection in SSMS 22.7 with T-SQL Analyzer MCP Server and Copilot",
+    "link": "https://erikej.github.io/sql/ssms/mcp/dacfx/2026/06/10/ssms-mcp-sql-analyzer.html",
+    "pubDate": "2026-06-10T17:28:49+00:00",
+    "date": "2026-06-10T17:28:49+00:00"
+  },
+  {
+    "title": "Instantly deploy T-SQL programmability changes on save in SQL Projects with SQL Project Power Tools",
+    "link": "https://erikej.github.io/dotnet/dacfx/sqlserver/visualstudio/ssms/2026/06/01/sqlprojects-dacfx.html",
+    "pubDate": "2026-06-01T11:00:00+00:00",
+    "date": "2026-06-01T11:00:00+00:00"
   }
 ]

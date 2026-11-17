@@ -28,5 +28,35 @@
     "link": "https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/",
     "pubDate": "2026-08-17T05:29:56+00:00",
     "date": "2026-08-17T05:29:56+00:00"
+  },
+  {
+    "title": "Implement BFF using Auth0, Angular and ASP.NET Core",
+    "link": "https://damienbod.com/2026/08/10/implement-bff-using-auth0-angular-and-asp-net-core/",
+    "pubDate": "2026-08-10T05:33:55+00:00",
+    "date": "2026-08-10T05:33:55+00:00"
+  },
+  {
+    "title": "Implement SAML as an external provider in an ASP.NET Core Identity application using Duende as an OIDC server",
+    "link": "https://damienbod.com/2026/07/27/implement-saml-as-an-external-provider-in-an-asp-net-core-identity-application-using-duende-as-an-oidc-server/",
+    "pubDate": "2026-07-27T06:22:55+00:00",
+    "date": "2026-07-27T06:22:55+00:00"
+  },
+  {
+    "title": "Software development and AI",
+    "link": "https://damienbod.com/2026/06/15/software-development-and-ai/",
+    "pubDate": "2026-06-15T04:59:28+00:00",
+    "date": "2026-06-15T04:59:28+00:00"
+  },
+  {
+    "title": "ASP.NET Core background tasks with NCronJob and SignalR",
+    "link": "https://damienbod.com/2026/06/08/asp-net-core-background-tasks-with-ncronjob-and-signalr/",
+    "pubDate": "2026-06-08T05:39:20+00:00",
+    "date": "2026-06-08T05:39:20+00:00"
+  },
+  {
+    "title": "Aspire Azure SQL deployment bug",
+    "link": "https://damienbod.com/2026/05/18/aspire-azure-sql-deployment-bug/",
+    "pubDate": "2026-05-18T06:17:31+00:00",
+    "date": "2026-05-18T06:17:31+00:00"
   }
 ]

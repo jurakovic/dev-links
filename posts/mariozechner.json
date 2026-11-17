@@ -28,5 +28,89 @@
     "link": "https://mariozechner.at/posts/2025-11-30-pi-coding-agent",
     "pubDate": "2025-11-30T00:00:00+00:00",
     "date": "2025-11-30T00:00:00+00:00"
+  },
+  {
+    "title": "Armin is wrong and here's why",
+    "link": "https://mariozechner.at/posts/2025-11-22-armin-is-wrong",
+    "pubDate": "2025-11-22T00:00:00+00:00",
+    "date": "2025-11-22T00:00:00+00:00"
+  },
+  {
+    "title": "What if you don't need MCP at all?",
+    "link": "https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp",
+    "pubDate": "2025-11-02T00:00:00+00:00",
+    "date": "2025-11-02T00:00:00+00:00"
+  },
+  {
+    "title": "Infinite Footguns: Writing a JavaScript Interpreter in JavaScript",
+    "link": "https://mariozechner.at/posts/2025-10-05-jailjs",
+    "pubDate": "2025-10-05T00:00:00+00:00",
+    "date": "2025-10-05T00:00:00+00:00"
+  },
+  {
+    "title": "MCP vs CLI: Benchmarking Tools for Coding Agents",
+    "link": "https://mariozechner.at/posts/2025-08-15-mcp-vs-cli",
+    "pubDate": "2025-08-15T00:00:00+00:00",
+    "date": "2025-08-15T00:00:00+00:00"
+  },
+  {
+    "title": "Patching Claude Code for debugging and /cost support for Max users",
+    "link": "https://mariozechner.at/posts/2025-08-06-cc-antidebug",
+    "pubDate": "2025-08-06T00:00:00+00:00",
+    "date": "2025-08-06T00:00:00+00:00"
+  },
+  {
+    "title": "cchistory: Tracking Claude Code System Prompt and Tool Changes",
+    "link": "https://mariozechner.at/posts/2025-08-03-cchistory",
+    "pubDate": "2025-08-03T00:00:00+00:00",
+    "date": "2025-08-03T00:00:00+00:00"
+  },
+  {
+    "title": "Prompts are code, .json/.md files are state",
+    "link": "https://mariozechner.at/posts/2025-06-02-prompts-are-code",
+    "pubDate": "2025-06-02T00:00:00+00:00",
+    "date": "2025-06-02T00:00:00+00:00"
+  },
+  {
+    "title": "Boxie - an always offline audio player for my 3 year old",
+    "link": "https://mariozechner.at/posts/2025-04-20-boxie",
+    "pubDate": "2025-04-26T00:00:00+00:00",
+    "date": "2025-04-26T00:00:00+00:00"
+  },
+  {
+    "title": "Electronic Nights III - Animated LEDs and Buttons",
+    "link": "https://mariozechner.at/posts/2024-08-22-electronic-nights-3",
+    "pubDate": "2024-08-22T00:00:00+00:00",
+    "date": "2024-08-22T00:00:00+00:00"
+  },
+  {
+    "title": "Electronic Nights II - Basic Circuits",
+    "link": "https://mariozechner.at/posts/2024-08-05-electronic-nights-2",
+    "pubDate": "2024-08-05T00:00:00+00:00",
+    "date": "2024-08-05T00:00:00+00:00"
+  },
+  {
+    "title": "Electronic Nights I - Getting Started",
+    "link": "https://mariozechner.at/posts/2024-07-25-electronic-nights-1",
+    "pubDate": "2024-07-26T00:00:00+00:00",
+    "date": "2024-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "macOS code injection for fun and no profit",
+    "link": "https://mariozechner.at/posts/2024-07-20-macos-code-injection-fun",
+    "pubDate": "2024-07-20T00:00:00+00:00",
+    "date": "2024-07-20T00:00:00+00:00"
+  },
+  {
+    "title": "Two years in review",
+    "link": "https://mariozechner.at/posts/2024-07-15-two-years-in-review",
+    "pubDate": "2024-07-15T00:00:00+00:00",
+    "date": "2024-07-15T00:00:00+00:00"
+  },
+  {
+    "title": "Dissecting history",
+    "link": "https://mariozechner.at/posts/2024-07-14-dissecting-history",
+    "pubDate": "2024-07-14T00:00:00+00:00",
+    "date": "2024-07-14T00:00:00+00:00"
   }
 ]

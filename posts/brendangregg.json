@@ -28,5 +28,35 @@
     "link": "http://www.brendangregg.com/blog//2025-11-17/third-stage-engineering.html",
     "pubDate": "2025-11-16T13:00:00+00:00",
     "date": "2025-11-16T13:00:00+00:00"
+  },
+  {
+    "title": "When to Hire a Computer Performance Engineering Team (2025) part 1 of 2",
+    "link": "http://www.brendangregg.com/blog//2025-08-04/when-to-hire-a-computer-performance-engineering-team-2025-part1.html",
+    "pubDate": "2025-08-04T00:00:00+00:00",
+    "date": "2025-08-04T00:00:00+00:00"
+  },
+  {
+    "title": "3 Years of Extremely Remote Work",
+    "link": "http://www.brendangregg.com/blog//2025-05-22/3-years-of-extremely-remote-work.html",
+    "pubDate": "2025-05-22T00:00:00+00:00",
+    "date": "2025-05-22T00:00:00+00:00"
+  },
+  {
+    "title": "Doom GPU Flame Graphs",
+    "link": "http://www.brendangregg.com/blog//2025-05-01/doom-gpu-flame-graphs.html",
+    "pubDate": "2025-05-01T00:00:00+00:00",
+    "date": "2025-05-01T00:00:00+00:00"
+  },
+  {
+    "title": "AI Flame Graphs",
+    "link": "http://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html",
+    "pubDate": "2024-10-29T00:00:00+00:00",
+    "date": "2024-10-29T00:00:00+00:00"
+  },
+  {
+    "title": "No More Blue Fridays",
+    "link": "http://www.brendangregg.com/blog//2024-07-22/no-more-blue-fridays.html",
+    "pubDate": "2024-07-22T00:00:00+00:00",
+    "date": "2024-07-22T00:00:00+00:00"
   }
 ]

@@ -28,5 +28,35 @@
     "link": "https://www.devlead.se/posts/2025/2025-07-28-migrating-to-cake-sdk",
     "pubDate": "2025-07-28T00:00:00+00:00",
     "date": "2025-07-28T00:00:00+00:00"
+  },
+  {
+    "title": "Introducing AZDOI",
+    "link": "https://www.devlead.se/posts/2025/2025-03-22-introducing-azdoi",
+    "pubDate": "2025-03-22T00:00:00+00:00",
+    "date": "2025-03-22T00:00:00+00:00"
+  },
+  {
+    "title": "Static Web App WASM Search",
+    "link": "https://www.devlead.se/posts/2025/2025-03-12-static-web-app-wasm-search",
+    "pubDate": "2025-03-12T00:00:00+00:00",
+    "date": "2025-03-12T00:00:00+00:00"
+  },
+  {
+    "title": "SLNX Finally here📄",
+    "link": "https://www.devlead.se/posts/2025/2025-02-24-slnx-finally-here",
+    "pubDate": "2025-02-24T00:00:00+00:00",
+    "date": "2025-02-24T00:00:00+00:00"
+  },
+  {
+    "title": "Long paths in Git on Windows",
+    "link": "https://www.devlead.se/posts/2025/2025-02-19-git-windows-long-paths",
+    "pubDate": "2025-02-19T00:00:00+00:00",
+    "date": "2025-02-19T00:00:00+00:00"
+  },
+  {
+    "title": "Introducing Devlead.Testing.MockHttp",
+    "link": "https://www.devlead.se/posts/2025/2025-02-16-introducing-mockhttp-testing",
+    "pubDate": "2025-02-16T00:00:00+00:00",
+    "date": "2025-02-16T00:00:00+00:00"
   }
 ]

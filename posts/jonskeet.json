@@ -28,5 +28,35 @@
     "link": "https://codeblog.jonskeet.uk/2025/12/31/changing-immutable-collections/",
     "pubDate": "2025-12-31T10:32:45+00:00",
     "date": "2025-12-31T10:32:45+00:00"
+  },
+  {
+    "title": "Records and the ‘with’ operator, redux",
+    "link": "https://codeblog.jonskeet.uk/2025/07/29/records-and-the-with-operator-redux/",
+    "pubDate": "2025-07-29T20:00:38+00:00",
+    "date": "2025-07-29T20:00:38+00:00"
+  },
+  {
+    "title": "Unexpected inconsistency in records",
+    "link": "https://codeblog.jonskeet.uk/2025/07/19/unexpected-inconsistency-in-records/",
+    "pubDate": "2025-07-19T13:04:48+00:00",
+    "date": "2025-07-19T13:04:48+00:00"
+  },
+  {
+    "title": "Election 2029: Postcodes",
+    "link": "https://codeblog.jonskeet.uk/2025/04/13/election-2029-postcodes/",
+    "pubDate": "2025-04-13T07:41:11+00:00",
+    "date": "2025-04-13T07:41:11+00:00"
+  },
+  {
+    "title": "Records and Collections",
+    "link": "https://codeblog.jonskeet.uk/2025/03/27/records-and-collections/",
+    "pubDate": "2025-03-27T14:20:54+00:00",
+    "date": "2025-03-27T14:20:54+00:00"
+  },
+  {
+    "title": "Election 2029: Storage",
+    "link": "https://codeblog.jonskeet.uk/2025/03/27/election-2029-storage/",
+    "pubDate": "2025-03-27T11:46:31+00:00",
+    "date": "2025-03-27T11:46:31+00:00"
   }
 ]

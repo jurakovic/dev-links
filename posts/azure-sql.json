@@ -1,5 +1,11 @@
 [
   {
+    "title": "MSSQL Extension for VS Code: Local Azure SQL Database Provisioning, Query Performance Dashboard, and more",
+    "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-november2026/",
+    "pubDate": "2026-11-17T22:03:17+00:00",
+    "date": "2026-11-17T22:03:17+00:00"
+  },
+  {
     "title": "What’s new across Microsoft SQL at Microsoft Ignite 2026",
     "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-microsoft-ignite-2026/",
     "pubDate": "2026-11-16T23:40:42+00:00",
@@ -28,5 +34,29 @@
     "link": "https://devblogs.microsoft.com/azure-sql/dp-800-sql-ai-certification/",
     "pubDate": "2026-11-11T22:48:44+00:00",
     "date": "2026-11-11T22:48:44+00:00"
+  },
+  {
+    "title": "How do you run a query against data the database can’t read?",
+    "link": "https://devblogs.microsoft.com/azure-sql/how-do-you-run-a-query-against-data-the-database-cant-read/",
+    "pubDate": "2026-11-09T11:56:57+00:00",
+    "date": "2026-11-09T11:56:57+00:00"
+  },
+  {
+    "title": "My Favorite Undocumented Feature in SQL MCP Server",
+    "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/",
+    "pubDate": "2026-11-03T21:29:25+00:00",
+    "date": "2026-11-03T21:29:25+00:00"
+  },
+  {
+    "title": "The paper that explains how Microsoft SQL learned to recover without undoing everything first",
+    "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
+    "pubDate": "2026-11-02T11:49:03+00:00",
+    "date": "2026-11-02T11:49:03+00:00"
+  },
+  {
+    "title": "Is Azure SQL Database Hyperscale “distributed SQL”?",
+    "link": "https://devblogs.microsoft.com/azure-sql/is-azure-sql-database-hyperscale-distributed-sql/",
+    "pubDate": "2026-10-30T16:52:56+00:00",
+    "date": "2026-10-30T16:52:56+00:00"
   }
 ]

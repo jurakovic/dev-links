@@ -28,5 +28,95 @@
     "link": "https://agentic-patterns.com/patterns/fleet-cost-simulation-before-dispatch",
     "pubDate": "2026-10-17T00:00:00+00:00",
     "date": "2026-10-17T00:00:00+00:00"
+  },
+  {
+    "title": "Curated Code Context Window",
+    "link": "https://agentic-patterns.com/patterns/curated-code-context-window",
+    "pubDate": "2026-10-14T00:00:00+00:00",
+    "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Dynamic Context Injection",
+    "link": "https://agentic-patterns.com/patterns/dynamic-context-injection",
+    "pubDate": "2026-10-14T00:00:00+00:00",
+    "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Fair-Share Task Queues with Heartbeat Leases",
+    "link": "https://agentic-patterns.com/patterns/fair-share-task-queues-with-heartbeat-leases",
+    "pubDate": "2026-10-14T00:00:00+00:00",
+    "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Abstracted Code Representation for Review",
+    "link": "https://agentic-patterns.com/patterns/abstracted-code-representation-for-review",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Action Caching & Replay Pattern",
+    "link": "https://agentic-patterns.com/patterns/action-caching-replay",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Action-Selector Pattern",
+    "link": "https://agentic-patterns.com/patterns/action-selector-pattern",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Adaptive Sandbox Fan-Out Controller",
+    "link": "https://agentic-patterns.com/patterns/adaptive-sandbox-fanout-controller",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent Circuit Breaker",
+    "link": "https://agentic-patterns.com/patterns/agent-circuit-breaker",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent Modes by Model Personality",
+    "link": "https://agentic-patterns.com/patterns/agent-modes-by-model-personality",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent Reinforcement Fine-Tuning (Agent RFT)",
+    "link": "https://agentic-patterns.com/patterns/agent-reinforcement-fine-tuning",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent SDK for Programmatic Control",
+    "link": "https://agentic-patterns.com/patterns/agent-sdk-for-programmatic-control",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-Assisted Scaffolding",
+    "link": "https://agentic-patterns.com/patterns/agent-assisted-scaffolding",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-Driven Research",
+    "link": "https://agentic-patterns.com/patterns/agent-driven-research",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-First Tool Discovery",
+    "link": "https://agentic-patterns.com/patterns/agent-first-tool-discovery",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-First Tooling and Logging",
+    "link": "https://agentic-patterns.com/patterns/agent-first-tooling-and-logging",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
   }
 ]

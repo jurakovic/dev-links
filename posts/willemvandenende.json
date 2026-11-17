@@ -28,5 +28,95 @@
     "link": "http://willemvandenende.com/blog/engineering/to-cheap-to-meter-open-weight-models-in-october-2026",
     "pubDate": "2026-10-21T16:02:00+00:00",
     "date": "2026-10-21T16:02:00+00:00"
+  },
+  {
+    "title": "Video Transcriber - turn your videos into text with slides",
+    "link": "http://willemvandenende.com/blog/engineering/video-transcriber-turn-your-videos-into-text-with-slides",
+    "pubDate": "2026-10-20T00:00:00+00:00",
+    "date": "2026-10-20T00:00:00+00:00"
+  },
+  {
+    "title": "Will It Blend?",
+    "link": "http://willemvandenende.com/blog/engineering/will-it-blend",
+    "pubDate": "2026-10-08T00:00:00+00:00",
+    "date": "2026-10-08T00:00:00+00:00"
+  },
+  {
+    "title": "Delayed Gratification in AI Summer",
+    "link": "http://willemvandenende.com/blog/engineering/delayed-gratification-in-ai-summer",
+    "pubDate": "2026-10-02T00:00:00+00:00",
+    "date": "2026-10-02T00:00:00+00:00"
+  },
+  {
+    "title": "Developing with open weights models only, three months in",
+    "link": "http://willemvandenende.com/blog/engineering/developing-with-open-weights-models-only-three-months-in",
+    "pubDate": "2026-08-12T00:00:00+00:00",
+    "date": "2026-08-12T00:00:00+00:00"
+  },
+  {
+    "title": "Retort",
+    "link": "http://willemvandenende.com/blog/engineering/retort",
+    "pubDate": "2026-07-30T00:00:00+00:00",
+    "date": "2026-07-30T00:00:00+00:00"
+  },
+  {
+    "title": "Swim the Test",
+    "link": "http://willemvandenende.com/blog/engineering/swim-the-test",
+    "pubDate": "2026-07-27T00:00:00+00:00",
+    "date": "2026-07-27T00:00:00+00:00"
+  },
+  {
+    "title": "Does AI assistance support tiny open source projects?",
+    "link": "http://willemvandenende.com/blog/engineering/does-ai-assistance-support-tiny-open-source-projects",
+    "pubDate": "2026-07-18T00:00:00+00:00",
+    "date": "2026-07-18T00:00:00+00:00"
+  },
+  {
+    "title": "Synthetic TDD",
+    "link": "http://willemvandenende.com/blog/engineering/synthetic-tdd",
+    "pubDate": "2026-07-13T00:00:00+00:00",
+    "date": "2026-07-13T00:00:00+00:00"
+  },
+  {
+    "title": "Replace Moralistic Programming with Situational Awareness",
+    "link": "http://willemvandenende.com/blog/engineering/moralistic-programming",
+    "pubDate": "2026-07-07T00:00:00+00:00",
+    "date": "2026-07-07T00:00:00+00:00"
+  },
+  {
+    "title": "Removing a special cause of variation in small steps",
+    "link": "http://willemvandenende.com/blog/engineering/removing-a-special-cause-of-variation-in-small-steps",
+    "pubDate": "2026-07-03T00:00:00+00:00",
+    "date": "2026-07-03T00:00:00+00:00"
+  },
+  {
+    "title": "An example would be handy right about now - how to shave yaks with great efficiency .",
+    "link": "http://willemvandenende.com/blog/engineering/an-example-would-be-handy-right-now",
+    "pubDate": "2026-06-26T00:00:00+00:00",
+    "date": "2026-06-26T00:00:00+00:00"
+  },
+  {
+    "title": "How to let a local model interpret images in Pi.dev with llama.cpp",
+    "link": "http://willemvandenende.com/blog/engineering/enabling-a-local-model-to-explain-images-in-pidev",
+    "pubDate": "2026-06-20T00:00:00+00:00",
+    "date": "2026-06-20T00:00:00+00:00"
+  },
+  {
+    "title": "Generate an init script to get you(r team) up and running",
+    "link": "http://willemvandenende.com/blog/engineering/generate-an-init-script-to-get-your-team-up-and-running",
+    "pubDate": "2026-05-14T00:00:00+00:00",
+    "date": "2026-05-14T00:00:00+00:00"
+  },
+  {
+    "title": "AI Zombies",
+    "link": "http://willemvandenende.com/blog/engineering/ai-zombies",
+    "pubDate": "2026-05-08T00:00:00+00:00",
+    "date": "2026-05-08T00:00:00+00:00"
+  },
+  {
+    "title": "My local agentic dev setup today",
+    "link": "http://willemvandenende.com/blog/engineering/my-local-agentic-dev-setup-today",
+    "pubDate": "2026-04-29T00:00:00+00:00",
+    "date": "2026-04-29T00:00:00+00:00"
   }
 ]

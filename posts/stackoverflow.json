@@ -28,5 +28,221 @@
     "link": "https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human/",
     "pubDate": "2026-11-12T16:16:25+00:00",
     "date": "2026-11-12T16:16:25+00:00"
+  },
+  {
+    "title": "Customer support is the gnarliest AI problem",
+    "link": "https://stackoverflow.blog/2026/11/10/customer-support-is-the-gnarliest-ai-problem/",
+    "pubDate": "2026-11-10T08:40:00+00:00",
+    "date": "2026-11-10T08:40:00+00:00"
+  },
+  {
+    "title": "Never Share Your Password Again — The OAuth 2.0 Solution",
+    "link": "https://stackoverflow.blog/2026/11/09/never-share-your-password-again-the-oauth-2-0-solution/",
+    "pubDate": "2026-11-09T20:50:38+00:00",
+    "date": "2026-11-09T20:50:38+00:00"
+  },
+  {
+    "title": "Welcome to life in the chip age",
+    "link": "https://stackoverflow.blog/2026/11/06/welcome-to-life-in-the-chip-age/",
+    "pubDate": "2026-11-06T08:40:00+00:00",
+    "date": "2026-11-06T08:40:00+00:00"
+  },
+  {
+    "title": "Don’t Build the Reusable Component Yet",
+    "link": "https://stackoverflow.blog/2026/11/05/don-t-build-the-reusable-component-yet/",
+    "pubDate": "2026-11-05T16:02:13+00:00",
+    "date": "2026-11-05T16:02:13+00:00"
+  },
+  {
+    "title": "Your .NET parallel loop can become serial in a one-CPU container",
+    "link": "https://stackoverflow.blog/2026/11/04/your-net-parallel-loop-can-become-serial-in-a-one-cpu-container/",
+    "pubDate": "2026-11-04T16:34:13+00:00",
+    "date": "2026-11-04T16:34:13+00:00"
+  },
+  {
+    "title": "Oh, your agents need OAuth2, too",
+    "link": "https://stackoverflow.blog/2026/11/03/oh-your-agents-need-oauth2-too/",
+    "pubDate": "2026-11-03T08:40:00+00:00",
+    "date": "2026-11-03T08:40:00+00:00"
+  },
+  {
+    "title": "It’s ok that computers are (sometimes) better than us",
+    "link": "https://stackoverflow.blog/2026/10/30/it-s-ok-that-computers-are-sometimes-better-than-us/",
+    "pubDate": "2026-10-30T07:40:00+00:00",
+    "date": "2026-10-30T07:40:00+00:00"
+  },
+  {
+    "title": "The reports of Stack Overflow's death are greatly exaggerated",
+    "link": "https://stackoverflow.blog/2026/10/29/reports-greatly-exaggerated/",
+    "pubDate": "2026-10-29T22:30:00+00:00",
+    "date": "2026-10-29T22:30:00+00:00"
+  },
+  {
+    "title": "A JSON schema Is not an AI governance layer",
+    "link": "https://stackoverflow.blog/2026/10/28/a-json-schema-is-not-an-ai-governance-layer/",
+    "pubDate": "2026-10-28T19:27:07+00:00",
+    "date": "2026-10-28T19:27:07+00:00"
+  },
+  {
+    "title": "Delivering controlled and concentrated context",
+    "link": "https://stackoverflow.blog/2026/10/28/delivering-controlled-and-concentrated-context/",
+    "pubDate": "2026-10-28T14:55:00+00:00",
+    "date": "2026-10-28T14:55:00+00:00"
+  },
+  {
+    "title": "Elevators, toasters, and the birth of Java",
+    "link": "https://stackoverflow.blog/2026/10/27/elevators-toasters-and-the-birth-of-java/",
+    "pubDate": "2026-10-27T07:40:00+00:00",
+    "date": "2026-10-27T07:40:00+00:00"
+  },
+  {
+    "title": "Rumors of the SaaS demise are greatly exaggerated",
+    "link": "https://stackoverflow.blog/2026/10/23/rumors-of-the-saas-demise-are-greatly-exaggerated/",
+    "pubDate": "2026-10-23T07:40:00+00:00",
+    "date": "2026-10-23T07:40:00+00:00"
+  },
+  {
+    "title": "The Regression Tests Nobody Writes: Capturing How Software Actually Behaves",
+    "link": "https://stackoverflow.blog/2026/10/22/the-regression-tests-nobody-writes-capturing-how-software-actually-behaves/",
+    "pubDate": "2026-10-22T19:37:29+00:00",
+    "date": "2026-10-22T19:37:29+00:00"
+  },
+  {
+    "title": "Is AI really reshaping the developer market?",
+    "link": "https://stackoverflow.blog/2026/10/22/is-ai-really-reshaping-the-developer-market/",
+    "pubDate": "2026-10-22T16:37:39+00:00",
+    "date": "2026-10-22T16:37:39+00:00"
+  },
+  {
+    "title": "Building Immersive Virtual Economies: An Introduction to KursarScript (KSPL)",
+    "link": "https://stackoverflow.blog/2026/10/21/building-immersive-virtual-economies-an-introduction-to-kursarscript-kspl/",
+    "pubDate": "2026-10-21T16:26:42+00:00",
+    "date": "2026-10-21T16:26:42+00:00"
+  },
+  {
+    "title": "Survey Says: You'll swap the model, but everything you build around it is staying put",
+    "link": "https://stackoverflow.blog/2026/10/21/survey-says-you-ll-swap-the-model-but-everything-you-build-around-it-is-staying-put/",
+    "pubDate": "2026-10-21T14:00:00+00:00",
+    "date": "2026-10-21T14:00:00+00:00"
+  },
+  {
+    "title": "Don't forget about the UI for AI",
+    "link": "https://stackoverflow.blog/2026/10/20/don-t-forget-about-the-ui-for-ai/",
+    "pubDate": "2026-10-20T07:40:00+00:00",
+    "date": "2026-10-20T07:40:00+00:00"
+  },
+  {
+    "title": "Production-grade LLMs and agents: a field guide",
+    "link": "https://stackoverflow.blog/2026/10/19/production-grade-llms-and-agents-a-field-guide/",
+    "pubDate": "2026-10-19T15:32:01+00:00",
+    "date": "2026-10-19T15:32:01+00:00"
+  },
+  {
+    "title": "AI says you’re right, formal methods say you’re wrong",
+    "link": "https://stackoverflow.blog/2026/10/16/formal-methods-say-you-re-wrong/",
+    "pubDate": "2026-10-16T07:40:00+00:00",
+    "date": "2026-10-16T07:40:00+00:00"
+  },
+  {
+    "title": "MCP standardized tools. Now we need the infrastructure around them.",
+    "link": "https://stackoverflow.blog/2026/10/15/mcp-standardized-tools-now-we-need-the-infrastructure-around-them/",
+    "pubDate": "2026-10-15T20:39:29+00:00",
+    "date": "2026-10-15T20:39:29+00:00"
+  },
+  {
+    "title": "Why your platform team shouldn't build an AI context layer (even though they probably could)",
+    "link": "https://stackoverflow.blog/2026/10/15/your-team-shouldnt-build-an-ai-context-layer/",
+    "pubDate": "2026-10-15T17:00:00+00:00",
+    "date": "2026-10-15T17:00:00+00:00"
+  },
+  {
+    "title": "Your next job doesn’t have a title yet: Emerging role skills Q&A with Cory Hymel of Andela",
+    "link": "https://stackoverflow.blog/2026/10/14/your-next-job-doesn-t-have-a-title-yet-emerging-role-skills-q-and-a-with-corey-hymel-of-andela/",
+    "pubDate": "2026-10-14T17:12:00+00:00",
+    "date": "2026-10-14T17:12:00+00:00"
+  },
+  {
+    "title": "Why Your Sandbox Never Quite Matches Production (And Why That's Fine)",
+    "link": "https://stackoverflow.blog/2026/10/13/why-your-sandbox-never-quite-matches-production-and-why-that-s-fine/",
+    "pubDate": "2026-10-13T16:35:35+00:00",
+    "date": "2026-10-13T16:35:35+00:00"
+  },
+  {
+    "title": "Keep calm and call clone with Rust",
+    "link": "https://stackoverflow.blog/2026/10/13/keep-calm-and-call-clone-with-rust/",
+    "pubDate": "2026-10-13T07:40:00+00:00",
+    "date": "2026-10-13T07:40:00+00:00"
+  },
+  {
+    "title": "Beyond the AI noise: How Stack Overflow is rethinking tech hiring",
+    "link": "https://stackoverflow.blog/2026/10/12/beyond-the-ai-noise-how-stack-overflow-is-rethinking-tech-hiring/",
+    "pubDate": "2026-10-12T14:00:00+00:00",
+    "date": "2026-10-12T14:00:00+00:00"
+  },
+  {
+    "title": "A Treatise on Model Oriented Programming Languages",
+    "link": "https://stackoverflow.blog/2026/10/09/a-treatise-on-model-oriented-programming-languages/",
+    "pubDate": "2026-10-09T14:59:04+00:00",
+    "date": "2026-10-09T14:59:04+00:00"
+  },
+  {
+    "title": "Taking a look under your agent’s hood",
+    "link": "https://stackoverflow.blog/2026/10/09/taking-a-look-under-your-agent-s-hood/",
+    "pubDate": "2026-10-09T07:40:00+00:00",
+    "date": "2026-10-09T07:40:00+00:00"
+  },
+  {
+    "title": "Part 5: Operating an LLM system: observability, cost, routing, and the platform underneath",
+    "link": "https://stackoverflow.blog/2026/10/08/part-5-operating-an-llm-system-observability-cost-routing-and-the-platform-underneath/",
+    "pubDate": "2026-10-08T20:08:53+00:00",
+    "date": "2026-10-08T20:08:53+00:00"
+  },
+  {
+    "title": "A green exit code is not evidence that the work happened",
+    "link": "https://stackoverflow.blog/2026/10/08/a-green-exit-code-is-not-evidence-that-the-work-happened/",
+    "pubDate": "2026-10-08T14:00:00+00:00",
+    "date": "2026-10-08T14:00:00+00:00"
+  },
+  {
+    "title": "Part 4: Safety and governance for LLM systems: guardrails, PII, audit, and memory",
+    "link": "https://stackoverflow.blog/2026/10/07/part-4-safety-and-governance-for-llm-systems-guardrails-pii-audit-and-memory/",
+    "pubDate": "2026-10-07T20:48:55+00:00",
+    "date": "2026-10-07T20:48:55+00:00"
+  },
+  {
+    "title": "Part 3: Knowing when your agent doesn’t know: the confidence layer",
+    "link": "https://stackoverflow.blog/2026/10/07/part-3-knowing-when-your-agent-doesn-t-know-the-confidence-layer/",
+    "pubDate": "2026-10-07T20:40:29+00:00",
+    "date": "2026-10-07T20:40:29+00:00"
+  },
+  {
+    "title": "Part 2: Evals as a deployment gate — and how to know when they drift",
+    "link": "https://stackoverflow.blog/2026/10/07/evals-as-a-deployment-gate-and-how-to-know-when-they-drift/",
+    "pubDate": "2026-10-07T20:31:12+00:00",
+    "date": "2026-10-07T20:31:12+00:00"
+  },
+  {
+    "title": "Part 1: Make your AI agents boring: the determinism layer",
+    "link": "https://stackoverflow.blog/2026/10/07/part-1-make-your-ai-agents-boring-the-determinism-layer/",
+    "pubDate": "2026-10-07T20:14:49+00:00",
+    "date": "2026-10-07T20:14:49+00:00"
+  },
+  {
+    "title": "Part 6: An operating system for coding agents: the disciplined build",
+    "link": "https://stackoverflow.blog/2026/10/07/part-6-an-operating-system-for-coding-agents-the-disciplined-build/",
+    "pubDate": "2026-10-07T20:09:22+00:00",
+    "date": "2026-10-07T20:09:22+00:00"
+  },
+  {
+    "title": "Implementing a Modular Master-Agent Telemetry & Diagnostic Framework in Python: Prime-Sentinel Command (PSC)",
+    "link": "https://stackoverflow.blog/2026/10/07/implementing-a-modular-master-agent-telemetry-and-diagnostic-framework-in-python-prime-sentinel-command-psc/",
+    "pubDate": "2026-10-07T20:03:47+00:00",
+    "date": "2026-10-07T20:03:47+00:00"
+  },
+  {
+    "title": "“Impossible to Hide Secret …”: Uncovering Security and Privacy Issues in LLM-Native IDEs",
+    "link": "https://stackoverflow.blog/2026/10/06/impossible-to-hide-secret-uncovering-security-and-privacy-issues-in-llm-native-ides/",
+    "pubDate": "2026-10-06T20:04:14+00:00",
+    "date": "2026-10-06T20:04:14+00:00"
   }
 ]
