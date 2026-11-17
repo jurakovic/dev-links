@@ -28,7 +28,7 @@ const OUTPUT_FILE = path.join(OUT_DIR, 'README.md');
 const CATEGORY_DIR = path.join(OUT_DIR, 'category');
 const BLOG_DIR = path.join(OUT_DIR, 'blog');
 const BLOGS_JSON = path.join(ROOT_DIR, 'blogs.json');
-const MAX_POSTS = 100; // posts per news or category page
+const PAGE_POSTS = 100; // posts per news or category page
 const NEWS_POSTS_PER_BLOG = 5; // newest posts of each blog on the news and category pages
 
 // Bases for links to master content from a page `depth` folders below OUT_DIR: pages and favicons.
@@ -130,7 +130,7 @@ function writePage(file, md) {
 
 // --- News page: the newest posts of all blogs ---
 let md = `\n${breadcrumb(bases(0), '***dev-news***')}\n* * *\n\n`;
-for (const post of allPosts.slice(0, MAX_POSTS)) {
+for (const post of allPosts.slice(0, PAGE_POSTS)) {
     md += renderPost(post, bases(0), tag => `category/${tag.slug}/README.md`, id => `blog/${id}.md`);
 }
 md += `<sub><a href="#top">↑ Top</a></sub>\n`;
@@ -149,7 +149,7 @@ for (const post of allPosts) {
 }
 for (const [slug, { tag, posts }] of Object.entries(categoryPosts)) {
     let page = `\n${breadcrumb(bases(2), `[*dev-news*](../../README.md) / ***${tag.label}***`)}\n* * *\n\n`;
-    for (const post of posts.slice(0, MAX_POSTS)) {
+    for (const post of posts.slice(0, PAGE_POSTS)) {
         page += renderPost(post, bases(2), null, id => `../../blog/${id}.md`); // every post here has the same tag
     }
     page += `<sub><a href="#top">↑ Top</a></sub>\n`;
