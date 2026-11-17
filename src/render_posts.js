@@ -3,7 +3,7 @@ const path = require('path');
 
 // Pre-renders "Latest Posts" lists into README.md and blogs/README.md (GitHub Pages build step).
 // Replaces each empty <div id="<blog-id>" class="blog-posts"></div> with the newest LATEST_POSTS posts from
-// posts/<blog-id>.json, plus an "All posts" link to the blog page if gen_news.js --site wrote news/blog/<blog-id>.md
+// posts/<blog-id>.json, plus an "All Posts" link to the blog page if gen_news.js --site wrote news/blog/<blog-id>.md
 
 // --- Config ---
 const ROOT_DIR = path.join(__dirname, '..'); // repo root (this script lives in src/)
@@ -42,7 +42,7 @@ function renderPosts(items, allPostsHref) {
         const text = dateStr ? `${dateStr} ${item.title}` : item.title;
         return `<li><span>›</span><a href="${escHtml(item.link)}" target="_blank" rel="noopener noreferrer">${escHtml(text)}</a></li>`;
     }).join('');
-    if (allPostsHref) lis += `<li><span>›</span><a href="${escHtml(allPostsHref)}">All posts</a></li>`;
+    if (allPostsHref) lis += `<li><span>›</span><a href="${escHtml(allPostsHref)}">All Posts</a></li>`;
     return `<blockquote><details><summary>Latest Posts</summary><div><ul>${lis}</ul></div></details></blockquote>`;
 }
 

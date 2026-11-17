@@ -287,7 +287,7 @@ Run from a `dev-news*` branch (picked in the Run workflow dropdown), the run is 
    - The dev-news links (in the description and on the "news updated" badge) change from the dev-news branch on GitHub to `news/`, the news page.
    - The "blogs" badge changes from `blogs/README.md` to `blogs/`. jekyll-relative-links turns `[text](page.md)` links into page URLs, but it skips links around an image, which is what a badge is.
    - The "OPML" badge changes from the raw file on GitHub to `blogs.opml`, the site's own copy.
-4. **Render latest posts.** `node src/render_posts.js` fills the Latest Posts lists in `README.md` and `blogs/README.md`. It runs after step 3, so the blog pages its "All posts" links point to exist.
+4. **Render latest posts.** `node src/render_posts.js` fills the Latest Posts lists in `README.md` and `blogs/README.md`. It runs after step 3, so the blog pages its "All Posts" links point to exist.
 5. **Fetch dev-tools branch.** Adds the tools branch as a worktree in `/tmp/dev-tools`, deletes the placeholder `tools/README.md`, and copies the branch's files into `tools/`.
 6. **Build with Jekyll** (`actions/jekyll-build-pages`) from `./` into `./_site`.
 7. **Upload Pages artifact.**
@@ -431,13 +431,13 @@ Category tags come from `CATEGORY_TAGS`: a label, a CSS class (`tag-<class>`, co
 node src/render_posts.js
 ```
 
-Runs in the Pages build, after the dev-news files are copied in and gen_news.js has written the site's news pages. For `README.md` and `blogs/README.md`, replaces each `<div id="<id>" class="blog-posts"></div>` with that blog's 5 newest posts by `date` (`LATEST_POSTS`), followed by an "All posts" link to its blog page:
+Runs in the Pages build, after the dev-news files are copied in and gen_news.js has written the site's news pages. For `README.md` and `blogs/README.md`, replaces each `<div id="<id>" class="blog-posts"></div>` with that blog's 5 newest posts by `date` (`LATEST_POSTS`), followed by an "All Posts" link to its blog page:
 
 ```html
-<div id="<id>" class="blog-posts"><blockquote><details><summary>Latest Posts</summary><div><ul><li><span>›</span><a href="..." target="_blank" rel="noopener noreferrer">2026-11-01 Title</a></li>...<li><span>›</span><a href="news/blog/<id>.html">All posts</a></li></ul></div></details></blockquote></div>
+<div id="<id>" class="blog-posts"><blockquote><details><summary>Latest Posts</summary><div><ul><li><span>›</span><a href="..." target="_blank" rel="noopener noreferrer">2026-11-01 Title</a></li>...<li><span>›</span><a href="news/blog/<id>.html">All Posts</a></li></ul></div></details></blockquote></div>
 ```
 
-- The "All posts" link is relative to the page: `news/blog/<id>.html` in `README.md`, `../news/blog/<id>.html` in `blogs/README.md`. It is added only if `news/blog/<id>.md` exists, so a run without `gen_news.js --site` first leaves it out.
+- The "All Posts" link is relative to the page: `news/blog/<id>.html` in `README.md`, `../news/blog/<id>.html` in `blogs/README.md`. It is added only if `news/blog/<id>.md` exists, so a run without `gen_news.js --site` first leaves it out.
 - It all stays on one line so kramdown treats it as a single raw HTML block.
 - Titles and links are HTML-escaped, curly braces included, so Liquid doesn't read template tags in titles.
 - Dates are in UTC.
