@@ -20,17 +20,19 @@ How this repository works: what lives on which branch, how the site is built, an
 
 dev-links is a curated list of developer links, published with GitHub Pages at <https://jurakovic.github.io/dev-links/>. The site has these pages:
 
-| Page      | URL               | Source                                                              |
-|-----------|-------------------|---------------------------------------------------------------------|
-| dev-links | `/`               | `README.md` on master                                               |
-| dev-blogs | `/blogs/`         | `blogs/README.md` on master                                         |
-| dev-news  | `/news/`          | `posts/` on dev-news, generated into `news/README.md` at build time |
-| dev-tools | `/tools/`         | the dev-tools branch, copied into `tools/` at build time            |
-| internals | `/INTERNALS.html` | this file, `INTERNALS.md` on master                                 |
+| Page                     | URL                      | Source                                                                               |
+|--------------------------|--------------------------|--------------------------------------------------------------------------------------|
+| dev-links                | `/`                      | `README.md` on master                                                                |
+| dev-blogs                | `/blogs/`                | `blogs/README.md` on master                                                          |
+| dev-news                 | `/news/`                 | `posts/` on dev-news, generated into `news/README.md` at build time                  |
+| dev-news category pages  | `/news/category/<slug>/` | `posts/` on dev-news, generated into `news/category/<slug>/README.md` at build time  |
+| dev-news blog pages      | `/news/blog/<id>.html`   | `posts/` on dev-news, generated into `news/blog/<id>.md` at build time               |
+| dev-tools                | `/tools/`                | the dev-tools branch, copied into `tools/` at build time                             |
+| internals                | `/INTERNALS.html`        | this file, `INTERNALS.md` on master                                                  |
 
 The same Markdown files are readable on GitHub, with these differences:
 
-- **Latest Posts lists.** Every blog with a feed has an empty `<div id="<blog-id>" class="blog-posts"></div>` in the READMEs. The Pages build fills it with the blog's latest posts. On GitHub it stays empty.
+- **Latest Posts lists.** Every blog with a feed has an empty `<div id="<blog-id>" class="blog-posts"></div>` in the READMEs. The Pages build fills it with the blog's 5 latest posts and a link to its blog page. On GitHub it stays empty.
 - **Placeholders.** On master, `news/README.md` and `tools/README.md` are one-line notes that point to the dev-news branch and the Pages site. The build replaces them.
 - **GitHub-only content.** Elements with the `pages-hidden` class are hidden on the site with CSS: the `README.md` heading (the theme header already shows the title there) and the note that the site has lists of latest posts. Don't put the `top` anchor inside them: on the site, "↑ Top" can't scroll to a hidden element.
 - **dev-news links.** In `README.md`, the description link and the "news updated" badge open the dev-news branch on GitHub. The Pages build rewrites them to open the news page on the site.
@@ -43,7 +45,7 @@ cron-job.org, every 6 hours
    ▼
 Update Posts workflow ◄─── blogs.json + src/ from master
    │                  ◄─── RSS / Atom feeds
-   │ commit posts/*.json + README.md
+   │ commit posts/*.json + README.md + category/ + blog/
    ▼
 dev-news ───push───► Deploy GitHub Pages workflow ◄───push─── master
                        ▲          │
@@ -54,7 +56,7 @@ dev-tools ─────────────┘          ▼
 There are two loops:
 
 1. **Content, by hand.** You edit master: `blogs.json`, the READMEs, favicons. Scripts in `src/` regenerate the generated parts. A push to master deploys the site.
-2. **News, automatic.** Every 6 hours the Update Posts workflow fetches every feed and commits the updated `posts/*.json` and a regenerated news page to dev-news. That push deploys the site again.
+2. **News, automatic.** Every 6 hours the Update Posts workflow fetches every feed and commits the updated `posts/*.json` and the regenerated news, category and blog pages to dev-news. That push deploys the site again.
 
 * * *
 
@@ -63,7 +65,7 @@ There are two loops:
 | Branch    | Holds                                                                                   | Written by                                   |
 |-----------|-----------------------------------------------------------------------------------------|----------------------------------------------|
 | master    | everything edited by hand: READMEs, `blogs.json`, favicons, scripts, workflows, Jekyll config | you, through PRs                       |
-| dev-news  | generated data only: `posts/<id>.json` and the news page `README.md`                    | `github-actions[bot]`, "Update posts" commits |
+| dev-news  | generated data only: `posts/<id>.json`, the news page `README.md`, the category and blog pages | `github-actions[bot]`, "Update posts" commits |
 | dev-tools | standalone HTML tools                                                                   | you                                          |
 
 ### master
@@ -91,15 +93,17 @@ README.md               dev-links page
 
 ```
 .github/workflows/github_pages.yaml   on push, calls master's Deploy GitHub Pages workflow
-posts/<blog-id>.json                  the latest posts of one feed
-README.md                             the news page as read on GitHub: the 100 newest posts, generated by gen_news.js
+posts/<blog-id>.json                  the latest posts of one feed, up to 50
+README.md                             the news page as read on GitHub: the 100 newest posts, at most 5 per blog, generated by gen_news.js
+category/<slug>/README.md             a category page: the 100 newest posts of that category's blogs, at most 5 per blog, generated by gen_news.js
+blog/<blog-id>.md                     a blog page: every stored post of one blog, generated by gen_news.js
 ```
 
 The data lives off master so the bot's commits (several a day, over 1,300 so far) stay out of master's history, and so news can update without touching content. dev-news holds no scripts. The update workflow takes them from master for each run and deletes them before committing.
 
-The dev-news `README.md` is the news page as read on GitHub. The site doesn't use it: the Pages build generates its own from `posts/`, with links within the site (see [Deploy GitHub Pages](#deploy-github-pages)).
+The dev-news `README.md`, `category/` and `blog/` are the news pages as read on GitHub. The site doesn't use them: the Pages build generates its own from `posts/`, with links within the site (see [Deploy GitHub Pages](#deploy-github-pages)).
 
-Its links to master content (dev-links, dev-blogs, category sections, favicons) are absolute URLs to the content branch, the one `blogs.json` came from (Update Posts' `content_branch`, normally master): `https://github.com/jurakovic/dev-links/blob/<branch>/...` and `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<branch>/favicons/...`. Those files aren't on dev-news, so these links have to leave it. A link from one dev-news page to another is relative, so on GitHub it stays on the branch being read (dev-news or a copy of it), and on the site within the site.
+Their links to master content (dev-links, dev-blogs, favicons) are absolute URLs to the content branch, the one `blogs.json` came from (Update Posts' `content_branch`, normally master): `https://github.com/jurakovic/dev-links/blob/<branch>/...` and `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<branch>/favicons/...`. Those files aren't on dev-news, so these links have to leave it. A link from one dev-news page to another (a category tag, a blog ID, the way back to the news page) is relative, so on GitHub it stays on the branch being read (dev-news or a copy of it), and on the site within the site.
 
 ### dev-tools
 
@@ -133,21 +137,21 @@ The source of truth for every blog: an array of objects, indented with 4 spaces,
 
 | Field         | Read by                                    | Meaning |
 |---------------|--------------------------------------------|---------|
-| `id`          | all scripts                                | Unique key. Name of `posts/<id>.json`, the placeholder `<div id>`, and the feed name shown on dev-news. |
-| `author`      | update_readme.js, gen_opml.js              | Shown before the title. Can be empty. |
-| `title`       | update_readme.js, gen_opml.js              | Can be empty. |
+| `id`          | all scripts                                | Unique key. Name of `posts/<id>.json` and `blog/<id>.md`, the placeholder `<div id>`, and the feed name shown on dev-news. |
+| `author`      | update_readme.js, gen_opml.js, gen_news.js | Shown before the title. Can be empty. |
+| `title`       | update_readme.js, gen_opml.js, gen_news.js | Can be empty. |
 | `description` | none                                       | Notes about the blog. Not rendered anywhere. |
-| `url`         | update_readme.js, gen_opml.js              | Main link. |
+| `url`         | update_readme.js, gen_opml.js, gen_news.js | Main link. |
 | `feed`        | update_posts.sh, update_readme.js, render_posts.js, gen_opml.js | RSS or Atom URL. Empty: no posts are fetched and the blog gets no Latest Posts list. |
 | `extras`      | update_readme.js                           | More URLs, one line each. |
 | `github`      | update_readme.js                           | A repository URL (`owner/repo`) is shown inline after `url` as `([GitHub](...))`; a profile URL gets its own line. |
-| `category`    | update_readme.js, gen_news.js              | Section and dev-news tag, see [Categories](#categories). |
+| `category`    | update_readme.js, gen_news.js              | Section, dev-news tag and category page, see [Categories](#categories). |
 | `icon`        | update_readme.js, gen_news.js              | `favicons/<icon>.png`. `blank` for none. |
 | `selected`    | update_readme.js                           | `true`: also listed on `README.md`. Every blog is listed on `blogs/README.md`. |
 
 ### Categories
 
-A blog's category decides which section of each README it goes into and which tag it gets on dev-news. Each section is wrapped in markers named after the category in upper case:
+A blog's category decides which section of each README it goes into, and which tag and category page it gets on dev-news. Each section is wrapped in markers named after the category in upper case:
 
 ```
 <!-- BEGIN DOTNET -->
@@ -157,19 +161,21 @@ A blog's category decides which section of each README it goes into and which ta
 
 update_readme.js replaces everything between the markers. Everything outside them is written by hand.
 
-| `category`       | README.md section (selected blogs)  | blogs/README.md section (all blogs) | dev-news tag, links to |
-|------------------|-------------------------------------|-------------------------------------|------------------------|
-| `dotnet-main`    | `DOTNET-MAIN`, in .NET              | none                                | .NET → `README.md#net` |
-| `sql-main`       | `SQL-MAIN`, in SQL Server           | none                                | SQL Server → `README.md#sql-server` |
-| `arch-main`      | `ARCH-MAIN`, in Architecture        | none                                | Architecture → `README.md#architecture` |
-| `ai-main`        | `AI-MAIN`, in AI                    | none                                | AI → `README.md#ai` |
-| `ai`             | `AI`                                | `AI`                                | AI → `blogs/README.md#blogs-ai` |
-| `dotnet`         | `DOTNET`                            | `DOTNET`                            | .NET → `#blogs-net` |
-| `sql`            | `SQL`                               | `SQL`                               | SQL Server → `#blogs-sql` |
-| `general`        | `GENERAL`                           | `GENERAL`                           | General → `#blogs-general` |
-| `systems-data`   | `SYSTEMS-DATA`                      | `SYSTEMS-DATA`                      | Systems & Data → `#blogs-systems` |
-| `management`     | `MANAGEMENT`                        | `MANAGEMENT`                        | Management → `#blogs-management` |
-| `tech-companies` | none                                | `TECH-COMPANIES`                    | Tech Companies → `#blogs-tech-companies` |
+| `category`       | README.md section (selected blogs)  | blogs/README.md section (all blogs) | dev-news tag and page |
+|------------------|-------------------------------------|-------------------------------------|-----------------------|
+| `dotnet-main`    | `DOTNET-MAIN`, in .NET              | none                                | .NET, `dotnet` |
+| `sql-main`       | `SQL-MAIN`, in SQL Server           | none                                | SQL Server, `sql` |
+| `arch-main`      | `ARCH-MAIN`, in Architecture        | none                                | Architecture, `architecture` |
+| `ai-main`        | `AI-MAIN`, in AI                    | none                                | AI, `ai` |
+| `ai`             | `AI`                                | `AI`                                | AI, `ai` |
+| `dotnet`         | `DOTNET`                            | `DOTNET`                            | .NET, `dotnet` |
+| `sql`            | `SQL`                               | `SQL`                               | SQL Server, `sql` |
+| `general`        | `GENERAL`                           | `GENERAL`                           | General, `general` |
+| `systems-data`   | `SYSTEMS-DATA`                      | `SYSTEMS-DATA`                      | Systems & Data, `systems-data` |
+| `management`     | `MANAGEMENT`                        | `MANAGEMENT`                        | Management, `management` |
+| `tech-companies` | none                                | `TECH-COMPANIES`                    | Tech Companies, `tech-companies` |
+
+The last column is the tag's label and the slug of the category page, `category/<slug>/README.md` on dev-news and `/news/category/<slug>/` on the site. A `*-main` category shares its tag and page with its counterpart: the .NET page lists the posts of both `dotnet-main` and `dotnet` blogs.
 
 - `*-main` categories are official blogs (Microsoft, Anthropic and so on), listed in the topic sections at the top of `README.md`. They appear only there, so they must be `selected: true` or they appear nowhere.
 - `README.md` has no `TECH-COMPANIES` markers, so `selected` has no effect on those blogs.
@@ -181,7 +187,7 @@ Every blog in `blogs.json` as OPML, for importing into a feed reader. Generated 
 
 ### posts/\<id>.json (dev-news)
 
-One file per blog with a feed, created on the first successful fetch. An array of at most 5 posts, newest first:
+One file per blog with a feed, created on the first successful fetch. An array of at most 50 posts, sorted by `date`, newest first. The blog page lists them all; the news and category pages and the Latest Posts lists take the 5 newest.
 
 ```json
 [
@@ -231,7 +237,7 @@ File: [`.github/workflows/update_posts.yaml`](https://github.com/jurakovic/dev-l
 3. **Prepare Scripts.** `git restore --source` copies `blogs.json` from the content branch, and `src/gen_news.js`, `src/update_posts.sh` and `src/fix_post_times.js` from the run's branch, into the dev-news checkout, then `chmod +x src/update_posts.sh`.
 4. **Build.**
    1. `./src/update_posts.sh` updates every feed.
-   2. `node src/gen_news.js <content_branch>` regenerates `README.md`.
+   2. `node src/gen_news.js <content_branch>` regenerates `README.md`, `category/` and `blog/`.
    3. The restored files are deleted.
    4. If anything changed, it commits "Update posts" and pushes. The step runs with `shell: bash {0}` (no `-e`), so the `git diff --cached --quiet` check can return non-zero without failing the step.
 
@@ -272,16 +278,16 @@ Run from a `dev-news*` branch (picked in the Run workflow dropdown), the run is 
    git fetch origin <dev-news branch>
    git checkout origin/<dev-news branch> -- posts   # posts/<id>.json
    git reset                                        # unstage
-   node src/gen_news.js --site                      # news/README.md
+   node src/gen_news.js --site                      # news/README.md, news/category/<slug>/README.md, news/blog/<id>.md
    ```
 
-   The dev-news `README.md` isn't used. The site's news page is generated from the posts, with links relative to `news/` (`../README.md`, `../favicons/…`), so it doesn't depend on the branch the dev-news copy links to.
+   The dev-news `README.md`, `category/` and `blog/` aren't used. The site's news pages are generated from the posts, with links relative to each page's folder (`../README.md`, `../favicons/…` on the news page), so they don't depend on the branch the dev-news copies link to.
 
    Three `sed` calls fix links in `README.md` for the site:
    - The dev-news links (in the description and on the "news updated" badge) change from the dev-news branch on GitHub to `news/`, the news page.
    - The "blogs" badge changes from `blogs/README.md` to `blogs/`. jekyll-relative-links turns `[text](page.md)` links into page URLs, but it skips links around an image, which is what a badge is.
    - The "OPML" badge changes from the raw file on GitHub to `blogs.opml`, the site's own copy.
-4. **Render latest posts.** `node src/render_posts.js` fills the Latest Posts lists in `README.md` and `blogs/README.md`.
+4. **Render latest posts.** `node src/render_posts.js` fills the Latest Posts lists in `README.md` and `blogs/README.md`. It runs after step 3, so the blog pages its "All Posts" links point to exist.
 5. **Fetch dev-tools branch.** Adds the tools branch as a worktree in `/tmp/dev-tools`, deletes the placeholder `tools/README.md`, and copies the branch's files into `tools/`.
 6. **Build with Jekyll** (`actions/jekyll-build-pages`) from `./` into `./_site`.
 7. **Upload Pages artifact.**
@@ -326,7 +332,7 @@ All scripts are in `src/` (excluded from the site). The Node scripts use only th
 |--------|------|---------|
 | [update_posts.sh](#update_postssh)         | Update Posts workflow, in a dev-news checkout | Fetch every feed into `posts/*.json` |
 | [fix_post_times.js](#fix_post_timesjs)     | called by update_posts.sh                     | Set each post's dates |
-| [gen_news.js](#gen_newsjs)                 | Update Posts workflow, in a dev-news checkout; Deploy GitHub Pages workflow (`--site`) | Generate the news page |
+| [gen_news.js](#gen_newsjs)                 | Update Posts workflow, in a dev-news checkout; Deploy GitHub Pages workflow (`--site`) | Generate the news page, the category pages and the blog pages |
 | [render_posts.js](#render_postsjs)         | Deploy GitHub Pages workflow                  | Fill the Latest Posts lists |
 | [update_readme.js](#update_readmejs)       | by hand, on master                            | Regenerate README sections from `blogs.json` |
 | [add_blog.js](#add_blogjs)                 | by hand, on master                            | Add a blog to `blogs.json` |
@@ -350,7 +356,7 @@ Fetches the feeds of all blogs in `blogs.json` that have one, or only the given 
 2. Reads the newest `date` across all `posts/*.json`, once, before any feed is updated. This "newest listed" date goes to fix_post_times.js to detect lagged posts.
 3. For each feed:
    1. Downloads it with `curl -Ss -k -L` and a browser User-Agent, so sites don't block it as a bot. `-k` ignores certificate errors.
-   2. Converts the XML to JSON with yq. Takes `.rss.channel.item` (RSS 2.0) or `.feed.entry` (Atom), keeps the first 5, and maps each to `{title, link, pubDate}`, trying the shapes different feeds use:
+   2. Converts the XML to JSON with yq. Takes `.rss.channel.item` (RSS 2.0) or `.feed.entry` (Atom), every item, and maps each to `{title, link, pubDate}`, trying the shapes different feeds use (fix_post_times.js then keeps the newest 50):
       - `title`: plain text, text next to attributes (`+content`), or XHTML.
       - `link`: Atom `<link rel="alternate" href>`, then `<link href>`, then RSS `<link>` text.
       - `pubDate`: RSS `pubDate`, then Atom `published`, then `updated`.
@@ -380,39 +386,44 @@ Takes freshly fetched posts on stdin, compares them with the stored file, and pr
 | Case | `pubDate` | `date` |
 |------|-----------|--------|
 | Known: link already stored | stored value (re-normalized) | stored value |
+| New backfill post with no usable date | dropped | dropped |
 | New, and its date is in the future, midnight today, lagged, or unparseable | feed date, normalized (raw if unparseable) | now: the time first seen |
 | New, any other date | feed date, normalized | same as `pubDate` |
 
 - **Normalized** means parsed and written as ISO 8601 UTC (`2026-01-31T09:25:27+00:00`), the same instant. A midnight date with an offset (`Sat, 07 Feb 2026 00:00:00 +1100`) is read as its written calendar date at midnight UTC.
-- **Lagged** means older than the newest listed date, at most `MAX_LAG_DAYS` (3) days old, and the feed is tracked.
-- **Tracked** means at least one incoming post is already stored. A feed that is new, or whose links all changed, is not tracked: its posts are treated as historical and keep their own dates, so adding a blog doesn't fill the top of dev-news with old posts.
-- **Missing posts.** In a tracked feed, stored posts the feed no longer returns are kept. Everything is sorted by `date` and cut to as many posts as the feed or the stored file had, so a post that drops out and comes back keeps its dates instead of being seen as new.
+- **Lagged** means older than the newest listed date, at most `MAX_LAG_DAYS` (3) days old, the feed is tracked, and the post isn't backfill.
+- **Tracked** means at least one incoming post is already stored. A feed that is new, whose links all changed, or that rolled over completely since its last successful fetch (a short feed after a few failed runs) is not tracked: its posts are treated as historical and keep their own dates, so adding a blog doesn't fill the top of dev-news with old posts.
+- **Backfill** means a new post that a tracked feed lists after the last stored post it lists: an older post, read because more of the feed is read than was stored, not one the feed showed late. It skips the lag check and keeps its feed date, or is dropped if it has none (paulgraham's feed has no dates at all). Genuinely new posts appear above the stored ones. This covers the deeper part of every feed when it is first read, and the posts of a feed longer than 50 that the cap drops on every run.
+- **Missing posts and the cap.** In a tracked feed, stored posts the feed no longer returns are kept, so a post that drops out and comes back keeps its dates instead of being seen as new. Everything is then sorted by `date` and cut to the newest `MAX_POSTS` (50). A blog's stored list grows run by run until it reaches 50, even if its feed returns only a few items. An untracked feed with a stored file keeps its stored posts too, so the stored list isn't lost, except those it lists again under a new link: a stored post whose title an incoming post has is dropped, so it isn't kept twice.
 
 The header comment in `src/fix_post_times.js` has the full rules with an example for each case.
 
 ### gen_news.js
 
 ```bash
-node src/gen_news.js [content-branch]   # README.md, read on GitHub; default: master
-node src/gen_news.js --site             # news/README.md, for the site
+node src/gen_news.js [content-branch]   # README.md, category/ and blog/, read on GitHub; default: master
+node src/gen_news.js --site             # news/README.md, news/category/ and news/blog/, for the site
 ```
 
-Generates the news page, either as `README.md` in the repo root (in Update Posts, the dev-news checkout) or, with `--site`, as `news/README.md` (in the Pages build):
+Generates the news page, the category pages and the blog pages into its output folder: the repo root (in Update Posts, the dev-news checkout) or, with `--site`, `news/` (in the Pages build):
 
-1. Reads every `posts/*.json`, whether or not the blog is still in `blogs.json`.
-2. Sorts by `date`, newest first, and keeps 100.
-3. Writes a breadcrumb back to dev-links and dev-blogs, with the `top` anchor.
-4. Writes each post as two lines: favicon, date (`YYYY-MM-DD`), blog ID and category tag, then the title linked to the post. In titles, the Markdown characters `*`, `_`, `` ` ``, `[` and `]` are escaped, and `<` and `>` become entities.
-5. Ends with an "↑ Top" link.
+1. Reads every `posts/*.json`, whether or not the blog is still in `blogs.json`, and sorts each by `date`, newest first.
+2. Takes the 5 newest posts of each (`NEWS_POSTS_PER_BLOG`) for the news and category pages, and sorts them by `date`, newest first.
+3. Writes the news page, `README.md`, with the 100 newest of them:
+   1. A breadcrumb back to dev-links and dev-blogs, with the `top` anchor.
+   2. Each post as two lines: favicon, date (`YYYY-MM-DD`), blog ID and category tag, then the title linked to the post. The blog ID links to its blog page, `blog/<id>.md`, and the tag to its category page, `category/<slug>/README.md`. In titles, the Markdown characters `*`, `_`, `` ` ``, `[` and `]` are escaped, `<` and `>` become entities, and `{` and `}` become `&#123;` and `&#125;`, so Liquid doesn't read template tags in titles on the site.
+   3. An "↑ Top" link.
+4. Deletes `category/` and writes `category/<slug>/README.md` for every category with posts: the 100 newest posts of its blogs, in the same form but without the tag, under a breadcrumb that also links back to the news page (`../../README.md`). Deleting first means a renamed or emptied category leaves no stale page. Posts whose blog has no known category are on no category page.
+5. Deletes `blog/` and writes `blog/<id>.md` for every posts file with posts: a breadcrumb that also links back to the news page (`../README.md`), a header with the blog's icon, `author | title` (either one alone if the other is empty) linked to its `url`, and its category tag, then every stored post as one line, newest first: date and title linked to the post. A blog no longer in `blogs.json` gets the blank icon and its ID, unlinked. Deleting first means a removed posts file leaves no stale page.
 
-Links to master content (the breadcrumb, category tags and favicons) go through two bases, `PAGE_BASE` and `FAVICON_BASE`:
+Links to master content (the breadcrumbs' dev-links and dev-blogs, and favicons) go through `bases(depth)`, where `depth` is the page's folder depth below the output folder: 0 for the news page, 1 for a blog page, 2 for a category page. It returns a page base and a favicon base:
 
-- Without `--site`, they are absolute, to the content branch: `https://github.com/jurakovic/dev-links/blob/<branch>/...` for pages and `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<branch>/favicons/` for icons.
-- With `--site`, they are relative to `news/`: `../README.md`, `../blogs/README.md`, `../favicons/`.
+- Without `--site`, they are absolute, to the content branch, whatever the depth: `https://github.com/jurakovic/dev-links/blob/<branch>/...` for pages and `https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/<branch>/favicons/` for icons.
+- With `--site`, they are relative to the page's folder: `..` plus one `/..` per level, so `../README.md` and `../favicons/` on the news page, `../../README.md` and `../../favicons/` on a blog page, `../../../README.md` and `../../../favicons/` on a category page.
 
 A link from one dev-news page to another is relative in both forms, so it stays on the same branch on GitHub and within the site on Pages.
 
-Category tags come from `CATEGORY_TAGS`: a label, a CSS class (`tag-<class>`, colored in `_includes/head-custom-css.html`) and a link to the category's section. A post whose blog has no entry there gets no tag; one whose blog isn't in `blogs.json` also gets the `blank` icon.
+Category tags come from `CATEGORY_TAGS`: a label, a CSS class (`tag-<class>`, colored in `_includes/head-custom-css.html`) and the slug of the category page. A post whose blog has no entry there gets no tag and is on no category page; one whose blog isn't in `blogs.json` also gets the `blank` icon.
 
 ### render_posts.js
 
@@ -420,12 +431,13 @@ Category tags come from `CATEGORY_TAGS`: a label, a CSS class (`tag-<class>`, co
 node src/render_posts.js
 ```
 
-Runs in the Pages build, after the dev-news files are copied in. For `README.md` and `blogs/README.md`, replaces each `<div id="<id>" class="blog-posts"></div>` with that blog's posts:
+Runs in the Pages build, after the dev-news files are copied in and gen_news.js has written the site's news pages. For `README.md` and `blogs/README.md`, replaces each `<div id="<id>" class="blog-posts"></div>` with that blog's 5 newest posts by `date` (`LATEST_POSTS`), followed by an "All Posts" link to its blog page:
 
 ```html
-<div id="<id>" class="blog-posts"><blockquote><details><summary>Latest Posts</summary><div><ul><li><span>›</span><a href="..." target="_blank" rel="noopener noreferrer">2026-11-01 Title</a></li>...</ul></div></details></blockquote></div>
+<div id="<id>" class="blog-posts"><blockquote><details><summary>Latest Posts</summary><div><ul><li><span>›</span><a href="..." target="_blank" rel="noopener noreferrer">2026-11-01 Title</a></li>...<li><span>›</span><a href="news/blog/<id>.html">All Posts</a></li></ul></div></details></blockquote></div>
 ```
 
+- The "All Posts" link is relative to the page: `news/blog/<id>.html` in `README.md`, `../news/blog/<id>.html` in `blogs/README.md`. It is added only if `news/blog/<id>.md` exists, so a run without `gen_news.js --site` first leaves it out.
 - It all stays on one line so kramdown treats it as a single raw HTML block.
 - Titles and links are HTML-escaped, curly braces included, so Liquid doesn't read template tags in titles.
 - Dates are in UTC.
@@ -512,13 +524,13 @@ The first fetch of a new feed keeps the feed's own dates, so its posts sort by t
 
 ### Change or remove a blog
 
-- **New feed URL.** If the new feed's post links differ from the stored ones, the feed is not tracked for that run and its posts keep their feed dates.
-- **Removed blog, changed ID, or removed feed.** `posts/<old-id>.json` stays on dev-news, and gen_news.js still lists its posts until newer posts push them out of the newest 100. If the ID is gone from `blogs.json`, they show with the blank icon and no tag. Delete the file on dev-news to remove them right away.
+- **New feed URL.** If the new feed's post links differ from the stored ones, the feed is not tracked for that run and its posts keep their feed dates. Stored posts the new feed doesn't list again (by title) are kept.
+- **Removed blog, changed ID, or removed feed.** `posts/<old-id>.json` stays on dev-news, and gen_news.js still lists its posts until newer posts push them out of the newest 100. If the ID is still in `blogs.json`, they also stay on its category page. Its blog page `blog/<old-id>.md` stays as long as the posts file does, and goes with it on the next run. If the ID is gone from `blogs.json`, they show with the blank icon and no tag. Delete the file on dev-news to remove them right away.
 
 ### Add a category
 
 1. Add a heading, a nav entry and `<!-- BEGIN <CATEGORY> -->` / `<!-- END <CATEGORY> -->` markers to `README.md` and/or `blogs/README.md`.
-2. Add the category to `CATEGORY_TAGS` in `src/gen_news.js`: label, CSS class and section URL.
+2. Add the category to `CATEGORY_TAGS` in `src/gen_news.js`: label, CSS class and the slug of its category page. A new slug gets a new page on the next run; reusing one (as the `*-main` categories do) shares that page.
 3. Add a `.main-content kbd.tag-<class>` color rule to `_includes/head-custom-css.html`.
 4. Set the category on the blogs and run `node src/update_readme.js --all`.
 
@@ -607,4 +619,4 @@ The Jekyll step itself needs the `github-pages` gem and isn't set up in this rep
 | Mar 2026 | Fix for future dates (#33). |
 | May 2026 | dev-tools added to the Pages deploy (#34, #35); update schedule moved to cron-job.org. |
 | Oct 2026 | Category tags on dev-news (#37); Latest Posts lists rendered at build time instead of fetched in the browser; fix for midnight dates with a non-UTC offset. |
-| Nov 2026 | Lagged posts moved to the top with their own `date`; `pubDate` stored normalized; scripts moved to `src/` (#39); the Pages build generates the news page itself, and both workflows pick the pipeline, content and data branches separately. |
+| Nov 2026 | Lagged posts moved to the top with their own `date`; `pubDate` stored normalized; scripts moved to `src/` (#39); the Pages build generates the news page itself, and both workflows pick the pipeline, content and data branches separately; dev-news category pages, linked from the tags; up to 50 posts stored per blog, with a blog page listing them, linked from dev-news and the Latest Posts lists. |

@@ -66,9 +66,9 @@
 //    b) The pubDate is midnight on today's date (feed is date-only; midnight has
 //       already passed so condition (a) would miss it).
 //    c) Lagged: the date is older than the newest date dev-news listed before this run
-//       (argv3), but at most MAX_LAG_DAYS old, and the feed is already tracked (at
-//       least one incoming post is stored). Without this the post would be listed
-//       below posts that were on dev-news before it.
+//       (argv3), but at most MAX_LAG_DAYS old, the feed is already tracked (at least
+//       one incoming post is stored), and the post isn't backfill (below). Without this
+//       the post would be listed below posts that were on dev-news before it.
 //       Example: "Wed, 28 Oct 2026 19:27:07 GMT" (stackoverflow) seen on 2026-10-29 17:01,
 //                newest listed "2026-10-29T11:01:40+00:00" → "2026-10-29T17:01:56+00:00"
 //    d) The pubDate can't be parsed (or is missing), so there is no date to normalize.
@@ -82,6 +82,18 @@
 //    links changed) are historical posts appearing for the first time. Using the current
 //    time would assign a completely wrong date, so they fall through to strategy 3.
 //
+//    Backfill posts are historical too. In a tracked feed, a new post that the feed lists
+//    after the last stored post it lists is an older post, appearing because more of the
+//    feed is read than was stored, not a post the feed showed late. It skips condition (c)
+//    and keeps its feed date (strategy 3); with no usable date it is dropped, since nothing
+//    could place it. Genuinely new posts appear above the stored ones, so they still get
+//    the lag check. This covers every post below the stored ones when a feed's deeper part
+//    is first read, and the posts of a feed longer than MAX_POSTS that are cut on every run.
+//    Example: position 6+ of a feed that had 5 stored, dated 2 days before newest listed
+//             → keeps its own date instead of now, so it doesn't top dev-news
+//    Example: paulgraham's feed has no dates: its older essays are dropped instead of all
+//             getting now; a new essay listed above the stored ones still gets now (d)
+//
 // 3. NEW POST, everything else
 //    The post is new and either has a real time or is an old midnight post. The raw
 //    pubDate is parsed with new Date() and reformatted to ISO 8601 UTC. This
@@ -91,14 +103,19 @@
 //    Example: "Fri, 13 Jan 2023 00:00:00 +0000" → "2023-01-13T00:00:00+00:00"
 //    Example: "2023-05-20T00:00:00+02:00"       → "2023-05-20T00:00:00+00:00" (written date kept)
 //
-// MISSING POSTS
-// -------------
-// If a tracked feed no longer returns some stored posts, they are kept and the posts
-// are sorted by date (newest first), keeping as many as the feed or the stored file
-// had. A post that drops out and comes back therefore stays stored with its dates
-// instead of being seen as new (and lagged) again. Stored posts older than the kept
-// ones are dropped, as before. A post removed from the feed for good stays until newer
-// posts push it out.
+// MISSING POSTS AND THE CAP
+// -------------------------
+// If a tracked feed no longer returns some stored posts, they are kept. A post that
+// drops out and comes back therefore stays stored with its dates instead of being seen
+// as new (and lagged) again. All posts are then sorted by date (newest first) and cut
+// to the newest MAX_POSTS. A blog's stored list thus grows run by run until it reaches
+// MAX_POSTS, even if its feed returns only a few items. A post removed from the feed for
+// good stays until newer posts push it out.
+//
+// An untracked feed with a stored file (its links changed, or a short feed rolled over
+// completely since the last successful fetch) keeps its stored posts too, so the stored
+// archive isn't lost, except those it lists again under a new link: a stored post whose
+// title an incoming post has is dropped, so the post isn't kept twice.
 //
 // FILE READ SAFETY
 // ----------------
@@ -118,7 +135,7 @@
 //   argv2:  path to the existing posts/<id>.json file for this feed
 //   argv3:  newest date listed on dev-news before this run (any parseable date);
 //           if left out, lagged posts are not detected
-//   stdout: JSON array of posts with pubDate normalized and date set
+//   stdout: JSON array of posts with pubDate normalized and date set, newest first, at most MAX_POSTS
 //   stderr: error messages if stdin is not valid JSON or not an array
 //
 
@@ -130,6 +147,9 @@ const newestListed = new Date(process.argv[3] || NaN);
 // A post first seen more than this long after its date keeps its own date
 // (e.g. an old post coming back into the feed), so it is not shown as new.
 const MAX_LAG_DAYS = 3;
+
+// Posts kept per feed, the newest by date (see MISSING POSTS AND THE CAP)
+const MAX_POSTS = 50;
 
 // Read existing posts synchronously before stdin processing starts,
 // so the caller can safely redirect our stdout to the same file.
@@ -224,27 +244,35 @@ process.stdin.on('end', () => {
     // (feed just added, or its links changed) and are treated as historical.
     const tracked = posts.some(post => stored[post.link]);
 
-    let result = posts.map(post => {
+    // Feed position of the last stored post the feed lists, -1 if none. New posts below it are backfill.
+    const lastStored = posts.reduce((last, post, i) => stored[post.link] ? i : last, -1);
+
+    const result = posts.flatMap((post, i) => {
         const known = stored[post.link];
         if (known) {
             // Already stored — always prefer saved dates
-            return { ...post, pubDate: normalizePubDate(known.pubDate), date: known.date };
+            return [{ ...post, pubDate: normalizePubDate(known.pubDate), date: known.date }];
         }
 
+        // Backfill: an older post read from deeper in the feed — no lag check, dropped without a date
+        const backfill = tracked && i > lastStored;
+        if (backfill && !parseFeedDate(post.pubDate)) return [];
+
         // New post not seen before — normalize pubDate, add date
-        return { ...post, pubDate: normalizePubDate(post.pubDate), date: newPostDate(post.pubDate, tracked) };
+        return [{ ...post, pubDate: normalizePubDate(post.pubDate), date: newPostDate(post.pubDate, tracked && !backfill) }];
     });
 
-    // Keep stored posts the feed no longer returns (see MISSING POSTS)
+    // Keep stored posts the feed no longer returns, then keep the newest MAX_POSTS (see MISSING POSTS AND THE CAP).
+    // In an untracked feed, not those it lists again under a new link (same title), so none is kept twice.
     const fetched = new Set(posts.map(post => post.link));
-    const missing = !tracked ? [] : existing
-        .filter(post => stored[post.link] && !fetched.has(post.link))
+    const fetchedTitles = new Set(posts.map(post => JSON.stringify(post.title))); // titles can be objects
+    const missing = existing
+        .filter(post => stored[post.link] && !fetched.has(post.link) &&
+                        (tracked || !fetchedTitles.has(JSON.stringify(post.title))))
         .map(post => ({ ...post, pubDate: normalizePubDate(post.pubDate) }));
-    if (missing.length > 0) {
-        result = [...result, ...missing]
-            .sort((a, b) => sortTime(b) - sortTime(a))
-            .slice(0, Math.max(posts.length, existing.length));
-    }
+    const kept = [...result, ...missing]
+        .sort((a, b) => sortTime(b) - sortTime(a))
+        .slice(0, MAX_POSTS);
 
-    process.stdout.write(JSON.stringify(result, null, 2) + '\n');
+    process.stdout.write(JSON.stringify(kept, null, 2) + '\n');
 });
