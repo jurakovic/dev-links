@@ -1,5 +1,11 @@
 [
   {
+    "title": "Setting a spending limit in GitHub Copilot CLI",
+    "link": "https://bartwullems.blogspot.com/2026/11/setting-spending-limit-in-github.html",
+    "pubDate": "2026-11-17T06:14:00+00:00",
+    "date": "2026-11-17T06:14:00+00:00"
+  },
+  {
     "title": "Setting a spending limit on a Claude Code session",
     "link": "https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html",
     "pubDate": "2026-11-16T10:03:55+00:00",
@@ -22,11 +28,5 @@
     "link": "https://bartwullems.blogspot.com/2026/11/track-used-skills-agents-and-mcp.html",
     "pubDate": "2026-11-10T06:30:00+00:00",
     "date": "2026-11-10T06:30:00+00:00"
-  },
-  {
-    "title": "Strongly typed IDs in .NET with Vogen",
-    "link": "https://bartwullems.blogspot.com/2026/11/strongly-typed-ids-in-net-with-vogen.html",
-    "pubDate": "2026-11-09T05:45:00+00:00",
-    "date": "2026-11-09T05:45:00+00:00"
   }
 ]

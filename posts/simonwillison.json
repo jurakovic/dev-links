@@ -1,5 +1,11 @@
 [
   {
+    "title": "Quoting Go Proverbs",
+    "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+    "pubDate": "2026-11-17T06:16:26+00:00",
+    "date": "2026-11-17T06:16:26+00:00"
+  },
+  {
     "title": "llm 0.37.3",
     "link": "https://simonwillison.net/2026/Nov/16/llm/",
     "pubDate": "2026-11-16T23:57:26+00:00",
@@ -22,11 +28,5 @@
     "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
     "pubDate": "2026-11-15T23:18:17+00:00",
     "date": "2026-11-15T23:18:17+00:00"
-  },
-  {
-    "title": "datasette-apps 0.4a0",
-    "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
-    "pubDate": "2026-11-15T04:02:45+00:00",
-    "date": "2026-11-15T04:02:45+00:00"
   }
 ]
