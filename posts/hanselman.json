@@ -28,5 +28,35 @@
     "link": "https://www.hanselman.com/blog/automatically-signing-a-windows-exe-with-azure-trusted-signing-dotnet-sign-and-github-actions",
     "pubDate": "2025-11-28T19:31:25+00:00",
     "date": "2025-11-28T19:31:25+00:00"
+  },
+  {
+    "title": "Webcam randomly pausing in OBS, Discord, and websites - LSVCam and TikTok Studio",
+    "link": "https://www.hanselman.com/blog/webcam-randomly-pausing-in-obs-discord-and-websites-lsvcam-and-tiktok-studio",
+    "pubDate": "2024-10-09T19:32:28+00:00",
+    "date": "2024-10-09T19:32:28+00:00"
+  },
+  {
+    "title": "Open Sourcing DOS 4",
+    "link": "https://www.hanselman.com/blog/open-sourcing-dos-4",
+    "pubDate": "2024-04-25T16:46:13+00:00",
+    "date": "2024-04-25T16:46:13+00:00"
+  },
+  {
+    "title": "Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS",
+    "link": "https://www.hanselman.com/blog/updating-to-net-8-updating-to-ihostbuilder-and-running-playwright-tests-within-nunit-headless-or-headed-on-any-os",
+    "pubDate": "2024-03-07T01:12:13+00:00",
+    "date": "2024-03-07T01:12:13+00:00"
+  },
+  {
+    "title": "Using WSL and Let's Encrypt to create Azure App Service SSL Wildcard Certificates",
+    "link": "https://www.hanselman.com/blog/using-wsl-and-lets-encrypt-to-create-azure-app-service-ssl-wildcard-certificates",
+    "pubDate": "2023-06-27T17:17:25+00:00",
+    "date": "2023-06-27T17:17:25+00:00"
+  },
+  {
+    "title": "GitHub Copilot for CLI for PowerShell",
+    "link": "https://www.hanselman.com/blog/github-copilot-for-cli-for-powershell",
+    "pubDate": "2023-04-25T15:31:49+00:00",
+    "date": "2023-04-25T15:31:49+00:00"
   }
 ]

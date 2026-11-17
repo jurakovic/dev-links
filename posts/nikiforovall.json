@@ -28,5 +28,35 @@
     "link": "https://nikiforovall.blog/ai/2026/08/21/claude-code-plugin-monitors.html",
     "pubDate": "2026-08-21T00:00:00+00:00",
     "date": "2026-08-21T00:00:00+00:00"
+  },
+  {
+    "title": "Security Review in Claude Code - Lessons Learned",
+    "link": "https://nikiforovall.blog/ai/2026/07/28/claude-code-security.html",
+    "pubDate": "2026-07-28T00:00:00+00:00",
+    "date": "2026-07-28T00:00:00+00:00"
+  },
+  {
+    "title": "The Browser Automation Ecosystem for AI Agents: CLIs, Cloud Browsers, and AI-Native QA",
+    "link": "https://nikiforovall.blog/ai/2026/07/05/browser-automation-agents-ecosystem.html",
+    "pubDate": "2026-07-05T00:00:00+00:00",
+    "date": "2026-07-05T00:00:00+00:00"
+  },
+  {
+    "title": "Mapping the AI Context & Memory Ecosystem: context-mode, graphify, cognee, OpenMetadata",
+    "link": "https://nikiforovall.blog/ai/2026/07/04/ai-context-ecosystem.html",
+    "pubDate": "2026-07-04T00:00:00+00:00",
+    "date": "2026-07-04T00:00:00+00:00"
+  },
+  {
+    "title": "tmux-message-bus: Giving Claude Code Instances a Mailbox",
+    "link": "https://nikiforovall.blog/ai/2026/06/27/tmux-message-bus.html",
+    "pubDate": "2026-06-27T00:00:00+00:00",
+    "date": "2026-06-27T00:00:00+00:00"
+  },
+  {
+    "title": "scratch: Structured Scratchpads for Coding Agents",
+    "link": "https://nikiforovall.blog/ai/2026/06/08/scratch.html",
+    "pubDate": "2026-06-08T00:00:00+00:00",
+    "date": "2026-06-08T00:00:00+00:00"
   }
 ]

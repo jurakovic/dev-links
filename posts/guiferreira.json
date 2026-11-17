@@ -28,5 +28,275 @@
     "link": "https://guiferreira.me/archive/2025/xunit-v3-assembly-fixtures/",
     "pubDate": "2025-12-17T00:00:00+00:00",
     "date": "2025-12-17T00:00:00+00:00"
+  },
+  {
+    "title": "xUnit v3's CaptureConsole Will Save You Hours of Debugging Hell",
+    "link": "https://guiferreira.me/archive/2025/xunit-v3s-captureconsole-will-save-you-hours-of-debugging-hell/",
+    "pubDate": "2025-11-07T00:00:00+00:00",
+    "date": "2025-11-07T00:00:00+00:00"
+  },
+  {
+    "title": "How to Control Culture in xUnit Tests (with v3 Support)",
+    "link": "https://guiferreira.me/archive/2025/how-to-control-culture-in-xunit-tests-with-v3-support/",
+    "pubDate": "2025-10-30T00:00:00+00:00",
+    "date": "2025-10-30T00:00:00+00:00"
+  },
+  {
+    "title": "Stop Serving 2015 Images - Ship WebP & AVIF",
+    "link": "https://guiferreira.me/archive/2025/stop-serving-2015-images-ship-webp-and-avif/",
+    "pubDate": "2025-10-29T00:00:00+00:00",
+    "date": "2025-10-29T00:00:00+00:00"
+  },
+  {
+    "title": "A Small but Powerful Feature in xUnit v3 You’ll Use Everywhere",
+    "link": "https://guiferreira.me/archive/2025/a-small-but-powerful-feature-in-xunit-v3-youll-use-everywhere/",
+    "pubDate": "2025-05-27T00:00:00+00:00",
+    "date": "2025-05-27T00:00:00+00:00"
+  },
+  {
+    "title": "Building a C# Repository with Selective Caching and MongoDB Search Index (And Why It's Not as Simple as It Looks)",
+    "link": "https://guiferreira.me/archive/2025/building-a-csharp-repository-with-selective-caching-and-mongodb-search-index/",
+    "pubDate": "2025-05-26T00:00:00+00:00",
+    "date": "2025-05-26T00:00:00+00:00"
+  },
+  {
+    "title": "Why Vertical Slice Architecture Makes Your Team Faster (and Happier)",
+    "link": "https://guiferreira.me/archive/2025/why-vertical-slice-architecture-makes-your-team-faster-and-happier/",
+    "pubDate": "2025-05-22T00:00:00+00:00",
+    "date": "2025-05-22T00:00:00+00:00"
+  },
+  {
+    "title": "How to Debug .NET Code in Cursor AI (Even on M1/M2 Macs)",
+    "link": "https://guiferreira.me/archive/2025/how-to-debug-dotnet-code-in-cursor-ai/",
+    "pubDate": "2025-03-07T00:00:00+00:00",
+    "date": "2025-03-07T00:00:00+00:00"
+  },
+  {
+    "title": "Coupling and Cohesion in Software Engineering - A Practical Guide",
+    "link": "https://guiferreira.me/archive/2025/coupling-and-cohesion-in-software-engineering/",
+    "pubDate": "2025-03-03T00:00:00+00:00",
+    "date": "2025-03-03T00:00:00+00:00"
+  },
+  {
+    "title": "The 10 Best Architecture Diagramming Tools you need in 2025",
+    "link": "https://guiferreira.me/archive/2025/the-10-best-architecture-diagramming-tools-you-need-in-2025/",
+    "pubDate": "2025-02-08T00:00:00+00:00",
+    "date": "2025-02-08T00:00:00+00:00"
+  },
+  {
+    "title": "Less guessing, more C# à la Rust",
+    "link": "https://guiferreira.me/archive/2025/less-guessing-more-csharp-a-la-rust/",
+    "pubDate": "2025-01-20T00:00:00+00:00",
+    "date": "2025-01-20T00:00:00+00:00"
+  },
+  {
+    "title": "Building Serverless APIs with AWS Lambda and DynamoDB in .NET",
+    "link": "https://guiferreira.me/archive/2025/building-serverless-apis-with-aws-lambda-and-dynamodb-in-dotnet/",
+    "pubDate": "2025-01-03T00:00:00+00:00",
+    "date": "2025-01-03T00:00:00+00:00"
+  },
+  {
+    "title": "3 KafkaFlow Features Hard to Ignore",
+    "link": "https://guiferreira.me/archive/2023/3-kafkaflow-features-hard-to-ignore/",
+    "pubDate": "2023-12-19T00:00:00+00:00",
+    "date": "2023-12-19T00:00:00+00:00"
+  },
+  {
+    "title": "A BETTER Way to Kafka Event-Driven Applications with C#",
+    "link": "https://guiferreira.me/archive/2023/a-better-way-to-kafka-event-driven-applications-with-csharp/",
+    "pubDate": "2023-12-13T00:00:00+00:00",
+    "date": "2023-12-13T00:00:00+00:00"
+  },
+  {
+    "title": "Refactoring C# Code with the Chain of Responsibility Design Pattern",
+    "link": "https://guiferreira.me/archive/2023/refactoring-csharp-code-with-the-chain-of-responsibility-design-pattern/",
+    "pubDate": "2023-05-26T00:00:00+00:00",
+    "date": "2023-05-26T00:00:00+00:00"
+  },
+  {
+    "title": "Discover an Easy Trick to Simplify Your C# Test Assertions!",
+    "link": "https://guiferreira.me/archive/2023/discover-an-easy-trick-to-simplify-your-csharp-test-assertions/",
+    "pubDate": "2023-05-19T00:00:00+00:00",
+    "date": "2023-05-19T00:00:00+00:00"
+  },
+  {
+    "title": "Data Transfer Objects (DTOs) - When to Use Them and When to Avoid",
+    "link": "https://guiferreira.me/archive/2023/dtos-the-good-the-bad-and-the-tradeoff/",
+    "pubDate": "2023-05-05T00:00:00+00:00",
+    "date": "2023-05-05T00:00:00+00:00"
+  },
+  {
+    "title": "Moving from Controllers to .NET Minimal APIs",
+    "link": "https://guiferreira.me/archive/2023/moving-from-controllers-to-dotnet-minimal-apis/",
+    "pubDate": "2023-04-28T00:00:00+00:00",
+    "date": "2023-04-28T00:00:00+00:00"
+  },
+  {
+    "title": ".NET Integration Testing with Docker Compose",
+    "link": "https://guiferreira.me/archive/2023/dotnet-integration-testing-with-docker-compose/",
+    "pubDate": "2023-04-21T00:00:00+00:00",
+    "date": "2023-04-21T00:00:00+00:00"
+  },
+  {
+    "title": "My Simple Testing Stack (for .NET developers) [2023]",
+    "link": "https://guiferreira.me/archive/2023/my-simple-testing-stack-for-dotnet-developers-2023/",
+    "pubDate": "2023-04-18T00:00:00+00:00",
+    "date": "2023-04-18T00:00:00+00:00"
+  },
+  {
+    "title": "Why I Don't Use Loops on My Tests",
+    "link": "https://guiferreira.me/archive/2023/why-i-dont-use-loops-on-my-tests/",
+    "pubDate": "2023-04-06T00:00:00+00:00",
+    "date": "2023-04-06T00:00:00+00:00"
+  },
+  {
+    "title": "3 TDD Techniques Most People Don’t Know",
+    "link": "https://guiferreira.me/archive/2023/3-tdd-techniques-most-people-dont-know/",
+    "pubDate": "2023-03-31T00:00:00+00:00",
+    "date": "2023-03-31T00:00:00+00:00"
+  },
+  {
+    "title": "Why I Always Avoid InternalsVisibleTo in .NET, Unless...",
+    "link": "https://guiferreira.me/archive/2023/why-i-always-avoid-internalsvisibleto-in-dotnet-unless/",
+    "pubDate": "2023-03-21T00:00:00+00:00",
+    "date": "2023-03-21T00:00:00+00:00"
+  },
+  {
+    "title": "3 Types of Unit Tests (for C# Developers)",
+    "link": "https://guiferreira.me/archive/2022/3-types-of-unit-tests-for-csharp-developers/",
+    "pubDate": "2022-12-22T00:00:00+00:00",
+    "date": "2022-12-22T00:00:00+00:00"
+  },
+  {
+    "title": "3 Fluent Assertions Features You Should be Using",
+    "link": "https://guiferreira.me/archive/2022/3-fluent-assertions-features-you-should-be-using/",
+    "pubDate": "2022-12-07T00:00:00+00:00",
+    "date": "2022-12-07T00:00:00+00:00"
+  },
+  {
+    "title": "How to Organize your .NET Dependency Injection Configuration",
+    "link": "https://guiferreira.me/archive/2022/how-to-organize-your-net-dependency-injection-configuration/",
+    "pubDate": "2022-12-02T00:00:00+00:00",
+    "date": "2022-12-02T00:00:00+00:00"
+  },
+  {
+    "title": "How Structure Sensitive Tests Make Refactoring's Fail",
+    "link": "https://guiferreira.me/archive/2022/how-structure-sensitive-tests-make-refactorings-fail/",
+    "pubDate": "2022-11-23T00:00:00+00:00",
+    "date": "2022-11-23T00:00:00+00:00"
+  },
+  {
+    "title": "The Biggest Folder Structure Mistake on .NET",
+    "link": "https://guiferreira.me/archive/2022/the-biggest-folder-structure-mistake-on-net/",
+    "pubDate": "2022-11-17T00:00:00+00:00",
+    "date": "2022-11-17T00:00:00+00:00"
+  },
+  {
+    "title": "Building the Netflix Intro Animation in a .NET Console App",
+    "link": "https://guiferreira.me/archive/2022/i-built-the-netflix-intro-on-a-dotnet-console-and-this-is-how-i-have-done-it/",
+    "pubDate": "2022-11-10T00:00:00+00:00",
+    "date": "2022-11-10T00:00:00+00:00"
+  },
+  {
+    "title": "DateTimeOffset vs DateTime - What's the difference?",
+    "link": "https://guiferreira.me/archive/2022/datetimeoffset-vs-datetime-whats-the-difference/",
+    "pubDate": "2022-10-25T00:00:00+00:00",
+    "date": "2022-10-25T00:00:00+00:00"
+  },
+  {
+    "title": "How the DRY Principle can damage your tests (C# Developers)",
+    "link": "https://guiferreira.me/archive/2022/how-dry-can-damage-your-tests/",
+    "pubDate": "2022-10-18T00:00:00+00:00",
+    "date": "2022-10-18T00:00:00+00:00"
+  },
+  {
+    "title": "The missing Project that fixes everything in .NET",
+    "link": "https://guiferreira.me/archive/2022/the-missing-project-that-fixes-everything-in-dotnet/",
+    "pubDate": "2022-09-27T00:00:00+00:00",
+    "date": "2022-09-27T00:00:00+00:00"
+  },
+  {
+    "title": "How to apply Hexagonal Architecture with .NET",
+    "link": "https://guiferreira.me/archive/2022/how-to-apply-hexagonal-architecture-with-dotnet/",
+    "pubDate": "2022-09-19T00:00:00+00:00",
+    "date": "2022-09-19T00:00:00+00:00"
+  },
+  {
+    "title": "Hexagonal Architecture for .NET Developers (Beginners)",
+    "link": "https://guiferreira.me/archive/2022/hexagonal-architecture-for-dotnet-developers-beginners/",
+    "pubDate": "2022-09-12T00:00:00+00:00",
+    "date": "2022-09-12T00:00:00+00:00"
+  },
+  {
+    "title": "5 things Microsoft needs to do to make Central Package Management widely used",
+    "link": "https://guiferreira.me/archive/2022/5-things-microsoft-needs-to-do-to-make-central-package-management-widely-used/",
+    "pubDate": "2022-09-05T00:00:00+00:00",
+    "date": "2022-09-05T00:00:00+00:00"
+  },
+  {
+    "title": "C# 11 Required Members, the imperfectly awesome feature",
+    "link": "https://guiferreira.me/archive/2022/csharp-11-required-members-the-imperfectly-awesome-feature/",
+    "pubDate": "2022-08-28T00:00:00+00:00",
+    "date": "2022-08-28T00:00:00+00:00"
+  },
+  {
+    "title": "C# 11 Auto Default Structs in depth",
+    "link": "https://guiferreira.me/archive/2022/csharp-11-auto-default-structs-in-depth/",
+    "pubDate": "2022-08-22T00:00:00+00:00",
+    "date": "2022-08-22T00:00:00+00:00"
+  },
+  {
+    "title": "Finding .NET Transitive Dependencies and Tidying Up Your Project",
+    "link": "https://guiferreira.me/archive/2022/finding-dotnet-transitive-dependencies-and-tidying-up-your-project/",
+    "pubDate": "2022-08-16T00:00:00+00:00",
+    "date": "2022-08-16T00:00:00+00:00"
+  },
+  {
+    "title": "C# 11 UTF-8 String Literals - Ignore everything you have seen so far",
+    "link": "https://guiferreira.me/archive/2022/csharp-11-utf-8-string-literals-ignore-everything-you-have-seen-so-far/",
+    "pubDate": "2022-08-08T00:00:00+00:00",
+    "date": "2022-08-08T00:00:00+00:00"
+  },
+  {
+    "title": "C# 11 Generic Attributes More Than Syntax Sugar",
+    "link": "https://guiferreira.me/archive/2022/csharp-11-generic-attributes-more-than-syntax-sugar/",
+    "pubDate": "2022-06-30T00:00:00+00:00",
+    "date": "2022-06-30T00:00:00+00:00"
+  },
+  {
+    "title": "A Gentle Introduction to C# 11 List Patterns",
+    "link": "https://guiferreira.me/archive/2022/a-gentle-introduction-to-csharp-11-list-patterns/",
+    "pubDate": "2022-06-20T00:00:00+00:00",
+    "date": "2022-06-20T00:00:00+00:00"
+  },
+  {
+    "title": "The Complete Guide to C# 11 Raw String Literals",
+    "link": "https://guiferreira.me/archive/2022/the-complete-guide-to-csharp-11-raw-string-literals/",
+    "pubDate": "2022-06-03T00:00:00+00:00",
+    "date": "2022-06-03T00:00:00+00:00"
+  },
+  {
+    "title": "The Blind Spot of C# Records Immutability",
+    "link": "https://guiferreira.me/archive/2022/the-blind-spot-of-csharp-records-immutability/",
+    "pubDate": "2022-05-24T00:00:00+00:00",
+    "date": "2022-05-24T00:00:00+00:00"
+  },
+  {
+    "title": "Quick Wins for .NET build pipelines",
+    "link": "https://guiferreira.me/archive/2022/quick-wins-for-dotnet-build-pipelines/",
+    "pubDate": "2022-02-23T00:00:00+00:00",
+    "date": "2022-02-23T00:00:00+00:00"
+  },
+  {
+    "title": "Providing a better experience for .NET developers with Caller Argument Expressions",
+    "link": "https://guiferreira.me/archive/2022/providing-a-better-experience-for-dotnet-developers-with-caller-argument-expressions/",
+    "pubDate": "2022-02-21T00:00:00+00:00",
+    "date": "2022-02-21T00:00:00+00:00"
+  },
+  {
+    "title": "Embedding dotnet format in your development cycle",
+    "link": "https://guiferreira.me/archive/2022/embedding-dotnet-format-in-your-development-cycle/",
+    "pubDate": "2022-02-11T00:00:00+00:00",
+    "date": "2022-02-11T00:00:00+00:00"
   }
 ]

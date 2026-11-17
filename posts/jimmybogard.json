@@ -28,5 +28,65 @@
     "link": "https://www.jimmybogard.com/automapper-16-1-1-released/",
     "pubDate": "2026-03-13T15:58:13+00:00",
     "date": "2026-03-13T15:58:13+00:00"
+  },
+  {
+    "title": "AutoMapper 16.1 and MediatR 14.1 Released",
+    "link": "https://www.jimmybogard.com/automapper-16-1-and-mediatr-14-1-released/",
+    "pubDate": "2026-03-03T21:50:55+00:00",
+    "date": "2026-03-03T21:50:55+00:00"
+  },
+  {
+    "title": "AutoMapper 16.0.0 and MediatR 14.0.0 Released with .NET 10 Support",
+    "link": "https://www.jimmybogard.com/automapper-16-0-0-and-mediatr-14-0-0-released-with-net-10-support/",
+    "pubDate": "2025-12-03T21:23:28+00:00",
+    "date": "2025-12-03T21:23:28+00:00"
+  },
+  {
+    "title": "AutoMapper 15.1 and MediatR 13.1 Released",
+    "link": "https://www.jimmybogard.com/automapper-15-1-and-mediatr-13-1-released/",
+    "pubDate": "2025-11-03T22:06:16+00:00",
+    "date": "2025-11-03T22:06:16+00:00"
+  },
+  {
+    "title": "AutoMapper and MediatR Roadmaps",
+    "link": "https://www.jimmybogard.com/automapper-and-mediatr-roadmaps/",
+    "pubDate": "2025-07-08T15:15:32+00:00",
+    "date": "2025-07-08T15:15:32+00:00"
+  },
+  {
+    "title": "AutoMapper and MediatR Commercial Editions Launch Today",
+    "link": "https://www.jimmybogard.com/automapper-and-mediatr-commercial-editions-launch-today/",
+    "pubDate": "2025-07-02T15:00:12+00:00",
+    "date": "2025-07-02T15:00:12+00:00"
+  },
+  {
+    "title": "AutoMapper and MediatR Licensing Update",
+    "link": "https://www.jimmybogard.com/automapper-and-mediatr-licensing-update/",
+    "pubDate": "2025-04-16T05:15:28+00:00",
+    "date": "2025-04-16T05:15:28+00:00"
+  },
+  {
+    "title": "AutoMapper and MediatR Going Commercial",
+    "link": "https://www.jimmybogard.com/automapper-and-mediatr-going-commercial/",
+    "pubDate": "2025-04-02T13:00:12+00:00",
+    "date": "2025-04-02T13:00:12+00:00"
+  },
+  {
+    "title": "MediatR 12.5.0 Released",
+    "link": "https://www.jimmybogard.com/mediatr-12-5-0-released/",
+    "pubDate": "2025-04-01T18:50:06+00:00",
+    "date": "2025-04-01T18:50:06+00:00"
+  },
+  {
+    "title": "AutoMapper 14.0 Released",
+    "link": "https://www.jimmybogard.com/automapper-14-0-released/",
+    "pubDate": "2025-02-19T13:41:24+00:00",
+    "date": "2025-02-19T13:41:24+00:00"
+  },
+  {
+    "title": "Integrating the Particular Service Platform with Aspire",
+    "link": "https://www.jimmybogard.com/integrating-the-particular-service-platform-with-aspire/",
+    "pubDate": "2024-09-24T22:48:57+00:00",
+    "date": "2024-09-24T22:48:57+00:00"
   }
 ]

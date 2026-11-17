@@ -28,5 +28,35 @@
     "link": "https://sqlperformance.com/2026/08/sql-job/idempotent-script",
     "pubDate": "2026-08-18T09:01:07+00:00",
     "date": "2026-08-18T09:01:07+00:00"
+  },
+  {
+    "title": "It's Time to Break Up with Archive Tables",
+    "link": "https://sqlperformance.com/2026/07/partitioning/its-time-to-break-up-with-archive-tables",
+    "pubDate": "2026-07-27T09:00:52+00:00",
+    "date": "2026-07-27T09:00:52+00:00"
+  },
+  {
+    "title": "SolarWinds Database Performance Analyzer Now Supports SAP HANA",
+    "link": "https://sqlperformance.com/2026/07/sql-performance/solarwinds-database-performance-analyzer-now-supports-sap-hana",
+    "pubDate": "2026-07-03T17:33:10+00:00",
+    "date": "2026-07-03T17:33:10+00:00"
+  },
+  {
+    "title": "Dealing With Explosive sysjobhistory Growth",
+    "link": "https://sqlperformance.com/2026/06/t-sql-queries/explosive-sysjobhistory-growth",
+    "pubDate": "2026-06-24T17:21:26+00:00",
+    "date": "2026-06-24T17:21:26+00:00"
+  },
+  {
+    "title": "Beyond the Hype: What Independent Benchmarks Say About SolarWinds Database Observability",
+    "link": "https://sqlperformance.com/2026/06/sql-performance/beyond-the-hype-what-independent-benchmarks-say-about-database-observability-by-solarwinds",
+    "pubDate": "2026-06-23T17:08:53+00:00",
+    "date": "2026-06-23T17:08:53+00:00"
+  },
+  {
+    "title": "The High-Performance DBA: Total Recall, Part 2: SQL Server Memory, Plan Cache, and Query Patterns",
+    "link": "https://sqlperformance.com/2026/05/sql-performance/the-high-performance-dba-total-recall-part-2-sql-server-memory-plan-cache-and-query-patterns",
+    "pubDate": "2026-05-28T18:09:52+00:00",
+    "date": "2026-05-28T18:09:52+00:00"
   }
 ]

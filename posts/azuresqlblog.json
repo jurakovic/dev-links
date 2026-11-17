@@ -6,6 +6,12 @@
     "date": "2026-11-12T23:01:16+00:00"
   },
   {
+    "title": "Public Preview: Performance monitoring for Azure SQL in Database Hub",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498",
+    "pubDate": "2026-11-10T17:00:00+00:00",
+    "date": "2026-11-10T17:00:00+00:00"
+  },
+  {
     "title": "Closing a monitoring blind spot: version store read metrics",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/closing-a-monitoring-blind-spot-version-store-read-metrics/ba-p/4571741",
     "pubDate": "2026-11-09T20:45:44+00:00",
@@ -28,5 +34,89 @@
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/managing-security-with-database-hub-in-fabric-from-signals-to/ba-p/4567059",
     "pubDate": "2026-10-23T23:01:32+00:00",
     "date": "2026-10-23T23:01:32+00:00"
+  },
+  {
+    "title": "Public Preview: Alerts for Azure SQL Database in Database Hub, powered by Fabric Activator",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-alerts-for-azure-sql-database-in-database-hub/ba-p/4566356",
+    "pubDate": "2026-10-23T17:00:00+00:00",
+    "date": "2026-10-23T17:00:00+00:00"
+  },
+  {
+    "title": "MI link support for multiple databases in an Always On availability group for SQL Server (Preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4560546",
+    "pubDate": "2026-10-22T13:13:16+00:00",
+    "date": "2026-10-22T13:13:16+00:00"
+  },
+  {
+    "title": "Modern Query Editor for Azure SQL Database is now generally available",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/modern-query-editor-for-azure-sql-database-is-now-generally/ba-p/4566868",
+    "pubDate": "2026-10-22T12:56:40+00:00",
+    "date": "2026-10-22T12:56:40+00:00"
+  },
+  {
+    "title": "Managed Instance link with failover groups (limited preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/managed-instance-link-with-failover-groups-limited-preview/ba-p/4566514",
+    "pubDate": "2026-10-22T12:24:00+00:00",
+    "date": "2026-10-22T12:24:00+00:00"
+  },
+  {
+    "title": "Make Estate yours: Focus on the databases and issues you own in Database Hub",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/make-estate-yours-focus-on-the-databases-and-issues-you-own-in/ba-p/4565861",
+    "pubDate": "2026-10-21T15:41:22+00:00",
+    "date": "2026-10-21T15:41:22+00:00"
+  },
+  {
+    "title": "Introducing Simplified Regional Limits for Azure SQL Managed Instance",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/introducing-simplified-regional-limits-for-azure-sql-managed/ba-p/4542886",
+    "pubDate": "2026-10-12T19:08:49+00:00",
+    "date": "2026-10-12T19:08:49+00:00"
+  },
+  {
+    "title": "Database Hub in Fabric: Now in Public Preview -Turn Database Signals into Guided Action",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-fabric-now-in-public-preview-turn-database/ba-p/4560846",
+    "pubDate": "2026-10-07T19:57:26+00:00",
+    "date": "2026-10-07T19:57:26+00:00"
+  },
+  {
+    "title": "Azure SQL Database is retiring Always Encrypted with Intel SGX enclaves",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-database-is-retiring-always-encrypted-with-intel-sgx/ba-p/4556565",
+    "pubDate": "2026-10-07T09:15:52+00:00",
+    "date": "2026-10-07T09:15:52+00:00"
+  },
+  {
+    "title": "Public Preview: Auto-pause and auto-resume for Azure SQL Database Hyperscale Serverless",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-auto-pause-and-auto-resume-for-azure-sql-database/ba-p/4560907",
+    "pubDate": "2026-09-29T23:02:07+00:00",
+    "date": "2026-09-29T23:02:07+00:00"
+  },
+  {
+    "title": "Announcing the public preview of Local Time Zone Support in Azure SQL Database",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/announcing-the-public-preview-of-local-time-zone-support-in/ba-p/4560217",
+    "pubDate": "2026-09-28T14:54:42+00:00",
+    "date": "2026-09-28T14:54:42+00:00"
+  },
+  {
+    "title": "More performance and flexibility for Azure SQL Managed Instance Business Critical",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/more-performance-and-flexibility-for-azure-sql-managed-instance/ba-p/4559057",
+    "pubDate": "2026-09-28T13:45:49+00:00",
+    "date": "2026-09-28T13:45:49+00:00"
+  },
+  {
+    "title": "Understanding DevOps Auditing API Migration Behavior in Azure SQL Database",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/understanding-devops-auditing-api-migration-behavior-in-azure/ba-p/4551723",
+    "pubDate": "2026-09-23T10:30:33+00:00",
+    "date": "2026-09-23T10:30:33+00:00"
+  },
+  {
+    "title": "SQL Data Sync – the final phase of retirement",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/sql-data-sync-the-final-phase-of-retirement/ba-p/4554796",
+    "pubDate": "2026-09-09T10:38:14+00:00",
+    "date": "2026-09-09T10:38:14+00:00"
+  },
+  {
+    "title": "ICYMI: New Azure SQL Foundations video series with GitHub samples",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/icymi-new-azure-sql-foundations-video-series-with-github-samples/ba-p/4550489",
+    "pubDate": "2026-08-26T12:41:16+00:00",
+    "date": "2026-08-26T12:41:16+00:00"
   }
 ]

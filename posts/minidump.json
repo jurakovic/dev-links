@@ -28,5 +28,275 @@
     "link": "https://minidump.net/an-unexpected-profiler-trap/",
     "pubDate": "2026-02-20T16:36:34+00:00",
     "date": "2026-02-20T16:36:34+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 7: Marking handles",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-7/",
+    "pubDate": "2026-02-10T00:00:00+00:00",
+    "date": "2026-02-10T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 6: Mark and Sweep",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-6/",
+    "pubDate": "2026-01-27T00:00:00+00:00",
+    "date": "2026-01-27T00:00:00+00:00"
+  },
+  {
+    "title": "Investigating a deadlock in Visual Studio",
+    "link": "https://minidump.net/investigating-a-deadlock-in-visual-studio/",
+    "pubDate": "2025-12-17T00:00:00+00:00",
+    "date": "2025-12-17T00:00:00+00:00"
+  },
+  {
+    "title": "Using profiler function hooks in .NET with Silhouette",
+    "link": "https://minidump.net/using-function-hooks-with-silhouette/",
+    "pubDate": "2025-10-21T00:00:00+00:00",
+    "date": "2025-10-21T00:00:00+00:00"
+  },
+  {
+    "title": "Measuring UI responsiveness in Resharper",
+    "link": "https://minidump.net/measuring-ui-responsiveness/",
+    "pubDate": "2025-09-18T00:00:00+00:00",
+    "date": "2025-09-18T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 5",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-5/",
+    "pubDate": "2025-03-11T00:00:00+00:00",
+    "date": "2025-03-11T00:00:00+00:00"
+  },
+  {
+    "title": "Pro .NET Memory Management 2nd Edition",
+    "link": "https://minidump.net/pro-net-memory-management/",
+    "pubDate": "2025-03-04T00:00:00+00:00",
+    "date": "2025-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 4",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-4/",
+    "pubDate": "2025-02-18T00:00:00+00:00",
+    "date": "2025-02-18T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 3",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-3/",
+    "pubDate": "2025-02-11T00:00:00+00:00",
+    "date": "2025-02-11T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 2",
+    "link": "https://minidump.net/writing-a-net-gc-in-c-part-2/",
+    "pubDate": "2025-02-04T00:00:00+00:00",
+    "date": "2025-02-04T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET Garbage Collector in C#  -  Part 1",
+    "link": "https://minidump.net/2025-28-01-writing-a-net-gc-in-c-part-1/",
+    "pubDate": "2025-01-28T00:00:00+00:00",
+    "date": "2025-01-28T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET profiler in C#  -  Part 5",
+    "link": "https://minidump.net/writing-a-net-profiler-in-c-part-5/",
+    "pubDate": "2025-01-07T00:00:00+00:00",
+    "date": "2025-01-07T00:00:00+00:00"
+  },
+  {
+    "title": "Using Windows Error Reporting in .NET",
+    "link": "https://minidump.net/windows-error-reporting/",
+    "pubDate": "2024-09-03T00:00:00+00:00",
+    "date": "2024-09-03T00:00:00+00:00"
+  },
+  {
+    "title": "Crash in the crash-analyzer",
+    "link": "https://minidump.net/crash-in-the-crashanalyzer/",
+    "pubDate": "2024-04-09T00:00:00+00:00",
+    "date": "2024-04-09T00:00:00+00:00"
+  },
+  {
+    "title": "GummyCat - Visualize the activity of the .NET garbage collector",
+    "link": "https://minidump.net/gummycat/",
+    "pubDate": "2024-02-27T00:00:00+00:00",
+    "date": "2024-02-27T00:00:00+00:00"
+  },
+  {
+    "title": "Dumping the managed heap in C#",
+    "link": "https://minidump.net/dumping-the-managed-heap-in-csharp/",
+    "pubDate": "2024-02-13T00:00:00+00:00",
+    "date": "2024-02-13T00:00:00+00:00"
+  },
+  {
+    "title": "Exploring .NET frozen segments",
+    "link": "https://minidump.net/exploring-frozen-segments/",
+    "pubDate": "2024-01-14T00:00:00+00:00",
+    "date": "2024-01-14T00:00:00+00:00"
+  },
+  {
+    "title": "Memory alignment of doubles in C#",
+    "link": "https://minidump.net/memory-alignment-of-doubles-in-c-1d13e3ce741/",
+    "pubDate": "2023-09-30T00:00:00+00:00",
+    "date": "2023-09-30T00:00:00+00:00"
+  },
+  {
+    "title": "SuppressGCTransition",
+    "link": "https://minidump.net/suppressgctransition-b9a8a774edbd/",
+    "pubDate": "2023-08-12T00:00:00+00:00",
+    "date": "2023-08-12T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET profiler in C# — Part 4",
+    "link": "https://minidump.net/writing-a-net-profiler-in-c-part-4-c54df903b9ce/",
+    "pubDate": "2023-06-10T00:00:00+00:00",
+    "date": "2023-06-10T00:00:00+00:00"
+  },
+  {
+    "title": "VerificationException in .NET Framework when using structs",
+    "link": "https://minidump.net/verificationexception-in-net-framework-when-using-structs-6269eb3df448/",
+    "pubDate": "2023-05-01T00:00:00+00:00",
+    "date": "2023-05-01T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET profiler in C#   — Part 3",
+    "link": "https://minidump.net/writing-a-net-profiler-in-c-part-3-7d2c59fc017f/",
+    "pubDate": "2023-03-03T00:00:00+00:00",
+    "date": "2023-03-03T00:00:00+00:00"
+  },
+  {
+    "title": "Reading .NET performance counters without the PerfCounter API",
+    "link": "https://minidump.net/reading-net-performance-counters-without-the-perfcounter-api-aca5eab08874/",
+    "pubDate": "2023-02-12T00:00:00+00:00",
+    "date": "2023-02-12T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET profiler in C#  —  Part 2",
+    "link": "https://minidump.net/writing-a-net-profiler-in-c-part-2-8039da001e43/",
+    "pubDate": "2023-01-11T00:00:00+00:00",
+    "date": "2023-01-11T00:00:00+00:00"
+  },
+  {
+    "title": "Using GC.KeepAlive in async methods",
+    "link": "https://minidump.net/c-using-gc-keepalive-in-async-methods-8d20fd79f0a0/",
+    "pubDate": "2022-09-05T00:00:00+00:00",
+    "date": "2022-09-05T00:00:00+00:00"
+  },
+  {
+    "title": "Why function pointers can't be used on instance methods in C#",
+    "link": "https://minidump.net/c-why-function-pointers-cant-be-used-on-instance-methods-8a99fc99b040/",
+    "pubDate": "2022-07-26T00:00:00+00:00",
+    "date": "2022-07-26T00:00:00+00:00"
+  },
+  {
+    "title": "Writing a .NET profiler in C# - Part 1",
+    "link": "https://minidump.net/writing-a-net-profiler-in-c-part-1-d3978aae9b12/",
+    "pubDate": "2022-07-11T00:00:00+00:00",
+    "date": "2022-07-11T00:00:00+00:00"
+  },
+  {
+    "title": "Writing native WinDbg extensions in C#",
+    "link": "https://minidump.net/writing-native-windbg-extensions-in-c-5390726f3cec/",
+    "pubDate": "2022-02-08T00:00:00+00:00",
+    "date": "2022-02-08T00:00:00+00:00"
+  },
+  {
+    "title": "Finding an instance of thread by id in WinDbg",
+    "link": "https://minidump.net/finding-an-instance-of-thread-by-id-in-windbg-d9fd9a4f1bac/",
+    "pubDate": "2021-09-16T00:00:00+00:00",
+    "date": "2021-09-16T00:00:00+00:00"
+  },
+  {
+    "title": "Reading AsyncLocal values from a memory dump",
+    "link": "https://minidump.net/reading-asynclocal-values-from-a-memory-dump-8be356a46b29/",
+    "pubDate": "2021-09-16T00:00:00+00:00",
+    "date": "2021-09-16T00:00:00+00:00"
+  },
+  {
+    "title": "Analyze your memory dumps in C# with DynaMD",
+    "link": "https://minidump.net/analyze-your-memory-dumps-in-c-with-dynamd-8e4b110b9d3a/",
+    "pubDate": "2021-07-16T00:00:00+00:00",
+    "date": "2021-07-16T00:00:00+00:00"
+  },
+  {
+    "title": "Showing unresolved functions in PerfView",
+    "link": "https://minidump.net/showing-unresolved-functions-in-perfview-ab6cd899cb94/",
+    "pubDate": "2021-06-02T00:00:00+00:00",
+    "date": "2021-06-02T00:00:00+00:00"
+  },
+  {
+    "title": "An unconventional way of investigating a NullReferenceException",
+    "link": "https://minidump.net/an-unconventional-way-of-investigating-a-nullreferenceexception-5628cca01d6a/",
+    "pubDate": "2021-03-16T00:00:00+00:00",
+    "date": "2021-03-16T00:00:00+00:00"
+  },
+  {
+    "title": "Debugging a native deadlock in a .NET Linux application",
+    "link": "https://minidump.net/investigating-a-native-deadlock-in-a-net-linux-application-97979a005ebd/",
+    "pubDate": "2021-02-09T00:00:00+00:00",
+    "date": "2021-02-09T00:00:00+00:00"
+  },
+  {
+    "title": "AccessViolation in ObjectNative::IsLockHeld (part 2 of 2)",
+    "link": "https://minidump.net/accessviolation-in-objectnative-islockheld-part-2-of-2-a703e484113c/",
+    "pubDate": "2020-11-25T00:00:00+00:00",
+    "date": "2020-11-25T00:00:00+00:00"
+  },
+  {
+    "title": "AccessViolation in ObjectNative::IsLockHeld (part 1 of 2)",
+    "link": "https://minidump.net/accessviolation-in-objectnative-islockheld-part-1-of-2-7fae4b839f9a/",
+    "pubDate": "2020-11-05T00:00:00+00:00",
+    "date": "2020-11-05T00:00:00+00:00"
+  },
+  {
+    "title": "Investigating an InvalidProgramException from a memory dump (part 3 of 3)",
+    "link": "https://minidump.net/investigating-an-invalidprogramexception-from-a-memory-dump-part-3-of-3-c1d912075cb1/",
+    "pubDate": "2020-09-10T00:00:00+00:00",
+    "date": "2020-09-10T00:00:00+00:00"
+  },
+  {
+    "title": "Investigating an InvalidProgramException from a memory dump (part 2 of 3)",
+    "link": "https://minidump.net/investigating-an-invalidprogramexception-from-a-memory-dump-part-2-of-3-daaecd8f3cf4/",
+    "pubDate": "2020-09-01T00:00:00+00:00",
+    "date": "2020-09-01T00:00:00+00:00"
+  },
+  {
+    "title": "Investigating an InvalidProgramException from a memory dump (part 1 of 3)",
+    "link": "https://minidump.net/investigating-an-invalidprogramexception-from-a-memory-dump-part-1-of-3-bce634460cc3/",
+    "pubDate": "2020-08-26T00:00:00+00:00",
+    "date": "2020-08-26T00:00:00+00:00"
+  },
+  {
+    "title": "Tricked by WebRequest",
+    "link": "https://minidump.net/c-tricked-by-webrequest-209014d99653/",
+    "pubDate": "2020-08-14T00:00:00+00:00",
+    "date": "2020-08-14T00:00:00+00:00"
+  },
+  {
+    "title": "Monitor GC stats with a startup hook",
+    "link": "https://minidump.net/monitor-gc-stats-with-a-startup-hook-55aa03dedea3/",
+    "pubDate": "2020-06-21T00:00:00+00:00",
+    "date": "2020-06-21T00:00:00+00:00"
+  },
+  {
+    "title": "Check what .net core GC keywords are enabled without a debugger",
+    "link": "https://minidump.net/check-what-net-core-gc-keywords-are-enabled-without-a-debugger-d616745c0d0e/",
+    "pubDate": "2020-05-18T00:00:00+00:00",
+    "date": "2020-05-18T00:00:00+00:00"
+  },
+  {
+    "title": "Performance best practices in C#",
+    "link": "https://minidump.net/performance-best-practices-in-c-b85a47bdd93a/",
+    "pubDate": "2020-05-12T00:00:00+00:00",
+    "date": "2020-05-12T00:00:00+00:00"
+  },
+  {
+    "title": ".NET ThreadPool starvation, and how queuing makes it worse",
+    "link": "https://minidump.net/net-threadpool-starvation-and-how-queuing-makes-it-worse-512c8d570527/",
+    "pubDate": "2020-04-27T00:00:00+00:00",
+    "date": "2020-04-27T00:00:00+00:00"
+  },
+  {
+    "title": "Turning your training bike into a Speed remake",
+    "link": "https://minidump.net/turning-your-training-bike-into-a-speed-remake-bceb4ea3d114/",
+    "pubDate": "2020-04-14T00:00:00+00:00",
+    "date": "2020-04-14T00:00:00+00:00"
   }
 ]

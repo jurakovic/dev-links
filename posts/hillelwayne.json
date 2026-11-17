@@ -28,5 +28,275 @@
     "link": "https://www.hillelwayne.com/post/algdt-history/",
     "pubDate": "2025-09-25T00:00:00+00:00",
     "date": "2025-09-25T00:00:00+00:00"
+  },
+  {
+    "title": "Gamer Games for Non-Gamers",
+    "link": "https://www.hillelwayne.com/post/vidja-games/",
+    "pubDate": "2025-04-01T00:00:00+00:00",
+    "date": "2025-04-01T00:00:00+00:00"
+  },
+  {
+    "title": "A Perplexing Javascript Parsing Puzzle",
+    "link": "https://www.hillelwayne.com/post/javascript-puzzle/",
+    "pubDate": "2025-03-12T00:00:00+00:00",
+    "date": "2025-03-12T00:00:00+00:00"
+  },
+  {
+    "title": "The Hierarchy of Controls (or how to stop devs from dropping prod)",
+    "link": "https://www.hillelwayne.com/post/hoc/",
+    "pubDate": "2025-03-04T00:00:00+00:00",
+    "date": "2025-03-04T00:00:00+00:00"
+  },
+  {
+    "title": "Hiatus",
+    "link": "https://www.hillelwayne.com/post/hiatus/",
+    "pubDate": "2024-09-11T00:00:00+00:00",
+    "date": "2024-09-11T00:00:00+00:00"
+  },
+  {
+    "title": "Toolbox languages",
+    "link": "https://www.hillelwayne.com/post/toolbox-languages/",
+    "pubDate": "2024-07-15T00:00:00+00:00",
+    "date": "2024-07-15T00:00:00+00:00"
+  },
+  {
+    "title": "Composing TLA+ Specifications with State Machines",
+    "link": "https://www.hillelwayne.com/post/composing-tla/",
+    "pubDate": "2024-06-17T00:00:00+00:00",
+    "date": "2024-06-17T00:00:00+00:00"
+  },
+  {
+    "title": "Software Friction",
+    "link": "https://www.hillelwayne.com/post/software-friction/",
+    "pubDate": "2024-05-01T00:00:00+00:00",
+    "date": "2024-05-01T00:00:00+00:00"
+  },
+  {
+    "title": "Don't let Alloy facts make your specs a fiction",
+    "link": "https://www.hillelwayne.com/post/alloy-facts/",
+    "pubDate": "2024-04-10T00:00:00+00:00",
+    "date": "2024-04-10T00:00:00+00:00"
+  },
+  {
+    "title": "How old is the name 'Daniel'?",
+    "link": "https://www.hillelwayne.com/post/tale-of-daniel/",
+    "pubDate": "2024-04-01T00:00:00+00:00",
+    "date": "2024-04-01T00:00:00+00:00"
+  },
+  {
+    "title": "The Hunt for the Missing Data Type",
+    "link": "https://www.hillelwayne.com/post/graph-types/",
+    "pubDate": "2024-03-02T00:00:00+00:00",
+    "date": "2024-03-02T00:00:00+00:00"
+  },
+  {
+    "title": "Planner programming blows my mind",
+    "link": "https://www.hillelwayne.com/post/picat/",
+    "pubDate": "2024-02-20T00:00:00+00:00",
+    "date": "2024-02-20T00:00:00+00:00"
+  },
+  {
+    "title": "An RNG that runs in your brain",
+    "link": "https://www.hillelwayne.com/post/randomness/",
+    "pubDate": "2024-01-22T00:00:00+00:00",
+    "date": "2024-01-22T00:00:00+00:00"
+  },
+  {
+    "title": "The World and the Machine",
+    "link": "https://www.hillelwayne.com/post/world-vs-machine/",
+    "pubDate": "2024-01-04T00:00:00+00:00",
+    "date": "2024-01-04T00:00:00+00:00"
+  },
+  {
+    "title": "Notes on Every Strangeloop 2023 Talk I Attended",
+    "link": "https://www.hillelwayne.com/post/strangeloop-23/",
+    "pubDate": "2023-12-05T00:00:00+00:00",
+    "date": "2023-12-05T00:00:00+00:00"
+  },
+  {
+    "title": "A better explanation of the Liskov Substitution Principle",
+    "link": "https://www.hillelwayne.com/post/lsp/",
+    "pubDate": "2023-11-07T00:00:00+00:00",
+    "date": "2023-11-07T00:00:00+00:00"
+  },
+  {
+    "title": "Learn AutoHotKey by stealing my scripts",
+    "link": "https://www.hillelwayne.com/post/ahk-scripts-project/",
+    "pubDate": "2023-08-21T00:00:00+00:00",
+    "date": "2023-08-21T00:00:00+00:00"
+  },
+  {
+    "title": "My Problem With the Four-Document Model",
+    "link": "https://www.hillelwayne.com/post/problems-with-the-4doc-model/",
+    "pubDate": "2023-07-05T00:00:00+00:00",
+    "date": "2023-07-05T00:00:00+00:00"
+  },
+  {
+    "title": "Somehow AutoHotKey is kinda good now",
+    "link": "https://www.hillelwayne.com/post/ahk-v2/",
+    "pubDate": "2023-05-03T00:00:00+00:00",
+    "date": "2023-05-03T00:00:00+00:00"
+  },
+  {
+    "title": "Breaking the limits of TLA+ model checking",
+    "link": "https://www.hillelwayne.com/post/graphing-tla/",
+    "pubDate": "2023-04-17T00:00:00+00:00",
+    "date": "2023-04-17T00:00:00+00:00"
+  },
+  {
+    "title": "Ten weird things you can buy online (and why you would)",
+    "link": "https://www.hillelwayne.com/post/weird-things-you-can-buy/",
+    "pubDate": "2023-04-01T00:00:00+00:00",
+    "date": "2023-04-01T00:00:00+00:00"
+  },
+  {
+    "title": "That Time Indiana Almost Made π 3.2",
+    "link": "https://www.hillelwayne.com/post/indiana-pi-bill/",
+    "pubDate": "2023-03-14T00:00:00+00:00",
+    "date": "2023-03-14T00:00:00+00:00"
+  },
+  {
+    "title": "A Neovim Task Runner in 30 lines of Lua",
+    "link": "https://www.hillelwayne.com/post/task-runner-neovim/",
+    "pubDate": "2023-03-13T00:00:00+00:00",
+    "date": "2023-03-13T00:00:00+00:00"
+  },
+  {
+    "title": "NP-Complete isn't (always) Hard",
+    "link": "https://www.hillelwayne.com/post/np-hard/",
+    "pubDate": "2023-02-20T00:00:00+00:00",
+    "date": "2023-02-20T00:00:00+00:00"
+  },
+  {
+    "title": "Sources of Complexity: Constraints",
+    "link": "https://www.hillelwayne.com/post/complexity-constraints/",
+    "pubDate": "2023-01-23T00:00:00+00:00",
+    "date": "2023-01-23T00:00:00+00:00"
+  },
+  {
+    "title": "Let's Prove Leftpad",
+    "link": "https://www.hillelwayne.com/post/lpl/",
+    "pubDate": "2022-11-16T00:00:00+00:00",
+    "date": "2022-11-16T00:00:00+00:00"
+  },
+  {
+    "title": "Notes on Every Strangeloop 2022 Talk I Attended",
+    "link": "https://www.hillelwayne.com/post/strangeloop-22/",
+    "pubDate": "2022-11-02T00:00:00+00:00",
+    "date": "2022-11-02T00:00:00+00:00"
+  },
+  {
+    "title": "Safety and Liveness Properties",
+    "link": "https://www.hillelwayne.com/post/safety-and-liveness/",
+    "pubDate": "2022-09-06T00:00:00+00:00",
+    "date": "2022-09-06T00:00:00+00:00"
+  },
+  {
+    "title": "Software Mimicry",
+    "link": "https://www.hillelwayne.com/post/software-mimicry/",
+    "pubDate": "2022-08-29T00:00:00+00:00",
+    "date": "2022-08-29T00:00:00+00:00"
+  },
+  {
+    "title": "Crimes with Python's Pattern Matching",
+    "link": "https://www.hillelwayne.com/post/python-abc/",
+    "pubDate": "2022-07-31T00:00:00+00:00",
+    "date": "2022-07-31T00:00:00+00:00"
+  },
+  {
+    "title": "Announcing: Learn TLA+",
+    "link": "https://www.hillelwayne.com/post/learntla/",
+    "pubDate": "2022-07-01T00:00:00+00:00",
+    "date": "2022-07-01T00:00:00+00:00"
+  },
+  {
+    "title": "I ❤️ Microscopes",
+    "link": "https://www.hillelwayne.com/post/microscopy/",
+    "pubDate": "2022-04-01T00:00:00+00:00",
+    "date": "2022-04-01T00:00:00+00:00"
+  },
+  {
+    "title": "Hiatus",
+    "link": "https://www.hillelwayne.com/post/haitus/",
+    "pubDate": "2022-02-13T00:00:00+00:00",
+    "date": "2022-02-13T00:00:00+00:00"
+  },
+  {
+    "title": "Using Abstract Data Types in TLA+",
+    "link": "https://www.hillelwayne.com/post/tla-adt/",
+    "pubDate": "2021-12-13T00:00:00+00:00",
+    "date": "2021-12-13T00:00:00+00:00"
+  },
+  {
+    "title": "Alloy 6: it's about Time",
+    "link": "https://www.hillelwayne.com/post/alloy6/",
+    "pubDate": "2021-11-29T00:00:00+00:00",
+    "date": "2021-11-29T00:00:00+00:00"
+  },
+  {
+    "title": "How to Solve the Sudoku Puzzle with programming",
+    "link": "https://www.hillelwayne.com/post/sudoku/",
+    "pubDate": "2021-10-10T00:00:00+00:00",
+    "date": "2021-10-10T00:00:00+00:00"
+  },
+  {
+    "title": "Specification Refinement",
+    "link": "https://www.hillelwayne.com/post/refinement/",
+    "pubDate": "2021-07-13T00:00:00+00:00",
+    "date": "2021-07-13T00:00:00+00:00"
+  },
+  {
+    "title": "Cross-Branch Testing",
+    "link": "https://www.hillelwayne.com/post/cross-branch-testing/",
+    "pubDate": "2021-06-28T00:00:00+00:00",
+    "date": "2021-06-28T00:00:00+00:00"
+  },
+  {
+    "title": "Clever vs Insightful Code",
+    "link": "https://www.hillelwayne.com/post/cleverness/",
+    "pubDate": "2021-06-06T00:00:00+00:00",
+    "date": "2021-06-06T00:00:00+00:00"
+  },
+  {
+    "title": "Why Specifications Don't Compose",
+    "link": "https://www.hillelwayne.com/post/spec-composition/",
+    "pubDate": "2021-04-18T00:00:00+00:00",
+    "date": "2021-04-18T00:00:00+00:00"
+  },
+  {
+    "title": "Why Do Interviewers Ask Linked List Questions?",
+    "link": "https://www.hillelwayne.com/post/linked-lists/",
+    "pubDate": "2021-03-28T00:00:00+00:00",
+    "date": "2021-03-28T00:00:00+00:00"
+  },
+  {
+    "title": "TLA+ Action Properties",
+    "link": "https://www.hillelwayne.com/post/action-properties/",
+    "pubDate": "2021-02-25T00:00:00+00:00",
+    "date": "2021-02-25T00:00:00+00:00"
+  },
+  {
+    "title": "What engineering can teach (and learn from) us",
+    "link": "https://www.hillelwayne.com/post/what-we-can-learn/",
+    "pubDate": "2021-01-22T00:00:00+00:00",
+    "date": "2021-01-22T00:00:00+00:00"
+  },
+  {
+    "title": "We Are Not Special",
+    "link": "https://www.hillelwayne.com/post/we-are-not-special/",
+    "pubDate": "2021-01-20T00:00:00+00:00",
+    "date": "2021-01-20T00:00:00+00:00"
+  },
+  {
+    "title": "Are We Really Engineers?",
+    "link": "https://www.hillelwayne.com/post/are-we-really-engineers/",
+    "pubDate": "2021-01-18T00:00:00+00:00",
+    "date": "2021-01-18T00:00:00+00:00"
+  },
+  {
+    "title": "There's Always More History",
+    "link": "https://www.hillelwayne.com/post/always-more-history/",
+    "pubDate": "2020-12-08T00:00:00+00:00",
+    "date": "2020-12-08T00:00:00+00:00"
   }
 ]

@@ -28,5 +28,35 @@
     "link": "https://www.roji.org/efcore-7-update-perf",
     "pubDate": "2021-07-11T22:00:00+00:00",
     "date": "2021-07-11T22:00:00+00:00"
+  },
+  {
+    "title": "EF Core 6.0 Performance Improvements",
+    "link": "https://www.roji.org/efcore-6-perf",
+    "pubDate": "2021-05-25T00:00:00+00:00",
+    "date": "2021-05-25T00:00:00+00:00"
+  },
+  {
+    "title": "The Curious Case of Commands and Cancellation",
+    "link": "https://www.roji.org/db-commands-and-cancellation",
+    "pubDate": "2020-10-15T00:00:00+00:00",
+    "date": "2020-10-15T00:00:00+00:00"
+  },
+  {
+    "title": "C# 8 Nullable Reference Types, old TFMs and Multitargeting",
+    "link": "https://www.roji.org/nullable-reference-types-with-old-tfms",
+    "pubDate": "2020-01-04T00:00:00+00:00",
+    "date": "2020-01-04T00:00:00+00:00"
+  },
+  {
+    "title": "Conceptual and API documentation with Docfx, Github Actions and Github Pages",
+    "link": "https://www.roji.org/docfx-with-github-actions",
+    "pubDate": "2019-10-03T00:00:00+00:00",
+    "date": "2019-10-03T00:00:00+00:00"
+  },
+  {
+    "title": "EFCore 3.0 for PostgreSQL - Advanced JSON Support",
+    "link": "https://www.roji.org/efcore-pg-advanced-json",
+    "pubDate": "2019-09-26T00:00:00+00:00",
+    "date": "2019-09-26T00:00:00+00:00"
   }
 ]

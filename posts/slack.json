@@ -28,5 +28,23 @@
     "link": "https://slack.engineering/managing-context-in-long-run-agentic-applications/",
     "pubDate": "2026-04-13T17:17:16+00:00",
     "date": "2026-04-13T17:17:16+00:00"
+  },
+  {
+    "title": "From Custom to Open: Scalable Network Probing and HTTP/3 Readiness with Prometheus",
+    "link": "https://slack.engineering/from-custom-to-open-scalable-network-probing-and-http-3-readiness-with-prometheus/",
+    "pubDate": "2026-03-31T17:00:39+00:00",
+    "date": "2026-03-31T17:00:39+00:00"
+  },
+  {
+    "title": "How Slack Rebuilt Notifications 📣",
+    "link": "https://slack.engineering/how-slack-rebuilt-notifications/",
+    "pubDate": "2026-03-19T19:00:54+00:00",
+    "date": "2026-03-19T19:00:54+00:00"
+  },
+  {
+    "title": "Streamlining Security Investigations with Agents",
+    "link": "https://slack.engineering/streamlining-security-investigations-with-agents/",
+    "pubDate": "2025-12-01T16:00:42+00:00",
+    "date": "2025-12-01T16:00:42+00:00"
   }
 ]

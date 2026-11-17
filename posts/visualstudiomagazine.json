@@ -1,5 +1,17 @@
 [
   {
+    "title": "Microsoft Gives AI Agents More Control Over Azure Infrastructure",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx",
+    "pubDate": "2026-11-17T08:00:00+00:00",
+    "date": "2026-11-17T20:56:56+00:00"
+  },
+  {
+    "title": "Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/17/microsoft-releases-copilot-sdk-2-0-for-enterprise-ai-agents.aspx",
+    "pubDate": "2026-11-17T20:08:00+00:00",
+    "date": "2026-11-17T20:08:00+00:00"
+  },
+  {
     "title": "Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench",
     "link": "https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx",
     "pubDate": "2026-11-13T22:15:00+00:00",
@@ -28,5 +40,263 @@
     "link": "https://visualstudiomagazine.com/articles/2026/11/09/github-maps-ai-agents-across-the-full-software-development-cycle.aspx",
     "pubDate": "2026-11-09T17:52:00+00:00",
     "date": "2026-11-09T17:52:00+00:00"
+  },
+  {
+    "title": "Visual Studio Subscribers Offered Up to $900 Off VSLive! Events",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/06/visual-studio-subscribers-offered-up-to-900-off-vslive-events.aspx",
+    "pubDate": "2026-11-06T17:25:00+00:00",
+    "date": "2026-11-06T17:25:00+00:00"
+  },
+  {
+    "title": "Microsoft Foundry Extension for Azure Developer CLI Reaches GA",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/06/microsoft-foundry-extension-for-azure-developer-cli-reaches-ga.aspx",
+    "pubDate": "2026-11-06T16:42:00+00:00",
+    "date": "2026-11-06T16:42:00+00:00"
+  },
+  {
+    "title": "Microsoft Adds SharePoint Agent Tools to Work IQ Preview",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/06/microsoft-adds-sharepoint-agent-tools-to-work-iq-preview.aspx",
+    "pubDate": "2026-11-06T16:25:00+00:00",
+    "date": "2026-11-06T16:25:00+00:00"
+  },
+  {
+    "title": "Microsoft Sets Jan. 12 Deadline for Low-Trust SharePoint Add-ins",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-sets-jan-12-deadline-for-low-trust-sharepoint-add-ins.aspx",
+    "pubDate": "2026-11-05T23:43:00+00:00",
+    "date": "2026-11-05T23:43:00+00:00"
+  },
+  {
+    "title": "Microsoft Details 53 GiB Local Coding Model for GitHub Copilot",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-details-53-gib-local-coding-model-for-github-copilot.aspx",
+    "pubDate": "2026-11-05T17:57:00+00:00",
+    "date": "2026-11-05T17:57:00+00:00"
+  },
+  {
+    "title": "Intelligent Terminal 0.3 Adds Agent Sidebar and Background Sessions",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/intelligent-terminal-0-3-adds-agent-sidebar-and-background-sessions.aspx",
+    "pubDate": "2026-11-05T17:55:00+00:00",
+    "date": "2026-11-05T17:55:00+00:00"
+  },
+  {
+    "title": "GitHub Copilot to End Support for JetBrains 2025.2 IDE Releases",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/github-copilot-to-end-support-for-jetbrains-2025-2-ide-releases.aspx",
+    "pubDate": "2026-11-05T17:52:00+00:00",
+    "date": "2026-11-05T17:52:00+00:00"
+  },
+  {
+    "title": "Microsoft Foundry October Recap Separates AI Agent Previews from GA Releases",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-foundry-october-recap-separates-ai-agent-previews-from-ga-releases.aspx",
+    "pubDate": "2026-11-05T17:50:00+00:00",
+    "date": "2026-11-05T17:50:00+00:00"
+  },
+  {
+    "title": "Microsoft Shows How to Run Qwen Coding Agents Locally with GitHub Copilot",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/05/microsoft-shows-how-to-run-qwen-coding-agents-locally-with-github-copilot.aspx",
+    "pubDate": "2026-11-05T17:46:00+00:00",
+    "date": "2026-11-05T17:46:00+00:00"
+  },
+  {
+    "title": "VS Code 1.145 Expands Remote Agent Workflows, Adds Cron Automations",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/04/vs-code-1-145-expands-remote-agent-workflows-adds-cron-automations.aspx",
+    "pubDate": "2026-11-04T20:37:00+00:00",
+    "date": "2026-11-04T20:37:00+00:00"
+  },
+  {
+    "title": "Azure Developer CLI Adds a Look Before You Deploy",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-developer-cli-adds-a-look-before-you-deploy.aspx",
+    "pubDate": "2026-10-30T22:31:00+00:00",
+    "date": "2026-10-30T22:31:00+00:00"
+  },
+  {
+    "title": "Azure SQL Hyperscale Is Distributed -- With One Writer",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/azure-sql-hyperscale-is-distributed-with-one-writer.aspx",
+    "pubDate": "2026-10-30T22:26:00+00:00",
+    "date": "2026-10-30T22:26:00+00:00"
+  },
+  {
+    "title": "Microsoft Tests Whether 'Eval' Folder Names Change AI Agent Behavior",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/30/microsoft-tests-whether-eval-folder-names-change-ai-agent-behavior.aspx",
+    "pubDate": "2026-10-30T19:43:00+00:00",
+    "date": "2026-10-30T19:43:00+00:00"
+  },
+  {
+    "title": "GitHub Lets Developers Control VS Code AI Agents from Their Phones",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-lets-developers-control-vs-code-ai-agents-from-their-phones.aspx",
+    "pubDate": "2026-10-29T22:49:00+00:00",
+    "date": "2026-10-29T22:49:00+00:00"
+  },
+  {
+    "title": "GitHub Bug Bounty Interview Highlights Chained Vulnerabilities and Manual Research",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-bug-bounty-interview-highlights-chained-vulnerabilities-and-manual-research.aspx",
+    "pubDate": "2026-10-29T21:39:00+00:00",
+    "date": "2026-10-29T21:39:00+00:00"
+  },
+  {
+    "title": "vcpkg October 2026 Update Adds Configurable Binary-Cache Compression and Boost 1.92",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/vcpkg-october-2026-update-adds-configurable-binary-cache-compression-and-boost-1-92.aspx",
+    "pubDate": "2026-10-29T21:00:00+00:00",
+    "date": "2026-10-29T21:00:00+00:00"
+  },
+  {
+    "title": "GitHub Universe Details Infrastructure Expansion for Agent-Scale Development",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-universe-details-infrastructure-expansion-for-agent-scale-development.aspx",
+    "pubDate": "2026-10-29T20:37:00+00:00",
+    "date": "2026-10-29T20:37:00+00:00"
+  },
+  {
+    "title": "GitHub Octoverse: Agents Started More Than 40% of September Pull Requests",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/github-octoverse-agents-started-more-than-40-percent-of-september-pull-requests.aspx",
+    "pubDate": "2026-10-29T20:19:00+00:00",
+    "date": "2026-10-29T20:19:00+00:00"
+  },
+  {
+    "title": "Windows C++/WinRT Tip: Avoid an Unnecessary make_self Conversion",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/windows-cpp-winrt-tip-avoid-an-unnecessary-makeself-conversion.aspx",
+    "pubDate": "2026-10-29T20:02:00+00:00",
+    "date": "2026-10-29T20:02:00+00:00"
+  },
+  {
+    "title": "Blazor Gets Free MIT-Licensed Component Toolkit from Syncfusion",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/29/blazor-gets-free-mit-licensed-component-toolkit-from-syncfusion.aspx",
+    "pubDate": "2026-10-29T18:44:00+00:00",
+    "date": "2026-10-29T18:44:00+00:00"
+  },
+  {
+    "title": "Visual Studio Subscriptions Include Azure Certification Prep Training",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/visual-studio-subscriptions-include-azure-certification-prep-training.aspx",
+    "pubDate": "2026-10-29T00:41:00+00:00",
+    "date": "2026-10-29T00:41:00+00:00"
+  },
+  {
+    "title": "Microsoft Go Builds Patch macOS Cryptography Vulnerability",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-go-builds-patch-macos-cryptography-vulnerability.aspx",
+    "pubDate": "2026-10-29T00:08:00+00:00",
+    "date": "2026-10-29T00:08:00+00:00"
+  },
+  {
+    "title": "Microsoft Pitches Azure SQL Diagnostics to PostgreSQL Developers",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-pitches-azure-sql-diagnostics-to-postgresql-developers.aspx",
+    "pubDate": "2026-10-28T22:26:00+00:00",
+    "date": "2026-10-28T22:26:00+00:00"
+  },
+  {
+    "title": "PIX 2610.28 Expands Shader Profiling, GPU Crash Analysis and Agent Tools",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/pix-2610-28-expands-shader-profiling-gpu-crash-analysis-and-agent-tools.aspx",
+    "pubDate": "2026-10-28T22:23:00+00:00",
+    "date": "2026-10-28T22:23:00+00:00"
+  },
+  {
+    "title": "DirectX Dump Files Bring Retail GPU Crash Analysis to PIX",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/directx-dump-files-bring-retail-gpu-crash-analysis-to-pix.aspx",
+    "pubDate": "2026-10-28T22:19:00+00:00",
+    "date": "2026-10-28T22:19:00+00:00"
+  },
+  {
+    "title": "DirectX Async Command Fallback Lets New APIs Run on Older GPUs",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/directx-async-command-fallback-lets-new-apis-run-on-older-gpus.aspx",
+    "pubDate": "2026-10-28T22:14:00+00:00",
+    "date": "2026-10-28T22:14:00+00:00"
+  },
+  {
+    "title": "DirectX Raytracing Preview Targets Large, Dynamic Game Worlds",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/directx-raytracing-preview-targets-large-dynamic-game-worlds.aspx",
+    "pubDate": "2026-10-28T22:12:00+00:00",
+    "date": "2026-10-28T22:12:00+00:00"
+  },
+  {
+    "title": "DirectX Agility SDK Adds Retail GPU Diagnostics, Previews New Raytracing",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/directx-agility-sdk-adds-retail-gpu-diagnostics-previews-new-raytracing.aspx",
+    "pubDate": "2026-10-28T22:09:00+00:00",
+    "date": "2026-10-28T22:09:00+00:00"
+  },
+  {
+    "title": "Visual Studio Marketplace Adds Secretless Extension Publishing",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/visual-studio-marketplace-adds-secretless-extension-publishing.aspx",
+    "pubDate": "2026-10-28T22:06:00+00:00",
+    "date": "2026-10-28T22:06:00+00:00"
+  },
+  {
+    "title": "GitHub Secret Scanning Adds Encoded-Token Revocation, Audit Log Change",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-secret-scanning-adds-encoded-token-revocation-audit-log-change.aspx",
+    "pubDate": "2026-10-28T22:03:00+00:00",
+    "date": "2026-10-28T22:03:00+00:00"
+  },
+  {
+    "title": "GitHub Copilot Usage Metrics Now Identify Custom Skills, Agents and MCP Servers",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-usage-metrics-now-identify-custom-skills-agents-and-mcp-servers.aspx",
+    "pubDate": "2026-10-28T21:09:00+00:00",
+    "date": "2026-10-28T21:09:00+00:00"
+  },
+  {
+    "title": "GitHub Copilot Turns Microsoft Teams Bug Notifications Into Pull Requests",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-turns-microsoft-teams-bug-notifications-into-pull-requests.aspx",
+    "pubDate": "2026-10-28T21:00:00+00:00",
+    "date": "2026-10-28T21:00:00+00:00"
+  },
+  {
+    "title": "GitHub Copilot Lets VS Code Developers Dial AI Suggestions Up or Down",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-lets-vs-code-developers-dial-ai-suggestions-up-or-down.aspx",
+    "pubDate": "2026-10-28T20:49:00+00:00",
+    "date": "2026-10-28T20:49:00+00:00"
+  },
+  {
+    "title": "Visual Studio Live! Taps AI Expert Eric D. Boyd to Help Shape 2027 Conferences",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/visual-studio-live-taps-ai-expert-eric-d-boyd-to-help-shape-2027-conferences.aspx",
+    "pubDate": "2026-10-28T20:36:00+00:00",
+    "date": "2026-10-28T20:36:00+00:00"
+  },
+  {
+    "title": "VS Code 1.144 Unleashes Copilot Fusion, AI Image Generation and Computer Use",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/vs-code-1-144-unleashes-copilot-fusion-ai-image-generation-and-computer-use.aspx",
+    "pubDate": "2026-10-28T20:11:00+00:00",
+    "date": "2026-10-28T20:11:00+00:00"
+  },
+  {
+    "title": "AWS Shows How to Deploy Blazor Server Apps on ECS with Fargate",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/aws-shows-how-to-deploy-blazor-server-apps-on-ecs-with-fargate.aspx",
+    "pubDate": "2026-10-28T20:01:00+00:00",
+    "date": "2026-10-28T20:01:00+00:00"
+  },
+  {
+    "title": "Microsoft Plans Multi-Gigawatt Azure Maia AI Deployments Starting in 2027",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-plans-multi-gigawatt-azure-maia-ai-deployments-starting-in-2027.aspx",
+    "pubDate": "2026-10-28T19:51:00+00:00",
+    "date": "2026-10-28T19:51:00+00:00"
+  },
+  {
+    "title": "Microsoft Touts GitHub Copilot Development Gains in Enterprise AI Customer Roundup",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-touts-github-copilot-development-gains-in-enterprise-ai-customer-roundup.aspx",
+    "pubDate": "2026-10-28T19:41:00+00:00",
+    "date": "2026-10-28T19:41:00+00:00"
+  },
+  {
+    "title": "Microsoft Warns AI Agents Are Becoming a New Class of Insider Security Risk",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-warns-ai-agents-are-becoming-a-new-class-of-insider-security-risk.aspx",
+    "pubDate": "2026-10-28T19:35:00+00:00",
+    "date": "2026-10-28T19:35:00+00:00"
+  },
+  {
+    "title": "Microsoft Brings GitHub Copilot, Foundry and Databases Into Sovereign Private Cloud",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-brings-github-copilot-foundry-and-databases-into-sovereign-private-cloud.aspx",
+    "pubDate": "2026-10-28T19:33:00+00:00",
+    "date": "2026-10-28T19:33:00+00:00"
+  },
+  {
+    "title": "Microsoft Opens GitHub-Built Copilot Harness to Developers Through Foundry",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-opens-github-built-copilot-harness-to-developers-through-foundry.aspx",
+    "pubDate": "2026-10-28T19:18:00+00:00",
+    "date": "2026-10-28T19:18:00+00:00"
+  },
+  {
+    "title": "Microsoft Doubles Down on Azure Cosmos DB Developer Tools",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-doubles-down-on-azure-cosmos-db-developer-tools.aspx",
+    "pubDate": "2026-10-28T18:09:00+00:00",
+    "date": "2026-10-28T18:09:00+00:00"
+  },
+  {
+    "title": "GitHub Copilot Adds GPT-6.1 Terra for Lower-Cost Agentic Coding",
+    "link": "https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-adds-gpt-6-1-terra-for-lower-cost-agentic-coding.aspx",
+    "pubDate": "2026-10-28T18:08:00+00:00",
+    "date": "2026-10-28T18:08:00+00:00"
   }
 ]

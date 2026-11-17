@@ -28,5 +28,35 @@
     "link": "https://sqlserverfast.com/blog/hugo/2026/10/storage-structures-8-vector-indexes/",
     "pubDate": "2026-10-15T11:58:39+00:00",
     "date": "2026-10-15T11:58:39+00:00"
+  },
+  {
+    "title": "T-SQL Tuesday 203 – A bad decision",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/10/t-sql-tuesday-203-a-bad-decision/",
+    "pubDate": "2026-10-13T14:00:00+00:00",
+    "date": "2026-10-13T14:00:00+00:00"
+  },
+  {
+    "title": "Keep on going",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/10/keep-on-going/",
+    "pubDate": "2026-10-10T13:14:01+00:00",
+    "date": "2026-10-10T13:14:01+00:00"
+  },
+  {
+    "title": "Storage structures 7 – Spatial indexes",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/10/storage-structures-7-spatial-indexes/",
+    "pubDate": "2026-10-04T16:06:41+00:00",
+    "date": "2026-10-04T16:06:41+00:00"
+  },
+  {
+    "title": "New shop!",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/09/new-shop/",
+    "pubDate": "2026-09-30T10:55:19+00:00",
+    "date": "2026-09-30T10:55:19+00:00"
+  },
+  {
+    "title": "Plansplaining part 35. A bug in Table Spool and an invisible property on Stream Aggregate",
+    "link": "https://sqlserverfast.com/blog/hugo/2026/09/plansplaining-part-35-a-bug-in-table-spool-and-an-invisible-property-on-stream-aggregate/",
+    "pubDate": "2026-09-16T10:08:24+00:00",
+    "date": "2026-09-16T10:08:24+00:00"
   }
 ]

@@ -28,5 +28,35 @@
     "link": "https://paulhammant.com/2026/07/26/charting-ai-today/",
     "pubDate": "2026-07-26T16:01:10+00:00",
     "date": "2026-07-26T16:01:10+00:00"
+  },
+  {
+    "title": "Build-time AI vs Run-time AI",
+    "link": "https://paulhammant.com/2026/07/20/build-time-vs-run-time-ai/",
+    "pubDate": "2026-07-20T00:00:00+00:00",
+    "date": "2026-07-20T00:00:00+00:00"
+  },
+  {
+    "title": "Google-style DAG build systems (with Aether Build)",
+    "link": "https://paulhammant.com/2026/07/02/google-style-dag-build-systems/",
+    "pubDate": "2026-07-02T00:00:00+00:00",
+    "date": "2026-07-02T00:00:00+00:00"
+  },
+  {
+    "title": "Cherry-pick Asymmetry",
+    "link": "https://paulhammant.com/2026/06/22/the-cherry-pick-asymmetry/",
+    "pubDate": "2026-06-22T00:00:00+00:00",
+    "date": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "title": "The limits of merging experiment",
+    "link": "https://paulhammant.com/2026/04/28/limits-of-merging-experiment/",
+    "pubDate": "2026-04-28T00:00:00+00:00",
+    "date": "2026-04-28T00:00:00+00:00"
+  },
+  {
+    "title": "Live Verify",
+    "link": "https://paulhammant.com/2026/03/17/live-verify/",
+    "pubDate": "2026-03-17T00:00:00+00:00",
+    "date": "2026-03-17T00:00:00+00:00"
   }
 ]

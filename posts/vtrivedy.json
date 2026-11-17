@@ -28,5 +28,29 @@
     "link": "https://vtrivedy.com/posts/modern-planning-agent-dynamic-adaptive-workflow-generator/",
     "pubDate": "2025-10-24T14:00:00+00:00",
     "date": "2025-10-24T14:00:00+00:00"
+  },
+  {
+    "title": "Claude Code Built-in Tools Reference",
+    "link": "https://vtrivedy.com/posts/claudecode-tools-reference/",
+    "pubDate": "2025-10-03T00:00:00+00:00",
+    "date": "2025-10-03T00:00:00+00:00"
+  },
+  {
+    "title": "Agent Building Resources",
+    "link": "https://vtrivedy.com/posts/agent-building-resources/",
+    "pubDate": "2025-10-02T00:00:00+00:00",
+    "date": "2025-10-02T00:00:00+00:00"
+  },
+  {
+    "title": "The Claude Code SDK and the Birth of HaaS (Harness as a Service)",
+    "link": "https://vtrivedy.com/posts/claude-code-sdk-haas-harness-as-a-service/",
+    "pubDate": "2025-09-23T14:00:00+00:00",
+    "date": "2025-09-23T14:00:00+00:00"
+  },
+  {
+    "title": "Welcome to My Blog",
+    "link": "https://vtrivedy.com/posts/welcome-to-my-blog/",
+    "pubDate": "2025-08-06T14:00:00+00:00",
+    "date": "2025-08-06T14:00:00+00:00"
   }
 ]

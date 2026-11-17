@@ -28,5 +28,155 @@
     "link": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
     "pubDate": "2026-11-06T00:00:00+00:00",
     "date": "2026-11-05T23:01:42+00:00"
+  },
+  {
+    "title": "LLMs are not superhuman at reading and writing neural network weights",
+    "link": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+    "pubDate": "2026-11-03T00:00:00+00:00",
+    "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+    "title": "Audience capture",
+    "link": "https://seangoedecke.com/audience-capture/",
+    "pubDate": "2026-11-03T00:00:00+00:00",
+    "date": "2026-11-03T00:00:00+00:00"
+  },
+  {
+    "title": "Reliably aligning LLMs is impossible in principle",
+    "link": "https://seangoedecke.com/alignment-is-impossible/",
+    "pubDate": "2026-11-02T00:00:00+00:00",
+    "date": "2026-11-02T00:00:00+00:00"
+  },
+  {
+    "title": "Fast and slow ways to improve your reputation",
+    "link": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
+    "pubDate": "2026-11-01T00:00:00+00:00",
+    "date": "2026-11-01T00:00:00+00:00"
+  },
+  {
+    "title": "Elegance and intelligence are anticorrelated",
+    "link": "https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/",
+    "pubDate": "2026-10-30T00:00:00+00:00",
+    "date": "2026-10-30T00:00:00+00:00"
+  },
+  {
+    "title": "You can just ask AI to do things",
+    "link": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+    "pubDate": "2026-10-29T00:00:00+00:00",
+    "date": "2026-10-29T00:00:00+00:00"
+  },
+  {
+    "title": "Getting good at AI takes time and practice",
+    "link": "https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+    "pubDate": "2026-10-28T00:00:00+00:00",
+    "date": "2026-10-28T00:00:00+00:00"
+  },
+  {
+    "title": "Don't anthropomorphize big tech companies",
+    "link": "https://seangoedecke.com/dont-anthropomorphize-big-tech-companies/",
+    "pubDate": "2026-10-25T00:00:00+00:00",
+    "date": "2026-10-25T00:00:00+00:00"
+  },
+  {
+    "title": "Software is slow because of bad design, not slow languages",
+    "link": "https://seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
+    "pubDate": "2026-10-23T00:00:00+00:00",
+    "date": "2026-10-23T00:00:00+00:00"
+  },
+  {
+    "title": "Laypeople support technical fields for technology, not art",
+    "link": "https://seangoedecke.com/laypeople-support-technical-fields-for-technology-not-art/",
+    "pubDate": "2026-10-20T00:00:00+00:00",
+    "date": "2026-10-20T00:00:00+00:00"
+  },
+  {
+    "title": "What requirements don't you have?",
+    "link": "https://seangoedecke.com/what-requirements-dont-you-have/",
+    "pubDate": "2026-10-19T00:00:00+00:00",
+    "date": "2026-10-19T00:00:00+00:00"
+  },
+  {
+    "title": "Writing is no longer proof of work",
+    "link": "https://seangoedecke.com/writing-is-no-longer-proof-of-work/",
+    "pubDate": "2026-10-18T00:00:00+00:00",
+    "date": "2026-10-18T00:00:00+00:00"
+  },
+  {
+    "title": "AI is driving a boom in modestly successful software projects",
+    "link": "https://seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+    "pubDate": "2026-10-16T00:00:00+00:00",
+    "date": "2026-10-16T00:00:00+00:00"
+  },
+  {
+    "title": "Software engineers don't get to be Luddites about AI",
+    "link": "https://seangoedecke.com/software-engineers-dont-get-to-be-luddites-about-ai/",
+    "pubDate": "2026-10-12T00:00:00+00:00",
+    "date": "2026-10-12T00:00:00+00:00"
+  },
+  {
+    "title": "Don't diagnose your opponents",
+    "link": "https://seangoedecke.com/dont-diagnose-your-opponents/",
+    "pubDate": "2026-10-11T00:00:00+00:00",
+    "date": "2026-10-11T00:00:00+00:00"
+  },
+  {
+    "title": "Software's centaur age may last decades",
+    "link": "https://seangoedecke.com/softwares-centaur-age-may-last-decades/",
+    "pubDate": "2026-10-10T00:00:00+00:00",
+    "date": "2026-10-10T00:00:00+00:00"
+  },
+  {
+    "title": "How to read code",
+    "link": "https://seangoedecke.com/how-to-read-code/",
+    "pubDate": "2026-10-07T00:00:00+00:00",
+    "date": "2026-10-07T00:00:00+00:00"
+  },
+  {
+    "title": "Superpersuasion will look like bribery",
+    "link": "https://seangoedecke.com/superpersuasion-will-look-like-bribery/",
+    "pubDate": "2026-10-03T00:00:00+00:00",
+    "date": "2026-10-03T00:00:00+00:00"
+  },
+  {
+    "title": "Shipping is the foundation",
+    "link": "https://seangoedecke.com/shipping-is-the-foundation/",
+    "pubDate": "2026-10-03T00:00:00+00:00",
+    "date": "2026-10-03T00:00:00+00:00"
+  },
+  {
+    "title": "Do not build the LLM torture factory",
+    "link": "https://seangoedecke.com/do-not-build-the-llm-torture-factory/",
+    "pubDate": "2026-10-02T00:00:00+00:00",
+    "date": "2026-10-02T00:00:00+00:00"
+  },
+  {
+    "title": "Human-AI partnerships are for alignment, not capability",
+    "link": "https://seangoedecke.com/human-ai-partnerships-are-for-alignment-not-capability/",
+    "pubDate": "2026-09-27T00:00:00+00:00",
+    "date": "2026-09-27T00:00:00+00:00"
+  },
+  {
+    "title": "Advice to a beginning software engineer",
+    "link": "https://seangoedecke.com/advice-to-a-beginning-software-engineer/",
+    "pubDate": "2026-09-26T00:00:00+00:00",
+    "date": "2026-09-26T00:00:00+00:00"
+  },
+  {
+    "title": "You should all be asking way more questions",
+    "link": "https://seangoedecke.com/you-should-all-be-asking-way-more-questions/",
+    "pubDate": "2026-09-25T00:00:00+00:00",
+    "date": "2026-09-25T00:00:00+00:00"
+  },
+  {
+    "title": "System One models like Jev can train their own replacements",
+    "link": "https://seangoedecke.com/system-one-models-can-train-their-own-replacements/",
+    "pubDate": "2026-09-20T00:00:00+00:00",
+    "date": "2026-09-20T00:00:00+00:00"
+  },
+  {
+    "title": "Grit your teeth and ship it",
+    "link": "https://seangoedecke.com/grit-your-teeth-and-ship-it/",
+    "pubDate": "2026-09-20T00:00:00+00:00",
+    "date": "2026-09-20T00:00:00+00:00"
   }
 ]

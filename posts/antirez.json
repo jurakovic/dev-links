@@ -28,5 +28,275 @@
     "link": "http://antirez.com/news/168",
     "pubDate": "2026-06-07T09:46:06+00:00",
     "date": "2026-06-07T09:46:06+00:00"
+  },
+  {
+    "title": "Distributing LLM inference in DwarfStar",
+    "link": "http://antirez.com/news/167",
+    "pubDate": "2026-05-25T14:54:59+00:00",
+    "date": "2026-05-25T14:54:59+00:00"
+  },
+  {
+    "title": "Alternatives for the EDIT tool of LLM agents",
+    "link": "http://antirez.com/news/166",
+    "pubDate": "2026-05-19T07:26:03+00:00",
+    "date": "2026-05-19T07:26:03+00:00"
+  },
+  {
+    "title": "A few words on DS4",
+    "link": "http://antirez.com/news/165",
+    "pubDate": "2026-05-14T22:22:45+00:00",
+    "date": "2026-05-14T22:22:45+00:00"
+  },
+  {
+    "title": "Redis array type: short story of a long development",
+    "link": "http://antirez.com/news/164",
+    "pubDate": "2026-05-04T14:21:45+00:00",
+    "date": "2026-05-04T14:21:45+00:00"
+  },
+  {
+    "title": "AI cybersecurity is not proof of work",
+    "link": "http://antirez.com/news/163",
+    "pubDate": "2026-04-16T10:46:46+00:00",
+    "date": "2026-04-16T10:46:46+00:00"
+  },
+  {
+    "title": "GNU and the AI reimplementations",
+    "link": "http://antirez.com/news/162",
+    "pubDate": "2026-03-08T16:08:41+00:00",
+    "date": "2026-03-08T16:08:41+00:00"
+  },
+  {
+    "title": "Redis patterns for coding",
+    "link": "http://antirez.com/news/161",
+    "pubDate": "2026-03-01T09:55:09+00:00",
+    "date": "2026-03-01T09:55:09+00:00"
+  },
+  {
+    "title": "Implementing a clear room Z80 / ZX Spectrum emulator with Claude Code",
+    "link": "http://antirez.com/news/160",
+    "pubDate": "2026-02-24T17:58:02+00:00",
+    "date": "2026-02-24T17:58:02+00:00"
+  },
+  {
+    "title": "Automatic programming",
+    "link": "http://antirez.com/news/159",
+    "pubDate": "2026-01-31T09:25:27+00:00",
+    "date": "2026-01-31T09:25:27+00:00"
+  },
+  {
+    "title": "Don't fall into the anti-AI hype",
+    "link": "http://antirez.com/news/158",
+    "pubDate": "2026-01-11T10:15:51+00:00",
+    "date": "2026-01-11T10:15:51+00:00"
+  },
+  {
+    "title": "Reflections on AI at the end of 2025",
+    "link": "http://antirez.com/news/157",
+    "pubDate": "2025-12-20T08:58:29+00:00",
+    "date": "2025-12-20T08:58:29+00:00"
+  },
+  {
+    "title": "Scaling HNSWs",
+    "link": "http://antirez.com/news/156",
+    "pubDate": "2025-11-11T12:53:38+00:00",
+    "date": "2025-11-11T12:53:38+00:00"
+  },
+  {
+    "title": "AI is different",
+    "link": "http://antirez.com/news/155",
+    "pubDate": "2025-08-13T15:59:56+00:00",
+    "date": "2025-08-13T15:59:56+00:00"
+  },
+  {
+    "title": "Coding with LLMs in the summer of 2025 (an update)",
+    "link": "http://antirez.com/news/154",
+    "pubDate": "2025-07-20T10:58:54+00:00",
+    "date": "2025-07-20T10:58:54+00:00"
+  },
+  {
+    "title": "Human coders are still better than LLMs",
+    "link": "http://antirez.com/news/153",
+    "pubDate": "2025-05-29T16:34:51+00:00",
+    "date": "2025-05-29T16:34:51+00:00"
+  },
+  {
+    "title": "What I learned during the license switch",
+    "link": "http://antirez.com/news/152",
+    "pubDate": "2025-05-02T08:46:25+00:00",
+    "date": "2025-05-02T08:46:25+00:00"
+  },
+  {
+    "title": "Redis is open source again",
+    "link": "http://antirez.com/news/151",
+    "pubDate": "2025-05-01T15:55:50+00:00",
+    "date": "2025-05-01T15:55:50+00:00"
+  },
+  {
+    "title": "Reproducing Hacker News writing style fingerprinting",
+    "link": "http://antirez.com/news/150",
+    "pubDate": "2025-04-16T13:53:16+00:00",
+    "date": "2025-04-16T13:53:16+00:00"
+  },
+  {
+    "title": "Vector Sets are part of Redis",
+    "link": "http://antirez.com/news/149",
+    "pubDate": "2025-04-03T18:01:20+00:00",
+    "date": "2025-04-03T18:01:20+00:00"
+  },
+  {
+    "title": "AI is useless, but it is our best bet for the future",
+    "link": "http://antirez.com/news/148",
+    "pubDate": "2025-03-23T08:13:53+00:00",
+    "date": "2025-03-23T08:13:53+00:00"
+  },
+  {
+    "title": "Big LLMs weights are a piece of history",
+    "link": "http://antirez.com/news/147",
+    "pubDate": "2025-03-16T11:56:33+00:00",
+    "date": "2025-03-16T11:56:33+00:00"
+  },
+  {
+    "title": "Reasoning models are just LLMs",
+    "link": "http://antirez.com/news/146",
+    "pubDate": "2025-02-09T18:19:38+00:00",
+    "date": "2025-02-09T18:19:38+00:00"
+  },
+  {
+    "title": "We are destroying software",
+    "link": "http://antirez.com/news/145",
+    "pubDate": "2025-02-08T14:47:49+00:00",
+    "date": "2025-02-08T14:47:49+00:00"
+  },
+  {
+    "title": "From where I left",
+    "link": "http://antirez.com/news/144",
+    "pubDate": "2024-12-10T16:38:55+00:00",
+    "date": "2024-12-10T16:38:55+00:00"
+  },
+  {
+    "title": "Playing audio files in a Pi Pico without a DAC",
+    "link": "http://antirez.com/news/143",
+    "pubDate": "2024-03-06T10:52:34+00:00",
+    "date": "2024-03-06T10:52:34+00:00"
+  },
+  {
+    "title": "First Token Cutoff LLM sampling",
+    "link": "http://antirez.com/news/142",
+    "pubDate": "2024-01-12T16:49:37+00:00",
+    "date": "2024-01-12T16:49:37+00:00"
+  },
+  {
+    "title": "Translating blog posts with GPT-4, or: on hope and fear",
+    "link": "http://antirez.com/news/141",
+    "pubDate": "2024-01-09T21:28:15+00:00",
+    "date": "2024-01-09T21:28:15+00:00"
+  },
+  {
+    "title": "LLMs and Programming in the first days of 2024",
+    "link": "http://antirez.com/news/140",
+    "pubDate": "2024-01-02T10:56:14+00:00",
+    "date": "2024-01-02T10:56:14+00:00"
+  },
+  {
+    "title": "The origins of the Idle Scan",
+    "link": "http://antirez.com/news/139",
+    "pubDate": "2023-10-19T10:40:27+00:00",
+    "date": "2023-10-19T10:40:27+00:00"
+  },
+  {
+    "title": "In defense of linked lists",
+    "link": "http://antirez.com/news/138",
+    "pubDate": "2022-11-04T18:46:29+00:00",
+    "date": "2022-11-04T18:46:29+00:00"
+  },
+  {
+    "title": "Scrivendo Wohpe",
+    "link": "http://antirez.com/news/137",
+    "pubDate": "2022-07-17T09:31:34+00:00",
+    "date": "2022-07-17T09:31:34+00:00"
+  },
+  {
+    "title": "Writing Wohpe",
+    "link": "http://antirez.com/news/136",
+    "pubDate": "2022-07-17T09:31:06+00:00",
+    "date": "2022-07-17T09:31:06+00:00"
+  },
+  {
+    "title": "Programming and Writing",
+    "link": "http://antirez.com/news/135",
+    "pubDate": "2021-05-14T09:47:18+00:00",
+    "date": "2021-05-14T09:47:18+00:00"
+  },
+  {
+    "title": "The open source paradox",
+    "link": "http://antirez.com/news/134",
+    "pubDate": "2020-10-03T09:11:59+00:00",
+    "date": "2020-10-03T09:11:59+00:00"
+  },
+  {
+    "title": "The end of the Redis adventure",
+    "link": "http://antirez.com/news/133",
+    "pubDate": "2020-06-30T13:00:16+00:00",
+    "date": "2020-06-30T13:00:16+00:00"
+  },
+  {
+    "title": "Redis 6.0.0 GA is out!",
+    "link": "http://antirez.com/news/132",
+    "pubDate": "2020-04-30T13:33:35+00:00",
+    "date": "2020-04-30T13:33:35+00:00"
+  },
+  {
+    "title": "Redis 6 RC1 is out today",
+    "link": "http://antirez.com/news/131",
+    "pubDate": "2019-12-19T16:27:00+00:00",
+    "date": "2019-12-19T16:27:00+00:00"
+  },
+  {
+    "title": "Client side caching in Redis 6",
+    "link": "http://antirez.com/news/130",
+    "pubDate": "2019-07-04T17:10:34+00:00",
+    "date": "2019-07-04T17:10:34+00:00"
+  },
+  {
+    "title": "The struggles of an open source maintainer",
+    "link": "http://antirez.com/news/129",
+    "pubDate": "2019-05-16T17:42:18+00:00",
+    "date": "2019-05-16T17:42:18+00:00"
+  },
+  {
+    "title": "Redis streams as a pure data structure",
+    "link": "http://antirez.com/news/128",
+    "pubDate": "2019-03-22T15:10:15+00:00",
+    "date": "2019-03-22T15:10:15+00:00"
+  },
+  {
+    "title": "Gopher: a present for Redis",
+    "link": "http://antirez.com/news/127",
+    "pubDate": "2019-02-25T17:17:23+00:00",
+    "date": "2019-02-25T17:17:23+00:00"
+  },
+  {
+    "title": "An update about Redis developments in 2019",
+    "link": "http://antirez.com/news/126",
+    "pubDate": "2019-02-20T12:14:11+00:00",
+    "date": "2019-02-20T12:14:11+00:00"
+  },
+  {
+    "title": "Why RESP3 will be the only protocol supported by Redis 6",
+    "link": "http://antirez.com/news/125",
+    "pubDate": "2018-11-09T15:31:10+00:00",
+    "date": "2018-11-09T15:31:10+00:00"
+  },
+  {
+    "title": "Writing system software: code comments.",
+    "link": "http://antirez.com/news/124",
+    "pubDate": "2018-10-06T20:08:58+00:00",
+    "date": "2018-10-06T20:08:58+00:00"
+  },
+  {
+    "title": "LOLWUT: a piece of art inside a database command",
+    "link": "http://antirez.com/news/123",
+    "pubDate": "2018-09-12T15:20:28+00:00",
+    "date": "2018-09-12T15:20:28+00:00"
   }
 ]

@@ -28,5 +28,71 @@
     "link": "https://www.jamesdrandall.com/posts/teaching-a-computer-to-play-4x/",
     "pubDate": "2026-05-30T06:00:00+00:00",
     "date": "2026-05-30T06:00:00+00:00"
+  },
+  {
+    "title": "Does the Data Show Trump Sundowning? A Look at His Posting Rhythm",
+    "link": "https://www.jamesdrandall.com/posts/does-the-data-show-trump-is-sundowning/",
+    "pubDate": "2026-05-17T08:00:00+00:00",
+    "date": "2026-05-17T08:00:00+00:00"
+  },
+  {
+    "title": "GitHub CoPilot and Real Scrutiny",
+    "link": "https://www.jamesdrandall.com/posts/github-copilot-facing-real-scrutiny/",
+    "pubDate": "2026-05-01T08:00:00+00:00",
+    "date": "2026-05-01T08:00:00+00:00"
+  },
+  {
+    "title": "Training a Neural Network in 16-Bit Fixed Point on a 1982 BBC Micro",
+    "link": "https://www.jamesdrandall.com/posts/neural_network_bbc_micro/",
+    "pubDate": "2026-03-09T00:00:00+00:00",
+    "date": "2026-03-09T00:00:00+00:00"
+  },
+  {
+    "title": "Building a Real-Time Path Tracer in WebGPU",
+    "link": "https://www.jamesdrandall.com/posts/building-a-real-time-path-tracer-in-webgpu/",
+    "pubDate": "2026-03-08T00:00:00+00:00",
+    "date": "2026-03-08T00:00:00+00:00"
+  },
+  {
+    "title": "Jensen Huang Is Training His Own Replacement",
+    "link": "https://www.jamesdrandall.com/posts/jensen-huang-is-training-his-own-replacement/",
+    "pubDate": "2026-03-07T12:00:00+00:00",
+    "date": "2026-03-07T12:00:00+00:00"
+  },
+  {
+    "title": "Neural Networks for Developers - XOR (Part 1)",
+    "link": "https://www.jamesdrandall.com/posts/neural_networks_for_developers_part_1_xor/",
+    "pubDate": "2026-03-01T10:00:00+00:00",
+    "date": "2026-03-01T10:00:00+00:00"
+  },
+  {
+    "title": "AI Can't Recreate Thrust (But It Can Help You Understand It)",
+    "link": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+    "pubDate": "2026-02-23T07:30:00+00:00",
+    "date": "2026-02-23T07:30:00+00:00"
+  },
+  {
+    "title": "I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed",
+    "link": "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/",
+    "pubDate": "2026-02-10T07:30:00+00:00",
+    "date": "2026-02-10T07:30:00+00:00"
+  },
+  {
+    "title": "The Real AI Risk Isn't Job Loss — It's Epistemic",
+    "link": "https://www.jamesdrandall.com/posts/real-ai-risk-isnt-job-loss-its-epistemic/",
+    "pubDate": "2025-12-31T07:30:00+00:00",
+    "date": "2025-12-31T07:30:00+00:00"
+  },
+  {
+    "title": "Vektrix: Building a Psychedelic Twinstick Shooter with WebGPU in 2 Days",
+    "link": "https://www.jamesdrandall.com/posts/building-a-webgpu-twinstick-psychedelic-shooter/",
+    "pubDate": "2025-12-11T07:30:00+00:00",
+    "date": "2025-12-11T07:30:00+00:00"
+  },
+  {
+    "title": "Teaching an LLM to Write Assembly: GBNF-Constrained Generation for a Custom 8-Bit CPU",
+    "link": "https://www.jamesdrandall.com/posts/gbnf-constrained-generation/",
+    "pubDate": "2025-12-03T07:30:00+00:00",
+    "date": "2025-12-03T07:30:00+00:00"
   }
 ]

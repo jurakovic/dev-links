@@ -28,5 +28,125 @@
     "link": "https://andrewlock.net/understanding-device-bound-session-credentials/",
     "pubDate": "2026-09-15T10:00:00+00:00",
     "date": "2026-09-15T10:00:00+00:00"
+  },
+  {
+    "title": "The pain of serializing unions and closed class hierarchies with System.Text.Json: Exploring the .NET 11 preview - Part 7",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-7-the-pain-of-serializing-unions-and-closed-class-hierarchies-with-system-text-json/",
+    "pubDate": "2026-09-01T10:00:00+00:00",
+    "date": "2026-09-01T10:00:00+00:00"
+  },
+  {
+    "title": "Finding the total number of processors on a machine with .NET",
+    "link": "https://andrewlock.net/finding-the-total-number-of-processors-on-a-machine-with-dotnet/",
+    "pubDate": "2026-08-25T10:00:00+00:00",
+    "date": "2026-08-25T10:00:00+00:00"
+  },
+  {
+    "title": "Automatic CSRF protection based on Fetch Metadata headers: Exploring the .NET 11 preview - Part 6",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-6-automatic-csrf-protection-based-on-fetch-metadata-http-headers/",
+    "pubDate": "2026-08-04T09:00:00+00:00",
+    "date": "2026-08-04T09:00:00+00:00"
+  },
+  {
+    "title": "Understanding the Fetch Metadata HTTP headers: Sec-Fetch-Site and friends",
+    "link": "https://andrewlock.net/understanding-the-fetch-metadata-http-headers-sec-fetch-site-and-friends/",
+    "pubDate": "2026-07-29T09:50:00+00:00",
+    "date": "2026-07-29T09:50:00+00:00"
+  },
+  {
+    "title": "Improvements to reading Process outputs: Exploring the .NET 11 preview - Part 5",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-5-improvments-to-process-apis/",
+    "pubDate": "2026-07-07T10:00:00+00:00",
+    "date": "2026-07-07T10:00:00+00:00"
+  },
+  {
+    "title": "Closed class hierarchies: Exploring the .NET 11 preview - Part 4",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-4-closed-class-hierarchies/",
+    "pubDate": "2026-06-30T10:00:00+00:00",
+    "date": "2026-06-30T10:00:00+00:00"
+  },
+  {
+    "title": "Avoiding ToString() allocations with StringBuilder.MoveChunks: Exploring the .NET 11 preview - Part 3",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-3-avoiding-tostring-allocations-with-stringbuilder-movechunks/",
+    "pubDate": "2026-06-23T10:00:00+00:00",
+    "date": "2026-06-23T10:00:00+00:00"
+  },
+  {
+    "title": ".NET (OK, C#) finally gets union types🎉: Exploring the .NET 11 preview - Part 2",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
+    "pubDate": "2026-05-19T10:00:00+00:00",
+    "date": "2026-05-19T10:00:00+00:00"
+  },
+  {
+    "title": "Running background tasks in Blazor with Web Workers: Exploring the .NET 11 preview - Part 1",
+    "link": "https://andrewlock.net/exploring-the-dotnet-11-preview-1-running-background-tasks-in-blazor-with-web-workers/",
+    "pubDate": "2026-05-12T10:00:00+00:00",
+    "date": "2026-05-12T10:00:00+00:00"
+  },
+  {
+    "title": "New features in Git 2.54: easier rebasing, hooks, and statistics",
+    "link": "https://andrewlock.net/new-features-in-git-2-54-easier-rebasing-hooks-and-statistcs/",
+    "pubDate": "2026-04-28T10:00:00+00:00",
+    "date": "2026-04-28T10:00:00+00:00"
+  },
+  {
+    "title": "Removing byte[] allocations in .NET Framework using ReadOnlySpan<T>",
+    "link": "https://andrewlock.net/removingbyte-array-allocations-in-dotnet-framework-using-readonlyspan-t/",
+    "pubDate": "2026-04-21T10:00:00+00:00",
+    "date": "2026-04-21T10:00:00+00:00"
+  },
+  {
+    "title": "Running AI agents with customized templates using docker sandbox",
+    "link": "https://andrewlock.net/running-ai-agents-with-customized-templates-in-docker-sandbox/",
+    "pubDate": "2026-04-14T10:00:00+00:00",
+    "date": "2026-04-14T10:00:00+00:00"
+  },
+  {
+    "title": "Running AI agents safely in a microVM using docker sandbox",
+    "link": "https://andrewlock.net/running-ai-agents-safely-in-a-microvm-using-docker-sandbox/",
+    "pubDate": "2026-04-07T10:00:00+00:00",
+    "date": "2026-04-07T10:00:00+00:00"
+  },
+  {
+    "title": "Configuring contextual options with Microsoft.Extensions.Options.Contextual",
+    "link": "https://andrewlock.net/configuring-contextual-options-with-microsoft-extensions-options-contextual/",
+    "pubDate": "2026-04-01T10:00:00+00:00",
+    "date": "2026-04-01T10:00:00+00:00"
+  },
+  {
+    "title": "Splitting the NetEscapades.EnumGenerators packages: the road to a stable release",
+    "link": "https://andrewlock.net/splitting-the-netescapades-enumgenerators-packages-the-road-to-a-stable-release/",
+    "pubDate": "2026-03-10T09:00:00+00:00",
+    "date": "2026-03-10T09:00:00+00:00"
+  },
+  {
+    "title": "Recording metrics in-process using MeterListener: System.Diagnostics.Metrics APIs - Part 4",
+    "link": "https://andrewlock.net/recording-metrics-in-process-using-meterlistener/",
+    "pubDate": "2026-02-24T10:00:00+00:00",
+    "date": "2026-02-24T10:00:00+00:00"
+  },
+  {
+    "title": "Creating standard and \"observable\" instruments: System.Diagnostics.Metrics APIs - Part 3",
+    "link": "https://andrewlock.net/creating-standard-and-observable-instruments/",
+    "pubDate": "2026-02-17T10:00:00+00:00",
+    "date": "2026-02-17T10:00:00+00:00"
+  },
+  {
+    "title": "Exploring the (underwhelming) System.Diagnostics.Metrics source generators: System.Diagnostics.Metrics APIs - Part 2",
+    "link": "https://andrewlock.net/creating-strongly-typed-metics-with-a-source-generator/",
+    "pubDate": "2026-02-03T10:00:00+00:00",
+    "date": "2026-02-03T10:00:00+00:00"
+  },
+  {
+    "title": "Creating and consuming metrics with System.Diagnostics.Metrics APIs: System.Diagnostics.Metrics APIs - Part 1",
+    "link": "https://andrewlock.net/creating-and-consuming-metrics-with-system-diagnostics-metrics-apis/",
+    "pubDate": "2026-01-27T10:00:00+00:00",
+    "date": "2026-01-27T10:00:00+00:00"
+  },
+  {
+    "title": "Making foreach on an IEnumerable allocation-free using reflection and dynamic methods",
+    "link": "https://andrewlock.net/making-foreach-on-an-ienumerable-allocation-free-using-reflection-and-dynamic-methods/",
+    "pubDate": "2026-01-20T10:00:00+00:00",
+    "date": "2026-01-20T10:00:00+00:00"
   }
 ]

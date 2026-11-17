@@ -28,5 +28,35 @@
     "link": "https://adamsitnik.com/ETW-Profiler/",
     "pubDate": "2018-09-28T00:00:00+00:00",
     "date": "2018-09-28T00:00:00+00:00"
+  },
+  {
+    "title": "My way of Conducting an Interview",
+    "link": "https://adamsitnik.com/Conducting-Interview/",
+    "pubDate": "2018-09-03T00:00:00+00:00",
+    "date": "2018-09-03T00:00:00+00:00"
+  },
+  {
+    "title": "Disassembling .NET Code with BenchmarkDotNet",
+    "link": "https://adamsitnik.com/Disassembly-Diagnoser/",
+    "pubDate": "2017-08-16T00:00:00+00:00",
+    "date": "2017-08-16T00:00:00+00:00"
+  },
+  {
+    "title": "Span",
+    "link": "https://adamsitnik.com/Span/",
+    "pubDate": "2017-07-13T00:00:00+00:00",
+    "date": "2017-07-13T00:00:00+00:00"
+  },
+  {
+    "title": "ref returns and ref locals",
+    "link": "https://adamsitnik.com/ref-returns-and-ref-locals/",
+    "pubDate": "2017-07-04T00:00:00+00:00",
+    "date": "2017-07-04T00:00:00+00:00"
+  },
+  {
+    "title": "Value Types vs Reference Types",
+    "link": "https://adamsitnik.com/Value-Types-vs-Reference-Types/",
+    "pubDate": "2017-06-26T00:00:00+00:00",
+    "date": "2017-06-26T00:00:00+00:00"
   }
 ]
