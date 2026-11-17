@@ -14,8 +14,8 @@ const path = require('path');
 //
 // The news and category pages take each blog's NEWS_POSTS_PER_BLOG newest posts; a blog page lists all its
 // stored posts. Links to master content go through bases(depth), where depth is the page's folder depth below
-// the output folder: 0 for the news page, 1 for a blog page, 2 for a category page. Links from one dev-news page to another are relative,
-// so they stay on the same branch on GitHub and within the site on Pages.
+// the output folder: 0 for the news page, 1 for a blog page, 2 for a category page. Links from one dev-news
+// page to another are relative, so they stay on the same branch on GitHub and within the site on Pages.
 const site = process.argv[2] === '--site';
 const branchName = site ? null : (process.argv[2] || 'master');
 

@@ -438,7 +438,6 @@ Runs in the Pages build, after the dev-news files are copied in and gen_news.js 
 ```
 
 - The "All posts" link is relative to the page: `news/blog/<id>.html` in `README.md`, `../news/blog/<id>.html` in `blogs/README.md`. It is added only if `news/blog/<id>.md` exists, so a run without `gen_news.js --site` first leaves it out.
-
 - It all stays on one line so kramdown treats it as a single raw HTML block.
 - Titles and links are HTML-escaped, curly braces included, so Liquid doesn't read template tags in titles.
 - Dates are in UTC.
