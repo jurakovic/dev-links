@@ -112,6 +112,11 @@
 // MAX_POSTS, even if its feed returns only a few items. A post removed from the feed for
 // good stays until newer posts push it out.
 //
+// An untracked feed with a stored file (its links changed, or a short feed rolled over
+// completely since the last successful fetch) keeps the stored posts dated before its
+// oldest incoming post, so the stored archive isn't lost. Stored posts within the feed's
+// dates are dropped: with changed links, the feed returns them again under the new ones.
+//
 // FILE READ SAFETY
 // ----------------
 // The existing posts file is read synchronously at process startup, before stdin
@@ -257,10 +262,12 @@ process.stdin.on('end', () => {
         return [{ ...post, pubDate: normalizePubDate(post.pubDate), date: newPostDate(post.pubDate, tracked && !backfill) }];
     });
 
-    // Keep stored posts the feed no longer returns, then keep the newest MAX_POSTS (see MISSING POSTS AND THE CAP)
+    // Keep stored posts the feed no longer returns, then keep the newest MAX_POSTS (see MISSING POSTS AND THE CAP).
+    // In an untracked feed, only those older than every incoming post, so a post whose link changed isn't kept twice.
     const fetched = new Set(posts.map(post => post.link));
-    const missing = !tracked ? [] : existing
-        .filter(post => stored[post.link] && !fetched.has(post.link))
+    const oldestIncoming = Math.min(...result.map(sortTime));
+    const missing = existing
+        .filter(post => stored[post.link] && !fetched.has(post.link) && (tracked || sortTime(post) < oldestIncoming))
         .map(post => ({ ...post, pubDate: normalizePubDate(post.pubDate) }));
     const kept = [...result, ...missing]
         .sort((a, b) => sortTime(b) - sortTime(a))
