@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) [Visual Studio Magazine](https://visualstudiomagazine.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-17 [GitHub Brings Copilot Fusion Model Orchestration to Visual Studio](https://visualstudiomagazine.com/articles/2026/11/17/github-brings-copilot-fusion-model-orchestration-to-visual-studio.aspx)</small>  
 <small>2026-11-17 [Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>  
 <small>2026-11-17 [Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-releases-copilot-sdk-2-0-for-enterprise-ai-agents.aspx)</small>  
 <small>2026-11-13 [Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench](https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx)</small>  
@@ -55,6 +56,5 @@
 <small>2026-10-28 [Microsoft Brings GitHub Copilot, Foundry and Databases Into Sovereign Private Cloud](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-brings-github-copilot-foundry-and-databases-into-sovereign-private-cloud.aspx)</small>  
 <small>2026-10-28 [Microsoft Opens GitHub-Built Copilot Harness to Developers Through Foundry](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-opens-github-built-copilot-harness-to-developers-through-foundry.aspx)</small>  
 <small>2026-10-28 [Microsoft Doubles Down on Azure Cosmos DB Developer Tools](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-doubles-down-on-azure-cosmos-db-developer-tools.aspx)</small>  
-<small>2026-10-28 [GitHub Copilot Adds GPT-6.1 Terra for Lower-Cost Agentic Coding](https://visualstudiomagazine.com/articles/2026/10/28/github-copilot-adds-gpt-6-1-terra-for-lower-cost-agentic-coding.aspx)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>

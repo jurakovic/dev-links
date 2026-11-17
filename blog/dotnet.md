@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) [.NET Blog](https://devblogs.microsoft.com/dotnet/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-17 [Introducing staged publishing on NuGet.org](https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/)</small>  
 <small>2026-11-10 [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>  
 <small>2026-11-10 [.NET and .NET Framework November 2026 servicing updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/)</small>  
 <small>2026-11-05 [Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>  
@@ -15,6 +16,5 @@
 <small>2026-10-29 [Blazor Welcomes Open-Source Contributions from Syncfusion](https://devblogs.microsoft.com/dotnet/blazor-welcomes-syncfusion/)</small>  
 <small>2026-10-27 [Blazor Welcomes Open-Source Contributions from Infragistics](https://devblogs.microsoft.com/dotnet/blazor-welcomes-infragistics/)</small>  
 <small>2026-10-25 [.NET October 2026 Out-of-Band Security Updates](https://devblogs.microsoft.com/dotnet/dotnet-october-2026-oob-security-updates/)</small>  
-<small>2026-10-19 [Get Your .NET MAUI App Ready for Xcode 27](https://devblogs.microsoft.com/dotnet/migrate-dotnet-maui-apps-uikit-scene-lifecycle/)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>

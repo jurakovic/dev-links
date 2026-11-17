@@ -5,6 +5,12 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
+<small>[GitHub Brings Copilot Fusion Model Orchestration to Visual Studio](https://visualstudiomagazine.com/articles/2026/11/17/github-brings-copilot-fusion-model-orchestration-to-visual-studio.aspx)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [dotnet](../../blog/dotnet.md)</small>  
+<small>[Introducing staged publishing on NuGet.org](https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
@@ -30,9 +36,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-12 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[VS Code 1.146 Adds AI Agent Inbox, Model Comparisons and Chat Windows](https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-12 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
-<small>[Visual Studio 18.12 Makes Bring Your Own Model Generally Available](https://visualstudiomagazine.com/articles/2026/11/12/visual-studio-18,-d-,12-makes-bring-your-own-model-generally-available.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](../../blog/visualstudio.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-04 [visualstudio](../../blog/visualstudio.md)</small>  
 <small>[Keep learning, keep building! Make the most of VSLive! with your Visual Studio Subscription](https://devblogs.microsoft.com/visualstudio/keep-learning-keep-building-make-the-most-of-vslive-with-your-visual-studio-subscription/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 [dotnet](../../blog/dotnet.md)</small>  
-<small>[Delivering Skills in NuGet packages](https://devblogs.microsoft.com/dotnet/delivering-skills-in-nuget-packages/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-03 [andrewlock](../../blog/andrewlock.md)</small>  
 <small>[Understanding Lazy&lt;T&gt; thread safety modes](https://andrewlock.net/understanding-lazy-thread-safety-modes/)</small>
