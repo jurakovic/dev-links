@@ -1,15 +1,21 @@
 [
   {
-    "title": "Resources for the SQL AI Developer",
-    "link": "https://devblogs.microsoft.com/azure-sql/dp-800-sql-ai-certification/",
-    "pubDate": "2026-11-11T22:48:44+00:00",
-    "date": "2026-11-11T22:48:44+00:00"
+    "title": "SqlPackage Deployment History and Fast Comparison Preview",
+    "link": "https://devblogs.microsoft.com/azure-sql/sqlpackage-deployment-history-and-fast-comparison-preview/",
+    "pubDate": "2026-11-17T03:11:04+00:00",
+    "date": "2026-11-17T03:11:04+00:00"
   },
   {
     "title": "What’s new across Microsoft SQL in 2026 so far: the PASS Summit West roundup",
     "link": "https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-the-pass-summit-west-roundup/",
     "pubDate": "2026-11-11T11:48:48+00:00",
     "date": "2026-11-11T23:01:16+00:00"
+  },
+  {
+    "title": "Resources for the SQL AI Developer",
+    "link": "https://devblogs.microsoft.com/azure-sql/dp-800-sql-ai-certification/",
+    "pubDate": "2026-11-11T22:48:44+00:00",
+    "date": "2026-11-11T22:48:44+00:00"
   },
   {
     "title": "How do you run a query against data the database can’t read?",
@@ -22,11 +28,5 @@
     "link": "https://devblogs.microsoft.com/azure-sql/sql-mcp-server-hidden-feature-default-configuration/",
     "pubDate": "2026-11-03T21:29:25+00:00",
     "date": "2026-11-03T21:29:25+00:00"
-  },
-  {
-    "title": "The paper that explains how Microsoft SQL learned to recover without undoing everything first",
-    "link": "https://devblogs.microsoft.com/azure-sql/your-server-wasnt-slow-it-was-waiting-we-fixed-it-with-constant-time-recovery/",
-    "pubDate": "2026-11-02T11:49:03+00:00",
-    "date": "2026-11-02T11:49:03+00:00"
   }
 ]
