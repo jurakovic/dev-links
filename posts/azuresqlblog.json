@@ -1,5 +1,53 @@
 [
   {
+    "title": "Database Hub in Microsoft Fabric is generally available: your entire database estate in one place",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212",
+    "pubDate": "2026-11-17T22:31:10+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "MI link support for multiple databases in an Always On availability group is now generally available",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4571052",
+    "pubDate": "2026-11-17T21:00:00+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "Fuzzy string matching is now generally available across Microsoft SQL",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132",
+    "pubDate": "2026-11-17T20:55:49+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "Take control of transparent data encryption scans: suspend and resume now in preview",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096",
+    "pubDate": "2026-11-17T19:00:00+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "What's new in databases at Microsoft Ignite 2026: AI-ready data for apps and agents",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-databases-at-microsoft-ignite-2026-ai-ready-data/ba-p/4570764",
+    "pubDate": "2026-11-17T19:51:36+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "Azure SQL Managed Instance gets a boost: New capabilities in Next-gen General Purpose",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-managed-instance-gets-a-boost-new-capabilities-in-next/ba-p/4573761",
+    "pubDate": "2026-11-17T17:30:47+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "Azure SQL Hyperscale Cross-database querying: now in limited preview",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/azure-sql-hyperscale-cross-database-querying-now-in-limited/ba-p/4573935",
+    "pubDate": "2026-11-17T17:26:41+00:00",
+    "date": "2026-11-18T11:01:12+00:00"
+  },
+  {
+    "title": "Strengthening Ransomware Resilience with Immutable Backups in Azure SQL DB and Azure SQL MI",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/strengthening-ransomware-resilience-with-immutable-backups-in/ba-p/4574176",
+    "pubDate": "2026-11-18T01:29:54+00:00",
+    "date": "2026-11-18T01:29:54+00:00"
+  },
+  {
     "title": "Ask your database estate a question: Copilot in Database Hub is now in public preview",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/ask-your-database-estate-a-question-copilot-in-database-hub-is/ba-p/4572704",
     "pubDate": "2026-11-12T06:35:17+00:00",

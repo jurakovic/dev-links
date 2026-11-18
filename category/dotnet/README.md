@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-18 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Visug XL 2026–Bending Aspire to your will](https://bartwullems.blogspot.com/2026/11/visug-xl-2026bending-aspire-to-your-will.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [dotnet](../../blog/dotnet.md)</small>  
 <small>[.NET and .NET Framework November 2026 servicing updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-10 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Track used skills, agents and MCP servers with the Copilot usage metrics API](https://bartwullems.blogspot.com/2026/11/track-used-skills-agents-and-mcp.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-08 [steven-giesel](../../blog/steven-giesel.md)</small>  
 <small>[What happens to a method that awaits forever?](https://steven-giesel.com/blogPost/bb0a8fdf-5cf6-481a-9d0d-7dc7578357a4)</small>

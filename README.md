@@ -4,6 +4,30 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
+<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Database Hub in Microsoft Fabric is generally available: your entire database estate in one place](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[MI link support for multiple databases in an Always On availability group is now generally available](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4571052)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Fuzzy string matching is now generally available across Microsoft SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[What's new in databases at Microsoft Ignite 2026: AI-ready data for apps and agents](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-databases-at-microsoft-ignite-2026-ai-ready-data/ba-p/4570764)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
+<small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-18 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
+<small>[Visug XL 2026–Bending Aspire to your will](https://bartwullems.blogspot.com/2026/11/visug-xl-2026bending-aspire-to-your-will.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](blog/azure-sql.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
 
@@ -127,9 +151,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-12 [visualstudiomagazine](blog/visualstudiomagazine.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[VS Code 1.146 Adds AI Agent Inbox, Model Comparisons and Chat Windows](https://visualstudiomagazine.com/articles/2026/11/12/vs-code-1-146-adds-ai-agent-inbox-model-comparisons-and-chat-windows.aspx)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Ask your database estate a question: Copilot in Database Hub is now in public preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/ask-your-database-estate-a-question-copilot-in-database-hub-is/ba-p/4572704)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-12 [github-ai](blog/github-ai.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
 <small>[Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)</small>
 
@@ -208,9 +229,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [visualstudio](blog/visualstudio.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Announcing Visual Studio 2026 LTSC 18.11](https://devblogs.microsoft.com/visualstudio/announcing-visual-studio-2026-ltsc-1811/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>
 
@@ -222,12 +240,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-10 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Long-horizon agents and durable execution](https://martinfowler.com/articles/durable-execution-agents.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Closing a monitoring blind spot: version store read metrics](https://techcommunity.microsoft.com/t5/azure-sql-blog/closing-a-monitoring-blind-spot-version-store-read-metrics/ba-p/4571741)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-10 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Track used skills, agents and MCP servers with the Copilot usage metrics API](https://bartwullems.blogspot.com/2026/11/track-used-skills-agents-and-mcp.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-09 [lucumr-pocoo](blog/lucumr-pocoo.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/)</small>
@@ -291,17 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Modernize your .NET apps for Windows Arm64 with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) <small>2026-11-05 [sqlserverfast](blog/sqlserverfast.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Final post](https://sqlserverfast.com/blog/hugo/2026/11/final-post/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-04 [techtrenches](blog/techtrenches.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[Who Checks the Boring Layer](https://techtrenches.dev/p/who-checks-the-boring-layer)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-04 [chrismdp](blog/chrismdp.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[AI Has a People Problem](https://www.chrismdp.com/ai-has-a-people-problem-oredev/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

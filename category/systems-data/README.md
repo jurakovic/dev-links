@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [bencane](../../blog/bencane.md)</small>  
+<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
+<small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-17 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
 <small>[The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)</small>
 
@@ -34,14 +40,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-10-26 [pauldix](../../blog/pauldix.md)</small>  
 <small>[AI is the greatest gift to every self-starter](https://pauldix.com/ai-is-the-greatest-gift-to-every-self-starter)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
-<small>[“ignore the slop”](https://daniel.haxx.se/blog/2026/10/22/ignore-the-slop/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-21 [bencane](../../blog/bencane.md)</small>  
 <small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-14 [bencane](../../blog/bencane.md)</small>  
-<small>[Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.](https://bencane.com/posts/2026-10-14-waiting-adds-latency/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 [martin-kleppmann](../../blog/martin-kleppmann.md)</small>  
 <small>[Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)](http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html)</small>

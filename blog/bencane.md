@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Benjamin Cane](https://bencane.com) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
+<small>2026-11-18 [Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/)</small>  
 <small>2026-11-11 [How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/)</small>  
 <small>2026-11-04 [Microservices can work for low-latency workloads—if you design for it](https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/)</small>  
 <small>2026-10-28 [Production bugs happen. Fix the gap, not just the bug.](https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/)</small>  

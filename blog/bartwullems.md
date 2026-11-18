@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) [Bart Wullems | The Art of Simplicity](https://bartwullems.blogspot.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-18 [Visug XL 2026–Bending Aspire to your will](https://bartwullems.blogspot.com/2026/11/visug-xl-2026bending-aspire-to-your-will.html)</small>  
 <small>2026-11-17 [Setting a spending limit in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/11/setting-spending-limit-in-github.html)</small>  
 <small>2026-11-16 [Setting a spending limit on a Claude Code session](https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html)</small>  
 <small>2026-11-13 [Driving your AI agents in ECO mode](https://bartwullems.blogspot.com/2026/11/driving-your-ai-agents-in-eco-mode.html)</small>  

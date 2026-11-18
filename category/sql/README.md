@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[Database Hub in Microsoft Fabric is generally available: your entire database estate in one place](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[MI link support for multiple databases in an Always On availability group is now generally available](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4571052)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[Fuzzy string matching is now generally available across Microsoft SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[What's new in databases at Microsoft Ignite 2026: AI-ready data for apps and agents](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-databases-at-microsoft-ignite-2026-ai-ready-data/ba-p/4570764)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
 
@@ -31,9 +46,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-13 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Forced Parameterization and its Impact on Interleaved Execution](https://www.db-berater.de/2026/11/sql-server-forced-parameterization-vs-interleaved-execution/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[Ask your database estate a question: Copilot in Database Hub is now in public preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/ask-your-database-estate-a-question-copilot-in-database-hub-is/ba-p/4572704)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-12 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing](https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/)</small>
 
@@ -43,29 +55,17 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-11 [brentozar](../../blog/brentozar.md)</small>  
 <small>[How to Set Background Images & Movies in SSMS v22](https://www.brentozar.com/archive/2026/11/how-to-set-background-images-movies-in-ssms-v22/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[Public Preview: Performance monitoring for Azure SQL in Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/public-preview-performance-monitoring-for-azure-sql-in-database/ba-p/4560498)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[Closing a monitoring blind spot: version store read metrics](https://techcommunity.microsoft.com/t5/azure-sql-blog/closing-a-monitoring-blind-spot-version-store-read-metrics/ba-p/4571741)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-06 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Table Variable Deferred Compilation Disabled! So Why Does SQL Server Still Recompile?](https://www.db-berater.de/2026/11/table-variable-deferred-compilation-disabled-so-why-does-sql-server-still-recompile/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) <small>2026-11-05 [sqlserverfast](../../blog/sqlserverfast.md)</small>  
 <small>[Final post](https://sqlserverfast.com/blog/hugo/2026/11/final-post/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-03 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[New ransomware recovery guidance for Azure SQL Database and Azure SQL Managed Instance](https://techcommunity.microsoft.com/t5/azure-sql-blog/new-ransomware-recovery-guidance-for-azure-sql-database-and/ba-p/4569123)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-03 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Interleaved Execution: The Cure for MSTVFs That Never Cured Parameter Sniffing](https://www.db-berater.de/2026/11/why-interleaved-execution-doesnt-fix-parameter-sniffing/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-10-30 [db-berater](../../blog/db-berater.md)</small>  
 <small>[MSTVFs: Better Estimates, Same Fundamental Problem](https://www.db-berater.de/2026/10/mstvfs-better-estimates-same-fundamental-problem/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-10-27 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[Database watcher for Azure SQL is retiring: simplify your monitoring with Database Hub](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-watcher-for-azure-sql-is-retiring-simplify-your/ba-p/4567864)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-10-27 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[Why do you have so many housekeeping jobs?](https://sqlperformance.com/2026/10/sql-maintenance/too-many-housekeeping-jobs)</small>
