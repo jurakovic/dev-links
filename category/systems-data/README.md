@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-17 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
+<small>[The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-16 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
 <small>[Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)</small>
 
@@ -36,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-21 [bencane](../../blog/bencane.md)</small>  
 <small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-20 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
-<small>[Do minor curl vulnerabilities in the open](https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-14 [bencane](../../blog/bencane.md)</small>  
 <small>[Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.](https://bencane.com/posts/2026-10-14-waiting-adds-latency/)</small>

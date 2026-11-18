@@ -1,5 +1,11 @@
 [
   {
+    "title": "The curl 30 years gource",
+    "link": "https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/",
+    "pubDate": "2026-11-17T23:19:19+00:00",
+    "date": "2026-11-17T23:19:19+00:00"
+  },
+  {
     "title": "Actual curl rewrites in rust",
     "link": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
     "pubDate": "2026-11-16T23:54:58+00:00",

@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](../../blog/azure-sql.md)</small>  
+<small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
+<small>[Build locally with Azure SQL Database container, now in public preview](https://devblogs.microsoft.com/azure-sql/build-locally-with-azure-sql-database-container-now-in-public-preview/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[MSSQL Extension for VS Code: Local Azure SQL Database Provisioning, Query Performance Dashboard, and more](https://devblogs.microsoft.com/azure-sql/vscode-mssql-november2026/)</small>
 
@@ -15,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[Fuzzy string matching is now generally available across Microsoft SQL](https://devblogs.microsoft.com/azure-sql/fuzzy-string-matching-is-now-generally-available-across-microsoft-sql/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
-<small>[SqlPackage Deployment History and Fast Comparison Preview](https://devblogs.microsoft.com/azure-sql/sqlpackage-deployment-history-and-fast-comparison-preview/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-11-16 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[Killing a tempdb killer – Part 1](https://sqlperformance.com/2026/11/tempdb/killing-a-tempdb-killer-part-1)</small>
@@ -36,9 +39,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-12 [brentozar](../../blog/brentozar.md)</small>  
 <small>[What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-11 [azure-sql](../../blog/azure-sql.md)</small>  
-<small>[What’s new across Microsoft SQL in 2026 so far: the PASS Summit West roundup](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-in-2026-so-far-the-pass-summit-west-roundup/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-11 [brentozar](../../blog/brentozar.md)</small>  
 <small>[How to Set Background Images & Movies in SSMS v22](https://www.brentozar.com/archive/2026/11/how-to-set-background-images-movies-in-ssms-v22/)</small>

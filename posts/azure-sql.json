@@ -1,5 +1,17 @@
 [
   {
+    "title": "New Create and Apply wizards in SSMS (Preview)",
+    "link": "https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/",
+    "pubDate": "2026-11-18T01:02:47+00:00",
+    "date": "2026-11-18T01:02:47+00:00"
+  },
+  {
+    "title": "Build locally with Azure SQL Database container, now in public preview",
+    "link": "https://devblogs.microsoft.com/azure-sql/build-locally-with-azure-sql-database-container-now-in-public-preview/",
+    "pubDate": "2026-11-17T23:23:52+00:00",
+    "date": "2026-11-17T23:23:52+00:00"
+  },
+  {
     "title": "MSSQL Extension for VS Code: Local Azure SQL Database Provisioning, Query Performance Dashboard, and more",
     "link": "https://devblogs.microsoft.com/azure-sql/vscode-mssql-november2026/",
     "pubDate": "2026-11-17T22:03:17+00:00",

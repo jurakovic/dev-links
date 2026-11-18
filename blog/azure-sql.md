@@ -6,6 +6,8 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) [Azure SQL Devs' Corner Blog](https://devblogs.microsoft.com/azure-sql/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
+<small>2026-11-18 [New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>  
+<small>2026-11-17 [Build locally with Azure SQL Database container, now in public preview](https://devblogs.microsoft.com/azure-sql/build-locally-with-azure-sql-database-container-now-in-public-preview/)</small>  
 <small>2026-11-17 [MSSQL Extension for VS Code: Local Azure SQL Database Provisioning, Query Performance Dashboard, and more](https://devblogs.microsoft.com/azure-sql/vscode-mssql-november2026/)</small>  
 <small>2026-11-17 [What’s new across Microsoft SQL at Microsoft Ignite 2026](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-microsoft-ignite-2026/)</small>  
 <small>2026-11-17 [Fuzzy string matching is now generally available across Microsoft SQL](https://devblogs.microsoft.com/azure-sql/fuzzy-string-matching-is-now-generally-available-across-microsoft-sql/)</small>  
