@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-18 [martinfowler](../../blog/martinfowler.md)</small>  
+<small>[Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-17 [third-bit](../../blog/third-bit.md)</small>  
 <small>[This Book Would Be Really Useful](https://third-bit.com/2026/11/17/this-book-would-be-really-useful/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-10 [martinfowler](../../blog/martinfowler.md)</small>  
 <small>[Fragments: November 10](https://martinfowler.com/fragments/2026-11-10.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-10 [martinfowler](../../blog/martinfowler.md)</small>  
-<small>[Long-horizon agents and durable execution](https://martinfowler.com/articles/durable-execution-agents.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-09 [third-bit](../../blog/third-bit.md)</small>  
 <small>[LLM as Interface](https://third-bit.com/2026/11/09/llm-as-interface/)</small>

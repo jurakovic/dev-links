@@ -1,5 +1,11 @@
 [
   {
+    "title": "Data Contracts",
+    "link": "https://martinfowler.com/articles/data-contracts.html",
+    "pubDate": "2026-11-18T14:02:00+00:00",
+    "date": "2026-11-18T14:02:00+00:00"
+  },
+  {
     "title": "Deterministic Simulation Testing",
     "link": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
     "pubDate": "2026-11-17T14:33:00+00:00",

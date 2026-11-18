@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) [Martin Fowler](https://www.martinfowler.com/recent-changes.html) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
+<small>2026-11-18 [Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>  
 <small>2026-11-17 [Deterministic Simulation Testing](https://martinfowler.com/articles/deterministic-simulation-testing.html)</small>  
 <small>2026-11-12 [Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html)</small>  
 <small>2026-11-11 [Tests as data: ensuring AI-generated code does what we want](https://martinfowler.com/articles/tests-as-data.html)</small>  
