@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-18 [datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)</small>  
 <small>2026-11-18 [Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>  
 <small>2026-11-18 [The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/)</small>  
 <small>2026-11-17 [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/)</small>  

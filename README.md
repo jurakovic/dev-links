@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-11-17 [netflix](blog/netflix.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
 <small>[Engineering AI Discover](https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-17 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[Running the full server-side Datasette Python app in the browser with service workers and Pyodide](https://simonwillison.net/2026/Nov/17/datasette-lite/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-17 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Deterministic Simulation Testing](https://martinfowler.com/articles/deterministic-simulation-testing.html)</small>
