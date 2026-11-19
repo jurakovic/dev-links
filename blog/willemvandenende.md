@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) [Willem van den Ende](https://willemvandenende.com/blog/engineering) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-19 [I just made a habit of talking to my notes](http://willemvandenende.com/blog/engineering/i-just-made-a-habit-of-talking-to-my-notes)</small>  
 <small>2026-11-06 [Is Planned Obsolescence in Electronic Music Hardware going the way of the Dodo?](http://willemvandenende.com/blog/engineering/is-planned-obsolescence-in-electronic-music-hardware-going-the-way-of-the-dodo)</small>  
 <small>2026-11-02 [Printing 3D objects from photos with a couple of prompts](http://willemvandenende.com/blog/engineering/printing-3d-objects-from-photos-with-a-couple-of-prompts)</small>  
 <small>2026-10-29 [The Intention, Location, Details communication Pattern](http://willemvandenende.com/blog/engineering/the-intention-location-details-communication-pattern)</small>  

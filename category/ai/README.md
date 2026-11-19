@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-19 [willemvandenende](../../blog/willemvandenende.md)</small>  
+<small>[I just made a habit of talking to my notes](http://willemvandenende.com/blog/engineering/i-just-made-a-habit-of-talking-to-my-notes)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)</small>
 
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-21 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[Who Holds The Clock](https://techtrenches.dev/p/who-holds-the-clock)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-10-21 [willemvandenende](../../blog/willemvandenende.md)</small>  
-<small>[To Cheap to Meter - Open Weight models in October 2026](http://willemvandenende.com/blog/engineering/to-cheap-to-meter-open-weight-models-in-october-2026)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-20 [chrismdp](../../blog/chrismdp.md)</small>  
 <small>[You Must Draw Your AI Workflow to Control It](https://www.chrismdp.com/awml/)</small>

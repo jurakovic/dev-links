@@ -6,6 +6,8 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) [Brent Ozar](https://www.brentozar.com/blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
+<small>2026-11-19 [Would Open-Sourcing Microsoft SQL Server Actually Fix Anything?](https://www.brentozar.com/archive/2026/11/would-open-sourcing-microsoft-sql-server-actually-fix-anything/)</small>  
+<small>2026-11-19 [\[Video\] Office Hours: Back from the PASS Summit](https://www.brentozar.com/archive/2026/11/video-office-hours-back-from-the-pass-summit/)</small>  
 <small>2026-11-17 [Make Your Nightly ETL Faster with TABLOCKX](https://www.brentozar.com/archive/2026/11/make-your-nightly-etl-faster-with-tablockx/)</small>  
 <small>2026-11-13 [\[Video\] Office Hours in the Backyard](https://www.brentozar.com/archive/2026/11/video-office-hours-in-the-backyard/)</small>  
 <small>2026-11-12 [What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>  

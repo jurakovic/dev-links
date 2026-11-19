@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-19 [brentozar](../../blog/brentozar.md)</small>  
+<small>[Would Open-Sourcing Microsoft SQL Server Actually Fix Anything?](https://www.brentozar.com/archive/2026/11/would-open-sourcing-microsoft-sql-server-actually-fix-anything/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-19 [brentozar](../../blog/brentozar.md)</small>  
+<small>[\[Video\] Office Hours: Back from the PASS Summit](https://www.brentozar.com/archive/2026/11/video-office-hours-back-from-the-pass-summit/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
 <small>[Database Hub in Microsoft Fabric is generally available: your entire database estate in one place](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212)</small>
 
@@ -51,9 +57,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-12 [brentozar](../../blog/brentozar.md)</small>  
 <small>[What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-11 [brentozar](../../blog/brentozar.md)</small>  
-<small>[How to Set Background Images & Movies in SSMS v22](https://www.brentozar.com/archive/2026/11/how-to-set-background-images-movies-in-ssms-v22/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-06 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Table Variable Deferred Compilation Disabled! So Why Does SQL Server Still Recompile?](https://www.db-berater.de/2026/11/table-variable-deferred-compilation-disabled-so-why-does-sql-server-still-recompile/)</small>

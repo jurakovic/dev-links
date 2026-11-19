@@ -4,6 +4,18 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-19 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Would Open-Sourcing Microsoft SQL Server Actually Fix Anything?](https://www.brentozar.com/archive/2026/11/would-open-sourcing-microsoft-sql-server-actually-fix-anything/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-19 [willemvandenende](blog/willemvandenende.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[I just made a habit of talking to my notes](http://willemvandenende.com/blog/engineering/i-just-made-a-habit-of-talking-to-my-notes)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-19 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[\[Video\] Office Hours: Back from the PASS Summit](https://www.brentozar.com/archive/2026/11/video-office-hours-back-from-the-pass-summit/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-19 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[Chaos, then control: the maturity model most AI rollouts skip over](https://stackoverflow.blog/2026/11/19/chaos-then-control/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-19 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>
 
@@ -169,9 +181,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-12 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
 <small>[How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-12 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](blog/visualstudio.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>
 
@@ -201,9 +210,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-11 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Tests as data: ensuring AI-generated code does what we want](https://martinfowler.com/articles/tests-as-data.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-11 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[How to Set Background Images & Movies in SSMS v22](https://www.brentozar.com/archive/2026/11/how-to-set-background-images-movies-in-ssms-v22/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-11 [damienbod](blog/damienbod.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Migrate a GitHub repository to GitHub Enterprise](https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/)</small>
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-11-05 [jimmybogard](blog/jimmybogard.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[AutoMapper 16.3.0 and 15.1.4 Released with Security Fixes](https://www.jimmybogard.com/automapper-16-3-0-and-15-1-4-released-with-security-fixes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-05 [github-eng](blog/github-eng.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[Inside GitHub’s new Git storage architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
