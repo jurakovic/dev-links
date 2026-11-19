@@ -1,5 +1,11 @@
 [
   {
+    "title": "Modernize your apps with Azure SQL Database Hyperscale",
+    "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/11/18/modernize-your-apps-with-azure-sql-database-hyperscale/",
+    "pubDate": "2026-11-18T14:00:00+00:00",
+    "date": "2026-11-19T23:01:15+00:00"
+  },
+  {
     "title": "SQLCon Barcelona 2026: Advancing SQL with greater control, scale, and intelligence",
     "link": "https://www.microsoft.com/en-us/sql-server/blog/2026/09/28/sqlcon-barcelona-2026-advancing-sql-with-greater-control-scale-and-intelligence/",
     "pubDate": "2026-09-29T06:15:00+00:00",

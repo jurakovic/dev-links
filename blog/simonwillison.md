@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-19 [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)</small>  
 <small>2026-11-18 [llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)</small>  
 <small>2026-11-18 [datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)</small>  
 <small>2026-11-18 [Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>  

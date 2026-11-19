@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-11-19 [pragmaticengineer](../../blog/pragmaticengineer.md)</small>  
+<small>[The Pulse: What can we learn from the Railway hack?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-18 [martinfowler](../../blog/martinfowler.md)</small>  
 <small>[Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>
 
@@ -111,9 +114,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-14 [paulhammant](../../blog/paulhammant.md)</small>  
 <small>[Red-Green-Refactor Moves Into the Harness](https://paulhammant.com/2026/10/14/red-green-refactor-moves-into-the-harness/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-10-08 [pragmaticengineer](../../blog/pragmaticengineer.md)</small>  
-<small>[The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-10-08 [swizec](../../blog/swizec.md)</small>  
 <small>[When code is cheap, judgement becomes the job](https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job)</small>

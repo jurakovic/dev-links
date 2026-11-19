@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) [Visual Studio Magazine](https://visualstudiomagazine.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-19 [Microsoft Foundry Ships Dev Pack, Adds Agent Network Controls at Ignite](https://visualstudiomagazine.com/articles/2026/11/19/whats-new-in-microsoft-foundry-at-ignite-2026.aspx)</small>  
 <small>2026-11-17 [Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>  
 <small>2026-11-17 [GitHub Brings Copilot Fusion Model Orchestration to Visual Studio](https://visualstudiomagazine.com/articles/2026/11/17/github-brings-copilot-fusion-model-orchestration-to-visual-studio.aspx)</small>  
 <small>2026-11-17 [Microsoft Releases Copilot SDK 2.0 for Enterprise AI Agents](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-releases-copilot-sdk-2-0-for-enterprise-ai-agents.aspx)</small>  
@@ -55,6 +56,5 @@
 <small>2026-10-28 [Microsoft Warns AI Agents Are Becoming a New Class of Insider Security Risk](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-warns-ai-agents-are-becoming-a-new-class-of-insider-security-risk.aspx)</small>  
 <small>2026-10-28 [Microsoft Brings GitHub Copilot, Foundry and Databases Into Sovereign Private Cloud](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-brings-github-copilot-foundry-and-databases-into-sovereign-private-cloud.aspx)</small>  
 <small>2026-10-28 [Microsoft Opens GitHub-Built Copilot Harness to Developers Through Foundry](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-opens-github-built-copilot-harness-to-developers-through-foundry.aspx)</small>  
-<small>2026-10-28 [Microsoft Doubles Down on Azure Cosmos DB Developer Tools](https://visualstudiomagazine.com/articles/2026/10/28/microsoft-doubles-down-on-azure-cosmos-db-developer-tools.aspx)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>
