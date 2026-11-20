@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) [The Stack Overflow Blog](https://stackoverflow.blog) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](../category/tech-companies/README.md)
 
+<small>2026-11-20 [Dispatches from O'Reilly: Inside a software factory](https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/)</small>  
 <small>2026-11-20 [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)</small>  
 <small>2026-11-19 [Chaos, then control: the maturity model most AI rollouts skip over](https://stackoverflow.blog/2026/11/19/chaos-then-control/)</small>  
 <small>2026-11-17 [The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/)</small>  

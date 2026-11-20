@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) [.NET Blog](https://devblogs.microsoft.com/dotnet/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-20 [AI is Changing the Cross-Platform Decision Matrix](https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/)</small>  
 <small>2026-11-17 [Introducing staged publishing on NuGet.org](https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/)</small>  
 <small>2026-11-10 [Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>  
 <small>2026-11-10 [.NET and .NET Framework November 2026 servicing updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/)</small>  

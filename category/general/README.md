@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-20 [seangoedecke](../../blog/seangoedecke.md)</small>  
+<small>[Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-20 [martinfowler](../../blog/martinfowler.md)</small>  
+<small>[Fragments: November 20](https://martinfowler.com/fragments/2026-11-20.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-11-19 [pragmaticengineer](../../blog/pragmaticengineer.md)</small>  
 <small>[The Pulse: What can we learn from the Railway hack?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/)</small>
 
@@ -46,9 +52,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-10 [martinfowler](../../blog/martinfowler.md)</small>  
-<small>[Fragments: November 10](https://martinfowler.com/fragments/2026-11-10.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-09 [third-bit](../../blog/third-bit.md)</small>  
 <small>[LLM as Interface](https://third-bit.com/2026/11/09/llm-as-interface/)</small>
 
@@ -72,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-06 [daverupert](../../blog/daverupert.md)</small>  
 <small>[Pseudo-pseudo-classes for maximum interactive demos!](https://daverupert.com/2026/11/pseudo-pseudo-classes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-05 [seangoedecke](../../blog/seangoedecke.md)</small>  
-<small>[A database is a store for global variables](https://seangoedecke.com/a-database-is-a-store-for-global-variables/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-03 [daverupert](../../blog/daverupert.md)</small>  
 <small>[Write mo'](https://daverupert.com/2026/11/write-mo/)</small>

@@ -1,5 +1,11 @@
 [
   {
+    "title": "AI is Changing the Cross-Platform Decision Matrix",
+    "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
+    "pubDate": "2026-11-20T18:00:00+00:00",
+    "date": "2026-11-20T18:00:00+00:00"
+  },
+  {
     "title": "Introducing staged publishing on NuGet.org",
     "link": "https://devblogs.microsoft.com/dotnet/nuget-staged-publishing/",
     "pubDate": "2026-11-17T21:00:00+00:00",

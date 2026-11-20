@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-20 [azure-sql](../../blog/azure-sql.md)</small>  
+<small>[How to Chunk Documents in Azure SQL Database for RAG](https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-19 [microsoft-sql-server](../../blog/microsoft-sql-server.md)</small>  
 <small>[Modernize your apps with Azure SQL Database Hyperscale](https://www.microsoft.com/en-us/sql-server/blog/2026/11/18/modernize-your-apps-with-azure-sql-database-hyperscale/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[What’s new across Microsoft SQL at Microsoft Ignite 2026](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-microsoft-ignite-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
-<small>[Fuzzy string matching is now generally available across Microsoft SQL](https://devblogs.microsoft.com/azure-sql/fuzzy-string-matching-is-now-generally-available-across-microsoft-sql/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-11-16 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[Killing a tempdb killer – Part 1](https://sqlperformance.com/2026/11/tempdb/killing-a-tempdb-killer-part-1)</small>

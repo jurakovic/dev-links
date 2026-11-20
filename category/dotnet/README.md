@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-20 [dotnet](../../blog/dotnet.md)</small>  
+<small>[AI is Changing the Cross-Platform Decision Matrix](https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-20 [bartwullems](../../blog/bartwullems.md)</small>  
 <small>[Bending Aspire to your will - Custom icons, URLs and a command to export your OpenAPI spec](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-custom.html)</small>
 
@@ -84,9 +87,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](../../blog/dotnet.md)</small>  
 <small>[Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](../../blog/dotnet.md)</small>  
-<small>[Modernize your .NET apps for Windows Arm64 with GitHub Copilot](https://devblogs.microsoft.com/dotnet/modernize-dotnet-apps-for-windows-arm64/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-03 [andrewlock](../../blog/andrewlock.md)</small>  
 <small>[Understanding Lazy&lt;T&gt; thread safety modes](https://andrewlock.net/understanding-lazy-thread-safety-modes/)</small>
