@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-20 [Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)</small>  
 <small>2026-11-20 [Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>  
 <small>2026-11-19 [PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)</small>  
 <small>2026-11-18 [llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)</small>  

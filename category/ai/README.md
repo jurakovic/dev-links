@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-19 [simonwillison](../../blog/simonwillison.md)</small>  
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[datasette-arrows 0.1a0](https://simonwillison.net/2026/Nov/18/datasette-arrows/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-13 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)</small>
