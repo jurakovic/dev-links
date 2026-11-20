@@ -4,11 +4,14 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-19 [microsoft-sql-server](blog/microsoft-sql-server.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Modernize your apps with Azure SQL Database Hyperscale](https://www.microsoft.com/en-us/sql-server/blog/2026/11/18/modernize-your-apps-with-azure-sql-database-hyperscale/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-19 [visualstudio](blog/visualstudio.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Live technical training, wherever you are: A VSLive! benefit for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>
+<small>[Live technical training, wherever you are: A VSLive! benefit for Visual Studio subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-19 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)</small>
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-18 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>

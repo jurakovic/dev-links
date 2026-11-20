@@ -5,7 +5,7 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-19 [visualstudio](../../blog/visualstudio.md)</small>  
-<small>[Live technical training, wherever you are: A VSLive! benefit for Visual Studio Subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>
+<small>[Live technical training, wherever you are: A VSLive! benefit for Visual Studio subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-19 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Foundry Ships Dev Pack, Adds Agent Network Controls at Ignite](https://visualstudiomagazine.com/articles/2026/11/19/whats-new-in-microsoft-foundry-at-ignite-2026.aspx)</small>

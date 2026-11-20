@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-19 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[PostgreSQL 19 Released](https://simonwillison.net/2026/Nov/19/postgresql-19/)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[Quoting Daniel Stenberg](https://simonwillison.net/2026/Nov/18/daniel-stenberg/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[The PSF end-of-year fundraiser](https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-13 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)</small>
