@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-20 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
+<small>[Bending Aspire to your will - Custom icons, URLs and a command to export your OpenAPI spec](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-custom.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-20 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>
 
@@ -166,9 +172,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-13 [daverupert](blog/daverupert.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Conventional Commit rules everything around me](https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-13 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Driving your AI agents in ECO mode](https://bartwullems.blogspot.com/2026/11/driving-your-ai-agents-in-eco-mode.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-13 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[\[Video\] Office Hours in the Backyard](https://www.brentozar.com/archive/2026/11/video-office-hours-in-the-backyard/)</small>
 
@@ -189,9 +192,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) <small>2026-11-12 [pragmaticengineer](blog/pragmaticengineer.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[The Pulse: Details of incident.io’s AI spend](https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-12 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](blog/visualstudio.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>

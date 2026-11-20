@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-20 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Bending Aspire to your will - Custom icons, URLs and a command to export your OpenAPI spec](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-custom.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-19 [visualstudio](../../blog/visualstudio.md)</small>  
 <small>[Live technical training, wherever you are: A VSLive! benefit for Visual Studio subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>
 
@@ -42,9 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-13 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench](https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-13 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Driving your AI agents in ECO mode](https://bartwullems.blogspot.com/2026/11/driving-your-ai-agents-in-eco-mode.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](../../blog/visualstudio.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>

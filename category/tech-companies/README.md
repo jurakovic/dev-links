@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-20 [stackoverflow](../../blog/stackoverflow.md)</small>  
+<small>[Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-19 [stackoverflow](../../blog/stackoverflow.md)</small>  
 <small>[Chaos, then control: the maturity model most AI rollouts skip over](https://stackoverflow.blog/2026/11/19/chaos-then-control/)</small>
 
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-12 [github-ai](../../blog/github-ai.md)</small>  
 <small>[Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-12 [stackoverflow](../../blog/stackoverflow.md)</small>  
-<small>[How do you hire a human? Q&A with Tom Harvey, Stack Overflow technical recruiter](https://stackoverflow.blog/2026/11/12/how-do-you-hire-a-human-q-and-a-with-tom-harvey-stack-overflow-technical-recruiter/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-11-09 [netflix](../../blog/netflix.md)</small>  
 <small>[Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System](https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4)</small>
