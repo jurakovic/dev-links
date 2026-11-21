@@ -96,9 +96,10 @@ function formatDate(date) {
     return isNaN(yyyy) ? date : `${yyyy}-${mm}-${dd}`;
 }
 
-// Markdown escape for titles (minimal); curly braces keep Liquid from interpreting {{ }} / {% %} on the site
+// Markdown escape for titles (minimal); `|` keeps kramdown from reading a line holding one as a table row on
+// the site, curly braces keep Liquid from interpreting {{ }} / {% %} there
 const escTitle = s => s
-    .replace(/([*_`\[\]])/g, '\\$1')
+    .replace(/([*_`\[\]|])/g, '\\$1')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
     .replace(/\{/g, '&#123;')
