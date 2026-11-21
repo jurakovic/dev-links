@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/mattwarren.png) [Matt Warren | Performance is a Feature!](https://mattwarren.org) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/mattwarren.png) [Matt Warren \| Performance is a Feature!](https://mattwarren.org) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2020-03-03 [Analysing .NET start-up time with Flamegraphs](http://www.mattwarren.org/2020/03/03/Analysing-.NET-Runtime-Startup-with-Flamegraphs/)</small>  
 <small>2020-02-19 [Under the hood of "Default Interface Methods"](http://www.mattwarren.org/2020/02/19/Under-the-hood-of-Default-Interface-Methods/)</small>  

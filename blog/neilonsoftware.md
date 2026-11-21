@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/neilonsoftware.png) [Neil Green | Neil on Software (Podcast)](https://neilonsoftware.com/articles/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/neilonsoftware.png) [Neil Green \| Neil on Software (Podcast)](https://neilonsoftware.com/articles/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2023-12-22 [Fireside Stories #20: That time I was told I must have known someone to get a job.](https://neilonsoftware.com/2023/12/22/fireside-stories-20-that-time-i-was-told-i-must-have-known-someone-to-get-a-job/)</small>  
 <small>2023-12-22 [Why Work Hard at Work?](https://neilonsoftware.com/2023/12/22/why-work-hard-at-work/)</small>  

@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) [Uwe Ricken | SQL Server Blog](https://www.db-berater.de/sql-server-blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) [Uwe Ricken \| SQL Server Blog](https://www.db-berater.de/sql-server-blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
 <small>2026-11-13 [Forced Parameterization and its Impact on Interleaved Execution](https://www.db-berater.de/2026/11/sql-server-forced-parameterization-vs-interleaved-execution/)</small>  
 <small>2026-11-12 [Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing](https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/)</small>  

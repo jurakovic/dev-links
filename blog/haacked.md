@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) [Phil Haack | You've Been Haacked](https://haacked.com/archives/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) [Phil Haack \| You've Been Haacked](https://haacked.com/archives/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-07-20 [Sign Commits from Anywhere Without Your Keys Going Anywhere](https://haacked.com/archive/2026/07/20/remote-commit-signing/)</small>  
 <small>2026-03-25 [Resolve Merge Conflicts the Easy Way](https://haacked.com/archive/2026/03/25/resolve-merge-conflicts/)</small>  

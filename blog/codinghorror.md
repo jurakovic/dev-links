@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) [Jeff Atwood | Coding Horror](https://blog.codinghorror.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) [Jeff Atwood \| Coding Horror](https://blog.codinghorror.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-10-28 [Suffering as a Feature](https://blog.codinghorror.com/suffering-as-a-feature/)</small>  
 <small>2026-09-25 [If we do not stop to help each other, what do we become?](https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/)</small>  

@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/bcantrill-dtrace.png) [Bryan Cantrill | The Observation Deck](https://bcantrill.dtrace.org) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/bcantrill-dtrace.png) [Bryan Cantrill \| The Observation Deck](https://bcantrill.dtrace.org) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
 <small>2026-09-27 [Fool's Expertise](https://bcantrill.dtrace.org/2026/09/27/fools-expertise/)</small>  
 <small>2026-09-20 [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)</small>  

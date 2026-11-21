@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Salvatore Sanfilippo | antirez](https://antirez.com) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Salvatore Sanfilippo \| antirez](https://antirez.com) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
 <small>2026-07-28 [The real AI risk is inside the labs](http://antirez.com/news/172)</small>  
 <small>2026-07-25 [Being Linux Torvalds](http://antirez.com/news/171)</small>  

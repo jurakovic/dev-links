@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) [Steve Smith | Ardalis](https://ardalis.com/blog) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) [Steve Smith \| Ardalis](https://ardalis.com/blog) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-11-16 [Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>  
 <small>2026-10-29 [Some Ardalis Packages Are Going Commercial: What You Need to Know](https://ardalis.com/some-ardalis-packages-going-commercial/)</small>  

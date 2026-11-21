@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) [Edmond Lau | The Effective Engineer](https://www.effectiveengineer.com/blog) [<kbd class="tag tag-management">Management</kbd>](../category/management/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/effectiveengineer.png) [Edmond Lau \| The Effective Engineer](https://www.effectiveengineer.com/blog) [<kbd class="tag tag-management">Management</kbd>](../category/management/README.md)
 
 <small>2026-06-05 [Relationships Are Systems — What Engineering Taught Me About Partnership](http://www.effectiveengineer.com/blog/engineering-and-partnership)</small>  
 <small>2020-03-24 [How to Stay Happy, Healthy, and Productive During a Pandemic](http://www.effectiveengineer.com/blog/stay-happy-healthy-productive-during-pandemic)</small>  

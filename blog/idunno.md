@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) [Barry Dorrans | Ramblings from a .NET Security PM](https://idunno.org) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/idunno.png) [Barry Dorrans \| Ramblings from a .NET Security PM](https://idunno.org) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-08-03 [Group your Dependabot Updates](https://idunno.org/group-your-dependabot-updates/)</small>  
 <small>2026-06-14 [Is your .NET vulnerability report going to get a CVE?](https://idunno.org/is-your-net-vulnerability-report-going-to-get-a-cve/)</small>  

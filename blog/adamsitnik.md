@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Adam Sitnik | .NET Performance and Reliability](https://adamsitnik.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Adam Sitnik \| .NET Performance and Reliability](https://adamsitnik.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2023-01-13 [Profiling .NET on Linux with BenchmarkDotNet](https://adamsitnik.com/PerfCollectProfiler/)</small>  
 <small>2019-03-22 [Profiling .NET Code with PerfView and visualizing it with speedscope.app](https://adamsitnik.com/speedscope/)</small>  

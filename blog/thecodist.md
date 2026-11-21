@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) [Andrew Wulf | The Codist](https://thecodist.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/thecodist.png) [Andrew Wulf \| The Codist](https://thecodist.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-03-16 [Why Buying An Apple II+ In 1979 Changed My Life](https://thecodist.com/why-buying-an-apple-ii-in-1979-changed-my-life/)</small>  
 <small>2025-10-22 [That Time I Trashed The Company Mainframe, And The Lesson I Learned](https://thecodist.com/that-time-i-trashed-the-company-mainframe-and-the-lesson-i-learned/)</small>  

@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) [Mattias Karlsson | devlead](https://www.devlead.se) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) [Mattias Karlsson \| devlead](https://www.devlead.se) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-10-01 [Taking control of your digital legacy](https://www.devlead.se/posts/2026/2026-10-01-taking-control-of-your-digital-legacy)</small>  
 <small>2026-06-27 [Template plus source package: my .NET console stack in 2026](https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026)</small>  

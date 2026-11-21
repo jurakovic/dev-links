@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) [Damien Bowden | Software Engineering](https://damienbod.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) [Damien Bowden \| Software Engineering](https://damienbod.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-11-11 [Migrate a GitHub repository to GitHub Enterprise](https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/)</small>  
 <small>2026-11-02 [Use Open.IdentityServer for OpenID Connect in an Aspire setup](https://damienbod.com/2026/11/02/use-open-identityserver-for-openid-connect-in-an-aspire-setup/)</small>  

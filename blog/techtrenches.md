@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) [Denis Stetskov | From the Trenches](https://techtrenches.dev/archive) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) [Denis Stetskov \| From the Trenches](https://techtrenches.dev/archive) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
 <small>2026-11-19 [22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>  
 <small>2026-11-12 [Everyone Hates AI. Half of Them Use It.](https://techtrenches.dev/p/everyone-hates-ai-half-of-them-use)</small>  

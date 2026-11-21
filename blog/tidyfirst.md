@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) [Kent Beck | Software Design: Tidy First?](https://newsletter.kentbeck.com/archive) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) [Kent Beck \| Software Design: Tidy First?](https://newsletter.kentbeck.com/archive) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-11-12 [“Toil” is Contextual](https://newsletter.kentbeck.com/p/toil-is-contextual)</small>  
 <small>2026-11-09 [Thinkie: What Fact?](https://newsletter.kentbeck.com/p/thinkie-what-fact)</small>  

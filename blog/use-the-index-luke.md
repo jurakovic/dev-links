@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/use-the-index-luke.png) [Markus Winand | SQL Indexing and Tuning](https://use-the-index-luke.com/blog) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/use-the-index-luke.png) [Markus Winand \| SQL Indexing and Tuning](https://use-the-index-luke.com/blog) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
 <small>2024-12-10 [Index Usage For EXTRACT(YEAR FROM …), YEAR(…) etc.](https://use-the-index-luke.com/blog/2024-12/date-time-prefix-rewrite)</small>  
 <small>2019-04-30 [Index INCLUDE Clause: How it works and when to use it](https://use-the-index-luke.com/blog/2019-04/include-columns-in-btree-indexes)</small>  

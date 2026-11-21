@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seldo.png) [Laurie Voss | Seldo.com](https://seldo.com) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seldo.png) [Laurie Voss \| Seldo.com](https://seldo.com) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
 <small>2026-11-02 [A proposal: how to hire junior engineers in the age of AI](https://seldo.com/posts/a-proposal-how-to-hire-junior-engineers-in-the-age-of-ai)</small>  
 <small>2026-09-14 [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now)</small>  

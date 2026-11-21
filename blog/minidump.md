@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) [Kevin Gosse | minidump.net](https://minidump.net) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) [Kevin Gosse \| minidump.net](https://minidump.net) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-09-29 [The hidden trap of fixed buffers in C#](https://minidump.net/the-hidden-trap-of-fixed-buffers-in-csharp/)</small>  
 <small>2026-06-30 [Writing a .NET Garbage Collector in C#  -  Part 10: Finalizers](https://minidump.net/writing-a-net-gc-in-c-part-10/)</small>  

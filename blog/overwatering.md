@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Giles Edwards-Alexander | overwatering.org](https://overwatering.org/blog/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Giles Edwards-Alexander \| overwatering.org](https://overwatering.org/blog/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-08-30 [Talwrn: Laying the foundation](https://overwatering.org/blog/2026/08/talwrn-laying-the-foundation/)</small>  
 <small>2026-08-29 [An accidental blackboard](https://overwatering.org/blog/2026/08/an-accidental-blackboard/)</small>  

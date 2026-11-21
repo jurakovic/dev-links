@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Daniel Stenberg | curl, open source and networking](https://daniel.haxx.se/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Daniel Stenberg \| curl, open source and networking](https://daniel.haxx.se/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
 <small>2026-11-18 [curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>  
 <small>2026-11-17 [The curl 30 years gource](https://daniel.haxx.se/blog/2026/11/18/the-curl-30-years-gource/)</small>  

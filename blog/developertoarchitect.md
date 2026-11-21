@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) [Mark Richards | Software Developer To Software Architect](https://developertoarchitect.com/lessons/) [<kbd class="tag tag-architecture">Architecture</kbd>](../category/architecture/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) [Mark Richards \| Software Developer To Software Architect](https://developertoarchitect.com/lessons/) [<kbd class="tag tag-architecture">Architecture</kbd>](../category/architecture/README.md)
 
 <small>2026-10-16 [Lesson 225 - Architecture Narrative Act One (November 2, 2026)](http://www.developertoarchitect.com/lessons/lesson225.html)</small>  
 <small>2026-10-04 [Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](http://www.developertoarchitect.com/lessons/lesson224.html)</small>  

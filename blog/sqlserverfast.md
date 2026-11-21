@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) [Hugo Kornelis | SQLServerFast.com](https://sqlserverfast.com/blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlserverfast.png) [Hugo Kornelis \| SQLServerFast.com](https://sqlserverfast.com/blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
 <small>2026-11-05 [Final post](https://sqlserverfast.com/blog/hugo/2026/11/final-post/)</small>  
 <small>2026-10-27 [Game over](https://sqlserverfast.com/blog/hugo/2026/10/game-over/)</small>  

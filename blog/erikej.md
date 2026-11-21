@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Erik Ejlskov Jensen | .NET Data Access and more](https://erikej.github.io) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Erik Ejlskov Jensen \| .NET Data Access and more](https://erikej.github.io) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
 <small>2026-10-16 [sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac](https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html)</small>  
 <small>2026-10-15 [From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>  

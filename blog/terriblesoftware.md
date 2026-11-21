@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) [Matheus Lima | Terrible Software](https://terriblesoftware.org) [<kbd class="tag tag-management">Management</kbd>](../category/management/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) [Matheus Lima \| Terrible Software](https://terriblesoftware.org) [<kbd class="tag tag-management">Management</kbd>](../category/management/README.md)
 
 <small>2026-11-11 [Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)</small>  
 <small>2026-10-02 [The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)</small>  

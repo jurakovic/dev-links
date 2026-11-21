@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/enterprisecraftsmanship.png) [Vladimir Khorikov | Enterprise Craftsmanship](https://enterprisecraftsmanship.com/archives) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/enterprisecraftsmanship.png) [Vladimir Khorikov \| Enterprise Craftsmanship](https://enterprisecraftsmanship.com/archives) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2023-03-29 [Storing information in its highest form](https://enterprisecraftsmanship.com/posts/storing-information-in-its-highest-form/)</small>  
 <small>2023-01-23 [Which collection interface to use?](https://enterprisecraftsmanship.com/posts/which-collection-interface-to-use/)</small>  

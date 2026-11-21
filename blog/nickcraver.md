@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nickcraver.png) [Nick Craver | Software Imagineering](https://nickcraver.com/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nickcraver.png) [Nick Craver \| Software Imagineering](https://nickcraver.com/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
 <small>2020-02-11 [Binding Redirects](https://nickcraver.com/blog/2020/02/11/binding-redirects/)</small>  
 <small>2019-08-06 [Stack Overflow: How We Do App Caching - 2019 Edition](https://nickcraver.com/blog/2019/08/06/stack-overflow-how-we-do-app-caching/)</small>  

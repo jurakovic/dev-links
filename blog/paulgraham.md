@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/paulgraham.png) [Paul Graham | Essays](https://paulgraham.com/articles.html) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/paulgraham.png) [Paul Graham \| Essays](https://paulgraham.com/articles.html) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-09-13 [Making Startups Powerful](https://www.paulgraham.com/powerful.html)</small>  
 <small>2026-08-25 [How Universities Should Prepare Founders](https://www.paulgraham.com/prepare.html)</small>  

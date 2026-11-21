@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) [Gergely Orosz | The Pragmatic Engineer](https://blog.pragmaticengineer.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pragmaticengineer.png) [Gergely Orosz \| The Pragmatic Engineer](https://blog.pragmaticengineer.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-11-19 [The Pulse: What can we learn from the Railway hack?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-the-railway-hack/)</small>  
 <small>2026-11-12 [The Pulse: Details of incident.io’s AI spend](https://blog.pragmaticengineer.com/the-pulse-details-of-incident-ios-ai-spend/)</small>  

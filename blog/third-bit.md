@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) [Greg Wilson | The Third Bit Blog](https://third-bit.com/blog/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) [Greg Wilson \| The Third Bit Blog](https://third-bit.com/blog/) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-11-17 [This Book Would Be Really Useful](https://third-bit.com/2026/11/17/this-book-would-be-really-useful/)</small>  
 <small>2026-11-14 [Rationalizing the Command Line](https://third-bit.com/2026/11/13/rationalizing-the-command-line/)</small>  

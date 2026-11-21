@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/barretblake.png) [Barret Blake | Barret Codes](https://barretblake.dev/posts/development/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/barretblake.png) [Barret Blake \| Barret Codes](https://barretblake.dev/posts/development/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-11-11 [File-Based Apps in .NET 11: Room to Grow](https://barretblake.dev/posts/development/2026/11/file-based-apps-dotnet-11/)</small>  
 <small>2026-09-23 [AI Wrote the Code. Now Who Owns the Architecture?](https://barretblake.dev/posts/development/2026/09/ai-wrote-the-code/)</small>  

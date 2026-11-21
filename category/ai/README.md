@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-21 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[llm-gemini 0.38.1](https://simonwillison.net/2026/Nov/20/llm-gemini/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[Quoting Ravi Vakil](https://simonwillison.net/2026/Nov/20/ravi-vakil/)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-19 [willemvandenende](../../blog/willemvandenende.md)</small>  
 <small>[I just made a habit of talking to my notes](http://willemvandenende.com/blog/engineering/i-just-made-a-habit-of-talking-to-my-notes)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-13 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)</small>

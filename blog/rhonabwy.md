@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) [Joe Heck | Rhonabwy](https://rhonabwy.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) [Joe Heck \| Rhonabwy](https://rhonabwy.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2026-08-15 [Software Engineering fundamentals matter more than ever](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)</small>  
 <small>2026-02-15 [Navigation Notes – Agentic coding](https://rhonabwy.com/2026/02/15/navigation-notes-agentic-coding/)</small>  

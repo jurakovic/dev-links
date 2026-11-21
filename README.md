@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-21 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-21 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[llm-gemini 0.38.1](https://simonwillison.net/2026/Nov/20/llm-gemini/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-21 [lethain](blog/lethain.md) [<kbd class="tag tag-management">Management</kbd>](category/management/README.md)</small>  
 <small>[The Explorer Pattern for product invention and development.](https://lethain.com/explorer-pattern/)</small>
 
@@ -69,9 +75,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-19 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-18 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[llm-gemini 0.38](https://simonwillison.net/2026/Nov/18/llm-gemini/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-18 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-06 [anthropic](blog/anthropic.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-06 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[Working with designers](https://seangoedecke.com/working-with-designers/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

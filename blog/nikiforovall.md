@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nikiforovall.png) [Oleksii Nikiforov | N+1 Blog](https://nikiforovall.blog) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nikiforovall.png) [Oleksii Nikiforov \| N+1 Blog](https://nikiforovall.blog) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
 <small>2026-10-17 [Noisy Neighbors and Adaptive Rate Limiting in .NET](https://nikiforovall.blog/dotnet/2026/10/17/noisy-neighbor-adaptive-rate-limiting.html)</small>  
 <small>2026-10-02 [Claude Code Hub 1.0: Your Own Command Center](https://nikiforovall.blog/ai/2026/10/02/claude-code-hub-1-0.html)</small>  

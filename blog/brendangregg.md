@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) [Brendan Gregg | Systems Performance](https://www.brendangregg.com/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brendangregg.png) [Brendan Gregg \| Systems Performance](https://www.brendangregg.com/blog/) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
 <small>2026-02-06 [Why I joined OpenAI](http://www.brendangregg.com/blog//2026-02-07/why-i-joined-openai.html)</small>  
 <small>2025-12-04 [Leaving Intel](http://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)</small>  

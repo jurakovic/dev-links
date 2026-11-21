@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) [Bart Wullems | The Art of Simplicity](https://bartwullems.blogspot.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) [Bart Wullems \| The Art of Simplicity](https://bartwullems.blogspot.com) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
 <small>2026-11-20 [Bending Aspire to your will - Custom icons, URLs and a command to export your OpenAPI spec](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-custom.html)</small>  
 <small>2026-11-19 [Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>  

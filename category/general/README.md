@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-21 [seangoedecke](../../blog/seangoedecke.md)</small>  
+<small>[To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-20 [seangoedecke](../../blog/seangoedecke.md)</small>  
 <small>[Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-07 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Generating a Lesson](https://third-bit.com/2026/11/06/generating-a-lesson/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-06 [seangoedecke](../../blog/seangoedecke.md)</small>  
-<small>[Working with designers](https://seangoedecke.com/working-with-designers/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-06 [daverupert](../../blog/daverupert.md)</small>  
 <small>[Pseudo-pseudo-classes for maximum interactive demos!](https://daverupert.com/2026/11/pseudo-pseudo-classes/)</small>

@@ -4,7 +4,7 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/joelonsoftware.png) [Joel Spolsky | Joel on Software](https://www.joelonsoftware.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/joelonsoftware.png) [Joel Spolsky \| Joel on Software](https://www.joelonsoftware.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
 <small>2022-12-19 [Progress on the Block Protocol](https://www.joelonsoftware.com/2022/12/19/progress-on-the-block-protocol/)</small>  
 <small>2022-01-27 [Making the web better. With blocks!](https://www.joelonsoftware.com/2022/01/27/making-the-web-better-with-blocks/)</small>  
