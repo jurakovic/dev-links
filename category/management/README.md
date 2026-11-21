@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-21 [lethain](../../blog/lethain.md)</small>  
+<small>[The Explorer Pattern for product invention and development.](https://lethain.com/explorer-pattern/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-11-11 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[Why Am I So Tired If AI Is Doing All the Work?](https://terriblesoftware.org/2026/11/11/why-am-i-so-tired-if-ai-is-doing-all-the-work/)</small>
 
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 [lethain](../../blog/lethain.md)</small>  
 <small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-08 [lethain](../../blog/lethain.md)</small>  
-<small>[Middle management roles are also a trap.](https://lethain.com/middle-management-roles-were-also-a-trap/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-06-17 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/)</small>

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-21 [lethain](blog/lethain.md) [<kbd class="tag tag-management">Management</kbd>](category/management/README.md)</small>  
+<small>[The Explorer Pattern for product invention and development.](https://lethain.com/explorer-pattern/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-20 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-06 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Working with designers](https://seangoedecke.com/working-with-designers/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-06 [github-ai](blog/github-ai.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[Beyond code generation: A developer’s guide to agentic engineering](https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
