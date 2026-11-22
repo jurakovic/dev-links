@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-22 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-22 [lethain](blog/lethain.md) [<kbd class="tag tag-management">Management</kbd>](category/management/README.md)</small>  
+<small>[Shipping 100+ PRs to production in a week](https://lethain.com/passing-100-prs-in-a-week/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-22 [third-bit](blog/third-bit.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Three Hundred Thousand](https://third-bit.com/2026/11/22/three-hundred-thousand/)</small>
 
@@ -85,11 +91,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-19 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-19 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
+<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-18 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Data Contracts](https://martinfowler.com/articles/data-contracts.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
-<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Database Hub in Microsoft Fabric is generally available: your entire database estate in one place](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212)</small>
@@ -235,6 +241,9 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-12 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-12 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
+<small>[How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/barretblake.png) <small>2026-11-11 [barretblake](blog/barretblake.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[File-Based Apps in .NET 11: Room to Grow](https://barretblake.dev/posts/development/2026/11/file-based-apps-dotnet-11/)</small>
 
@@ -249,9 +258,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-11 [damienbod](blog/damienbod.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Migrate a GitHub repository to GitHub Enterprise](https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-11 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
-<small>[How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-11 [chrismdp](blog/chrismdp.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Bots Are Not People](https://www.chrismdp.com/bots-are-not-people/)</small>
@@ -289,9 +295,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-09 [tidyfirst](blog/tidyfirst.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Thinkie: What Fact?](https://newsletter.kentbeck.com/p/thinkie-what-fact)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-08 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-08 [steven-giesel](blog/steven-giesel.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[What happens to a method that awaits forever?](https://steven-giesel.com/blogPost/bb0a8fdf-5cf6-481a-9d0d-7dc7578357a4)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-07 [swizec](blog/swizec.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[How do we auto-approve and merge 60% of PRs?](https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-07 [paulhammant](blog/paulhammant.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[Feature Flag Servers: Where Do They Keep Your Toggles, and How Long Does a Flip Take?](https://paulhammant.com/2026/11/07/feature-flag-backing-stores-and-flip-latency/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) [Sean Goedecke](https://www.seangoedecke.com) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
+<small>2026-11-22 [When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)</small>  
 <small>2026-11-21 [To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)</small>  
 <small>2026-11-20 [Why output caching doesn't work](https://seangoedecke.com/why-output-caching-doesnt-work/)</small>  
 <small>2026-11-14 [How to find meaning in large tech companies](https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/)</small>  

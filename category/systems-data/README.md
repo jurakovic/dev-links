@@ -4,8 +4,8 @@
 
 * * *
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [bencane](../../blog/bencane.md)</small>  
-<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-19 [bencane](../../blog/bencane.md)</small>  
+<small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
 <small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
@@ -19,14 +19,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-11-15 [pauldix](../../blog/pauldix.md)</small>  
 <small>[I built an email service, or, why the bar for software is going up](https://pauldix.com/i-built-an-email-service)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-11 [bencane](../../blog/bencane.md)</small>  
-<small>[How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-12 [bencane](../../blog/bencane.md)</small>  
+<small>[How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-10 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
 <small>[30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-04 [bencane](../../blog/bencane.md)</small>  
-<small>[Microservices can work for low-latency workloads—if you design for it](https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-05 [bencane](../../blog/bencane.md)</small>  
+<small>[Microservices can work for low-latency workloads—if you design for it](https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-11-04 [pauldix](../../blog/pauldix.md)</small>  
 <small>[The Software Factory and the Inevitability of Recursively Self-Improving Software](https://pauldix.com/the-software-factory-and-the-inevitability-of-rsi-software)</small>
@@ -34,14 +34,14 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-03 [daniel-haxx](../../blog/daniel-haxx.md)</small>  
 <small>[Scrutinize our assessments](https://daniel.haxx.se/blog/2026/11/03/scrutinize-our-assessments/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-28 [bencane](../../blog/bencane.md)</small>  
-<small>[Production bugs happen. Fix the gap, not just the bug.](https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-29 [bencane](../../blog/bencane.md)</small>  
+<small>[Production bugs happen. Fix the gap, not just the bug.](https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-10-26 [pauldix](../../blog/pauldix.md)</small>  
 <small>[AI is the greatest gift to every self-starter](https://pauldix.com/ai-is-the-greatest-gift-to-every-self-starter)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-21 [bencane](../../blog/bencane.md)</small>  
-<small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/)</small>
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 [bencane](../../blog/bencane.md)</small>  
+<small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 [martin-kleppmann](../../blog/martin-kleppmann.md)</small>  
 <small>[Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)](http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html)</small>

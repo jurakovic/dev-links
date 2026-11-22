@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) [Will Larson \| Irrational Exuberance](https://lethain.com) [<kbd class="tag tag-management">Management</kbd>](../category/management/README.md)
 
+<small>2026-11-22 [Shipping 100+ PRs to production in a week](https://lethain.com/passing-100-prs-in-a-week/)</small>  
 <small>2026-11-21 [The Explorer Pattern for product invention and development.](https://lethain.com/explorer-pattern/)</small>  
 <small>2026-10-30 [Self-reinforcing quality / adopting verification pattern](https://lethain.com/adopting-verification-pattern/)</small>  
 <small>2026-10-17 [Speeding up code review with \`small-change\`](https://lethain.com/small-changes/)</small>  

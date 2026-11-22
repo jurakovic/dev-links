@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-22 [lethain](../../blog/lethain.md)</small>  
+<small>[Shipping 100+ PRs to production in a week](https://lethain.com/passing-100-prs-in-a-week/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-21 [lethain](../../blog/lethain.md)</small>  
 <small>[The Explorer Pattern for product invention and development.](https://lethain.com/explorer-pattern/)</small>
 
@@ -24,9 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-08-11 [lethain](../../blog/lethain.md)</small>  
-<small>[Roadmap decisions rather than dates.](https://lethain.com/decisions-not-dates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-06-17 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[You Got Faster. Your Company Didn’t.](https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/)</small>

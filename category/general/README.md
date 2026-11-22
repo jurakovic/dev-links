@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-22 [seangoedecke](../../blog/seangoedecke.md)</small>  
+<small>[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-22 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Three Hundred Thousand](https://third-bit.com/2026/11/22/three-hundred-thousand/)</small>
 
@@ -63,9 +66,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-09 [tidyfirst](../../blog/tidyfirst.md)</small>  
 <small>[Thinkie: What Fact?](https://newsletter.kentbeck.com/p/thinkie-what-fact)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-08 [seangoedecke](../../blog/seangoedecke.md)</small>  
-<small>[LLMs are terrible at designing AI systems](https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-07 [swizec](../../blog/swizec.md)</small>  
 <small>[How do we auto-approve and merge 60% of PRs?](https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs)</small>

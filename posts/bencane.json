@@ -1,151 +1,151 @@
 [
   {
     "title": "Before improving a system, decide how you’ll measure the result",
-    "link": "https://bencane.com/posts/2026-11-18-measure-to-improve/",
+    "link": "https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-11-19T00:00:00+00:00",
-    "date": "2026-11-18T11:01:30+00:00"
+    "date": "2026-11-19T00:00:00+00:00"
   },
   {
     "title": "How to make technical decisions more objectively",
-    "link": "https://bencane.com/posts/2026-11-11-objective-decision-making/",
+    "link": "https://bencane.com/posts/2026-11-11-objective-decision-making/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-11-12T00:00:00+00:00",
-    "date": "2026-11-11T11:01:44+00:00"
+    "date": "2026-11-12T00:00:00+00:00"
   },
   {
     "title": "Microservices can work for low-latency workloads—if you design for it",
-    "link": "https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/",
+    "link": "https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-11-05T00:00:00+00:00",
-    "date": "2026-11-04T11:01:47+00:00"
+    "date": "2026-11-05T00:00:00+00:00"
   },
   {
     "title": "Production bugs happen. Fix the gap, not just the bug.",
-    "link": "https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/",
-    "pubDate": "2026-10-28T11:01:51+00:00",
-    "date": "2026-10-28T11:01:51+00:00"
+    "link": "https://bencane.com/posts/2026-10-28-production-bugs-fix-the-gap/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
+    "pubDate": "2026-10-29T00:00:00+00:00",
+    "date": "2026-10-29T00:00:00+00:00"
   },
   {
     "title": "A timeout doesn’t mean an operation failed. It means you don’t know the outcome.",
-    "link": "https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/",
-    "pubDate": "2026-10-21T10:01:30+00:00",
-    "date": "2026-10-21T10:01:30+00:00"
+    "link": "https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
+    "pubDate": "2026-10-22T00:00:00+00:00",
+    "date": "2026-10-22T00:00:00+00:00"
   },
   {
     "title": "Sometimes the biggest contributor to latency isn’t processing or network time. It’s waiting for work to start.",
-    "link": "https://bencane.com/posts/2026-10-14-waiting-adds-latency/",
-    "pubDate": "2026-10-14T10:01:41+00:00",
-    "date": "2026-10-14T10:01:41+00:00"
+    "link": "https://bencane.com/posts/2026-10-14-waiting-adds-latency/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
+    "pubDate": "2026-10-15T00:00:00+00:00",
+    "date": "2026-10-15T00:00:00+00:00"
   },
   {
     "title": "System Design pro-tip: force yourself to create a viable second design.",
-    "link": "https://bencane.com/posts/2026-10-07-viable-second-design/",
+    "link": "https://bencane.com/posts/2026-10-07-viable-second-design/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-10-08T00:00:00+00:00",
     "date": "2026-10-08T00:00:00+00:00"
   },
   {
     "title": "One of my favorite aspects of gRPC isn’t the performance. It’s the well-defined contracts Protobuf provides.",
-    "link": "https://bencane.com/posts/2026-09-30-protobuf-contract-management/",
+    "link": "https://bencane.com/posts/2026-09-30-protobuf-contract-management/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-10-01T00:00:00+00:00",
     "date": "2026-10-01T00:00:00+00:00"
   },
   {
     "title": "Message queues are great for handing off work, but how do you know the work actually happens?",
-    "link": "https://bencane.com/posts/2026-09-23-message-completion/",
+    "link": "https://bencane.com/posts/2026-09-23-message-completion/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-09-24T00:00:00+00:00",
     "date": "2026-09-24T00:00:00+00:00"
   },
   {
     "title": "Some architecture principles should be rules. Others should be guidelines.",
-    "link": "https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/",
+    "link": "https://bencane.com/posts/2026-09-16-architecture-rules-guidelines/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-09-17T00:00:00+00:00",
     "date": "2026-09-17T00:00:00+00:00"
   },
   {
     "title": "Mishandling concurrency is one of the most common root causes of software bugs",
-    "link": "https://bencane.com/posts/2026-09-09-mishandling-concurrency/",
+    "link": "https://bencane.com/posts/2026-09-09-mishandling-concurrency/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-09-10T00:00:00+00:00",
     "date": "2026-09-10T00:00:00+00:00"
   },
   {
     "title": "At what point does better performance stop being worth it?",
-    "link": "https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/",
+    "link": "https://bencane.com/posts/2026-09-02-performance-complexity-tradeoff/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-09-03T00:00:00+00:00",
     "date": "2026-09-03T00:00:00+00:00"
   },
   {
     "title": "Sometimes good engineering looks like over-engineering",
-    "link": "https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/",
+    "link": "https://bencane.com/posts/2026-08-26-good-engineering-looks-like-over-engineering/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-08-27T00:00:00+00:00",
     "date": "2026-08-27T00:00:00+00:00"
   },
   {
     "title": "AI makes code cheap to create, not cheap to own",
-    "link": "https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/",
+    "link": "https://bencane.com/posts/2026-08-19-ai-code-cheap-to-create-not-cheap-to-own/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-08-20T00:00:00+00:00",
     "date": "2026-08-20T00:00:00+00:00"
   },
   {
     "title": "“We can’t run locally” is usually a design smell",
-    "link": "https://bencane.com/posts/2026-08-13-run-locally-design-smell/",
+    "link": "https://bencane.com/posts/2026-08-13-run-locally-design-smell/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-08-14T00:00:00+00:00",
     "date": "2026-08-14T00:00:00+00:00"
   },
   {
     "title": "To make a service more stable, eliminate dependencies",
-    "link": "https://bencane.com/posts/2026-08-06-eliminate-dependencies/",
+    "link": "https://bencane.com/posts/2026-08-06-eliminate-dependencies/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-08-07T00:00:00+00:00",
     "date": "2026-08-07T00:00:00+00:00"
   },
   {
     "title": "Caching isn’t hard. Some data is hard to cache",
-    "link": "https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/",
+    "link": "https://bencane.com/posts/2026-07-30-caching-data-tradeoffs/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-07-31T00:00:00+00:00",
     "date": "2026-07-31T00:00:00+00:00"
   },
   {
     "title": "The closer to the edge, the more stable a platform must be",
-    "link": "https://bencane.com/posts/2026-07-23-edge-platform-stability/",
+    "link": "https://bencane.com/posts/2026-07-23-edge-platform-stability/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-07-24T00:00:00+00:00",
     "date": "2026-07-24T00:00:00+00:00"
   },
   {
     "title": "Sometimes the most resilient thing a system can do isn’t retry",
-    "link": "https://bencane.com/posts/2026-07-16-compensating-transactions/",
+    "link": "https://bencane.com/posts/2026-07-16-compensating-transactions/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-07-17T00:00:00+00:00",
     "date": "2026-07-17T00:00:00+00:00"
   },
   {
     "title": "Should retries and timeouts live in your application or your service mesh?",
-    "link": "https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/",
+    "link": "https://bencane.com/posts/2026-07-09-platform-vs-application-resiliency/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-07-10T00:00:00+00:00",
     "date": "2026-07-10T00:00:00+00:00"
   },
   {
     "title": "Need to migrate from one database to another without downtime?",
-    "link": "https://bencane.com/posts/2026-07-02-dual-writes-database-migration/",
+    "link": "https://bencane.com/posts/2026-07-02-dual-writes-database-migration/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-07-03T00:00:00+00:00",
     "date": "2026-07-03T00:00:00+00:00"
   },
   {
     "title": "Glue Services: Part Two — Data Synchronization",
-    "link": "https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/",
+    "link": "https://bencane.com/posts/2026-06-25-glue-services-data-synchronization/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-06-26T00:00:00+00:00",
     "date": "2026-06-26T00:00:00+00:00"
   },
   {
     "title": "When modernizing legacy systems, don’t be afraid to build glue services",
-    "link": "https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/",
+    "link": "https://bencane.com/posts/2026-06-18-glue-services-legacy-modernization/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-06-19T00:00:00+00:00",
     "date": "2026-06-19T00:00:00+00:00"
   },
   {
     "title": "Coding agents can’t see your architecture diagrams—fix that",
-    "link": "https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/",
+    "link": "https://bencane.com/posts/2026-06-11-code-based-architecture-diagrams/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-06-12T00:00:00+00:00",
     "date": "2026-06-12T00:00:00+00:00"
   },
   {
     "title": "Most teams put low-level architecture in the wrong place",
-    "link": "https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/",
+    "link": "https://bencane.com/posts/2026-06-04-component-architecture-in-codebase/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-06-05T00:00:00+00:00",
     "date": "2026-06-05T00:00:00+00:00"
   },
