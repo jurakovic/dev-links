@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-22 [third-bit](../../blog/third-bit.md)</small>  
+<small>[Three Hundred Thousand](https://third-bit.com/2026/11/22/three-hundred-thousand/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-22 [third-bit](../../blog/third-bit.md)</small>  
+<small>[My Latest Theory](https://third-bit.com/2026/11/22/my-latest-theory/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-21 [seangoedecke](../../blog/seangoedecke.md)</small>  
 <small>[To code well, avoid blunders](https://seangoedecke.com/to-code-well-avoid-blunders/)</small>
 
@@ -55,9 +61,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-09 [third-bit](../../blog/third-bit.md)</small>  
-<small>[LLM as Interface](https://third-bit.com/2026/11/09/llm-as-interface/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-09 [tidyfirst](../../blog/tidyfirst.md)</small>  
 <small>[Thinkie: What Fact?](https://newsletter.kentbeck.com/p/thinkie-what-fact)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-07 [paulhammant](../../blog/paulhammant.md)</small>  
 <small>[Feature Flag Servers: Where Do They Keep Your Toggles, and How Long Does a Flip Take?](https://paulhammant.com/2026/11/07/feature-flag-backing-stores-and-flip-latency/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-07 [third-bit](../../blog/third-bit.md)</small>  
-<small>[Generating a Lesson](https://third-bit.com/2026/11/06/generating-a-lesson/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-06 [daverupert](../../blog/daverupert.md)</small>  
 <small>[Pseudo-pseudo-classes for maximum interactive demos!](https://daverupert.com/2026/11/pseudo-pseudo-classes/)</small>

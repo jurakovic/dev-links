@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-11-22 [devlead](../../blog/devlead.md)</small>  
+<small>[Community projects at .NET Conf 2026, my favorites](https://www.devlead.se/posts/2026/2026-11-22-dotnetconf-2026-community-projects)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-20 [dotnet](../../blog/dotnet.md)</small>  
 <small>[AI is Changing the Cross-Platform Decision Matrix](https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/)</small>
 
@@ -279,9 +282,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/haacked.png) <small>2025-09-29 [haacked](../../blog/haacked.md)</small>  
 <small>[Spelungit: When \`git log –grep\` isn’t enough](https://haacked.com/archive/2025/09/29/announcing-spelungit/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2025-07-28 [devlead](../../blog/devlead.md)</small>  
-<small>[Migrating to Cake.Sdk](https://www.devlead.se/posts/2025/2025-07-28-migrating-to-cake-sdk)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/wp.png) <small>2025-02-08 [davecallan](../../blog/davecallan.md)</small>  
 <small>[Entity Framework Query Flow Explained—Step-by-Step with a Sequence Diagram](https://davecallan.com/entity-framework-query-flow-explained-with-sequence-diagram/)</small>
