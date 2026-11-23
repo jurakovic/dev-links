@@ -1,5 +1,11 @@
 [
   {
+    "title": "Run local models in your .NET apps with Llama on Windows",
+    "link": "https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/",
+    "pubDate": "2026-11-23T18:05:00+00:00",
+    "date": "2026-11-23T18:05:00+00:00"
+  },
+  {
     "title": "AI is Changing the Cross-Platform Decision Matrix",
     "link": "https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/",
     "pubDate": "2026-11-20T18:00:00+00:00",

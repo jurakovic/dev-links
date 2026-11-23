@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-23 [Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/)</small>  
 <small>2026-11-23 [Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/)</small>  
 <small>2026-11-21 [Muru](https://simonwillison.net/2026/Nov/21/muru/)</small>  
 <small>2026-11-21 [llm-gemini 0.38.1](https://simonwillison.net/2026/Nov/20/llm-gemini/)</small>  

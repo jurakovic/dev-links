@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-23 [dotnet](../../blog/dotnet.md)</small>  
+<small>[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-23 [bartwullems](../../blog/bartwullems.md)</small>  
 <small>[Bending Aspire to your will - Run a test call from the dashboard, the CLI and your agent](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-run-test.html)</small>
 
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-11-05 [jimmybogard](../../blog/jimmybogard.md)</small>  
 <small>[AutoMapper 16.3.0 and 15.1.4 Released with Security Fixes](https://www.jimmybogard.com/automapper-16-3-0-and-15-1-4-released-with-security-fixes/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-05 [dotnet](../../blog/dotnet.md)</small>  
-<small>[Help Shape the Future of .NET: Take the 2026 .NET Developer Survey](https://devblogs.microsoft.com/dotnet/dotnet-developer-survey-2026/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-03 [andrewlock](../../blog/andrewlock.md)</small>  
 <small>[Understanding Lazy&lt;T&gt; thread safety modes](https://andrewlock.net/understanding-lazy-thread-safety-modes/)</small>
