@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-23 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-21 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[Muru](https://simonwillison.net/2026/Nov/21/muru/)</small>
 
@@ -15,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[Quoting Levent Alpöge](https://simonwillison.net/2026/Nov/20/levent-alpoge/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-20 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[Token fraud is here and it’s BAD (YouTube)](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-19 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>
