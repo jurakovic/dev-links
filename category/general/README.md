@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-23 [seangoedecke](../../blog/seangoedecke.md)</small>  
+<small>[Notes on OpenAI's perplexity reveal](https://seangoedecke.com/notes-on-openais-perplexity-reveal/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-22 [seangoedecke](../../blog/seangoedecke.md)</small>  
 <small>[When in doubt, flail about](https://seangoedecke.com/when-in-doubt-flail-about/)</small>
 
@@ -57,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-11 [martinfowler](../../blog/martinfowler.md)</small>  
 <small>[Tests as data: ensuring AI-generated code does what we want](https://martinfowler.com/articles/tests-as-data.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-11 [seangoedecke](../../blog/seangoedecke.md)</small>  
-<small>[Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>

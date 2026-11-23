@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-23 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Bending Aspire to your will - Run a test call from the dashboard, the CLI and your agent](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-run-test.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-11-22 [devlead](../../blog/devlead.md)</small>  
 <small>[Community projects at .NET Conf 2026, my favorites](https://www.devlead.se/posts/2026/2026-11-22-dotnetconf-2026-community-projects)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-16 [ardalis](../../blog/ardalis.md)</small>  
 <small>[Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-16 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Setting a spending limit on a Claude Code session](https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-13 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench](https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx)</small>

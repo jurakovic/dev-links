@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-23 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[Notes on OpenAI's perplexity reveal](https://seangoedecke.com/notes-on-openais-perplexity-reveal/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-23 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
+<small>[Bending Aspire to your will - Run a test call from the dashboard, the CLI and your agent](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-run-test.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-23 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Select Styling Specimens](https://simonwillison.net/2026/Nov/22/select-styling/)</small>
 
@@ -175,9 +181,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-16 [ardalis](blog/ardalis.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-16 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Setting a spending limit on a Claude Code session](https://bartwullems.blogspot.com/2026/11/setting-spending-limit-on-claude-code.html)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-11-16 [sqlperformance](blog/sqlperformance.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Killing a tempdb killer – Part 1](https://sqlperformance.com/2026/11/tempdb/killing-a-tempdb-killer-part-1)</small>
 
@@ -261,9 +264,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-11 [chrismdp](blog/chrismdp.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Bots Are Not People](https://www.chrismdp.com/bots-are-not-people/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-11 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[Glue work is still harmful in the age of AI](https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](blog/third-bit.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
