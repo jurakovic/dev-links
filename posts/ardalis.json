@@ -1,5 +1,17 @@
 [
   {
+    "title": "Developer Docs Deserve Their Own Folder",
+    "link": "https://ardalis.com/developer-docs-deserve-their-own-folder/",
+    "pubDate": "2026-11-24T16:29:09+00:00",
+    "date": "2026-11-24T23:01:16+00:00"
+  },
+  {
+    "title": "Developer Docs Deserve Their Own Folder",
+    "link": "https://ardalis.com/keep-developer-docs-separate-in-devdocs/",
+    "pubDate": "2026-11-24T16:29:09+00:00",
+    "date": "2026-11-24T23:01:16+00:00"
+  },
+  {
     "title": "Clean Architecture with .NET - My New Book with Casey Crouse",
     "link": "https://ardalis.com/clean-architecture-with-dotnet-book/",
     "pubDate": "2026-11-16T14:00:00+00:00",
@@ -286,17 +298,5 @@
     "link": "https://ardalis.com/2023-year-in-review/",
     "pubDate": "2024-01-23T00:00:00+00:00",
     "date": "2024-01-23T00:00:00+00:00"
-  },
-  {
-    "title": "Scaling Your Software Team: Development vs. Hiring",
-    "link": "https://ardalis.com/scaling-your-software-team-develop-vs-hiring/",
-    "pubDate": "2023-12-20T00:00:00+00:00",
-    "date": "2023-12-20T00:00:00+00:00"
-  },
-  {
-    "title": "How to Embed a YouTube Video in GitHub ReadMe Markdown",
-    "link": "https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/",
-    "pubDate": "2023-11-23T11:04:10+00:00",
-    "date": "2023-11-23T11:04:10+00:00"
   }
 ]

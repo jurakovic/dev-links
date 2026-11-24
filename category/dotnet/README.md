@@ -4,6 +4,21 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-24 [ardalis](../../blog/ardalis.md)</small>  
+<small>[Developer Docs Deserve Their Own Folder](https://ardalis.com/developer-docs-deserve-their-own-folder/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-24 [ardalis](../../blog/ardalis.md)</small>  
+<small>[Developer Docs Deserve Their Own Folder](https://ardalis.com/keep-developer-docs-separate-in-devdocs/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [visualstudio](../../blog/visualstudio.md)</small>  
+<small>[Visual Studio November Update – Faster Workflows, Better Reviews](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-faster-workflows-better-reviews/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [visualstudio](../../blog/visualstudio.md)</small>  
+<small>[Beyond the prompt: Discovering trusted technical perspectives with your Visual Studio subscription](https://devblogs.microsoft.com/visualstudio/beyond-the-prompt-discovering-trusted-technical-perspectives-with-your-visual-studio-subscription/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [dotnet](../../blog/dotnet.md)</small>  
+<small>[Introducing DocumentExtractionClient (preview): Extract documents in .NET](https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-24 [andrewlock](../../blog/andrewlock.md)</small>  
 <small>[Invariant culture string interpolation with \[InterpolatedStringHandler\]](https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/)</small>
 
@@ -76,17 +91,8 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-10 [steven-giesel](../../blog/steven-giesel.md)</small>  
 <small>[NCronJob - It got a dashboard and v5](https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [visualstudio](../../blog/visualstudio.md)</small>  
-<small>[Copilot in Visual Studio Just Got a Major Upgrade](https://devblogs.microsoft.com/visualstudio/copilot-in-visual-studio-just-got-a-major-upgrade/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [visualstudio](../../blog/visualstudio.md)</small>  
-<small>[Announcing Visual Studio 2026 LTSC 18.11](https://devblogs.microsoft.com/visualstudio/announcing-visual-studio-2026-ltsc-1811/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [dotnet](../../blog/dotnet.md)</small>  
 <small>[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [dotnet](../../blog/dotnet.md)</small>  
-<small>[.NET and .NET Framework November 2026 servicing updates](https://devblogs.microsoft.com/dotnet/dotnet-and-dotnet-framework-november-2026-servicing-updates/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-08 [steven-giesel](../../blog/steven-giesel.md)</small>  
 <small>[What happens to a method that awaits forever?](https://steven-giesel.com/blogPost/bb0a8fdf-5cf6-481a-9d0d-7dc7578357a4)</small>
@@ -163,9 +169,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-19 [ardalis](../../blog/ardalis.md)</small>  
 <small>[How to Set Up T3 Code and Tailscale on Windows and Phone](https://ardalis.com/how-to-set-up-t3-code-and-tailscale-on-windows-and-phone/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-08-18 [ardalis](../../blog/ardalis.md)</small>  
-<small>[Top 10 Ways to Reduce .NET Memory Usage in Kubernetes](https://ardalis.com/top-10-ways-to-reduce-net-memory-usage-in-kubernetes/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-08-17 [damienbod](../../blog/damienbod.md)</small>  
 <small>[Use Aspire to implement and deploy the BFF security architecture](https://damienbod.com/2026/08/17/use-aspire-to-implement-and-deploy-the-bff-security-architecture/)</small>
 
@@ -192,9 +195,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/minidump.png) <small>2026-06-30 [minidump](../../blog/minidump.md)</small>  
 <small>[Writing a .NET Garbage Collector in C#  -  Part 10: Finalizers](https://minidump.net/writing-a-net-gc-in-c-part-10/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-06-29 [ardalis](../../blog/ardalis.md)</small>  
-<small>[Why Care About Agent Authored Code Quality](https://ardalis.com/why-care-about-agent-authored-code-quality/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/devlead.png) <small>2026-06-27 [devlead](../../blog/devlead.md)</small>  
 <small>[Template plus source package: my .NET console stack in 2026](https://www.devlead.se/posts/2026/2026-06-27-template-plus-source-package-my-dotnet-console-stack-in-2026)</small>

@@ -6,6 +6,8 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) [Visual Studio Blog](https://devblogs.microsoft.com/visualstudio/) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-24 [Visual Studio November Update – Faster Workflows, Better Reviews](https://devblogs.microsoft.com/visualstudio/visual-studio-november-update-faster-workflows-better-reviews/)</small>  
+<small>2026-11-24 [Beyond the prompt: Discovering trusted technical perspectives with your Visual Studio subscription](https://devblogs.microsoft.com/visualstudio/beyond-the-prompt-discovering-trusted-technical-perspectives-with-your-visual-studio-subscription/)</small>  
 <small>2026-11-19 [Live technical training, wherever you are: A VSLive! benefit for Visual Studio subscribers](https://devblogs.microsoft.com/visualstudio/live-technical-training-wherever-you-are-a-vslive-benefit-for-visual-studio-subscribers/)</small>  
 <small>2026-11-12 [Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>  
 <small>2026-11-11 [Bring Your Own Model is now generally available in Visual Studio](https://devblogs.microsoft.com/visualstudio/bring-your-own-model-is-now-generally-available-in-visual-studio/)</small>  

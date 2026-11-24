@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-11-24 [dbreunig](../../blog/dbreunig.md)</small>  
+<small>[Using AI Without Losing Your Humanity](https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>
 
@@ -15,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-23 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-23 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[Ladybird's first alpha release](https://simonwillison.net/2026/Nov/23/ladybird/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-19 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>
@@ -153,9 +156,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-08-24 [steve-yegge](../../blog/steve-yegge.md)</small>  
 <small>[Fences, not Sandboxes](https://steve-yegge.medium.com/fences-not-sandboxes-5719cd9b04bd?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-23 [dbreunig](../../blog/dbreunig.md)</small>  
-<small>[Fable &amp; The End of the Free Lunch](https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nikiforovall.png) <small>2026-08-23 [nikiforovall](../../blog/nikiforovall.md)</small>  
 <small>[Headless Claude Code as a Building Block: Auditing Agent Instructions](https://nikiforovall.blog/ai/2026/08/23/headless-claude-code-in-agent-instructions-diagnoser.html)</small>

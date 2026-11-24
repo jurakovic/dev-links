@@ -1,5 +1,11 @@
 [
   {
+    "title": "Introducing DocumentExtractionClient (preview): Extract documents in .NET",
+    "link": "https://devblogs.microsoft.com/dotnet/document-extraction-dotnet-preview/",
+    "pubDate": "2026-11-24T18:05:00+00:00",
+    "date": "2026-11-24T18:05:00+00:00"
+  },
+  {
     "title": "Run local models in your .NET apps with Llama on Windows",
     "link": "https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/",
     "pubDate": "2026-11-23T18:05:00+00:00",

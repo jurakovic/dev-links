@@ -6,6 +6,8 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) [Steve Smith \| Ardalis](https://ardalis.com/blog) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-24 [Developer Docs Deserve Their Own Folder](https://ardalis.com/developer-docs-deserve-their-own-folder/)</small>  
+<small>2026-11-24 [Developer Docs Deserve Their Own Folder](https://ardalis.com/keep-developer-docs-separate-in-devdocs/)</small>  
 <small>2026-11-16 [Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>  
 <small>2026-10-29 [Some Ardalis Packages Are Going Commercial: What You Need to Know](https://ardalis.com/some-ardalis-packages-going-commercial/)</small>  
 <small>2026-08-19 [How to Set Up T3 Code and Tailscale on Windows and Phone](https://ardalis.com/how-to-set-up-t3-code-and-tailscale-on-windows-and-phone/)</small>  
@@ -54,7 +56,5 @@
 <small>2024-02-01 [Solved! Visual Studio.http File Not Sending Authorization Header](https://ardalis.com/http-file-not-sending-auth-header/)</small>  
 <small>2024-01-31 [Log Request Headers Middleware for ASP.NET Core](https://ardalis.com/log-request-headers-middleware/)</small>  
 <small>2024-01-23 [2023 Year in Review](https://ardalis.com/2023-year-in-review/)</small>  
-<small>2023-12-20 [Scaling Your Software Team: Development vs. Hiring](https://ardalis.com/scaling-your-software-team-develop-vs-hiring/)</small>  
-<small>2023-11-23 [How to Embed a YouTube Video in GitHub ReadMe Markdown](https://ardalis.com/how-to-embed-youtube-video-in-github-readme-markdown/)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>

@@ -1,5 +1,17 @@
 [
   {
+    "title": "Prompt Injection Fixes Need Regression Tests",
+    "link": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/",
+    "pubDate": "2026-11-24T16:24:41+00:00",
+    "date": "2026-11-24T23:01:28+00:00"
+  },
+  {
+    "title": "Idempotency when you don't control the other end",
+    "link": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/",
+    "pubDate": "2026-11-24T17:01:51+00:00",
+    "date": "2026-11-24T17:01:51+00:00"
+  },
+  {
     "title": "A Reboot Is Still a Deployment",
     "link": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/",
     "pubDate": "2026-11-24T15:52:06+00:00",
