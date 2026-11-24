@@ -5,6 +5,9 @@
 * * *
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
+<small>[A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
 <small>[Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-20 [stackoverflow](../../blog/stackoverflow.md)</small>  
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/netflix.png) <small>2026-11-17 [netflix](../../blog/netflix.md)</small>  
 <small>[Engineering AI Discover](https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-17 [stackoverflow](../../blog/stackoverflow.md)</small>  
-<small>[The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-12 [github-ai](../../blog/github-ai.md)</small>  
 <small>[Build once, run on any agent: A practical guide to agent skills](https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/)</small>

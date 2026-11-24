@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Give each Azure SQL database its own identity for storage access (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/give-each-azure-sql-database-its-own-identity-for-storage-access/ba-p/4575974)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-24 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[What to Do When the SQL Server Keeps Crashing](https://www.brentozar.com/archive/2026/11/what-to-do-when-the-sql-server-keeps-crashing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>
 
@@ -127,9 +136,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[What's new in databases at Microsoft Ignite 2026: AI-ready data for apps and agents](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-databases-at-microsoft-ignite-2026-ai-ready-data/ba-p/4570764)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
 <small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
 
@@ -180,9 +186,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jasontaylor.png) <small>2026-11-17 [jasontaylor](blog/jasontaylor.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Clean Architecture Template 11.0.0: .NET 10 and .NET 11 Side by Side](https://jasontaylor.dev/clean-architecture-template-11-0-0-net-10-and-net-11-side-by-side/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-17 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[The pioneering coding tricks that built Doom and Quake](https://stackoverflow.blog/2026/11/17/coding-tricks-that-built-doom-and-quake/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-16 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
 <small>[Actual curl rewrites in rust](https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/)</small>
@@ -246,9 +249,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jimmybogard.png) <small>2026-11-12 [jimmybogard](blog/jimmybogard.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[AutoMapper 17.0 and MediatR 15.0 Released](https://www.jimmybogard.com/automapper-17-0-and-mediatr-15-0-released/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-12 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-12 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
 <small>[How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>

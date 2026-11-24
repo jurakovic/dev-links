@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[Give each Azure SQL database its own identity for storage access (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/give-each-azure-sql-database-its-own-identity-for-storage-access/ba-p/4575974)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-24 [brentozar](../../blog/brentozar.md)</small>  
+<small>[What to Do When the SQL Server Keeps Crashing](https://www.brentozar.com/archive/2026/11/what-to-do-when-the-sql-server-keeps-crashing/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-20 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[How to Chunk Documents in Azure SQL Database for RAG](https://devblogs.microsoft.com/azure-sql/how-to-chunk-documents-in-azure-sql-database-for-rag/)</small>
 
@@ -27,9 +33,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
 <small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[What's new in databases at Microsoft Ignite 2026: AI-ready data for apps and agents](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-databases-at-microsoft-ignite-2026-ai-ready-data/ba-p/4570764)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
@@ -57,9 +60,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-12 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing](https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-12 [brentozar](../../blog/brentozar.md)</small>  
-<small>[What Students are Saying About My Latest Classes](https://www.brentozar.com/archive/2026/11/what-students-are-saying-about-my-latest-classes/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-06 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Table Variable Deferred Compilation Disabled! So Why Does SQL Server Still Recompile?](https://www.db-berater.de/2026/11/table-variable-deferred-compilation-disabled-so-why-does-sql-server-still-recompile/)</small>

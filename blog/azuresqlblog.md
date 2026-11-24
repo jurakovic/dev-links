@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) [Azure SQL Blog](https://techcommunity.microsoft.com/category/azuredatabases/blog/azuresqlblog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
+<small>2026-11-24 [Give each Azure SQL database its own identity for storage access (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/give-each-azure-sql-database-its-own-identity-for-storage-access/ba-p/4575974)</small>  
 <small>2026-11-18 [Database Hub in Microsoft Fabric is generally available: your entire database estate in one place](https://techcommunity.microsoft.com/t5/azure-sql-blog/database-hub-in-microsoft-fabric-is-generally-available-your/ba-p/4574212)</small>  
 <small>2026-11-18 [MI link support for multiple databases in an Always On availability group is now generally available](https://techcommunity.microsoft.com/t5/azure-sql-blog/mi-link-support-for-multiple-databases-in-an-always-on/ba-p/4571052)</small>  
 <small>2026-11-18 [Fuzzy string matching is now generally available across Microsoft SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132)</small>  

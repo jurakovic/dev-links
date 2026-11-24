@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) [The Stack Overflow Blog](https://stackoverflow.blog) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](../category/tech-companies/README.md)
 
+<small>2026-11-24 [A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/)</small>  
 <small>2026-11-24 [Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>  
 <small>2026-11-20 [Dispatches from O'Reilly: Inside a software factory](https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/)</small>  
 <small>2026-11-20 [Trying to get our Arms around AI efficiency](https://stackoverflow.blog/2026/11/20/trying-to-get-our-arms-around-ai-efficiency/)</small>  
