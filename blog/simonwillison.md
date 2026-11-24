@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-24 [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>  
 <small>2026-11-24 [datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/)</small>  
 <small>2026-11-24 [datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/)</small>  
 <small>2026-11-23 [GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)</small>  

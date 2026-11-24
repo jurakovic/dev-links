@@ -1,5 +1,11 @@
 [
   {
+    "title": "Invariant culture string interpolation with [InterpolatedStringHandler]",
+    "link": "https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/",
+    "pubDate": "2026-11-24T10:00:00+00:00",
+    "date": "2026-11-24T10:00:00+00:00"
+  },
+  {
     "title": "Understanding Lazy<T> thread safety modes",
     "link": "https://andrewlock.net/understanding-lazy-thread-safety-modes/",
     "pubDate": "2026-11-03T10:00:00+00:00",

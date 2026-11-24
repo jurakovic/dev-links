@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-24 [andrewlock](../../blog/andrewlock.md)</small>  
+<small>[Invariant culture string interpolation with \[InterpolatedStringHandler\]](https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-24 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Bending Aspire to your will - Reset your application state with one command](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-reset-your.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-23 [dotnet](../../blog/dotnet.md)</small>  
 <small>[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)</small>
 
@@ -45,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/jasontaylor.png) <small>2026-11-17 [jasontaylor](../../blog/jasontaylor.md)</small>  
 <small>[Clean Architecture Template 11.0.0: .NET 10 and .NET 11 Side by Side](https://jasontaylor.dev/clean-architecture-template-11-0-0-net-10-and-net-11-side-by-side/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-17 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Setting a spending limit in GitHub Copilot CLI](https://bartwullems.blogspot.com/2026/11/setting-spending-limit-in-github.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-16 [ardalis](../../blog/ardalis.md)</small>  
 <small>[Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>
@@ -135,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/barretblake.png) <small>2026-09-18 [barretblake](../../blog/barretblake.md)</small>  
 <small>[Your PC Is a Build Agent: Part 2](https://barretblake.dev/posts/development/2026/09/self-hosted-part-2/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-09-15 [andrewlock](../../blog/andrewlock.md)</small>  
-<small>[Understanding Device Bound Session Credentials (DBSC)](https://andrewlock.net/understanding-device-bound-session-credentials/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/rickstrahl.png) <small>2026-09-14 [rickstrahl](../../blog/rickstrahl.md)</small>  
 <small>[Protecting File Access in the wwwroot Folder in ASP.NET](https://weblog.west-wind.com/posts/2026/Sep/14/Protecting-File-Access-in-the-wwwroot-Folder-in-ASPNET)</small>

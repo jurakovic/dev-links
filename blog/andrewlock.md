@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) [Andrew Lock \| .NET Escapades](https://andrewlock.net) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-24 [Invariant culture string interpolation with \[InterpolatedStringHandler\]](https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/)</small>  
 <small>2026-11-03 [Understanding Lazy&lt;T&gt; thread safety modes](https://andrewlock.net/understanding-lazy-thread-safety-modes/)</small>  
 <small>2026-10-20 [An introduction to Compact Binary Object Representation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>  
 <small>2026-10-06 [Stripping extra dependencies in .NET NativeAOT apps using linker substitutions](https://andrewlock.net/stripping-extra-dependencies-in-.net-nativeaot-apps-using-linker-substitutions/)</small>  
