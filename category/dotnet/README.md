@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-25 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Bending Aspire to your will - Build a custom resource (Part 1)](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-build.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-25 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[VS Code Tries To Catch Up with Claude & Co. in Computer Use](https://visualstudiomagazine.com/articles/2026/11/24/vs-code-tries-to-catch-up-in-computer-use.aspx)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-19 [bartwullems](../../blog/bartwullems.md)</small>  
 <small>[Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-18 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Visug XL 2026 - Bending Aspire to your will](https://bartwullems.blogspot.com/2026/11/visug-xl-2026bending-aspire-to-your-will.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>

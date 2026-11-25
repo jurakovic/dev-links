@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-25 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
+<small>[Bending Aspire to your will - Build a custom resource (Part 1)](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-build.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-25 [lucumr-pocoo](blog/lucumr-pocoo.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)</small>
 
@@ -162,9 +165,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
 <small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-18 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Visug XL 2026 - Bending Aspire to your will](https://bartwullems.blogspot.com/2026/11/visug-xl-2026bending-aspire-to-your-will.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](blog/azure-sql.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
