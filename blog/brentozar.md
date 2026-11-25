@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) [Brent Ozar](https://www.brentozar.com/blog/) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
+<small>2026-11-25 [Microsoft’s AI Skills Repo Has a Lot of Potential.](https://www.brentozar.com/archive/2026/11/microsofts-ai-skills-repo-has-a-lot-of-potential/)</small>  
 <small>2026-11-24 [What to Do When the SQL Server Keeps Crashing](https://www.brentozar.com/archive/2026/11/what-to-do-when-the-sql-server-keeps-crashing/)</small>  
 <small>2026-11-19 [Would Open-Sourcing Microsoft SQL Server Actually Fix Anything?](https://www.brentozar.com/archive/2026/11/would-open-sourcing-microsoft-sql-server-actually-fix-anything/)</small>  
 <small>2026-11-19 [\[Video\] Office Hours: Back from the PASS Summit](https://www.brentozar.com/archive/2026/11/video-office-hours-back-from-the-pass-summit/)</small>  

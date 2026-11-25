@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-25 [bencane](../../blog/bencane.md)</small>  
+<small>[If you want failover to work, use it often](https://bencane.com/posts/2026-11-25-failover-often/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-19 [bencane](../../blog/bencane.md)</small>  
 <small>[Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
@@ -39,9 +42,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/pauldix.png) <small>2026-10-26 [pauldix](../../blog/pauldix.md)</small>  
 <small>[AI is the greatest gift to every self-starter](https://pauldix.com/ai-is-the-greatest-gift-to-every-self-starter)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 [bencane](../../blog/bencane.md)</small>  
-<small>[A timeout doesn’t mean an operation failed. It means you don’t know the outcome.](https://bencane.com/posts/2026-10-21-timeout-uncertain-outcome/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-07 [martin-kleppmann](../../blog/martin-kleppmann.md)</small>  
 <small>[Announcing the Centre for Cryptographic Trust Infrastructure (CCTI)](http://martin.kleppmann.com/2026/10/07/centre-for-cryptographic-trust-infrastructure.html)</small>

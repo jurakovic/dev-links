@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-25 [tidyfirst](../../blog/tidyfirst.md)</small>  
+<small>[You Don’t Get Paid For What You Did, But For What You’re Going To Do](https://newsletter.kentbeck.com/p/you-dont-get-paid-for-what-you-did)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-23 [seangoedecke](../../blog/seangoedecke.md)</small>  
 <small>[Notes on OpenAI's perplexity reveal](https://seangoedecke.com/notes-on-openais-perplexity-reveal/)</small>
 
@@ -87,9 +90,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-30 [tidyfirst](../../blog/tidyfirst.md)</small>  
 <small>[Trust Is the Binding Constraint](https://newsletter.kentbeck.com/p/trust-is-the-binding-constraint)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-10-28 [tidyfirst](../../blog/tidyfirst.md)</small>  
-<small>[We're Renaming This Newsletter (and You Get First Word)](https://newsletter.kentbeck.com/p/were-renaming-this-newsletter-and)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/codinghorror.png) <small>2026-10-28 [codinghorror](../../blog/codinghorror.md)</small>  
 <small>[Suffering as a Feature](https://blog.codinghorror.com/suffering-as-a-feature/)</small>

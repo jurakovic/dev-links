@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Benjamin Cane](https://bencane.com) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](../category/systems-data/README.md)
 
+<small>2026-11-25 [If you want failover to work, use it often](https://bencane.com/posts/2026-11-25-failover-often/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>  
 <small>2026-11-19 [Before improving a system, decide how you’ll measure the result](https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>  
 <small>2026-11-12 [How to make technical decisions more objectively](https://bencane.com/posts/2026-11-11-objective-decision-making/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>  
 <small>2026-11-05 [Microservices can work for low-latency workloads—if you design for it](https://bencane.com/posts/2026-11-04-microservices-for-low-latency-workloads/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>  

@@ -1,5 +1,11 @@
 [
   {
+    "title": "If you want failover to work, use it often",
+    "link": "https://bencane.com/posts/2026-11-25-failover-often/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
+    "pubDate": "2026-11-25T13:00:00+00:00",
+    "date": "2026-11-25T13:00:00+00:00"
+  },
+  {
     "title": "Before improving a system, decide how you’ll measure the result",
     "link": "https://bencane.com/posts/2026-11-18-measure-to-improve/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link",
     "pubDate": "2026-11-19T00:00:00+00:00",

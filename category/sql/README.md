@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-25 [brentozar](../../blog/brentozar.md)</small>  
+<small>[Microsoft’s AI Skills Repo Has a Lot of Potential.](https://www.brentozar.com/archive/2026/11/microsofts-ai-skills-repo-has-a-lot-of-potential/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-25 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
+<small>[What's new in Azure database security: stronger encryption, simpler identity, and networking](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-azure-database-security-stronger-encryption/ba-p/4575935)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-24 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
 <small>[Give each Azure SQL database its own identity for storage access (Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/give-each-azure-sql-database-its-own-identity-for-storage-access/ba-p/4575974)</small>
 
@@ -31,9 +37,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
 <small>[Fuzzy string matching is now generally available across Microsoft SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
-<small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[New Create and Apply wizards in SSMS (Preview)](https://devblogs.microsoft.com/azure-sql/new-create-and-apply-wizards-in-ssms-preview/)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-11-16 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[Killing a tempdb killer – Part 1](https://sqlperformance.com/2026/11/tempdb/killing-a-tempdb-killer-part-1)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-13 [brentozar](../../blog/brentozar.md)</small>  
-<small>[\[Video\] Office Hours in the Backyard](https://www.brentozar.com/archive/2026/11/video-office-hours-in-the-backyard/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-13 [db-berater](../../blog/db-berater.md)</small>  
 <small>[Forced Parameterization and its Impact on Interleaved Execution](https://www.db-berater.de/2026/11/sql-server-forced-parameterization-vs-interleaved-execution/)</small>

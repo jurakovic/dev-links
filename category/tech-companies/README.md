@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-25 [stackoverflow](../../blog/stackoverflow.md)</small>  
+<small>[When AI Writes the Code, What Counts as Evidence?](https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
 <small>[Prompt Injection Fixes Need Regression Tests](https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/)</small>
 
@@ -15,9 +18,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
 <small>[Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-20 [stackoverflow](../../blog/stackoverflow.md)</small>  
-<small>[Dispatches from O'Reilly: Inside a software factory](https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-17 [github-eng](../../blog/github-eng.md)</small>  
 <small>[Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)</small>

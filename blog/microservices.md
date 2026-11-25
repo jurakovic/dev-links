@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Chris Richardson \| Microservices.io](https://microservices.io) [<kbd class="tag tag-architecture">Architecture</kbd>](../category/architecture/README.md)
 
+<small>2026-11-25 [Architecting for uncertainty - part 6: Fast flow requires fast inner and outer development loops](http://microservices.io//post/architecture/2026/11/25/architecting-for-uncertainty-part-6-fast-development-loops.html)</small>  
 <small>2026-10-22 [Architecting for uncertainty - part 5: DevOps defines how a fast-flow organization works](http://microservices.io//post/architecture/2026/10/22/architecting-for-uncertainty-part-5-devops.html)</small>  
 <small>2026-10-15 [Architecting for uncertainty - part 4: Team Topologies organizes for fast flow](http://microservices.io//post/architecture/2026/10/15/architecting-for-uncertainty-part-4-team-topologies.html)</small>  
 <small>2026-10-12 [What is a pattern, and what isn't?](http://microservices.io//post/architecture/2026/10/12/what-is-a-pattern.html)</small>  

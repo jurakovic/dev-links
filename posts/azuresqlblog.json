@@ -1,5 +1,11 @@
 [
   {
+    "title": "What's new in Azure database security: stronger encryption, simpler identity, and networking",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-azure-database-security-stronger-encryption/ba-p/4575935",
+    "pubDate": "2026-11-25T09:55:09+00:00",
+    "date": "2026-11-25T09:55:09+00:00"
+  },
+  {
     "title": "Give each Azure SQL database its own identity for storage access (Preview)",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/give-each-azure-sql-database-its-own-identity-for-storage-access/ba-p/4575974",
     "pubDate": "2026-11-23T16:41:45+00:00",

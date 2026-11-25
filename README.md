@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-25 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[When AI Writes the Code, What Counts as Evidence?](https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-25 [tidyfirst](blog/tidyfirst.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[You Don’t Get Paid For What You Did, But For What You’re Going To Do](https://newsletter.kentbeck.com/p/you-dont-get-paid-for-what-you-did)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-25 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[Microsoft’s AI Skills Repo Has a Lot of Potential.](https://www.brentozar.com/archive/2026/11/microsofts-ai-skills-repo-has-a-lot-of-potential/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-25 [bencane](blog/bencane.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
+<small>[If you want failover to work, use it often](https://bencane.com/posts/2026-11-25-failover-often/?utm_source=bengineering_feed&utm_medium=rss&utm_campaign=blog_distribution&utm_content=article_link)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-25 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[What's new in Azure database security: stronger encryption, simpler identity, and networking](https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-azure-database-security-stronger-encryption/ba-p/4575935)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-25 [microservices](blog/microservices.md) [<kbd class="tag tag-architecture">Architecture</kbd>](category/architecture/README.md)</small>  
+<small>[Architecting for uncertainty - part 6: Fast flow requires fast inner and outer development loops](http://microservices.io//post/architecture/2026/11/25/architecting-for-uncertainty-part-6-fast-development-loops.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-25 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Bending Aspire to your will - Build a custom resource (Part 1)](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-build.html)</small>
 
@@ -112,9 +130,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-20 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[AI is Changing the Cross-Platform Decision Matrix](https://devblogs.microsoft.com/dotnet/ai-cross-platform-decision-matrix/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-20 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[Dispatches from O'Reilly: Inside a software factory](https://stackoverflow.blog/2026/11/20/dispatches-from-o-reilly-inside-a-software-factory/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-20 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Bending Aspire to your will - Custom icons, URLs and a command to export your OpenAPI spec](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-custom.html)</small>
 
@@ -159,9 +174,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Fuzzy string matching is now generally available across Microsoft SQL](https://techcommunity.microsoft.com/t5/azure-sql-blog/fuzzy-string-matching-is-now-generally-available-across/ba-p/4574132)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-18 [azuresqlblog](blog/azuresqlblog.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Take control of transparent data encryption scans: suspend and resume now in preview](https://techcommunity.microsoft.com/t5/azure-sql-blog/take-control-of-transparent-data-encryption-scans-suspend-and/ba-p/4571096)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-18 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
 <small>[curl on OSS-Scanner](https://daniel.haxx.se/blog/2026/11/18/curl-on-oss-scanner/)</small>
@@ -238,9 +250,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/daverupert.png) <small>2026-11-13 [daverupert](blog/daverupert.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Conventional Commit rules everything around me](https://daverupert.com/2026/11/conventional-commit-rules-everything-around-me/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-13 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[\[Video\] Office Hours in the Backyard](https://www.brentozar.com/archive/2026/11/video-office-hours-in-the-backyard/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-13 [db-berater](blog/db-berater.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Forced Parameterization and its Impact on Interleaved Execution](https://www.db-berater.de/2026/11/sql-server-forced-parameterization-vs-interleaved-execution/)</small>
 
@@ -294,14 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](blog/third-bit.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-10 [daniel-haxx](blog/daniel-haxx.md) [<kbd class="tag tag-systems">Systems &amp; Data</kbd>](category/systems-data/README.md)</small>  
-<small>[30 years of Internet transfers with curl](https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-10 [steven-giesel](blog/steven-giesel.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[NCronJob - It got a dashboard and v5](https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-10 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Announcing .NET 11](https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

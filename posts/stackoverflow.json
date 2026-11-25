@@ -1,5 +1,11 @@
 [
   {
+    "title": "When AI Writes the Code, What Counts as Evidence?",
+    "link": "https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/",
+    "pubDate": "2026-11-25T15:59:41+00:00",
+    "date": "2026-11-25T15:59:41+00:00"
+  },
+  {
     "title": "Prompt Injection Fixes Need Regression Tests",
     "link": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/",
     "pubDate": "2026-11-24T16:24:41+00:00",

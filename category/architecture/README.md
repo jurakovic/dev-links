@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-25 [microservices](../../blog/microservices.md)</small>  
+<small>[Architecting for uncertainty - part 6: Fast flow requires fast inner and outer development loops](http://microservices.io//post/architecture/2026/11/25/architecting-for-uncertainty-part-6-fast-development-loops.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-22 [microservices](../../blog/microservices.md)</small>  
 <small>[Architecting for uncertainty - part 5: DevOps defines how a fast-flow organization works](http://microservices.io//post/architecture/2026/10/22/architecting-for-uncertainty-part-5-devops.html)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-10-04 [developertoarchitect](../../blog/developertoarchitect.md)</small>  
 <small>[Lesson 224 - Creating an Architecture Narrative (October 5, 2026)](http://www.developertoarchitect.com/lessons/lesson224.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-29 [microservices](../../blog/microservices.md)</small>  
-<small>[Architecting with LLMs and other ML models: use plain old code when you can, a model when you must](http://microservices.io//post/architecture/2026/09/29/architecting-with-llms.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/developertoarchitect.png) <small>2026-09-05 [developertoarchitect](../../blog/developertoarchitect.md)</small>  
 <small>[Lesson 223 - Approaches For Legacy Migration (September 7, 2026)](http://www.developertoarchitect.com/lessons/lesson223.html)</small>
