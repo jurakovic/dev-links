@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) [Anthropic Engineering](https://www.anthropic.com/engineering) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-25 [Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>  
 <small>2026-11-13 [Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)</small>  
 <small>2026-11-06 [The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)</small>  
 <small>2026-10-13 [Redesigning source control at Anthropic](https://www.anthropic.com/research/redesigning-source-control)</small>  

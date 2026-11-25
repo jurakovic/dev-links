@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) [Swizec Teller](https://swizec.com/blog) [<kbd class="tag tag-general">General</kbd>](../category/general/README.md)
 
+<small>2026-11-25 [Hillclimbing your prompts](https://swizec.com/blog/hillclimbing-your-prompts)</small>  
 <small>2026-11-14 [Software has no value](https://swizec.com/blog/software-has-no-value)</small>  
 <small>2026-11-07 [How do we auto-approve and merge 60% of PRs?](https://swizec.com/blog/how-do-we-auto-approve-and-merge-60p-of-prs)</small>  
 <small>2026-10-17 [No more tech debt](https://swizec.com/blog/no-more-tech-debt)</small>  
@@ -55,6 +56,5 @@
 <small>2026-01-14 [Place good startup bets](https://swizec.com/blog/place-good-startup-bets)</small>  
 <small>2026-01-10 [Small projects, clear scope](https://swizec.com/blog/small-projects-clear-scope)</small>  
 <small>2026-01-06 [A better way to end-to-end test your webapp](https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp)</small>  
-<small>2026-01-02 [2025 Year in Review](https://swizec.com/blog/2025-year-in-review)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>

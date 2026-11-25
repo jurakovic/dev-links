@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-25 [swizec](../../blog/swizec.md)</small>  
+<small>[Hillclimbing your prompts](https://swizec.com/blog/hillclimbing-your-prompts)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-25 [tidyfirst](../../blog/tidyfirst.md)</small>  
 <small>[You Don’t Get Paid For What You Did, But For What You’re Going To Do](https://newsletter.kentbeck.com/p/you-dont-get-paid-for-what-you-did)</small>
 
@@ -117,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-10-08 [swizec](../../blog/swizec.md)</small>  
 <small>[When code is cheap, judgement becomes the job](https://swizec.com/blog/when-code-is-cheap-judgement-becomes-the-job)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-09-29 [swizec](../../blog/swizec.md)</small>  
-<small>[Why I'm excited about Jev-like classifiers](https://swizec.com/blog/why-im-excited-about-jev-like-classifiers)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nooneshappy.png) <small>2026-09-28 [nooneshappy](../../blog/nooneshappy.md)</small>  
 <small>[Anthropic’s Claude Max Plans Are Misleading at Best](https://nooneshappy.com/article/anthropics-claude-max-plans-are-misleading-at-best/)</small>

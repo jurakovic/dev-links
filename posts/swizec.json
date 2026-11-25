@@ -1,5 +1,11 @@
 [
   {
+    "title": "Hillclimbing your prompts",
+    "link": "https://swizec.com/blog/hillclimbing-your-prompts",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-25T23:01:28+00:00"
+  },
+  {
     "title": "Software has no value",
     "link": "https://swizec.com/blog/software-has-no-value",
     "pubDate": "2026-11-14T00:00:00+00:00",
@@ -292,11 +298,5 @@
     "link": "https://swizec.com/blog/a-better-way-to-end-to-end-test-your-webapp",
     "pubDate": "2026-01-06T00:00:00+00:00",
     "date": "2026-01-06T00:00:00+00:00"
-  },
-  {
-    "title": "2025 Year in Review",
-    "link": "https://swizec.com/blog/2025-year-in-review",
-    "pubDate": "2026-01-02T00:00:00+00:00",
-    "date": "2026-01-02T00:00:00+00:00"
   }
 ]

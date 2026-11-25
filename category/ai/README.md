@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-25 [anthropic](../../blog/anthropic.md)</small>  
+<small>[Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-25 [lucumr-pocoo](../../blog/lucumr-pocoo.md)</small>  
 <small>[Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)</small>
 
@@ -207,9 +210,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steve-yegge.png) <small>2026-04-24 [steve-yegge](../../blog/steve-yegge.md)</small>  
 <small>[Welcome to Gas City](https://steve-yegge.medium.com/welcome-to-gas-city-57f564bb3607?source=rss-c1ec701babb7------2)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-04-23 [anthropic](../../blog/anthropic.md)</small>  
-<small>[An update on recent Claude Code quality reports](https://www.anthropic.com/research/april-23-postmortem)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-04-22 [crawshaw](../../blog/crawshaw.md)</small>  
 <small>[I am building a cloud](https://crawshaw.io/blog/building-a-cloud)</small>

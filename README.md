@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-25 [anthropic](blog/anthropic.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-25 [swizec](blog/swizec.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[Hillclimbing your prompts](https://swizec.com/blog/hillclimbing-your-prompts)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-25 [github-ai](blog/github-ai.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[How to choose the next safe step in application modernization](https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-25 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
 <small>[When AI Writes the Code, What Counts as Evidence?](https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/)</small>
 
@@ -294,14 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-11 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Tests as data: ensuring AI-generated code does what we want](https://martinfowler.com/articles/tests-as-data.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-11-11 [damienbod](blog/damienbod.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
-<small>[Migrate a GitHub repository to GitHub Enterprise](https://damienbod.com/2026/11/11/migrate-github-repository-to-github-enterprise/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-11 [chrismdp](blog/chrismdp.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[Bots Are Not People](https://www.chrismdp.com/bots-are-not-people/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-11 [third-bit](blog/third-bit.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[Intermediate Debugging Examples](https://third-bit.com/2026/11/10/intermediate-debugging-examples/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
