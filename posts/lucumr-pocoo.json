@@ -1,5 +1,11 @@
 [
   {
+    "title": "Abolish Lock Poisoning",
+    "link": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-25T05:01:36+00:00"
+  },
+  {
     "title": "AI and Irontown",
     "link": "https://lucumr.pocoo.org/2026/11/9/irontown/",
     "pubDate": "2026-11-09T00:00:00+00:00",

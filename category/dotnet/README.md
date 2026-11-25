@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-25 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
+<small>[VS Code Tries To Catch Up with Claude & Co. in Computer Use](https://visualstudiomagazine.com/articles/2026/11/24/vs-code-tries-to-catch-up-in-computer-use.aspx)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-24 [ardalis](../../blog/ardalis.md)</small>  
 <small>[Developer Docs Deserve Their Own Folder](https://ardalis.com/developer-docs-deserve-their-own-folder/)</small>
 
@@ -69,9 +72,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/ardalis.png) <small>2026-11-16 [ardalis](../../blog/ardalis.md)</small>  
 <small>[Clean Architecture with .NET - My New Book with Casey Crouse](https://ardalis.com/clean-architecture-with-dotnet-book/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-13 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
-<small>[Uno Platform 7.0 Expands .NET MAUI Reach as Studio 3.3 Adds AI Workbench](https://visualstudiomagazine.com/articles/2026/11/13/uno-platform-7-0-expands-net-maui-reach-as-studio-3-3-adds-ai-workbench.aspx)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](../../blog/visualstudio.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>

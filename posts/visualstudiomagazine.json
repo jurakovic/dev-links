@@ -1,5 +1,11 @@
 [
   {
+    "title": "VS Code Tries To Catch Up with Claude & Co. in Computer Use",
+    "link": "https://visualstudiomagazine.com/articles/2026/11/24/vs-code-tries-to-catch-up-in-computer-use.aspx",
+    "pubDate": "2026-11-24T20:00:00+00:00",
+    "date": "2026-11-25T05:01:11+00:00"
+  },
+  {
     "title": "Microsoft Foundry Ships Dev Pack, Adds Agent Network Controls at Ignite",
     "link": "https://visualstudiomagazine.com/articles/2026/11/19/whats-new-in-microsoft-foundry-at-ignite-2026.aspx",
     "pubDate": "2026-11-19T19:43:00+00:00",
@@ -292,11 +298,5 @@
     "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-brings-github-copilot-foundry-and-databases-into-sovereign-private-cloud.aspx",
     "pubDate": "2026-10-28T19:33:00+00:00",
     "date": "2026-10-28T19:33:00+00:00"
-  },
-  {
-    "title": "Microsoft Opens GitHub-Built Copilot Harness to Developers Through Foundry",
-    "link": "https://visualstudiomagazine.com/articles/2026/10/28/microsoft-opens-github-built-copilot-harness-to-developers-through-foundry.aspx",
-    "pubDate": "2026-10-28T19:18:00+00:00",
-    "date": "2026-10-28T19:18:00+00:00"
   }
 ]

@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) [Armin Ronacher \| Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-25 [Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)</small>  
 <small>2026-11-09 [AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/)</small>  
 <small>2026-10-29 [Custom Voices With Qwen3-TTS](https://lucumr.pocoo.org/2026/10/29/qwen3-custom-voices/)</small>  
 <small>2026-10-06 [What is Codemode](https://lucumr.pocoo.org/2026/10/6/codemode/)</small>  

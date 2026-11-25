@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-25 [lucumr-pocoo](../../blog/lucumr-pocoo.md)</small>  
+<small>[Abolish Lock Poisoning](https://lucumr.pocoo.org/2026/11/25/poisoning/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-11-24 [dbreunig](../../blog/dbreunig.md)</small>  
 <small>[Using AI Without Losing Your Humanity](https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html)</small>
 
@@ -18,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-23 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://simonwillison.net/2026/Nov/23/glm-54/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-19 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>
@@ -126,9 +129,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-29 [lucumr-pocoo](../../blog/lucumr-pocoo.md)</small>  
 <small>[Deser: Rethinking Rust Serialization](https://lucumr.pocoo.org/2026/9/29/deser/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-09-14 [lucumr-pocoo](../../blog/lucumr-pocoo.md)</small>  
-<small>[Interpreting Pangram](https://lucumr.pocoo.org/2026/9/14/interpreting-pangram/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seldo.png) <small>2026-09-14 [seldo](../../blog/seldo.md)</small>  
 <small>[We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now)</small>
