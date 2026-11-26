@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) [Chris Parsons](https://www.chrismdp.com/articles/) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-26 [Upgrade Yourself, Not Your AI](https://www.chrismdp.com/upgrade-yourself-not-your-ai/)</small>  
 <small>2026-11-11 [Bots Are Not People](https://www.chrismdp.com/bots-are-not-people/)</small>  
 <small>2026-11-04 [AI Has a People Problem](https://www.chrismdp.com/ai-has-a-people-problem-oredev/)</small>  
 <small>2026-10-29 [Seven AWML Findings in Yegge's Design](https://www.chrismdp.com/seven-awml-findings-in-yegges-design/)</small>  

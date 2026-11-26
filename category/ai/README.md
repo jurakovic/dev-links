@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-26 [chrismdp](../../blog/chrismdp.md)</small>  
+<small>[Upgrade Yourself, Not Your AI](https://www.chrismdp.com/upgrade-yourself-not-your-ai/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-26 [techtrenches](../../blog/techtrenches.md)</small>  
+<small>[Nobody Read the Thread](https://techtrenches.dev/p/nobody-read-the-thread)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[The New York Times warns photographers not to update Photoshop over AI features](https://simonwillison.net/2026/Nov/26/hn-50651685/)</small>
 
@@ -106,9 +112,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-10-23 [willemvandenende](../../blog/willemvandenende.md)</small>  
 <small>[I reduced the attack surface of an old Wordpress blog by shutting it down](http://willemvandenende.com/blog/engineering/reduced-the-attack-surface-of-an-old-wordpress-blog-by-shutting-it-down)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-10-21 [techtrenches](../../blog/techtrenches.md)</small>  
-<small>[Who Holds The Clock](https://techtrenches.dev/p/who-holds-the-clock)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-20 [chrismdp](../../blog/chrismdp.md)</small>  
 <small>[You Must Draw Your AI Workflow to Control It](https://www.chrismdp.com/awml/)</small>
 
@@ -117,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-10-14 [dbreunig](../../blog/dbreunig.md)</small>  
 <small>[Context Inertia: When Agents Won’t Let Go](https://www.dbreunig.com/2026/10/14/context-inertia.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-13 [chrismdp](../../blog/chrismdp.md)</small>  
-<small>[Seven AI Predictions From 1882](https://www.chrismdp.com/seven-ai-predictions-from-1882/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-10-13 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Redesigning source control at Anthropic](https://www.anthropic.com/research/redesigning-source-control)</small>

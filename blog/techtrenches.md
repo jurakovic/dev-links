@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) [Denis Stetskov \| From the Trenches](https://techtrenches.dev/archive) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-26 [Nobody Read the Thread](https://techtrenches.dev/p/nobody-read-the-thread)</small>  
 <small>2026-11-19 [22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>  
 <small>2026-11-12 [Everyone Hates AI. Half of Them Use It.](https://techtrenches.dev/p/everyone-hates-ai-half-of-them-use)</small>  
 <small>2026-11-04 [Who Checks the Boring Layer](https://techtrenches.dev/p/who-checks-the-boring-layer)</small>  
