@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[datasette-charts 0.2a1](https://simonwillison.net/2026/Nov/24/datasette-charts-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-25 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-25 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>
 
@@ -18,15 +27,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-19 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>

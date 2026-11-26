@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[datasette-charts 0.2a1](https://simonwillison.net/2026/Nov/24/datasette-charts-2/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-25 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-25 [anthropic](blog/anthropic.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>
 
@@ -79,9 +88,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-24 [brentozar](blog/brentozar.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[What to Do When the SQL Server Keeps Crashing](https://www.brentozar.com/archive/2026/11/what-to-do-when-the-sql-server-keeps-crashing/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-11-24 [andrewlock](blog/andrewlock.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Invariant culture string interpolation with \[InterpolatedStringHandler\]](https://andrewlock.net/invariant-culture-string-interpolation-with-interpolatedstringhandler/)</small>
 
@@ -90,12 +96,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
 <small>[Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[datasette-charts 0.1a0](https://simonwillison.net/2026/Nov/23/datasette-charts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](blog/simonwillison.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
-<small>[datasette-agent 0.7a1](https://simonwillison.net/2026/Nov/24/datasette-agent/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-23 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)</small>

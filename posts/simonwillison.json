@@ -1,5 +1,23 @@
 [
   {
+    "title": "datasette-charts 0.3a0",
+    "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+    "pubDate": "2026-11-25T18:16:50+00:00",
+    "date": "2026-11-26T05:01:26+00:00"
+  },
+  {
+    "title": "datasette-charts 0.2a1",
+    "link": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+    "pubDate": "2026-11-24T06:07:19+00:00",
+    "date": "2026-11-26T05:01:26+00:00"
+  },
+  {
+    "title": "Quoting Scott Aaronson",
+    "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+    "pubDate": "2026-11-25T23:26:32+00:00",
+    "date": "2026-11-25T23:26:32+00:00"
+  },
+  {
     "title": "Three LLM inflection points in twelve months",
     "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
     "pubDate": "2026-11-24T23:02:07+00:00",
@@ -280,11 +298,5 @@
     "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
     "pubDate": "2026-11-08T22:26:00+00:00",
     "date": "2026-11-08T22:26:00+00:00"
-  },
-  {
-    "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
-    "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
-    "pubDate": "2026-11-07T23:57:46+00:00",
-    "date": "2026-11-07T23:57:46+00:00"
   }
 ]

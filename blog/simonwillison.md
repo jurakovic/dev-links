@@ -6,6 +6,9 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-26 [datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>  
+<small>2026-11-26 [datasette-charts 0.2a1](https://simonwillison.net/2026/Nov/24/datasette-charts-2/)</small>  
+<small>2026-11-25 [Quoting Scott Aaronson](https://simonwillison.net/2026/Nov/25/scott-aaronson/)</small>  
 <small>2026-11-24 [Three LLM inflection points in twelve months](https://simonwillison.net/2026/Nov/24/llm-inflection-points/)</small>  
 <small>2026-11-24 [GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)</small>  
 <small>2026-11-24 [datasette-charts 0.2a0](https://simonwillison.net/2026/Nov/24/datasette-charts/)</small>  
@@ -53,6 +56,5 @@
 <small>2026-11-09 [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/)</small>  
 <small>2026-11-09 [Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;](https://simonwillison.net/2026/Nov/9/details-summary/)</small>  
 <small>2026-11-08 [parse\_number() as a SQLite extension: C vs Rust](https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/)</small>  
-<small>2026-11-07 [datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages](https://simonwillison.net/2026/Nov/7/link-rel-next/)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>
