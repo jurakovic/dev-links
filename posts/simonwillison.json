@@ -1,5 +1,11 @@
 [
   {
+    "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+    "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+    "pubDate": "2026-11-26T06:08:25+00:00",
+    "date": "2026-11-26T06:08:25+00:00"
+  },
+  {
     "title": "datasette-charts 0.3a0",
     "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
     "pubDate": "2026-11-25T18:16:50+00:00",
@@ -292,11 +298,5 @@
     "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
     "pubDate": "2026-11-09T04:25:05+00:00",
     "date": "2026-11-09T04:25:05+00:00"
-  },
-  {
-    "title": "parse_number() as a SQLite extension: C vs Rust",
-    "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-    "pubDate": "2026-11-08T22:26:00+00:00",
-    "date": "2026-11-08T22:26:00+00:00"
   }
 ]

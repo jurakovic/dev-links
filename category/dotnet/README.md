@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-26 [bartwullems](../../blog/bartwullems.md)</small>  
+<small>[Bending Aspire to your will - Build a custom resource (Part 2)](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-build_0744808552.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-25 [bartwullems](../../blog/bartwullems.md)</small>  
 <small>[Bending Aspire to your will - Build a custom resource (Part 1)](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-build.html)</small>
 
@@ -51,9 +54,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-19 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Foundry Ships Dev Pack, Adds Agent Network Controls at Ignite](https://visualstudiomagazine.com/articles/2026/11/19/whats-new-in-microsoft-foundry-at-ignite-2026.aspx)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-19 [bartwullems](../../blog/bartwullems.md)</small>  
-<small>[Visug XL 2026 - Bending Aspire to your will - Q&A](https://bartwullems.blogspot.com/2026/11/visug-xl-2026-bending-aspire-to-your.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/visualstudiomagazine.png) <small>2026-11-17 [visualstudiomagazine](../../blog/visualstudiomagazine.md)</small>  
 <small>[Microsoft Gives AI Agents More Control Over Azure Infrastructure](https://visualstudiomagazine.com/articles/2026/11/17/microsoft-gives-ai-agents-more-control-over-azure-infrastructure.aspx)</small>

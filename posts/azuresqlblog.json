@@ -1,5 +1,11 @@
 [
   {
+    "title": "AI-assisted Query Performance Tuning comes to SSMS GitHub Copilot Agent mode (in Preview)",
+    "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/ai-assisted-query-performance-tuning-comes-to-ssms-github/ba-p/4575811",
+    "pubDate": "2026-11-25T16:53:03+00:00",
+    "date": "2026-11-26T11:01:15+00:00"
+  },
+  {
     "title": "What's new in Azure database security: stronger encryption, simpler identity, and networking",
     "link": "https://techcommunity.microsoft.com/t5/azure-sql-blog/what-s-new-in-azure-database-security-stronger-encryption/ba-p/4575935",
     "pubDate": "2026-11-25T09:55:09+00:00",

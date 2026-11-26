@@ -4,6 +4,24 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-26 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
+<small>[Anchored Structured Context Compaction](https://agentic-patterns.com/patterns/anchored-structured-context-compaction)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-26 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
+<small>[Debiased LLM-as-a-Judge Evaluation](https://agentic-patterns.com/patterns/debiased-llm-as-a-judge-evaluation)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-26 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
+<small>[Delegated User Authorization (OAuth Token Exchange)](https://agentic-patterns.com/patterns/delegated-user-auth-token-exchange)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-26 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
+<small>[Dual LLM Pattern](https://agentic-patterns.com/patterns/dual-llm-pattern)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-26 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
+<small>[Dual-Speed Realtime Architecture (Talker-Reasoner)](https://agentic-patterns.com/patterns/dual-speed-talker-reasoner-architecture)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[sqlite3\_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>
 
@@ -25,9 +43,6 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-11-24 [dbreunig](../../blog/dbreunig.md)</small>  
 <small>[Using AI Without Losing Your Humanity](https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-24 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[GPT 6.2 Astra Solves a Historical Mystery](https://simonwillison.net/2026/Nov/24/astra-historical-mystery/)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-19 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[22 Cents on the Dollar](https://techtrenches.dev/p/22-cents-on-the-dollar)</small>
 
@@ -36,9 +51,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-13 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Building strong safety evaluations](https://www.anthropic.com/research/building-strong-safety-evaluations)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-13 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
-<small>[Shared Core with Native Shells](https://agentic-patterns.com/patterns/shared-core-native-shells)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-12 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[Everyone Hates AI. Half of Them Use It.](https://techtrenches.dev/p/everyone-hates-ai-half-of-them-use)</small>
@@ -49,17 +61,11 @@
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lucumr-pocoo.png) <small>2026-11-09 [lucumr-pocoo](../../blog/lucumr-pocoo.md)</small>  
 <small>[AI and Irontown](https://lucumr.pocoo.org/2026/11/9/irontown/)</small>
 
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-08 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
-<small>[Credential-Free Outbox](https://agentic-patterns.com/patterns/credential-free-outbox)</small>
-
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-06 [anthropic](../../blog/anthropic.md)</small>  
 <small>[The components of agent memory](https://www.anthropic.com/research/components-of-agent-memory)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-06 [willemvandenende](../../blog/willemvandenende.md)</small>  
 <small>[Is Planned Obsolescence in Electronic Music Hardware going the way of the Dodo?](http://willemvandenende.com/blog/engineering/is-planned-obsolescence-in-electronic-music-hardware-going-the-way-of-the-dodo)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-11-06 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
-<small>[Human-in-the-Loop Approval Framework](https://agentic-patterns.com/patterns/human-in-loop-approval-framework)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/techtrenches.png) <small>2026-11-04 [techtrenches](../../blog/techtrenches.md)</small>  
 <small>[Who Checks the Boring Layer](https://techtrenches.dev/p/who-checks-the-boring-layer)</small>
@@ -105,12 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-20 [chrismdp](../../blog/chrismdp.md)</small>  
 <small>[You Must Draw Your AI Workflow to Control It](https://www.chrismdp.com/awml/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-10-20 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
-<small>[Intent-Level Cost Attribution](https://agentic-patterns.com/patterns/intent-level-cost-attribution)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/agentic-patterns.png) <small>2026-10-17 [agentic-patterns](../../blog/agentic-patterns.md)</small>  
-<small>[Fleet Cost Simulation Before Dispatch](https://agentic-patterns.com/patterns/fleet-cost-simulation-before-dispatch)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/nikiforovall.png) <small>2026-10-17 [nikiforovall](../../blog/nikiforovall.md)</small>  
 <small>[Noisy Neighbors and Adaptive Rate Limiting in .NET](https://nikiforovall.blog/dotnet/2026/10/17/noisy-neighbor-adaptive-rate-limiting.html)</small>

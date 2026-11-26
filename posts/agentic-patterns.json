@@ -1,5 +1,107 @@
 [
   {
+    "title": "Anchored Structured Context Compaction",
+    "link": "https://agentic-patterns.com/patterns/anchored-structured-context-compaction",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Debiased LLM-as-a-Judge Evaluation",
+    "link": "https://agentic-patterns.com/patterns/debiased-llm-as-a-judge-evaluation",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Delegated User Authorization (OAuth Token Exchange)",
+    "link": "https://agentic-patterns.com/patterns/delegated-user-auth-token-exchange",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Dual LLM Pattern",
+    "link": "https://agentic-patterns.com/patterns/dual-llm-pattern",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Dual-Speed Realtime Architecture (Talker-Reasoner)",
+    "link": "https://agentic-patterns.com/patterns/dual-speed-talker-reasoner-architecture",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Durable Execution & Step Checkpointing",
+    "link": "https://agentic-patterns.com/patterns/durable-execution-step-checkpointing",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Episodic Memory Retrieval & Injection",
+    "link": "https://agentic-patterns.com/patterns/episodic-memory-retrieval-injection",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Explicit Posterior-Sampling Planner",
+    "link": "https://agentic-patterns.com/patterns/explicit-posterior-sampling-planner",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Hybrid GUI & Visual Grounding",
+    "link": "https://agentic-patterns.com/patterns/hybrid-gui-visual-grounding",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "LLM Map-Reduce Pattern",
+    "link": "https://agentic-patterns.com/patterns/llm-map-reduce-pattern",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Memory Consolidation, Decay & Contradiction Resolution",
+    "link": "https://agentic-patterns.com/patterns/memory-consolidation-decay-contradiction",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Milestone Escrow for Agent Resource Funding",
+    "link": "https://agentic-patterns.com/patterns/milestone-escrow-agent-funding",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Multi-Tenant Agent & Memory Isolation",
+    "link": "https://agentic-patterns.com/patterns/multi-tenant-agent-isolation",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Reflection Loop",
+    "link": "https://agentic-patterns.com/patterns/reflection",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Trajectory & State-Invariant Evaluation",
+    "link": "https://agentic-patterns.com/patterns/trajectory-and-state-invariant-evaluation",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Versioned Constitution Governance",
+    "link": "https://agentic-patterns.com/patterns/versioned-constitution-governance",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
+    "title": "Voice Agent Turn-Taking & Barge-In Handling",
+    "link": "https://agentic-patterns.com/patterns/voice-agent-turn-taking-barge-in",
+    "pubDate": "2026-11-25T00:00:00+00:00",
+    "date": "2026-11-26T11:01:52+00:00"
+  },
+  {
     "title": "Shared Core with Native Shells",
     "link": "https://agentic-patterns.com/patterns/shared-core-native-shells",
     "pubDate": "2026-11-13T00:00:00+00:00",
@@ -46,6 +148,24 @@
     "link": "https://agentic-patterns.com/patterns/fair-share-task-queues-with-heartbeat-leases",
     "pubDate": "2026-10-14T00:00:00+00:00",
     "date": "2026-10-14T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-Driven Research",
+    "link": "https://agentic-patterns.com/patterns/agent-driven-research",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-First Tool Discovery",
+    "link": "https://agentic-patterns.com/patterns/agent-first-tool-discovery",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
+  },
+  {
+    "title": "Agent-First Tooling and Logging",
+    "link": "https://agentic-patterns.com/patterns/agent-first-tooling-and-logging",
+    "pubDate": "2026-10-13T00:00:00+00:00",
+    "date": "2026-10-13T00:00:00+00:00"
   },
   {
     "title": "Abstracted Code Representation for Review",
@@ -98,24 +218,6 @@
   {
     "title": "Agent-Assisted Scaffolding",
     "link": "https://agentic-patterns.com/patterns/agent-assisted-scaffolding",
-    "pubDate": "2026-10-13T00:00:00+00:00",
-    "date": "2026-10-13T00:00:00+00:00"
-  },
-  {
-    "title": "Agent-Driven Research",
-    "link": "https://agentic-patterns.com/patterns/agent-driven-research",
-    "pubDate": "2026-10-13T00:00:00+00:00",
-    "date": "2026-10-13T00:00:00+00:00"
-  },
-  {
-    "title": "Agent-First Tool Discovery",
-    "link": "https://agentic-patterns.com/patterns/agent-first-tool-discovery",
-    "pubDate": "2026-10-13T00:00:00+00:00",
-    "date": "2026-10-13T00:00:00+00:00"
-  },
-  {
-    "title": "Agent-First Tooling and Logging",
-    "link": "https://agentic-patterns.com/patterns/agent-first-tooling-and-logging",
     "pubDate": "2026-10-13T00:00:00+00:00",
     "date": "2026-10-13T00:00:00+00:00"
   }
