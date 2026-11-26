@@ -1,5 +1,17 @@
 [
   {
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+    "pubDate": "2026-11-26T05:08:46+00:00",
+    "date": "2026-11-26T17:01:22+00:00"
+  },
+  {
+    "title": "Quoting Jack Despain Zhou",
+    "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+    "pubDate": "2026-11-26T15:09:31+00:00",
+    "date": "2026-11-26T15:09:31+00:00"
+  },
+  {
     "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
     "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
     "pubDate": "2026-11-26T06:08:25+00:00",
@@ -286,17 +298,5 @@
     "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
     "pubDate": "2026-11-09T23:57:21+00:00",
     "date": "2026-11-09T23:57:21+00:00"
-  },
-  {
-    "title": "The Web Is More Than Enough, by Paul Ford",
-    "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
-    "pubDate": "2026-11-09T04:32:33+00:00",
-    "date": "2026-11-09T04:32:33+00:00"
-  },
-  {
-    "title": "Hide your slop PR descriptions behind <details><summary>",
-    "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
-    "pubDate": "2026-11-09T04:25:05+00:00",
-    "date": "2026-11-09T04:25:05+00:00"
   }
 ]

@@ -6,6 +6,8 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) [Simon Willison](https://simonwillison.net) [<kbd class="tag tag-ai">AI</kbd>](../category/ai/README.md)
 
+<small>2026-11-26 [The New York Times warns photographers not to update Photoshop over AI features](https://simonwillison.net/2026/Nov/26/hn-50651685/)</small>  
+<small>2026-11-26 [Quoting Jack Despain Zhou](https://simonwillison.net/2026/Nov/26/jack-despain-zhou/)</small>  
 <small>2026-11-26 [sqlite3\_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/)</small>  
 <small>2026-11-26 [datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>  
 <small>2026-11-26 [datasette-charts 0.2a1](https://simonwillison.net/2026/Nov/24/datasette-charts-2/)</small>  
@@ -54,7 +56,5 @@
 <small>2026-11-10 [Yonkers Rises](https://simonwillison.net/2026/Nov/10/yonkers-rises/)</small>  
 <small>2026-11-09 [llm-anthropic 0.31](https://simonwillison.net/2026/Nov/9/llm-anthropic/)</small>  
 <small>2026-11-09 [Locating the source of a mysterious beep with Claude](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)</small>  
-<small>2026-11-09 [The Web Is More Than Enough, by Paul Ford](https://simonwillison.net/2026/Nov/9/hn-50421091/)</small>  
-<small>2026-11-09 [Hide your slop PR descriptions behind &lt;details&gt;&lt;summary&gt;](https://simonwillison.net/2026/Nov/9/details-summary/)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>

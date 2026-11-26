@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-26 [brentozar](../../blog/brentozar.md)</small>  
+<small>[\[Video\] Office Hours: Reflecting on Microsoft Ignite from Cabo](https://www.brentozar.com/archive/2026/11/video-office-hours-reflecting-on-microsoft-ignite-from-cabo/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-26 [azuresqlblog](../../blog/azuresqlblog.md)</small>  
 <small>[AI-assisted Query Performance Tuning comes to SSMS GitHub Copilot Agent mode (in Preview)](https://techcommunity.microsoft.com/t5/azure-sql-blog/ai-assisted-query-performance-tuning-comes-to-ssms-github/ba-p/4575811)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[MSSQL Extension for VS Code: Local Azure SQL Database Provisioning, Query Performance Dashboard, and more](https://devblogs.microsoft.com/azure-sql/vscode-mssql-november2026/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-17 [brentozar](../../blog/brentozar.md)</small>  
-<small>[Make Your Nightly ETL Faster with TABLOCKX](https://www.brentozar.com/archive/2026/11/make-your-nightly-etl-faster-with-tablockx/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-17 [azure-sql](../../blog/azure-sql.md)</small>  
 <small>[What’s new across Microsoft SQL at Microsoft Ignite 2026](https://devblogs.microsoft.com/azure-sql/whats-new-across-microsoft-sql-at-microsoft-ignite-2026/)</small>
