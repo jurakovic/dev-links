@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) [Erik Ejlskov Jensen \| .NET Data Access and more](https://erikej.github.io) [<kbd class="tag tag-sql">SQL Server</kbd>](../category/sql/README.md)
 
+<small>2026-11-27 [T-SQL Analyzer: From getting started to deep dives - 2 new rules and a try-out web site](https://erikej.github.io/sqlserver/dacfx/codeanalysis/2026/11/27/tsql-analyzer-rules-demo.html)</small>  
 <small>2026-10-16 [sqlpackage can now skip Windows users and other Azure incompatible objects when exporting a .bacpac](https://erikej.github.io/dacfx/sqlserver/sqlpackage/sqldb/2026/10/16/sqlpackage-bacpac-exclude-incompatible.html)</small>  
 <small>2026-10-15 [From .sqlproj to production: generate a well documented Azure DevOps pipeline for your SQL Database Project](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/azuredevops/2026/10/15/sqlproject-azure-devops-pipeline.html)</small>  
 <small>2026-10-08 [The SQL Project preplan script - the missing step in DACPAC publishing](https://erikej.github.io/dotnet/dacfx/sqlserver/sqlpackage/2026/10/08/sql-project-preplan.html)</small>  

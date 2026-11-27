@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-27 [erikej](../../blog/erikej.md)</small>  
+<small>[T-SQL Analyzer: From getting started to deep dives - 2 new rules and a try-out web site](https://erikej.github.io/sqlserver/dacfx/codeanalysis/2026/11/27/tsql-analyzer-rules-demo.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/brentozar.png) <small>2026-11-26 [brentozar](../../blog/brentozar.md)</small>  
 <small>[\[Video\] Office Hours: Reflecting on Microsoft Ignite from Cabo](https://www.brentozar.com/archive/2026/11/video-office-hours-reflecting-on-microsoft-ignite-from-cabo/)</small>
 
@@ -108,9 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-09-08 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[T-SQL Tuesday #202 : The Outage(s) I Won't Forget](https://sqlperformance.com/2026/09/sql-performance/t-sql-tuesday-202-memorable-outages)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-09-04 [erikej](../../blog/erikej.md)</small>  
-<small>[The SSMS extension ecosystem is growing up: list, acquire and maintain extensions with ease](https://erikej.github.io/ssms/sqlserver/extensions/2026/09/04/ssms-extension-ecosystem.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/sqlperformance.png) <small>2026-08-24 [sqlperformance](../../blog/sqlperformance.md)</small>  
 <small>[Dirty Reads, Permanent Damage](https://sqlperformance.com/2026/08/sql-performance/dirty-reads-permanent-damage)</small>

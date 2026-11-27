@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) [The Stack Overflow Blog](https://stackoverflow.blog) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](../category/tech-companies/README.md)
 
+<small>2026-11-27 [Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/)</small>  
 <small>2026-11-25 [When AI Writes the Code, What Counts as Evidence?](https://stackoverflow.blog/2026/11/25/when-ai-writes-the-code-what-counts-as-evidence/)</small>  
 <small>2026-11-24 [Prompt Injection Fixes Need Regression Tests](https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/)</small>  
 <small>2026-11-24 [Idempotency when you don't control the other end](https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/)</small>  

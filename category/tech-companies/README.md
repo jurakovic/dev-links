@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-27 [stackoverflow](../../blog/stackoverflow.md)</small>  
+<small>[Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-25 [github-ai](../../blog/github-ai.md)</small>  
 <small>[How to choose the next safe step in application modernization](https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/)</small>
 
@@ -18,9 +21,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
 <small>[A Reboot Is Still a Deployment](https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](../../blog/stackoverflow.md)</small>  
-<small>[Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/github.png) <small>2026-11-17 [github-eng](../../blog/github-eng.md)</small>  
 <small>[Building the Agent Host Protocol for sessions that continue across devices](https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/)</small>

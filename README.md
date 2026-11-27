@@ -4,6 +4,15 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-27 [erikej](blog/erikej.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
+<small>[T-SQL Analyzer: From getting started to deep dives - 2 new rules and a try-out web site](https://erikej.github.io/sqlserver/dacfx/codeanalysis/2026/11/27/tsql-analyzer-rules-demo.html)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-27 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
+<small>[Sandboxes, secure inference, and keeping agents from going rogue](https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-27 [steven-giesel](blog/steven-giesel.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
+<small>[Goodbye Mono](https://steven-giesel.com/blogPost/cd3bea5c-899a-49b0-83cb-48b626d043bd)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-27 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/)</small>
 
@@ -129,9 +138,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-24 [bartwullems](blog/bartwullems.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Bending Aspire to your will - Reset your application state with one command](https://bartwullems.blogspot.com/2026/11/bending-aspire-to-your-will-reset-your.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/stackoverflow.png) <small>2026-11-24 [stackoverflow](blog/stackoverflow.md) [<kbd class="tag tag-tech-companies">Tech Companies</kbd>](category/tech-companies/README.md)</small>  
-<small>[Agent swarms need more than a message board](https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-23 [dotnet](blog/dotnet.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Run local models in your .NET apps with Llama on Windows](https://devblogs.microsoft.com/dotnet/local-models-dotnet-llama-windows/)</small>
@@ -297,11 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-12 [db-berater](blog/db-berater.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing](https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/martinfowler.png) <small>2026-11-12 [martinfowler](blog/martinfowler.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[Bliki: Generated Glossary](https://martinfowler.com/bliki/GeneratedGlossary.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/tidyfirst.png) <small>2026-11-12 [tidyfirst](blog/tidyfirst.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[“Toil” is Contextual](https://newsletter.kentbeck.com/p/toil-is-contextual)</small>
 
 <sub><a href="#top">↑ Top</a></sub>

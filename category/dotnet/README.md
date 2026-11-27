@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-11-27 [steven-giesel](../../blog/steven-giesel.md)</small>  
+<small>[Goodbye Mono](https://steven-giesel.com/blogPost/cd3bea5c-899a-49b0-83cb-48b626d043bd)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blogspot.png) <small>2026-11-26 [bartwullems](../../blog/bartwullems.md)</small>  
 <small>[Delay new NuGet package versions with minimum package publish age](https://bartwullems.blogspot.com/2026/11/delay-new-nuget-package-versions-with.html)</small>
 
@@ -117,9 +120,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/andrewlock.png) <small>2026-10-20 [andrewlock](../../blog/andrewlock.md)</small>  
 <small>[An introduction to Compact Binary Object Representation (CBOR) in .NET](https://andrewlock.net/an-introduction-to-compact-binary-object-notation-in-dotnet/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) <small>2026-10-20 [steven-giesel](../../blog/steven-giesel.md)</small>  
-<small>[A personal note: I built a running App for iOS and watchOS](https://steven-giesel.com/blogPost/38a0d0f4-e9ff-4947-a05c-527af68b6cd1)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/damienbod.png) <small>2026-10-12 [damienbod](../../blog/damienbod.md)</small>  
 <small>[Use multiple schemes in an ASP.NET Core Web application](https://damienbod.com/2026/10/12/use-multiple-schemes-in-an-asp-net-core-web-application/)</small>

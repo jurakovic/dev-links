@@ -6,6 +6,7 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/steven-giesel.png) [Steven Giesel](https://steven-giesel.com/archive) [<kbd class="tag tag-net">.NET</kbd>](../category/dotnet/README.md)
 
+<small>2026-11-27 [Goodbye Mono](https://steven-giesel.com/blogPost/cd3bea5c-899a-49b0-83cb-48b626d043bd)</small>  
 <small>2026-11-10 [NCronJob - It got a dashboard and v5](https://steven-giesel.com/blogPost/ce7d36fb-3174-4d33-95e0-4a36cd2e6daf)</small>  
 <small>2026-11-08 [What happens to a method that awaits forever?](https://steven-giesel.com/blogPost/bb0a8fdf-5cf6-481a-9d0d-7dc7578357a4)</small>  
 <small>2026-10-28 [Goldfish in Claude](https://steven-giesel.com/blogPost/3a583eb3-fd7a-47f0-a45c-1818f6a33b0d)</small>  
@@ -55,6 +56,5 @@
 <small>2025-08-18 [Two more LINQ extensions in dotnet 10](https://steven-giesel.com/blogPost/5d88d808-03ac-431a-82fa-756b59b38a7d)</small>  
 <small>2025-08-11 [How to not return all properties in SqlRaw](https://steven-giesel.com/blogPost/c6bea409-9e49-4915-8529-8a8a8574ba80)</small>  
 <small>2025-08-04 [Disabling thread safety check in Entity Framework](https://steven-giesel.com/blogPost/f1c14e0f-840c-4dd6-921c-364298a35d6f)</small>  
-<small>2025-07-28 [Using Architecture Tests for CancellationTokens and sealed classes](https://steven-giesel.com/blogPost/feac44f3-2c6e-4994-80c3-e2a17efbb8f3)</small>  
 
 <sub><a href="#top">↑ Top</a></sub>
