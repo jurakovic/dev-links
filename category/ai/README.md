@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-11-27 [dbreunig](../../blog/dbreunig.md)</small>  
+<small>[Proactivity Can Read as Sabotage](https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-27 [willemvandenende](../../blog/willemvandenende.md)</small>  
 <small>[Sanitising an existing git repository before publishing](http://willemvandenende.com/blog/engineering/sanitising-an-existing-git-repository-before-publishing)</small>
 
@@ -147,9 +150,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-09-07 [dbreunig](../../blog/dbreunig.md)</small>  
 <small>[What We Can Learn from Claude’s Fable 5.1 System Prompt](https://www.dbreunig.com/2026/09/07/what-we-can-learn-from-claude-s-fable-5-1-system-prompt.html)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-08-31 [dbreunig](../../blog/dbreunig.md)</small>  
-<small>[Who Taught the Models to Do That?](https://www.dbreunig.com/2026/08/30/who-taught-the-models-to-do-that.html)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/addyosmani.png) <small>2026-08-31 [addyosmani](../../blog/addyosmani.md)</small>  
 <small>[Agentic Skill Decay](https://addyosmani.com/blog/agentic-skill-decay/)</small>

@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-27 [lethain](../../blog/lethain.md)</small>  
+<small>[Shaping the industry through independent reproduction of results within our companies](https://lethain.com/independent-reproduction-of-results/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-11-22 [lethain](../../blog/lethain.md)</small>  
 <small>[Shipping 100+ PRs to production in a week](https://lethain.com/passing-100-prs-in-a-week/)</small>
 
@@ -21,9 +24,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-10-02 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[The Brain Sandwich](https://terriblesoftware.org/2026/10/02/the-brain-sandwich/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/lethain.png) <small>2026-09-20 [lethain](../../blog/lethain.md)</small>  
-<small>[Trying the Software Factory pattern.](https://lethain.com/software-factory-experiment/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/terriblesoftware.png) <small>2026-09-10 [terriblesoftware](../../blog/terriblesoftware.md)</small>  
 <small>[AI Is Breaking This Thing We Call Trust](https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/)</small>
