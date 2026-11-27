@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-27 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
+<small>[Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-26 [chrismdp](blog/chrismdp.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
 <small>[Upgrade Yourself, Not Your AI](https://www.chrismdp.com/upgrade-yourself-not-your-ai/)</small>
 
@@ -267,9 +270,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-14 [swizec](blog/swizec.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Software has no value](https://swizec.com/blog/software-has-no-value)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-14 [seangoedecke](blog/seangoedecke.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
-<small>[How to find meaning in large tech companies](https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-14 [third-bit](blog/third-bit.md) [<kbd class="tag tag-general">General</kbd>](category/general/README.md)</small>  
 <small>[Rationalizing the Command Line](https://third-bit.com/2026/11/13/rationalizing-the-command-line/)</small>

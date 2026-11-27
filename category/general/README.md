@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-27 [seangoedecke](../../blog/seangoedecke.md)</small>  
+<small>[Who gets to decide if something is written by AI?](https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-25 [swizec](../../blog/swizec.md)</small>  
 <small>[Hillclimbing your prompts](https://swizec.com/blog/hillclimbing-your-prompts)</small>
 
@@ -45,9 +48,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/swizec.png) <small>2026-11-14 [swizec](../../blog/swizec.md)</small>  
 <small>[Software has no value](https://swizec.com/blog/software-has-no-value)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/seangoedecke.png) <small>2026-11-14 [seangoedecke](../../blog/seangoedecke.md)</small>  
-<small>[How to find meaning in large tech companies](https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/third-bit.png) <small>2026-11-14 [third-bit](../../blog/third-bit.md)</small>  
 <small>[Rationalizing the Command Line](https://third-bit.com/2026/11/13/rationalizing-the-command-line/)</small>
