@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-27 [willemvandenende](../../blog/willemvandenende.md)</small>  
+<small>[Sanitising an existing git repository before publishing](http://willemvandenende.com/blog/engineering/sanitising-an-existing-git-repository-before-publishing)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-11-26 [chrismdp](../../blog/chrismdp.md)</small>  
 <small>[Upgrade Yourself, Not Your AI](https://www.chrismdp.com/upgrade-yourself-not-your-ai/)</small>
 
@@ -108,9 +111,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-10-24 [brethorsting](../../blog/brethorsting.md)</small>  
 <small>[We Are All in the C-Suite Now](https://www.brethorsting.com/blog/2026/10/we-are-all-in-the-c-suite-now/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-10-23 [willemvandenende](../../blog/willemvandenende.md)</small>  
-<small>[I reduced the attack surface of an old Wordpress blog by shutting it down](http://willemvandenende.com/blog/engineering/reduced-the-attack-surface-of-an-old-wordpress-blog-by-shutting-it-down)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/chrismdp.png) <small>2026-10-20 [chrismdp](../../blog/chrismdp.md)</small>  
 <small>[You Must Draw Your AI Workflow to Control It](https://www.chrismdp.com/awml/)</small>

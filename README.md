@@ -4,6 +4,9 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/willemvandenende.png) <small>2026-11-27 [willemvandenende](blog/willemvandenende.md) [<kbd class="tag tag-ai">AI</kbd>](category/ai/README.md)</small>  
+<small>[Sanitising an existing git repository before publishing](http://willemvandenende.com/blog/engineering/sanitising-an-existing-git-repository-before-publishing)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/blank.png) <small>2026-11-27 [erikej](blog/erikej.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
 <small>[T-SQL Analyzer: From getting started to deep dives - 2 new rules and a try-out web site](https://erikej.github.io/sqlserver/dacfx/codeanalysis/2026/11/27/tsql-analyzer-rules-demo.html)</small>
 
@@ -300,8 +303,5 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/microsoft.png) <small>2026-11-12 [visualstudio](blog/visualstudio.md) [<kbd class="tag tag-net">.NET</kbd>](category/dotnet/README.md)</small>  
 <small>[Build better applications with Bold BI, a Visual Studio subscriber benefit from Syncfusion](https://devblogs.microsoft.com/visualstudio/build-better-applications-with-bold-bi-a-visual-studio-subscriber-benefit-from-syncfusion/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/db-berater.png) <small>2026-11-12 [db-berater](blog/db-berater.md) [<kbd class="tag tag-sql">SQL Server</kbd>](category/sql/README.md)</small>  
-<small>[Why I Don’t Use Query Hints Before Understanding What the Optimizer Is Doing](https://www.db-berater.de/2026/11/optimize-for-unknown-and-interleaved-execution-an-unexpected-interaction/)</small>
 
 <sub><a href="#top">↑ Top</a></sub>
