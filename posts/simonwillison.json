@@ -1,5 +1,17 @@
 [
   {
+    "title": "datasette-mcp 0.4",
+    "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+    "pubDate": "2026-11-27T00:26:17+00:00",
+    "date": "2026-11-28T05:01:18+00:00"
+  },
+  {
+    "title": "datasette-charts 0.4a0",
+    "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+    "pubDate": "2026-11-27T23:57:17+00:00",
+    "date": "2026-11-27T23:57:17+00:00"
+  },
+  {
     "title": "The New York Times warns photographers not to update Photoshop over AI features",
     "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
     "pubDate": "2026-11-26T05:08:46+00:00",
@@ -286,17 +298,5 @@
     "link": "https://simonwillison.net/2026/Nov/10/yonkers-rises/",
     "pubDate": "2026-11-10T03:53:04+00:00",
     "date": "2026-11-10T03:53:04+00:00"
-  },
-  {
-    "title": "llm-anthropic 0.31",
-    "link": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-    "pubDate": "2026-11-09T23:58:46+00:00",
-    "date": "2026-11-09T23:58:46+00:00"
-  },
-  {
-    "title": "Locating the source of a mysterious beep with Claude",
-    "link": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-    "pubDate": "2026-11-09T23:57:21+00:00",
-    "date": "2026-11-09T23:57:21+00:00"
   }
 ]

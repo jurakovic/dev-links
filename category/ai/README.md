@@ -4,6 +4,12 @@
 
 * * *
 
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-28 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[datasette-mcp 0.4](https://simonwillison.net/2026/Nov/27/datasette-mcp/)</small>
+
+![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-27 [simonwillison](../../blog/simonwillison.md)</small>  
+<small>[datasette-charts 0.4a0](https://simonwillison.net/2026/Nov/27/datasette-charts/)</small>
+
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/dbreunig.png) <small>2026-11-27 [dbreunig](../../blog/dbreunig.md)</small>  
 <small>[Proactivity Can Read as Sabotage](https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html)</small>
 
@@ -39,12 +45,6 @@
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
 <small>[sqlite3\_rsync: Database Remote-Copy Tool For SQLite](https://simonwillison.net/2026/Nov/26/sqlite3-rsync/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[datasette-charts 0.3a0](https://simonwillison.net/2026/Nov/25/datasette-charts/)</small>
-
-![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/simonwillison.png) <small>2026-11-26 [simonwillison](../../blog/simonwillison.md)</small>  
-<small>[datasette-charts 0.2a1](https://simonwillison.net/2026/Nov/24/datasette-charts-2/)</small>
 
 ![icon](https://raw.githubusercontent.com/jurakovic/dev-links/refs/heads/master/favicons/anthropic.png) <small>2026-11-25 [anthropic](../../blog/anthropic.md)</small>  
 <small>[Migrating our Messages API to Rust](https://www.anthropic.com/research/migrating-api-to-rust)</small>
